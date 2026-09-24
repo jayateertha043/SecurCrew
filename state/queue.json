@@ -5717,6 +5717,199 @@
         "#research"
       ],
       "title": "Making desync attacks easy with TRACE"
+    },
+    {
+      "added_at": 1790262074.7075453,
+      "ai": false,
+      "id": "f021346e5266d30fe791fcbaa8b32f57070d30fe",
+      "link": "https://www.infosecurity-magazine.com/news/ransomware-gang-uses-backup/",
+      "published": 1790262000.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "Ransom notes by n0n ransomware claim to take double extortion to a new level of danger for victims",
+      "tags": [],
+      "title": "Emerging Ransomware Gang Uses Backup Destruction Threats to Pressure Victims"
+    },
+    {
+      "added_at": 1790262074.7075453,
+      "ai": false,
+      "id": "b601a1e6e30a893ca8fa911596fa7e11dc02fafa",
+      "link": "https://portswigger.net/research/using-form-hijacking-to-bypass-csp",
+      "published": 1709650500.0,
+      "source": "PortSwigger Research",
+      "summary": "In this post we'll show you how to bypass CSP by using an often overlooked technique that can enable password theft in a seemingly secure configuration. What is form hijacking? Form hijacking isn't re",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Using form hijacking to bypass CSP"
+    },
+    {
+      "added_at": 1790262074.7075453,
+      "ai": false,
+      "id": "90e39bef12cfabe45ab0d80f822ced219ca5c52d",
+      "link": "https://portswigger.net/research/hiding-payloads-in-java-source-code-strings",
+      "published": 1706022000.0,
+      "source": "PortSwigger Research",
+      "summary": "In this post we'll show you how Java handles unicode escapes in source code strings in a way you might find surprising - and how you can abuse them to conceal payloads. We recently released a powerful",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Hiding payloads in Java source code strings"
+    },
+    {
+      "added_at": 1790262074.7075453,
+      "ai": false,
+      "id": "80364be63be75b7d462c22521767fceb862da6c5",
+      "link": "https://blog.assetnote.io/2024/01/19/ivanti-pulse-connect-secure-auth-bypass-rce/",
+      "published": 1705582800.0,
+      "source": "Assetnote",
+      "summary": "",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "High Signal Detection and Exploitation of Ivanti's Pulse Connect Secure Auth Bypass & RCE"
+    },
+    {
+      "added_at": 1790262074.7075453,
+      "ai": false,
+      "id": "31c2239c9478364eea59882d12ec19b094e1fe10",
+      "link": "https://portswigger.net/research/top-10-web-hacking-techniques-of-2023-nominations-open",
+      "published": 1704810830.0,
+      "source": "PortSwigger Research",
+      "summary": "Update: The results are in! Check out the final top ten here or scroll down to view all nominations Over the last year, numerous security researchers have shared their discoveries with the community t",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Top 10 web hacking techniques of 2023 - nominations open"
+    },
+    {
+      "added_at": 1790262074.7075453,
+      "ai": false,
+      "id": "628a6d7c0f13861d1477647e5478bc7093c3b38a",
+      "link": "https://blog.assetnote.io/2023/10/24/citrixbleed-CVE-2023-4966/",
+      "published": 1698096911.0,
+      "source": "Assetnote",
+      "summary": "",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Citrix Bleed: Leaking Session Tokens with CVE-2023-4966"
+    },
+    {
+      "added_at": 1790262074.7075453,
+      "ai": false,
+      "id": "9fc65d67c866b6acd6b3a108c24f9d23649b1bb4",
+      "link": "https://blog.assetnote.io/2023/10/04/rce-progress-ws-ftp/",
+      "published": 1696368799.0,
+      "source": "Assetnote",
+      "summary": "",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "RCE in Progress WS_FTP Ad Hoc via IIS HTTP Modules (CVE-2023-40044)"
+    },
+    {
+      "added_at": 1790262074.7075453,
+      "ai": false,
+      "id": "f8b8d197f12b086db619ea4feac9aa08ce87734a",
+      "link": "https://blog.assetnote.io/2023/08/28/leaking-file-contents-with-a-blind-file-oracle-in-flarum/",
+      "published": 1693173600.0,
+      "source": "Assetnote",
+      "summary": "<h1 id=\"introduction\">Introduction</h1> <p>Flarum is a free, open source PHP-based forum software used for everything from gaming hobbyist sites to cryptocurrency discussion. A quick survey on Shodan suggests there are…",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Leaking File Contents with a Blind File Oracle in Flarum"
+    },
+    {
+      "added_at": 1790262074.7075453,
+      "ai": false,
+      "id": "db33cb156dadb0538e6dea46edcb78d44cf56001",
+      "link": "https://blog.assetnote.io/2023/08/28/advisory-flarum-lfi/",
+      "published": 1693170000.0,
+      "source": "Assetnote",
+      "summary": "<h2 id=\"summary\">Summary</h2> <p>An attacker with a basic user forum account can specify a malicious avatar URL that discloses the contents of arbitrary local files on the file system.</p> <h2 id=\"impact\">Impact</h2>…",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Advisory: Flarum LFI - CVE-2023-40033"
+    },
+    {
+      "added_at": 1790262074.7075453,
+      "ai": false,
+      "id": "0557f7261de71d6ca94c8d1de90ed82a8ffa8228",
+      "link": "https://blog.assetnote.io/2023/08/09/exploiting-citrix-netscaler-cve-2023-3519/",
+      "published": 1691532000.0,
+      "source": "Assetnote",
+      "summary": "<h1 id=\"introduction\">Introduction</h1> <p>A lot has been written about the recent Citrix NetScaler buffer overflow. In the initial rush to get information and platform checks out to customers, some details may not have…",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Finding and Exploiting Citrix NetScaler Buffer Overflow (CVE-2023-3519) (Part 3)"
+    },
+    {
+      "added_at": 1790262074.7075453,
+      "ai": false,
+      "id": "00ab9b999278a15e64b8264860d5ceb9edfd2dd7",
+      "link": "https://blog.assetnote.io/2023/07/24/citrix-rce-part-2-cve-2023-3519/",
+      "published": 1690190103.0,
+      "source": "Assetnote",
+      "summary": "<p>In our <a href=\"/2023/07/21/citrix-CVE-2023-3519-analysis/\">last post</a> we uncovered a vulnerability inside Citrix ADC and NetScaler Gateway that was in the patch fix for CVE-2023-3519. It seems that this…",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Analysis of CVE-2023-3519 in Citrix ADC and NetScaler Gateway (Part 2)"
+    },
+    {
+      "added_at": 1790262074.7075453,
+      "ai": false,
+      "id": "44a9761e5ecbc6bdde571928ad2f1377510ce1d2",
+      "link": "https://blog.assetnote.io/2023/07/22/pre-auth-rce-metabase/",
+      "published": 1689998363.0,
+      "source": "Assetnote",
+      "summary": "<p>Metabase is an open source business intelligence tool that lets you create charts and dashboards using data from a variety of databases and data sources. It’s a popular project, with over 33k stars on GitHub and has…",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Chaining our way to Pre-Auth RCE in Metabase (CVE-2023-38646)"
+    },
+    {
+      "added_at": 1790262074.7075453,
+      "ai": false,
+      "id": "fb572ad310a8c8136d94d1341d71c6275149e085",
+      "link": "https://blog.assetnote.io/2023/07/22/advisory-metabase-rce/",
+      "published": 1689948000.0,
+      "source": "Assetnote",
+      "summary": "<h2 id=\"summary\">Summary</h2> <p>An unauthenticated attacker can obtain the setup token for an instance and use it to achieve remote code execution via an endpoint that allows you to validate a H2 database connection.…",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Advisory: Metabase Pre-Auth RCE (CVE-2023-38646)"
+    },
+    {
+      "added_at": 1790262074.7075453,
+      "ai": false,
+      "id": "287b9cee700a947a765865db6dd18398a7b8b506",
+      "link": "https://blog.assetnote.io/2023/07/21/citrix-CVE-2023-3519-analysis/",
+      "published": 1689917871.0,
+      "source": "Assetnote",
+      "summary": "<p><strong>Update: we have discovered the endpoint being used by threat actors for CVE-2023-3519 and you can read Part 2 of this blog post <a href=\"/2023/07/24/citrix-rce-part-2-cve-2023-3519/\">here</a>.</strong></p>…",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Analysis of CVE-2023-3519 in Citrix ADC and NetScaler Gateway"
     }
   ],
   "posted": []
