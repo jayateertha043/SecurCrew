@@ -41,6 +41,10 @@ SUMMARY_MAX_CHARS = 220          # fallback (non-AI) summary length
 USE_AI_SUMMARY = os.environ.get("USE_AI_SUMMARY", "1").strip().lower() not in {
     "0", "false", "no"
 }
+# AI dedup-clustering is heavy on tokens; opt in with USE_AI_CLUSTER=1.
+USE_AI_CLUSTER = os.environ.get("USE_AI_CLUSTER", "0").strip().lower() in {
+    "1", "true", "yes"
+}
 # Posting backend: "api" (direct LinkedIn org API) or "webhook" (Zapier/Make/n8n).
 POST_BACKEND = os.environ.get("POST_BACKEND", "api").strip().lower()
 

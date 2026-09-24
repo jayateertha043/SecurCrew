@@ -20,6 +20,7 @@ import json
 import logging
 import os
 import re
+import time
 from typing import List, Optional
 
 import requests
@@ -29,7 +30,9 @@ log = logging.getLogger("securcrew")
 DEFAULT_BASE_URL = "https://api.groq.com/openai/v1"
 DEFAULT_MODEL = "openai/gpt-oss-20b"
 REQUEST_TIMEOUT = 45
-SUMMARY_CHUNK = 20  # summarize at most this many items per request for reliability
+SUMMARY_CHUNK = 8    # keep each request small for low free-tier token/min limits
+MAX_RETRIES = 5      # retry attempts on HTTP 429
+MAX_BACKOFF = 30.0   # cap a single retry sleep (seconds)
 
 _SYSTEM_PROMPT = (
     "You are a cybersecurity news editor. Summarize each item in 2-3 short, "
@@ -157,36 +160,66 @@ class Summarizer:
         return _parse_groups(content, len(items))
 
     def _chat(self, body: dict) -> Optional[str]:
-        """POST a chat-completions request; return message content or None."""
-        try:
-            resp = self._session.post(self._url, json=body, timeout=REQUEST_TIMEOUT)
-        except requests.RequestException as exc:
-            log.warning("AI network error at %s: %s", self._url, exc)
-            return None
+        """POST a chat-completions request; return message content or None.
 
-        if resp.status_code != 200:
-            log.warning(
-                "AI HTTP %s from %s | %s",
-                resp.status_code, self._url, (resp.text or "")[:300],
-            )
-            return None
+        Retries on HTTP 429 by honouring the provider's retry delay, so free-tier
+        tokens-per-minute limits slow us down instead of dropping summaries.
+        """
+        for attempt in range(MAX_RETRIES + 1):
+            try:
+                resp = self._session.post(self._url, json=body, timeout=REQUEST_TIMEOUT)
+            except requests.RequestException as exc:
+                log.warning("AI network error at %s: %s", self._url, exc)
+                return None
+
+            if resp.status_code == 429:
+                wait = _retry_after_seconds(resp)
+                if attempt < MAX_RETRIES and wait is not None and wait <= MAX_BACKOFF:
+                    log.info("AI rate-limited; sleeping %.1fs then retrying", wait)
+                    time.sleep(wait)
+                    continue
+                log.warning("AI HTTP 429 (giving up) from %s | %s",
+                            self._url, (resp.text or "")[:200])
+                return None
+
+            if resp.status_code != 200:
+                log.warning(
+                    "AI HTTP %s from %s | %s",
+                    resp.status_code, self._url, (resp.text or "")[:300],
+                )
+                return None
+            try:
+                data = resp.json()
+            except ValueError:
+                # 200 but empty/non-JSON body — log what actually came back.
+                log.warning(
+                    "AI 200 non-JSON from %s | ct=%s len=%s body=%r",
+                    self._url,
+                    resp.headers.get("content-type"),
+                    len(resp.content),
+                    (resp.text or "")[:300],
+                )
+                return None
+            try:
+                return data["choices"][0]["message"]["content"]
+            except (KeyError, IndexError, TypeError):
+                log.warning("AI 200 unexpected shape from %s | %s", self._url, str(data)[:300])
+                return None
+        return None
+
+
+def _retry_after_seconds(resp) -> Optional[float]:
+    """Seconds to wait before retrying a 429, from header or error message."""
+    header = resp.headers.get("retry-after")
+    if header:
         try:
-            data = resp.json()
+            return float(header)
         except ValueError:
-            # 200 but empty/non-JSON body — log what actually came back.
-            log.warning(
-                "AI 200 non-JSON from %s | ct=%s len=%s body=%r",
-                self._url,
-                resp.headers.get("content-type"),
-                len(resp.content),
-                (resp.text or "")[:300],
-            )
-            return None
-        try:
-            return data["choices"][0]["message"]["content"]
-        except (KeyError, IndexError, TypeError):
-            log.warning("AI 200 unexpected shape from %s | %s", self._url, str(data)[:300])
-            return None
+            pass
+    match = re.search(r"try again in ([0-9.]+)\s*s", resp.text or "")
+    if match:
+        return float(match.group(1)) + 1.0  # small buffer past the window
+    return None
 
 
 

@@ -85,8 +85,10 @@ def run() -> int:
     log.info("AI: %s", "on" if summarizer else "off (fuzzy-only + clipping)")
 
     # AI clustering pass: collapse paraphrased reposts fuzzy matching misses.
-    # Keep the earliest-published item per group; mark the rest as seen dupes.
-    if summarizer:
+    # Opt-in (USE_AI_CLUSTER=1): it sends all candidates in one heavy call, which
+    # can blow small free-tier token/min limits — fuzzy dedup already covers most.
+    # Keep the freshest item per group; mark the rest as seen dupes.
+    if summarizer and P.USE_AI_CLUSTER:
         groups = summarizer.cluster_duplicates(originals)
         if groups is None:
             log.warning("AI clustering failed; keeping fuzzy result")
