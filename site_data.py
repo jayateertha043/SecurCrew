@@ -13,6 +13,7 @@ import time
 from typing import Any, Dict, List
 
 SITE_DATA_PATH = os.path.join("docs", "data", "items.json")
+SITE_WINDOW_DAYS = 3  # UI shows only articles published within this many days
 
 
 def _row(item: Dict[str, Any], status: str, ts: float) -> Dict[str, Any]:
@@ -30,22 +31,23 @@ def _row(item: Dict[str, Any], status: str, ts: float) -> Dict[str, Any]:
 
 
 def build(queue: Dict[str, Any]) -> Dict[str, Any]:
-    """Build the site payload from the queue."""
+    """Build the site payload: articles from the last ``SITE_WINDOW_DAYS``,
+    dated by their RSS publish time, newest first."""
     rows: List[Dict[str, Any]] = []
     for item in queue.get("posted", []):
         rows.append(_row(item, "posted", float(item.get("ts", 0) or 0)))
     for item in queue.get("pending", []):
         rows.append(_row(item, "queued", float(item.get("added_at", 0) or 0)))
 
-    # Newest article first by publish date. Items without a usable date (missing
-    # or post-dated into the future, e.g. event listings) sink to the bottom.
     now = time.time()
+    cutoff = now - SITE_WINDOW_DAYS * 86400
 
-    def _order(r: Dict[str, Any]) -> float:
-        pub = float(r.get("published") or 0)
-        return pub if 0 < pub <= now else 0.0
-
-    rows.sort(key=_order, reverse=True)
+    # Keep only items with a real RSS publish date inside the window (this also
+    # drops undated items and future-dated event listings).
+    rows = [
+        r for r in rows if cutoff <= float(r.get("published") or 0) <= now
+    ]
+    rows.sort(key=lambda r: float(r["published"]), reverse=True)
     return {"generated_at": time.time(), "count": len(rows), "items": rows}
 
 

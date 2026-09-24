@@ -112,7 +112,7 @@ function card(item) {
     : "Trimmed from the article's own text (no AI)";
   const time = document.createElement("span");
   time.className = "time";
-  const when = Number(item.published) || Number(item.ts) || 0;
+  const when = Number(item.published) || 0;  // RSS publish date only
   time.textContent = when ? timeAgo(when * 1000) : "";
   top.append(badge, ai, time);
 
