@@ -17,11 +17,14 @@ summarization must never crash a run.
 from __future__ import annotations
 
 import json
+import logging
 import os
 import re
 from typing import List, Optional
 
 import requests
+
+log = logging.getLogger("securcrew")
 
 DEFAULT_BASE_URL = "https://api.groq.com/openai/v1"
 DEFAULT_MODEL = "llama-3.1-8b-instant"
@@ -65,6 +68,7 @@ class Summarizer:
             return None
         base = os.environ.get("AI_BASE_URL", DEFAULT_BASE_URL).strip()
         model = os.environ.get("AI_MODEL", DEFAULT_MODEL).strip()
+        log.info("AI provider: %s | model: %s", base, model)
         return cls(key, base, model)
 
     def summarize_batch(self, items: List[dict]) -> Optional[List[str]]:
@@ -150,9 +154,14 @@ class Summarizer:
         try:
             resp = self._session.post(self._url, json=body, timeout=REQUEST_TIMEOUT)
             if resp.status_code != 200:
+                log.warning(
+                    "AI call failed: HTTP %s from %s | %s",
+                    resp.status_code, self._url, (resp.text or "")[:200],
+                )
                 return None
             return resp.json()["choices"][0]["message"]["content"]
-        except (requests.RequestException, KeyError, ValueError):
+        except (requests.RequestException, KeyError, ValueError) as exc:
+            log.warning("AI call error at %s: %s", self._url, exc)
             return None
 
 
