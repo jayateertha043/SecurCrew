@@ -1,0 +1,154 @@
+"""Shared configuration and helpers for the collect/publish pipeline.
+
+The bot is split into two phases that communicate through ``state/queue.json``:
+
+    collect.py  -> aggregate feeds, dedup, pick the original, summarize, enqueue
+    publish.py  -> drain the queue at a human pace and post one story per item
+
+Both import their tunables and shared utilities from here.
+"""
+
+from __future__ import annotations
+
+import html
+import logging
+import os
+import sys
+import time
+from typing import Dict, List, Optional
+
+import feedparser
+
+from linkedin import LinkedInClient
+from linkedin_webhook import WebhookClient
+
+# --- Tunables (all knobs live here) -----------------------------------------
+FEEDS_FILE = "feeds.txt"
+SIMILARITY_THRESHOLD = 85        # fuzzy-dup ratio (0-100) for clustering reposts
+PER_RUN_CAP = 2                  # max posts published in a single publish run
+DAILY_CAP = 20                   # posts per UTC day (queue holds the rest)
+DELAY_RANGE = (45.0, 120.0)      # randomized human-like delay between posts (s)
+PRUNE_WINDOW_DAYS = 7            # drop seen/history/counts + posted log older than this
+QUEUE_TTL_DAYS = 2               # discard queued-but-unposted items older than this (stale news)
+MAX_ENTRIES_PER_FEED = 25        # only consider the newest N entries per feed
+MAX_ENQUEUE_PER_RUN = 40         # cap items added to the queue in one collect run
+BASE_HASHTAGS = "#infosec #cybersecurity #bugbounty"
+SUMMARY_MAX_CHARS = 220          # fallback (non-AI) summary length
+
+# AI summaries: on when an AI_API_KEY is present; disable with USE_AI_SUMMARY=0.
+USE_AI_SUMMARY = os.environ.get("USE_AI_SUMMARY", "1").strip().lower() not in {
+    "0", "false", "no"
+}
+# Posting backend: "api" (direct LinkedIn org API) or "webhook" (Zapier/Make/n8n).
+POST_BACKEND = os.environ.get("POST_BACKEND", "api").strip().lower()
+
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s %(levelname)s %(message)s",
+    stream=sys.stdout,
+)
+log = logging.getLogger("securcrew")
+
+
+def today_key(now: Optional[float] = None) -> str:
+    now = time.time() if now is None else now
+    return time.strftime("%Y-%m-%d", time.gmtime(now))
+
+
+def read_feeds(path: str = FEEDS_FILE) -> List[str]:
+    """Return feed URLs, ignoring blanks and ``#`` comments."""
+    urls: List[str] = []
+    try:
+        with open(path, "r", encoding="utf-8") as fh:
+            for line in fh:
+                line = line.strip()
+                if line and not line.startswith("#"):
+                    urls.append(line)
+    except FileNotFoundError:
+        log.error("feeds file not found: %s", path)
+    return urls
+
+
+def _entry_published(entry) -> float:
+    """Best-effort epoch of an entry's publish time; 0 if unknown."""
+    for key in ("published_parsed", "updated_parsed"):
+        parsed = entry.get(key)
+        if parsed:
+            try:
+                return time.mktime(parsed)
+            except (TypeError, ValueError, OverflowError):
+                continue
+    return 0.0
+
+
+def collect_entries(feed_urls: List[str]) -> List[Dict[str, object]]:
+    """Fetch and flatten entries from every feed. Erroring feeds are skipped."""
+    items: List[Dict[str, object]] = []
+    for url in feed_urls:
+        try:
+            parsed = feedparser.parse(url)
+        except Exception as exc:  # never let one feed kill the run
+            log.warning("feed error (%s): %s", url, exc)
+            continue
+        if parsed.bozo and not parsed.entries:
+            log.warning("feed unreadable, skipping: %s", url)
+            continue
+
+        source = html.unescape((parsed.feed.get("title") or url).strip())
+        for entry in parsed.entries[:MAX_ENTRIES_PER_FEED]:
+            link = (entry.get("link") or "").strip()
+            title = html.unescape((entry.get("title") or "").strip())
+            summary = html.unescape((entry.get("summary") or "").strip())
+            if link and title:
+                items.append(
+                    {
+                        "link": link,
+                        "title": title,
+                        "summary": summary,
+                        "source": source,
+                        "published": _entry_published(entry),
+                    }
+                )
+    log.info("collected %d entries from %d feeds", len(items), len(feed_urls))
+    return items
+
+
+def clip(text: str, limit: int = SUMMARY_MAX_CHARS) -> str:
+    """Trim to ``limit`` chars on a word boundary, adding an ellipsis."""
+    text = " ".join((text or "").split())
+    if len(text) <= limit:
+        return text
+    return text[:limit].rsplit(" ", 1)[0].rstrip() + "…"
+
+
+def render_post(item: Dict[str, object]) -> str:
+    """One story per post: title, 2-3 line summary, source attribution, tags."""
+    title = str(item.get("title", "")).strip()
+    link = str(item.get("link", "")).strip()
+    summary = str(item.get("summary", "")).strip()
+    source = str(item.get("source", "")).strip()
+
+    parts = [title]
+    if summary:
+        parts.append("")
+        parts.append(summary)
+    parts.append("")
+    attribution = f"Source: {source} — {link}" if source else f"Source: {link}"
+    parts.append(attribution)
+    parts.append("")
+    parts.append(BASE_HASHTAGS)
+    return "\n".join(parts)
+
+
+def build_client():
+    """Instantiate the posting backend selected by ``POST_BACKEND``.
+
+    Both clients expose the same ``post(text)`` contract and raise
+    ``RetryableError`` / ``LinkedInError``, so callers are backend-agnostic.
+    """
+    if POST_BACKEND == "webhook":
+        return WebhookClient(os.environ.get("WEBHOOK_URL", ""))
+    return LinkedInClient(
+        os.environ.get("LINKEDIN_TOKEN", ""),
+        os.environ.get("LINKEDIN_ORG_URN", ""),
+    )

@@ -1,0 +1,59 @@
+# SecurCrew feed list — one RSS/Atom URL per line.
+# Lines starting with '#' and blank lines are ignored.
+# Add or remove feeds freely; malformed/erroring feeds are skipped at runtime.
+
+# --- General infosec news ---
+https://feeds.feedburner.com/TheHackersNews
+https://www.bleepingcomputer.com/feed/
+https://krebsonsecurity.com/feed/
+https://www.darkreading.com/rss.xml
+https://www.securityweek.com/feed/
+https://threatpost.com/feed/
+https://www.infosecurity-magazine.com/rss/news/
+https://www.csoonline.com/index.rss
+https://www.theregister.com/security/headlines.atom
+https://cyberscoop.com/feed/
+https://www.scmagazine.com/feed
+https://www.helpnetsecurity.com/feed/
+https://grahamcluley.com/feed/
+https://nakedsecurity.sophos.com/feed/
+https://www.welivesecurity.com/en/rss/feed/
+
+# --- Research / analysis / blogs ---
+https://www.schneier.com/feed/atom/
+https://portswigger.net/blog/rss
+https://googleprojectzero.blogspot.com/feeds/posts/default
+https://research.checkpoint.com/feed/
+https://www.microsoft.com/en-us/security/blog/feed/
+https://blog.talosintelligence.com/rss/
+https://unit42.paloaltonetworks.com/feed/
+https://www.mandiant.com/resources/blog/rss.xml
+https://www.crowdstrike.com/blog/feed/
+https://blog.rapid7.com/rss/
+https://securelist.com/feed/
+https://www.sentinelone.com/feed/
+https://www.trendmicro.com/en_us/research.rss.xml
+https://www.malwarebytes.com/blog/feed/index.xml
+
+# --- Vulnerabilities / advisories ---
+https://isc.sans.edu/rssfeed_full.xml
+https://www.cisa.gov/cybersecurity-advisories/all.xml
+https://www.zerodayinitiative.com/rss/published/
+https://www.zerodayinitiative.com/rss/upcoming/
+https://vuldb.com/?rss.recent
+https://www.exploit-db.com/rss.xml
+
+# --- Bug bounty / offensive / appsec ---
+https://hackerone.com/hacktivity.rss
+https://portswigger.net/research/rss
+https://blog.intigriti.com/feed/
+https://www.bugcrowd.com/feed/
+https://github.blog/tag/security/feed/
+https://blog.assetnote.io/feed.xml
+https://labs.watchtowr.com/rss/
+https://projectdiscovery.io/blog/rss.xml
+
+# --- Community / aggregators ---
+https://www.reddit.com/r/netsec/.rss
+https://tldrsec.com/feed
+https://therecord.media/feed/
