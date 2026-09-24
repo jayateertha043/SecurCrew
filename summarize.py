@@ -159,15 +159,32 @@ class Summarizer:
         """POST a chat-completions request; return message content or None."""
         try:
             resp = self._session.post(self._url, json=body, timeout=REQUEST_TIMEOUT)
-            if resp.status_code != 200:
-                log.warning(
-                    "AI call failed: HTTP %s from %s | %s",
-                    resp.status_code, self._url, (resp.text or "")[:200],
-                )
-                return None
-            return resp.json()["choices"][0]["message"]["content"]
-        except (requests.RequestException, KeyError, ValueError) as exc:
-            log.warning("AI call error at %s: %s", self._url, exc)
+        except requests.RequestException as exc:
+            log.warning("AI network error at %s: %s", self._url, exc)
+            return None
+
+        if resp.status_code != 200:
+            log.warning(
+                "AI HTTP %s from %s | %s",
+                resp.status_code, self._url, (resp.text or "")[:300],
+            )
+            return None
+        try:
+            data = resp.json()
+        except ValueError:
+            # 200 but empty/non-JSON body — log what actually came back.
+            log.warning(
+                "AI 200 non-JSON from %s | ct=%s len=%s body=%r",
+                self._url,
+                resp.headers.get("content-type"),
+                len(resp.content),
+                (resp.text or "")[:300],
+            )
+            return None
+        try:
+            return data["choices"][0]["message"]["content"]
+        except (KeyError, IndexError, TypeError):
+            log.warning("AI 200 unexpected shape from %s | %s", self._url, str(data)[:300])
             return None
 
 
