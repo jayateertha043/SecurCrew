@@ -1,1 +1,766 @@
-{ "pending": [], "posted": [] }
+{
+  "pending": [
+    {
+      "added_at": 1790253337.3737822,
+      "id": "287b9cee700a947a765865db6dd18398a7b8b506",
+      "link": "https://blog.assetnote.io/2023/07/21/citrix-CVE-2023-3519-analysis/",
+      "published": 1689917871.0,
+      "source": "Assetnote",
+      "summary": "<p><strong>Update: we have discovered the endpoint being used by threat actors for CVE-2023-3519 and you can read Part 2 of this blog post <a…",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Analysis of CVE-2023-3519 in Citrix ADC and NetScaler Gateway"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "fb572ad310a8c8136d94d1341d71c6275149e085",
+      "link": "https://blog.assetnote.io/2023/07/22/advisory-metabase-rce/",
+      "published": 1689948000.0,
+      "source": "Assetnote",
+      "summary": "<h2 id=\"summary\">Summary</h2> <p>An unauthenticated attacker can obtain the setup token for an instance and use it to achieve remote code execution via an endpoint that allows you to validate a H2 database connection.…",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Advisory: Metabase Pre-Auth RCE (CVE-2023-38646)"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "44a9761e5ecbc6bdde571928ad2f1377510ce1d2",
+      "link": "https://blog.assetnote.io/2023/07/22/pre-auth-rce-metabase/",
+      "published": 1689998363.0,
+      "source": "Assetnote",
+      "summary": "<p>Metabase is an open source business intelligence tool that lets you create charts and dashboards using data from a variety of databases and data sources. It’s a popular project, with over 33k stars on GitHub and has…",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Chaining our way to Pre-Auth RCE in Metabase (CVE-2023-38646)"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "00ab9b999278a15e64b8264860d5ceb9edfd2dd7",
+      "link": "https://blog.assetnote.io/2023/07/24/citrix-rce-part-2-cve-2023-3519/",
+      "published": 1690190103.0,
+      "source": "Assetnote",
+      "summary": "<p>In our <a href=\"https://blog.assetnote.io/2023/07/21/citrix-CVE-2023-3519-analysis/\">last post</a> we uncovered a vulnerability inside Citrix ADC and NetScaler Gateway that was in the patch fix for CVE-2023-3519. It…",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Analysis of CVE-2023-3519 in Citrix ADC and NetScaler Gateway (Part 2)"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "0557f7261de71d6ca94c8d1de90ed82a8ffa8228",
+      "link": "https://blog.assetnote.io/2023/08/09/exploiting-citrix-netscaler-cve-2023-3519/",
+      "published": 1691532000.0,
+      "source": "Assetnote",
+      "summary": "<h1 id=\"introduction\">Introduction</h1> <p>A lot has been written about the recent Citrix NetScaler buffer overflow. In the initial rush to get information and platform checks out to customers, some details may not have…",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Finding and Exploiting Citrix NetScaler Buffer Overflow (CVE-2023-3519) (Part 3)"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "db33cb156dadb0538e6dea46edcb78d44cf56001",
+      "link": "https://blog.assetnote.io/2023/08/28/advisory-flarum-lfi/",
+      "published": 1693170000.0,
+      "source": "Assetnote",
+      "summary": "<h2 id=\"summary\">Summary</h2> <p>An attacker with a basic user forum account can specify a malicious avatar URL that discloses the contents of arbitrary local files on the file system.</p> <h2 id=\"impact\">Impact</h2>…",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Advisory: Flarum LFI - CVE-2023-40033"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "f8b8d197f12b086db619ea4feac9aa08ce87734a",
+      "link": "https://blog.assetnote.io/2023/08/28/leaking-file-contents-with-a-blind-file-oracle-in-flarum/",
+      "published": 1693173600.0,
+      "source": "Assetnote",
+      "summary": "<h1 id=\"introduction\">Introduction</h1> <p>Flarum is a free, open source PHP-based forum software used for everything from gaming hobbyist sites to cryptocurrency discussion. A quick survey on Shodan suggests there are…",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Leaking File Contents with a Blind File Oracle in Flarum"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "9fc65d67c866b6acd6b3a108c24f9d23649b1bb4",
+      "link": "https://blog.assetnote.io/2023/10/04/rce-progress-ws-ftp/",
+      "published": 1696368799.0,
+      "source": "Assetnote",
+      "summary": "",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "RCE in Progress WS_FTP Ad Hoc via IIS HTTP Modules (CVE-2023-40044)"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "628a6d7c0f13861d1477647e5478bc7093c3b38a",
+      "link": "https://blog.assetnote.io/2023/10/24/citrixbleed-CVE-2023-4966/",
+      "published": 1698096911.0,
+      "source": "Assetnote",
+      "summary": "",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Citrix Bleed: Leaking Session Tokens with CVE-2023-4966"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "31c2239c9478364eea59882d12ec19b094e1fe10",
+      "link": "https://portswigger.net/research/top-10-web-hacking-techniques-of-2023-nominations-open",
+      "published": 1704810830.0,
+      "source": "PortSwigger Research",
+      "summary": "Update: The results are in! Check out the final top ten here or scroll down to view all nominations Over the last year, numerous security researchers have shared their discoveries with the community t",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Top 10 web hacking techniques of 2023 - nominations open"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "80364be63be75b7d462c22521767fceb862da6c5",
+      "link": "https://blog.assetnote.io/2024/01/19/ivanti-pulse-connect-secure-auth-bypass-rce/",
+      "published": 1705582800.0,
+      "source": "Assetnote",
+      "summary": "",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "High Signal Detection and Exploitation of Ivanti's Pulse Connect Secure Auth Bypass & RCE"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "90e39bef12cfabe45ab0d80f822ced219ca5c52d",
+      "link": "https://portswigger.net/research/hiding-payloads-in-java-source-code-strings",
+      "published": 1706022000.0,
+      "source": "PortSwigger Research",
+      "summary": "In this post we'll show you how Java handles unicode escapes in source code strings in a way you might find surprising - and how you can abuse them to conceal payloads. We recently released a powerful",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Hiding payloads in Java source code strings"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "5f9f675ee8e5b665acdab8e4aba95f9d5b16a19f",
+      "link": "https://portswigger.net/research/top-10-web-hacking-techniques-of-2023",
+      "published": 1708353072.0,
+      "source": "PortSwigger Research",
+      "summary": "Welcome to the Top 10 Web Hacking Techniques of 2023, the 17th edition of our annual community-powered effort to identify the most innovative must-read web security research published in the last year",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Top 10 web hacking techniques of 2023"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "b601a1e6e30a893ca8fa911596fa7e11dc02fafa",
+      "link": "https://portswigger.net/research/using-form-hijacking-to-bypass-csp",
+      "published": 1709650500.0,
+      "source": "PortSwigger Research",
+      "summary": "In this post we'll show you how to bypass CSP by using an often overlooked technique that can enable password theft in a seemingly secure configuration. What is form hijacking? Form hijacking isn't re",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Using form hijacking to bypass CSP"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "9b5a752099fbaa6faa64bce87315d16c4b73f15d",
+      "link": "https://portswigger.net/research/trace-desync-attack",
+      "published": 1710856800.0,
+      "source": "PortSwigger Research",
+      "summary": "Have you ever found an HTTP desync vulnerability that seemed impossible to exploit due to its complicated constraints? In this blogpost we will explore a new exploitation technique that can be used to",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Making desync attacks easy with TRACE"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "c8c2cab18ead22e4cd1be6b61038d08e25a6d096",
+      "link": "https://portswigger.net/research/introducing-signsaboteur-forge-signed-web-tokens-with-ease",
+      "published": 1716381420.0,
+      "source": "PortSwigger Research",
+      "summary": "Signed web tokens are widely used for stateless authentication and authorization throughout the web. The most popular format is JSON Web Tokens (JWT) which we've already covered in depth, but beyond t",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Introducing SignSaboteur: forge signed web tokens with ease"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "02f6355ad4351729891b73acd6b9333a24423c3b",
+      "link": "https://portswigger.net/research/adjusting-your-http-perspective-with-bambdas",
+      "published": 1716989509.0,
+      "source": "PortSwigger Research",
+      "summary": "When you open a HTTP request or response, what do you instinctively look for? Suspicious parameter names? CORS headers? Some clue as to the request's origin or underlying purpose? A single HTTP messag",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Refining your HTTP perspective, with bambdas"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "a1419924eb78745cb5c24942a9e9787611d62f20",
+      "link": "https://portswigger.net/research/new-exotic-events-in-the-xss-cheat-sheet",
+      "published": 1718117909.0,
+      "source": "PortSwigger Research",
+      "summary": "The power of our XSS cheat sheet is we get fantastic contributions from the web security community and this update is no exception. We had valuable contributions from Mozilla to remove events that no",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "onwebkitplaybacktargetavailabilitychanged?! New exotic events in the XSS cheat sheet"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "59d2b6c637bd386983d3b94ed46c4dd1a6f639e3",
+      "link": "https://portswigger.net/research/a-hacking-hat-trick-previewing-three-portswigger-research-publications-coming-to-def-con-amp-black-hat-usa",
+      "published": 1719925028.0,
+      "source": "PortSwigger Research",
+      "summary": "We're delighted to announce three major research releases from PortSwigger Research will be published at both Black Hat USA and DEF CON 32. In this post, we'll offer a quick teaser of each talk, info",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "A hacking hat-trick: previewing three PortSwigger Research publications coming to DEF CON & Black Hat USA"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "d6540924f307e1884305eb8e5c4007373e1acd64",
+      "link": "https://portswigger.net/research/fickle-pdfs-exploiting-browser-rendering-discrepancies",
+      "published": 1720529482.0,
+      "source": "PortSwigger Research",
+      "summary": "Imagine the CEO of a random company receives an email containing a PDF invoice file. In Safari and MacOS Preview, the total price displayed is £399. After approval, the invoice is sent to the accounti",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Fickle PDFs: exploiting browser rendering discrepancies"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "d903612ff256e76603be29b7fa385bf3a2285801",
+      "link": "https://portswigger.net/research/listen-to-the-whispers-web-timing-attacks-that-actually-work",
+      "published": 1723054221.0,
+      "source": "PortSwigger Research",
+      "summary": "Websites are riddled with timing oracles eager to divulge their innermost secrets. It's time we started listening to them. In this paper, I'll unleash novel attack concepts to coax out server secrets",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Listen to the whispers: web timing attacks that actually work"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "b9da9e97a20605cdab6c480e7c6ec597acf88437",
+      "link": "https://portswigger.net/research/splitting-the-email-atom",
+      "published": 1723066367.0,
+      "source": "PortSwigger Research",
+      "summary": "Some websites parse email addresses to extract the domain and infer which organisation the owner belongs to. This pattern makes email-address parser discrepancies critical. Predicting which domain an",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Splitting the email atom: exploiting parsers to bypass access controls"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "e13b1aaf2514922af9dc9836b30b5f06b869c430",
+      "link": "https://portswigger.net/research/gotta-cache-em-all",
+      "published": 1723156066.0,
+      "source": "PortSwigger Research",
+      "summary": "Through the years, we have seen many attacks exploiting web caches to hijack sensitive information or store malicious payloads. However, as CDNs became more popular, new discrepancies between propriet",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Gotta cache 'em all: bending the rules of web cache exploitation"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "253aae07f4b890d130bc6ef863c4dd3181e3f166",
+      "link": "https://portswigger.net/research/introducing-the-url-validation-bypass-cheat-sheet",
+      "published": 1725375132.0,
+      "source": "PortSwigger Research",
+      "summary": "URL validation bypasses are the root cause of numerous vulnerabilities including many instances of SSRF, CORS misconfiguration, and open redirection. These work by using ambiguous URLs to trigger URL",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Introducing the URL validation bypass cheat sheet"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "35e5f1497c5f1f3fa49e22f83190a2a931cfb682",
+      "link": "https://portswigger.net/research/concealing-payloads-in-url-credentials",
+      "published": 1729688345.0,
+      "source": "PortSwigger Research",
+      "summary": "Last year Johan Carlsson discovered you could conceal payloads inside the credentials part of the URL . This was fascinating to me especially because the payload is not actually visible in the URL in",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Concealing payloads in URL credentials"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "f551d4b4428a649d8a62a4fbcb26f20f0c37b842",
+      "link": "https://portswigger.net/research/new-crazy-payloads-in-the-url-validation-bypass-cheat-sheet",
+      "published": 1730210353.0,
+      "source": "PortSwigger Research",
+      "summary": "The strength of our URL Validation Bypass Cheat Sheet lies in the contributions from the web security community, and today’s update is no exception. We are excited to introduce a new and improved IP a",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "New crazy payloads in the URL Validation Bypass Cheat Sheet"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "caa7563928b1cb6748aa91d4c25af9622c134de0",
+      "link": "https://portswigger.net/research/bypassing-wafs-with-the-phantom-version-cookie",
+      "published": 1733324615.0,
+      "source": "PortSwigger Research",
+      "summary": "HTTP cookies often control critical website features, but their long and convoluted history exposes them to parser discrepancy vulnerabilities. In this post, I'll explore some dangerous, lesser-known",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Bypassing WAFs with the phantom $Version cookie"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "cd8d05ecd6132949a1eb7a0c7453147b7824fb63",
+      "link": "https://portswigger.net/research/top-10-web-hacking-techniques-of-2024-nominations-open",
+      "published": 1736345247.0,
+      "source": "PortSwigger Research",
+      "summary": "Nominations are now open for the top 10 new web hacking techniques of 2024! Every year, security researchers from all over the world share their latest findings via blog posts, presentations, PoCs, an",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Top 10 web hacking techniques of 2024: nominations open"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "4f6871e5459b91806832a5e6b0c94bc18e3a8c14",
+      "link": "https://portswigger.net/research/stealing-httponly-cookies-with-the-cookie-sandwich-technique",
+      "published": 1737557111.0,
+      "source": "PortSwigger Research",
+      "summary": "In this post, I will introduce the \"cookie sandwich\" technique which lets you bypass the HttpOnly flag on certain servers. This research follows on from Bypassing WAFs with the phantom $Version cookie",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Stealing HttpOnly cookies with the cookie sandwich technique"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "69ed5c83614580b15aefdb5fb8176f452c5b1eef",
+      "link": "https://portswigger.net/research/bypassing-character-blocklists-with-unicode-overflows",
+      "published": 1738072708.0,
+      "source": "PortSwigger Research",
+      "summary": "Unicode codepoint truncation - also called a Unicode overflow attack - happens when a server tries to store a Unicode character in a single byte. Because the maximum value of a byte is 255, an overflo",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Bypassing character blocklists with unicode overflows"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "071baccf87e53920ce4479fecd37e0ebbb0e5a67",
+      "link": "https://portswigger.net/research/shadow-repeater-ai-enhanced-manual-testing",
+      "published": 1740057619.0,
+      "source": "PortSwigger Research",
+      "summary": "Have you ever wondered how many vulnerabilities you've missed by a hair's breadth, due to a single flawed choice? We've just released Shadow Repeater, which enhances your manual testing with AI-powere",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Shadow Repeater:AI-enhanced manual testing"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "00f02abc8d6cd6e1aba33fb3debb7778b1739d90",
+      "link": "https://portswigger.net/research/saml-roulette-the-hacker-always-wins",
+      "published": 1742309743.0,
+      "source": "PortSwigger Research",
+      "summary": "Introduction In this post, we’ll show precisely how to chain round-trip attacks and namespace confusion to achieve unauthenticated admin access on GitLab Enterprise by exploiting the ruby-saml library",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "SAML roulette: the hacker always wins"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "6e0f77f6356c21fed890343c3ce4279c16f5b53b",
+      "link": "https://portswigger.net/research/document-my-pentest",
+      "published": 1745414244.0,
+      "source": "PortSwigger Research",
+      "summary": "Tired of repeating yourself? Automate your web security audit trail. In this post I'll introduce a new Burp AI extension that takes the boring bits out of your pen test. Web security testing can be a",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Document My Pentest: you hack, the AI writes it up!"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "fa0a237534a37b498f65f68613b3313045df114e",
+      "link": "https://portswigger.net/research/drag-and-pwnd-leverage-ascii-characters-to-exploit-vs-code",
+      "published": 1746016631.0,
+      "source": "PortSwigger Research",
+      "summary": "Control characters like SOH, STX, EOT and ETX were never meant to run your code - but in the world of modern terminal emulators, they sometimes do. In this post, I'll dive into the forgotten mechanics",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Drag and Pwnd: Leverage ASCII characters to exploit VS Code"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "2102331e6a231229bcd1131bb557247ce88e9b09",
+      "link": "https://portswigger.net/blog/watch-the-on-demand-webinar-shift-left-without-the-strain",
+      "published": 1752498000.0,
+      "source": "PortSwigger Blog",
+      "summary": "Shifting security left promises faster, safer software delivery - but for many teams, that promise is undercut by painful scan performance, false positives, and pipeline friction. In our recent webina",
+      "tags": [
+        "#appsec"
+      ],
+      "title": "Watch the on-demand webinar: Shift left without the strain"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "d7189d82e7107784a24cf3d51333681c09af2745",
+      "link": "https://portswigger.net/research/repeater-strike-manual-testing-amplified",
+      "published": 1752587197.0,
+      "source": "PortSwigger Research",
+      "summary": "Manual testing doesn't have to be repetitive. In this post, we're introducing Repeater Strike - a new AI-powered Burp Suite extension designed to automate the hunt for IDOR and similar vulnerabilities",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Repeater Strike: manual testing, amplified"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "d8fb7f5529a225648a92568d4a90f0362cbea004",
+      "link": "https://portswigger.net/blog/http-request-smuggling-explained-with-seasoned-bug-bounty-hunter-nahamsec-and-world-class-researcher-james-kettle",
+      "published": 1754392109.0,
+      "source": "PortSwigger Blog",
+      "summary": "Ever wondered how attackers can compromise modern websites by exploiting invisible cracks in HTTP infrastructure to win big bounties? In his latest video, NahamSec walks through the basics of request",
+      "tags": [
+        "#appsec"
+      ],
+      "title": "HTTP Request Smuggling Explained: with seasoned bug bounty hunter NahamSec and world-class researcher James Kettle"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "e80b4dcf40c84199884d8c54a770daf55cfa232e",
+      "link": "https://portswigger.net/research/http1-must-die",
+      "published": 1754518800.0,
+      "source": "PortSwigger Research",
+      "summary": "Abstract Upstream HTTP/1.1 is inherently insecure and regularly exposes millions of websites to hostile takeover. Six years of attempted mitigations have hidden the issue, but failed to fix it. This p",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "HTTP/1.1 must die: the desync endgame"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "885a52ed13d998f66c06c249a9f3be1886a0e185",
+      "link": "https://portswigger.net/blog/the-desync-delusion-are-you-really-protected-against-http-request-smuggling",
+      "published": 1754518964.0,
+      "source": "PortSwigger Blog",
+      "summary": "The Hidden Threat That's Slipping Past Your Security HTTP request smuggling remains one of the most dangerous yet frequently overlooked web vulnerabilities today. Despite being a widely known issue si",
+      "tags": [
+        "#appsec"
+      ],
+      "title": "The Desync Delusion: Are You Really Protected Against HTTP Request Smuggling?"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "6c2509d76cccb4111a725ef84c204c90e4e1a421",
+      "link": "https://portswigger.net/blog/http-1-1-must-die-what-this-means-for-contract-pentesters-and-mssps",
+      "published": 1754518987.0,
+      "source": "PortSwigger Blog",
+      "summary": "At Black Hat USA and DEFCON 2025, PortSwigger's Director of Research, James Kettle, issued a stark warning: request smuggling isn't dying out, it's evolving and thriving. Despite years of defensive ef",
+      "tags": [
+        "#appsec"
+      ],
+      "title": "HTTP/1.1 Must Die: What This Means for Contract Pentesters and MSSPs"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "9514da96b5bda19d65a54e9c017ab0a5fa7c746d",
+      "link": "https://portswigger.net/research/how-to-distinguish-http-pipelining-from-request-smuggling",
+      "published": 1755613844.0,
+      "source": "PortSwigger Research",
+      "summary": "Sometimes people think they've found HTTP request smuggling, when they're actually just observing HTTP keep-alive or pipelining. This is usually a false positive, but sometimes there's actually a real",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Beware the false false-positive: how to distinguish HTTP pipelining from request smuggling"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "730e7d1302c4fb712eaf14770689cdd71afe5850",
+      "link": "https://portswigger.net/research/inline-style-exfiltration",
+      "published": 1756212843.0,
+      "source": "PortSwigger Research",
+      "summary": "I discovered how to use CSS to steal attribute data without selectors and stylesheet imports! This means you can now exploit CSS injection via style attributes! Learn how below: Someone asked if you c",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Inline Style Exfiltration: leaking data with chained CSS conditionals"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "06c1e93c19995b3e24e4c04d84184b8c783e4731",
+      "link": "https://portswigger.net/blog/the-entire-internet-is-broken-ethical-hacking-expert-john-hammond-meets-james-kettle",
+      "published": 1756285877.0,
+      "source": "PortSwigger Blog",
+      "summary": "In a brand-new collaboration between ethical hacking and AppSec expert John Hammond and world-renowned security researcher James Kettle, the pair explore how tens of millions of websites are compromis",
+      "tags": [
+        "#appsec"
+      ],
+      "title": "\"The entire internet is broken\": ethical hacking expert John Hammond meets James Kettle"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "8b2cb28d05e4a91616928a2c05eff84cb150b08e",
+      "link": "https://portswigger.net/blog/the-year-so-far-how-burp-suite-dast-is-leveling-up-enterprise-security-in-2025",
+      "published": 1756382865.0,
+      "source": "PortSwigger Blog",
+      "summary": "Enterprise security teams are under more pressure than ever to secure sprawling application estates, without slowing down delivery. That's why, over the first half of 2025, we've delivered some of our",
+      "tags": [
+        "#appsec"
+      ],
+      "title": "The year so far: How Burp Suite DAST is leveling up enterprise security in 2025"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "4cbe3e561c3f35f040a2c4776836709add4eea66",
+      "link": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
+      "published": 1756910783.0,
+      "source": "PortSwigger Research",
+      "summary": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "a22c2fb34164449118082000d70b57715a101609",
+      "link": "https://portswigger.net/blog/watch-the-webinar-scale-secure-coverage-without-scaling-headcount",
+      "published": 1756995660.0,
+      "source": "PortSwigger Blog",
+      "summary": "Application security teams are under pressure. With expanding application estates, growing API usage, and faster release cycles, many teams struggle to keep up. Backlogs grow, releases are delayed, an",
+      "tags": [
+        "#appsec"
+      ],
+      "title": "Watch the webinar: Scale secure coverage without scaling headcount"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "7a9820f50893d3e02e58744f464c19b0baf37903",
+      "link": "https://portswigger.net/blog/how-this-seasoned-bug-bounty-hunter-combines-burp-suite-and-hackerone-to-uncover-high-impact-vulnerabilities",
+      "published": 1757679698.0,
+      "source": "PortSwigger Blog",
+      "summary": "Arman S. (Tess), a full-time independent security researcher and bug bounty hunter, talked us through how he uses Burp Suite Professional and HackerOne in tandem to find and report high-value security",
+      "tags": [
+        "#appsec"
+      ],
+      "title": "How this seasoned bug bounty hunter combines Burp Suite and HackerOne to uncover high-impact vulnerabilities"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "6f9c53492c9ac4c67384b83e4f65a0f796d8c29c",
+      "link": "https://github.blog/engineering/platform-security/post-quantum-security-for-ssh-access-on-github/",
+      "published": 1757952000.0,
+      "source": "Security Archives - The GitHub Blog",
+      "summary": "<p>GitHub is introducing post-quantum secure key exchange methods for SSH access to better protect Git data in transit.</p> <p>The post <a…",
+      "tags": [
+        "#appsec"
+      ],
+      "title": "Post-quantum security for SSH access on GitHub"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "484fcdf422c34538054c56f5b7ef89bd3ffd574f",
+      "link": "https://portswigger.net/research/websocket-turbo-intruder-unearthing-the-websocket-goldmine",
+      "published": 1758112806.0,
+      "source": "PortSwigger Research",
+      "summary": "Many testers and tools give up the moment a protocol upgrade to WebSocket occurs, or only perform shallow analysis. This is a huge blind spot, leaving many bugs like Broken Access Controls, Race condi",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "WebSocket Turbo Intruder: Unearthing the WebSocket Goldmine"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "b553306139f1bb9de110142c86a5faa6e6bcf857",
+      "link": "https://portswigger.net/blog/how-to-join-the-desync-endgame-practical-tips-from-pentester-tom-stacey",
+      "published": 1758210699.0,
+      "source": "PortSwigger Blog",
+      "summary": "Note: This is a guest post by pentester and researcher, Tom Stacey (@t0xodile). You'd think that after almost 21 years since its initial public discovery, HTTP Request Smuggling would be barely exploi",
+      "tags": [
+        "#appsec"
+      ],
+      "title": "How to join the desync endgame: Practical tips from pentester Tom Stacey"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "10fb0624836f77b39cd489cf02332718e87e774a",
+      "link": "https://portswigger.net/blog/welcome-to-ai-pentesting-add-on-demand-ai-assistance-directly-to-your-workflow-with-new-agentic-burp-ai-capabilities",
+      "published": 1758723454.0,
+      "source": "PortSwigger Blog",
+      "summary": "Whether you’re navigating a client pentest or chasing a bounty target, even the most experienced testers hit roadblocks, burn time on repetitive tasks, or just want a second opinion. Burp AI is design",
+      "tags": [
+        "#appsec"
+      ],
+      "title": "Welcome to AI pentesting - add on-demand AI assistance directly to your workflow with new, agentic Burp AI capabilities"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "3af40c4a85b0797c3eb01aa61b39dbc420834e6a",
+      "link": "https://portswigger.net/blog/hacking-smarter-with-burp-ai-nahamsec-puts-burp-ai-to-the-test",
+      "published": 1759329100.0,
+      "source": "PortSwigger Blog",
+      "summary": "Bug bounty legend, NahamSec, has taken Burp AI for a spin. If you're curious how Burp AI fits into a real workflow, his new video is the perfect place to start. Watch on YouTube Burp AI was built to a",
+      "tags": [
+        "#appsec"
+      ],
+      "title": "Hacking smarter with Burp AI: NahamSec puts Burp AI to the test"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "b447149dad63dad449b9eb78afaf20670b17ebb0",
+      "link": "https://portswigger.net/blog/the-future-of-pentesting-is-human-x-ai-and-its-already-in-burp-suite-professional",
+      "published": 1759843061.0,
+      "source": "PortSwigger Blog",
+      "summary": "The latest Hacker-Powered Security Report from HackerOne makes one thing clear: AI-assisted pentesting isn't a future trend; it's today's reality. In HackerOne's 2025 report, 70% of surveyed researche",
+      "tags": [
+        "#appsec"
+      ],
+      "title": "The future of pentesting is Human x AI, and it's already in Burp Suite Professional"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "cfebabe2a4b92843c8de50eb8460b515b22f7d57",
+      "link": "https://portswigger.net/blog/http-1-1-must-die-dafydd-stuttard-on-what-this-means-for-enterprise-security",
+      "published": 1760018800.0,
+      "source": "PortSwigger Blog",
+      "summary": "At Black Hat USA 2025 and DEF CON 33, PortSwigger's Director of Research, James Kettle, unveiled new HTTP desync techniques that prove one thing beyond doubt: HTTP/1.1 is broken, and every organizatio",
+      "tags": [
+        "#appsec"
+      ],
+      "title": "HTTP/1.1 must die: Dafydd Stuttard on what this means for enterprise security"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "65320b14476519c63e15cc5598efc197d3202884",
+      "link": "https://github.blog/open-source/inside-the-breach-that-broke-the-internet-the-untold-story-of-log4shell/",
+      "published": 1760976016.0,
+      "source": "Security Archives - The GitHub Blog",
+      "summary": "<p>Log4Shell proved that open source security isn't guaranteed and isn’t just a code problem. It's about supporting, enabling, and empowering the people behind the projects that build our digital infrastructure.</p>…",
+      "tags": [
+        "#appsec"
+      ],
+      "title": "Inside the breach that broke the internet: The untold story of Log4Shell"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "86b25c299269d9b0d2c7e5aea1ce97354f9d825f",
+      "link": "https://portswigger.net/blog/burp-ai-takes-on-a-vulnerable-web-app-watch-tib3rius-put-burps-new-agentic-capabilities-to-the-test",
+      "published": 1761137945.0,
+      "source": "PortSwigger Blog",
+      "summary": "What happens when you set Burp AI loose on a deliberately vulnerable web app? In his latest video, Tib3rius takes Burp’s new agentic Burp AI capabilities for a spin - and the results are seriously coo",
+      "tags": [
+        "#appsec"
+      ],
+      "title": "Burp AI takes on a vulnerable web app: watch Tib3rius put Burp’s new agentic capabilities to the test"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "31ecb672ea6a4efec238d951aaa97d448f627fdc",
+      "link": "https://portswigger.net/blog/can-burp-ai-hack-a-website-cybermaddy-explores-the-new-agentic-capabilities-in-burp-ai",
+      "published": 1761138924.0,
+      "source": "PortSwigger Blog",
+      "summary": "In her latest video, CyberMaddy dives into the world of AI-driven ethical hacking, exploring how Burp AI performs in Repeater when tasked with finding web vulnerabilities like SQL injection, cross-sit",
+      "tags": [
+        "#appsec"
+      ],
+      "title": "Can Burp AI hack a website? CyberMaddy explores the new agentic capabilities in Burp AI"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "8a8c85f07fb323844a6aec62f5ba1df27af7b2bb",
+      "link": "https://portswigger.net/research/introducing-http-anomaly-rank",
+      "published": 1762872113.0,
+      "source": "PortSwigger Research",
+      "summary": "HTTP Anomaly Rank If you've ever used Burp Intruder or Turbo Intruder, you'll be familiar with the ritual of manually digging through thousands of responses by repeatedly sorting the table via length,",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Introducing HTTP Anomaly Rank"
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "26e45f49886ee8252109ffa68407ca2578f314b1",
+      "link": "https://portswigger.net/blog/hacking-with-burp-ai-in-the-chesspocalypse-api-expert-corey-ball-showcases-how-burp-ai-can-support-pentesters",
+      "published": 1763132972.0,
+      "source": "PortSwigger Blog",
+      "summary": "AI isn’t just reshaping cybersecurity - it’s challenging testers to rethink their entire playbook. In his latest article, “Hacking with Burp AI in the Chesspocalypse”, API expert Corey Ball draws less",
+      "tags": [
+        "#appsec"
+      ],
+      "title": "Hacking with Burp AI in the Chesspocalypse: API expert Corey Ball showcases how Burp AI can support pentesters."
+    },
+    {
+      "added_at": 1790253337.3737822,
+      "id": "c0ba1ecd83f5c3a0002f7be4e802af3bdf48bd20",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-githubs-agentic-security-principles-make-our-ai-agents-as-secure-as-possible/",
+      "published": 1764086400.0,
+      "source": "Security Archives - The GitHub Blog",
+      "summary": "<p>Learn more about the agentic security principles that we use to build secure AI products—and how you can apply them to your own agents.</p> <p>The post <a…",
+      "tags": [
+        "#appsec"
+      ],
+      "title": "How GitHub’s agentic security principles make our AI agents as secure as possible"
+    }
+  ],
+  "posted": []
+}
