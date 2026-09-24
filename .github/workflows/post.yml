@@ -6,8 +6,10 @@ name: SecurCrew LinkedIn Publisher
 # unaffected.
 
 on:
-  schedule:
-    - cron: '40 * * * *'
+  # PAUSED: automatic posting is disabled. Re-enable by uncommenting the
+  # schedule below. Manual runs via "Run workflow" still work.
+  # schedule:
+  #   - cron: '40 * * * *'
   workflow_dispatch: {}
 
 permissions:
