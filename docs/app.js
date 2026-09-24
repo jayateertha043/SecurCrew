@@ -36,12 +36,12 @@ async function load() {
 }
 
 function renderStats(data) {
-  const posted = state.items.filter((i) => i.status === "posted").length;
-  const queued = state.items.filter((i) => i.status === "queued").length;
+  const sources = new Set(state.items.map((i) => i.source).filter(Boolean)).size;
+  const shared = state.items.filter((i) => i.status === "posted").length;
   el.stats.replaceChildren(
-    stat(posted, "Posted"),
-    stat(queued, "Queued"),
-    stat(state.items.length, "Total")
+    stat(state.items.length, "Stories"),
+    stat(sources, "Sources"),
+    stat(shared, "Shared")
   );
   if (data.generated_at) {
     el.updated.textContent = "Updated " + timeAgo(data.generated_at * 1000);
@@ -103,7 +103,7 @@ function card(item) {
   top.className = "card-top";
   const badge = document.createElement("span");
   badge.className = "badge " + (item.status === "posted" ? "posted" : "queued");
-  badge.textContent = item.status === "posted" ? "Posted" : "Queued";
+  badge.textContent = item.status === "posted" ? "Shared" : "New";
   const time = document.createElement("span");
   time.className = "time";
   time.textContent = item.ts ? timeAgo(item.ts * 1000) : "";
