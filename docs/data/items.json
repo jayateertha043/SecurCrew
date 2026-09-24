@@ -1,7 +1,236 @@
 {
-  "generated_at": 1790262807.7938955,
-  "count": 161,
+  "generated_at": 1790284629.5417066,
+  "count": 175,
   "items": [
+    {
+      "title": "'Salesbleed' Exploits Salesforce Agents to Enable Slack Phishing",
+      "summary": "Salesforce agents can be abused to inject malicious instructions into Slack, enabling phishing via trusted channels. The attack uses Agentic AI to smuggle instructions across apps.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing",
+      "published": 1790283843.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790284629.5256302
+    },
+    {
+      "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
+      "summary": "MacSync variant targets macOS systems, using public iCloud calendar events to deliver native payloads. It exploits calendar sharing to spread malware.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
+      "published": 1790283215.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790284629.5256302
+    },
+    {
+      "title": "Autonomous AI Hacks Raise Thorny Questions of Legal Accountability",
+      "summary": "Legal accountability for autonomous AI hacks remains unclear. Lawsuits are possible but criminal investigations face a high burden, according to experts.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/",
+      "published": 1790282121.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790284629.5256302
+    },
+    {
+      "title": "SectopRAT Returns, Hiding Inside a Legitimate Application",
+      "summary": "SectopRAT returns, disguised within legitimate software. The incident underscores the need to monitor application behavior rather than trust by default.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application",
+      "published": 1790281970.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790284629.5256302
+    },
+    {
+      "title": "Digital forensics firm with US federal contracts covered up ties to Russia, DOJ alleges",
+      "summary": "Two executives of a digital forensics firm were arrested for lying about Russian-made technology. The company supplied software to U.S. federal agencies.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/russia-forensics-technology-doj",
+      "published": 1790281800.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790284629.5256302
+    },
+    {
+      "title": "Lawmakers introduce bill for voluntary telecom cyber rules after Salt Typhoon hacks",
+      "summary": "Senators Warner and Cruz introduced the Telecommunications Cybersecurity and Resilience Act after Salt Typhoon attacks breached major U.S. telecoms.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/lawmakers-introduce-bill-for-voluntary-telecom-cyber-rules",
+      "published": 1790280900.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790284629.5256302
+    },
+    {
+      "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
+      "summary": "Carbonato botnet targets insecure Docker hosts, installs the Hermes Agent AI framework, and takes control. It exploits exposed Docker daemons.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
+      "published": 1790280648.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790284629.5256302
+    },
+    {
+      "title": "Salesforce Agentforce vulns allowed 0-click CRM data theft, anonymous phishing",
+      "summary": "Salesforce Agentforce vulnerabilities enable 0‑click data theft and anonymous phishing. The flaws allow unexpected data exfiltration.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/09/24/salesforce-agentforce-vulns-allowed-0-click-crm-data-theft-anonymous-phishing/5298958",
+      "published": 1790276475.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790284629.5256302
+    },
+    {
+      "title": "Rydox cybercriminal marketplace operator pleads guilty following co-conspirator brothers’s deportation",
+      "summary": "Ardit Kutleshi pleaded guilty after extradition from Kosovo. He co‑operated with his brother to run Rydox, a marketplace for stolen data and fraud tools.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/rydox-criminal-marketplace-operator-pleads-guilty",
+      "published": 1790276220.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790284629.5256302
+    },
+    {
+      "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
+      "summary": "Unpatched vulnerabilities in OnePlus 15 allow malicious apps to gain root without permissions. The flaws affect other OnePlus and OPPO devices.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
+      "published": 1790273418.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790284629.5256302
+    },
+    {
+      "title": "New bill would create federal investigative body for AI-driven hacks",
+      "summary": "Congress proposes a Cybersecurity and AI Board of Investigations to oversee AI‑driven cyberattacks, led by Sen. Ed Markey, targeting incidents from companies like Anthropic and OpenAI.",
+      "source": "CyberScoop",
+      "link": "https://cyberscoop.com/new-bill-would-create-federal-investigative-body-for-ai-driven-hacks/",
+      "published": 1790273251.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790284629.5256302
+    },
+    {
+      "title": "Trust and the enticing consultancy offer",
+      "summary": "Newsletter highlights suspicious social media elicitation and warns that hubris is a major vulnerability in the cyber ecosystem.",
+      "source": "Cisco Talos Blog",
+      "link": "https://blog.talosintelligence.com/trust-and-the-enticing-consultancy-offer/",
+      "published": 1790272837.0,
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790284629.5256302
+    },
+    {
+      "title": "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories",
+      "summary": "ThreatsDay report details AI‑driven attacks such as search poisoning, code repository leaks, and one‑click code execution that exploit trusted user actions.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html",
+      "published": 1790272363.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790284629.5256302
+    },
+    {
+      "title": "Exposed GitLab project email addresses let attackers push code",
+      "summary": "GitLab projects publicly expose developer email addresses in documentation, enabling attackers to push code or issues to repositories.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
+      "published": 1790272064.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790284629.5256302
+    },
+    {
+      "title": "Phone-hacking company that won U.S. security agency contracts hid Russian ownership, DOJ alleges",
+      "summary": "DOJ alleges a phone‑hacking firm with U.S. security contracts hid Russian ownership; its leaders face wire fraud charges.",
+      "source": "CyberScoop",
+      "link": "https://cyberscoop.com/oxygen-forensics-ceo-arrested-russian-ownership-fraud/",
+      "published": 1790269651.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790284629.5256302
+    },
+    {
+      "title": "Decades-old file security flaws found in Android, Linux, macOS, and Windows",
+      "summary": "Researchers uncover long‑standing file event side‑channel leaks across Android, Linux, macOS, and Windows, with Microsoft acknowledging the design.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/09/24/decades-old-file-security-flaws-found-in-android-linux-macos-and-windows/5298672",
+      "published": 1790269200.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790284629.5256302
+    },
+    {
+      "title": "CVE flood pushes Ubuntu onto weekly kernel release cycle",
+      "summary": "Rapid CVE accumulation forces Canonical to shift Ubuntu kernel releases to a weekly cadence, driven by AI‑assisted vulnerability discovery.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/os-platforms/2026/09/24/cve-flood-pushes-ubuntu-onto-weekly-kernel-release-cycle/5298912",
+      "published": 1790267580.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790284629.5256302
+    },
+    {
+      "title": "Kontext Security Emerges With $4 Million for AI Agent Runtime Controls",
+      "summary": "Kontext Security raises $4M to build a runtime enforcement platform that monitors AI agents in real time, providing visibility and control.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/kontext-security-emerges-with-4-million-for-ai-agent-runtime-controls/",
+      "published": 1790265120.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790284629.5256302
+    },
+    {
+      "title": "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content",
+      "summary": "The placeholder domain third‑party[.]com, used in documentation, now serves a ClickFix lure to Windows browsers while showing a decoy to others.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
+      "published": 1790263652.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790284629.5256302
+    },
+    {
+      "title": "Someone went shopping in ASUS's eShop – for customer data",
+      "summary": "ASUS eShop breach exposed contact details and order records; the company has not disclosed the number of affected customers.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/09/24/someone-went-shopping-in-asuss-eshop-for-customer-data/5298860",
+      "published": 1790262780.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790284629.5256302
+    },
     {
       "title": "Emerging Ransomware Gang Uses Backup Destruction Threats to Pressure Victims",
       "summary": "Ransom notes by n0n ransomware claim to take double extortion to a new level of danger for victims",
@@ -12,6 +241,17 @@
       "ai": false,
       "status": "queued",
       "ts": 1790262074.7075453
+    },
+    {
+      "title": "3 Cyber Threats That Defined the Summer of 2026",
+      "summary": "The Reporters' Notebook series highlights three major 2026 cyber incidents: AI agents breached Hugging Face.\nFairlife suffered a ransomware attack.\nIranian-linked actors compromised a dozen U.S. water systems.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/3-cyber-threats-defined-summer-2026",
+      "published": 1790261052.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790284629.5256302
     },
     {
       "title": "OpenAI Agents Probed Websites for Vulnerabilities While Fetching Public Data",
@@ -1732,83 +1972,6 @@
       "source": "darkreading",
       "link": "https://www.darkreading.com/application-security/how-ai-agents-can-trigger-runaway-costs",
       "published": 1790026799.0,
-      "tags": [],
-      "ai": false,
-      "status": "queued",
-      "ts": 1790256977.9800217
-    },
-    {
-      "title": "ShinyHunters Hacked Cl0p. Now What About Cl0p's Victims?",
-      "summary": "ShinyHunters defaced Cl0p's Dark Web site and claims to have stolen victim data, potentially exposing organizations that paid ransoms to renewed extortion attempts.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims",
-      "published": 1790021276.0,
-      "tags": [],
-      "ai": false,
-      "status": "queued",
-      "ts": 1790256977.9800217
-    },
-    {
-      "title": "Meta Muse AI app flaw lets local malware redirect dictation traffic",
-      "summary": "Ad biz promises users control while bug could expose voice prompts",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/21/meta-muse-ai-app-flaw-lets-local-malware-redirect-dictation-traffic/5297980",
-      "published": 1790020792.0,
-      "tags": [],
-      "ai": false,
-      "status": "queued",
-      "ts": 1790256977.9800217
-    },
-    {
-      "title": "Cybercriminals Are Hiding New Malware in Torrents for Popular Films",
-      "summary": "Victims have been identified in Africa, including in Kenya and Uganda.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-hiding-new-malware-torrents-popular-films",
-      "published": 1790017886.0,
-      "tags": [],
-      "ai": false,
-      "status": "queued",
-      "ts": 1790256977.9800217
-    },
-    {
-      "title": "Treasury chief says AI bosses, not their bots, will carry the can for criminal acts",
-      "summary": "'Humans are responsible, not the AI,' argues Scott Bessent as he calls out OpenAI agents' hack of Hugging Face",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/security/2026/09/21/treasury-chief-says-ai-bosses-not-their-bots-will-carry-the-can-for-criminal-acts/5297965",
-      "published": 1790017853.0,
-      "tags": [],
-      "ai": false,
-      "status": "queued",
-      "ts": 1790256977.9800217
-    },
-    {
-      "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
-      "summary": "A fake LastPass Authenticator installer offered on GitHub installs a Windows kernel driver that shuts off antivirus and other security software before a password stealer runs if a victim downloads and runs it,…",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
-      "published": 1790011861.0,
-      "tags": [],
-      "ai": false,
-      "status": "queued",
-      "ts": 1790256977.9800217
-    },
-    {
-      "title": "Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto",
-      "summary": "The North Korean threat actors behind the Contagious Interview campaign have compromised at least 30,000 devices located in more than 100 countries and siphoned funds or account credentials from over 7,000…",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/contagious-interview-campaign.html",
-      "published": 1790011140.0,
-      "tags": [],
-      "ai": false,
-      "status": "queued",
-      "ts": 1790256977.9800217
-    },
-    {
-      "title": "Google Fined €403 Million Over GDPR Violations Tied to Location Data",
-      "summary": "Google has been fined €403 million for breaking the EU's data protection law, the GDPR, in the way three of its features handled people's location data from May 2018 to February 2020. Ireland's Data Protection…",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html",
-      "published": 1790009851.0,
       "tags": [],
       "ai": false,
       "status": "queued",
