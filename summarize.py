@@ -111,6 +111,12 @@ class Summarizer:
             return None
         summaries = _parse_json_array(content)
         if summaries is None or len(summaries) != len(items):
+            log.warning(
+                "AI 200 but unparseable/mismatched (%s items, got %s) | %s",
+                len(items),
+                "None" if summaries is None else len(summaries),
+                content[:200],
+            )
             return None
         return summaries
 
