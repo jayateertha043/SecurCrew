@@ -230,9 +230,11 @@ POST_BACKEND=webhook WEBHOOK_URL=https://hooks.zapier.com/... python publish.py
 
 ## Running
 
-- **Automatic:** two hourly workflows run on offset schedules — **Collector**
-  (`collect.yml`, :10) feeds the site + queue, **Publisher** (`post.yml`, :40)
-  posts to LinkedIn. They share a concurrency group so commits never collide.
+- **Automatic:** two independent workflows on separate schedules — **Collector**
+  (`collect.yml`, twice daily at 06:00 & 18:00 UTC) aggregates feeds into the
+  saved store (queue + site data), and **Publisher** (`post.yml`, hourly at :40)
+  paces posts from that store. They share a concurrency group so commits never
+  collide.
 - **Manual:** open the **Actions** tab → *SecurCrew Collector* or *SecurCrew
   LinkedIn Publisher* → **Run workflow** (`workflow_dispatch`).
 - **Locally (dry test of parsing/dedup/queue):**
@@ -264,7 +266,7 @@ All knobs are constants at the top of [`pipeline.py`](pipeline.py):
 | `DELAY_RANGE` | Randomized delay between posts (s) | `(45, 120)` |
 | `PRUNE_WINDOW_DAYS` | Age at which seen/counts/posted-log prune | `7` |
 | `QUEUE_TTL_DAYS` | Age at which unposted queued items are dropped | `2` |
-| `MAX_ENQUEUE_PER_RUN` | Cap on items added to the queue per collect | `40` |
+| `MAX_ENQUEUE_PER_RUN` | Cap on items added to the queue per collect | `60` |
 
 AI behavior is env-driven: set `AI_API_KEY` to enable dedup-clustering +
 summaries, or `USE_AI_SUMMARY=0` to disable and use fuzzy-only + clipping.

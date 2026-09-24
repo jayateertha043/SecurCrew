@@ -30,8 +30,8 @@ DAILY_CAP = 20                   # posts per UTC day (queue holds the rest)
 DELAY_RANGE = (45.0, 120.0)      # randomized human-like delay between posts (s)
 PRUNE_WINDOW_DAYS = 7            # drop seen/history/counts + posted log older than this
 QUEUE_TTL_DAYS = 2               # discard queued-but-unposted items older than this (stale news)
-MAX_ENTRIES_PER_FEED = 25        # only consider the newest N entries per feed
-MAX_ENQUEUE_PER_RUN = 40         # cap items added to the queue in one collect run
+MAX_ENTRIES_PER_FEED = 40        # look deeper per feed since we collect only ~2x/day
+MAX_ENQUEUE_PER_RUN = 60         # cap items added to the queue in one collect run
 BASE_HASHTAGS = "#infosec #cybersecurity #bugbounty"
 SUMMARY_MAX_CHARS = 220          # fallback (non-AI) summary length
 

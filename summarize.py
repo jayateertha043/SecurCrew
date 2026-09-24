@@ -26,6 +26,7 @@ import requests
 DEFAULT_BASE_URL = "https://api.groq.com/openai/v1"
 DEFAULT_MODEL = "llama-3.1-8b-instant"
 REQUEST_TIMEOUT = 45
+SUMMARY_CHUNK = 20  # summarize at most this many items per request for reliability
 
 _SYSTEM_PROMPT = (
     "You are a cybersecurity news editor. Summarize each item in 2-3 short, "
@@ -69,8 +70,20 @@ class Summarizer:
     def summarize_batch(self, items: List[dict]) -> Optional[List[str]]:
         """Return one summary per item, or None on any failure.
 
-        A None return signals the caller to fall back to plain clipping.
+        Large batches are chunked so each request stays small and reliable; a
+        None return signals the caller to fall back to plain clipping.
         """
+        out: List[str] = []
+        for start in range(0, len(items), SUMMARY_CHUNK):
+            chunk = items[start:start + SUMMARY_CHUNK]
+            part = self._summarize_chunk(chunk)
+            if part is None:
+                return None
+            out.extend(part)
+        return out
+
+    def _summarize_chunk(self, items: List[dict]) -> Optional[List[str]]:
+        """Summarize a single small batch of items."""
         payload_items = [
             {"title": it.get("title", ""), "text": it.get("summary", "")}
             for it in items

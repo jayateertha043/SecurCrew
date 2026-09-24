@@ -7,7 +7,9 @@ name: SecurCrew Collector (site + queue)
 
 on:
   schedule:
-    - cron: '10 * * * *'
+    # Twice daily (06:00 & 18:00 UTC). One aggregation fills the queue + site
+    # data for the whole day; the Publisher paces posts from that saved store.
+    - cron: '0 6,18 * * *'
   workflow_dispatch: {}
 
 permissions:
