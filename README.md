@@ -44,9 +44,10 @@ through a committed `state/queue.json`:
 **Pruning** — old `seen`/`history`/`counts`, the `posted` log (7 days), and
 stale unposted `pending` items (2 days) are dropped so state stays tiny.
 
-> Both phases run sequentially in one hourly workflow by default; the queue
-> buffers so you collect many stories but post only a few per run. They can be
-> split into two separate scheduled workflows if you want independent cadences.
+> The two phases run as **independent scheduled workflows**: the **Collector**
+> (`collect.yml`) fills the queue and the website data, and the **Publisher**
+> (`post.yml`) drains the queue to LinkedIn. The website therefore works even if
+> LinkedIn is never configured, and a publishing failure never affects the site.
 
 ---
 
@@ -54,7 +55,8 @@ stale unposted `pending` items (2 days) are dropped so state stays tiny.
 
 ```
 .
-├── .github/workflows/post.yml   # hourly: collect -> publish + workflow_dispatch
+├── .github/workflows/collect.yml # RSS -> queue + site data (no LinkedIn needed)
+├── .github/workflows/post.yml    # queue -> LinkedIn (publisher only)
 ├── feeds.txt                    # feed URLs, one per line (# comments allowed)
 ├── collect.py                   # aggregate -> dedup -> pick original -> summarize -> enqueue
 ├── publish.py                   # drain queue -> post one story per item
@@ -220,9 +222,11 @@ POST_BACKEND=webhook WEBHOOK_URL=https://hooks.zapier.com/... python publish.py
 
 ## Running
 
-- **Automatic:** the workflow runs hourly via cron (collect → publish).
-- **Manual:** open the **Actions** tab → *SecurCrew LinkedIn Auto-Poster* →
-  **Run workflow** (`workflow_dispatch`).
+- **Automatic:** two hourly workflows run on offset schedules — **Collector**
+  (`collect.yml`, :10) feeds the site + queue, **Publisher** (`post.yml`, :40)
+  posts to LinkedIn. They share a concurrency group so commits never collide.
+- **Manual:** open the **Actions** tab → *SecurCrew Collector* or *SecurCrew
+  LinkedIn Publisher* → **Run workflow** (`workflow_dispatch`).
 - **Locally (dry test of parsing/dedup/queue):**
   ```bash
   pip install -r requirements.txt
@@ -289,20 +293,26 @@ backs off and stops, leaving items queued rather than retry-hammering.
 The [`docs/`](docs) folder is a static site that displays the collected stories
 and their AI summaries — no build step, no framework, just HTML/CSS/JS.
 
-**How it's fed:** every collect/publish run writes
-[`docs/data/items.json`](docs/data/items.json) (via `site_data.py`) from the
-queue — merging **posted** and **queued** items, newest first. The page renders
-cards with a status badge, source, summary, time-ago, plus search and filters.
+**Independent of Actions and LinkedIn.** GitHub Pages *serves* the static files
+itself (via "Deploy from a branch") — it does **not** need your workflows to run.
+The site's content comes from the **Collector** workflow (RSS aggregation), so it
+works fully even if LinkedIn posting is never set up. A publishing failure never
+touches the site.
+
+**How it's fed:** the Collector writes [`docs/data/items.json`](docs/data/items.json)
+(via `site_data.py`) from the queue, newest first. The page renders cards with a
+status badge, source, summary, time-ago, plus search and filters. (The Publisher
+also refreshes it to flip items to "posted", but the site never depends on that.)
 
 **Enable it:**
-1. Push the repo to GitHub.
+1. Push the repo to GitHub (merge into `main`).
 2. **Settings → Pages → Build and deployment → Source: Deploy from a branch.**
 3. Select branch **`main`** and folder **`/docs`**, then **Save**.
-4. The UI goes live at `https://<user>.github.io/<repo>/`.
+4. The UI goes live at `https://<user>.github.io/<repo>/` (or your custom
+   domain — see [`docs/CNAME`](docs/CNAME)).
 
-The workflow commits `docs/data/items.json` each run, so the site refreshes
-automatically. Feed content is untrusted, so the UI inserts all text via DOM
-APIs (never `innerHTML`) to prevent XSS.
+Feed content is untrusted, so the UI inserts all text via DOM APIs (never
+`innerHTML`) to prevent XSS.
 
 **Preview locally:**
 ```bash
