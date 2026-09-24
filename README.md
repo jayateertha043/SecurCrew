@@ -157,34 +157,44 @@ Collected items are rewritten into clean 2–3 line summaries by any
 OpenAI-compatible LLM, and the same endpoint powers the optional dedup-clustering
 pass. It's **fail-soft**: if AI is unavailable or a call fails, the collector
 falls back to fuzzy-only dedup and clipping the raw feed text — a run never
-breaks over AI.
+breaks over AI. The UI tags each card **"AI summary"** or **"Excerpt"** so you
+can see which path produced it.
 
-**Default: GitHub Models — zero setup.** The Collector workflow is preconfigured
-to use **GitHub Models** via the built-in `GITHUB_TOKEN` (`permissions: models:
-read`). No account, no key, no secret to rotate — it just works when Actions run.
+**Recommended: Groq — free and reliable.** GitHub Models via the built-in
+`GITHUB_TOKEN` is wired as a zero-setup default, but in practice it often returns
+empty responses over `GITHUB_TOKEN`, so summaries silently fall back to excerpts.
+**Groq** is free (no credit card), fast, and rock-solid — use it.
 
-**Providers** (all OpenAI-compatible; override the default by setting the
-secret/variables below):
+**Set up Groq (≈2 min):**
+1. Create a free key at <https://console.groq.com> → **API Keys**.
+2. Repo → **Settings → Secrets and variables → Actions**:
+   - **Secret** `AI_API_KEY` = your Groq key (`gsk_…`)
+   - **Variable** `AI_BASE_URL` = `https://api.groq.com/openai/v1`
+   - **Variable** `AI_MODEL` = `llama-3.1-8b-instant`
+3. Re-run the **Collector** — cards flip to green **"AI summary"**.
 
-| Provider | `AI_BASE_URL` | Example `AI_MODEL` | Auth |
+> **Model choice:** `llama-3.1-8b-instant` is Groq's most cost-efficient model —
+> highest free-tier rate limits and lowest token use, ideal for summaries and for
+> sharing one Groq account across projects. This bot makes only ~8 small requests
+> per day (2 runs × batched calls), so it stays comfortably inside the free tier.
+
+**Providers** (all OpenAI-compatible):
+
+| Provider | `AI_BASE_URL` | `AI_MODEL` | Auth |
 | --- | --- | --- | --- |
-| **GitHub Models** (default) | `https://models.github.ai/inference` | `openai/gpt-4o-mini` | built-in `GITHUB_TOKEN` |
-| **Groq** | `https://api.groq.com/openai/v1` | `llama-3.1-8b-instant` | free `AI_API_KEY`, no card |
+| **Groq** (recommended) | `https://api.groq.com/openai/v1` | `llama-3.1-8b-instant` | free `AI_API_KEY`, no card |
 | **Google Gemini** | `https://generativelanguage.googleapis.com/v1beta/openai` | `gemini-1.5-flash` | free `AI_API_KEY` |
+| **GitHub Models** (default, unreliable) | `https://models.github.ai/inference` | `openai/gpt-4o-mini` | built-in `GITHUB_TOKEN` |
 
-**To keep the default (GitHub Models):** do nothing.
-
-**To switch providers**, in **Settings → Secrets and variables → Actions**:
-1. Add **secret** `AI_API_KEY` = your provider key.
-2. Add **variables** `AI_BASE_URL` and `AI_MODEL` for that provider.
-3. The workflow's `${{ secrets.AI_API_KEY || secrets.GITHUB_TOKEN }}` fallbacks
-   mean any value you set overrides the GitHub Models default.
+The workflow's `${{ secrets.AI_API_KEY || secrets.GITHUB_TOKEN }}` and
+`${{ vars.AI_BASE_URL || <github-models-default> }}` fallbacks mean setting the
+secret + variables above cleanly overrides the default — no YAML edit needed.
 
 **To disable AI** entirely, set variable `USE_AI_SUMMARY=0` (uses fuzzy dedup +
 clipping).
 
-All originals in a collect run are summarized in **one** API call, and dedup
-clustering is **one** more — bounded and cheap even on free rate limits.
+All originals in a collect run are summarized in batched API calls (≤20 items
+each), and dedup clustering is one more — bounded and cheap even on free tiers.
 
 ---
 
