@@ -113,7 +113,16 @@ function card(item) {
   const time = document.createElement("span");
   time.className = "time";
   const when = Number(item.published) || 0;  // RSS publish date only
-  time.textContent = when ? timeAgo(when * 1000) : "";
+  if (when) {
+    const dt = new Date(when * 1000);
+    time.textContent = dt.toLocaleString(undefined, {
+      month: "short",
+      day: "numeric",
+      hour: "2-digit",
+      minute: "2-digit",
+    });
+    time.title = "Published " + dt.toLocaleString();
+  }
   top.append(badge, ai, time);
 
   const h3 = document.createElement("h3");
