@@ -1,7 +1,42 @@
 {
-  "generated_at": 1790255711.577319,
-  "count": 60,
+  "generated_at": 1790255807.1523845,
+  "count": 120,
   "items": [
+    {
+      "title": "Prompt-Injection Bug Hits $4B Agentic AI App 'Manus'",
+      "summary": "AI apps that interpret external data (read: most AI apps) need exceptionally rigorous security filters, or attackers can take advantage.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/application-security/prompt-injection-bug-agentic-ai-app-manus",
+      "published": 1790254800.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
+      "title": "Google to critical infra orgs: Our AI scanners won't be evil, promise",
+      "summary": "Gemini 3.8 Flash Cyber and Wiz's Red Agent team up to protect hospitals, public transit, and tech",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/09/24/google-to-critical-infra-orgs-our-ai-scanners-wont-be-evil-promise/5298685",
+      "published": 1790254800.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
+      "title": "When Business Email Compromise Starts Rewriting Reality",
+      "summary": "<p><span style=\"color: rgb(29, 28, 29); font-size: undefined;\">Business Email Compromise (BEC) operates on a familiar playbook. Threat actors breach a mailbox, silently monitor operations, map approval chains, and…",
+      "source": "Rapid7 Cybersecurity Blog",
+      "link": "https://www.rapid7.com/blog/post/ve-business-email-compromise-rewriting-reality-zimbra-cve",
+      "published": 1790254800.0,
+      "tags": [
+        "#vulnerability"
+      ],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
     {
       "title": "OpenAI agent hacking spree widens to Australia, targeting government website",
       "summary": "<p>Before the Hugging Face and RubyGems hacks, autonomous OpenAI agents attempted to hack into three other websites, including an Australian government public health website, independent research lab Transluce revealed…",
@@ -137,6 +172,28 @@
       "ts": 1790254808.6060636
     },
     {
+      "title": "Meta locks itself out of user data on its AI glasses",
+      "summary": "<p>Meta is expanding Private Processing to its AI glasses, extending their security protections into cloud data centers. The system runs AI models inside confidential virtual machines (CVMs) designed to prevent Meta…",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/09/24/meta-private-processing-for-ai-glasses/",
+      "published": 1790249704.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
+      "title": "UK gears up for fight against Russia’s disinformation machine",
+      "summary": "<p>The UK government will create a new body to track and disrupt disinformation campaigns run by hostile states, Prime Minister Andy Burnham announced at the United Nations General Assembly in New York. In his first…",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/09/24/uk-national-centre-for-information-defence-disinformation-detection/",
+      "published": 1790249136.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
       "title": "Malicious npm Packages That Evade Defenses",
       "summary": "<p>This is an impressive piece of <a href=\"https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/\">malware</a>. Its sophistication says nation-state to me, but…",
       "source": "Schneier on Security",
@@ -263,6 +320,17 @@
       "ts": 1790254808.6060636
     },
     {
+      "title": "New Android malware RemControl steals banking PINs and blocks removal attempts",
+      "summary": "<p>A new Android banking trojan called RemControl tricks victims into installing a fake TV app, then takes control of their phones to steal banking PINs, Group-IB has found. Researchers confirmed that the malware…",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/09/24/remcontrol-android-banking-trojan-fake-tv-app/",
+      "published": 1790242843.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
       "title": "OpenAI hacked Australian Medicare govt site, probed data providers",
       "summary": "OpenAI agents targeted public data providers in multiple countries, probing some for vulnerabilities and exploiting a security weakness in an Australian government portal while performing information-retrieval tasks as…",
       "source": "BleepingComputer",
@@ -272,6 +340,17 @@
       "ai": false,
       "status": "queued",
       "ts": 1790254808.6060636
+    },
+    {
+      "title": "Google plans to give Private AI Compute a memory that follows users across devices",
+      "summary": "<p>Google plans to add private, server-side memory to Private AI Compute, enabling AI assistants to maintain continuity across devices while providing privacy protections normally associated with on-device processing.…",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/09/24/google-private-ai-compute-server-side-memory/",
+      "published": 1790242349.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
     },
     {
       "title": "Over 75% of Organizations Experience Microsoft 365 Governance Issues",
@@ -294,6 +373,17 @@
       "ai": false,
       "status": "queued",
       "ts": 1790254808.6060636
+    },
+    {
+      "title": "US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks",
+      "summary": "<p>Karen Vardanyan has also been ordered to pay over $1.2 million in restitution to victims.</p> <p>The post <a…",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/us-court-sentences-armenian-man-to-prison-for-ryuk-ransomware-attacks/",
+      "published": 1790239109.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
     },
     {
       "title": "Data Overtakes Skills as Top Threat Hunting Challenge, SANS Study Finds",
@@ -327,6 +417,17 @@
       "ai": false,
       "status": "queued",
       "ts": 1790254808.6060636
+    },
+    {
+      "title": "Critical WordPress Vulnerability Exploited Immediately After Disclosure",
+      "summary": "<p>Tracked as CVE-2026-87902, the path traversal flaw allows remote, unauthenticated attackers to execute arbitrary code.</p> <p>The post <a…",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/critical-wordpress-vulnerability-exploited-immediately-after-disclosure/",
+      "published": 1790233946.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
     },
     {
       "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
@@ -420,6 +521,17 @@
       "ts": 1790254808.6060636
     },
     {
+      "title": "SASE Converges Network & Security Into One Cloud Solution",
+      "summary": "Enterprise computing is moving to the edge. Keeping it secure requires tactics far beyond putting up firewalls.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/cloud-security/sase-converges-network-security-one-cloud",
+      "published": 1790202550.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
       "title": "New RemControl Android banking malware targets users in Europe and Canada",
       "summary": "A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap IPTV application. [...]",
       "source": "BleepingComputer",
@@ -466,6 +578,17 @@
       "ts": 1790254808.6060636
     },
     {
+      "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
+      "summary": "Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of its Security Gateway…",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
+      "published": 1790193234.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
       "title": "Watchdog finds most agencies failed to meet CISA cloud security orders, heightening risk of attack",
       "summary": "<p>The DHS inspector general said CISA lacks the power to compel agencies to implement its Binding Operational Directives.</p> <p>The post <a…",
       "source": "CyberScoop",
@@ -475,6 +598,17 @@
       "ai": false,
       "status": "queued",
       "ts": 1790254808.6060636
+    },
+    {
+      "title": "IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU Decoder",
+      "summary": "<p>IonQ’s new single processor quantum error decoder minimizes the classical computing overhead in quantum error correction.</p> <p>The post <a…",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/",
+      "published": 1790191969.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
     },
     {
       "title": "No evidence of successful foreign meddling in 2024 election, spy agencies found",
@@ -488,6 +622,17 @@
       "ai": false,
       "status": "queued",
       "ts": 1790254808.6060636
+    },
+    {
+      "title": "Hackers start exploiting critical WordPress flaw for code execution",
+      "summary": "Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed. [...]",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
+      "published": 1790188282.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
     },
     {
       "title": "Pentagon cyber chief: The demand far exceeds supply",
@@ -512,6 +657,28 @@
       "ts": 1790254808.6060636
     },
     {
+      "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
+      "summary": "Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized repository hosted by HashiCorp as a…",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
+      "published": 1790186790.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
+      "title": "Worries About an AI Internet Takeover Gain New Urgency Among Doomsday Scenarios",
+      "summary": "<p>The idea that AI could break away and work toward its own agenda is looking increasingly plausible to researchers and experts.</p> <p>The post <a…",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios/",
+      "published": 1790186758.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
       "title": "Ryuk ransomware operator sentenced to 2 years in prison",
       "summary": "<p>The Armenian national was extradited from Ukraine to the United States last year and pleaded guilty to cybercrimes in July.</p> <p>The post <a…",
       "source": "CyberScoop",
@@ -521,6 +688,39 @@
       "ai": false,
       "status": "queued",
       "ts": 1790254808.6060636
+    },
+    {
+      "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
+      "summary": "The private email address GitLab gives you for filing issues by email is a credential. Anyone who gets it can email a patch that GitLab commits in your name, to any branch you can push to, including main, and can start…",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
+      "published": 1790182390.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
+      "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
+      "summary": "A financially motivated threat actor is using open-source AI agent frameworks to attack hundreds of online retailers at scale, stealing more than 600,000 credit card records. [...]",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
+      "published": 1790180454.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
+      "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
+      "summary": "Two MikroTik RouterOS SSH vulnerabilities chained together let attackers take full administrative control of Internet-exposed routers without a password, SSH key, or completed authentication. The chain, which CERT…",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
+      "published": 1790179601.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
     },
     {
       "title": "UAE, Saudi Arabia Face Onslaught of Increasingly Complex Cyberattacks",
@@ -602,6 +802,17 @@
       "ts": 1790254808.6060636
     },
     {
+      "title": "InfraTrust report warns network management systems under attack",
+      "summary": "Attackers are increasingly targeting the management systems used to control enterprise infrastructure, with several critical vulnerabilities actively exploited before or shortly after vendors disclosed them. [...]",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
+      "published": 1790174126.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
       "title": "FBI investigating alleged ShinyHunters breach of its jobs site",
       "summary": "The ShinyHunters cybercriminal organization on Tuesday replaced agency images on the FBIjobs.gov site with a photo of a Pokemon that has become the group’s defacto mascot.",
       "source": "The Record from Recorded Future News",
@@ -613,6 +824,28 @@
       "ai": false,
       "status": "queued",
       "ts": 1790254808.6060636
+    },
+    {
+      "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
+      "summary": "A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server, Cisco Talos said on September 22. The models can choose to steal Windows credentials,…",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
+      "published": 1790173078.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
+      "title": "How One Kubernetes YAML Can Hand Over a GCP Organization",
+      "summary": "A Kubernetes user with limited permissions can potentially gain control of an entire Google Cloud organization by exploiting the authority granted to Google Kubernetes Config Connector. Varonis explains how this…",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
+      "published": 1790172071.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
     },
     {
       "title": "HTTP/3 in Burp Suite - it’s time to find a bigger wordlist",
@@ -629,6 +862,28 @@
       "ts": 1790254808.6060636
     },
     {
+      "title": "Windows Botnet x47.c Offers AI API Draining, 18 Attack Methods",
+      "summary": "Qrator found a Windows botnet advertised with AI API draining, credential theft and SOCKS5 proxying",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/x47c-botnet-ai-api-draining-18/",
+      "published": 1790172000.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
+      "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
+      "summary": "Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit designed for…",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
+      "published": 1790171566.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
       "title": "How dynamic application security testing validates risk at runtime",
       "summary": "<p style=\"direction: ltr;\"><span style=\"font-size: undefined;\">Security teams already have long queues of potential application vulnerabilities. The useful question is what happens next: can they see how a weakness…",
       "source": "Rapid7 Cybersecurity Blog",
@@ -642,6 +897,50 @@
       "ts": 1790254808.6060636
     },
     {
+      "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
+      "summary": "Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
+      "published": 1790166593.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
+      "title": "The president has called for AI leadership. Here’s the mission.",
+      "summary": "<p>An AI compact built around capability, control, and continuity can ensure the country stays safe and secure while also leading the world in the technology.</p> <p>The post <a…",
+      "source": "CyberScoop",
+      "link": "https://cyberscoop.com/president-ai-leadership-mission-critical-infrastructure-op-ed/",
+      "published": 1790165840.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
+      "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
+      "summary": "A flaw in cPanel's CalDAV and CardDAV service lets anyone with a cPanel hosting account run code as root and take \"full control of the server,\" the company said on September 22. A second bug in the WP Toolkit plugin,…",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
+      "published": 1790165760.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
+      "title": "Ransomware Attacks Reach Record High for 2026",
+      "summary": "A total of 1073 firms fell victim to ransomware attacks globally in August, with the industrial sector the most affected, according to new NCC data",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/ransomware-attacks-reach-record/",
+      "published": 1790164800.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
       "title": "British regulator takes a hard look at Pornhub's Apple-powered age checks",
       "summary": "Regulator wants to know whether parent Aylo did its homework before reopening the door to UK iPhone users",
       "source": "www.theregister.com - Articles",
@@ -651,6 +950,50 @@
       "ai": false,
       "status": "queued",
       "ts": 1790254808.6060636
+    },
+    {
+      "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
+      "summary": "Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a report the agent wrote about itself: confident prose, a…",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
+      "published": 1790164039.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
+      "title": "Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests",
+      "summary": "Anthropic and OpenAI on Tuesday announced new models, with both artificial intelligence (AI) companies noting that they are continuing to invest in improving alignment to combat risky behavior. Opus 5.5, per Anthropic,…",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html",
+      "published": 1790164033.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
+      "title": "Microsoft: September Windows updates break Always On VPN connections",
+      "summary": "Microsoft warned that the September 2026 security updates may also break Always On VPN connections on some Windows 11 systems. [...]",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/",
+      "published": 1790162293.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
+      "title": "Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape",
+      "summary": "A use-after-free in the Linux kernel's AF_UNIX socket subsystem can be used to escape a container and gain root on the host, security firm DepthFirst said in research published September 22. The flaw, tracked as…",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html",
+      "published": 1790161938.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
     },
     {
       "title": "Research on Models Engaging in Genie-Like Behavior",
@@ -666,6 +1009,17 @@
       "ts": 1790254808.6060636
     },
     {
+      "title": "ShinyHunters Claims FBI Hack Via PeopleSoft Zero Day",
+      "summary": "Infamous threat group ShinyHunters claims to have personal information on thousands of FBI employees",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/shinyhunters-fbi-hack-peoplesoft/",
+      "published": 1790157600.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
       "title": "CVE-2026-94127: Critical Unauthenticated RCE in F5 BIG-IP APM",
       "summary": "<h2 style=\"direction: ltr;\">Overview</h2><p style=\"direction: ltr;\"><span style=\"font-size: undefined;\">On September 22, 2026, F5 published a security </span><a href=\"https://my.f5.com/manage/s/article/K000162605\"><span…",
       "source": "Rapid7 Cybersecurity Blog",
@@ -677,6 +1031,314 @@
       "ai": false,
       "status": "queued",
       "ts": 1790254808.6060636
+    },
+    {
+      "title": "EU Auditors Warn Information-Sharing Gaps Are Hindering Cyber Incident Response",
+      "summary": "The EU Court of Auditors has criticized EU shortcomings in responding to major cyber incidents",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/eu-auditors-slam-blocs-cyberinfo/",
+      "published": 1790152200.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
+      "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers",
+      "summary": "Attackers are exploiting a critical flaw in F5 BIG-IP Access Policy Manager (APM) that lets them run code on a BIG-IP system without logging in, F5 says. The flaw, CVE-2026-94127, affects only systems in which APM…",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
+      "published": 1790152188.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
+      "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware",
+      "summary": "A Chinese threat actor codenamed UTA0565 has been observed exploiting the recently disclosed Google Chrome-Microsoft Windows exploit chain as zero-days through fake websites. The attacks, detected on September 3 and 4,…",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html",
+      "published": 1790152164.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
+      "title": "Ryuk ransomware member sentenced to 24 months in prison",
+      "summary": "An Armenian man was sentenced to 24 months in prison and 3 years of supervised release for hacking U.S. companies and encrypting their systems in Ryuk ransomware attacks. [...]",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/",
+      "published": 1790151605.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
+      "title": "Why security belongs in the network",
+      "summary": "SPONSORED EXPLAINER: Merging security into the network makes enterprise protection more agile",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/09/23/sponsored-why-security-belongs-in-the-network/5296790",
+      "published": 1790150400.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
+      "title": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
+      "summary": "F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/",
+      "published": 1790147843.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
+      "title": "Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input",
+      "summary": "A new security vulnerability in Next.js could allow attackers to run code on a server via ImageResponse, the feature that generates Open Graph and other social preview images, Vercel said. The risk applies when an app…",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html",
+      "published": 1790147080.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
+      "title": "ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants",
+      "summary": "The cyber extortion group known as ShinyHunters on Tuesday claimed it had breached the U.S. Federal Bureau of Investigation and stolen data belonging to current and former employees at the agency. \"We have compromised…",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html",
+      "published": 1790141409.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
+      "title": "ShinyHunters claims attack on FBI exposes almost all agents",
+      "summary": "<p>The FBI jobs site, which was temporarily defaced, remains unavailable and the agency said it’s investigating the claims.</p> <p>The post <a href=\"https://cyberscoop.com/shinyhunters-claims-fbi-attack/\">ShinyHunters…",
+      "source": "CyberScoop",
+      "link": "https://cyberscoop.com/shinyhunters-claims-fbi-attack/",
+      "published": 1790120863.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
+      "title": "Windows CLOSEDQUORUM malware uses AI models to autonomously select post-compromise actions",
+      "summary": "'first' publicly documented Windows implant to use LLMs for C2",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/09/22/windows-closedquorum-malware-uses-ai-models-to-autonomously-select-post-compromise-actions/5298435",
+      "published": 1790112809.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
+      "title": "After water attacks, Capitol Hill offers its own proposal for an AI-cyber test program",
+      "summary": "<p>A key House Democrat and his bipartisan sponsors want to see a $100 million DHS pilot to help critical infrastructure owners and operators — separate from another administration-proposed pilot program.</p> <p>The…",
+      "source": "CyberScoop",
+      "link": "https://cyberscoop.com/gottheimer-ai-cyber-defense-act-cisa-pilot/",
+      "published": 1790111672.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
+      "title": "Relays Are Masking Chinese Access to Frontier AI Models in the US",
+      "summary": "More than 80,000 AI relay servers are helping users in China mask their identities while they access cutting-edge large language models (LLMs), probably to clone them.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/cyber-risk/relays-masking-chinese-access-frontier-ai-models",
+      "published": 1790111557.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
+      "title": "How the CISO-CMO Alliance Builds Trust Before Crisis Strikes",
+      "summary": "Cybersecurity and brand reputation are inextricably linked. Security and marketing leaders who establish regular touchpoints, develop joint crisis communications plans, and translate security risks into their brand…",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/cybersecurity-operations/how-ciso-cmo-alliance-builds-trust-before-crisis",
+      "published": 1790110553.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
+      "title": "Microsoft Disrupts EvilTokens Device Code Phishing Service",
+      "summary": "Microsoft seized 50 websites and disabled more than 150 domains as part of a coordinated disruption effort against a phishing-as-a-service platform targeting Microsoft 365 accounts.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service",
+      "published": 1790107322.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
+      "title": "Deception by Design: CISA's Guide to Tricking Cybercriminals",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) is going old school to help organizations with limited resources set traps for hackers.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/cybersecurity-operations/deception-by-design-cisa-s-guide-to-tricking-cybercriminals",
+      "published": 1790107164.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
+      "title": "Volexity spots another China-aligned threat group exploiting Chrome and Microsoft defects",
+      "summary": "<p>The threat group Volexity tracks as UTA0565 showcased a variance in tactics, but it used the same exploit kit as multiple Chinese threat groups.</p> <p>The post <a…",
+      "source": "CyberScoop",
+      "link": "https://cyberscoop.com/volexity-uta0565-china-exploit-chain-chrome-microsoft/",
+      "published": 1790102827.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
+      "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
+      "summary": "Attackers exploited a previously unknown flaw in Check Point's Security Management Server in a handful of targeted attacks on July 23, the company said. The flaw, CVE-2026-93616, allows an attacker who can access the…",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
+      "published": 1790101779.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
+      "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers",
+      "summary": "WordPress has fixed a critical flaw in its core software that lets an attacker with no account make a site load a PHP file from outside its theme folders. On some servers, that can go further, allowing the attacker to…",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html",
+      "published": 1790100190.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
+      "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
+      "summary": "Cybersecurity researchers have disclosed details of a malicious npm package named \"tw-pkgprobe-7731\" that masquerades as a security tool targeting developers integrating Twilio into their applications, while stealthily…",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
+      "published": 1790099895.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
+      "title": "ShinyHunters claims FBI hack: 'This is NOT financially motivated'",
+      "summary": "This time it's personal",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/09/22/shinyhunters-claims-fbi-hack-this-is-not-financially-motivated/5298385",
+      "published": 1790097853.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
+      "title": "Amid Ongoing Rogue Incidents, Debate Over AI Safety Gets Real",
+      "summary": "As more reports of misalignment incidents underscore AI risks, large AI labs, regular businesses, and even nations are searching for better ways to keep control and be secure.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/cyber-risk/rogue-incidents-debate-ai-safety-gets-real",
+      "published": 1790097146.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
+      "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
+      "summary": "Microsoft on Tuesday announced the takedown of the EvilTokens device code phishing service that it said used artificial intelligence (AI) \"at every step of the attack chain.\" The action, carried out with authorization…",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
+      "published": 1790096611.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
+      "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
+      "summary": "A critical vulnerability in Bifrost, an open-source AI gateway that routes requests to more than 20 LLM providers, allows an unauthenticated attacker to run arbitrary commands on the gateway server with a single HTTP…",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
+      "published": 1790095272.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
+      "title": "NightmareEclipse's latest zero-day leaves Microsoft Defender stuck in the past",
+      "summary": "BigDiskBuster leaves Microsoft's antivirus running but unable to install updates",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/09/22/nightmareeclipses-latest-zero-day-leaves-microsoft-defender-stuck-in-the-past/5298320",
+      "published": 1790094960.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
+      "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
+      "summary": "A zero-day proof-of-concept tool that stops Microsoft Defender from installing platform and signature updates by filling all available disk space was published on GitHub on September 19. The tool, called BigDiskBuster,…",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html",
+      "published": 1790093644.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
+      "title": "Z.ai says sorry for slurping up your code, open sources ZCode",
+      "summary": "China’s AI darling goes on the defense after engineer highlighted Grok-esque security flaws",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/09/22/zai-says-sorry-for-slurping-up-your-code-open-sources-zcode/5298300",
+      "published": 1790092740.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
+      "title": "UK cops arrest 2 EvilTokens suspects, Microsoft seizes 50 phishing kit websites",
+      "summary": "Used by crims to compromise 12K+ email inboxes across 10K+ global orgs",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/09/22/uk-cops-arrest-2-eviltokens-suspects-microsoft-seizes-50-phishing-kit-websites/5298317",
+      "published": 1790089200.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
+    },
+    {
+      "title": "Who signed off on that AI agent? Nobody? Thought so.",
+      "summary": "SPONSORED FEATURE: AI agents may be unpredictable. Who they are, what they can do, and who owns them shouldn’t be.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/09/22/sponsored/5297693",
+      "published": 1790089200.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1790255807.1481917
     },
     {
       "title": "[Virtual Event] Cybersecurity Outlook 2027",

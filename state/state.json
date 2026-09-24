@@ -240,68 +240,368 @@
     {
       "norm": "cve 2026 94127 critical unauthenticated rce f5 big ip apm h2 style direction ltr overview h2 p style direction ltr span style font size undefined september 22 2026 f5 published security span href style font size undefined advisory span span style font size undefined span href style font size undefined cve 2026 94127 span span style font size undefined critical heap based buffer overflow vulnerability affecting f5 big ip access policy manager apm vulnerability cvss v3 1 score 9 8 unauthenticated attacker network access affected virtual server may able achieve remote code execution rce sending specifically crafted traffic span p p style direction ltr span style font size undefined big ip apm provides identity aware access control applications other corporate resources can integrate authentication technologies including oauth openid connect saml cve 2026 94127 not exposed default configuration exploitation requires big ip virtual server both apm access policy oauth profile configured because affected big ip systems may process traffic organization s network edge organizations using this configuration should prioritize remediation span p p style direction ltr span style font size undefined vulnerability affects data plane does not expose big ip control plane big ip systems operating appliance mode also affected span p p style direction ltr span style font size undefined f5 lists following affected release trains corresponding fixed hotfixes span p ul li style direction ltr p style direction ltr span style font size undefined big ip 21 1 0 versions prior hotfix bigip 21 1 0 2 0 30 22 eng span p li li style direction ltr p style direction ltr span style font size undefined big ip 17 5 0 versions prior hotfix bigip 17 5 1 9 0 160 12 eng span p li li style direction ltr p style direction ltr span style font size undefined big ip 17 1 0 versions prior hotfix bigip 17 1 3 5 0 41 14 eng span p li ul p style direction ltr span style font size undefined september 22 2026 cve 2026 94127 been added span href style font size undefined cisa kev span span style font size undefined while publicly available proof concept not confirmed span p h2 style direction ltr mitigation guidance h2 p style direction ltr span style font size undefined organizations running affected f5 big ip deployments should apply appropriate f5 hotfix soon operationally feasible particularly where vulnerable apm oauth configuration reachable untrusted networks span p p style direction ltr span style font size undefined f5 lists following remediation versions span p ul li style direction ltr p style direction ltr span style font size undefined big ip 21 1 0 update hotfix bigip 21 1 0 2 0 30 22 eng later span p li li style direction ltr p style direction ltr span style font size undefined big ip 17 5 0 update hotfix bigip 17 5 1 9 0 160 12 eng later span p li li style direction ltr p style direction ltr span style font size undefined big ip 17 1 0 update hotfix bigip 17 1 3 5 0 41 14 eng later span p li ul p style direction ltr span style font size undefined administrators should first determine whether big ip apm access policy oauth profile configured together virtual server since this configuration required exposure span p p style direction ltr span style font size undefined organizations cannot immediately apply applicable update f5 provides irule workaround through f5 support customers should open support case f5 obtain vendor provided workaround follow f5 s implementation guidance span p h2 style direction ltr rapid7 customers h2 h3 style direction ltr exposure command vulnerability management nexpose h3 p style direction ltr span style font size undefined exposure command vulnerability management nexpose customers can assess exposure cve 2026 94127 using vulnerability checks expected available today s september 23 content release span p h2 style direction ltr updates h2 ul li style direction ltr p style direction ltr span style font size undefined september 22 2026 initial publication span p li ul",
       "ts": 1790254808.606827
+    },
+    {
+      "norm": "prompt injection bug hits 4b agentic ai app manus ai apps interpret external data read most ai apps need exceptionally rigorous security filters attackers can take advantage",
+      "ts": 1790255807.1482077
+    },
+    {
+      "norm": "google critical infra orgs our ai scanners won t evil promise gemini 3 8 flash cyber wiz s red agent team up protect hospitals public transit tech",
+      "ts": 1790255807.148233
+    },
+    {
+      "norm": "when business email compromise starts rewriting reality p span style color rgb 29 28 29 font size undefined business email compromise bec operates familiar playbook threat actors breach mailbox silently monitor operations map approval chains ultimately exploit access divert funds exfiltrate sensitive assets span p p style direction ltr span style color rgb 29 28 29 font size undefined this dynamic central our analysis we kick off series around rapid7 s collaborative research zimbra upcoming installments explore technical details broader findings based within zimbra collaboration suite our investigation disrupted traditional bec model unexpected ways we uncovered over 50 vulnerabilities found several allow attackers not just observe environments but actively rewrite them impersonating senders without credentials controlling inbox visibility altering shared documents calendars span p h2 span style color rgb 29 28 29 font size undefined business email compromise action digital abuse trust span h2 p style direction ltr span style color rgb 29 28 29 font size undefined none this theoretical zimbra but don t take my word just ask span href target blank span style font size undefined russia span span style color rgb 29 28 29 font size undefined cisa keeps putting zimbra bugs into span href target blank span style font size undefined known exploited vulnerabilities catalog span span style color rgb 29 28 29 font size undefined last three years make point their own span p ul li style direction ltr p style direction ltr href target blank span style font size undefined cve 2024 45519 span span style color rgb 29 28 29 font size undefined command injection postjournal service unauthenticated command execution proofpoint saw attackers stuffing base64 payloads into cc fields september 28 2024 cisa added kev october 3 span p li li style direction ltr p style direction ltr href target blank span style font size undefined cve 2025 27915 span span style color rgb 29 28 29 font size undefined stored xss classic web client triggered crafted ics attachment used zero day against brazilian military targets steal mail quietly set forwarding filters went into kev october 2025 span p li li style direction ltr p style direction ltr href target blank span style font size undefined cve 2026 73570 span span style color rgb 29 28 29 font size undefined unauthenticated command injection through snmp notification handling cisa added august 21 this year gave federal agencies three days shadowserver been counting somewhere north 260 compromised instances while hunting exploitation artifacts span p li ul p style direction ltr span style color rgb 29 28 29 font size undefined go back further pattern holds rapid7 tracked span href target blank span style font size undefined widespread exploitation span span style color rgb 29 28 29 font size undefined cve 2022 27925 cve 2022 37042 2022 path traversal chained authentication bypass let attackers drop jsp shell zimbra server without credentials google s threat analysis group later documented span href target blank span style font size undefined four separate threat groups span span style color rgb 29 28 29 font size undefined working same zero day known cve 2023 37580 each these groups went after email credentials authentication tokens attackers figured out long time ago system sitting middle everyone s communication worth effort so when you find set bugs let you write system instead only reading data theft stops being interesting part span p p style direction ltr span style color rgb 29 28 29 font size undefined send email your cfo without ever touching their password you front half very convincing bec keep control mailbox afterward you back half too here attacker strategic choice they can delete sent message hide their tracks effectively wiping trail fraud they can choose leave message sent items folder doing so they ensure cfo sees evidence email they supposedly sent creating gaslighting scenario where victim left questioning their own actions whether attacker cleans up leaves trail they shaping organization s perception reality ensuing investigation where finance sees sent request cfo sees no such activity organization trapped conflict evidence point bec looks less like traditional fraud more like psychological operation span p p style direction ltr span style color rgb 29 28 29 font size undefined documents make worse zimbra not just mail server collaboration side holds files employees actually use make decisions attacker who can plant fake hr memo financial summary executive s enterprise drive make look like came peer they trust starting much better position than someone attaching pdf cold email span p p style direction ltr span style color rgb 29 28 29 font size undefined say document shows up hr about confidential restructuring few days later email trusted executive references neither piece carry whole deception each one props up other span p h2 span style color rgb 29 28 29 font size undefined calendar warfare manufactured enterprise reality span h2 p span style color rgb 29 28 29 font size undefined then there thing i started calling span span style color rgb 29 28 29 font size undefined em calendar warfare em span span style color rgb 29 28 29 font size undefined meetings can modified deleted without generating notification trail users expect see rsvp status can also flipped maybe key executive changed accepted declined leadership might reschedule move ahead without them read whole thing deliberate opt out span p p style direction ltr span style color rgb 29 28 29 font size undefined works other direction too emergency board meeting lands executive s calendar believable organizer popup reminder malicious zoom link when reminder fires victim not sizing up suspicious email arrived thirty seconds ago they joining meeting been sitting their calendar two days calendar not some exotic attack surface nobody thought if we look back cve 2025 27915 delivery vehicle calendar invite span p p style direction ltr span style color rgb 29 28 29 font size undefined stack all together now financial document appears trusted executive emails about then mandatory meeting shows up discuss attacker still ability clean up some gets left behind every artifact victim checks lives inside system they no reason question all them tell same fabricated story span p p style direction ltr span style color rgb 29 28 29 font size undefined i keep coming back phrase span span style color rgb 29 28 29 font size undefined em manufactured enterprise reality em span span style color rgb 29 28 29 font size undefined i touched idea span href target blank span style font size undefined monday brief span span style color rgb 29 28 29 font size undefined attackers get borrow whatever trust organization already extended own tooling zimbra makes concrete platform supplies credibility so attacker does not build any span p p style direction ltr span style color rgb 29 28 29 font size undefined collaboration suites quietly became systems record email record who said calendars record who agreed where classic bec abuses trust between two people scenario we ve discussed here abuses machinery those people use decide who trust first place once employees making real business decisions off fabricated context stealing data least your problems span p",
+      "ts": 1790255807.1484892
+    },
+    {
+      "norm": "meta locks itself out user data ai glasses p meta expanding private processing ai glasses extending their security protections into cloud data centers system runs ai models inside confidential virtual machines cvms designed prevent meta accessing users data private processing combines protected hardware encryption software verification secure data during cloud processing storage private processing supports ai glasses ai glasses need personal context provide help based user s surroundings history their size href rel nofollow more span class meta nav span p p post href locks itself out user data ai glasses appeared first href net security p",
+      "ts": 1790255807.148517
+    },
+    {
+      "norm": "uk gears up fight against russia s disinformation machine p uk government create body track disrupt disinformation campaigns run hostile states prime minister andy burnham announced united nations general assembly york his first address assembly 22 september burnham told world leaders he tasking uk security chiefs begin work national centre information defence which operate detect attribute disrupt these kinds hostile state href rel nofollow more span class meta nav span p p post href gears up fight against russia s disinformation machine appeared first href net security p",
+      "ts": 1790255807.1485393
+    },
+    {
+      "norm": "android malware remcontrol steals banking pins blocks removal attempts p android banking trojan called remcontrol tricks victims into installing fake tv app then takes control their phones steal banking pins group ib found researchers confirmed malware targets customers more than 30 banks italy france spain poland portugal canada some gulf states first samples submitted virustotal july 19 2026 domain used command control c2 server registered href rel nofollow more span class meta nav span p p post href android malware remcontrol steals banking pins blocks removal attempts appeared first href net security p",
+      "ts": 1790255807.1485615
+    },
+    {
+      "norm": "google plans give private ai compute memory follows users across devices p google plans add private server side memory private ai compute enabling ai assistants maintain continuity across devices while providing privacy protections normally associated device processing private ai compute google s cloud platform processing sensitive data gemini models hardware isolated environment gives ai features access greater computing power designed prevent anyone other than user including google accessing data being processed until now href rel nofollow more span class meta nav span p p post href plans give private ai compute memory follows users across devices appeared first href net security p",
+      "ts": 1790255807.1485834
+    },
+    {
+      "norm": "us court sentences armenian man prison ryuk ransomware attacks p karen vardanyan also been ordered pay over 1 2 million restitution victims p p post href court sentences armenian man prison ryuk ransomware attacks appeared first href",
+      "ts": 1790255807.1485941
+    },
+    {
+      "norm": "critical wordpress vulnerability exploited immediately after disclosure p tracked cve 2026 87902 path traversal flaw allows remote unauthenticated attackers execute arbitrary code p p post href wordpress vulnerability exploited immediately after disclosure appeared first href",
+      "ts": 1790255807.1486053
+    },
+    {
+      "norm": "sase converges network security into one cloud solution enterprise computing moving edge keeping secure requires tactics far beyond putting up firewalls",
+      "ts": 1790255807.148612
+    },
+    {
+      "norm": "check point warns hackers exploiting security gateway vpn rce flaw cybersecurity company check point confirmed active exploitation cve 2026 85102 pre authentication remote code execution rce vulnerability vpn certificate handling functionality security gateway product",
+      "ts": 1790255807.1486192
+    },
+    {
+      "norm": "ionq targets quantum error correction bottleneck single cpu decoder p ionq s single processor quantum error decoder minimizes classical computing overhead quantum error correction p p post href targets quantum error correction bottleneck single cpu decoder appeared first href",
+      "ts": 1790255807.1486282
+    },
+    {
+      "norm": "hackers start exploiting critical wordpress flaw code execution threat actors moved probing wordpress sites vulnerable cve 2026 87902 exploiting flaw write files disk execute shell commands when accessed",
+      "ts": 1790255807.1486337
+    },
+    {
+      "norm": "attackers use malicious terraform providers deliver go malware via hashicorp registry cybersecurity researchers disclosed go based malware distributed via two go modules two terraform providers marking first time threat actors using centralized repository hosted hashicorp distribution vector malicious payloads according aikido list terraform providers go modules below gocommunity io dockerd 222 downloads kreuzwenker",
+      "ts": 1790255807.1486413
+    },
+    {
+      "norm": "worries about ai internet takeover gain urgency among doomsday scenarios p idea ai could break away work toward own agenda looking increasingly plausible researchers experts p p post href about ai internet takeover gain urgency among doomsday scenarios appeared first href",
+      "ts": 1790255807.148648
+    },
+    {
+      "norm": "leaked gitlab issue email address lets anyone push code run ci jobs you private email address gitlab gives you filing issues email credential anyone who gets can email patch gitlab commits your name any branch you can push including main can start ci cd jobs run you gitlab shows each user this address behind button labeled email work item this project mail sent opens issue project authored",
+      "ts": 1790255807.148656
+    },
+    {
+      "norm": "malicious ai agents steal 600k credit cards infect 100 sites skimmers financially motivated threat actor using open source ai agent frameworks attack hundreds online retailers scale stealing more than 600 000 credit card records",
+      "ts": 1790255807.1486611
+    },
+    {
+      "norm": "mikrotrick chain let attackers take over mikrotik routers without password ssh key two mikrotik routeros ssh vulnerabilities chained together let attackers take full administrative control internet exposed routers without password ssh key completed authentication chain which cert polska calls mikrotrick combines ssh state machine flaw cve 2026 67279 argument injection bug routeros login process cve 2026 86060 attack logs date",
+      "ts": 1790255807.148668
+    },
+    {
+      "norm": "infratrust report warns network management systems under attack attackers increasingly targeting management systems used control enterprise infrastructure several critical vulnerabilities actively exploited before shortly after vendors disclosed them",
+      "ts": 1790255807.1486754
+    },
+    {
+      "norm": "this windows malware built let up four ai models vote next move windows malware called closedquorum built take orders vote up four ai models instead attacker s server cisco talos said september 22 models can choose steal windows credentials saved browser passwords crypto wallet data talos not seen this setup work start finish public version malware does not work",
+      "ts": 1790255807.148687
+    },
+    {
+      "norm": "one kubernetes yaml can hand over gcp organization kubernetes user limited permissions can potentially gain control entire google cloud organization exploiting authority granted google kubernetes config connector varonis explains this confused deputy problem can turn single kubernetes yaml file into path organization wide privilege escalation",
+      "ts": 1790255807.1486936
+    },
+    {
+      "norm": "windows botnet x47 c offers ai api draining 18 attack methods qrator found windows botnet advertised ai api draining credential theft socks5 proxying",
+      "ts": 1790255807.1486976
+    },
+    {
+      "norm": "compromised memtensor packages deliver sckit credential stealer via npm pypi unknown threat actors managed compromise two legitimate memtensor packages across npm python package index pypi repositories push platform specific go based implant dubbed sckit designed windows linux macos according reports aikido safedep socket stepsecurity libraries question below memtensor memos cloud openclaw plugin versions",
+      "ts": 1790255807.148704
+    },
+    {
+      "norm": "arista patches actively exploited velocloud orchestrator zero day arista networks released security patches zero day flaw being actively exploited affects velocloud orchestrator vco prem deployments",
+      "ts": 1790255807.1487088
+    },
+    {
+      "norm": "president called ai leadership here s mission p ai compact built around capability control continuity can ensure country stays safe secure while also leading world technology p p post href president called ai leadership here s mission appeared first href",
+      "ts": 1790255807.1487176
+    },
+    {
+      "norm": "cpanel flaw lets hosting account run code root take full server control flaw cpanel s caldav carddav service lets anyone cpanel hosting account run code root take full control server company said september 22 second bug wp toolkit plugin used install manage wordpress sites allows account holder change databases belong other accounts cpanel released fixed versions both",
+      "ts": 1790255807.1487262
+    },
+    {
+      "norm": "ransomware attacks reach record high 2026 total 1073 firms fell victim ransomware attacks globally august industrial sector most affected according ncc data",
+      "ts": 1790255807.148733
+    },
+    {
+      "norm": "545 hackers tested first now xranges ai scores your security agent autonomous security agents getting good finding bugs nobody good way measure good point one realistic target comes back report agent wrote about itself confident prose list findings no way tell which them happened someone security background then sits down checks every claim against target which findings real",
+      "ts": 1790255807.1487405
+    },
+    {
+      "norm": "anthropic openai models still attempt restricted actions safety tests anthropic openai tuesday announced models both artificial intelligence ai companies noting they continuing invest improving alignment combat risky behavior opus 5 5 per anthropic major step up opus 5 achieves best scores any model date our automated behavioral audit our alignment suite tests claude across thousands",
+      "ts": 1790255807.1487474
+    },
+    {
+      "norm": "microsoft september windows updates break always vpn connections microsoft warned september 2026 security updates may also break always vpn connections some windows 11 systems",
+      "ts": 1790255807.148752
+    },
+    {
+      "norm": "exploit released unpatched ubuntu linux flaw enabling host root container escape use after free linux kernel s af unix socket subsystem can used escape container gain root host security firm depthfirst said research published september 22 flaw tracked cve 2026 80521 cvss score 7 8 fixed upstream august 6 but ubuntu not shipped patch 26 04 24 04 22 04 lts releases depthfirst",
+      "ts": 1790255807.1487608
+    },
+    {
+      "norm": "shinyhunters claims fbi hack via peoplesoft zero day infamous threat group shinyhunters claims personal information thousands fbi employees",
+      "ts": 1790255807.1487641
+    },
+    {
+      "norm": "eu auditors warn information sharing gaps hindering cyber incident response eu court auditors criticized eu shortcomings responding major cyber incidents",
+      "ts": 1790255807.1487684
+    },
+    {
+      "norm": "f5 patches critical big ip apm zero day exploited unauthenticated rce oauth servers attackers exploiting critical flaw f5 big ip access policy manager apm lets them run code big ip system without logging f5 says flaw cve 2026 94127 affects only systems which apm serves oauth authorization server issuing access tokens applications f5 disclosed advisory september 22 released engineering hotfixes",
+      "ts": 1790255807.1487765
+    },
+    {
+      "norm": "chinese hackers exploit chrome windows zero day chain deploy cleangulp malware chinese threat actor codenamed uta0565 been observed exploiting recently disclosed google chrome microsoft windows exploit chain zero days through fake websites attacks detected september 3 4 2026 involved chaining two vulnerabilities chrome cve 2026 85046 cve 2026 87491 one impacting windows advanced local procedure call cve 2026 85880 break",
+      "ts": 1790255807.1487834
+    },
+    {
+      "norm": "ryuk ransomware member sentenced 24 months prison armenian man sentenced 24 months prison 3 years supervised release hacking u s companies encrypting their systems ryuk ransomware attacks",
+      "ts": 1790255807.1487882
+    },
+    {
+      "norm": "security belongs network sponsored explainer merging security into network makes enterprise protection more agile",
+      "ts": 1790255807.148792
+    },
+    {
+      "norm": "f5 patches big ip apm zero day flaw exploited rce attacks f5 released security updates address critical big ip apm zero day vulnerability being exploited remote code execution attacks",
+      "ts": 1790255807.148796
+    },
+    {
+      "norm": "critical next js imageresponse flaw can lead server code execution via crafted svg input security vulnerability next js could allow attackers run code server via imageresponse feature generates open graph other social preview images vercel said risk applies when app puts values attacker controls such text read request url into image vercel which develops next js fixed flaw september 22 version",
+      "ts": 1790255807.148804
+    },
+    {
+      "norm": "shinyhunters claims fbi breach says stole data agents job applicants cyber extortion group known shinyhunters tuesday claimed had breached u s federal bureau investigation stolen data belonging current former employees agency we compromised fbi we hold very sensitive data almost all fbi agents individuals who filed application fbi job group said statement posted their dark",
+      "ts": 1790255807.1488109
+    },
+    {
+      "norm": "shinyhunters claims attack fbi exposes almost all agents p fbi jobs site which temporarily defaced remains unavailable agency said s investigating claims p p post href claims attack fbi exposes almost all agents appeared first href",
+      "ts": 1790255807.1488183
+    },
+    {
+      "norm": "windows closedquorum malware uses ai models autonomously select post compromise actions first publicly documented windows implant use llms c2",
+      "ts": 1790255807.1488218
+    },
+    {
+      "norm": "after water attacks capitol hill offers own proposal ai cyber test program p key house democrat his bipartisan sponsors want see 100 million dhs pilot help critical infrastructure owners operators separate another administration proposed pilot program p p post href water attacks capitol hill offers own proposal ai cyber test program appeared first href",
+      "ts": 1790255807.1488311
+    },
+    {
+      "norm": "relays masking chinese access frontier ai models us more than 80 000 ai relay servers helping users china mask their identities while they access cutting edge large language models llms probably clone them",
+      "ts": 1790255807.148836
+    },
+    {
+      "norm": "ciso cmo alliance builds trust before crisis strikes cybersecurity brand reputation inextricably linked security marketing leaders who establish regular touchpoints develop joint crisis communications plans translate security risks into their brand impact position their organizations significantly outperform those treating security operational concern",
+      "ts": 1790255807.1488423
+    },
+    {
+      "norm": "microsoft disrupts eviltokens device code phishing service microsoft seized 50 websites disabled more than 150 domains part coordinated disruption effort against phishing service platform targeting microsoft 365 accounts",
+      "ts": 1790255807.1488466
+    },
+    {
+      "norm": "deception design cisa s guide tricking cybercriminals cybersecurity infrastructure security agency cisa going old school help organizations limited resources set traps hackers",
+      "ts": 1790255807.1488507
+    },
+    {
+      "norm": "volexity spots another china aligned threat group exploiting chrome microsoft defects p threat group volexity tracks uta0565 showcased variance tactics but used same exploit kit multiple chinese threat groups p p post href spots another china aligned threat group exploiting chrome microsoft defects appeared first href",
+      "ts": 1790255807.148857
+    },
+    {
+      "norm": "check point warns management server zero day exploited targeted attacks attackers exploited previously unknown flaw check point s security management server handful targeted attacks july 23 company said flaw cve 2026 93616 allows attacker who can access server s web service run scripts without logging check point released fix september 22 server controls firewall policies check point",
+      "ts": 1790255807.1488652
+    },
+    {
+      "norm": "wordpress issues patch critical flaw can enable code execution some servers wordpress fixed critical flaw core software lets attacker no account make site load php file outside theme folders some servers can go further allowing attacker run their own code fix shipped september 22 wordpress 7 1 2 fixes every branch project still supports back 4 7 wordpress telling site owners",
+      "ts": 1790255807.1488736
+    },
+    {
+      "norm": "malicious npm package poses twilio bug bounty probe can exfiltrate credentials cybersecurity researchers disclosed details malicious npm package named tw pkgprobe 7731 masquerades security tool targeting developers integrating twilio into their applications while stealthily attempting harvest sensitive data package named tw pkgprobe 7731 first uploaded npm registry mid august 2026 npm account named twdepprobe7731",
+      "ts": 1790255807.1488845
+    },
+    {
+      "norm": "shinyhunters claims fbi hack this not financially motivated this time s personal",
+      "ts": 1790255807.1488876
+    },
+    {
+      "norm": "amid ongoing rogue incidents debate over ai safety gets real more reports misalignment incidents underscore ai risks large ai labs regular businesses even nations searching better ways keep control secure",
+      "ts": 1790255807.1488922
+    },
+    {
+      "norm": "microsoft takes down eviltokens device code phishing service tied 12 000 inbox compromises microsoft tuesday announced takedown eviltokens device code phishing service said used artificial intelligence ai every step attack chain action carried out authorization u s district court eastern district virginia involved efforts health isac alongside cloudflare coinbase openai railway spycloud shadowserver",
+      "ts": 1790255807.1488988
+    },
+    {
+      "norm": "critical bifrost ai gateway flaw lets attackers run commands without credentials critical vulnerability bifrost open source ai gateway routes requests more than 20 llm providers allows unauthenticated attacker run arbitrary commands gateway server single http request flaw tracked cve 2026 90898 cvss score 9 8 affects all versions bifrost http transport before 2 1 0 when management authentication",
+      "ts": 1790255807.148906
+    },
+    {
+      "norm": "nightmareeclipse s latest zero day leaves microsoft defender stuck past bigdiskbuster leaves microsoft s antivirus running but unable install updates",
+      "ts": 1790255807.1489096
+    },
+    {
+      "norm": "researcher drops bigdiskbuster zero day poc blocks microsoft defender updates zero day proof concept tool stops microsoft defender installing platform signature updates filling all available disk space published github september 19 tool called bigdiskbuster no patch no cve no microsoft advisory author abdelhamid naceri former microsoft security researcher whose earlier defender exploits used",
+      "ts": 1790255807.148917
+    },
+    {
+      "norm": "z ai says sorry slurping up your code open sources zcode china s ai darling goes defense after engineer highlighted grok esque security flaws",
+      "ts": 1790255807.148922
+    },
+    {
+      "norm": "uk cops arrest 2 eviltokens suspects microsoft seizes 50 phishing kit websites used crims compromise 12k email inboxes across 10k global orgs",
+      "ts": 1790255807.1489263
+    },
+    {
+      "norm": "who signed off ai agent nobody thought so sponsored feature ai agents may unpredictable who they they can do who owns them shouldn t",
+      "ts": 1790255807.148931
     }
   ],
   "seen": {
     "007f36e2354e1e9ab4b62bc07581343ff7bad899": 1790254808.606142,
+    "036d28498901e39b9cee583b9bb3de392ed95f56": 1790255807.1487882,
+    "03b9753abd7a90e41ca71a267279d3f96b26d24f": 1790255807.1487765,
+    "045144bce0720f37fdc093d3c5ece2b047f84ae8": 1790255807.148931,
     "047a899d961cff22a3873a0fe75b97ad4f1a0f1c": 1790254808.6067567,
     "0a9baa874015c70c7eec32e062192615c1ac9437": 1790254808.6066425,
+    "0d2cb588e72936f52f325dbd09666a71a1da45b1": 1790255807.148857,
     "102b831646a8f70fef2657b6115fb7d77bf76a28": 1790254808.6065853,
     "14e81785a968947460ec996df30aaf448753f06d": 1790254808.6063764,
     "1572cfbc8e6865930f7ff344cc00dc3ece01ff00": 1790254808.6064892,
+    "16cbe675e092931903a22f62d877d4a5ada149a1": 1790255807.1488109,
+    "19134da9e252acae94369201c0003d80dc211538": 1790255807.148687,
+    "19cb6802f53ceccc61ff0ee2d287c7fff6bd72b9": 1790255807.1487834,
     "1af8eb0d6b919e286b73ab52752f0da76bf74dfc": 1790254808.6064045,
     "1b49fc79a3418e98104848e6ea3128a06167e913": 1790254808.6063163,
     "1d9141b660eb7f1ed2d30a21b4130b8c0b00e402": 1790254808.6064177,
     "23b23f99a7300862571f0d067df5c61dd170de6e": 1790254808.6065526,
+    "246d3ca38d1b8d5900cf013bc4981f07025b453b": 1790255807.148656,
+    "25dd9c1866ee5e8c6794b73a0dbebcbad25a5579": 1790255807.148648,
+    "265b1bb1943d872187a30f1b82c22b8f8c3a22c0": 1790255807.148792,
     "268e8c7bbe39b42ca980f3835d70109f70c656cb": 1790254808.606502,
     "29c26824efac1052b57a9d832049ba4d799aec30": 1790254808.606512,
     "2c0a187d61ab358e1aed73eb349fd4707bf11a4c": 1790254808.606827,
+    "33008d6f47a5fbc7eff608d409c5de0e688ffaf5": 1790255807.1488183,
     "331ed22c36d6da8c7a76cbb2e97779ddf2aff5e1": 1790254808.6064763,
+    "36e0a99c192f1e11a6b1499e7a90bc4752c4cbf1": 1790255807.1487176,
+    "375f4910d184ba60e89e23509b9575c063bcf873": 1790255807.148906,
+    "386828401a722716ee1cc9d99dea49d206137a7a": 1790255807.1487405,
     "38cd77992194a4a9aa35c3f1570cb9147309b7a6": 1790254808.6062655,
+    "3a533d2b5ffeb5646cdcfda49b490e52c82141df": 1790255807.1488507,
     "3a5e2fec5352e727b0be4d47efa7dd74f75bdd39": 1790254808.6065323,
     "3aeaf062dc96b7263d9386b9288324165332d410": 1790254808.6066253,
+    "3aebaca07a52969cff86404505c6e575ead194b3": 1790255807.1486611,
     "3b13360f9708b94da04030dd3c61cb65e09e9d00": 1790254808.606526,
+    "3c9fd6ef7413f1c4ce994a29796a999e5cdacfa0": 1790255807.1487474,
     "3d9c81c7d35809b4066b355cb3cca4af94a6678c": 1790254808.606323,
     "3ffb124e86e6996b4a3b1bfe94fc1175b2602fa9": 1790254808.606656,
+    "41cdf89b10489d6a4d923087abc4c2d2a9eb438c": 1790255807.1485941,
     "434784688be37a594289972f94e92c8e89277821": 1790254808.606217,
+    "44afbf71f877746f927f72659973d2b6d09cb0da": 1790255807.148704,
     "4a3c57ed8f38f943c2e3f0d51a26c4b4f23528dd": 1790254808.606188,
+    "4c024d390bf8ef3123594e50624382b0c5bf6fad": 1790255807.1486053,
+    "4c4975005e97cd7ce3f5e34d5ecfd38a8c506a96": 1790255807.1488845,
+    "4ed7569264881bae52c731bb875c0ced9cf76df6": 1790255807.148668,
     "53cbf9d5b17750cd18550073c1247e9c528b34b7": 1790254808.6062477,
     "5998efc493649de00b67ceb176fcd8a9502041cd": 1790254808.6061249,
     "5a182e4023be87d9d9ded81ddbbc49e07354044d": 1790254808.6066365,
+    "5b292a46fb9b62720bad586719444d87c556ce04": 1790255807.1486754,
     "5b6424dfd8f974e4f155a5ae40107cf926fa1942": 1790254808.6064358,
     "5c57edabe6c0ec2ece6e05c503a45b07e7c37ffc": 1790254808.606449,
     "5e57def348cd301e13c25f16d469d8fa8bb86771": 1790254808.6064706,
+    "60ade2ea554680c78d6ff8c83bd22ffe5f8757f0": 1790255807.1489096,
+    "620a8bfcc4af1cd27444050a28bd10d3e45eaeb9": 1790255807.148804,
     "63d6d101ab6d43606bbab6e3a5eb767d75134938": 1790254808.6066625,
     "6522f996372bd886561403e2654ce8615838453c": 1790254808.6067812,
     "696656cdc1ba9bacd19846ee6713da0e5824d464": 1790254808.606519,
+    "6a915952d6f79fe24f97c8b8e973b8ea5ef4610b": 1790255807.1485834,
     "6a91aaa7750826fca0a21452a3740002ba586738": 1790254808.6065917,
+    "767190fea91564fad0783a00adfe14cd37ff0015": 1790255807.1488652,
     "7903f1caeae398ce5273b4099a9b24189ca02440": 1790254808.6062837,
     "7ba3a75cd3178ffb072b92699ea0f9b80d4c788b": 1790254808.6065435,
     "7bde49b556ca2ceab47967c8ea81475d731f2999": 1790254808.60665,
     "7f25fcd8883e7de7441b17ea28363a1473344262": 1790254808.606619,
+    "8125bbad77369b91ca9ba1b0db7f306067319dbe": 1790255807.148517,
     "8289ef7c8c0261d893778fedd796c8760e95a4a5": 1790254808.6063936,
+    "828d13f4bbf220b7d63a8f8fab366b59797f3c6e": 1790255807.1486282,
     "8414f1b5df7710e9da7e64d5fabe784308da8316": 1790254808.6067522,
     "849a3d02ea1aace5ea38c9800402e4a23d0d0e83": 1790254808.606332,
     "856645ccb5490fa989bb2cfe1f50c70ed31adb3b": 1790254808.6064596,
+    "86731cd95e8f895bf33d229ebda3a34b7316c359": 1790255807.1488876,
     "8926d0f5a49b55fd1157eabd1bcf2e9c81b7903e": 1790254808.6066306,
     "8a5cdbfebbee2335a5a8f6ca6c4f844b0e82dfb9": 1790254808.6063657,
     "8df4acb689f7b2ce1f824f985abf478b2dddd1f2": 1790254808.6061327,
+    "8e0ee533a3572d576623428129eea7147b4d1f85": 1790255807.1487262,
+    "92471988f3ac71c3945af97f437dce24a4e8a066": 1790255807.148922,
+    "94586560c59617af2ec44a0cc7fad276a6abd133": 1790255807.1486413,
     "94821214578f086ee71ae83ece5a5e17d9dbce89": 1790254808.606386,
     "95f72489a073a92eb23f6154316c3f080f99b816": 1790254808.606411,
+    "969ad1b26f390579fd92535817d9f6a61673d099": 1790255807.1487608,
+    "9dbdfda02b0faa57cc2cc42f6b51d1aba4695fa0": 1790255807.1486192,
+    "a089dce24e36ecc7de149d038777fe9bb68dc9c9": 1790255807.1488922,
+    "a3577436412272a3ea2250136ba72ded3f82812a": 1790255807.1487088,
     "a3a0d423c00a7f3e896980814dfca5bf9f680e66": 1790254808.6061618,
+    "aa0e33ec006b59c5d7281e709f585ba932ff4646": 1790255807.1484892,
+    "aa96d284c9eb1679730a98c26a62995fc4a3a95a": 1790255807.1486936,
     "ab051f2dae771bc5f27f70af274f30026e235261": 1790254808.6065605,
+    "ac73c3920c33c3d79c98c19d3ccedcc14488c03f": 1790255807.1482077,
     "affa11854209f5a5affa3161291dd23220cf8e06": 1790254808.6066074,
+    "b548e5907b43cc7847e34921337f18058a3de8ff": 1790255807.1489263,
+    "bdc6b949fce849805502a45c0273d14ffad3f5f3": 1790255807.1488218,
     "bea1c24da5779df3d630d789396108ea19d8c7a2": 1790254808.6063406,
+    "beceb9e4e6215216652b789d5f605d9b540082ed": 1790255807.1485393,
     "bfc5c9310cdaa4b4f7bf9442c2f9d2a492905a01": 1790254808.606228,
     "c2326e03014a55400e84a8dde04b37637c69e040": 1790254808.6062953,
+    "c5b87480a85e9584a16e7acc211f1273032d865b": 1790255807.1488311,
     "caa79f063ecd2ec0ddfed1e72a19548b701038c1": 1790254808.6066005,
     "cd083f8992fdd977d092f260ffeed43586e04be9": 1790254808.6063547,
     "ce8801eb63447fa938fed4626f18fb29fb640eb7": 1790254808.606276,
+    "d14c028c0f089f21f370ce1601e268c8a2047b8e": 1790255807.148796,
+    "d1d540cc10415e578fd67d2e344a8512059c285a": 1790255807.148917,
+    "d298302749d6e4dee1a4872e808ada74908e6c3a": 1790255807.148233,
+    "d2d17c33e3e175527ba11344fe8bc83b4acac38e": 1790255807.1486976,
+    "d45632f46d088bc99aac85be0ab6026303513f4a": 1790255807.148752,
     "d8033c362483f54cd52e9764b86f5124992ecba5": 1790254808.6061957,
     "d961356b273cc4c4ea440b88eae98da16fd2c421": 1790254808.6063476,
+    "da2613f7ae841eae1b9c24631d20485ef78b6f75": 1790255807.1488466,
+    "dbbc7e7de225cedcd98a205c145c083dd0327e6d": 1790255807.1488423,
+    "ddea315ed260eaafb320b4770013c38879672440": 1790255807.1488736,
+    "e4652950a951c0a097ff51cff5a1abfa3ddaa0d9": 1790255807.148733,
+    "e4b1af7aac041cd124841cf902cb8d9f508c40a4": 1790255807.1487684,
+    "f069687e4a1d7fdbdacddbe1843bebf33db307ba": 1790255807.1488988,
+    "f16ecfe7d1620794530c519b6f3db3a623cb6954": 1790255807.148612,
+    "f4301e20b08621682d1d7cadd3ed3922d2b42fc8": 1790255807.1487641,
     "f451f7682a61b9e84394dee1085c1f1da1d5addd": 1790254808.606083,
+    "f57d633897e465420615f907ec9d1d0ee7e5739e": 1790255807.1486337,
     "f5fa8ba94bb038809ed4ad6d7d2c33eb556a2ae2": 1790254808.6064243,
+    "f75ef52960e167ac04354ec4735953d390f122d1": 1790255807.148836,
     "f90f2426c7160cbb9a046cc2192242e09659205f": 1790254808.60617,
-    "fb9ba04a456ec507a9025f7ef9e93cb9cd624f1a": 1790254808.6063075
+    "fb9ba04a456ec507a9025f7ef9e93cb9cd624f1a": 1790254808.6063075,
+    "fd831be7834aa19034e34550fece82974eff53f6": 1790255807.1485615
   }
 }
