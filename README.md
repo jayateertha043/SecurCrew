@@ -153,27 +153,35 @@ permanently free. The state commits are tiny.
 
 ## AI summaries (free, optional)
 
-Queued items are rewritten into clean 2–3 line summaries by any
-OpenAI-compatible LLM, and the same key powers the optional dedup-clustering
-pass. It's **fail-soft**: if no key is set or a call fails, the collector falls
-back to fuzzy-only dedup and clipping the raw feed text — a run never breaks
-over AI.
+Collected items are rewritten into clean 2–3 line summaries by any
+OpenAI-compatible LLM, and the same endpoint powers the optional dedup-clustering
+pass. It's **fail-soft**: if AI is unavailable or a call fails, the collector
+falls back to fuzzy-only dedup and clipping the raw feed text — a run never
+breaks over AI.
 
-**Free providers** (all expose an OpenAI-compatible endpoint):
+**Default: GitHub Models — zero setup.** The Collector workflow is preconfigured
+to use **GitHub Models** via the built-in `GITHUB_TOKEN` (`permissions: models:
+read`). No account, no key, no secret to rotate — it just works when Actions run.
 
-| Provider | `AI_BASE_URL` | Example `AI_MODEL` | Free tier |
+**Providers** (all OpenAI-compatible; override the default by setting the
+secret/variables below):
+
+| Provider | `AI_BASE_URL` | Example `AI_MODEL` | Auth |
 | --- | --- | --- | --- |
-| **Groq** (default) | `https://api.groq.com/openai/v1` | `llama-3.1-8b-instant` | Free API key, no card |
-| **GitHub Models** | `https://models.github.ai/inference` | `openai/gpt-4o-mini` | Free with a GitHub PAT |
-| **Google Gemini** | `https://generativelanguage.googleapis.com/v1beta/openai` | `gemini-1.5-flash` | Free tier key |
+| **GitHub Models** (default) | `https://models.github.ai/inference` | `openai/gpt-4o-mini` | built-in `GITHUB_TOKEN` |
+| **Groq** | `https://api.groq.com/openai/v1` | `llama-3.1-8b-instant` | free `AI_API_KEY`, no card |
+| **Google Gemini** | `https://generativelanguage.googleapis.com/v1beta/openai` | `gemini-1.5-flash` | free `AI_API_KEY` |
 
-**Setup:**
-1. Get a free API key from your chosen provider (Groq: <https://console.groq.com>).
-2. Add repository **secret** `AI_API_KEY` = that key.
-3. (Optional) Add repository **variables** `AI_BASE_URL` and `AI_MODEL` to use a
-   provider other than the Groq default.
-4. Leave `AI_API_KEY` unset (or set variable `USE_AI_SUMMARY=0`) to disable AI
-   and use plain clipping.
+**To keep the default (GitHub Models):** do nothing.
+
+**To switch providers**, in **Settings → Secrets and variables → Actions**:
+1. Add **secret** `AI_API_KEY` = your provider key.
+2. Add **variables** `AI_BASE_URL` and `AI_MODEL` for that provider.
+3. The workflow's `${{ secrets.AI_API_KEY || secrets.GITHUB_TOKEN }}` fallbacks
+   mean any value you set overrides the GitHub Models default.
+
+**To disable AI** entirely, set variable `USE_AI_SUMMARY=0` (uses fuzzy dedup +
+clipping).
 
 All originals in a collect run are summarized in **one** API call, and dedup
 clustering is **one** more — bounded and cheap even on free rate limits.

@@ -12,6 +12,7 @@ on:
 
 permissions:
   contents: write
+  models: read        # lets GITHUB_TOKEN call GitHub Models (free, native AI)
 
 # Shared with the publisher so the two never commit state at the same time.
 concurrency:
@@ -36,10 +37,13 @@ jobs:
 
       - name: Collect feeds -> queue + site data
         env:
-          # Optional free AI summaries/dedup (Groq/GitHub Models/Gemini).
-          AI_API_KEY: ${{ secrets.AI_API_KEY }}
-          AI_BASE_URL: ${{ vars.AI_BASE_URL }}
-          AI_MODEL: ${{ vars.AI_MODEL }}
+          # AI defaults to GitHub Models (free, uses the built-in GITHUB_TOKEN).
+          # Override by adding an AI_API_KEY secret and/or AI_BASE_URL/AI_MODEL
+          # variables (e.g. Groq or Gemini). Set USE_AI_SUMMARY=0 to disable.
+          AI_API_KEY: ${{ secrets.AI_API_KEY || secrets.GITHUB_TOKEN }}
+          AI_BASE_URL: ${{ vars.AI_BASE_URL || 'https://models.github.ai/inference' }}
+          AI_MODEL: ${{ vars.AI_MODEL || 'openai/gpt-4o-mini' }}
+          USE_AI_SUMMARY: ${{ vars.USE_AI_SUMMARY }}
         run: python collect.py
 
       - name: Commit site data + queue
