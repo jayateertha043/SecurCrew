@@ -22,6 +22,7 @@ def _row(item: Dict[str, Any], status: str, ts: float) -> Dict[str, Any]:
         "source": item.get("source", ""),
         "link": item.get("link", ""),
         "published": item.get("published", 0),
+        "tags": item.get("tags", []),
         "status": status,
         "ts": ts,
     }

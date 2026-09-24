@@ -135,8 +135,22 @@ function card(item) {
 
   card.append(top, h3);
   if (item.summary) card.append(summary);
+  if (Array.isArray(item.tags) && item.tags.length) card.append(tagRow(item.tags));
   card.append(foot);
   return card;
+}
+
+function tagRow(tags) {
+  const row = document.createElement("div");
+  row.className = "tags";
+  for (const t of tags) {
+    if (typeof t !== "string") continue;
+    const chip = document.createElement("span");
+    chip.className = "tag";
+    chip.textContent = t;
+    row.append(chip);
+  }
+  return row;
 }
 
 function timeAgo(ms) {

@@ -135,6 +135,16 @@ body {
 .card h3 { margin: 2px 0 0; font-size: 16px; line-height: 1.35; }
 .card p.summary { margin: 0; color: var(--text-dim); font-size: 14px; }
 
+.tags { display: flex; flex-wrap: wrap; gap: 6px; }
+.tag {
+  font-size: 11px;
+  color: var(--accent);
+  background: rgba(78, 161, 255, 0.1);
+  border: 1px solid rgba(78, 161, 255, 0.25);
+  padding: 2px 8px;
+  border-radius: 999px;
+}
+
 .card-foot {
   margin-top: auto;
   display: flex;

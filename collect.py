@@ -122,6 +122,7 @@ def run() -> int:
                 "summary": summary,
                 "source": item.get("source", ""),
                 "published": item.get("published", 0),
+                "tags": item.get("tags", []),
                 "added_at": now,
             }
         )

@@ -251,8 +251,23 @@ POST_BACKEND=webhook WEBHOOK_URL=https://hooks.zapier.com/... python publish.py
 
 ## Adding / removing feeds
 
-Edit [`feeds.txt`](feeds.txt) — one URL per line, `#` for comments. Malformed or
-unreachable feeds are skipped automatically; no need to keep the list pristine.
+Edit [`feeds.txt`](feeds.txt). Each line is a feed URL with **optional per-feed
+hashtags**:
+
+```
+<url> [#tag1 #tag2 ...]
+```
+
+Example:
+```
+https://googleprojectzero.blogspot.com/feeds/posts/default #vulnerability #0day
+```
+
+Tokens after the URL that start with `#` are added to that feed's posts on top
+of the base `#infosec #cybersecurity #bugbounty` (duplicates are removed), and
+they also show as chips on the web UI. Full-line `#` comments are ignored, and
+malformed/unreachable feeds are skipped automatically. Aggregators (e.g.
+r/netsec, tldrsec) are intentionally excluded to avoid cross-source duplicates.
 
 ## Tuning the caps and behavior
 

@@ -15,7 +15,7 @@ import logging
 import os
 import sys
 import time
-from typing import Dict, List, Optional
+from typing import Dict, List, Optional, Tuple
 
 import feedparser
 
@@ -55,18 +55,26 @@ def today_key(now: Optional[float] = None) -> str:
     return time.strftime("%Y-%m-%d", time.gmtime(now))
 
 
-def read_feeds(path: str = FEEDS_FILE) -> List[str]:
-    """Return feed URLs, ignoring blanks and ``#`` comments."""
-    urls: List[str] = []
+def read_feeds(path: str = FEEDS_FILE) -> List[Tuple[str, List[str]]]:
+    """Return (url, tags) pairs, ignoring blanks and ``#`` comment lines.
+
+    Line format: ``<url> [#tag1 #tag2 ...]`` — tokens after the URL that start
+    with ``#`` are per-feed hashtags appended to posts for that feed.
+    """
+    feeds: List[Tuple[str, List[str]]] = []
     try:
         with open(path, "r", encoding="utf-8") as fh:
             for line in fh:
                 line = line.strip()
-                if line and not line.startswith("#"):
-                    urls.append(line)
+                if not line or line.startswith("#"):
+                    continue
+                parts = line.split()
+                url = parts[0]
+                tags = [t for t in parts[1:] if t.startswith("#")]
+                feeds.append((url, tags))
     except FileNotFoundError:
         log.error("feeds file not found: %s", path)
-    return urls
+    return feeds
 
 
 def _entry_published(entry) -> float:
@@ -81,10 +89,10 @@ def _entry_published(entry) -> float:
     return 0.0
 
 
-def collect_entries(feed_urls: List[str]) -> List[Dict[str, object]]:
+def collect_entries(feeds: List[Tuple[str, List[str]]]) -> List[Dict[str, object]]:
     """Fetch and flatten entries from every feed. Erroring feeds are skipped."""
     items: List[Dict[str, object]] = []
-    for url in feed_urls:
+    for url, tags in feeds:
         try:
             parsed = feedparser.parse(url)
         except Exception as exc:  # never let one feed kill the run
@@ -107,9 +115,10 @@ def collect_entries(feed_urls: List[str]) -> List[Dict[str, object]]:
                         "summary": summary,
                         "source": source,
                         "published": _entry_published(entry),
+                        "tags": tags,
                     }
                 )
-    log.info("collected %d entries from %d feeds", len(items), len(feed_urls))
+    log.info("collected %d entries from %d feeds", len(items), len(feeds))
     return items
 
 
@@ -136,8 +145,20 @@ def render_post(item: Dict[str, object]) -> str:
     attribution = f"Source: {source} — {link}" if source else f"Source: {link}"
     parts.append(attribution)
     parts.append("")
-    parts.append(BASE_HASHTAGS)
+    parts.append(_hashtags(item.get("tags")))
     return "\n".join(parts)
+
+
+def _hashtags(feed_tags: object) -> str:
+    """Merge base hashtags with per-feed tags, de-duplicated, order preserved."""
+    seen = set()
+    out: List[str] = []
+    for tag in BASE_HASHTAGS.split() + list(feed_tags or []):
+        key = tag.lower()
+        if tag.startswith("#") and key not in seen:
+            seen.add(key)
+            out.append(tag)
+    return " ".join(out)
 
 
 def build_client():
