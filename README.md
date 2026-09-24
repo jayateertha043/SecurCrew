@@ -167,11 +167,17 @@ empty responses over `GITHUB_TOKEN`, so summaries silently fall back to excerpts
 
 **Set up Groq (≈2 min):**
 1. Create a free key at <https://console.groq.com> → **API Keys**.
-2. Repo → **Settings → Secrets and variables → Actions**:
-   - **Secret** `AI_API_KEY` = your Groq key (`gsk_…`)
-   - **Variable** `AI_BASE_URL` = `https://api.groq.com/openai/v1`
-   - **Variable** `AI_MODEL` = `llama-3.1-8b-instant`
+2. Repo → **Settings → Secrets and variables → Actions → Secrets tab** →
+   **New repository secret**: name `AI_API_KEY`, value your Groq key (`gsk_…`).
 3. Re-run the **Collector** — cards flip to green **"AI summary"**.
+
+That's it — with just the `AI_API_KEY` secret, the code defaults to Groq
+(`llama-3.1-8b-instant`). The `AI_BASE_URL` / `AI_MODEL` **variables** are only
+needed to use a *different* provider (e.g. Gemini).
+
+> **`AI_API_KEY` must be a Secret, not a Variable** (Secrets tab). If AI still
+> shows "Excerpt", check the run log's `AI provider:` line — it should read
+> `https://api.groq.com/...`; if it's blank/GitHub, the secret isn't set.
 
 > **Model choice:** `llama-3.1-8b-instant` is Groq's most cost-efficient model —
 > highest free-tier rate limits and lowest token use, ideal for summaries and for

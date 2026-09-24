@@ -66,8 +66,9 @@ class Summarizer:
         key = os.environ.get("AI_API_KEY", "").strip()
         if not key:
             return None
-        base = os.environ.get("AI_BASE_URL", DEFAULT_BASE_URL).strip()
-        model = os.environ.get("AI_MODEL", DEFAULT_MODEL).strip()
+        # Empty env (unset GitHub Actions var) -> fall back to the Groq default.
+        base = os.environ.get("AI_BASE_URL", "").strip() or DEFAULT_BASE_URL
+        model = os.environ.get("AI_MODEL", "").strip() or DEFAULT_MODEL
         log.info("AI provider: %s | model: %s", base, model)
         return cls(key, base, model)
 
