@@ -30,9 +30,20 @@ log = logging.getLogger("securcrew")
 DEFAULT_BASE_URL = "https://api.groq.com/openai/v1"
 DEFAULT_MODEL = "openai/gpt-oss-20b"
 REQUEST_TIMEOUT = 45
-SUMMARY_CHUNK = 8    # keep each request small for low free-tier token/min limits
+SUMMARY_CHUNK = 10   # items per request; small enough to stay under free-tier per-request limits
 MAX_RETRIES = 5      # retry attempts on HTTP 429
 MAX_BACKOFF = 30.0   # cap a single retry sleep (seconds)
+TITLE_CHARS = 150    # trim per-item title sent to the model
+TEXT_CHARS = 400     # trim per-item body sent to the model (feeds may embed full articles)
+
+_TAG_RE = re.compile(r"<[^>]+>")
+
+
+def _clean(text: str, limit: int) -> str:
+    """Strip HTML tags, collapse whitespace, and truncate for a compact prompt."""
+    text = _TAG_RE.sub(" ", text or "")
+    text = " ".join(text.split())
+    return text[:limit]
 
 _SYSTEM_PROMPT = (
     "You are a cybersecurity news editor. Summarize each item in 2-3 short, "
@@ -93,7 +104,10 @@ class Summarizer:
     def _summarize_chunk(self, items: List[dict]) -> Optional[List[str]]:
         """Summarize a single small batch of items."""
         payload_items = [
-            {"title": it.get("title", ""), "text": it.get("summary", "")}
+            {
+                "title": _clean(it.get("title", ""), TITLE_CHARS),
+                "text": _clean(it.get("summary", ""), TEXT_CHARS),
+            }
             for it in items
         ]
         user_msg = (
@@ -135,7 +149,11 @@ class Summarizer:
             return [[i] for i in range(len(items))]
 
         payload_items = [
-            {"i": idx, "title": it.get("title", ""), "text": it.get("summary", "")}
+            {
+                "i": idx,
+                "title": _clean(it.get("title", ""), TITLE_CHARS),
+                "text": _clean(it.get("summary", ""), TEXT_CHARS),
+            }
             for idx, it in enumerate(items)
         ]
         user_msg = (
