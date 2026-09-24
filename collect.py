@@ -25,20 +25,21 @@ from summarize import Summarizer
 log = P.log
 
 
-def _sort_key(item: Dict[str, object]):
-    """Known publish dates first (ascending) so the original wins; unknown last."""
-    published = float(item.get("published", 0) or 0)
-    return (published == 0, published)
+def _published(item: Dict[str, object]) -> float:
+    """Epoch of the item's publish time; 0 (sorts last) when unknown."""
+    return float(item.get("published", 0) or 0)
 
 
 def select_originals(
     entries: List[Dict[str, object]], st: Dict, already_queued: set
 ) -> List[Dict[str, object]]:
-    """Return new, deduplicated 'original' items ready to enqueue."""
+    """Return new, deduplicated items to enqueue, newest first and source-balanced."""
     originals: List[Dict[str, object]] = []
     run_norms: List[str] = []
+    per_source: Dict[str, int] = {}
 
-    for item in sorted(entries, key=_sort_key):
+    # Newest first so recent news wins the budget; unknown dates sort last.
+    for item in sorted(entries, key=_published, reverse=True):
         if len(originals) >= P.MAX_ENQUEUE_PER_RUN:
             break
 
@@ -51,12 +52,19 @@ def select_originals(
 
         norm = dedup.normalize(str(item["title"]), str(item.get("summary", "")))
 
-        # Duplicate of something posted recently, or of an earlier original this run.
+        # Duplicate of something posted recently, or of another original this run.
         if dedup.is_fuzzy_dup(norm, st, P.SIMILARITY_THRESHOLD) or \
                 dedup.is_similar_to_any(norm, run_norms, P.SIMILARITY_THRESHOLD):
             # Mark seen so later feeds' copies are skipped without re-evaluating.
             dedup.record_posted(link, norm, st)
             continue
+
+        # Per-source cap keeps one busy feed from dominating a run. Not marked
+        # seen, so overflow items can be picked up on a later run.
+        src = str(item.get("source", ""))
+        if per_source.get(src, 0) >= P.MAX_PER_SOURCE_PER_RUN:
+            continue
+        per_source[src] = per_source.get(src, 0) + 1
 
         run_norms.append(norm)
         item["_id"] = item_id
@@ -94,7 +102,7 @@ def run() -> int:
             kept: List[Dict[str, object]] = []
             for grp in groups:
                 members = [originals[i] for i in grp]
-                canonical = min(members, key=_sort_key)
+                canonical = max(members, key=_published)  # keep the freshest copy
                 kept.append(canonical)
                 for m in members:
                     if m is not canonical:

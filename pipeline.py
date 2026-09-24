@@ -16,8 +16,10 @@ import os
 import sys
 import time
 from typing import Dict, List, Optional, Tuple
+from urllib.parse import urlparse
 
 import feedparser
+import requests
 
 from linkedin import LinkedInClient
 from linkedin_webhook import WebhookClient
@@ -32,6 +34,7 @@ PRUNE_WINDOW_DAYS = 7            # drop seen/history/counts + posted log older t
 QUEUE_TTL_DAYS = 2               # discard queued-but-unposted items older than this (stale news)
 MAX_ENTRIES_PER_FEED = 40        # look deeper per feed since we collect only ~2x/day
 MAX_ENQUEUE_PER_RUN = 60         # cap items added to the queue in one collect run
+MAX_PER_SOURCE_PER_RUN = 6       # per-source cap per run so one feed can't dominate
 BASE_HASHTAGS = "#infosec #cybersecurity #bugbounty"
 SUMMARY_MAX_CHARS = 220          # fallback (non-AI) summary length
 
@@ -89,12 +92,38 @@ def _entry_published(entry) -> float:
     return 0.0
 
 
+# Browser-like UA + Accept so feeds behind anti-bot/CDN don't 403 the runner.
+_FEED_UA = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+)
+_FEED_HEADERS = {
+    "User-Agent": _FEED_UA,
+    "Accept": "application/rss+xml, application/atom+xml, application/xml;q=0.9, */*;q=0.8",
+}
+
+
+def _parse_feed(url: str):
+    """Fetch a feed with a real UA and redirect-following, then parse.
+
+    Falls back to feedparser's own fetch if the HTTP request fails.
+    """
+    try:
+        resp = requests.get(
+            url, headers=_FEED_HEADERS, timeout=20, allow_redirects=True
+        )
+        resp.raise_for_status()
+        return feedparser.parse(resp.content)
+    except requests.RequestException:
+        return feedparser.parse(url, agent=_FEED_UA)
+
+
 def collect_entries(feeds: List[Tuple[str, List[str]]]) -> List[Dict[str, object]]:
     """Fetch and flatten entries from every feed. Erroring feeds are skipped."""
     items: List[Dict[str, object]] = []
     for url, tags in feeds:
         try:
-            parsed = feedparser.parse(url)
+            parsed = _parse_feed(url)
         except Exception as exc:  # never let one feed kill the run
             log.warning("feed error (%s): %s", url, exc)
             continue
@@ -102,7 +131,9 @@ def collect_entries(feeds: List[Tuple[str, List[str]]]) -> List[Dict[str, object
             log.warning("feed unreadable, skipping: %s", url)
             continue
 
-        source = html.unescape((parsed.feed.get("title") or url).strip())
+        source = html.unescape((parsed.feed.get("title") or "").strip())
+        if not source:
+            source = urlparse(url).netloc.replace("www.", "") or url
         for entry in parsed.entries[:MAX_ENTRIES_PER_FEED]:
             link = (entry.get("link") or "").strip()
             title = html.unescape((entry.get("title") or "").strip())
