@@ -1212,10 +1212,499 @@
     {
       "norm": "intigriti bug bytes 239 august 2026 hi hackers welcome latest edition bug bytes this month s issue we featuring intigriti provider adobe s bug bounty program css injection attack vector inside your email inbox ai doing novel security research http terminator 169 offensive recon skills one ai ready toolkit so much more let s dive crowdrecon coming most security teams only see makes into final report but real signal often starts earlier starts",
       "ts": 1790258893.7558336
+    },
+    {
+      "norm": "rapid7 analysis microsoft sharepoint remote code execution cve 2026 63520",
+      "ts": 1790259246.6356435
+    },
+    {
+      "norm": "when fear no longer holds you back interview ryan bonner roll4combatus ryan bonner also known roll4combatus respected bug bounty hunter consultant speaker intigriti hacker ambassador based united states today s interview we discuss his journey into bug hunting his recommended tools techniques share advice hunters just getting started ryan did you get started put frankly i got fired my first pentesting job i wasn t strong report writer i knew i also knew i had get better i doi",
+      "ts": 1790259246.693228
+    },
+    {
+      "norm": "fedramp vdr ver daily scans only beginning fedramp s vdr ver requirements make vulnerability management more continuous faster scanning tighter remediation deadlines stronger evidence requirements anecdotes explains december 7 deadline just beginning broader shift toward continuous automated compliance validation",
+      "ts": 1790259247.5279074
+    },
+    {
+      "norm": "sorry i can t help your guardrails might become attacker s best friend his first threat source newsletter david bianco explores critical need operational sovereignty customizing ai guardrails maintain defender s advantage",
+      "ts": 1790259247.5279365
+    },
+    {
+      "norm": "openclaw went viral meet maintainers building securing p openclaw fastest growing project github history peter steinberger several maintainers share they learned project s first six months p p post href went viral meet maintainers building securing appeared first href github blog p",
+      "ts": 1790259247.5279539
+    },
+    {
+      "norm": "identity service uncovering dark web marketplaces trading executive ssns h2 introduction h2 p style direction ltr span style font size undefined despite modern verification controls identity theft remains one most pervasive threats both individuals enterprise organizations u s federal trade commission statistics show over 1 million identity theft reports annually related fraud imposter scams accounting billions financial losses each year while stolen credit cards enable rapid short term monetization social security numbers ssns represent far more permanent dangerous tier within cybercrime ecosystem because unlike payment cards they cannot simply deactivated once exposed ssn can support enabling unauthorized lines credit synthetic identity fraud sophisticated tax scams span p p style direction ltr span style font size undefined when exposed identity data belongs corporate executives board members other high profile employees risk can extend beyond individual threat actors target these high profile individuals not just their premium credit profiles but leverage their compromised identities executive impersonation corporate espionage downstream extortion rapid7 s recent alert telemetry underscores severity this targeted exposure since early 2026 alone we identified 476 instances compromised ssn records across 395 unique corporate personnel over 73 these exposures directly targeted top level leadership c suite executives comprising 44 6 affected profiles presidents making up another 28 6 unsurprisingly given geographical nature ssns 95 6 these leaks stemmed u s headquartered organizations concentrated heavily high value sectors like financials over 25 industrials 17 span p p style direction ltr span style font size undefined this blog we explore operational mechanics underground identity economy focusing three dominant ssn marketplaces tracked rapid7 xilo bankom peoplefinder which together account 81 5 all executive ssn leaks our dataset led xilo 40 8 bankom 21 8 peoplefinder 18 9 using rapid7 alert telemetry past year we look profiles affected corporate executives these marketplaces operate highlight proactive dark web monitoring can mitigate upstream identity exposure before weaponized span p h2 stolen ssns retain their value h2 p style direction ltr span style font size undefined not all stolen data retains value same length time leaked credentials can reset payment cards can cancelled session tokens eventually expire while these data types remain highly sought after cybercriminals their usefulness often depends acting quickly before victim service provider invalidates them span p p style direction ltr span style font size undefined ssns differ they effectively permanent serving core identity attribute once exposed they can remain valuable years enabling wide range fraud schemes long after original breach when combined other personally identifiable information pii such victim s name date birth address phone number employment history ssn becomes foundation comprehensive identity profile can bought sold repeatedly abused across criminal ecosystem span p p style direction ltr span style font size undefined these identity profiles enable far more than traditional identity theft threat actors use them open fraudulent financial accounts create synthetic identities bypass identity verification processes file fraudulent tax government benefit claims support highly targeted social engineering campaigns rather than serving single purpose complete identity record becomes reusable asset can monetized multiple times different threat actors span p p style direction ltr span style font size undefined corporate executives other high profile employees exposed identity data can also create risk organization they represent publicly available information regulatory filings corporate biographies social media can combined stolen identity data build highly detailed profiles these enriched records increase credibility phishing business email compromise bec executive impersonation attacks allowing threat actors target not only individual but also organization they represent span p p style direction ltr span style font size undefined this durability fueled thriving underground economy where identity records treated searchable reusable inventory rather than one time commodities marketplaces examined this research demonstrate just mature accessible this ecosystem become span p h2 anatomy ssn marketplace h2 p style direction ltr span style font size undefined while platforms like xilo bankomat peoplefinder present highly organized user friendly storefront they operate strictly downstream clearinghouses rather than original creators their inventory vast supply ssns flooding these networks relies distinct multi tiered underground supply chain massive volume driving these platforms primarily fueled large scale institutional network breaches where wholesale hackers compromise data aggregators healthcare systems financial providers these massive sql databases sold bulk deep web forums where marketplace administrators purchase parse upload them into their searchable storefronts according annual telemetry identity theft resource center billions individual data records exposed annually through these mega breaches accounting vast majority inventory available online span p p style direction ltr span style font size undefined another source identity data comes infostealer malware targeted phishing campaigns while mass breaches provide wholesale numbers infostealers scrape highly contextual local data such saved browser forms pdf documents like tax returns corporate onboarding paperwork stored unmanaged personal devices when these localized logs parsed marketplace administrators they yield fresh high value identity profiles allow buyers target specific corporate leaders span p p style direction ltr span style font size undefined although these platforms tap into similar upstream supply chain they package monetize this data varies significantly stand out maturing highly competitive cybercrime market each marketplace focuses own operational niche ranging ultra low pricing identity enrichment features multi asset carding integration legacy data consistency following sections provide deep dive into each marketplace highlighting their specific functionalities user interfaces distinct market advantages span p h3 style direction ltr span style color rgb 67 67 67 xilo span h3 p style direction ltr span style font size undefined xilo been active since least march 2025 marketplace hosted tor hidden service while also maintaining mirror sites clear web improve accessibility resilience span p p style direction ltr span style font size undefined users can search specific individuals name state country us canada year birth figure 1 they can also request records include phone numbers email addresses addition victim s ssn this can increase value records reducing need threat actors source additional pii elsewhere during our analysis however we did not identify any records included email addresses while records containing phone numbers available same price standard ssn records search results can also sorted price although cost appears fixed 0 25 per ssn record span p p span style font size undefined span p figure style margin 0 div style display inline block img alt xilo search interface png class embedded asset height 383 src style width 1559px height 383px type asset width 1559 figcaption style text align center figure 1 xilo search interface figcaption div figure p p p style direction ltr span style font size undefined search results typically display victim s full name physical address date birth before purchase this information alone can help threat actors identify specific individuals targeted campaigns while ssn revealed only after purchase completed figure 2 span p p p figure style margin 0 div style display inline block img alt xilo search results png class embedded asset src style width auto type asset figcaption style text align center figure 2 xilo search results figcaption div figure p p p style direction ltr span style font size undefined addition standard searches xilo offers reverse lookup service accepts ssn phone number returns additional pii including victim s full name phone number figure 3 this service costs 0 50 per lookup suggesting enriching existing identity profile considered more valuable than purchasing ssn alone threat actors can use this functionality expand records obtained through standard search increasing amount pii associated single individual consequently potential identity fraud span p p span style font size undefined span p figure style margin 0 div style display inline block img alt xilo reverse search png class embedded asset src style width auto type asset figcaption style text align center figure 3 xilo reverse search figcaption div figure p p p style direction ltr span style font size undefined marketplace supported telegram channel used announce technical updates domains although activity channel been relatively limited attracted more than 500 subscribers providing indication interest service like many established cybercriminal services xilo appears prepared domain disruptions maintaining alternative access points communicating them through telegram adopting kind resilience service continuity practices more commonly associated legitimate online services span p p style direction ltr span style font size undefined xilo accepts several cryptocurrencies including bitcoin litecoin monero ether tether usdt support usdt relatively uncommon among underground marketplaces may reflect marketplace s focus us based identity data minimum deposit just 1 lowering barrier entry users while bonuses offered deposits exceeding 100 encourage larger account balances span p p style direction ltr span style font size undefined beyond own infrastructure xilo actively advertises well known cybercrime forums including xss well carding communities such wwh club altenens figure 4 this marketing strategy common among underground marketplaces seeking expand their customer base more notably xilo s presence carding focused forums highlights close relationship between stolen payment data identity information illustrating different segments cybercrime ecosystem increasingly overlap complement one another span p p p figure style margin 0 div style display inline block img alt xilo advertisement altenens png class embedded asset src style width auto type asset figcaption style text align center figure 4 xilo advertisement altenens figcaption div figure h3 style direction ltr span style color rgb 67 67 67 bankomat span h3 p style direction ltr span style font size undefined active since least march 2022 bankomat one more established marketplaces operating underground identity theft ecosystem platform accessible tor hidden service while maintaining multiple clear web domains improve availability emergence coincided shutdown several prominent carding pii marketplaces including joker s stash ssndob marketplace suggesting bankomat sought capitalize resulting gap combining identity data sales traditional carding services span p p style direction ltr span style font size undefined marketplace prominently lists active domains encourages users save onion address describing most reliable way access service this reflects awareness operational challenges faced long running underground marketplaces particularly risk domain seizures takedowns maintaining multiple access points actively directing users toward tor service bankomat demonstrates operational maturity needed retain customer base despite infrastructure disruptions span p p style direction ltr span style font size undefined users can search individuals first last name combined additional identifier such state city zip code date birth figure 5 search functionality free allowing users identify potential victims before deciding whether purchase record search results display victim s full name date birth physical addresses while ssn revealed only after purchase fixed cost 4 per record unlike xilo however bankomat does not offer additional identity enrichment services ability purchase supplementary pii directly through platform span p p span style font size undefined span p figure style margin 0 div style display inline block img alt bankomat search bar png class embedded asset src style width auto type asset figcaption style text align center figure 5 bankomat search bar figcaption div figure p p p style direction ltr span style font size undefined beyond ssn records bankomat also functions traditional carding marketplace offering stolen payment card details sale obtained through third party sellers platform supports card validation services including viper 4chk allowing buyers verify whether stolen payment cards remain active before using reselling them similar functionality offered established carding marketplaces such findsome ultimateshop span p p style direction ltr span style font size undefined this combination identity records payment card data validation tools positions bankomat one stop marketplace financially motivated threat actors rather than sourcing stolen identities payment data separate platforms buyers can acquire multiple data types associated same victim through single service while ssn records cost 4 stolen payment card details typically advertised approximately 10 suggesting bankomat places greater commercial emphasis carding business likely reflecting both higher profit margins sustained demand within underground economy figure 6 span p p p figure style margin 0 div style display inline block img alt bankomat credit card listings png class embedded asset src style width auto type asset figcaption style text align center figure 7 peoplefinder ssn listings figcaption div figure p p p style direction ltr span style font size undefined bankomat currently accepts payments exclusively bitcoin contrast newer marketplaces increasingly support wider range cryptocurrencies appeal broader customer base span p h3 style direction ltr span style color rgb 67 67 67 peoplefinder span h3 p style direction ltr span style font size undefined active since least february 2023 peoplefinder successor ssndob marketplace whose primary domains seized law enforcement june 2022 following takedown service re emerged through network lookup mirrors using clear web sounding domain names such peoplefinder connection also visible source code where front end login page retains original ssndob title text logo through this infrastructure platform provides access same legacy database more than 24 million compromised u s pii records span p p style direction ltr span style font size undefined maintain steady customer stream peoplefinder actively advertises database high profile cybercrime carding forums like wwh club exploit this deliberate marketing keeps service highly visible financially motivated threat actors seeking verification tools downstream fraud span p p style direction ltr span style font size undefined layout itself highly streamlined featuring basic search bar closely mirrors bankomat s interface users can search platform s database name date birth physical address completely free charge initial search output displays victim s full name date birth associated physical addresses allowing threat actor confirm they targeted correct corporate executive before paying record figure 7 span p p p figure style margin 0 div style display inline block img alt peoplefinder ssn listings png class embedded asset src style width auto type asset figcaption style text align center figure 7 peoplefinder ssn listings figcaption div figure p p p style direction ltr span style font size undefined reveal hidden ssn users must pay fixed cost 1 50 per lookup putting pricing structure right between xilo bankomat this strict hyper commoditized focus solely core ssn details directly mirrors operational blueprint original ssndob model rather than expanding into supplementary data types like phone numbers credit cards operators chose preserve their highly efficient legacy pay per lookup infrastructure platform relies exclusively bitcoin transactions span p h2 rapid7 telemetry reveals about executive threat landscape h2 p style direction ltr span style font size undefined monitoring dark web ssn marketplaces rapid7 actively alerts clients when leaked records their executives designated employees discovered span p p style direction ltr span style font size undefined since beginning 2026 our telemetry identified 476 instances compromised ssn records representing 395 unique individuals several monitored personnel affected multiple exposures within this sample most leaked ssns recorded xilo 40 8 followed bankom 21 8 peoplefinder 18 9 figure 8 span p p p figure style margin 0 div style display inline block img alt leaked ssns marketplace png class embedded asset src style width auto type asset figcaption style text align center figure 8 sample distribution leaked ssns marketplace figcaption div figure p p p style direction ltr span style font size undefined given ssns issued within united states overwhelming majority compromised records our dataset 95 6 linked organizations headquartered u s others located spain canada japan trailing significantly behind figure 9 span p p span style font size undefined span p figure style margin 0 div style display inline block img alt leaked ssns country png class embedded asset src style width auto type asset figcaption style text align center figure 9 sample distribution leaked ssns country figcaption div figure p p p style direction ltr span style font size undefined financials represented largest sector our sample accounting more than quarter organizations whose monitored executives appeared leaked ssn records followed industrials 17 figure 10 one possible reason concentration financials volume sensitivity customer employee data these organizations hold including pii tax related information which can make exposed identities particularly valuable threat actors industrials may also present attractive targets because their interconnected supply chains where compromised identities can potentially support broader fraud impersonation access attempts across partner ecosystems span p p span style font size undefined span p figure style margin 0 div style display inline block img alt leaked ssns sector png class embedded asset src style width auto type asset figcaption style text align center figure 10 sample distribution leaked ssns sector figcaption div figure p p p style direction ltr span style font size undefined closer analysis roles targeted personnel reveals c suite executives such chief executive officers chief financial officers make up largest portion 44 6 presidential positions represent second largest segment 28 6 while functional management administrative roles account 13 9 compromised profiles span p p style direction ltr span style font size undefined these findings may reflect natural monitoring bias since organizations more likely prioritize senior personnel whose compromise poses greater security risk even caveat concentration among senior leadership reinforces executive identity exposure deserves specific attention span p p style direction ltr span style font size undefined compromised executive pii can support targeted phishing impersonation other social engineering campaigns against both individual organization they represent span p p span style font size undefined span p table colgroup col style width 25 6140350877193 col style width 45 05263157894737 col style width 15 859649122807017 col style width 13 473684210526315 colgroup tbody tr td p style direction ltr span style color rgb 31 31 31 font size undefined strong role category strong span p td td p style direction ltr span style color rgb 31 31 31 font size undefined strong key roles included strong span p td td p style direction ltr span style color rgb 31 31 31 font size undefined strong unique target count strong span p td td p style direction ltr span style color rgb 31 31 31 font size undefined strong unique targets strong span p td tr tr td p style direction ltr span style color rgb 31 31 31 font size undefined executive leadership c suite span p td td p style direction ltr span style color rgb 31 31 31 font size undefined ceo cfo coo cto cio chief revenue human resources officers span p td td p style direction ltr span style color rgb 31 31 31 font size undefined 176 span p td td p style direction ltr span style color rgb 31 31 31 font size undefined 44 6 span p td tr tr td p style direction ltr span style color rgb 31 31 31 font size undefined presidents vice presidents span p td td p style direction ltr span style color rgb 31 31 31 font size undefined president svp evp regional vice presidents span p td td p style direction ltr span style color rgb 31 31 31 font size undefined 113 span p td td p style direction ltr span style color rgb 31 31 31 font size undefined 28 6 span p td tr tr td p style direction ltr span style color rgb 31 31 31 font size undefined functional management admin span p td td p style direction ltr span style color rgb 31 31 31 font size undefined directors heads departments managers executive assistants span p td td p style direction ltr span style color rgb 31 31 31 font size undefined 55 span p td td p style direction ltr span style color rgb 31 31 31 font size undefined 13 9 span p td tr tr td p style direction ltr span style color rgb 31 31 31 font size undefined legal partner advisory span p td td p style direction ltr span style color rgb 31 31 31 font size undefined managing members partners corporate securities attorneys span p td td p style direction ltr span style color rgb 31 31 31 font size undefined 33 span p td td p style direction ltr span style color rgb 31 31 31 font size undefined 8 4 span p td tr tr td p style direction ltr span style color rgb 31 31 31 font size undefined board governance officials span p td td p style direction ltr span style color rgb 31 31 31 font size undefined board trustees directors board state senators vice chairs span p td td p style direction ltr span style color rgb 31 31 31 font size undefined 18 span p td td p style direction ltr span style color rgb 31 31 31 font size undefined 4 6 span p td tr tr td p style direction ltr span style color rgb 31 31 31 font size undefined total unique individuals span p td td p br p td td p style direction ltr span style color rgb 31 31 31 font size undefined 395 span p td td p style direction ltr span style color rgb 31 31 31 font size undefined 100 0 span p td tr tbody table h2 detection action responding exposed executive pii h2 p style direction ltr span style font size undefined because ssns cannot simply reset after exposure organizations need way identify compromised executive pii early determine action can reduce resulting risk span p p style direction ltr span style font size undefined these alerts triggered using customer defined assets specifically names designated vips when potential match flagged rapid7 analysts conduct preliminary osint verification checking biographical details such vip s date birth primary locations confirm listing s accuracy before issuing alert customer span p p style direction ltr span style font size undefined once alerted customers can choose purchase exposed ssn record directly through ask analyst service using their allocated dark web purchase credits figure 11 this capability allows security teams inspect full record verify whether exposed ssn genuine determine whether additional protective measures necessary affected executive furthermore platforms like xilo purchasing listing removes record marketplace entirely actively taking off shelf before other threat actors can acquire span p p p figure style margin 0 div style display inline block img alt rapid7 platform alert leaked executive details png class embedded asset src style width auto type asset figcaption style text align center figure 11 rapid7 platform alert about leaked details company executive figcaption div figure h2 conclusion strategic defense actions h2 p style direction ltr span style font size undefined illicit marketplaces examined rapid7 show cheaply efficiently stolen identity data can now searched purchased enriched executives other high profile employees exposed ssn can remain useful threat actors long after original compromise may support identity fraud social engineering executive impersonation business email compromise because information cannot simply reset organizations should treat executive identity exposure ongoing security risk span p p style direction ltr span style font size undefined reduce risk executive protection security teams should consider following actions span p ul li style direction ltr p style direction ltr span style font size undefined monitor executive exposure dark web use digital risk protection capabilities configured executive names known locations titles other relevant identifiers detect compromised pii across illicit marketplaces underground channels span p li li style direction ltr p style direction ltr span style font size undefined use removal takedown options where available where supported work security providers acquire remove exposed identity records before they purchased reused other threat actors span p li li style direction ltr p style direction ltr span style font size undefined reduce executives public digital footprint review public records data broker listings corporate biographies social media profiles limit unnecessary exposure information such dates birth home addresses phone numbers can used enrich stolen records span p li li style direction ltr p style direction ltr span style font size undefined require out band verification sensitive requests introduce mandatory secondary confirmation financial transactions access requests administrative changes involving executive accounts reduce risk successful impersonation span p li li style direction ltr p style direction ltr span style font size undefined provide targeted phishing impersonation training give c suite members board members executive assistants focused guidance attackers can combine leaked pii social engineering make phishing impersonation attempts more convincing span p li ul p style direction ltr span style font size undefined persistence ssns means risk does not end when original breach discovered ongoing monitoring rapid validation stronger verification controls can help organizations identify exposure earlier reduce value stolen identity data make harder threat actors turn compromised executive information into wider attack against business span p",
+      "ts": 1790259247.5286753
+    },
+    {
+      "norm": "two alleged teampcp hackers arrested australia authorities australia arrested two men believed members teampcp prolific cybercrime data extortion group blamed perpetrating longest running spree software supply chain attacks ever statement released today australian federal police afp said two unnamed suspects western australia aged 21 23 arrested connection sophisticated cybercrime syndicate allegedly created malicious open source software rob thousands global businesses afp did not name defendants but krebsonsecurity learned 21 year old suspect s real identity june been communicating him ever since this story includes interviews teampcp s self described spokesperson examines clues left behind teampcp leader likely led his undoing",
+      "ts": 1790259247.5286932
+    },
+    {
+      "norm": "threat landscape industrial automation systems q2 2026 report contains statistics industrial threats q2 2026 including ransomware miners spyware other threats detected blocked industrial control systems",
+      "ts": 1790259247.5286992
+    },
+    {
+      "norm": "javascript obfuscation party trick phishing kit learn basics obfuscation researcher would try reverse several ways approach problem",
+      "ts": 1790259247.528704
+    },
+    {
+      "norm": "us navy tells sailors their families scrub your social media enemies watching us navy told entire workforce 340 000 active duty personnel 58 000 reservists 210 000 civilian employees clean up their social media profiles because adversaries might using them determine who they where they live when they may not home read more my article hot security blog",
+      "ts": 1790259247.5287125
+    },
+    {
+      "norm": "ai driven osint wrong hands everyone could target fraud s getting cheaper easier cybercriminals research potential victims here s s still your control",
+      "ts": 1790259247.5287187
+    },
+    {
+      "norm": "smashing security podcast 482 this hacker leaked gta 6 launched their own cryptocurrency hacker calling themselves cyberleek been leaking gameplay footage gta 6 ahead official reveal this week but they re not asking rockstar games ransom instead they ve launched their own cryptocurrency promising release ever more juicy clips virtual strip club meanwhile your smart tv might doing more than binge watching netflix while you sleep we explore shadowy world residential proxies they end up inside home routers smart tvs iot devices entire criminal economy quietly running through your internet connection all this more episode 482 smashing security podcast cybersecurity expert keynote speaker graham cluley special guest paul ducklin",
+      "ts": 1790259247.52875
+    },
+    {
+      "norm": "choose your fighter balancing competing requirements select models your ai soc selecting model your security operations center soc digital forensics incident response dfir tasks important but selecting best one more involved than you might think here s choose",
+      "ts": 1790259247.5287611
+    },
+    {
+      "norm": "exploits vulnerabilities q2 2026 this report covers statistics vulnerabilities exploits c2 frameworks q2 2026 first time ever we aggregate data vulnerabilities open source ai agents ai frameworks",
+      "ts": 1790259247.5287688
+    },
+    {
+      "norm": "s tag name javascript apparently i my laptop i often am when there s rubbish telly found myself wondering characters allowed tag i knew they had begin za z but about after i t",
+      "ts": 1790259247.5287788
+    },
+    {
+      "norm": "state ai enabled malware august 2026 brand abuse agentic execution p explore unit 42 research ai enabled malware learn existing behavioral detection endpoint analytics stop ai authored code before execution p p post href state ai enabled malware august 2026 brand abuse agentic execution appeared first href 42 p",
+      "ts": 1790259247.5287917
+    },
+    {
+      "norm": "safety penalty reclaiming operational sovereignty age ai frontier ai models become increasingly restrictive security teams facing safety penalty hampers real time incident response discover organizations can move toward operational sovereignty ensure their defensive ai keeps pace unconstrained adversaries",
+      "ts": 1790259247.5288022
+    },
+    {
+      "norm": "malicious firefox add ons caught stealing cryptowallet seed phrases browser credentials every time you add extension plugin your browser there s risk you might doing more than managing your cryptocurrency wallet generating passwords taking notes tracking sports results there s chance you just handed complete stranger access your savings read more my article hot security blog",
+      "ts": 1790259247.5288103
+    },
+    {
+      "norm": "gunra ransomware you need know ransomware gang gunra been creating havoc exploiting unpatched vpns firewalls steal data encrypt systems extort victims across healthcare finance manufacturing more read more my article fortra blog",
+      "ts": 1790259247.528822
+    },
+    {
+      "norm": "when fear no longer holds you back interview ryan bonner roll4combatus ryan bonner also known roll4combatus respected bug bounty hunter consultant speaker intigriti hacker ambassador based united states today s interview we discuss his journey into bug hunting his recommended tools techniques share advice hunters just getting started ryan did you get started put frankly i got fired my first pentesting job i wasn t strong report writer i knew i also knew i had get better i doi",
+      "ts": 1790259247.5288458
+    },
+    {
+      "norm": "connecting dots securing overlooked corners software development lifecycle sdlc supply chain p attackers targeting ci cd pipelines developer tools instead application code requiring total sdlc visibility strict security controls p p post href dots securing overlooked corners software development lifecycle sdlc supply chain appeared first href 42 p",
+      "ts": 1790259247.5288556
+    },
+    {
+      "norm": "invisible passenger your car kaspersky expert discovered android malware designed serve ads build proxy botnet s delivered through legitimate software dofun head units",
+      "ts": 1790259247.5288827
+    },
+    {
+      "norm": "identity abuse through trusted communication channels p unit 42 details attackers exploit enterprise collaboration tools identity phishing credential theft discover key defense strategies p p post href abuse through trusted communication channels appeared first href 42 p",
+      "ts": 1790259247.5288937
+    },
+    {
+      "norm": "web fuzzing hackers fuzzing been around long web applications fact term itself coined back 1988 when barton miller professor university wisconsin working over dial up connection during thunderstorm noticed resulting line noise consistently crashing unix utilities he running web fuzzing no different despite rise automated scanners other security tooling remains one most productive techniques application s",
+      "ts": 1790259247.5289135
+    },
+    {
+      "norm": "smashing security podcast 481 never say this robot dog black hat this month group security researchers took 9 000 robot dog plugged google s ai into brain jailbroke telling completely straight face pokemon followed involved wall blue ice chest anyone room wearing white shoes oh did we mention you can buy flamethrower attachment meanwhile salzburg 280 gold statuettes mozart vanished streets this happened same artist before organised crime publicity stunt jenny thoughts some parallels world cybersecurity all this more episode 481 smashing security podcast cybersecurity expert keynote speaker graham cluley special guest jenny radcliffe",
+      "ts": 1790259247.5289328
+    },
+    {
+      "norm": "cve 2026 19490 critical vulnerability affecting citrix netscaler adc netscaler gateway h2 style direction ltr overview h2 p style direction ltr span style font size undefined august 19 2026 span href style font size undefined security advisory span span style font size undefined published span href style font size undefined cve 2026 19490 span span style font size undefined critical authentication bypass vulnerability affecting citrix netscaler adc netscaler gateway vulnerability carries cvss v4 0 base score 9 3 can exploited remotely unauthenticated attacker over network without user interaction elevated privileges span p p style direction ltr span style font size undefined netscaler adc netscaler gateway widely deployed enterprise networking products commonly positioned near network perimeter netscaler adc provides application delivery traffic management load balancing ssl tls offloading application security capabilities while netscaler gateway provides secure remote access vpn functionality because these systems frequently deployed enterprise dmzs exposed public internet authentication bypass vulnerabilities affecting citrix products nearly always exploited threat actors span p p style direction ltr span style font size undefined cve 2026 19490 span href style font size undefined affects span span style font size undefined following systems span p ul li style direction ltr p style direction ltr span style font size undefined strong netscaler adc netscaler gateway 14 1 strong span span style font size undefined versions prior span span style font size undefined span 14 1 73 32 span span p li li style direction ltr p style direction ltr span style font size undefined strong netscaler adc netscaler gateway 13 1 strong span span style font size undefined versions prior span span style font size undefined span 13 1 63 21 span span p li li style direction ltr p style direction ltr span style font size undefined strong netscaler adc fips strong span span style font size undefined versions prior span span style font size undefined span 14 1 73 32 fips span span p li li style direction ltr p style direction ltr span style font size undefined strong netscaler adc fips ndcpp strong span span style font size undefined versions prior span span style font size undefined span 13 1 37 277 span span p li ul p style direction ltr span style font size undefined august 19 2026 rapid7 not observed evidence cve 2026 19490 being exploited wild however organizations should prioritize patching affected systems emergency basis since citrix products high value targets tend quickly see exploitation wild span p p span style font size undefined september 9 2026 cve 2026 19490 span href style font size undefined added span span style font size undefined u s cybersecurity infrastructure security agency s cisa list known exploited vulnerabilities span href style font size undefined kev span span style font size undefined based evidence active exploitation active exploitation now occurring organizations running affected versions citrix netscaler adc netscaler gateway should remediate these issues urgent basis outside normal patching cycles span p h2 style direction ltr mitigation guidance h2 p style direction ltr span style font size undefined organizations running affected netscaler adc netscaler gateway appliances should review official netscaler span href style font size undefined advisory span span style font size undefined apply required updates affected systems emergency basis span p p style direction ltr span style font size undefined fixed versions affected products listed below span p ul li style direction ltr p style direction ltr span style font size undefined strong netscaler adc netscaler gateway strong span span style font size undefined span span style font size undefined span 14 1 73 32 span span span style font size undefined later releases span p li li style direction ltr p style direction ltr span style font size undefined strong netscaler adc netscaler gateway strong span span style font size undefined span span style font size undefined span 13 1 63 21 span span span style font size undefined later releases span span style font size undefined span 13 1 span span p li li style direction ltr p style direction ltr span style font size undefined strong netscaler adc 14 1 fips strong span span style font size undefined span span style font size undefined span 14 1 73 32 fips span span span style font size undefined later releases span span style font size undefined span 14 1 fips span span p li li style direction ltr p style direction ltr span style font size undefined strong netscaler adc 13 1 fips 13 1 ndcpp strong span span style font size undefined span span style font size undefined span 13 1 37 277 span span span style font size undefined later releases span span style font size undefined span 13 1 fips span span span style font size undefined span span style font size undefined span 13 1 ndcpp span span p li ul p style direction ltr span style font size undefined according citrix customers can determine whether affected systems vulnerable cve 2026 19490 inspecting their netscaler configuration following configuration entries if one more following items present if systems running affected versions system likely exploitable span p ul li style direction ltr p style direction ltr span style font size undefined strong saml action configuration place strong span p li ul li style direction ltr p style direction ltr span style font size undefined add authentication samlaction span p li ul li style direction ltr p style direction ltr span style font size undefined strong auth vpn vserver configured strong span p li ul li style direction ltr p style direction ltr span style font size undefined add authentication vserver span p li li style direction ltr p style direction ltr span style font size undefined add vpn vserver span p li ul ul p style direction ltr span style font size undefined latest guidance please refer official span href style font size undefined citrix advisory span span style font size undefined span p h2 style direction ltr span style color rgb 24 26 27 rapid7 customers span h2 h3 style direction ltr exposure command insightvm nexpose h3 p style direction ltr span style font size undefined customers can assess exposure cve 2026 19490 citrix netscaler adc gateway using vulnerability check available august 20 content release span p h2 style direction ltr updates h2 ul li style direction ltr p style direction ltr span style font size undefined strong august 19 2026 strong span span style font size undefined initial publication span p li li span style font size undefined strong august 20 2026 strong span span style font size undefined updated rapid7 customers section reflect availability vulnerability check span li li span style font size undefined strong september 11 2026 strong span span style font size undefined updated overview add cisa kev reference span li ul",
+      "ts": 1790259247.5290642
+    },
+    {
+      "norm": "rapid7 licencias online partner accelerate cybersecurity maturity across latin america p style direction ltr span style font size undefined em c ssio de alc ntara director latam sales rapid7 em span p p span style font size undefined across latin america organizations embracing cloud ai digital transformation drive innovation business growth these technologies create opportunities but also introduce greater complexity expanding attack surfaces span p p style direction ltr span style font size undefined this environment security leaders being asked understand where risk exists across increasingly distributed environments quickly eliminate blind spots like shadow shadow ai all without adding operational complexity span p p style direction ltr span style font size undefined help security leaders practitioners address this complexity rapid7 excited announce strategic distribution partnership licencias online lol across latin america span p h2 style direction ltr helping organizations stay ahead evolving threats h2 p style direction ltr span style font size undefined order keep day day business operations moving organizations need security solutions not only protect critical assets but also support innovation regulatory compliance long term digital transformation span p p style direction ltr span style font size undefined rapid7 s ai powered cybersecurity operations platform helps organizations strengthen cyber resilience unifying continuous exposure management ai driven threat detection response security automation connecting security data across endpoint cloud identity infrastructure environments organizations leverage one platform gain visibility reduce risk act confidence span p h2 style direction ltr shared commitment partner success h2 p style direction ltr span style font size undefined success today s fragmented cybersecurity environments depends strong ecosystem span href partners target self span style font size undefined partners span span style font size undefined who can help organizations implement optimize maximize value unified security operations span p p style direction ltr span style font size undefined this where licencias online comes strong well established presence across latin america deep cybersecurity expertise highly specialized channel ecosystem licencias online brings local knowledge technical enablement operational agility needed help partners grow their cybersecurity practices deliver greater value customers span p p style direction ltr span style font size undefined together rapid7 licencias online invest technical training partner enablement joint marketing initiatives go market programs help partners expand span href services managed detection response mdr target self span style font size undefined managed security services span span style font size undefined strengthen customer relationships accelerate business growth across region span p h2 style direction ltr building cyber resilience together h2 p style direction ltr span style font size undefined organizations across latin america continue modernize their environments they should access security operations integrated intelligent designed today s ai powered threat landscape span p p style direction ltr span style font size undefined rapid7 s open platform supports this approach through hundreds technology integrations help organizations eliminate security silos improve visibility across their attack surfaces automate response workflows this enables security teams reduce operational complexity while improving cybersecurity program maturity span p p style direction ltr span style font size undefined combining rapid7 s global cybersecurity innovation licencias online s regional expertise trusted partner network this alliance make easier organizations across latin america strengthen cyber resilience while enabling partners see greater success through measurable business outcomes span p p style direction ltr span style font size undefined we re excited begin this next chapter together look forward supporting our partners they help customers build stronger more resilient security operations across region span p p style direction ltr span style font size undefined ready grow rapid7 discover rapid7 licencias online span href partners sales partners target self span style font size undefined helping partners accelerate cybersecurity maturity span span style font size undefined across latin america span p",
+      "ts": 1790259247.5291631
+    },
+    {
+      "norm": "prison data analyst who tried extort 2 5 million his employer when cameron curry discovered his contract data analyst wasn t going renewed he could updated his linkedin profile he could started sending out his resume but 27 year old charlotte north carolina did instead turn extortion read more my article hot security blog",
+      "ts": 1790259247.5291798
+    },
+    {
+      "norm": "threat brief mitigating large scale credential attacks updated august 18 p august 2026 actor thehatman claimed stolen large volume credentials organizations microsoft entra tenants we provide guidance mitigating large scale credential attacks p p post href brief mitigating large scale credential attacks updated august 18 appeared first href 42 p",
+      "ts": 1790259247.5291903
+    },
+    {
+      "norm": "report ai threats here q2 2026 signals end traditional patch cycles p style direction ltr span style color rgb 34 34 34 font size undefined you can t patch everything so do you fix first findings q2 2026 changed traditional answers span p p style direction ltr span style color rgb 34 34 34 font size undefined latest span href research report quarterly threat landscape report target self span style color rgb 34 34 34 font size undefined quarterly threat landscape report span span style color rgb 34 34 34 font size undefined rapid7 labs shows vulnerability disclosures still surging while attackers use automation ai assisted tooling compress time between disclosure exploitation gap patch cycles built fill closing speed volume overwhelming security teams relied traditional patch cycles reactive programs success going forward can t about patching much possible about understanding matters most reducing exposures attackers can actually reach span p p style direction ltr span style color rgb 34 34 34 font size undefined here four trends defined q2 2026 they mean your security program you define priorities q3 beyond span p h2 span style color rgb 26 26 46 font size undefined volume disclosures hit another milestone span h2 p style direction ltr span style color rgb 34 34 34 font size undefined there 8 539 high critical severity cves cvss 7 0 10 0 this quarter double number reported same quarter last year 4 268 meanwhile number newly exploited vulnerabilities held roughly steady 40 takeaway isn t exploitation exploded s disclosure volume far outstripping any team can triage span p blockquote span style font size undefined em report breaks down which those disclosures actually reachable triage exploitability instead severity score alone em span blockquote h2 span style color rgb 26 26 46 font size undefined initial access keeps getting easier span h2 p style direction ltr span style color rgb 34 34 34 font size undefined nearly two thirds exploited vulnerabilities this quarter 62 required no user interaction no stolen credentials no phishing victim no click attackers reach exploit them their own share up nine points year over year 53 q2 2025 reinforcing trend disclosures missing authentication flaws cwe 306 surged 247 year over year fast expanding pool internet facing systems require no login all span p blockquote span style font size undefined em this quarter s clearest signal report details exactly which exposures close first before exploitation curve catches up em span blockquote h2 span style color rgb 26 26 46 font size undefined nation state activity remains persistent span h2 p style direction ltr span style color rgb 34 34 34 font size undefined rapid7 observed continued activity iranian north korean russian advanced persistent threat apt clusters targeting government finance healthcare manufacturing energy telecommunications russian campaigns targeted edge infrastructure iranian activity included sustained industrial control system ics operational technology ot targeting span p blockquote span style font size undefined em report maps specific techniques sectors each cluster focused this quarter em span blockquote h2 span style color rgb 26 26 46 font size undefined ransomware stays concentrated but keeps evolving span h2 p style direction ltr span style color rgb 34 34 34 font size undefined qilin led ransomware activity q2 263 listed victims united states remained most heavily targeted country business services healthcare among hardest hit sectors rapid7 s incident response team also saw growing use clickfix fake captcha campaigns social engineering through trusted collaboration platforms like microsoft teams techniques accounted 31 8 incidents we worked span p blockquote span style font size undefined em report includes full ransomware leaderboard sectors most risk where affiliate activity expanding next em span blockquote h3 span style color rgb 26 26 46 font size undefined exposure real challenge biggest opportunity span h3 p style direction ltr span style color rgb 34 34 34 font size undefined volume daunting but real challenge keeping pace attackers disclosures keep growing organizations stay ahead won t ones patching fastest they ll ones know they expose which assets matter most where attackers can realistically get reduce reachable exposure before becomes incident s preemptive security means not slogan but operating model span p p style direction ltr span style color rgb 34 34 34 font size undefined span href research report quarterly threat landscape report target self span style color rgb 34 34 34 font size undefined full quarterly threat landscape report span span style color rgb 34 34 34 font size undefined shows where reachable exposure concentrates this quarter four actions rapid7 labs recommends sector sector breakdown dark web signals shaping s next span href research report quarterly threat landscape report target self span style color rgb 34 34 34 font size undefined read here span span style color rgb 34 34 34 font size undefined before you pressure test your q3 prioritization span p",
+      "ts": 1790259247.5293083
+    },
+    {
+      "norm": "invisible car researcher uses machine learning hide vehicles flock cameras cybersecurity expert demonstrated computer generated patterns can successfully prevent surveillance cameras detecting vehicles such controversial ai powered flock licence plate readers becoming increasingly common american streets read more my article hot security blog",
+      "ts": 1790259247.5293257
+    },
+    {
+      "norm": "qr code phishing can slip past corporate security measures quishing become popular alternative traditional phishing here s businesses can close gap",
+      "ts": 1790259247.5293353
+    },
+    {
+      "norm": "who s tracking you use this service find out can daunting determine who s responsible showing ads websites we visit who s harvesting data mobile apps we use every day information already semi public but not easily parsed traditionally much remained walled away hands large advertising platforms not anymore powerful free service called decryptads scrapes correlates this adtech data makes simple quickly learn great deal about entities tracking you",
+      "ts": 1790259247.529352
+    },
+    {
+      "norm": "you re back room citrix netscaler pre auth rce cve 2026 8452 p suddenly you re room you look around oh you re surrounded other starters your job yes s monday you re being onboarded p p you know drill s typical enterprise please don t p",
+      "ts": 1790259247.5293663
+    },
+    {
+      "norm": "black hat usa 2026 vulnerability discovery eventually decline ai era today s surge ai driven vulnerability discovery eventually make tomorrow s software safer",
+      "ts": 1790259247.5293748
+    },
+    {
+      "norm": "black hat usa 2026 hugging face hack tells us about human responsibility incident involving openai models shows autonomous hacks make human oversight more important not less",
+      "ts": 1790259247.5293822
+    },
+    {
+      "norm": "black hat usa 2026 ai racing ahead cybersecurity controls ai took center stage but clearest lesson less about ai can do than about who accountable when something goes wrong",
+      "ts": 1790259247.5293906
+    },
+    {
+      "norm": "can ai invent attack techniques research james kettle portswigger research we already know ai can find vulnerabilities james kettle portswigger s director research wanted answer harder question can autonomous system invent genuinely attack techniques f",
+      "ts": 1790259247.5293996
+    },
+    {
+      "norm": "microsoft plugs nearly 400 security holes microsoft today released updates remedy least 398 security vulnerabilities windows operating systems supported software including one weakness already being actively exploited two others publicly detailed prior today",
+      "ts": 1790259247.5294108
+    },
+    {
+      "norm": "ai tutors safe your kids ai tutors can offer useful support but their quality safeguards vary widely here s parents should check before handing one child",
+      "ts": 1790259247.5294247
+    },
+    {
+      "norm": "crowdrecon coming turning hacker reconnaissance into security intelligence def con 34 our team introduced something exciting something intigriti team been building months our senior product manager radu voloaga took stage bug bounty village give everyone first real look crowdrecon crowdrecon closes gap started question we kept running into happens all reconnaissance work hackers do before vulnerability even found work rarely makes into report but s often where real s",
+      "ts": 1790259247.5294437
+    },
+    {
+      "norm": "css bomb inside your inbox gareth heyes gareth heyes portswigger net garethheyes s quite common webmail clients render untrusted css trusted ui they attempt make this safe using css sanitization this",
+      "ts": 1790259247.529452
+    },
+    {
+      "norm": "canadian man pleads guilty snowflake extortions 26 year old canadian man once described one most consequential cybercrime threat actors 2024 pleaded guilty computer fraud conspiracy hack extort more than 165 organizations used cloud data storage provider snowflake connor riley moucka kitchener ontario also admitted stealing call text history records more than 100 million t customers",
+      "ts": 1790259247.5294638
+    },
+    {
+      "norm": "beyond cvss rethinking scoring systems amidst ai safety security cvss open framework rapid recap stands common vulnerability scoring system owned us based non profit organization forum incident response security teams first purpose help response teams quickly easily calculate severity cybersecurity vulnerabilities based metrics latest version 4 0 designed assess multiple environments dimensions including exploitability impacts heart this discussion crux this articl",
+      "ts": 1790259247.5294814
+    },
+    {
+      "norm": "crlf powered desync attacks beheading http streams abstract this paper we ll show http header injection severely underestimated forget open redirects cross site scripting instead embrace catastrophic potential crlf power",
+      "ts": 1790259247.5294917
+    },
+    {
+      "norm": "can ai do novel security research meet http terminator abstract we all know ai can find bugs after decade research i asked harder question can autonomous system invent attack techniques use them hack live websites scale buildi",
+      "ts": 1790259247.529501
+    },
+    {
+      "norm": "burp helped expose whistleblower reports via critical vulnerability overlooked years feels like i get 10x productivity engagement difference night day profile ray huygen security analyst orange cyberdefense managed security service provider",
+      "ts": 1790259247.5295103
+    },
+    {
+      "norm": "intigriti named provider adobe s bug bounty program adobe empowers everyone create through industry leading platforms tools unleash creativity productivity personalized customer experiences starting september 1 2026 intigriti home adobe bug bounty program intigriti adobe ai reshapes organizations build ship products security testing needs keep pace intigriti s global community researchers helps companies identify vulnerabilities across evolving product landscapes giving",
+      "ts": 1790259247.529527
+    },
+    {
+      "norm": "this month security tony anscombe july 2026 edition openai models going rogue first documented agentic ransomware operation emergent ai driven supply chain threat made packed july roundup",
+      "ts": 1790259247.529534
+    },
+    {
+      "norm": "intigriti bug bytes 238 july 2026 hello hackers welcome latest edition bug bytes this month s issue we ll featuring intigriti turns 10 rce github com github enterprise server burp suite going agentic burp hacking gemini enterprise 15 000 3 708 live credentials found scanning github archive so much more let s dive intigriti turns 10 ten years ago idea inviting hackers into your systems could make them safer still hard sell today normal",
+      "ts": 1790259247.5295532
+    },
+    {
+      "norm": "read this before you buy tv streaming stick security experts been sounding alarm years about risks using generic tv boxes promise unlimited content streaming one time fee warning they secretly rent user s internet connection out strangers but groundbreaking analysis finds these devices also routinely spoof themselves mobile phones clicking ads ai generated websites part sprawling operation seeks defraud online merchants advertising networks",
+      "ts": 1790259247.529567
+    },
+    {
+      "norm": "capable ai models trusted security testing this week we launched burp public beta burp suite professional users next week black hat portswigger research reveal more work helped shape our direction burp o",
+      "ts": 1790259247.5295753
+    },
+    {
+      "norm": "beyond screenshot you should verify you see screenshot may look convincing but doesn t necessarily prove payment booking conversation genuine",
+      "ts": 1790259247.5295835
+    },
+    {
+      "norm": "appeal bug bounty submission bug bounty collaborative process involves multiple parties including security researcher triage team affected organization managing bug bounty program while vast majority submissions handled correctly there exceptional instances which reports mishandled closed incorrectly downgraded severity left unresolved extended periods when this happens knowing respond professionally effectively can make difference between re",
+      "ts": 1790259247.5295994
+    },
+    {
+      "norm": "disrupting supply chain attacks npm github actions p explore changes we ve shipped across npm github actions over past few months disrupt supply chain attack techniques limit their impact p p post href supply chain attacks npm github actions appeared first href github blog p",
+      "ts": 1790259247.5296104
+    },
+    {
+      "norm": "rag ruin your existing controls may miss ai poisoning attacks key takeaways rag systems expand application s trust boundary adding external mutable content model context if threat actor can influence gets indexed retrieved they can influence model says does simple qa systems may mean misinformation unsafe recommendations agentic systems tools permissions can become data leakage unauthorized actions operational compromise organizations need controls around ingestion prov",
+      "ts": 1790259247.5296285
+    },
+    {
+      "norm": "introducing burp agentic ai built two decades burp suite burp brings agentic ai human led pentesting burp suite s proven tools your project context purpose built skills you decide much work agents take burp enforces boundaries",
+      "ts": 1790259247.5296388
+    },
+    {
+      "norm": "ai s convenience cost impact lethal trifecta organizations today lethal trifecta matters more now than ever because ai tools can read your data absorb instructions act your behalf means poisoned email webpage document could trick your ai into leaking information taking actions you never approved more ai becomes your assistant more access permissions actions need guardrails this blog takes look lethal trifecta encompasses impacting you whether you know not do",
+      "ts": 1790259247.5296564
+    },
+    {
+      "norm": "next chapter restructuring github s bug bounty program p github making some significant changes bug bounty program shifting focus give researchers better experience working github team p p post href chapter restructuring github s bug bounty program appeared first href github blog p",
+      "ts": 1790259247.52967
+    },
+    {
+      "norm": "lg ban residential proxies smart tv apps home appliance giant lg electronics usa said this week plans suspend any apps built smart tvs turn one s television into always residential proxy node move comes less than month after researchers found more than 42 percent games other apps available download lg s webos store allow unknown third parties route their internet traffic through user s tv",
+      "ts": 1790259247.529683
+    },
+    {
+      "norm": "between reports problem security teams miss attackers see you learn faster discovery higher volume can still leave teams blind between vulnerability reports scanners inventories necessary but not enough explain attacker focus intent between reports visibility actually means without product pitch we believe security teams need next earlier signals support action before next report lands over last few weeks we ve explored ai changing security discovery fast",
+      "ts": 1790259247.5297005
+    },
+    {
+      "norm": "burp s ambassadors learn people who use burp suite everyday growing our burp ambassador community meet our newest burp ambassadors katie paxton fear malek mohammad yogesh tantak james lester looking ahead interested getting involved growing our burp ambass",
+      "ts": 1790259247.5297089
+    },
+    {
+      "norm": "build sase framework modern cybersecurity keeping edge computing safe requires organizations fundamentally rethink security governance here path forward step step guide building sase framework",
+      "ts": 1790260694.8790946
+    },
+    {
+      "norm": "microsoft patches record 570 security flaws microsoft corp today released software updates plug least 570 security holes windows operating systems other software almost triple number vulnerabilities software giant fixed record smashing patch tuesday release last month microsoft attributed burgeoning patch counts vulnerability discoveries aided artificial intelligence",
+      "ts": 1790260694.8791294
+    },
+    {
+      "norm": "forgotten uefi shims undermining secure boot eset researchers discovered 11 vulnerable uefi shim bootloaders signed microsoft allow attackers bypass uefi secure boot exploiting decade old vulnerabilities",
+      "ts": 1790260694.8791418
+    },
+    {
+      "norm": "heading vegas meet portswigger black hat bsides def con 34 first hand week find us bsides workshop burp but yours hannah tib3rius center stage visit us black hat usa booth 5342 lightning talks booth catch our researchers br",
+      "ts": 1790260694.8791544
+    },
+    {
+      "norm": "eset threat report h1 2026 view h1 2026 threat landscape seen eset telemetry perspective eset threat detection research experts",
+      "ts": 1790260694.879164
+    },
+    {
+      "norm": "cyber readiness smbs getting basics right ai changing cybercrime but smb cyber readiness still largely depends closing familiar gaps",
+      "ts": 1790260694.8791723
+    },
+    {
+      "norm": "s 37oc all we can think about coldfusion adobe coldfusion security bulletin apsb26 68 cve bonanza p we re back melting we ve tried shouting screaming throwing things sun just not working p p before we begin our analysis we want clear given number vulnerabilities fixed some not mentioned we ve struggled confidence p",
+      "ts": 1790260694.8791952
+    },
+    {
+      "norm": "citrixbleed infinity beyond citrix netscaler pre auth memory overread cve 2026 8451 p well well well once again cat dragged us spat us out p p today we find ourselves questioning reality we sit within must so predictable us but watchtowr do you mean p p well if you re here you likely fit p",
+      "ts": 1790260694.8792143
+    },
+    {
+      "norm": "this month security tony anscombe june 2026 edition three day patching deadlines exposed fuel tank systems scams costing billions dollars social media bans children all gave tony plenty unpack june 2026",
+      "ts": 1790260694.8792248
+    },
+    {
+      "norm": "enterprise tech shell out progress kemp loadmaster uninitialized heap pre auth rce cve 2026 8037 p welcome back another watchtowr labs blog post p p this time we re looking progress kemp loadmaster load balancer sits edge lot enterprise networks edge appliances habit becoming way rather than thing keeping people out p",
+      "ts": 1790260694.8792393
+    },
+    {
+      "norm": "inside advisory database happens when vulnerability volume breaks records p github advisory database processing more vulnerability reports than ever before here s s driving surge we re responding community can help p p post href advisory database happens when vulnerability volume breaks records appeared first href github blog p",
+      "ts": 1790260694.8792558
+    },
+    {
+      "norm": "inside inbox cybercriminals want break into your email account your inbox identity system all own whoever owns may own lot more",
+      "ts": 1790260694.879264
+    },
+    {
+      "norm": "reconnaissance exposure management context matters ai era over last few weeks we ve explored ai changing security discovery faster vulnpocalypse now volume higher common ai misconceptions debugged human layer triage ai impact judgment prioritization become more important not less ceo insights but there s deeper implication hiding underneath all most security teams still only learn successful outcomes my experience majority researchers program managers securit",
+      "ts": 1790260694.8792903
+    },
+    {
+      "norm": "exploiting insecure cookie policies cookies one most fundamental building blocks modern web yet they often overlooked security perspective when misconfigured they can potentially lead exposure sensitive session data enable several client side attacks severe cases even allow attackers impersonate users completely this article we ll explore cookies they work attackers can exploit insecure cookie policies let s dive http cookies http cook",
+      "ts": 1790260694.8793151
+    },
+    {
+      "norm": "smb cyber readiness road resilience starts here your business may small but attack surface anything but readiness first step resilience",
+      "ts": 1790260694.879324
+    },
+    {
+      "norm": "intigriti bug bytes 237 june 2026 hi hackers welcome latest edition bug bytes this month s issue we featuring 10 year old pre auth rce phpbb earning 500k hacking google ai reading any salesforce marketing cloud account s emails dompurify sanitizer bypass mapping abandoned s3 buckets redo solarwinds scale so much more let s dive using ai smart way interview cristian zot cristivlad25 cristian zot better known cristivlad25 needs little introduction activ",
+      "ts": 1790260694.8793428
+    },
+    {
+      "norm": "gamaredon 2025 leveraging tunnels workers dead drops alliances eset research analyzes gamaredon s toolset group s growing reliance legitimate online services hide c c infrastructure exfiltrate stolen data",
+      "ts": 1790260694.8793538
+    },
+    {
+      "norm": "eset takes part operation endgame disrupt amadey stealc eset researchers assisted global disruption amadey botnet stealc infostealer providing technical analysis infrastructure tracking affiliate level insights",
+      "ts": 1790260694.8793614
+    },
+    {
+      "norm": "exploiting web cache poisoning vulnerabilities web http caching highly adopted practice effectively optimize web page loading times clients however most technologies when incorrectly implemented may open up exploitable attack surface us look into this article we ll cover web cache poisoning vulnerabilities they arise few effective ways enumerate such vulnerabilities eventually move practical exploitation part let s dive web http caching befor",
+      "ts": 1790260694.879381
+    },
+    {
+      "norm": "burp extensibility 2026 awards talks highlights 2026 burp suite extension awards best recon discovery best auth access control best workflow manipulation best api specialist testing hidden gem most nominated talks",
+      "ts": 1790260694.8793883
+    },
+    {
+      "norm": "killing me gently inside gentlemen s edr killer framework eset research shares results months long investigation into suite edr killers maintained raas gang gentlemen",
+      "ts": 1790260694.8793972
+    },
+    {
+      "norm": "protecting legacy ot systems against modern cyberthreats many manufacturing plants depend ot systems stay service many years long run can hide significant cybersecurity risks",
+      "ts": 1790260694.879406
+    },
+    {
+      "norm": "fishmonger s arsenal upgraded sprysocks windows eset researchers discovered sprysocks windows fishmonger s backdoor weaponizing kernel driver advanced stealthiness",
+      "ts": 1790260694.8794162
+    },
+    {
+      "norm": "eviltokens phishing attack doesn t steal your password phishing kit subverting microsoft s legitimate authentication flow lets attackers break into accounts without stealing passwords creating fake login pages",
+      "ts": 1790260694.8794267
+    },
+    {
+      "norm": "use app level auth when every database auth splunk enterprise cve 2026 20253 pre auth rce p three posts three days we insane p figure class kg card kg image card img alt alt class kg image height 406 src width 700 figure p we re home alone there s no one stop us we re up past bedtime so we need talk about splunk p p june 10th splunk published href cve 2026 20253 advisory p figure class kg card kg image card img alt alt class kg image height 511 src width 820 figure p everything we p",
+      "ts": 1790260694.879445
+    },
+    {
+      "norm": "marking your own homework check point remote access vpn ikev1 authentication bypass cve 2026 50751 p yet another day this parallel universe security where devices we bolt onto edge our networks keep bad people out remarkable consistency exact thing let bad people p p while we ve seemingly had breather p",
+      "ts": 1790260694.8794632
+    },
+    {
+      "norm": "oceanlotus external espionage domestic targeting shift operational pattern infamous vietnam aligned apt group",
+      "ts": 1790260694.8794708
+    },
+    {
+      "norm": "unpacking smb cyber readiness makes breaks company s expecting cyberattack but hasn t actively prepared risks making hardest decisions worst possible moment",
+      "ts": 1790260694.8794816
+    },
+    {
+      "norm": "more evidence words don t mean we thought they meant ivanti sentry pre auth os command injection cve 2026 10520 p href ivanti published advisory p p no way we hear you say yes way p p today s advisory outlines two vulnerabilities ivanti s sentry product appealing directly our inner desire sophisticated server side pre authenticated vulnerabilities p p strong cve 2026 10520 strong p ul li os command injection li ul",
+      "ts": 1790260694.8794994
+    },
+    {
+      "norm": "cybercriminals auditors you never hired every organisation gets audited question who does auditing",
+      "ts": 1790260694.8795066
+    },
+    {
+      "norm": "lessons life children s data long term identity risk your child s first data breach may happen before they ve even opened bank account here s keep their digital life safe",
+      "ts": 1790260694.8795178
+    },
+    {
+      "norm": "this month security tony anscombe may 2026 edition this roundup tony looks attacks against polish water treatment facilities ai directed attacks failed mexico google believes first ai generated zero day exploit",
+      "ts": 1790260694.8795283
+    },
+    {
+      "norm": "eset apt activity report q4 2025 q1 2026 overview activities selected apt groups investigated analyzed eset research q4 2025 q1 2026",
+      "ts": 1790260694.879537
+    },
+    {
+      "norm": "consider before asking ai chatbot health advice using chatbots medical advice could elicit hallucinations even expose you security privacy risks here s s stake stay safe",
+      "ts": 1790260694.8795495
+    },
+    {
+      "norm": "btmob stealthy rat burrowing deep into android devices malware pairs remote access capabilities ready made campaign tools lowering barrier full device compromise",
+      "ts": 1790260694.879558
+    },
+    {
+      "norm": "foul play fake fifa websites target soccer fans looking world cup tickets merchandise watch out bogus world cup websites mimic official ticket merchandise flows steal money personal data",
+      "ts": 1790260694.8795667
+    },
+    {
+      "norm": "webworm burrowing techniques eset researchers describe tools techniques webworm apt group recently added arsenal",
+      "ts": 1790260694.8795762
+    },
+    {
+      "norm": "quest greater tech independence complete decoupling us technology neither realistic nor necessary but changing environment does require nations companies reassess their relationships dependencies",
+      "ts": 1790260694.8795865
+    },
+    {
+      "norm": "raising bar quality shared responsibility future github s bug bounty program p we re updating our bug bounty program standards prioritize quality submissions clarify shared responsibility boundaries evolve we reward low risk findings p p post href bar quality shared responsibility future github s bug bounty program appeared first href github blog p",
+      "ts": 1790260694.8796062
+    },
+    {
+      "norm": "0 click exploit chain pixel 10 when door closes window opens we recently published exploit chain google pixel 9 demonstrated possible go zero click context root android just two exploits dolby 0 click vulnerability existed across all android until patched january 2026 while we had exploit chain pixel 9 we wanted see if possible write similar exploit chain pixel 10 updating dolby exploit altering our exploit cve 2025 54957 fairly straightforward majority needed changes involved updating offsets calculated specific version library we targeted pixel 9 similar offsets library pixel 10 only challenge outside wishing we d better documented which syncframes contained offsets pixel 10 uses ret pac place fstack protector which meant stack chk fail wasn t available overwritten code after bit trial error we used dap cpdp init initialization code can overwritten without causing functional problems called once when decoder initialized never again",
+      "ts": 1790260694.8796606
+    },
+    {
+      "norm": "beast needs cage s next appsec post mythos now dust settled mythos dropping there space more considered reflection direction travel mythos wasn t surprise s another data point trajectory s bee",
+      "ts": 1790260694.879674
+    },
+    {
+      "norm": "3 ways custom scan checks turn practitioner knowledge into scalable automation senior pentesters deeply refined intuition about vulnerable environment problem expertise often siloed individual trapped their notes python scripts",
+      "ts": 1790260694.8796852
+    },
+    {
+      "norm": "internet falling down falling down falling down cpanel whm authentication bypass cve 2026 41940 p hello yes s all disaster again p p let s get this party started p figure class kg card kg video card kg width regular div class kg video container video controls controls height 944 poster preload metadata src width 1380 video div figure p no comments today so imagine this p ul li we wrote something we find very funny li li nobody else gets li li but everyone humors us li ul p strong just like typical watchtowr labs blog introduction strong p p all watchtowr p",
+      "ts": 1790260694.8797028
+    },
+    {
+      "norm": "portswigger recognized northern tech awards 2026 we re proud announce portswigger recently won overall judges award northern tech awards 2026 northern tech awards run gp bullhound tech advisory investment fir",
+      "ts": 1790260694.879717
+    },
+    {
+      "norm": "introducing official burp ambassador program we re launching program means burp ambassador we re aiming our burp ambassadors alan levy corey ball federico dotta rana khalil tib3rius looking ahead get involved b",
+      "ts": 1790260694.8797312
+    },
+    {
+      "norm": "portswigger partners meta bug bounty empower bug hunters training pro licenses more power bug hunters education first approach bug bounty rewards meta s bug bounty platform our shared vision ready get started we re excited announce partnership meta",
+      "ts": 1790260694.8797445
+    },
+    {
+      "norm": "you re not supposed sharefile everyone progress sharefile pre auth rce chain cve 2026 2699 cve 2026 2701 p if you squint look cisa kev list you might think s made up exclusively vulnerabilities file transfer solutions p p while this would wrong you shouldn t squint s bad your eyes file transfer solutions do play decent p",
+      "ts": 1790260694.879762
+    },
+    {
+      "norm": "github beginners getting started github security p learn secure your projects keep them safe github advanced security p p post href beginners getting started github security appeared first href github blog p",
+      "ts": 1790260694.8797746
+    },
+    {
+      "norm": "please we beg just one weekend free appliances citrix netscaler cve 2026 3055 memory overread part 2 p today we woke up nagging feeling if citrix had fact patched multiple memory overread vulnerabilities part cve 2026 3055 p figure class kg card kg image card img alt alt class kg image height 449 src width 700 figure p while we ve been using our href part 1 please read first this post brief accurately identify exploitable p",
+      "ts": 1790260694.8797913
+    },
+    {
+      "norm": "sequels never good but we re still pain citrix netscaler cve 2026 3055 memory overread p sequels pain we re obviously talking about citrix netscalers yet again p p welcome back another watchtowr labs blog post pull up chair we always welcome members our group therapy sessions p p if you asked c programmer they most dislike doing life their answer might p",
+      "ts": 1790260694.879806
+    },
+    {
+      "norm": "github expands application security coverage ai powered detections p codeql ai powered detections work together github code security identify vulnerabilities across more languages frameworks p p post href expands application security coverage ai powered detections appeared first href github blog p",
+      "ts": 1790260694.8798234
+    },
+    {
+      "norm": "32 year old bug walks into telnet server gnu inetutils telnetd cve 2026 32746 pre auth rce p long long time ago land free binary exploit mitigations when unix still roamed earth there lived pre authentication telnetd vulnerability p p fact this vulnerability born so long ago way back 1994 may even older than you put p",
+      "ts": 1790260694.8798594
+    },
+    {
+      "norm": "most organized threat actors use your itsm bmc footprints pre auth remote code execution chains p solarwinds ivanti sysaid manageengine giants kev world all whom itsm side projects p p itsms group solutions played pivotal roles numerous ransomware gang campaigns not only do they represent code running system but they hold significant amount sensitive information p",
+      "ts": 1790260694.8798747
+    },
+    {
+      "norm": "http 1 1 must die conquering 0 cl challenge note this guest post pentester julen garrido est vez b3xal 1 acknowledgements 2 intro 3 required tools 4 strategy solve exploit lab 5 detecting 0 cl 5 1 practical confirmatio",
+      "ts": 1790260694.879887
+    },
+    {
+      "norm": "automation without alignment hidden cost modern dast watch webinar recording burp suite dast x burp suite professional better together i m firm believer if you want understand secure application really you test",
+      "ts": 1790260694.8798983
+    },
+    {
+      "norm": "portswigger x intigriti burp suite professional licenses up grabs this collaboration portswigger we re always looking ways enable world secure web today we re excited take mission step further we re pleased announce collaboration bringing",
+      "ts": 1790260694.8799121
+    },
+    {
+      "norm": "effectiveness mutational grammar fuzzing mutational grammar fuzzing fuzzing technique which fuzzer uses predefined grammar describes structure samples when sample gets mutated mutations happen such way any resulting samples still adhere grammar rules thus structure samples gets maintained mutation process case coverage guided grammar fuzzing if resulting sample after mutation triggers previously unseen code coverage this sample saved sample corpus used basis future mutations this technique proven capable finding complex issues i used successfully past including find issues xslt implementations web browsers even jit engine bugs however despite approach being effective not without flaws which casual fuzzer user might not obvious this blogpost i introduce i perceive flaws mutational coverage guided grammar fuzzing approach i also describe very simple but effective technique i use my fuzzing runs counter these flaws",
+      "ts": 1790260694.8799493
+    },
+    {
+      "norm": "sometimes you can just feel security design juniper junos evolved cve 2026 21902 pre auth rce p today s good news disguised other things segment we re turning our gaze cve 2026 21902 recently disclosed incorrect permission assignment critical resource vulnerability affecting juniper s junos os evolved platform this vulnerability affects only juniper s p",
+      "ts": 1790260694.8799639
+    },
+    {
+      "norm": "deep dive into getprocesshandlefromhwnd api my previous blog post i mentioned getprocesshandlefromhwnd api this api i didn t know existed until i found publicly disclosed uac bypass using quick assist ui access application this api looked interesting so i thought i should take closer look i typically start reading documentation api i don t know about assuming s documented all can give you idea long api existed well security properties documentation s remarks contain following three statements i thought interesting if caller uiaccess however they can use windows hook inject code into target process within target process send handle back caller getprocesshandlefromhwnd convenience function uses this technique obtain handle process owns specified hwnd note only succeeds cases where caller target process running same user",
+      "ts": 1790260694.8800004
+    },
+    {
+      "norm": "bypassing administrator protection abusing ui access my last blog post i introduced windows feature administrator protection aimed create secure boundary uac where one didn t exist i described one ways i able bypass feature before released total i found 9 bypasses during my research now all been fixed this blog post i wanted describe root cause 5 those 9 issues specifically implementation ui access this been long standing problem uac s been under appreciated s being fixed now question accessibility prior windows vista any process running user s desktop could control any window created another such sending window messages this behavior could abused if privileged user such system displayed user interface desktop limited user could control ui potentially elevate privileges this referred shatter attack usually fixed removing user interface components privileged code",
+      "ts": 1790260694.8800328
     }
   ],
   "seen": {
     "007f36e2354e1e9ab4b62bc07581343ff7bad899": 1790254808.606142,
+    "00f2d67454a4e528d12937b1aedd6d5d1515a4d5": 1790260694.8792248,
     "036d28498901e39b9cee583b9bb3de392ed95f56": 1790255807.1487882,
     "0375211d6d6ffe97a6a6973c844d2f7a1aed75bb": 1790258893.7554464,
     "03b9753abd7a90e41ca71a267279d3f96b26d24f": 1790255807.1487765,
@@ -1223,21 +1712,33 @@
     "045144bce0720f37fdc093d3c5ece2b047f84ae8": 1790255807.148931,
     "047a899d961cff22a3873a0fe75b97ad4f1a0f1c": 1790254808.6067567,
     "047d99bbbc95e2a796ea0cfd2698d20ffdfec65c": 1790257589.292385,
+    "04e7535e61e612e78ea250399339944f742d819c": 1790259247.5294917,
+    "067d05994f709bb8d4aa218d2fa8d9da70685d0b": 1790259247.5293748,
     "06d4854d1996348809e1bd1da6096efd08a63473": 1790257589.2919912,
     "09f06c8433fc50a36a450811fab46c9d4bc5bf65": 1790257589.2919984,
     "0a9baa874015c70c7eec32e062192615c1ac9437": 1790254808.6066425,
     "0ac3c1d3792ce4e956638f234b4242748bfd9803": 1790257589.2921069,
+    "0b9ffc93e9802d289cf39369b2c8c06316b4caa2": 1790259247.5293906,
     "0c34834f51359083617f8c1a4e915fa05ad5280b": 1790256977.9803436,
     "0cc433038125f05d296e58ad52546f3bb15ecfee": 1790256977.9803123,
     "0d2cb588e72936f52f325dbd09666a71a1da45b1": 1790255807.148857,
     "0e4c3eabe423a1bed891b93e08986a7274f8480e": 1790256977.980336,
+    "0eab1f6043c37736df99ad90dce3ae154c455025": 1790260694.8793883,
     "0f625bcdfa97d28044241e77304b9303ca7cadbb": 1790258893.755511,
+    "0f635b841fd7ca2846d144abb183e96368ddaa8c": 1790260694.879762,
     "102b831646a8f70fef2657b6115fb7d77bf76a28": 1790254808.6065853,
+    "124b51acd4ea48768ee612eab1f82658c7053ced": 1790260694.8797312,
     "12555d18a30641999d6e97158c59a89acc21f280": 1790256977.9802675,
+    "12a2c547bde3e4daa8b6cf5e55f19d7ad107fcc9": 1790260694.8797746,
+    "132069b85b8fd69723de65ffad33b2c60985ea10": 1790259247.5295753,
+    "1343fb03b0033931aec269efc19192ae673646d0": 1790259247.5295994,
+    "14503c8adc3246deddd2cf477fd8ea1885830d9c": 1790259247.5293257,
     "14e81785a968947460ec996df30aaf448753f06d": 1790254808.6063764,
+    "154671ccc90399a7b5e0c257bfc4081a30ef8c8e": 1790260694.8793538,
     "1554d5146d5bf901446579111c7386c2cb160a8b": 1790256977.9803264,
     "1572cfbc8e6865930f7ff344cc00dc3ece01ff00": 1790254808.6064892,
     "16cbe675e092931903a22f62d877d4a5ada149a1": 1790255807.1488109,
+    "17551016fd867fa2248a71e1f5a0ed14cdd5b024": 1790260694.8794708,
     "17b7d58698b2ebe13afc9649bc1f5b0dbe0a0d0a": 1790258893.7533236,
     "188e360e7037b97ffa517b96f0f5cfa6e73ec879": 1790257589.2919014,
     "18bf141d2661557ca190612f030aeca98ea90a13": 1790256977.9802275,
@@ -1248,8 +1749,12 @@
     "1d68d33919cb882028e3e359610cfcc9e0b38bc8": 1790257589.292094,
     "1d9141b660eb7f1ed2d30a21b4130b8c0b00e402": 1790254808.6064177,
     "1dcb430bc406c3fd538b77b714b3c675b88f0585": 1790256977.9802856,
+    "1ef900d67892d7005542a0a28d0e10bf83553327": 1790259247.529567,
     "1f15512c48e6335ee0f7e1d48d10e16db1ed8fba": 1790258893.753331,
     "2084a36d335402ea561bbf20b076f16dfdcd7e7b": 1790258893.7535357,
+    "218c37b2a130cc46103e908b9d9860940fa1d338": 1790260694.8795495,
+    "227e8673997308a3ba6d044025a2aa09a69f6761": 1790259247.5294638,
+    "22c9d56aa817e965b07f913aff6795c91d58dcc8": 1790260694.8795178,
     "2399ff8c39b4823043a1b8294650cc5704e9f897": 1790257589.2922165,
     "23b23f99a7300862571f0d067df5c61dd170de6e": 1790254808.6065526,
     "246d3ca38d1b8d5900cf013bc4981f07025b453b": 1790255807.148656,
@@ -1258,8 +1763,10 @@
     "250fcb70c4a2ed5c886a96bf7eff2853a449bb99": 1790256977.9800906,
     "25dd9c1866ee5e8c6794b73a0dbebcbad25a5579": 1790255807.148648,
     "26056f2e2843345fa073ed874323010b711f2c98": 1790257589.2920485,
+    "262403f86eef301f0f3b48f2eb848526fd1e4bb9": 1790259247.5297005,
     "265b1bb1943d872187a30f1b82c22b8f8c3a22c0": 1790255807.148792,
     "268e8c7bbe39b42ca980f3835d70109f70c656cb": 1790254808.606502,
+    "2735ba7149f5684227923a9ce6a8923b09d81d46": 1790259247.5293996,
     "27cf32c8eeb84703dd487dc5a5300e38c36e165a": 1790256977.9802508,
     "2825c20042e21b088ab0c950a6a787ab4379e8a2": 1790257589.2921185,
     "29c26824efac1052b57a9d832049ba4d799aec30": 1790254808.606512,
@@ -1267,17 +1774,24 @@
     "29d5f15551dff7ef99b6df2a0229456b495db45a": 1790256977.9802396,
     "2a6260ae36a8474615d388d5e7b26f3ab568bbee": 1790256977.9802933,
     "2ac632f3e2c9a02f7063aa7358ba9d48f8871e7c": 1790256977.9800813,
+    "2b7352fc235caa799a9de49924e0b6431ae6ff49": 1790260694.8794632,
     "2bf8d15a64be1f35aa0a199aedfb1a32b39b1b3c": 1790258893.7549496,
     "2c0a187d61ab358e1aed73eb349fd4707bf11a4c": 1790254808.606827,
+    "2c2b2700dd7b44b3c6e490c2151c3e8c6d1cc629": 1790260694.8791294,
     "2c3a16c81fa1a351b907fa90c6eddb13774a7c75": 1790257589.2919765,
     "2dd9410fd458703d02407fba41b944a21920899a": 1790258893.755795,
     "2dead0e4779db850b5c0a9b5938f298356ee678d": 1790258893.755602,
+    "2fcf1627ed10b933180d021b5c6d78ab34d5d048": 1790259247.5293083,
+    "2fd947715d55cdf24f1eba9721f48e8c28710170": 1790260694.8793614,
+    "30aaeec28b11b2288da8cdb08be9be496d6707d8": 1790260694.8790946,
     "33008d6f47a5fbc7eff608d409c5de0e688ffaf5": 1790255807.1488183,
     "331ed22c36d6da8c7a76cbb2e97779ddf2aff5e1": 1790254808.6064763,
     "36e0a99c192f1e11a6b1499e7a90bc4752c4cbf1": 1790255807.1487176,
     "3705922b155e26816bd6d9f001a581bc8234d55b": 1790256977.9802747,
     "375f4910d184ba60e89e23509b9575c063bcf873": 1790255807.148906,
+    "37c0e3e1926b305e1a0576eb03ab4118406f6e94": 1790259247.5296104,
     "3819f0b1f89e0ed674effbe544edbe943c084dec": 1790256977.980406,
+    "3858e7ac2e4ca6fee81f3780e62ff8747f06dbc7": 1790260694.879406,
     "386828401a722716ee1cc9d99dea49d206137a7a": 1790255807.1487405,
     "38cd77992194a4a9aa35c3f1570cb9147309b7a6": 1790254808.6062655,
     "3a533d2b5ffeb5646cdcfda49b490e52c82141df": 1790255807.1488507,
@@ -1289,19 +1803,26 @@
     "3bf6be97e09ad8f94d76329b770121865fca796e": 1790257589.2921517,
     "3c9fd6ef7413f1c4ce994a29796a999e5cdacfa0": 1790255807.1487474,
     "3ca3c4b181d575b7c29da338e9e234345f2fbbdf": 1790257589.2920344,
+    "3cfa00bea7a5bf7b9fc56e0635da640f040b8676": 1790260694.8794267,
     "3d9c81c7d35809b4066b355cb3cca4af94a6678c": 1790254808.606323,
     "3dc9242fa088718249ce85883e9e1865308c1df2": 1790258893.7540936,
     "3e25d109671f8b32c3774cdbe182e4b3182f656c": 1790256977.9804034,
     "3e2eca92f4abf5aa637ee2f48deb5be67a32d259": 1790258893.754978,
+    "3e6f4335ce749d6c237aa4c8e42c360b84b4f664": 1790260694.8796606,
+    "3ecae02088e4f12201408a5e34126a478aa0283f": 1790260694.8791418,
+    "3ed3a3d15d3e9c82e7b0d93108da4ae7d1418017": 1790259247.529501,
     "3f02d631aff506dd4e3bb8b4b7092988463f662b": 1790258893.7558124,
     "3f06b0b072199eafb299b8bcebd3537d5376b0a0": 1790257589.2923818,
     "3ffb124e86e6996b4a3b1bfe94fc1175b2602fa9": 1790254808.606656,
+    "4057ced6d5b2467393aad90e35258ca56a5322f6": 1790259247.529452,
     "41cdf89b10489d6a4d923087abc4c2d2a9eb438c": 1790255807.1485941,
     "434784688be37a594289972f94e92c8e89277821": 1790254808.606217,
     "436aaa4d4ceaf5d57629ad28597ec399655bb18d": 1790257589.2920597,
     "43aaadeab2e03e4ff1608a8b78212b277b4daa35": 1790257589.2923512,
     "44afbf71f877746f927f72659973d2b6d09cb0da": 1790255807.148704,
     "44d4cd6479cb840a1a9ea92f7d7ff6a7ed0d3903": 1790257589.2923899,
+    "471ea8bf94e66bbd6c9c8820b9baf983a9f0e45f": 1790259247.5279539,
+    "4773f8ec219a6eda6eeca7b1006eb9196f3c1d75": 1790260694.8800328,
     "47cb0f0cb3e8b04f368a41ef2077b6a8f877b414": 1790257589.292273,
     "492e2c5023f04265ecbccafb0c4eb0cbeb14c3c8": 1790257589.2919838,
     "4a3c57ed8f38f943c2e3f0d51a26c4b4f23528dd": 1790254808.606188,
@@ -1309,22 +1830,32 @@
     "4c094eabbf43bbae9533017c7cf3ecdc6abaaf06": 1790256977.980255,
     "4c4975005e97cd7ce3f5e34d5ecfd38a8c506a96": 1790255807.1488845,
     "4c4cb6380811cfc65a4c958f2c2f6164eed5af41": 1790256977.9802077,
+    "4cb02bd8a6c62d99066577301c301bde1435f276": 1790260694.8792393,
     "4ce5e6d2f6dad7e3b248afd2afba9d004c17b395": 1790257589.2922952,
+    "4cf4da020059176cb57d170452b2d4e27175ceb0": 1790259247.5294814,
+    "4e63a3bc5b2c8ed385310d6be94ab8003b3ee7f7": 1790260694.8799639,
     "4e863af2bcacd13dc8fd9471f1b316eb1e725bf1": 1790258893.7537405,
     "4ed7569264881bae52c731bb875c0ced9cf76df6": 1790255807.148668,
     "500c6e640c34b65fd8220e08951d3834c1e3210e": 1790256977.9801915,
+    "52d1799ca092f0fa529e4eec74a131500c35d8e8": 1790260694.879887,
+    "532da234a8a9ed9dc0a07dc319b683969a60b094": 1790260694.879324,
     "53cbf9d5b17750cd18550073c1247e9c528b34b7": 1790254808.6062477,
     "54c1206098baf7ac652fbee8cff16628e9ce5a8d": 1790257589.291879,
+    "54dab4ebd4f70f01bf01485ddb648fe2f579938f": 1790260694.8795865,
     "54f80be7b832f1540712b6f44a92a2eb0a30e6c8": 1790257589.2921453,
     "556946de78a2cd3db4cca65d0419b722904e1ec1": 1790256977.9802637,
     "55802aa58591301391107de04930b9e336dee2d5": 1790256977.980246,
+    "585001b1978a5c70adf9fbc807efee8d407400fc": 1790260694.8796062,
+    "596af1394bdaac29a52a38943a7dbf832a83f2ce": 1790259247.5291903,
     "5997c3e8371dff869745fdf86aca3a23d0b9d5f0": 1790256977.9803212,
     "5998efc493649de00b67ceb176fcd8a9502041cd": 1790254808.6061249,
     "5a182e4023be87d9d9ded81ddbbc49e07354044d": 1790254808.6066365,
     "5acabbca93262b9f6a593afbbffb8236e06c56b3": 1790258893.753311,
     "5b292a46fb9b62720bad586719444d87c556ce04": 1790255807.1486754,
     "5b6424dfd8f974e4f155a5ae40107cf926fa1942": 1790254808.6064358,
+    "5bce29cf9ae1d537ae04a14dcdc2b0f4564ae14d": 1790259247.5295835,
     "5c57edabe6c0ec2ece6e05c503a45b07e7c37ffc": 1790254808.606449,
+    "5df066b114901fb465930c9993cb71e09091600e": 1790259247.5291631,
     "5e0f658b72f3164f05c738ceaa658aecc7cc8128": 1790258893.755727,
     "5e57def348cd301e13c25f16d469d8fa8bb86771": 1790254808.6064706,
     "5e7190318dbce36521fc7777e75ae8d6a23d8e39": 1790256977.9803486,
@@ -1333,16 +1864,23 @@
     "5f97d945d337f28498ac7f5749f2df0f2867cf2b": 1790258893.7535443,
     "60ade2ea554680c78d6ff8c83bd22ffe5f8757f0": 1790255807.1489096,
     "60e633909802aee88c203132e8c2e3971e2a1880": 1790257589.2922668,
+    "60fbfdadf3a586f6497ff18f164bde2b26677357": 1790259247.5286753,
     "6190acaae1c8cab1dd35dc7497769212b390a208": 1790258893.7533379,
     "620a8bfcc4af1cd27444050a28bd10d3e45eaeb9": 1790255807.148804,
     "6281ee2fcd9ff18a17101385c6c2f30efa7f123f": 1790258893.7555568,
+    "62dca032381c2feccc03e8554cc222506cf70263": 1790260694.879537,
     "62f727b9ef19525cc476e256286c905219b69c9e": 1790258893.7555807,
     "63aa8c538632a8fc3ba60095ddc102b63e2f0598": 1790256977.9803393,
     "63d6d101ab6d43606bbab6e3a5eb767d75134938": 1790254808.6066625,
     "64db0bc26970ef81c5c43b47df0412d371faa073": 1790258893.7538495,
     "6522f996372bd886561403e2654ce8615838453c": 1790254808.6067812,
+    "65df89b28e254788ecd583ea1a123413c65bce19": 1790259247.5279074,
     "663833ceb2b2faae306e1acfb7d21377dd6c49c2": 1790257589.292223,
     "663f5a6aab6124b8b32308b2da8911da9f8d64e3": 1790256977.980382,
+    "66eab0e97baa4449a2d1f8251349f5ceb641d4d0": 1790259247.5289135,
+    "67114ad22bf7c88cb55fe0bb18ad732accfa685f": 1790260694.8791952,
+    "67fd3a038414cc99ab98b7401a56dbc818441949": 1790259247.529527,
+    "6808aefe9d95a3e16674aedad9ea97053ee0d799": 1790260694.879264,
     "6923a5483d3df4381e26753b627d70af52b83114": 1790257589.292347,
     "692ee407bfd06c50e55d029d7df1c02cc477aef9": 1790257589.2920425,
     "693dfdf4ac9e52c551626666f6bc5c6749f1616a": 1790257589.2923732,
@@ -1350,12 +1888,18 @@
     "6a915952d6f79fe24f97c8b8e973b8ea5ef4610b": 1790255807.1485834,
     "6a91aaa7750826fca0a21452a3740002ba586738": 1790254808.6065917,
     "6c563afa1a8a92d21825d8ae5ab9edac3bf4d328": 1790256977.9801283,
+    "6c5a609606069cf4d491d8419ba508875af662a1": 1790259247.52875,
     "6ed28c0f64643ed967fd1470a707880a68f3b486": 1790257589.292247,
+    "6fd21cf6da44a3341b67a506ee41bb6eb370b3a5": 1790259247.5288937,
     "72fbb6095ab647b85d135dafb823d1f4ac7cfbe9": 1790256977.9803886,
     "73645a02bd8347192206b82a416447504d2285cd": 1790257589.2921631,
     "741bf79fb2c829d0eec6cc8de47e3d2dde9e908a": 1790258893.7546895,
+    "75d02899387c1a5f302a35fbd98a434fe2e2699a": 1790260694.8798747,
     "767190fea91564fad0783a00adfe14cd37ff0015": 1790255807.1488652,
+    "76af5b683c70d8f4b2c554aee82c787a26f6f41c": 1790259247.529683,
+    "76ecf13f6ccb6c58e8c5bb820866c4a90a61dfc4": 1790260694.8793428,
     "7903f1caeae398ce5273b4099a9b24189ca02440": 1790254808.6062837,
+    "79e897c47e9dbb7f2389b63cd0849329f8036a3c": 1790259247.5295103,
     "7ad1c982803a14054a5f6cac8e4191e1ba2d2bec": 1790256977.9803004,
     "7ba3a75cd3178ffb072b92699ea0f9b80d4c788b": 1790254808.6065435,
     "7bde49b556ca2ceab47967c8ea81475d731f2999": 1790254808.60665,
@@ -1363,9 +1907,11 @@
     "7cfe6f2113f91571a60ab40201f4d6174859d683": 1790258893.7538195,
     "7d728cc439591d29ee9d4418e34e97225f6af460": 1790257589.2921774,
     "7db6a5d7b683af7b57c55f2f6bf3b081606321cf": 1790257589.29228,
+    "7eecf551fade765e01cf73aae99f32029f860a13": 1790259246.693228,
     "7f25fcd8883e7de7441b17ea28363a1473344262": 1790254808.606619,
     "8075d3357a8f1d64b8dc1afb1612c1825cce0f08": 1790256977.980086,
     "8125bbad77369b91ca9ba1b0db7f306067319dbe": 1790255807.148517,
+    "816f6eeeda5b4d5c1ea32ac9741fc7eb73d22370": 1790260694.879717,
     "8289ef7c8c0261d893778fedd796c8760e95a4a5": 1790254808.6063936,
     "828d13f4bbf220b7d63a8f8fab366b59797f3c6e": 1790255807.1486282,
     "8414f1b5df7710e9da7e64d5fabe784308da8316": 1790254808.6067522,
@@ -1375,25 +1921,37 @@
     "85482e88fba7a99786cdced189263ee404e891a8": 1790258893.7538583,
     "856645ccb5490fa989bb2cfe1f50c70ed31adb3b": 1790254808.6064596,
     "8593df7d9b95548df29da4481355c51e67e5122c": 1790258893.7549682,
+    "861f4dd4c580966a80c1122d9ffeb9b61acc3973": 1790259247.5286932,
     "86731cd95e8f895bf33d229ebda3a34b7316c359": 1790255807.1488876,
+    "880b1f1b730891f983a4985e7d396f9510e765a6": 1790260694.8792903,
     "88b1b3c0bd98be582c085de3759e3bdd007c447c": 1790258893.7547386,
     "8926d0f5a49b55fd1157eabd1bcf2e9c81b7903e": 1790254808.6066306,
+    "892cc8ea298160be2e5b87754d29e14b0549471e": 1790260694.8797913,
     "8a40d60c172836034aef6b225a03606ba14c551f": 1790258893.7557893,
+    "8a453e671d33dab4354bade8a75315f2e4e45263": 1790259247.5296564,
     "8a5cdbfebbee2335a5a8f6ca6c4f844b0e82dfb9": 1790254808.6063657,
     "8aafd72928f31eb9d7df05610f5e8baf2077bfd6": 1790256977.9803548,
     "8ae4194eda2b1938a56e94178e73f4f3b03eb755": 1790256977.980063,
+    "8b019fa9695eddea71101032dbde4289e1e30f78": 1790260694.8798594,
     "8ba0ac282b9f068bb1ae56a144b2e925363bd716": 1790258893.754773,
     "8c4e4ffe7f8c0dfdcadf986d32b005c4e1270251": 1790256977.980197,
+    "8c59c8acd1c5e4b209a731f6cb0de06aa32e8079": 1790259247.528822,
+    "8c7ad8cef23650f8a55bb157b8db38a92677b660": 1790259247.5291798,
     "8ccc97a0b799dc800b978f59ee487ea253ff0467": 1790256977.9802325,
     "8df4acb689f7b2ce1f824f985abf478b2dddd1f2": 1790254808.6061327,
     "8e0ee533a3572d576623428129eea7147b4d1f85": 1790255807.1487262,
     "8e4e4844f4e587c98d41d7d0a5be6a3a3add5782": 1790256977.98004,
+    "8eb1a138fda08bb92ccf91ccfe143ab592e212d6": 1790260694.8793972,
+    "8ed62263de9fc9856ff8e2e2140144673dc721a5": 1790259247.5290642,
     "8fa80bf670d987c24fd6311519084fb8c741b362": 1790258893.753841,
+    "8faee352256ff8141405afd97d20839786caf18f": 1790260694.8796852,
     "9015ee31b13c0bf7cd9108cdd4eba08a9bfc669c": 1790256977.9801483,
     "9187705b2ada46d1f9ec5ae3f53c8a79a0c7e886": 1790258893.7535112,
+    "91e45ba5d38f226c5d98cc44358ea72b092a0a3d": 1790259247.5288827,
     "92471988f3ac71c3945af97f437dce24a4e8a066": 1790255807.148922,
     "9298478d73197da542e284fd85c50b00bb236646": 1790257589.2920544,
     "9321dd4ea95d7808048ebbf819ffdecb1a3bb233": 1790257589.292112,
+    "93fdc1c1f20c2d800097b36662b2b9c531f9eaa7": 1790259247.5296285,
     "942fd8aac49f2655fcb40da66e0b258647780f9c": 1790258893.7554612,
     "94586560c59617af2ec44a0cc7fad276a6abd133": 1790255807.1486413,
     "94821214578f086ee71ae83ece5a5e17d9dbce89": 1790254808.606386,
@@ -1404,41 +1962,62 @@
     "969ad1b26f390579fd92535817d9f6a61673d099": 1790255807.1487608,
     "986b76c74d972a9dd187047eb5ff30cd1f03f7a4": 1790258893.7547252,
     "98fe946df30dd12793a090c43f3dd871a7a7ad71": 1790256977.9802802,
+    "9961abc5c67f2804998390c7f69c0246e5985513": 1790260694.8792558,
     "99e5ad47099884068754dcd039efae5eb9adaf1e": 1790258893.755546,
+    "9a86af6e8c2fabbffa56e92e066b857378cef2f9": 1790260694.879674,
     "9b75cf997b79ba92d26eb674933a08260d5a5492": 1790257589.2923312,
+    "9b7a0cbc311dee811f3caed8e923b009f4e82509": 1790259247.5297089,
     "9cbd7faaaa2e8a65e8fb3789497c2998248c98f6": 1790257589.2923117,
+    "9d3f184891978b8654c6afe247027ad6677279cf": 1790259247.5288103,
     "9d506f196e9ab8c4179f2b41baa9d5d20344a56f": 1790257589.292356,
     "9d5ca6b881a5aa18a0af71e17c9661ea45e2d7c0": 1790258893.7535274,
     "9dbdfda02b0faa57cc2cc42f6b51d1aba4695fa0": 1790255807.1486192,
     "9e0e1e4c41ce68eb9871c037def2466076ee9008": 1790257589.2923374,
     "9e8f31da77a0ec198f7642f9bdccf442e0212aa2": 1790258892.5356405,
+    "9ea50599edc5755326ab43d9a4394b2655b03500": 1790260694.8798983,
     "a08438a7ab1a57d46e6adeff721c344869aaff10": 1790258893.7538333,
     "a089dce24e36ecc7de149d038777fe9bb68dc9c9": 1790255807.1488922,
     "a0aed382f4580bb83c67a171e9aa47301f6d1cd6": 1790258893.7557642,
+    "a14be5483230a91db1f3c639665c65b91254da2d": 1790260694.8795762,
+    "a235d02d46e2e2aa45d21ebcf4aa483040105e42": 1790259247.5287788,
     "a3577436412272a3ea2250136ba72ded3f82812a": 1790255807.1487088,
+    "a38c46d93768f15947aba9df0db1a75b29f2c476": 1790260694.8799493,
     "a3a0d423c00a7f3e896980814dfca5bf9f680e66": 1790254808.6061618,
+    "a3c8b5faaaa961b34ccb122e3d943b9495f8c51e": 1790259247.5295532,
     "a4323813a3bc72b1a058062c5f33d8f0399d6c8c": 1790258893.755717,
     "a58825c13db176da0fd919f3d107eed469fb599f": 1790257589.292101,
+    "a5918bcef09472b991d9c753fd9181f452d34cb3": 1790259247.5287125,
     "a831b8ffec1c0cd216a89e5b86c8e0bba2704350": 1790256977.9801025,
+    "a87887de0fe6255868457ae68ba36b01460650af": 1790260694.8794994,
     "a9fd8af64558c12fc2e4251ec6eb4f70c6e6868c": 1790258893.7558336,
     "aa0e33ec006b59c5d7281e709f585ba932ff4646": 1790255807.1484892,
     "aa96d284c9eb1679730a98c26a62995fc4a3a95a": 1790255807.1486936,
     "ab051f2dae771bc5f27f70af274f30026e235261": 1790254808.6065605,
+    "ab8d628f7d0e613ebc0a0c5c92acdaef1a8a2006": 1790259247.5287187,
     "abbfd892821509e36d23f9124395b19246b714b3": 1790257589.2923691,
     "abcb75e4a6216e14d098c29ffc811e9c65d41f23": 1790256977.9801397,
+    "abe89bad8f2b9142f0fd4e8e3edc998b9a48fb43": 1790259247.5279365,
     "ac73c3920c33c3d79c98c19d3ccedcc14488c03f": 1790255807.1482077,
     "add245d425eeb8bcca648b85689e72d3b2d88394": 1790257589.2920866,
+    "aeb85eeb591753037da690fbf174bc56fd5c9386": 1790259247.5288556,
+    "aee085f6ab52f10b145c2119138aaeaf3b7bbd14": 1790259247.5286992,
+    "af6959625ff3bf0ddd8b8f84b4ff855055929511": 1790259247.529534,
     "affa11854209f5a5affa3161291dd23220cf8e06": 1790254808.6066074,
     "b08967e0808474b644c919fdc1927f161272e326": 1790258893.7557695,
+    "b1f4afbbc811410b14a6b346ac1e217e36efae74": 1790260694.8795283,
+    "b1f8c189922ad99d22f819efa7f6dd2b2b50f7a2": 1790260694.879445,
     "b42a17df415c30140ae9644ba51829dde2efc20c": 1790258893.7558076,
     "b548e5907b43cc7847e34921337f18058a3de8ff": 1790255807.1489263,
+    "b577802c68fd64b5428b8659131d3d447b046d06": 1790260694.8792143,
     "b5a1592bb0ace35c94d66bffb6cb229c557266e4": 1790256977.9803157,
     "b6666b65374de0b661dd6ec0204f6503b9319871": 1790257589.2919672,
+    "b782f35797f5767483c73d60aa9e77f0102888cb": 1790260694.879806,
     "b822403e8775de6a4d44ccad3b39f5cc78646651": 1790257589.292078,
     "b8f1171f5339eec8612d5748cbdecbc63d340b7e": 1790256977.9802194,
     "ba1e0af3fb4154750e18631fecdc209609202720": 1790258893.0566912,
     "bb2811376a999f7bd29a8417a0243d9bf8a96802": 1790257589.2922885,
     "bc5b49fdafa46e90ed7e5cfb92c296469fa0fcc0": 1790257589.2920723,
+    "bd06a5a08ad1be774387c3cea9b5ccaad8a2948c": 1790260694.8797445,
     "bdb8539dd7eb8068b560e9c73616e1f06b0646d6": 1790258893.755782,
     "bdc6b949fce849805502a45c0273d14ffad3f5f3": 1790255807.1488218,
     "be84f5b5eab98cc145103daa36888f8f1b9957c2": 1790258893.3212075,
@@ -1446,38 +2025,54 @@
     "bea59d177fac977faa6c7a1357d83ab957f0048b": 1790256977.9803772,
     "beceb9e4e6215216652b789d5f605d9b540082ed": 1790255807.1485393,
     "bfc5c9310cdaa4b4f7bf9442c2f9d2a492905a01": 1790254808.606228,
+    "bffbb47ddc902b3272733bcf5422ebeb560296d8": 1790260694.8791723,
+    "c030311d199a580377bdc83cc27f772e96e42de0": 1790259247.5293663,
     "c2326e03014a55400e84a8dde04b37637c69e040": 1790254808.6062953,
+    "c2688f93cc3efccb72f7409ba44e9148108c3338": 1790260694.8795667,
     "c30f05e681c96aad39249b811c94a85e7bef96f6": 1790256977.9803965,
     "c4d1050d54740e68b7d8c5df75ebb68bcdc9d798": 1790257589.2920225,
+    "c54ea2e1916fd0aa3f13ca41aca0d4bcf6b05744": 1790260694.8797028,
     "c5b87480a85e9584a16e7acc211f1273032d865b": 1790255807.1488311,
     "c7e7ad60970c4251994034154a557f7aa3598a8b": 1790258893.7549918,
     "c8dcb609d0f845c79ff42668e76f8ca4f571db98": 1790258893.7549586,
     "c9c87b84069c0472d85377ff2ec54159bffdbaeb": 1790257589.2920153,
     "caa79f063ecd2ec0ddfed1e72a19548b701038c1": 1790254808.6066005,
+    "cb32782f3bd1ed4894a2137df3c379633ebb7e5d": 1790259247.5288022,
     "ccfcaa9c43ebf7df7c039ee33952716e9be99f53": 1790256977.9801872,
     "cd083f8992fdd977d092f260ffeed43586e04be9": 1790254808.6063547,
+    "cda8525dba3d99622bc5c2eefb2b4c0718dd04fb": 1790260694.8794162,
     "cdbe99095e861cf8ccbb1d3a3524427626233430": 1790256977.980412,
     "ce85fbcadf918837ada3c7e4df1e0c10f693aa59": 1790256977.9801161,
     "ce8801eb63447fa938fed4626f18fb29fb640eb7": 1790254808.606276,
     "cf845c71193019689feb0126de2ac384e64aa31b": 1790256977.9803517,
+    "cff573d711d0832681486b99ebf6dcf4f762bf76": 1790259247.5294108,
     "d14c028c0f089f21f370ce1601e268c8a2047b8e": 1790255807.148796,
     "d17bf98bc28b868f5ebb434a9bfd35d18fcceb36": 1790258893.7555692,
+    "d1ca6caa47fb2544e89cc8f4d4a5e79d4edeab97": 1790259247.5287688,
     "d1d540cc10415e578fd67d2e344a8512059c285a": 1790255807.148917,
     "d298302749d6e4dee1a4872e808ada74908e6c3a": 1790255807.148233,
     "d2d17c33e3e175527ba11344fe8bc83b4acac38e": 1790255807.1486976,
+    "d2fa6f8b0d0492be90aaf377ba299666ebf61e03": 1790259247.52967,
+    "d31c0011c2c7f3fa5404a1b492fbc878506c2b6d": 1790259247.5289328,
     "d3f6cc920698eea203cce81aec7e8f6d6424e356": 1790257589.2922037,
     "d45632f46d088bc99aac85be0ab6026303513f4a": 1790255807.148752,
     "d4928ad1f97d3afaed7f3a7f81693208a0acfe9f": 1790256977.9803586,
     "d4a4fb2fab561447f33f0b7e525d9782bb037074": 1790256977.9804094,
+    "d4db2aefae0632f5227e2eb7b7c19dab2640ddd9": 1790260694.8791544,
     "d5c84e81656fb962c8f1de9244b94456064028e4": 1790258893.7547483,
     "d653533745a68c07326b20879bec2304c0013a6a": 1790257589.2922385,
     "d6db99eefc7a733aa77a123d5deb8cbcfb0f6101": 1790258893.7532587,
     "d76ffa564b25ba3ce2e4de07e4230c62d3646c1d": 1790256977.9801211,
     "d7845e38c4255ad23ecab1c8000957f8b7ac7fcf": 1790258893.7534995,
     "d8033c362483f54cd52e9764b86f5124992ecba5": 1790254808.6061957,
+    "d86b26a2d2ba2d22581355e2b6b7b39c038be1b9": 1790259247.5287917,
+    "d878e0c4e97714ff9c6d7347279e64e1cd0ca124": 1790259247.529352,
     "d961356b273cc4c4ea440b88eae98da16fd2c421": 1790254808.6063476,
+    "d9ac136d5ea3fc1ed85c914c0713a3204cb7bc9e": 1790259247.5296388,
     "da2613f7ae841eae1b9c24631d20485ef78b6f75": 1790255807.1488466,
+    "da5951a3ad532da877205353f07c5cbc08b84df3": 1790259247.5288458,
     "daa2b1340f64ffa6d5cb346ed359ca50df56418a": 1790256977.9800694,
+    "db4c2e5e07d30c5d96cf21ddc16a59a18caca0e5": 1790259247.5287611,
     "db8364d968460c74744b80cc33e83afde1125bb0": 1790256977.9803932,
     "dbbc7e7de225cedcd98a205c145c083dd0327e6d": 1790255807.1488423,
     "dd22e4e57e645ef6713ebde73f5a35952aeb08d0": 1790258893.7550042,
@@ -1492,18 +2087,26 @@
     "e153090477bae18910884806c16ed5e90312f845": 1790257589.2919607,
     "e158f7fa3bf72c060aace64dbc3f7bfb66346ccf": 1790257589.2920282,
     "e2f902d5bc1856a8c8b9d933c3a84b9523052226": 1790258893.7558002,
+    "e36971723056d7984b9bc9f048c149caefa1c548": 1790259246.6356435,
     "e4652950a951c0a097ff51cff5a1abfa3ddaa0d9": 1790255807.148733,
     "e4b1af7aac041cd124841cf902cb8d9f508c40a4": 1790255807.1487684,
+    "e4f9375fc590051e9d2ed445f5eed7061e9fc59b": 1790260694.8793151,
     "e5adadfbe555bd99940d95f651ac6c52e29af63e": 1790258893.7557538,
+    "e7fdfbebe7956ee0517be1d42c186f1dc6cfa110": 1790260694.879381,
     "ec26f962ff25cd198335e6497857b1e669e67c54": 1790258893.7555346,
+    "ec7195692e7482ec923da8bc261e0b4d42758eb4": 1790260694.8798234,
     "eca7935e8d01bb260f6ae5b2c2faab2269566989": 1790257589.2923663,
     "ef5aab0049c1f8f90042c8870c777ce34052fa2f": 1790258893.7549381,
     "f069687e4a1d7fdbdacddbe1843bebf33db307ba": 1790255807.1488988,
     "f0e2e2ddc7004e2d73e7ca942831622a83195531": 1790258893.7535534,
     "f16ecfe7d1620794530c519b6f3db3a623cb6954": 1790255807.148612,
     "f217395f26a72cb4c8cfc562e4d9a8584408919d": 1790257589.2922091,
+    "f265b1eec071c3d32a9b3ca3638e1cd644ab5682": 1790259247.5293822,
+    "f2ff084b3d8e27890e9392908f8536c8e1c4efad": 1790259247.5294247,
+    "f3fde1b2727abeda122e7e638a55ab41b189f1e6": 1790260694.8794816,
     "f4301e20b08621682d1d7cadd3ed3922d2b42fc8": 1790255807.1487641,
     "f451f7682a61b9e84394dee1085c1f1da1d5addd": 1790254808.606083,
+    "f45fde285331485766ad72c8de44ee6e14cbb0ca": 1790260694.879558,
     "f5705f344462c892fcc8bc61fa3ea184e6094c00": 1790256977.9803324,
     "f57d633897e465420615f907ec9d1d0ee7e5739e": 1790255807.1486337,
     "f5dd07be5515ca9c3d6310aafcd2a88b7607ac25": 1790258893.7554927,
@@ -1512,11 +2115,18 @@
     "f771155483cebf6d55da1e2676334c5010d999b5": 1790257589.2923205,
     "f7abe72a6af740eb659967f7ac8877a2e732351a": 1790256977.9802716,
     "f841d0174bc8a6f870e4025320a697961e85d3fd": 1790257589.2923605,
+    "f8d5e9be65ce754144f840607ee08e4c29687c0c": 1790259247.5294437,
     "f90f2426c7160cbb9a046cc2192242e09659205f": 1790254808.60617,
     "f9ade19d5d9c245da0ac8566f5d98806d803ca80": 1790256977.980111,
     "fa8d681e0862a1ba2bfe0ef34382cd9ecf59a91f": 1790257589.2919466,
+    "fab1386b061698c68109dcd722f6e6e04a1f8bf3": 1790260694.8799121,
     "fb9ba04a456ec507a9025f7ef9e93cb9cd624f1a": 1790254808.6063075,
+    "fd1160746fbac3ae63c7bfbfe67bc5f9f818f755": 1790260694.8795066,
     "fd831be7834aa19034e34550fece82974eff53f6": 1790255807.1485615,
-    "fdbb77a8f09601303744fd83f159c3cd2f0c2489": 1790258893.7533453
+    "fdb0dea9bccbba02b19a693d109f897254876725": 1790259247.5293353,
+    "fdbb77a8f09601303744fd83f159c3cd2f0c2489": 1790258893.7533453,
+    "fe10f380f576883044195e13fc2bd66ef75948ec": 1790260694.879164,
+    "ffbd571518d7b71d4ea4a1200e18fce504ac29d2": 1790259247.528704,
+    "fff7a6b46d2a2f6de515e6573797e9987800bd35": 1790260694.8800004
   }
 }
