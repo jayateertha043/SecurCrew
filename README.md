@@ -172,29 +172,30 @@ empty responses over `GITHUB_TOKEN`, so summaries silently fall back to excerpts
 3. Re-run the **Collector** — cards flip to green **"AI summary"**.
 
 That's it — with just the `AI_API_KEY` secret, the code defaults to Groq
-(`llama-3.1-8b-instant`). The `AI_BASE_URL` / `AI_MODEL` **variables** are only
-needed to use a *different* provider (e.g. Gemini).
+(`openai/gpt-oss-20b`). The `AI_BASE_URL` / `AI_MODEL` **variables** are only
+needed to use a *different* model or provider (e.g. Gemini).
 
 > **`AI_API_KEY` must be a Secret, not a Variable** (Secrets tab). If AI still
 > shows "Excerpt", check the run log's `AI provider:` line — it should read
 > `https://api.groq.com/...`; if it's blank/GitHub, the secret isn't set.
 
-> **Model choice:** `llama-3.1-8b-instant` is Groq's most cost-efficient model —
-> highest free-tier rate limits and lowest token use, ideal for summaries and for
-> sharing one Groq account across projects. This bot makes only ~8 small requests
-> per day (2 runs × batched calls), so it stays comfortably inside the free tier.
+> **Model choice:** `openai/gpt-oss-20b` is Groq's cheapest general chat model
+> (large context, native JSON mode) — ideal for summaries and for sharing one
+> Groq account across projects. This bot makes only ~8 small requests per day
+> (2 runs × batched calls), so it stays comfortably inside the free tier. Groq
+> rotates its catalog, so if a model 404s, run `GET /openai/v1/models` and set
+> the `AI_MODEL` variable to a current id.
 
 **Providers** (all OpenAI-compatible):
 
 | Provider | `AI_BASE_URL` | `AI_MODEL` | Auth |
 | --- | --- | --- | --- |
-| **Groq** (recommended) | `https://api.groq.com/openai/v1` | `llama-3.1-8b-instant` | free `AI_API_KEY`, no card |
+| **Groq** (recommended) | `https://api.groq.com/openai/v1` | `openai/gpt-oss-20b` | free `AI_API_KEY`, no card |
 | **Google Gemini** | `https://generativelanguage.googleapis.com/v1beta/openai` | `gemini-1.5-flash` | free `AI_API_KEY` |
-| **GitHub Models** (default, unreliable) | `https://models.github.ai/inference` | `openai/gpt-4o-mini` | built-in `GITHUB_TOKEN` |
 
-The workflow's `${{ secrets.AI_API_KEY || secrets.GITHUB_TOKEN }}` and
-`${{ vars.AI_BASE_URL || <github-models-default> }}` fallbacks mean setting the
-secret + variables above cleanly overrides the default — no YAML edit needed.
+The workflow passes `AI_API_KEY` (secret) and optional `AI_BASE_URL` / `AI_MODEL`
+(variables) straight through. Set only the secret to use Groq's defaults; add the
+variables to switch model or provider — no YAML edit needed.
 
 **To disable AI** entirely, set variable `USE_AI_SUMMARY=0` (uses fuzzy dedup +
 clipping).

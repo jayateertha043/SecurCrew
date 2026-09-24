@@ -27,7 +27,7 @@ import requests
 log = logging.getLogger("securcrew")
 
 DEFAULT_BASE_URL = "https://api.groq.com/openai/v1"
-DEFAULT_MODEL = "llama-3.1-8b-instant"
+DEFAULT_MODEL = "openai/gpt-oss-20b"
 REQUEST_TIMEOUT = 45
 SUMMARY_CHUNK = 20  # summarize at most this many items per request for reliability
 
