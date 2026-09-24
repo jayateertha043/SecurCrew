@@ -33,10 +33,9 @@ def _published(item: Dict[str, object]) -> float:
 def select_originals(
     entries: List[Dict[str, object]], st: Dict, already_queued: set
 ) -> List[Dict[str, object]]:
-    """Return new, deduplicated items to enqueue, newest first and source-balanced."""
+    """Return new, deduplicated items to enqueue, newest first."""
     originals: List[Dict[str, object]] = []
     run_norms: List[str] = []
-    per_source: Dict[str, int] = {}
 
     # Newest first so recent news wins the budget; unknown dates sort last.
     for item in sorted(entries, key=_published, reverse=True):
@@ -58,13 +57,6 @@ def select_originals(
             # Mark seen so later feeds' copies are skipped without re-evaluating.
             dedup.record_posted(link, norm, st)
             continue
-
-        # Per-source cap keeps one busy feed from dominating a run. Not marked
-        # seen, so overflow items can be picked up on a later run.
-        src = str(item.get("source", ""))
-        if per_source.get(src, 0) >= P.MAX_PER_SOURCE_PER_RUN:
-            continue
-        per_source[src] = per_source.get(src, 0) + 1
 
         run_norms.append(norm)
         item["_id"] = item_id

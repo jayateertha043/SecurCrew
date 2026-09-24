@@ -36,7 +36,15 @@ def build(queue: Dict[str, Any]) -> Dict[str, Any]:
     for item in queue.get("pending", []):
         rows.append(_row(item, "queued", float(item.get("added_at", 0) or 0)))
 
-    rows.sort(key=lambda r: r["ts"], reverse=True)
+    # Newest article first by publish date. Items without a usable date (missing
+    # or post-dated into the future, e.g. event listings) sink to the bottom.
+    now = time.time()
+
+    def _order(r: Dict[str, Any]) -> float:
+        pub = float(r.get("published") or 0)
+        return pub if 0 < pub <= now else 0.0
+
+    rows.sort(key=_order, reverse=True)
     return {"generated_at": time.time(), "count": len(rows), "items": rows}
 
 

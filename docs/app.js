@@ -106,7 +106,8 @@ function card(item) {
   badge.textContent = item.status === "posted" ? "Shared" : "New";
   const time = document.createElement("span");
   time.className = "time";
-  time.textContent = item.ts ? timeAgo(item.ts * 1000) : "";
+  const when = Number(item.published) || Number(item.ts) || 0;
+  time.textContent = when ? timeAgo(when * 1000) : "";
   top.append(badge, time);
 
   const h3 = document.createElement("h3");

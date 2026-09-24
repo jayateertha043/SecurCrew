@@ -34,7 +34,6 @@ PRUNE_WINDOW_DAYS = 7            # drop seen/history/counts + posted log older t
 QUEUE_TTL_DAYS = 2               # discard queued-but-unposted items older than this (stale news)
 MAX_ENTRIES_PER_FEED = 40        # look deeper per feed since we collect only ~2x/day
 MAX_ENQUEUE_PER_RUN = 60         # cap items added to the queue in one collect run
-MAX_PER_SOURCE_PER_RUN = 6       # per-source cap per run so one feed can't dominate
 BASE_HASHTAGS = "#infosec #cybersecurity #bugbounty"
 SUMMARY_MAX_CHARS = 220          # fallback (non-AI) summary length
 
