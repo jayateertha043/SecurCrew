@@ -21,25 +21,25 @@ https://www.welivesecurity.com/en/rss/feed/
 https://www.schneier.com/feed/atom/ #opinion
 https://portswigger.net/blog/rss #appsec
 https://googleprojectzero.blogspot.com/feeds/posts/default #vulnerability #0day
-https://research.checkpoint.com/feed/ #threatintel #malware
-https://www.microsoft.com/en-us/security/blog/feed/ #threatintel
 https://blog.talosintelligence.com/rss/ #threatintel #malware
 https://unit42.paloaltonetworks.com/feed/ #threatintel #malware
-https://blog.rapid7.com/rss/ #vulnerability
 https://securelist.com/feed/ #threatintel #malware
-# Trimmed to a tighter core to cut overlapping threat-intel coverage.
-# Re-enable any of these for broader (often overlapping) vendor reporting:
+https://blog.rapid7.com/rss/ #vulnerability
+# Threat-intel kept intentionally small (Talos, Unit42, Securelist). Re-enable
+# any of these for broader (heavily overlapping) vendor threat reporting:
+#https://research.checkpoint.com/feed/ #threatintel #malware
+#https://www.microsoft.com/en-us/security/blog/feed/ #threatintel
 #https://www.crowdstrike.com/blog/feed/ #threatintel
 #https://www.sentinelone.com/feed/ #threatintel
 #https://www.trendmicro.com/en_us/research.rss.xml #threatintel
 #https://www.malwarebytes.com/blog/feed/index.xml #malware
 
-# --- Vulnerabilities / advisories ---
-https://isc.sans.edu/rssfeed_full.xml #vulnerability
-https://www.cisa.gov/cybersecurity-advisories/all.xml #advisory #ICS
-https://www.zerodayinitiative.com/rss/published/ #vulnerability #0day
-https://vuldb.com/?rss.recent #vulnerability #CVE
-https://www.exploit-db.com/rss.xml #exploit
+# --- Vulnerabilities / advisories (PAUSED: not currently of interest) ---
+#https://isc.sans.edu/rssfeed_full.xml #vulnerability
+#https://www.cisa.gov/cybersecurity-advisories/all.xml #advisory #ICS
+#https://www.zerodayinitiative.com/rss/published/ #vulnerability #0day
+#https://vuldb.com/?rss.recent #vulnerability #CVE
+#https://www.exploit-db.com/rss.xml #exploit
 
 # --- Bug bounty / offensive / appsec ---
 https://portswigger.net/research/rss #appsec #research
