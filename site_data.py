@@ -23,6 +23,7 @@ def _row(item: Dict[str, Any], status: str, ts: float) -> Dict[str, Any]:
         "link": item.get("link", ""),
         "published": item.get("published", 0),
         "tags": item.get("tags", []),
+        "ai": bool(item.get("ai", False)),
         "status": status,
         "ts": ts,
     }

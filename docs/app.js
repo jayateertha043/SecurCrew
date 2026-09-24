@@ -104,11 +104,17 @@ function card(item) {
   const badge = document.createElement("span");
   badge.className = "badge " + (item.status === "posted" ? "posted" : "queued");
   badge.textContent = item.status === "posted" ? "Shared" : "New";
+  const ai = document.createElement("span");
+  ai.className = "aiflag " + (item.ai ? "on" : "off");
+  ai.textContent = item.ai ? "AI summary" : "Excerpt";
+  ai.title = item.ai
+    ? "Summary written by AI"
+    : "Trimmed from the article's own text (no AI)";
   const time = document.createElement("span");
   time.className = "time";
   const when = Number(item.published) || Number(item.ts) || 0;
   time.textContent = when ? timeAgo(when * 1000) : "";
-  top.append(badge, time);
+  top.append(badge, ai, time);
 
   const h3 = document.createElement("h3");
   h3.textContent = item.title || "(untitled)";

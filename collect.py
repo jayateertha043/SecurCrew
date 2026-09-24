@@ -106,6 +106,8 @@ def run() -> int:
     summaries = summarizer.summarize_batch(originals) if summarizer else None
     if summarizer and summaries is None:
         log.warning("AI summarize failed; falling back to clipping")
+    ai_used = summaries is not None
+    log.info("summaries: %s", "AI" if ai_used else "clipped excerpt")
 
     now = time.time()
     for i, item in enumerate(originals):
@@ -123,6 +125,7 @@ def run() -> int:
                 "source": item.get("source", ""),
                 "published": item.get("published", 0),
                 "tags": item.get("tags", []),
+                "ai": ai_used,
                 "added_at": now,
             }
         )
