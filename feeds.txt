@@ -8,7 +8,6 @@ https://www.bleepingcomputer.com/feed/
 https://krebsonsecurity.com/feed/
 https://www.darkreading.com/rss.xml
 https://www.securityweek.com/feed/
-https://threatpost.com/feed/
 https://www.infosecurity-magazine.com/rss/news/
 https://www.csoonline.com/index.rss
 https://www.theregister.com/security/headlines.atom
@@ -16,7 +15,7 @@ https://cyberscoop.com/feed/
 https://www.scmagazine.com/feed
 https://www.helpnetsecurity.com/feed/
 https://grahamcluley.com/feed/
-https://nakedsecurity.sophos.com/feed/
+https://news.sophos.com/en-us/feed/
 https://www.welivesecurity.com/en/rss/feed/
 
 # --- Research / analysis / blogs ---
@@ -39,7 +38,6 @@ https://www.malwarebytes.com/blog/feed/index.xml
 https://isc.sans.edu/rssfeed_full.xml
 https://www.cisa.gov/cybersecurity-advisories/all.xml
 https://www.zerodayinitiative.com/rss/published/
-https://www.zerodayinitiative.com/rss/upcoming/
 https://vuldb.com/?rss.recent
 https://www.exploit-db.com/rss.xml
 
@@ -53,7 +51,6 @@ https://blog.assetnote.io/feed.xml
 https://labs.watchtowr.com/rss/
 https://projectdiscovery.io/blog/rss.xml
 
-# --- Community / aggregators ---
-https://www.reddit.com/r/netsec/.rss
-https://tldrsec.com/feed
+# --- Original reporting (aggregators like r/netsec & tldrsec are intentionally
+#     excluded: they republish the feeds above and create cross-source dupes) ---
 https://therecord.media/feed/
