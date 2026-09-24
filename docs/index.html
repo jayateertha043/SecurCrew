@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SecurCrew — Security News Feed</title>
+  <meta name="description" content="Curated infosec, cybersecurity, and bug-bounty news with AI summaries." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <div class="brand">
+        <span class="brand-mark" aria-hidden="true">◈</span>
+        <div>
+          <h1>SecurCrew</h1>
+          <p class="tagline">Infosec · Cybersecurity · Bug Bounty — curated &amp; AI-summarized</p>
+        </div>
+      </div>
+      <div class="stats" id="stats" aria-live="polite"></div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="controls" aria-label="Filters">
+      <input id="search" type="search" placeholder="Search stories…" autocomplete="off" />
+      <select id="sourceFilter" aria-label="Filter by source">
+        <option value="">All sources</option>
+      </select>
+      <div class="chips" role="tablist" aria-label="Status filter">
+        <button class="chip is-active" data-status="all" role="tab">All</button>
+        <button class="chip" data-status="posted" role="tab">Posted</button>
+        <button class="chip" data-status="queued" role="tab">Queued</button>
+      </div>
+    </section>
+
+    <section id="grid" class="grid" aria-live="polite"></section>
+
+    <p id="empty" class="empty" hidden>No stories yet. The feed populates on the next scheduled run.</p>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <span id="updated"></span>
+      <span class="sep">·</span>
+      <span>Built with GitHub Actions · Static &amp; free</span>
+    </div>
+  </footer>
+
+  <script src="app.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,60 @@
+# SecurCrew feed list.
+#   Format:  <url> [#tag1 #tag2 ...]
+#   Tokens after the URL that start with '#' are per-feed hashtags added to that
+#   feed's posts, on top of the base #infosec #cybersecurity #bugbounty.
+# Full-line comments start with '#'. Malformed/erroring feeds are skipped.
+
+# --- General infosec news ---
+https://feeds.feedburner.com/TheHackersNews
+https://www.bleepingcomputer.com/feed/
+https://krebsonsecurity.com/feed/
+https://www.darkreading.com/rss.xml
+https://www.securityweek.com/feed/
+https://www.infosecurity-magazine.com/rss/news/
+https://www.csoonline.com/index.rss
+https://www.theregister.com/security/headlines.atom
+https://cyberscoop.com/feed/
+https://www.scmagazine.com/feed
+https://www.helpnetsecurity.com/feed/
+https://grahamcluley.com/feed/
+https://news.sophos.com/en-us/feed/
+https://www.welivesecurity.com/en/rss/feed/
+
+# --- Research / analysis / blogs ---
+https://www.schneier.com/feed/atom/ #opinion
+https://portswigger.net/blog/rss #appsec
+https://googleprojectzero.blogspot.com/feeds/posts/default #vulnerability #0day
+https://research.checkpoint.com/feed/ #threatintel #malware
+https://www.microsoft.com/en-us/security/blog/feed/ #threatintel
+https://blog.talosintelligence.com/rss/ #threatintel #malware
+https://unit42.paloaltonetworks.com/feed/ #threatintel #malware
+https://www.mandiant.com/resources/blog/rss.xml #threatintel #APT
+https://blog.rapid7.com/rss/ #vulnerability
+https://securelist.com/feed/ #threatintel #malware
+# Trimmed to a tighter core to cut overlapping threat-intel coverage.
+# Re-enable any of these for broader (often overlapping) vendor reporting:
+#https://www.crowdstrike.com/blog/feed/ #threatintel
+#https://www.sentinelone.com/feed/ #threatintel
+#https://www.trendmicro.com/en_us/research.rss.xml #threatintel
+#https://www.malwarebytes.com/blog/feed/index.xml #malware
+
+# --- Vulnerabilities / advisories ---
+https://isc.sans.edu/rssfeed_full.xml #vulnerability
+https://www.cisa.gov/cybersecurity-advisories/all.xml #advisory #ICS
+https://www.zerodayinitiative.com/rss/published/ #vulnerability #0day
+https://vuldb.com/?rss.recent #vulnerability #CVE
+https://www.exploit-db.com/rss.xml #exploit
+
+# --- Bug bounty / offensive / appsec ---
+https://hackerone.com/hacktivity.rss #bugbounty
+https://portswigger.net/research/rss #appsec #research
+https://blog.intigriti.com/feed/ #bugbounty
+https://www.bugcrowd.com/feed/ #bugbounty
+https://github.blog/tag/security/feed/ #appsec
+https://blog.assetnote.io/feed.xml #appsec #research
+https://labs.watchtowr.com/rss/ #research #exploit
+https://projectdiscovery.io/blog/rss.xml #appsec #tools
+
+# --- Original reporting (aggregators like r/netsec & tldrsec are intentionally
+#     excluded: they republish the feeds above and create cross-source dupes) ---
+https://therecord.media/feed/ #news

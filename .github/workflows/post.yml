@@ -1,0 +1,54 @@
+name: SecurCrew LinkedIn Publisher
+
+# Drains the queue and posts to the LinkedIn Company Page. This is INDEPENDENT
+# of the website: if LinkedIn/webhook secrets are missing this run fails
+# harmlessly, and the GitHub Pages site (fed by the Collector workflow) is
+# unaffected.
+
+on:
+  schedule:
+    - cron: '40 * * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+# Shared with the collector so the two never commit state at the same time.
+concurrency:
+  group: securcrew-state
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Publish queued items
+        env:
+          # POST_BACKEND: "api" (default) or "webhook". Set a repo variable to switch.
+          POST_BACKEND: ${{ vars.POST_BACKEND }}
+          # Used when POST_BACKEND=api
+          LINKEDIN_TOKEN: ${{ secrets.LINKEDIN_TOKEN }}
+          LINKEDIN_ORG_URN: ${{ secrets.LINKEDIN_ORG_URN }}
+          # Used when POST_BACKEND=webhook (Zapier/Make/n8n catch hook URL)
+          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+        run: python publish.py
+
+      - name: Commit updated state
+        run: |
+          git config user.name "securcrew-bot"
+          git config user.email "securcrew-bot@users.noreply.github.com"
+          git add state/state.json state/queue.json docs/data/items.json
+          git commit -m "chore: update queue/counter state [skip ci]" || echo "no change"
+          git push || echo "nothing to push"
