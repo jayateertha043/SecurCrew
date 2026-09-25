@@ -6161,6 +6161,283 @@
       "summary": "The Reporters' Notebook series highlights three major 2026 cyber incidents: AI agents breached Hugging Face.\nFairlife suffered a ransomware attack.\nIranian-linked actors compromised a dozen U.S. water systems.",
       "tags": [],
       "title": "3 Cyber Threats That Defined the Summer of 2026"
+    },
+    {
+      "added_at": 1790335502.1945016,
+      "ai": true,
+      "id": "299cd55cb9a1e292748992b94af299e7fb57f20c",
+      "link": "https://www.schneier.com/blog/archives/2026/09/on-anthropics-ai-misuse-report.html",
+      "published": 1790334442.0,
+      "source": "Schneier on Security",
+      "summary": "Anthropic released a report on Claude misuses with 117 findings. Highlights include AI agents conducting reconnaissance, exploitation, data theft, propaganda, surveillance, and research while humans set targets and review outputs.",
+      "tags": [
+        "#opinion"
+      ],
+      "title": "On Anthropic’s AI Misuse Report"
+    },
+    {
+      "added_at": 1790335502.1945016,
+      "ai": true,
+      "id": "ce1b6975107b4801f67ad42bfe61c1e2762a1e94",
+      "link": "https://www.securityweek.com/windows-linux-android-file-notification-systems-leak-user-activity/",
+      "published": 1790333612.0,
+      "source": "SecurityWeek",
+      "summary": "Researchers discovered that file-change notification systems on Windows, Linux, and Android can leak keystroke timing, browsing activity, and WhatsApp media events.",
+      "tags": [],
+      "title": "Windows, Linux, Android File Notification Systems Leak User Activity"
+    },
+    {
+      "added_at": 1790335502.1945016,
+      "ai": true,
+      "id": "8b1ba443ae9232094682b7f58e46ff0b612e02d1",
+      "link": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
+      "published": 1790332555.0,
+      "source": "The Hacker News",
+      "summary": "Bitget announced that suspected North Korean threat actors stole $351.6 million from hot wallets. Cold wallets and most platform assets remain secure.",
+      "tags": [],
+      "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise"
+    },
+    {
+      "added_at": 1790335502.1945016,
+      "ai": true,
+      "id": "c2728dffcffc9185b1933826e321304cfa083726",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/",
+      "published": 1790332238.0,
+      "source": "BleepingComputer",
+      "summary": "Microsoft confirmed that August 2026 preview updates caused desktop loading issues, including black screens, for some users.",
+      "tags": [],
+      "title": "Microsoft: Recent Windows updates cause desktop loading issues"
+    },
+    {
+      "added_at": 1790335502.1945016,
+      "ai": true,
+      "id": "b1531d8f8db5c670702b824a8ebcfc71b870cdcb",
+      "link": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
+      "published": 1790331242.0,
+      "source": "The Hacker News",
+      "summary": "The Canadian Centre for Cyber Security warned that Roundcube Webmail CVE‑2026‑48842, a pre‑authentication SQL injection, is actively exploited in the wild despite being patched.",
+      "tags": [],
+      "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild"
+    },
+    {
+      "added_at": 1790335502.1945016,
+      "ai": true,
+      "id": "8546e8bab73b54506719907e24b6a75617105252",
+      "link": "https://www.infosecurity-magazine.com/news/banking-trojan-remote-control/",
+      "published": 1790328600.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "RemControl Banking Trojan uses the Android Accessibility Service to gain remote control of devices and harvest banking credentials.",
+      "tags": [],
+      "title": "RemControl Banking Trojan Gives Attackers Remote Control of Android Devices"
+    },
+    {
+      "added_at": 1790335502.1945016,
+      "ai": true,
+      "id": "6a804f54cfab831bd759e6de4c49c04a06069c52",
+      "link": "https://www.securityweek.com/salesbleed-flaws-in-salesforce-agentforce-enabled-zero-click-data-exfiltration/",
+      "published": 1790328471.0,
+      "source": "SecurityWeek",
+      "summary": "Three Salesforce Agentforce vulnerabilities, dubbed SalesBleed, enable zero‑click data exfiltration, agent hijacking, and phishing attacks.",
+      "tags": [],
+      "title": "‘SalesBleed’ Flaws in Salesforce Agentforce Enabled Zero-Click Data Exfiltration"
+    },
+    {
+      "added_at": 1790335502.1945016,
+      "ai": true,
+      "id": "2779579ce1a625a14e478861a5396702477bbc88",
+      "link": "https://www.helpnetsecurity.com/2026/09/25/macsync-info-stealing-malware-for-macos/",
+      "published": 1790328165.0,
+      "source": "Help Net Security",
+      "summary": "MacSync infostealer hides malicious commands in an iCloud calendar, spreads via the Toria crypto wallet app, and steals credentials, crypto wallet data, and files.",
+      "tags": [],
+      "title": "MacSync info-stealing malware hides malicious commands in an iCloud calendar"
+    },
+    {
+      "added_at": 1790335502.1945016,
+      "ai": true,
+      "id": "dc52a0796d73afc9e01f4ca70b8bc910ed8f78be",
+      "link": "https://www.infosecurity-magazine.com/news/aliexpress-phishing-flagged-early/",
+      "published": 1790325000.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "EfficientIP flagged AliExpress phishing domains before they were registered, allowing early detection of phishing campaigns.",
+      "tags": [],
+      "title": "Researchers Identify AliExpress Phishing Domains Before Registration"
+    },
+    {
+      "added_at": 1790335502.1945016,
+      "ai": true,
+      "id": "27ee47efceb2083e9e79f638fe631669e862c2a7",
+      "link": "https://www.helpnetsecurity.com/2026/09/25/docker-launches-cloud-sandboxes/",
+      "published": 1790323070.0,
+      "source": "Help Net Security",
+      "summary": "Docker introduced Docker Cloud Sandboxes, OCI‑based kits that enable secure, isolated AI agent execution in the cloud, allowing agentic workflows to run at scale without developer hardware.",
+      "tags": [],
+      "title": "Docker introduces OCI-based Kits to package agents and their guardrails"
+    },
+    {
+      "added_at": 1790335502.1945016,
+      "ai": true,
+      "id": "0559c7228735df6b89bebc8cd06b013359acfbf8",
+      "link": "https://www.helpnetsecurity.com/2026/09/25/fake-payroll-desktop-apps-screenconnect/",
+      "published": 1790322771.0,
+      "source": "Help Net Security",
+      "summary": "Attacker distributes fake desktop apps for major US payroll/HR platforms.\nInstallers embed ScreenConnect remote access tool, enabling covert control.\nAllure Security identified the scheme.",
+      "tags": [],
+      "title": "Fake payroll desktop apps hand attackers a route to company paychecks"
+    },
+    {
+      "added_at": 1790335502.1945016,
+      "ai": true,
+      "id": "10883f4a7066575edea94748ef29aceb87a83e0a",
+      "link": "https://www.helpnetsecurity.com/2026/09/25/abnormal-ai-governance/",
+      "published": 1790322385.0,
+      "source": "Help Net Security",
+      "summary": "Abnormal AI expands its AI Security suite with Governance, Cloud Security, and new products like AI Employee Guardrails and AI Agent.\nThe suite aims to secure AI adoption and mitigate AI-generated threats.",
+      "tags": [],
+      "title": "Abnormal AI brings governance, cloud security, and threat investigation into one suite"
+    },
+    {
+      "added_at": 1790335502.1945016,
+      "ai": true,
+      "id": "a7debbfa2b45ef7a3d1b81bdf9826f4fa0116965",
+      "link": "https://www.helpnetsecurity.com/2026/09/25/sentinelone-extends-wayfinder-threat-hunting/",
+      "published": 1790321784.0,
+      "source": "Help Net Security",
+      "summary": "SentinelOne extends Wayfinder Threat Hunting to AWS, Azure, and Google Cloud.\nCombines AI telemetry with human hunting to protect endpoints, identities, and cloud workloads.",
+      "tags": [],
+      "title": "SentinelOne extends Wayfinder coverage across endpoints, identities, and cloud workloads"
+    },
+    {
+      "added_at": 1790335502.1945016,
+      "ai": true,
+      "id": "2909d74d7245b323de38fb3c616dcbd66ed10aad",
+      "link": "https://www.helpnetsecurity.com/2026/09/25/dataiku-agent-management/",
+      "published": 1790321411.0,
+      "source": "Help Net Security",
+      "summary": "Dataiku launches Agent Management to inventory AI agents across platforms, measure performance, and flag high-risk agents.\nAddresses visibility gaps in rapid AI adoption.",
+      "tags": [],
+      "title": "Dataiku Agent Management reveals unmonitored AI agents"
+    },
+    {
+      "added_at": 1790335502.1945016,
+      "ai": true,
+      "id": "75ab585d275425c67ba592a0cffda12c3105c380",
+      "link": "https://www.darkreading.com/physical-security/russia-hybrid-cyber-physical-war-europe",
+      "published": 1790319600.0,
+      "source": "darkreading",
+      "summary": "Russia intensifies hybrid cyber-physical attacks on European nations supporting Ukraine, using sabotage, disinformation, and drone strikes.",
+      "tags": [],
+      "title": "Russia's Hybrid Cyber-Physical War in Europe Heats Up"
+    },
+    {
+      "added_at": 1790335502.1945016,
+      "ai": true,
+      "id": "ac5e91c66b8353245937ddc01fe6ee89bfef4dfe",
+      "link": "https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/",
+      "published": 1790319460.0,
+      "source": "SecurityWeek",
+      "summary": "CVE-2026-48842 is an unauthenticated SQL injection in Roundcube Webmail.\nAttackers can exploit the flaw without needing credentials.",
+      "tags": [],
+      "title": "Roundcube Webmail Vulnerability in Attackers’ Crosshairs"
+    },
+    {
+      "added_at": 1790335502.1945016,
+      "ai": true,
+      "id": "6d3015c6b275051dde5fa66b5ae79101e049aaf8",
+      "link": "https://www.helpnetsecurity.com/2026/09/25/ariel-assaraf-coralogix-ai-agent-guardrails/",
+      "published": 1790314202.0,
+      "source": "Help Net Security",
+      "summary": "Coralogix CEO Ariel Assaraf explains that system prompts cannot enforce boundaries; execution-layer guardrails limit context and authority.\nRisk-based controls keep agents useful during incidents.",
+      "tags": [],
+      "title": "Stop watching what AI agents say and start watching what they do"
+    },
+    {
+      "added_at": 1790335502.1945016,
+      "ai": true,
+      "id": "24da00ab44a7c15f2723dd4149afa4e74fd840dc",
+      "link": "https://www.helpnetsecurity.com/2026/09/25/sans-threat-hunting-data-quality/",
+      "published": 1790312456.0,
+      "source": "Help Net Security",
+      "summary": "SANS 2026 Threat Hunting Survey finds 50% of hunters cite poor data quality/quantity as biggest obstacle.\nGaps in cloud logging and identity telemetry are most common.",
+      "tags": [],
+      "title": "Half of threat hunters say bad data is their biggest problem"
+    },
+    {
+      "added_at": 1790335502.1945016,
+      "ai": true,
+      "id": "a80caea957f6b5ac89c49677d647a8857e57d3bd",
+      "link": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
+      "published": 1790311762.0,
+      "source": "The Hacker News",
+      "summary": "Cloudflare Containers flaw allowed a customer to read leftover disk data from previous containers on the same server.\nThe data was from abandoned storage, not live workloads.",
+      "tags": [],
+      "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data"
+    },
+    {
+      "added_at": 1790335502.1945016,
+      "ai": true,
+      "id": "e85a70b763dc1deca4d6c969bdea1ddfba95033a",
+      "link": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
+      "published": 1790311594.0,
+      "source": "The Hacker News",
+      "summary": "CISA added critical vulnerabilities CVE-2026-5430 (WSO2 API Control Plane path traversal) and a flaw in Adobe Commerce/Magento to its Known Exploited Vulnerabilities catalog after evidence of active exploitation.",
+      "tags": [],
+      "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV"
+    },
+    {
+      "added_at": 1790335502.1945016,
+      "ai": true,
+      "id": "e9309a63ed18ace01a1b3e46cde88d050b5611d9",
+      "link": "https://www.helpnetsecurity.com/2026/09/25/eu-usa-retail-chain-cyberattacks/",
+      "published": 1790310626.0,
+      "source": "Help Net Security",
+      "summary": "VikingCloud surveyed 200 security and IT leaders across the U.S. and Europe. None of the 13 security technologies measured reduced incident spread between sites, nor did real‑time visibility.",
+      "tags": [],
+      "title": "Your incident count is missing a few incidents"
+    },
+    {
+      "added_at": 1790335502.1945016,
+      "ai": true,
+      "id": "90fd229bd065b95eb4b3b7d81818901891584e74",
+      "link": "https://www.helpnetsecurity.com/2026/09/25/new-infosec-products-of-the-month-september-2026/",
+      "published": 1790308828.0,
+      "source": "Help Net Security",
+      "summary": "September 2026 infosec product roundup includes releases from 15 vendors, including Ping Identity’s enterprise security for personal AI agents. The announcement highlights an end‑to‑end approach that combines discovery, ...",
+      "tags": [],
+      "title": "New infosec products of the month: September 2026"
+    },
+    {
+      "added_at": 1790335502.1945016,
+      "ai": true,
+      "id": "28c4ceb99ab9a280f6fa33304e137086ef5723a7",
+      "link": "https://www.theregister.com/security/2026/09/25/crook-used-three-open-source-agents-to-break-into-a-fortune-500-hospitality-company-a-major-us-airline-and-25-other-orgs/5299012",
+      "published": 1790292735.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "A cybercriminal used three open‑source agents to compromise a Fortune 500 hospitality company, a major U.S. airline, and more than 25 other organizations. The operator’s AI bill averaged $25 per completed scan.",
+      "tags": [],
+      "title": "Crook used three open source agents to break into a Fortune 500 hospitality company, a major US airline and 25+ other orgs"
+    },
+    {
+      "added_at": 1790335502.1945016,
+      "ai": true,
+      "id": "a116ccea295ed155590743a2f680ad19c0f0b1a6",
+      "link": "https://cyberscoop.com/biotech-critical-infrastructure-cybersecurity-legislation/",
+      "published": 1790285020.0,
+      "source": "CyberScoop",
+      "summary": "Bipartisan lawmakers propose legislation to give biotechnology critical‑infrastructure status and strengthen cyber defenses through CISA. The bill aims to protect biotech assets from cyber threats.",
+      "tags": [],
+      "title": "House and Senate members propose legislation for CISA to step up cyber defenses for biotech"
+    },
+    {
+      "added_at": 1790335502.1945016,
+      "ai": true,
+      "id": "b7d530528fbf0320f72b8e34deeb98f247076a53",
+      "link": "https://www.welivesecurity.com/en/scams/been-told-pay-bitcoin-atm-read-first/",
+      "published": 1790240400.0,
+      "source": "WeLiveSecurity",
+      "summary": "Crypto ATM scams follow a predictable script. The article explains how to recognize such scams and what steps to take if you have already been caught.",
+      "tags": [],
+      "title": "Been told to pay at a Bitcoin ATM? Read this first"
     }
   ],
   "posted": []
