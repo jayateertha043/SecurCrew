@@ -7,6 +7,7 @@ const state = {
   items: [],
   source: "",
   query: "",
+  tag: "",
   visibleDays: 1,
 };
 
@@ -18,9 +19,13 @@ const el = {
   search: document.getElementById("search"),
   sourceFilter: document.getElementById("sourceFilter"),
   showMore: document.getElementById("showMore"),
+  count: document.getElementById("count"),
+  activeFilters: document.getElementById("activeFilters"),
+  toTop: document.getElementById("toTop"),
 };
 
 async function load() {
+  showSkeletons();
   try {
     const res = await fetch("data/items.json", { cache: "no-store" });
     if (!res.ok) throw new Error("HTTP " + res.status);
@@ -30,9 +35,23 @@ async function load() {
     renderSources();
     render();
   } catch (err) {
+    el.grid.replaceChildren();
     el.empty.hidden = false;
     el.empty.textContent = "Could not load the feed data yet.";
   }
+}
+
+function showSkeletons(n = 6) {
+  const nodes = [];
+  for (let i = 0; i < n; i++) {
+    const s = document.createElement("div");
+    s.className = "card skeleton";
+    s.innerHTML =
+      '<div class="sk-line sk-sm"></div><div class="sk-line sk-lg"></div>' +
+      '<div class="sk-line"></div><div class="sk-line sk-md"></div>';
+    nodes.push(s);
+  }
+  el.grid.replaceChildren(...nodes);
 }
 
 function renderStats(data) {
@@ -61,8 +80,7 @@ function renderSources() {
   const sources = Array.from(
     new Set(state.items.map((i) => i.source).filter(Boolean))
   ).sort((a, b) => a.localeCompare(b));
-  // Keep the "All sources" option, replace the rest.
-  el.sourceFilter.length = 1;
+  el.sourceFilter.length = 1; // keep "All sources"
   for (const src of sources) {
     const opt = document.createElement("option");
     opt.value = src;
@@ -71,34 +89,41 @@ function renderSources() {
   }
 }
 
-function filtered() {
+function matches(i) {
+  if (state.source && i.source !== state.source) return false;
+  if (state.tag && !(Array.isArray(i.tags) && i.tags.includes(state.tag))) return false;
   const q = state.query.trim().toLowerCase();
-  return state.items.filter((i) => {
-    if (state.source && i.source !== state.source) return false;
-    if (q) {
-      const hay = (i.title + " " + i.summary + " " + i.source).toLowerCase();
-      if (!hay.includes(q)) return false;
-    }
-    return true;
-  });
+  if (q) {
+    const hay = (i.title + " " + i.summary + " " + i.source).toLowerCase();
+    if (!hay.includes(q)) return false;
+  }
+  return true;
+}
+
+function isFiltering() {
+  return Boolean(state.query.trim() || state.source || state.tag);
 }
 
 function render() {
-  const items = filtered();
-  // While browsing (no search/source), page by day: show the latest day first
-  // and reveal older days via "Show more". Filtering shows all matches at once.
-  const paging = !state.query.trim() && !state.source;
+  const items = state.items.filter(matches);
+  const groups = groupByDay(items);
+  const paging = !isFiltering();
+  const shownGroups = paging ? groups.slice(0, state.visibleDays) : groups;
 
-  let toShow = items;
-  let groups = [];
-  if (paging) {
-    groups = groupByDay(items);
-    toShow = groups.slice(0, state.visibleDays).flatMap((g) => g.items);
+  const nodes = [];
+  for (const g of shownGroups) {
+    nodes.push(dayHeader(g.key, g.items.length));
+    for (const it of g.items) nodes.push(card(it));
   }
+  el.grid.replaceChildren(...nodes);
 
-  el.grid.replaceChildren(...toShow.map(card));
-  el.empty.hidden = toShow.length !== 0;
-  if (toShow.length === 0 && state.items.length > 0) {
+  const shown = shownGroups.reduce((n, g) => n + g.items.length, 0);
+  el.count.textContent = state.items.length
+    ? "Showing " + shown + " of " + state.items.length
+    : "";
+
+  el.empty.hidden = items.length !== 0;
+  if (items.length === 0 && state.items.length > 0) {
     el.empty.textContent = "No stories match your filters.";
   }
 
@@ -110,6 +135,36 @@ function render() {
   } else {
     el.showMore.hidden = true;
   }
+
+  renderActiveFilters();
+}
+
+function renderActiveFilters() {
+  const chips = [];
+  if (state.tag) chips.push(filterChip("Tag " + state.tag, () => setTag("")));
+  if (state.source) chips.push(filterChip("Source: " + state.source, () => {
+    state.source = "";
+    el.sourceFilter.value = "";
+    state.visibleDays = 1;
+    render();
+  }));
+  el.activeFilters.replaceChildren(...chips);
+}
+
+function filterChip(label, onClear) {
+  const chip = document.createElement("button");
+  chip.className = "active-chip";
+  chip.textContent = label + "  ✕";
+  chip.title = "Clear filter";
+  chip.addEventListener("click", onClear);
+  return chip;
+}
+
+function setTag(tag) {
+  state.tag = tag;
+  state.visibleDays = 1;
+  render();
+  window.scrollTo({ top: 0, behavior: "smooth" });
 }
 
 function groupByDay(items) {
@@ -140,7 +195,7 @@ function dayKey(item) {
 }
 
 function dayLabel(key) {
-  if (key === "undated") return "undated";
+  if (key === "undated") return "Undated";
   const [y, m, d] = key.split("-").map(Number);
   return new Date(y, m - 1, d).toLocaleDateString(undefined, {
     weekday: "short",
@@ -149,21 +204,68 @@ function dayLabel(key) {
   });
 }
 
+function dayHeader(key, n) {
+  const head = document.createElement("div");
+  head.className = "day-head";
+  const label = document.createElement("span");
+  label.className = "day-label";
+  label.textContent = dayLabel(key);
+  const count = document.createElement("span");
+  count.className = "day-count";
+  count.textContent = n + (n === 1 ? " story" : " stories");
+  head.append(label, count);
+  return head;
+}
+
+function faviconEl(link) {
+  let host;
+  try {
+    host = new URL(link).hostname;
+  } catch (e) {
+    return null;
+  }
+  const img = document.createElement("img");
+  img.className = "favicon";
+  img.width = 16;
+  img.height = 16;
+  img.loading = "lazy";
+  img.alt = "";
+  img.src = "https://www.google.com/s2/favicons?domain=" + host + "&sz=64";
+  img.addEventListener("error", () => img.remove());
+  return img;
+}
+
 function card(item) {
   const card = document.createElement("article");
   card.className = "card";
+  const hasLink = item.link && /^https?:\/\//i.test(item.link);
+  if (hasLink) {
+    card.tabIndex = 0;
+    card.classList.add("clickable");
+    card.setAttribute("role", "link");
+    card.setAttribute("aria-label", item.title || "Open source");
+    const open = () => window.open(item.link, "_blank", "noopener,noreferrer");
+    card.addEventListener("click", (e) => {
+      if (e.target.closest("a,button,.tag")) return; // let inner controls act
+      open();
+    });
+    card.addEventListener("keydown", (e) => {
+      if (e.key === "Enter") open();
+    });
+  }
 
   const top = document.createElement("div");
   top.className = "card-top";
   const ai = document.createElement("span");
   ai.className = "aiflag " + (item.ai ? "on" : "off");
-  ai.textContent = item.ai ? "AI summary" : "Excerpt";
+  ai.textContent = item.ai ? "✨" : "✂";
+  ai.setAttribute("aria-label", item.ai ? "AI summary" : "Excerpt");
   ai.title = item.ai
     ? "Summary written by AI"
     : "Trimmed from the article's own text (no AI)";
   const time = document.createElement("span");
   time.className = "time";
-  const when = Number(item.published) || 0;  // RSS publish date only
+  const when = Number(item.published) || 0;
   if (when) {
     const dt = new Date(when * 1000);
     time.textContent = dt.toLocaleString(undefined, {
@@ -177,20 +279,24 @@ function card(item) {
   top.append(ai, time);
 
   const h3 = document.createElement("h3");
-  h3.textContent = item.title || "(untitled)";
+  h3.append(highlight(item.title || "(untitled)"));
 
   const summary = document.createElement("p");
   summary.className = "summary";
-  summary.textContent = item.summary || "";
+  if (item.summary) summary.append(highlight(item.summary));
 
   const foot = document.createElement("div");
   foot.className = "card-foot";
   const source = document.createElement("span");
   source.className = "source";
-  source.textContent = item.source || "";
+  if (hasLink) {
+    const fav = faviconEl(item.link);
+    if (fav) source.append(fav);
+  }
+  source.append(document.createTextNode(item.source || ""));
   foot.append(source);
 
-  if (item.link && /^https?:\/\//i.test(item.link)) {
+  if (hasLink) {
     const a = document.createElement("a");
     a.className = "readmore";
     a.href = item.link;
@@ -212,12 +318,38 @@ function tagRow(tags) {
   row.className = "tags";
   for (const t of tags) {
     if (typeof t !== "string") continue;
-    const chip = document.createElement("span");
+    const chip = document.createElement("button");
     chip.className = "tag";
     chip.textContent = t;
+    chip.title = "Filter by " + t;
+    if (t === state.tag) chip.classList.add("is-active");
+    chip.addEventListener("click", (e) => {
+      e.stopPropagation();
+      setTag(t === state.tag ? "" : t);
+    });
     row.append(chip);
   }
   return row;
+}
+
+// Wrap query matches in <mark> without using innerHTML on untrusted text.
+function highlight(text) {
+  const q = state.query.trim();
+  if (!q) return document.createTextNode(text);
+  const frag = document.createDocumentFragment();
+  const lower = text.toLowerCase();
+  const needle = q.toLowerCase();
+  let i = 0;
+  let idx;
+  while ((idx = lower.indexOf(needle, i)) !== -1) {
+    if (idx > i) frag.append(document.createTextNode(text.slice(i, idx)));
+    const mark = document.createElement("mark");
+    mark.textContent = text.slice(idx, idx + needle.length);
+    frag.append(mark);
+    i = idx + needle.length;
+  }
+  if (i < text.length) frag.append(document.createTextNode(text.slice(i)));
+  return frag;
 }
 
 function timeAgo(ms) {
@@ -246,6 +378,12 @@ el.sourceFilter.addEventListener("change", (e) => {
 el.showMore.addEventListener("click", () => {
   state.visibleDays += 1;
   render();
+});
+el.toTop.addEventListener("click", () =>
+  window.scrollTo({ top: 0, behavior: "smooth" })
+);
+window.addEventListener("scroll", () => {
+  el.toTop.hidden = window.scrollY < 600;
 });
 
 load();

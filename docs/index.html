@@ -6,7 +6,7 @@
   <title>SecurCrew — Security News Feed</title>
   <meta name="description" content="Curated infosec, cybersecurity, and bug-bounty news with AI summaries." />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="stylesheet" href="styles.css?v=4" />
+  <link rel="stylesheet" href="styles.css?v=5" />
 </head>
 <body>
   <header class="site-header">
@@ -23,12 +23,18 @@
   </header>
 
   <main class="wrap">
-    <section class="controls" aria-label="Filters">
-      <input id="search" type="search" placeholder="Search stories…" autocomplete="off" />
-      <select id="sourceFilter" aria-label="Filter by source">
-        <option value="">All sources</option>
-      </select>
-    </section>
+    <div class="toolbar">
+      <section class="controls" aria-label="Filters">
+        <input id="search" type="search" placeholder="Search stories…" autocomplete="off" />
+        <select id="sourceFilter" aria-label="Filter by source">
+          <option value="">All sources</option>
+        </select>
+      </section>
+      <div class="meta-row">
+        <span id="count" class="count"></span>
+        <div id="activeFilters" class="active-filters"></div>
+      </div>
+    </div>
 
     <section id="grid" class="grid" aria-live="polite"></section>
 
@@ -39,6 +45,8 @@
     <p id="empty" class="empty" hidden>No stories yet. The feed populates on the next scheduled run.</p>
   </main>
 
+  <button id="toTop" class="to-top" hidden aria-label="Back to top" title="Back to top">↑</button>
+
   <footer class="site-footer">
     <div class="wrap">
       <span id="updated"></span>
@@ -47,6 +55,6 @@
     </div>
   </footer>
 
-  <script src="app.js?v=4" defer></script>
+  <script src="app.js?v=5" defer></script>
 </body>
 </html>
