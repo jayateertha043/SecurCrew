@@ -7,6 +7,7 @@ const state = {
   items: [],
   source: "",
   query: "",
+  visibleDays: 1,
 };
 
 const el = {
@@ -16,6 +17,7 @@ const el = {
   updated: document.getElementById("updated"),
   search: document.getElementById("search"),
   sourceFilter: document.getElementById("sourceFilter"),
+  showMore: document.getElementById("showMore"),
 };
 
 async function load() {
@@ -83,11 +85,68 @@ function filtered() {
 
 function render() {
   const items = filtered();
-  el.grid.replaceChildren(...items.map(card));
-  el.empty.hidden = items.length !== 0;
-  if (items.length === 0 && state.items.length > 0) {
+  // While browsing (no search/source), page by day: show the latest day first
+  // and reveal older days via "Show more". Filtering shows all matches at once.
+  const paging = !state.query.trim() && !state.source;
+
+  let toShow = items;
+  let groups = [];
+  if (paging) {
+    groups = groupByDay(items);
+    toShow = groups.slice(0, state.visibleDays).flatMap((g) => g.items);
+  }
+
+  el.grid.replaceChildren(...toShow.map(card));
+  el.empty.hidden = toShow.length !== 0;
+  if (toShow.length === 0 && state.items.length > 0) {
     el.empty.textContent = "No stories match your filters.";
   }
+
+  if (paging && groups.length > state.visibleDays) {
+    const next = groups[state.visibleDays];
+    el.showMore.hidden = false;
+    el.showMore.textContent =
+      "Show " + dayLabel(next.key) + " (" + next.items.length + ")";
+  } else {
+    el.showMore.hidden = true;
+  }
+}
+
+function groupByDay(items) {
+  const groups = [];
+  const index = {};
+  for (const it of items) {
+    const key = dayKey(it);
+    if (!(key in index)) {
+      index[key] = groups.length;
+      groups.push({ key, items: [] });
+    }
+    groups[index[key]].items.push(it);
+  }
+  return groups;
+}
+
+function dayKey(item) {
+  const when = Number(item.published) || 0;
+  if (!when) return "undated";
+  const d = new Date(when * 1000);
+  return (
+    d.getFullYear() +
+    "-" +
+    String(d.getMonth() + 1).padStart(2, "0") +
+    "-" +
+    String(d.getDate()).padStart(2, "0")
+  );
+}
+
+function dayLabel(key) {
+  if (key === "undated") return "undated";
+  const [y, m, d] = key.split("-").map(Number);
+  return new Date(y, m - 1, d).toLocaleDateString(undefined, {
+    weekday: "short",
+    month: "short",
+    day: "numeric",
+  });
 }
 
 function card(item) {
@@ -176,10 +235,16 @@ function timeAgo(ms) {
 // Events
 el.search.addEventListener("input", (e) => {
   state.query = e.target.value;
+  state.visibleDays = 1;
   render();
 });
 el.sourceFilter.addEventListener("change", (e) => {
   state.source = e.target.value;
+  state.visibleDays = 1;
+  render();
+});
+el.showMore.addEventListener("click", () => {
+  state.visibleDays += 1;
   render();
 });
 

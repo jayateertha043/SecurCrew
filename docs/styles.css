@@ -183,6 +183,20 @@ body {
 
 .empty { text-align: center; color: var(--text-dim); padding: 60px 0; }
 
+.more-wrap { display: flex; justify-content: center; padding: 8px 0 40px; }
+.show-more {
+  background: var(--bg-elev);
+  border: 1px solid var(--border);
+  color: var(--text);
+  padding: 11px 22px;
+  border-radius: 999px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+.show-more:hover { border-color: var(--accent); color: var(--accent); }
+
 /* Footer */
 .site-footer {
   border-top: 1px solid var(--border);
