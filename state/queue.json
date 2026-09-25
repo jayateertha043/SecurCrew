@@ -5910,6 +5910,257 @@
         "#research"
       ],
       "title": "Analysis of CVE-2023-3519 in Citrix ADC and NetScaler Gateway"
+    },
+    {
+      "added_at": 1790262807.7785177,
+      "ai": true,
+      "id": "f08eddd0d2c7e58a53147fe516a3b42b260e3c8c",
+      "link": "https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html",
+      "published": 1790260146.0,
+      "source": "The Hacker News",
+      "summary": "An active ClickFix campaign compromised Ukrainian business websites, injecting fake Cloudflare verification pages to lure victims into downloading the Psychedelic information stealer.\nThe lure copies a Windows installer command to the clipboard, instructing users to paste it and run the malware.",
+      "tags": [],
+      "title": "Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer"
+    },
+    {
+      "added_at": 1790284629.5256302,
+      "ai": true,
+      "id": "84fafbac5110ff7bea94c5bbd10b3efc56e41908",
+      "link": "https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing",
+      "published": 1790283843.0,
+      "source": "darkreading",
+      "summary": "Salesforce agents can be abused to inject malicious instructions into Slack, enabling phishing via trusted channels. The attack uses Agentic AI to smuggle instructions across apps.",
+      "tags": [],
+      "title": "'Salesbleed' Exploits Salesforce Agents to Enable Slack Phishing"
+    },
+    {
+      "added_at": 1790284629.5256302,
+      "ai": true,
+      "id": "39bdbafbdf621d3ba674410e8d89b3adc2452d4e",
+      "link": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
+      "published": 1790283215.0,
+      "source": "BleepingComputer",
+      "summary": "MacSync variant targets macOS systems, using public iCloud calendar events to deliver native payloads. It exploits calendar sharing to spread malware.",
+      "tags": [],
+      "title": "MacSync malware uses public iCloud calendars to deliver new payloads"
+    },
+    {
+      "added_at": 1790284629.5256302,
+      "ai": true,
+      "id": "f0696e111afdafa00f0f52cd5b5581bd20a1cf55",
+      "link": "https://www.securityweek.com/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/",
+      "published": 1790282121.0,
+      "source": "SecurityWeek",
+      "summary": "Legal accountability for autonomous AI hacks remains unclear. Lawsuits are possible but criminal investigations face a high burden, according to experts.",
+      "tags": [],
+      "title": "Autonomous AI Hacks Raise Thorny Questions of Legal Accountability"
+    },
+    {
+      "added_at": 1790284629.5256302,
+      "ai": true,
+      "id": "29307ba54f729970076fcf9d670810911a18a5f7",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application",
+      "published": 1790281970.0,
+      "source": "darkreading",
+      "summary": "SectopRAT returns, disguised within legitimate software. The incident underscores the need to monitor application behavior rather than trust by default.",
+      "tags": [],
+      "title": "SectopRAT Returns, Hiding Inside a Legitimate Application"
+    },
+    {
+      "added_at": 1790284629.5256302,
+      "ai": true,
+      "id": "855eba475b9720c0b61ca76127a67b4619bbf75c",
+      "link": "https://therecord.media/russia-forensics-technology-doj",
+      "published": 1790281800.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "Two executives of a digital forensics firm were arrested for lying about Russian-made technology. The company supplied software to U.S. federal agencies.",
+      "tags": [
+        "#news"
+      ],
+      "title": "Digital forensics firm with US federal contracts covered up ties to Russia, DOJ alleges"
+    },
+    {
+      "added_at": 1790284629.5256302,
+      "ai": true,
+      "id": "c8649afdf5b874bfa43c6fd4c264b7b6a3c98356",
+      "link": "https://therecord.media/lawmakers-introduce-bill-for-voluntary-telecom-cyber-rules",
+      "published": 1790280900.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "Senators Warner and Cruz introduced the Telecommunications Cybersecurity and Resilience Act after Salt Typhoon attacks breached major U.S. telecoms.",
+      "tags": [
+        "#news"
+      ],
+      "title": "Lawmakers introduce bill for voluntary telecom cyber rules after Salt Typhoon hacks"
+    },
+    {
+      "added_at": 1790284629.5256302,
+      "ai": true,
+      "id": "81ef64c003d766d1bddecb4f1406009837f80f52",
+      "link": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
+      "published": 1790280648.0,
+      "source": "BleepingComputer",
+      "summary": "Carbonato botnet targets insecure Docker hosts, installs the Hermes Agent AI framework, and takes control. It exploits exposed Docker daemons.",
+      "tags": [],
+      "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts"
+    },
+    {
+      "added_at": 1790284629.5256302,
+      "ai": true,
+      "id": "48a24a4982ebc17093dce0725718d74e58982d37",
+      "link": "https://www.theregister.com/security/2026/09/24/salesforce-agentforce-vulns-allowed-0-click-crm-data-theft-anonymous-phishing/5298958",
+      "published": 1790276475.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "Salesforce Agentforce vulnerabilities enable 0‑click data theft and anonymous phishing. The flaws allow unexpected data exfiltration.",
+      "tags": [],
+      "title": "Salesforce Agentforce vulns allowed 0-click CRM data theft, anonymous phishing"
+    },
+    {
+      "added_at": 1790284629.5256302,
+      "ai": true,
+      "id": "c911831fbc1de3e98578b2ac7dd33ac1b2e5e3ea",
+      "link": "https://therecord.media/rydox-criminal-marketplace-operator-pleads-guilty",
+      "published": 1790276220.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "Ardit Kutleshi pleaded guilty after extradition from Kosovo. He co‑operated with his brother to run Rydox, a marketplace for stolen data and fraud tools.",
+      "tags": [
+        "#news"
+      ],
+      "title": "Rydox cybercriminal marketplace operator pleads guilty following co-conspirator brothers’s deportation"
+    },
+    {
+      "added_at": 1790284629.5256302,
+      "ai": true,
+      "id": "80b6e80c70459df094d34cbd16851611e8812ff8",
+      "link": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
+      "published": 1790273418.0,
+      "source": "The Hacker News",
+      "summary": "Unpatched vulnerabilities in OnePlus 15 allow malicious apps to gain root without permissions. The flaws affect other OnePlus and OPPO devices.",
+      "tags": [],
+      "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions"
+    },
+    {
+      "added_at": 1790284629.5256302,
+      "ai": true,
+      "id": "069523fec9499e1204e5d5a0004d65250b901cd1",
+      "link": "https://cyberscoop.com/new-bill-would-create-federal-investigative-body-for-ai-driven-hacks/",
+      "published": 1790273251.0,
+      "source": "CyberScoop",
+      "summary": "Congress proposes a Cybersecurity and AI Board of Investigations to oversee AI‑driven cyberattacks, led by Sen. Ed Markey, targeting incidents from companies like Anthropic and OpenAI.",
+      "tags": [],
+      "title": "New bill would create federal investigative body for AI-driven hacks"
+    },
+    {
+      "added_at": 1790284629.5256302,
+      "ai": true,
+      "id": "d5374ac44466d0dd2566476fd7c7c5ff783d5670",
+      "link": "https://blog.talosintelligence.com/trust-and-the-enticing-consultancy-offer/",
+      "published": 1790272837.0,
+      "source": "Cisco Talos Blog",
+      "summary": "Newsletter highlights suspicious social media elicitation and warns that hubris is a major vulnerability in the cyber ecosystem.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "Trust and the enticing consultancy offer"
+    },
+    {
+      "added_at": 1790284629.5256302,
+      "ai": true,
+      "id": "134d6f394c4baa39b289a36c312c7be89f390e96",
+      "link": "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html",
+      "published": 1790272363.0,
+      "source": "The Hacker News",
+      "summary": "ThreatsDay report details AI‑driven attacks such as search poisoning, code repository leaks, and one‑click code execution that exploit trusted user actions.",
+      "tags": [],
+      "title": "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories"
+    },
+    {
+      "added_at": 1790284629.5256302,
+      "ai": true,
+      "id": "bfbf7cb5870522d0565716d295b4a6c5fbeb2548",
+      "link": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
+      "published": 1790272064.0,
+      "source": "BleepingComputer",
+      "summary": "GitLab projects publicly expose developer email addresses in documentation, enabling attackers to push code or issues to repositories.",
+      "tags": [],
+      "title": "Exposed GitLab project email addresses let attackers push code"
+    },
+    {
+      "added_at": 1790284629.5256302,
+      "ai": true,
+      "id": "c57134fb82c14790e8d6d38e93e0137b44848022",
+      "link": "https://cyberscoop.com/oxygen-forensics-ceo-arrested-russian-ownership-fraud/",
+      "published": 1790269651.0,
+      "source": "CyberScoop",
+      "summary": "DOJ alleges a phone‑hacking firm with U.S. security contracts hid Russian ownership; its leaders face wire fraud charges.",
+      "tags": [],
+      "title": "Phone-hacking company that won U.S. security agency contracts hid Russian ownership, DOJ alleges"
+    },
+    {
+      "added_at": 1790284629.5256302,
+      "ai": true,
+      "id": "47f5fabf00fb46d812c38401db9fdc9be3ce3195",
+      "link": "https://www.theregister.com/security/2026/09/24/decades-old-file-security-flaws-found-in-android-linux-macos-and-windows/5298672",
+      "published": 1790269200.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "Researchers uncover long‑standing file event side‑channel leaks across Android, Linux, macOS, and Windows, with Microsoft acknowledging the design.",
+      "tags": [],
+      "title": "Decades-old file security flaws found in Android, Linux, macOS, and Windows"
+    },
+    {
+      "added_at": 1790284629.5256302,
+      "ai": true,
+      "id": "84b7313c26c3ad1c719fed343bc4fc0a1fe9afef",
+      "link": "https://www.theregister.com/os-platforms/2026/09/24/cve-flood-pushes-ubuntu-onto-weekly-kernel-release-cycle/5298912",
+      "published": 1790267580.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "Rapid CVE accumulation forces Canonical to shift Ubuntu kernel releases to a weekly cadence, driven by AI‑assisted vulnerability discovery.",
+      "tags": [],
+      "title": "CVE flood pushes Ubuntu onto weekly kernel release cycle"
+    },
+    {
+      "added_at": 1790284629.5256302,
+      "ai": true,
+      "id": "d3a63d20e0c7a53621ead4c5103c76e2079d395d",
+      "link": "https://www.securityweek.com/kontext-security-emerges-with-4-million-for-ai-agent-runtime-controls/",
+      "published": 1790265120.0,
+      "source": "SecurityWeek",
+      "summary": "Kontext Security raises $4M to build a runtime enforcement platform that monitors AI agents in real time, providing visibility and control.",
+      "tags": [],
+      "title": "Kontext Security Emerges With $4 Million for AI Agent Runtime Controls"
+    },
+    {
+      "added_at": 1790284629.5256302,
+      "ai": true,
+      "id": "5229719d60e41846ea7bb6629862d5752d4dc4c5",
+      "link": "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
+      "published": 1790263652.0,
+      "source": "The Hacker News",
+      "summary": "The placeholder domain third‑party[.]com, used in documentation, now serves a ClickFix lure to Windows browsers while showing a decoy to others.",
+      "tags": [],
+      "title": "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content"
+    },
+    {
+      "added_at": 1790284629.5256302,
+      "ai": true,
+      "id": "cf6699ade1fd81d412a153c495026d402970b91b",
+      "link": "https://www.theregister.com/security/2026/09/24/someone-went-shopping-in-asuss-eshop-for-customer-data/5298860",
+      "published": 1790262780.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "ASUS eShop breach exposed contact details and order records; the company has not disclosed the number of affected customers.",
+      "tags": [],
+      "title": "Someone went shopping in ASUS's eShop – for customer data"
+    },
+    {
+      "added_at": 1790284629.5256302,
+      "ai": true,
+      "id": "f6b5e79f4ed9767848cf18ed838ce030bc756c90",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/3-cyber-threats-defined-summer-2026",
+      "published": 1790261052.0,
+      "source": "darkreading",
+      "summary": "The Reporters' Notebook series highlights three major 2026 cyber incidents: AI agents breached Hugging Face.\nFairlife suffered a ransomware attack.\nIranian-linked actors compromised a dozen U.S. water systems.",
+      "tags": [],
+      "title": "3 Cyber Threats That Defined the Summer of 2026"
     }
   ],
   "posted": []
