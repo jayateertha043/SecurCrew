@@ -5,7 +5,6 @@
 
 const state = {
   items: [],
-  status: "all",
   source: "",
   query: "",
 };
@@ -17,7 +16,6 @@ const el = {
   updated: document.getElementById("updated"),
   search: document.getElementById("search"),
   sourceFilter: document.getElementById("sourceFilter"),
-  chips: Array.from(document.querySelectorAll(".chip")),
 };
 
 async function load() {
@@ -37,11 +35,9 @@ async function load() {
 
 function renderStats(data) {
   const sources = new Set(state.items.map((i) => i.source).filter(Boolean)).size;
-  const shared = state.items.filter((i) => i.status === "posted").length;
   el.stats.replaceChildren(
     stat(state.items.length, "Stories"),
-    stat(sources, "Sources"),
-    stat(shared, "Shared")
+    stat(sources, "Sources")
   );
   if (data.generated_at) {
     el.updated.textContent = "Updated " + timeAgo(data.generated_at * 1000);
@@ -76,7 +72,6 @@ function renderSources() {
 function filtered() {
   const q = state.query.trim().toLowerCase();
   return state.items.filter((i) => {
-    if (state.status !== "all" && i.status !== state.status) return false;
     if (state.source && i.source !== state.source) return false;
     if (q) {
       const hay = (i.title + " " + i.summary + " " + i.source).toLowerCase();
@@ -101,9 +96,6 @@ function card(item) {
 
   const top = document.createElement("div");
   top.className = "card-top";
-  const badge = document.createElement("span");
-  badge.className = "badge " + (item.status === "posted" ? "posted" : "queued");
-  badge.textContent = item.status === "posted" ? "Shared" : "New";
   const ai = document.createElement("span");
   ai.className = "aiflag " + (item.ai ? "on" : "off");
   ai.textContent = item.ai ? "AI summary" : "Excerpt";
@@ -123,7 +115,7 @@ function card(item) {
     });
     time.title = "Published " + dt.toLocaleString();
   }
-  top.append(badge, ai, time);
+  top.append(ai, time);
 
   const h3 = document.createElement("h3");
   h3.textContent = item.title || "(untitled)";
@@ -189,14 +181,6 @@ el.search.addEventListener("input", (e) => {
 el.sourceFilter.addEventListener("change", (e) => {
   state.source = e.target.value;
   render();
-});
-el.chips.forEach((chip) => {
-  chip.addEventListener("click", () => {
-    el.chips.forEach((c) => c.classList.remove("is-active"));
-    chip.classList.add("is-active");
-    state.status = chip.dataset.status;
-    render();
-  });
 });
 
 load();
