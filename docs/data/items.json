@@ -1,7 +1,87 @@
 {
-  "generated_at": 1790370884.6223984,
-  "count": 194,
+  "generated_at": 1790420438.6743426,
+  "count": 190,
   "items": [
+    {
+      "title": "OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure",
+      "summary": "OpenAI acknowledges that its agents accessed U.S. government websites during training and evaluation. The company is conducting an extensive review of its internet‑access policies.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/",
+      "published": 1790417741.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790420438.6574216
+    },
+    {
+      "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
+      "summary": "CISA added a code‑injection flaw in Microsoft SharePoint (CVE‑2026‑65660) and a vulnerability in MikroTik RouterOS to its Known Exploited Vulnerabilities catalog. Evidence indicates these flaws are being actively exploited.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
+      "published": 1790412593.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790420438.6574216
+    },
+    {
+      "title": "Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack",
+      "summary": "Kiteworks requests customers to shut down their systems for nine hours as a precaution after receiving credible threat intelligence of a potential cyber attack. The shutdown is intended to mitigate risk.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html",
+      "published": 1790408913.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790420438.6574216
+    },
+    {
+      "title": "3 Consulting Myths Debunked by Unit 42 Experts",
+      "summary": "Unit 42 experts debunk three common consulting myths, providing practical insights to help organizations strengthen their cybersecurity posture.",
+      "source": "Unit 42",
+      "link": "https://unit42.paloaltonetworks.com/3-consulting-myths-debunked-by-unit-42-experts/",
+      "published": 1790377228.0,
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790420438.6574216
+    },
+    {
+      "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
+      "summary": "An Army soldier was sentenced to 70 months in federal prison and ordered to pay nearly $300,000 restitution after hacking AT&T and Verizon and stealing metadata from over 100 million customers.",
+      "source": "Krebs on Security",
+      "link": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
+      "published": 1790372680.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790420438.6574216
+    },
+    {
+      "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
+      "summary": "Kiteworks advises customers worldwide to shut down servers for a six‑hour window following threat intelligence about a possible zero‑day attack.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
+      "published": 1790372467.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790420438.6574216
+    },
+    {
+      "title": "Army soldier sentenced for spree of attacks on AT&T, Snowflake and other major companies",
+      "summary": "Army soldier Cameron Wagenius was sentenced for a series of attacks on AT&T, Snowflake, and other major companies, highlighting the high‑profile cyber incidents of 2024.",
+      "source": "CyberScoop",
+      "link": "https://cyberscoop.com/cameron-wagenius-att-snowflake-attacks-sentenced/",
+      "published": 1790371716.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790420438.6574216
+    },
     {
       "title": "Friday Squid Blogging: Participatory Squid Dissection in October in Tennessee",
       "summary": "Families invited to Hands‑On Science Center in Tennessee for a participatory squid dissection event. The program offers an interactive lesson on marine biology and squid anatomy for all ages.",
@@ -479,6 +559,17 @@
       "ai": true,
       "status": "queued",
       "ts": 1790335502.1945016
+    },
+    {
+      "title": "Is that vibe coded app safe? 5 checks before you download",
+      "summary": "The article presents five checks to evaluate the safety of new AI‑built applications before download, helping users protect their data.",
+      "source": "WeLiveSecurity",
+      "link": "https://www.welivesecurity.com/en/mobile-security/is-new-vibe-coded-app-safe-5-questions-ask-first/",
+      "published": 1790326800.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790420438.6574216
     },
     {
       "title": "Researchers Identify AliExpress Phishing Domains Before Registration",
@@ -2061,140 +2152,6 @@
       "ai": false,
       "status": "queued",
       "ts": 1790254808.6060636
-    },
-    {
-      "title": "ShinyHunters Claims FBI Hack Via PeopleSoft Zero Day",
-      "summary": "Infamous threat group ShinyHunters claims to have personal information on thousands of FBI employees",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/shinyhunters-fbi-hack-peoplesoft/",
-      "published": 1790157600.0,
-      "tags": [],
-      "ai": false,
-      "status": "queued",
-      "ts": 1790255807.1481917
-    },
-    {
-      "title": "CVE-2026-94127: Critical Unauthenticated RCE in F5 BIG-IP APM",
-      "summary": "<h2 style=\"direction: ltr;\">Overview</h2><p style=\"direction: ltr;\"><span style=\"font-size: undefined;\">On September 22, 2026, F5 published a security </span><a href=\"https://my.f5.com/manage/s/article/K000162605\"><span…",
-      "source": "Rapid7 Cybersecurity Blog",
-      "link": "https://www.rapid7.com/blog/post/etr-cve-2026-94127-critical-unauthenticated-rce-in-f5-big-ip-apm",
-      "published": 1790153019.0,
-      "tags": [
-        "#vulnerability"
-      ],
-      "ai": false,
-      "status": "queued",
-      "ts": 1790254808.6060636
-    },
-    {
-      "title": "EU Auditors Warn Information-Sharing Gaps Are Hindering Cyber Incident Response",
-      "summary": "The EU Court of Auditors has criticized EU shortcomings in responding to major cyber incidents",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/eu-auditors-slam-blocs-cyberinfo/",
-      "published": 1790152200.0,
-      "tags": [],
-      "ai": false,
-      "status": "queued",
-      "ts": 1790255807.1481917
-    },
-    {
-      "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers",
-      "summary": "Attackers are exploiting a critical flaw in F5 BIG-IP Access Policy Manager (APM) that lets them run code on a BIG-IP system without logging in, F5 says. The flaw, CVE-2026-94127, affects only systems in which APM…",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
-      "published": 1790152188.0,
-      "tags": [],
-      "ai": false,
-      "status": "queued",
-      "ts": 1790255807.1481917
-    },
-    {
-      "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware",
-      "summary": "A Chinese threat actor codenamed UTA0565 has been observed exploiting the recently disclosed Google Chrome-Microsoft Windows exploit chain as zero-days through fake websites. The attacks, detected on September 3 and 4,…",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html",
-      "published": 1790152164.0,
-      "tags": [],
-      "ai": false,
-      "status": "queued",
-      "ts": 1790255807.1481917
-    },
-    {
-      "title": "Ryuk ransomware member sentenced to 24 months in prison",
-      "summary": "An Armenian man was sentenced to 24 months in prison and 3 years of supervised release for hacking U.S. companies and encrypting their systems in Ryuk ransomware attacks. [...]",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/",
-      "published": 1790151605.0,
-      "tags": [],
-      "ai": false,
-      "status": "queued",
-      "ts": 1790255807.1481917
-    },
-    {
-      "title": "Why security belongs in the network",
-      "summary": "SPONSORED EXPLAINER: Merging security into the network makes enterprise protection more agile",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/security/2026/09/23/sponsored-why-security-belongs-in-the-network/5296790",
-      "published": 1790150400.0,
-      "tags": [],
-      "ai": false,
-      "status": "queued",
-      "ts": 1790255807.1481917
-    },
-    {
-      "title": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
-      "summary": "F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/",
-      "published": 1790147843.0,
-      "tags": [],
-      "ai": false,
-      "status": "queued",
-      "ts": 1790255807.1481917
-    },
-    {
-      "title": "Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input",
-      "summary": "A new security vulnerability in Next.js could allow attackers to run code on a server via ImageResponse, the feature that generates Open Graph and other social preview images, Vercel said. The risk applies when an app…",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html",
-      "published": 1790147080.0,
-      "tags": [],
-      "ai": false,
-      "status": "queued",
-      "ts": 1790255807.1481917
-    },
-    {
-      "title": "ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants",
-      "summary": "The cyber extortion group known as ShinyHunters on Tuesday claimed it had breached the U.S. Federal Bureau of Investigation and stolen data belonging to current and former employees at the agency. \"We have compromised…",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html",
-      "published": 1790141409.0,
-      "tags": [],
-      "ai": false,
-      "status": "queued",
-      "ts": 1790255807.1481917
-    },
-    {
-      "title": "ShinyHunters claims attack on FBI exposes almost all agents",
-      "summary": "<p>The FBI jobs site, which was temporarily defaced, remains unavailable and the agency said it’s investigating the claims.</p> <p>The post <a href=\"https://cyberscoop.com/shinyhunters-claims-fbi-attack/\">ShinyHunters…",
-      "source": "CyberScoop",
-      "link": "https://cyberscoop.com/shinyhunters-claims-fbi-attack/",
-      "published": 1790120863.0,
-      "tags": [],
-      "ai": false,
-      "status": "queued",
-      "ts": 1790255807.1481917
-    },
-    {
-      "title": "Windows CLOSEDQUORUM malware uses AI models to autonomously select post-compromise actions",
-      "summary": "'first' publicly documented Windows implant to use LLMs for C2",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/security/2026/09/22/windows-closedquorum-malware-uses-ai-models-to-autonomously-select-post-compromise-actions/5298435",
-      "published": 1790112809.0,
-      "tags": [],
-      "ai": false,
-      "status": "queued",
-      "ts": 1790255807.1481917
     }
   ]
 }
