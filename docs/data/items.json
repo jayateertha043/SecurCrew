@@ -1,7 +1,40 @@
 {
-  "generated_at": 1790455622.1195335,
-  "count": 99,
+  "generated_at": 1790509155.0987248,
+  "count": 56,
   "items": [
+    {
+      "title": "Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks",
+      "summary": "Microsoft SharePoint vulnerability CVE-2026-65660 is actively exploited. CISA has added it to its KEV catalog and set a federal patch deadline of September 28, urging agencies to apply the fix promptly.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/",
+      "published": 1790500989.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790509155.0894797
+    },
+    {
+      "title": "Week in review: Gyazo breach exposes 23.6M user data, TASK#STOMP steals documents",
+      "summary": "Gyazo breach exposed 23.6 million user records, and TASK#STOMP has been reported to steal documents. The article also discusses SAP ECC migration testing and extended support options.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/09/27/week-in-review-gyazo-breach-exposes-23-6m-user-data-taskstomp-steals-documents/",
+      "published": 1790496049.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790509155.0894797
+    },
+    {
+      "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
+      "summary": "Two unpatched zero‑day RCE vulnerabilities in Citrix NetScaler ADC and Gateway are actively exploited. Citrix has not confirmed the flaws or released a patch, leading some administrators to take appliances offline.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
+      "published": 1790495277.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790509155.0894797
+    },
     {
       "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
       "summary": "ShinyHunters employs a URL‑encoding trick to bypass web application firewalls and exploit the Oracle PeopleSoft CVE‑2026‑35273 vulnerability. The technique allows the gang to resume widespread attacks on vulnerable servers.",
@@ -581,96 +614,6 @@
       "ts": 1790370884.605104
     },
     {
-      "title": "On Anthropic’s AI Misuse Report",
-      "summary": "Anthropic released a report on Claude misuses with 117 findings. Highlights include AI agents conducting reconnaissance, exploitation, data theft, propaganda, surveillance, and research while humans set targets and review outputs.",
-      "source": "Schneier on Security",
-      "link": "https://www.schneier.com/blog/archives/2026/09/on-anthropics-ai-misuse-report.html",
-      "published": 1790334442.0,
-      "tags": [
-        "#opinion"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790335502.1945016
-    },
-    {
-      "title": "Windows, Linux, Android File Notification Systems Leak User Activity",
-      "summary": "Researchers discovered that file-change notification systems on Windows, Linux, and Android can leak keystroke timing, browsing activity, and WhatsApp media events.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/windows-linux-android-file-notification-systems-leak-user-activity/",
-      "published": 1790333612.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790335502.1945016
-    },
-    {
-      "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
-      "summary": "Bitget announced that suspected North Korean threat actors stole $351.6 million from hot wallets. Cold wallets and most platform assets remain secure.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
-      "published": 1790332555.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790335502.1945016
-    },
-    {
-      "title": "Microsoft: Recent Windows updates cause desktop loading issues",
-      "summary": "Microsoft confirmed that August 2026 preview updates caused desktop loading issues, including black screens, for some users.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/",
-      "published": 1790332238.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790335502.1945016
-    },
-    {
-      "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
-      "summary": "The Canadian Centre for Cyber Security warned that Roundcube Webmail CVE‑2026‑48842, a pre‑authentication SQL injection, is actively exploited in the wild despite being patched.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
-      "published": 1790331242.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790335502.1945016
-    },
-    {
-      "title": "RemControl Banking Trojan Gives Attackers Remote Control of Android Devices",
-      "summary": "RemControl Banking Trojan uses the Android Accessibility Service to gain remote control of devices and harvest banking credentials.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/banking-trojan-remote-control/",
-      "published": 1790328600.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790335502.1945016
-    },
-    {
-      "title": "‘SalesBleed’ Flaws in Salesforce Agentforce Enabled Zero-Click Data Exfiltration",
-      "summary": "Three Salesforce Agentforce vulnerabilities, dubbed SalesBleed, enable zero‑click data exfiltration, agent hijacking, and phishing attacks.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/salesbleed-flaws-in-salesforce-agentforce-enabled-zero-click-data-exfiltration/",
-      "published": 1790328471.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790335502.1945016
-    },
-    {
-      "title": "MacSync info-stealing malware hides malicious commands in an iCloud calendar",
-      "summary": "MacSync infostealer hides malicious commands in an iCloud calendar, spreads via the Toria crypto wallet app, and steals credentials, crypto wallet data, and files.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/09/25/macsync-info-stealing-malware-for-macos/",
-      "published": 1790328165.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790335502.1945016
-    },
-    {
       "title": "Is that vibe coded app safe? 5 checks before you download",
       "summary": "The article presents five checks to evaluate the safety of new AI‑built applications before download, helping users protect their data.",
       "source": "WeLiveSecurity",
@@ -680,160 +623,6 @@
       "ai": true,
       "status": "queued",
       "ts": 1790420438.6574216
-    },
-    {
-      "title": "Researchers Identify AliExpress Phishing Domains Before Registration",
-      "summary": "EfficientIP flagged AliExpress phishing domains before they were registered, allowing early detection of phishing campaigns.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/aliexpress-phishing-flagged-early/",
-      "published": 1790325000.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790335502.1945016
-    },
-    {
-      "title": "Docker introduces OCI-based Kits to package agents and their guardrails",
-      "summary": "Docker introduced Docker Cloud Sandboxes, OCI‑based kits that enable secure, isolated AI agent execution in the cloud, allowing agentic workflows to run at scale without developer hardware.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/09/25/docker-launches-cloud-sandboxes/",
-      "published": 1790323070.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790335502.1945016
-    },
-    {
-      "title": "Fake payroll desktop apps hand attackers a route to company paychecks",
-      "summary": "Attacker distributes fake desktop apps for major US payroll/HR platforms.\nInstallers embed ScreenConnect remote access tool, enabling covert control.\nAllure Security identified the scheme.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/09/25/fake-payroll-desktop-apps-screenconnect/",
-      "published": 1790322771.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790335502.1945016
-    },
-    {
-      "title": "Abnormal AI brings governance, cloud security, and threat investigation into one suite",
-      "summary": "Abnormal AI expands its AI Security suite with Governance, Cloud Security, and new products like AI Employee Guardrails and AI Agent.\nThe suite aims to secure AI adoption and mitigate AI-generated threats.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/09/25/abnormal-ai-governance/",
-      "published": 1790322385.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790335502.1945016
-    },
-    {
-      "title": "SentinelOne extends Wayfinder coverage across endpoints, identities, and cloud workloads",
-      "summary": "SentinelOne extends Wayfinder Threat Hunting to AWS, Azure, and Google Cloud.\nCombines AI telemetry with human hunting to protect endpoints, identities, and cloud workloads.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/09/25/sentinelone-extends-wayfinder-threat-hunting/",
-      "published": 1790321784.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790335502.1945016
-    },
-    {
-      "title": "Dataiku Agent Management reveals unmonitored AI agents",
-      "summary": "Dataiku launches Agent Management to inventory AI agents across platforms, measure performance, and flag high-risk agents.\nAddresses visibility gaps in rapid AI adoption.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/09/25/dataiku-agent-management/",
-      "published": 1790321411.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790335502.1945016
-    },
-    {
-      "title": "Russia's Hybrid Cyber-Physical War in Europe Heats Up",
-      "summary": "Russia intensifies hybrid cyber-physical attacks on European nations supporting Ukraine, using sabotage, disinformation, and drone strikes.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/physical-security/russia-hybrid-cyber-physical-war-europe",
-      "published": 1790319600.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790335502.1945016
-    },
-    {
-      "title": "Roundcube Webmail Vulnerability in Attackers’ Crosshairs",
-      "summary": "CVE-2026-48842 is an unauthenticated SQL injection in Roundcube Webmail.\nAttackers can exploit the flaw without needing credentials.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/",
-      "published": 1790319460.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790335502.1945016
-    },
-    {
-      "title": "Stop watching what AI agents say and start watching what they do",
-      "summary": "Coralogix CEO Ariel Assaraf explains that system prompts cannot enforce boundaries; execution-layer guardrails limit context and authority.\nRisk-based controls keep agents useful during incidents.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/09/25/ariel-assaraf-coralogix-ai-agent-guardrails/",
-      "published": 1790314202.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790335502.1945016
-    },
-    {
-      "title": "Half of threat hunters say bad data is their biggest problem",
-      "summary": "SANS 2026 Threat Hunting Survey finds 50% of hunters cite poor data quality/quantity as biggest obstacle.\nGaps in cloud logging and identity telemetry are most common.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/09/25/sans-threat-hunting-data-quality/",
-      "published": 1790312456.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790335502.1945016
-    },
-    {
-      "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
-      "summary": "Cloudflare Containers flaw allowed a customer to read leftover disk data from previous containers on the same server.\nThe data was from abandoned storage, not live workloads.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
-      "published": 1790311762.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790335502.1945016
-    },
-    {
-      "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV",
-      "summary": "CISA added critical vulnerabilities CVE-2026-5430 (WSO2 API Control Plane path traversal) and a flaw in Adobe Commerce/Magento to its Known Exploited Vulnerabilities catalog after evidence of active exploitation.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
-      "published": 1790311594.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790335502.1945016
-    },
-    {
-      "title": "Your incident count is missing a few incidents",
-      "summary": "VikingCloud surveyed 200 security and IT leaders across the U.S. and Europe. None of the 13 security technologies measured reduced incident spread between sites, nor did real‑time visibility.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/09/25/eu-usa-retail-chain-cyberattacks/",
-      "published": 1790310626.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790335502.1945016
-    },
-    {
-      "title": "New infosec products of the month: September 2026",
-      "summary": "September 2026 infosec product roundup includes releases from 15 vendors, including Ping Identity’s enterprise security for personal AI agents. The announcement highlights an end‑to‑end approach that combines discovery, ...",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/09/25/new-infosec-products-of-the-month-september-2026/",
-      "published": 1790308828.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790335502.1945016
     },
     {
       "title": "Intigriti Bug Bytes #240 - September 2026 🚀",
@@ -847,279 +636,6 @@
       "ai": true,
       "status": "queued",
       "ts": 1790370884.605104
-    },
-    {
-      "title": "Crook used three open source agents to break into a Fortune 500 hospitality company, a major US airline and 25+ other orgs",
-      "summary": "A cybercriminal used three open‑source agents to compromise a Fortune 500 hospitality company, a major U.S. airline, and more than 25 other organizations. The operator’s AI bill averaged $25 per completed scan.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/security/2026/09/25/crook-used-three-open-source-agents-to-break-into-a-fortune-500-hospitality-company-a-major-us-airline-and-25-other-orgs/5299012",
-      "published": 1790292735.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790335502.1945016
-    },
-    {
-      "title": "House and Senate members propose legislation for CISA to step up cyber defenses for biotech",
-      "summary": "Bipartisan lawmakers propose legislation to give biotechnology critical‑infrastructure status and strengthen cyber defenses through CISA. The bill aims to protect biotech assets from cyber threats.",
-      "source": "CyberScoop",
-      "link": "https://cyberscoop.com/biotech-critical-infrastructure-cybersecurity-legislation/",
-      "published": 1790285020.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790335502.1945016
-    },
-    {
-      "title": "'Salesbleed' Exploits Salesforce Agents to Enable Slack Phishing",
-      "summary": "Salesforce agents can be abused to inject malicious instructions into Slack, enabling phishing via trusted channels. The attack uses Agentic AI to smuggle instructions across apps.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing",
-      "published": 1790283843.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790284629.5256302
-    },
-    {
-      "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
-      "summary": "MacSync variant targets macOS systems, using public iCloud calendar events to deliver native payloads. It exploits calendar sharing to spread malware.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
-      "published": 1790283215.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790284629.5256302
-    },
-    {
-      "title": "Autonomous AI Hacks Raise Thorny Questions of Legal Accountability",
-      "summary": "Legal accountability for autonomous AI hacks remains unclear. Lawsuits are possible but criminal investigations face a high burden, according to experts.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/",
-      "published": 1790282121.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790284629.5256302
-    },
-    {
-      "title": "SectopRAT Returns, Hiding Inside a Legitimate Application",
-      "summary": "SectopRAT returns, disguised within legitimate software. The incident underscores the need to monitor application behavior rather than trust by default.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application",
-      "published": 1790281970.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790284629.5256302
-    },
-    {
-      "title": "Digital forensics firm with US federal contracts covered up ties to Russia, DOJ alleges",
-      "summary": "Two executives of a digital forensics firm were arrested for lying about Russian-made technology. The company supplied software to U.S. federal agencies.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/russia-forensics-technology-doj",
-      "published": 1790281800.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790284629.5256302
-    },
-    {
-      "title": "Lawmakers introduce bill for voluntary telecom cyber rules after Salt Typhoon hacks",
-      "summary": "Senators Warner and Cruz introduced the Telecommunications Cybersecurity and Resilience Act after Salt Typhoon attacks breached major U.S. telecoms.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/lawmakers-introduce-bill-for-voluntary-telecom-cyber-rules",
-      "published": 1790280900.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790284629.5256302
-    },
-    {
-      "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
-      "summary": "Carbonato botnet targets insecure Docker hosts, installs the Hermes Agent AI framework, and takes control. It exploits exposed Docker daemons.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
-      "published": 1790280648.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790284629.5256302
-    },
-    {
-      "title": "Salesforce Agentforce vulns allowed 0-click CRM data theft, anonymous phishing",
-      "summary": "Salesforce Agentforce vulnerabilities enable 0‑click data theft and anonymous phishing. The flaws allow unexpected data exfiltration.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/security/2026/09/24/salesforce-agentforce-vulns-allowed-0-click-crm-data-theft-anonymous-phishing/5298958",
-      "published": 1790276475.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790284629.5256302
-    },
-    {
-      "title": "Rydox cybercriminal marketplace operator pleads guilty following co-conspirator brothers’s deportation",
-      "summary": "Ardit Kutleshi pleaded guilty after extradition from Kosovo. He co‑operated with his brother to run Rydox, a marketplace for stolen data and fraud tools.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/rydox-criminal-marketplace-operator-pleads-guilty",
-      "published": 1790276220.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790284629.5256302
-    },
-    {
-      "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
-      "summary": "Unpatched vulnerabilities in OnePlus 15 allow malicious apps to gain root without permissions. The flaws affect other OnePlus and OPPO devices.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
-      "published": 1790273418.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790284629.5256302
-    },
-    {
-      "title": "New bill would create federal investigative body for AI-driven hacks",
-      "summary": "Congress proposes a Cybersecurity and AI Board of Investigations to oversee AI‑driven cyberattacks, led by Sen. Ed Markey, targeting incidents from companies like Anthropic and OpenAI.",
-      "source": "CyberScoop",
-      "link": "https://cyberscoop.com/new-bill-would-create-federal-investigative-body-for-ai-driven-hacks/",
-      "published": 1790273251.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790284629.5256302
-    },
-    {
-      "title": "Trust and the enticing consultancy offer",
-      "summary": "Newsletter highlights suspicious social media elicitation and warns that hubris is a major vulnerability in the cyber ecosystem.",
-      "source": "Cisco Talos Blog",
-      "link": "https://blog.talosintelligence.com/trust-and-the-enticing-consultancy-offer/",
-      "published": 1790272837.0,
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790284629.5256302
-    },
-    {
-      "title": "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories",
-      "summary": "ThreatsDay report details AI‑driven attacks such as search poisoning, code repository leaks, and one‑click code execution that exploit trusted user actions.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html",
-      "published": 1790272363.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790284629.5256302
-    },
-    {
-      "title": "Exposed GitLab project email addresses let attackers push code",
-      "summary": "GitLab projects publicly expose developer email addresses in documentation, enabling attackers to push code or issues to repositories.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
-      "published": 1790272064.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790284629.5256302
-    },
-    {
-      "title": "Phone-hacking company that won U.S. security agency contracts hid Russian ownership, DOJ alleges",
-      "summary": "DOJ alleges a phone‑hacking firm with U.S. security contracts hid Russian ownership; its leaders face wire fraud charges.",
-      "source": "CyberScoop",
-      "link": "https://cyberscoop.com/oxygen-forensics-ceo-arrested-russian-ownership-fraud/",
-      "published": 1790269651.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790284629.5256302
-    },
-    {
-      "title": "Decades-old file security flaws found in Android, Linux, macOS, and Windows",
-      "summary": "Researchers uncover long‑standing file event side‑channel leaks across Android, Linux, macOS, and Windows, with Microsoft acknowledging the design.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/security/2026/09/24/decades-old-file-security-flaws-found-in-android-linux-macos-and-windows/5298672",
-      "published": 1790269200.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790284629.5256302
-    },
-    {
-      "title": "CVE flood pushes Ubuntu onto weekly kernel release cycle",
-      "summary": "Rapid CVE accumulation forces Canonical to shift Ubuntu kernel releases to a weekly cadence, driven by AI‑assisted vulnerability discovery.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/os-platforms/2026/09/24/cve-flood-pushes-ubuntu-onto-weekly-kernel-release-cycle/5298912",
-      "published": 1790267580.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790284629.5256302
-    },
-    {
-      "title": "Kontext Security Emerges With $4 Million for AI Agent Runtime Controls",
-      "summary": "Kontext Security raises $4M to build a runtime enforcement platform that monitors AI agents in real time, providing visibility and control.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/kontext-security-emerges-with-4-million-for-ai-agent-runtime-controls/",
-      "published": 1790265120.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790284629.5256302
-    },
-    {
-      "title": "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content",
-      "summary": "The placeholder domain third‑party[.]com, used in documentation, now serves a ClickFix lure to Windows browsers while showing a decoy to others.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
-      "published": 1790263652.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790284629.5256302
-    },
-    {
-      "title": "Someone went shopping in ASUS's eShop – for customer data",
-      "summary": "ASUS eShop breach exposed contact details and order records; the company has not disclosed the number of affected customers.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/security/2026/09/24/someone-went-shopping-in-asuss-eshop-for-customer-data/5298860",
-      "published": 1790262780.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790284629.5256302
-    },
-    {
-      "title": "3 Cyber Threats That Defined the Summer of 2026",
-      "summary": "The Reporters' Notebook series highlights three major 2026 cyber incidents: AI agents breached Hugging Face.\nFairlife suffered a ransomware attack.\nIranian-linked actors compromised a dozen U.S. water systems.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/3-cyber-threats-defined-summer-2026",
-      "published": 1790261052.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790284629.5256302
-    },
-    {
-      "title": "Been told to pay at a Bitcoin ATM? Read this first",
-      "summary": "Crypto ATM scams follow a predictable script. The article explains how to recognize such scams and what steps to take if you have already been caught.",
-      "source": "WeLiveSecurity",
-      "link": "https://www.welivesecurity.com/en/scams/been-told-pay-bitcoin-atm-read-first/",
-      "published": 1790240400.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790335502.1945016
     }
   ]
 }
