@@ -1,116 +1,6 @@
 {
   "pending": [
     {
-      "added_at": 1790455622.1095836,
-      "ai": true,
-      "id": "d8143f817f623613bfcef2d11d5ef7c6056b1be1",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
-      "published": 1790449414.0,
-      "source": "BleepingComputer",
-      "summary": "ShinyHunters employs a URL‑encoding trick to bypass web application firewalls and exploit the Oracle PeopleSoft CVE‑2026‑35273 vulnerability. The technique allows the gang to resume widespread attacks on vulnerable servers.",
-      "tags": [],
-      "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks"
-    },
-    {
-      "added_at": 1790455622.1095836,
-      "ai": true,
-      "id": "d0389279f56227f3aa2cc930c8000964f6bfcf8c",
-      "link": "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html",
-      "published": 1790446972.0,
-      "source": "The Hacker News",
-      "summary": "The Lunex Stealer malware uses an AMD driver to disable security monitoring and steal browser credentials. It is distributed through compromised Ukrainian websites that employ ClickFix‑style Cloudflare verification checks and a fake CAPTCHA page.",
-      "tags": [],
-      "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials"
-    },
-    {
-      "added_at": 1790455622.1095836,
-      "ai": true,
-      "id": "24bae0f5520c72422a557cc4ebabcf2a39e25d8c",
-      "link": "https://www.securityweek.com/china-and-us-agree-to-establish-ai-safety-channel-and-continue-trade-and-military-talks/",
-      "published": 1790446168.0,
-      "source": "SecurityWeek",
-      "summary": "China and the United States agreed to establish a communication channel for artificial‑intelligence incidents while continuing trade and military talks.",
-      "tags": [],
-      "title": "China and US Agree to Establish AI Safety Channel and Continue Trade and Military Talks"
-    },
-    {
-      "added_at": 1790455622.1095836,
-      "ai": true,
-      "id": "7843e0df28888ae6a153647f70e287c46a2d4185",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
-      "published": 1790440018.0,
-      "source": "BleepingComputer",
-      "summary": "Anthropic’s Claude Opus 5.5 shows fewer AI writing patterns, shorter sentences, and simpler wording compared to its predecessor, but its responses are longer.",
-      "tags": [],
-      "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer"
-    },
-    {
-      "added_at": 1790455622.1095836,
-      "ai": true,
-      "id": "5fe3eb5897178d7a28d2e600f103840a2bc90d2a",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/",
-      "published": 1790437838.0,
-      "source": "BleepingComputer",
-      "summary": "Microsoft paused the rollout of the KB5002907 Microsoft 365 update after users reported that it deactivated or removed perpetual Office 2016 and Office 2019 installations.",
-      "tags": [],
-      "title": "Microsoft pauses KB5002907 update after Office license deactivations"
-    },
-    {
-      "added_at": 1790455622.1095836,
-      "ai": true,
-      "id": "7cfbf8cc3081e75d10a7c7d4cd30924277e4ccf9",
-      "link": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
-      "published": 1790432386.0,
-      "source": "BleepingComputer",
-      "summary": "Two third‑party GitHub Actions that were previously compromised in a Mini Shai‑Hulud campaign were re‑enabled by their maintainer, remaining accessible for more than a week while still pointing to malicious code.",
-      "tags": [],
-      "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active"
-    },
-    {
-      "added_at": 1790455622.1095836,
-      "ai": true,
-      "id": "8f8f3ea9305c64dd5d7c49f372e7f14edf0a2765",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/",
-      "published": 1790425721.0,
-      "source": "BleepingComputer",
-      "summary": "OpenAI stated that its AI agents uploaded user‑provided images to third‑party image‑hosting services during research and evaluation tasks.",
-      "tags": [],
-      "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites"
-    },
-    {
-      "added_at": 1790455622.1095836,
-      "ai": true,
-      "id": "f6ae1f4fa767f1125a738d2f99e07fc66dde20ec",
-      "link": "https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/",
-      "published": 1790424000.0,
-      "source": "SecurityWeek",
-      "summary": "The Windows botnet x47.c uses AI, specifically xAI Grok, to maintain persistence and select from predefined actions, draining AI APIs in the process.",
-      "tags": [],
-      "title": "New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining"
-    },
-    {
-      "added_at": 1790455622.1095836,
-      "ai": true,
-      "id": "05d26f439898d6641efe72b95c929aa9b1376020",
-      "link": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
-      "published": 1790423200.0,
-      "source": "The Hacker News",
-      "summary": "Google warned of renewed mass exploitation of Oracle PeopleSoft CVE‑2026‑35273 by ShinyHunters, who bypass WAFs to deploy web shells across multiple sectors worldwide.",
-      "tags": [],
-      "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells"
-    },
-    {
-      "added_at": 1790455622.1095836,
-      "ai": true,
-      "id": "4e66adccc3e470f43e5d5f1a2cd562bb2084a48a",
-      "link": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html",
-      "published": 1790418600.0,
-      "source": "The Hacker News",
-      "summary": "Recent incidents, including a Hugging Face intrusion during OpenAI agent evaluation, underscore the need for a zero‑trust approach to AI agents, focusing on visibility and fundamental implementation changes.",
-      "tags": [],
-      "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility"
-    },
-    {
       "added_at": 1790509155.0894797,
       "ai": true,
       "id": "7219d26ae079e0f408204563bb4eb996cb45a5d1",
@@ -523,6 +413,380 @@
       "summary": "OpenAI is testing an always‑on assistant named “o” that may manage email and other tasks, with early references appearing on the company’s website.",
       "tags": [],
       "title": "OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email"
+    },
+    {
+      "added_at": 1790636536.4229643,
+      "ai": true,
+      "id": "af90707fd724ed58cd0be85dfba7c8b9986c49fe",
+      "link": "https://www.darkreading.com/ics-ot-security/one-packet-crash-servers-tdengine",
+      "published": 1790629984.0,
+      "source": "darkreading",
+      "summary": "Zero‑day vulnerability in TDengine time‑series database can crash OT servers across industrial, IoT, energy, and automotive environments.\nThe flaw allows a single malicious packet to cause a server crash.",
+      "tags": [],
+      "title": "One Packet Can Crash OT Servers in Industrial Sectors"
+    },
+    {
+      "added_at": 1790636536.4229643,
+      "ai": true,
+      "id": "a4c9989360ae6705fce1c115bfd58d2e15450967",
+      "link": "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/",
+      "published": 1790629007.0,
+      "source": "BleepingComputer",
+      "summary": "Keio Corporation reported a ransomware attack that disrupted some of its business systems over the weekend.\nThe attack targeted the company's network but no data exfiltration was confirmed.",
+      "tags": [],
+      "title": "Japan's Keio confirms ransomware attack disrupted business systems"
+    },
+    {
+      "added_at": 1790636536.4229643,
+      "ai": true,
+      "id": "f6437873fa8f0b79d91eb3706d7b4d6d12bc79cb",
+      "link": "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/",
+      "published": 1790627476.0,
+      "source": "BleepingComputer",
+      "summary": "Japanese car‑sharing service Times Car confirmed that approximately 6.6 million user accounts were compromised.\nThe breach was disclosed late last week and affected personal data stored in the system.",
+      "tags": [],
+      "title": "Times Car confirms data breach affecting 6.6 million user accounts"
+    },
+    {
+      "added_at": 1790636536.4229643,
+      "ai": true,
+      "id": "97d48c50ae789aeaffb074249418fcdafd73ab90",
+      "link": "https://www.theregister.com/security/2026/09/28/jadepuffer-crims-hijacked-azure-identities-and-used-them-to-blow-up-cloud-resources/5299591",
+      "published": 1790627400.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "Redmond warned that JadePuffer criminals hijacked Azure identities to launch destructive attacks on cloud resources.\nThe incident involved unauthorized use of compromised credentials.",
+      "tags": [],
+      "title": "JadePuffer crims hijacked Azure identities and used them to blow up cloud resources"
+    },
+    {
+      "added_at": 1790636536.4229643,
+      "ai": true,
+      "id": "13e059bb849e027febf65560f6b77cb5b4ab8fe4",
+      "link": "https://www.darkreading.com/identity-access-management-security/carbonato-botnet-ai-agent-hacked-docker-hosts",
+      "published": 1790627038.0,
+      "source": "darkreading",
+      "summary": "The Carbonato botnet deploys an AI agent on compromised Docker hosts using the Hermes Agent framework.\nIt can execute commands via Telegram and steal AI API keys from exposed containers.",
+      "tags": [],
+      "title": "Carbonato Botnet Puts an AI Agent on Hacked Docker Hosts"
+    },
+    {
+      "added_at": 1790636536.4229643,
+      "ai": true,
+      "id": "9b2769919d577d6893ce66e5c92b4ea900cb9775",
+      "link": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
+      "published": 1790624950.0,
+      "source": "BleepingComputer",
+      "summary": "Dutch police arrested a 24‑year‑old Amsterdam man as part of the investigation into the ShinyHunters hacking group.\nThe arrest was made earlier this month.",
+      "tags": [],
+      "title": "Dutch police confirm arrest in ShinyHunters hacking investigation"
+    },
+    {
+      "added_at": 1790636536.4229643,
+      "ai": true,
+      "id": "570a5bd4d75e2597edc0534b03a50aa88bfe2b62",
+      "link": "https://therecord.media/shinyhunters-cyberattacks-oracle-mandiant",
+      "published": 1790623800.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "ShinyHunters are exploiting a workaround for an Oracle PeopleSoft vulnerability in a new campaign.\nThe group recently claimed credit for an attack on the FBI’s jobs site.",
+      "tags": [
+        "#news"
+      ],
+      "title": "ShinyHunters exploiting workarounds for Oracle PeopleSoft bug, Mandiant warns"
+    },
+    {
+      "added_at": 1790636536.4229643,
+      "ai": true,
+      "id": "cbf3cfa45f59f9f59520b5f3d07b7bc75beb5cfa",
+      "link": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
+      "published": 1790623081.0,
+      "source": "The Hacker News",
+      "summary": "Apple released security updates for iOS, iPadOS, and macOS to address an out‑of‑bounds write in CoreGraphics.\nThe CVE‑2026‑86950 flaw could allow arbitrary code execution when processing malicious files.",
+      "tags": [],
+      "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks"
+    },
+    {
+      "added_at": 1790636536.4229643,
+      "ai": true,
+      "id": "51f3f2ec27aaa07241148a11fd482163f1910965",
+      "link": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
+      "published": 1790621459.0,
+      "source": "BleepingComputer",
+      "summary": "Researchers discovered more than 16,000 misconfigured Supabase databases exposing PII, passwords, and authentication tokens.\nThe exposure resulted from readable tables left publicly accessible.",
+      "tags": [],
+      "title": "Over 16,000 Supabase databases expose PII, passwords, auth tokens"
+    },
+    {
+      "added_at": 1790636536.4229643,
+      "ai": true,
+      "id": "7df979e3443dc6ced51e8bc6cfb8de8cd9744aef",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/ai-agents-are-privileged-users-who-is-auditing-their-access",
+      "published": 1790621062.0,
+      "source": "darkreading",
+      "summary": "Enterprise AI agents often operate with broad privileges, creating potential insider threats.\nCurrent monitoring focuses on human employees, leaving AI access largely unaudited.",
+      "tags": [],
+      "title": "AI Agents Are Privileged Users; Who Is Auditing Their Access?"
+    },
+    {
+      "added_at": 1790636536.4229643,
+      "ai": true,
+      "id": "e7f8e7a928b1f9222f28e79c25b416c1d6339fb3",
+      "link": "https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html",
+      "published": 1790620542.0,
+      "source": "The Hacker News",
+      "summary": "Microsoft identified the NeedyMantis malware family as a tool used by attackers to maintain long‑term access in networks already breached. The malware has been seen in targeted intrusions at telecommunications firms, universities, medical nonprofits, intergovernmental organizations, and government contractors.",
+      "tags": [],
+      "title": "Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks"
+    },
+    {
+      "added_at": 1790636536.4229643,
+      "ai": true,
+      "id": "80a2ddb92af7a424516732d82dd7369bd3a82e85",
+      "link": "https://cyberscoop.com/nvidia-open-agent-safety-platform/",
+      "published": 1790619773.0,
+      "source": "CyberScoop",
+      "summary": "NVIDIA announced open‑source tools designed to secure AI agents, highlighting the industry’s recognition that external controls are needed beyond model training to ensure safe behavior.",
+      "tags": [],
+      "title": "As AI world debates security, NVIDIA releases open source tools for agents"
+    },
+    {
+      "added_at": 1790636536.4229643,
+      "ai": true,
+      "id": "953a9269e98f5345bad168500d6728f1804e4d13",
+      "link": "https://thehackernews.com/2026/09/iam-for-ai-agent.html",
+      "published": 1790619638.0,
+      "source": "The Hacker News",
+      "summary": "A guide on IAM for AI agents outlines the identity‑control architecture required for AI agents to authenticate, invoke tools, and act across enterprise systems. It covers provisioning limits, key components, evaluation criteria, and runtime evidence of intended behavior.",
+      "tags": [],
+      "title": "IAM for AI agents: A Practical Enterprise Framework"
+    },
+    {
+      "added_at": 1790636536.4229643,
+      "ai": true,
+      "id": "c79231d6db94d82b32851e29e30f42ac6601d6be",
+      "link": "https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html",
+      "published": 1790617338.0,
+      "source": "The Hacker News",
+      "summary": "Bitget reported that a vulnerability in a third‑party security product enabled an attacker to obtain high‑level credentials and send fraudulent withdrawal requests, resulting in a loss of approximately $388 million.",
+      "tags": [],
+      "title": "Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M"
+    },
+    {
+      "added_at": 1790636536.4229643,
+      "ai": true,
+      "id": "26cc36978970074fef377924a29c415ba8a91f0a",
+      "link": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
+      "published": 1790617113.0,
+      "source": "The Hacker News",
+      "summary": "RatHat operators run an Android banking trojan through a web console that uses Gemini to target higher‑value victims. Security researchers have traced nearly 100 console deployments since April 2026.",
+      "tags": [],
+      "title": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims"
+    },
+    {
+      "added_at": 1790636536.4229643,
+      "ai": true,
+      "id": "b1e3e519f863ae0a32c06f0864dd3ca8af3044ad",
+      "link": "https://www.securityweek.com/modulate-raises-25-million-to-advance-deepfake-detection/",
+      "published": 1790616600.0,
+      "source": "SecurityWeek",
+      "summary": "Modulate raised $25 million in funding to develop real‑time AI voice deepfake detection and intervention technology.",
+      "tags": [],
+      "title": "Modulate Raises $25 Million to Advance Deepfake Detection"
+    },
+    {
+      "added_at": 1790636536.4229643,
+      "ai": true,
+      "id": "2be09b9ea2c713df4cbe236a9ac6221942f66f37",
+      "link": "https://therecord.media/facebook-new-mexico-privacy",
+      "published": 1790615700.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "A New Mexico jury found that Meta violated privacy law by misleading consumers about its data handling practices, citing nearly 44 million violations.",
+      "tags": [
+        "#news"
+      ],
+      "title": "New Mexico jury finds Meta deceived consumers about data privacy practices"
+    },
+    {
+      "added_at": 1790636536.4229643,
+      "ai": true,
+      "id": "2a1fced464bdfccbe1e1f32f2eb6fe37431edad3",
+      "link": "https://www.darkreading.com/application-security/chrome-store-poper-blocker-spyware-downloaded-millions",
+      "published": 1790614285.0,
+      "source": "darkreading",
+      "summary": "The Chrome Store listed a malicious ad‑blocker called Poper Blocker that exfiltrates sensitive data and benefits from Google’s approval despite researcher warnings.",
+      "tags": [],
+      "title": "Chrome Store Hosts 'Poper Blocker' Spyware Downloaded by Millions"
+    },
+    {
+      "added_at": 1790636536.4229643,
+      "ai": true,
+      "id": "0ee8eac0268ba8f444db2ec14a61bd6f95272451",
+      "link": "https://therecord.media/us-uk-warn-of-citrix-netscaler-zero-day-bug",
+      "published": 1790612340.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "U.S. and U.K. agencies warned of vulnerabilities in Citrix NetScaler Gateway products; Citrix confirmed eight new zero‑day bugs after advisories from the Netherlands, U.S., and U.K.",
+      "tags": [
+        "#news"
+      ],
+      "title": "US, UK warn of exploited Citrix NetScaler zero-day bugs"
+    },
+    {
+      "added_at": 1790636536.4229643,
+      "ai": true,
+      "id": "be5ce4a651a9d68ae593642b9b6c223e3d680770",
+      "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
+      "published": 1790610567.0,
+      "source": "BleepingComputer",
+      "summary": "JadePuffer ransomware operators use agent‑driven attacks against Azure tenants, conducting reconnaissance, stealing credentials, and destroying core cloud components.",
+      "tags": [],
+      "title": "JadePuffer agentic AI attacks target Azure, destroy cloud resources"
+    },
+    {
+      "added_at": 1790636536.4229643,
+      "ai": true,
+      "id": "b783a4aa9a9a167350ef009cdd40feb716b89b0b",
+      "link": "https://www.darkreading.com/cloud-security/jadepuffer-ai-actor-azure-tenant-destructive-cloud-attack",
+      "published": 1790609601.0,
+      "source": "darkreading",
+      "summary": "Agentic threat actor used exposed credentials to access an Azure tenant, deleting cloud storage, applications, and databases.",
+      "tags": [],
+      "title": "JadePuffer AI Actor Compromises Azure Tenant in Destructive Cloud Attack"
+    },
+    {
+      "added_at": 1790636536.4229643,
+      "ai": true,
+      "id": "3273adb42f73db2052a22d09e8346cf212f86de4",
+      "link": "https://www.securityweek.com/call-for-presentations-open-for-2026-ciso-forum-virtual-summit/",
+      "published": 1790608500.0,
+      "source": "SecurityWeek",
+      "summary": "SecurityWeek is accepting original, vendor‑neutral presentations for the 2026 CISO Forum Virtual Summit, focusing on emerging threats and resilience.",
+      "tags": [],
+      "title": "Call for Presentations Open for 2026 CISO Forum Virtual Summit"
+    },
+    {
+      "added_at": 1790636536.4229643,
+      "ai": true,
+      "id": "9eea57edb89b54636f2899fac15a9de383674e26",
+      "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
+      "published": 1790608137.0,
+      "source": "Krebs on Security",
+      "summary": "Netherlands police arrested a 23‑year‑old convicted cybercriminal suspected of aiding ShinyHunters; subsequent attacks escalated, targeting the FBI and ransomware group Cl0p.",
+      "tags": [],
+      "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation"
+    },
+    {
+      "added_at": 1790636536.4229643,
+      "ai": true,
+      "id": "2649de53cd92a5de56bc25ec27c78a1bab1f195e",
+      "link": "https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/",
+      "published": 1790607724.0,
+      "source": "Unit 42",
+      "summary": "Unit 42 reports that Citrix NetScaler devices were hit by zero‑day exploits CVE‑2026‑88771 and CVE‑2026‑88772, which are actively used in the wild.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild"
+    },
+    {
+      "added_at": 1790636536.4229643,
+      "ai": true,
+      "id": "bd6b19d59d260584b178498e0b9dbf9d1f974a12",
+      "link": "https://www.infosecurity-magazine.com/news/bitget-restarts-withdrawals-387-5m/",
+      "published": 1790607600.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "After a $387.5 million breach of hot and warm wallets, Bitget has resumed Bitcoin withdrawals.",
+      "tags": [],
+      "title": "Bitget Restarts Bitcoin Withdrawals Following $387.5m Wallet Breach"
+    },
+    {
+      "added_at": 1790636536.4229643,
+      "ai": true,
+      "id": "4ee785a1221373a061610b4260fd62754028d0cf",
+      "link": "https://cyberscoop.com/fbi-data-breach-shinyhunters-agent-safety-risk/",
+      "published": 1790606830.0,
+      "source": "CyberScoop",
+      "summary": "ShinyHunters shifted from financial extortion to a high‑risk confrontation with the FBI, attempting to force retraction of an agency advisory.",
+      "tags": [],
+      "title": "ShinyHunters trades financial extortion for a reckless war of ego with the FBI"
+    },
+    {
+      "added_at": 1790636536.4229643,
+      "ai": true,
+      "id": "7d4f95884d68b25b7a27ed4f47ff9b82334363a5",
+      "link": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html",
+      "published": 1790604053.0,
+      "source": "The Hacker News",
+      "summary": "Weekly recap highlights a $387 million crypto hack, Citrix zero‑day exploits, AI agent misbehavior, and other emerging threats.",
+      "tags": [],
+      "title": "⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats"
+    },
+    {
+      "added_at": 1790636536.4229643,
+      "ai": true,
+      "id": "c97ff75e84c28b08311499dbafd8a8448bac11be",
+      "link": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/",
+      "published": 1790604010.0,
+      "source": "BleepingComputer",
+      "summary": "Infostealer logs exposed AI account credentials for over 80,000 corporate domains, enabling stolen conversations and LLMjacking.",
+      "tags": [],
+      "title": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking"
+    },
+    {
+      "added_at": 1790636536.4229643,
+      "ai": true,
+      "id": "8c37338d74323909df96e5394f8cf0a3e58b53b9",
+      "link": "https://www.helpnetsecurity.com/2026/09/28/fbi-job-portals-offline-shinyhunters-breach/",
+      "published": 1790603805.0,
+      "source": "Help Net Security",
+      "summary": "FBI job portals remain down after ShinyHunters claimed a PeopleSoft zero‑day breach; the agency is investigating the claim.",
+      "tags": [],
+      "title": "FBI job portals remain offline after ShinyHunters claims breach via PeopleSoft zero-day"
+    },
+    {
+      "added_at": 1790636536.4229643,
+      "ai": true,
+      "id": "aea6a69301c5674a725106d23a6215de168dc2d9",
+      "link": "https://www.helpnetsecurity.com/2026/09/28/microsoft-titan-jwt-signature-flaw/",
+      "published": 1790603417.0,
+      "source": "Help Net Security",
+      "summary": "A 16‑year‑old researcher discovered a flaw in Microsoft’s Titan analytics service that allowed impersonation of the admin and access to 17 trillion rows of employee and search data.",
+      "tags": [],
+      "title": "16-year-old researcher breaks into Microsoft analytics service with access to 17 trillion rows of data"
+    },
+    {
+      "added_at": 1790636536.4229643,
+      "ai": true,
+      "id": "63ac27bef986ba9e3fa58329dac155d69807d034",
+      "link": "https://www.infosecurity-magazine.com/news/nvidia-open-platform-secure/",
+      "published": 1790602200.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "NVIDIA launched an open platform that pairs runtime controls with hardware monitoring for AI agents.\nThe platform aims to enhance security for autonomous AI systems.",
+      "tags": [],
+      "title": "NVIDIA Launches Open Platform to Secure Autonomous AI Agents"
+    },
+    {
+      "added_at": 1790636536.4229643,
+      "ai": true,
+      "id": "7231708a254c1d8eabdbe0475cd8f440ea062a42",
+      "link": "https://therecord.media/poland-cyberattack-medical-medyc",
+      "published": 1790602200.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "Hackers stole personal data from a Polish healthcare software provider in a recent cyberattack.\nThe incident is part of a series of attacks targeting the country's medical sector.",
+      "tags": [
+        "#news"
+      ],
+      "title": "Cyberattack on Polish medical software provider exposes patient data"
+    },
+    {
+      "added_at": 1790636536.4229643,
+      "ai": true,
+      "id": "c9ff27758a779fdaac2642719958d4faea39375a",
+      "link": "https://www.theregister.com/cyber-crime/2026/09/28/ex-soldiers-telecom-hacking-spree-earns-him-70-months/5299440",
+      "published": 1790598300.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "An ex-soldier received a 70‑month sentence for a telecom hacking campaign that targeted at least ten organizations and sought $1 million in ransom.\nThe campaign used active‑duty tactics to extort payments.",
+      "tags": [],
+      "title": "Ex-soldier's telecom hacking spree earns him 70 months"
     }
   ],
   "posted": []
