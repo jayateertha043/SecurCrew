@@ -16,7 +16,7 @@ from __future__ import annotations
 import json
 import os
 import time
-from typing import Any, Dict, List
+from typing import Any, Dict
 
 QUEUE_PATH = os.path.join("state", "queue.json")
 
@@ -29,6 +29,10 @@ def load(path: str = QUEUE_PATH) -> Dict[str, Any]:
         with open(path, "r", encoding="utf-8") as fh:
             data = json.load(fh)
     except (FileNotFoundError, json.JSONDecodeError):
+        return json.loads(json.dumps(_EMPTY))
+    # A valid but non-dict file (e.g. ``[]``) is treated as empty so callers
+    # never hit an AttributeError on a list/str.
+    if not isinstance(data, dict):
         return json.loads(json.dumps(_EMPTY))
     data.setdefault("pending", [])
     data.setdefault("posted", [])

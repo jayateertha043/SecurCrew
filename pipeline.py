@@ -10,6 +10,7 @@ Both import their tunables and shared utilities from here.
 
 from __future__ import annotations
 
+import calendar
 import html
 import logging
 import os
@@ -84,12 +85,18 @@ def read_feeds(path: str = FEEDS_FILE) -> List[Tuple[str, List[str]]]:
 
 
 def _entry_published(entry) -> float:
-    """Best-effort epoch of an entry's publish time; 0 if unknown."""
+    """Best-effort epoch of an entry's publish time; 0 if unknown.
+
+    feedparser returns ``published_parsed`` / ``updated_parsed`` as UTC
+    ``struct_time`` values, so they must be converted with ``calendar.timegm``
+    (treats them as UTC), not ``time.mktime`` (which would interpret them as
+    *local* time and shift every timestamp by the host's UTC offset).
+    """
     for key in ("published_parsed", "updated_parsed"):
         parsed = entry.get(key)
         if parsed:
             try:
-                return time.mktime(parsed)
+                return calendar.timegm(parsed)
             except (TypeError, ValueError, OverflowError):
                 continue
     return 0.0

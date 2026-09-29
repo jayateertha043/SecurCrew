@@ -10,7 +10,7 @@ from __future__ import annotations
 import hashlib
 import re
 import time
-from typing import Any, Dict, Iterable, List
+from typing import Any, Dict, Iterable
 
 from rapidfuzz import fuzz
 

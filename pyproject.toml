@@ -1,0 +1,51 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "securcrew"
+version = "1.0.0"
+description = "Automated infosec news aggregator that posts AI-written summaries to a LinkedIn Company Page (direct API or webhook backend)."
+readme = "README.md"
+requires-python = ">=3.9"
+license = "MIT"
+dependencies = [
+    "feedparser>=6.0.11",
+    "requests>=2.32.0",
+    "rapidfuzz>=3.9.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7",
+    "pytest-cov>=4",
+    "ruff>=0.5",
+]
+
+[project.scripts]
+securcrew-bot = "bot:run"
+securcrew-collect = "collect:run"
+securcrew-publish = "publish:main"
+
+# Flat top-level modules (no package), imported as ``import collect`` etc.
+# ``packages.find`` is explicitly emptied so the ``state/`` and ``docs/`` data
+# directories are never mistaken for Python (namespace) packages.
+[tool.setuptools]
+py-modules = [
+    "bot", "collect", "dedup", "linkedin", "linkedin_webhook",
+    "pipeline", "publish", "queue_store", "site_data", "state", "summarize",
+]
+
+[tool.setuptools.packages.find]
+include = []
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "-ra"
+
+[tool.ruff]
+line-length = 88
+
+[tool.ruff.lint]
+select = ["F", "E9", "I"]
