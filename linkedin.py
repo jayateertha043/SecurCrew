@@ -8,8 +8,6 @@ by an admin of the page whose app is associated with that organization.
 
 from __future__ import annotations
 
-from typing import Tuple
-
 import requests
 
 POSTS_URL = "https://api.linkedin.com/rest/posts"
@@ -80,10 +78,3 @@ class LinkedInClient:
 def _short(text: str, limit: int = 300) -> str:
     text = (text or "").strip().replace("\n", " ")
     return text[:limit]
-
-
-def build_urn_from_env(token: str, org_urn: str) -> Tuple[str, str]:
-    """Validate and pass through the credential pair (kept for symmetry)."""
-    if not token or not org_urn:
-        raise ValueError("Missing LinkedIn credentials")
-    return token, org_urn

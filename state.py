@@ -30,7 +30,11 @@ def load(path: str = STATE_PATH) -> Dict[str, Any]:
     except (FileNotFoundError, json.JSONDecodeError):
         return json.loads(json.dumps(_EMPTY_STATE))
 
-    # Defensive: guarantee all top-level keys exist with the right types.
+    # Defensive: guarantee top-level keys exist with the right types. A valid
+    # but non-dict file (e.g. ``[]`` or a bare string) is treated as missing so
+    # callers never hit an AttributeError on a list/str.
+    if not isinstance(data, dict):
+        return json.loads(json.dumps(_EMPTY_STATE))
     data.setdefault("seen", {})
     data.setdefault("history", [])
     data.setdefault("counts", {})

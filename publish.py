@@ -10,7 +10,6 @@ from __future__ import annotations
 
 import random
 import time
-from typing import Dict
 
 import pipeline as P
 import queue_store
@@ -21,7 +20,7 @@ from linkedin import LinkedInError, RetryableError
 log = P.log
 
 
-def run() -> int:
+def run(dry_run: bool = False) -> int:
     st = state_mod.load()
     state_mod.prune(st, P.PRUNE_WINDOW_DAYS)
     q = queue_store.load()
@@ -43,6 +42,18 @@ def run() -> int:
         return 0
 
     budget = min(P.PER_RUN_CAP, remaining_today)
+
+    # Dry-run: report what a real run would do (pacing budget, daily cap, and
+    # the exact posts) without sending anything to LinkedIn or writing state.
+    if dry_run:
+        n = min(budget, len(q["pending"]))
+        log.info(
+            "[dry-run] would post up to %d item(s) (%d/%d today, cap %d)",
+            n, posted_today, P.DAILY_CAP, P.DAILY_CAP,
+        )
+        for i in range(n):
+            log.info("[dry-run] #%d: %s", i + 1, q["pending"][i].get("title"))
+        return 0
 
     try:
         client = P.build_client()
@@ -91,7 +102,22 @@ def run() -> int:
     return 0
 
 
+def main(argv=None) -> int:
+    """CLI entry point: parse args and run. Also backs the console script."""
+    import argparse
+
+    parser = argparse.ArgumentParser(description="SecurCrew publisher")
+    parser.add_argument(
+        "--dry-run",
+        action="store_true",
+        help="preview what would be posted (pacing, daily cap, messages) "
+             "without posting to LinkedIn or writing state",
+    )
+    args = parser.parse_args(argv)
+    return run(dry_run=args.dry_run)
+
+
 if __name__ == "__main__":
     import sys
 
-    sys.exit(run())
+    sys.exit(main())

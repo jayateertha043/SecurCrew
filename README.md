@@ -298,7 +298,7 @@ All knobs are constants at the top of [`pipeline.py`](pipeline.py):
 | `DELAY_RANGE` | Randomized delay between posts (s) | `(45, 120)` |
 | `PRUNE_WINDOW_DAYS` | Age at which seen/counts/posted-log prune | `7` |
 | `QUEUE_TTL_DAYS` | Age at which unposted queued items are dropped | `2` |
-| `MAX_ENQUEUE_PER_RUN` | Cap on items added to the queue per collect | `60` |
+| `MAX_ENQUEUE_PER_RUN` | Cap on items added to the queue per collect | `40` |
 
 AI behavior is env-driven: set `AI_API_KEY` to enable dedup-clustering +
 summaries, or `USE_AI_SUMMARY=0` to disable and use fuzzy-only + clipping.
@@ -360,6 +360,30 @@ Feed content is untrusted, so the UI inserts all text via DOM APIs (never
 ```bash
 python -m http.server -d docs 8000   # then open http://localhost:8000
 ```
+
+### Development
+
+```bash
+python -m venv .venv && source .venv/bin/activate
+pip install -e ".[dev]"
+pytest            # 111 offline tests (no network, no LinkedIn)
+ruff check .      # lint (F, E9, I)
+```
+
+The test suite runs 100% offline against fake feeds and a recording fake
+client — nothing it touches is ever sent to LinkedIn or a webhook.
+
+**Preview what a publish run would do without posting:**
+
+```bash
+python publish.py --dry-run
+# [dry-run] would post up to 2 item(s) (0/20 today, cap 20)
+# [dry-run] #1: Story One
+# [dry-run] #2: Story Two
+```
+
+`--dry-run` reports the pacing budget, remaining daily cap, and the exact posts
+a real run would make, without calling the backend or writing state.
 
 ---
 
