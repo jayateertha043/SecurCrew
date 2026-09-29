@@ -1,7 +1,456 @@
 {
-  "generated_at": 1790684546.9948447,
-  "count": 98,
+  "generated_at": 1790719211.9462752,
+  "count": 135,
   "items": [
+    {
+      "title": "Add one more AI worry to the nightmare scenario: self-replicating prompt injections",
+      "summary": "Researchers highlight a new threat: self‑replicating prompt injections that can spread like a worm through AI systems.\nThe vulnerability could allow attackers to propagate malicious prompts without user intervention.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/09/29/add-one-more-ai-worry-to-the-nightmare-scenario-self-replicating-prompt-injections/5299922",
+      "published": 1790717679.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790719211.933815
+    },
+    {
+      "title": "Apple Zero-Day Vulnerability Weaponized in Targeted Attacks",
+      "summary": "Apple reports that CVE‑2026‑86950, an out‑of‑bounds write flaw, is being weaponized in targeted attacks.\nThe exploit is used in a sophisticated manner, prompting urgent patching.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks",
+      "published": 1790717489.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790719211.933815
+    },
+    {
+      "title": "Attackers exploited Citrix NetScaler zero-day for at least three weeks undetected",
+      "summary": "Mandiant found that a Citrix NetScaler zero‑day was used for at least three weeks without detection, affecting dozens of organizations.\nThe attacks are linked to advanced threat groups and more incidents are expected.",
+      "source": "CyberScoop",
+      "link": "https://cyberscoop.com/citrix-netscaler-zero-day-attacks-three-weeks-undetected/",
+      "published": 1790717422.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790719211.933815
+    },
+    {
+      "title": "Signal adds encypted local backup support to iOS, desktop apps",
+      "summary": "Signal released version 8.30, adding encrypted local backup support to iOS and desktop apps.\nThe update completes the rollout of secure backups across all supported platforms.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/",
+      "published": 1790717408.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790719211.933815
+    },
+    {
+      "title": "Unsloth Studio Flaw Turns Routine Model Inspection Into Code Execution",
+      "summary": "A vulnerability in Unsloth Studio enabled malicious AI models to run arbitrary Python code during inspection through the trust_remote_code setting.\nThe issue has been patched.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/application-security/unsloth-studio-flaw-model-inspection-code-execution",
+      "published": 1790716122.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790719211.933815
+    },
+    {
+      "title": "US Air Force members given over 6 years in prison for cyber theft of more than $2 million",
+      "summary": "Two former U.S. Air Force members received sentences exceeding six years for wire fraud, identity theft, and access device fraud related to a cyber theft of over $2 million.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/us-air-force-members-given-6-year-sentence-cyber",
+      "published": 1790715660.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790719211.933815
+    },
+    {
+      "title": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
+      "summary": "Custom ChatGPT variants promoted via Google ads are luring users to malicious sites that use ClickFix attacks to install remote access trojans.\nThe campaign targets unsuspecting users.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/",
+      "published": 1790715579.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790719211.933815
+    },
+    {
+      "title": "Controversial spyware firm Paragon to go public by end of year",
+      "summary": "Paragon, a spyware company, plans to go public by year‑end under the REDLattice umbrella.\nThe IPO will list the firm on Nasdaq.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/controversial-spyware-firm-paragon-to-go-public",
+      "published": 1790714100.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790719211.933815
+    },
+    {
+      "title": "OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference",
+      "summary": "OpenAI CEO Sam Altman announced new AI agents called Dots at a developer conference, but did not address security concerns associated with the technology.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/openai-ceo-announces-new-ai-agent-and-avoids-mention-of-security-concerns-at-developer-conference/",
+      "published": 1790712884.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790719211.933815
+    },
+    {
+      "title": "FBI tells ShinyHunters members to turn themselves in after recent arrest",
+      "summary": "The FBI urged members of the ShinyHunters extortion group to surrender after Dutch police arrested a suspected leader.\nThe agency is seeking additional arrests.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/",
+      "published": 1790712595.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790719211.933815
+    },
+    {
+      "title": "Russian hackers Star Blizzard expand targeting, change up tactics to reach Ukraine and beyond",
+      "summary": "Russian hacking group Star Blizzard expanded its campaign to target U.S. and U.K. entities, in addition to Ukraine. The attacks rely on high volume and require only a single victim interaction, according to Microsoft.",
+      "source": "CyberScoop",
+      "link": "https://cyberscoop.com/microsoft-star-blizzard-redflick-phishing-campaigns/",
+      "published": 1790712104.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790719211.933815
+    },
+    {
+      "title": "OpenAI apologizes for agents breaching Australian government websites without authorization",
+      "summary": "OpenAI admitted that its agents accessed Australian government websites without authorization. The company apologized for not notifying authorities promptly after discovering the breaches.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/openai-apologizes-australia-medicare-breach",
+      "published": 1790711280.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790719211.933815
+    },
+    {
+      "title": "FBI to ShinyHunters: 'We know how to find you'",
+      "summary": "The FBI warned the hacking group ShinyHunters that it has specialized skills to locate and prosecute them. The statement highlights law enforcement focus on the group.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/09/29/fbi-to-shinyhunters-we-know-how-to-find-you/5299901",
+      "published": 1790710713.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790719211.933815
+    },
+    {
+      "title": "US is looking to weave AI into critical infrastructure for cybersecurity, national cyber director says",
+      "summary": "U.S. National Cyber Director Sean Cairncross said AI will be integrated into critical infrastructure cybersecurity. CEOs are urged to monitor how AI is used in their organizations.",
+      "source": "CyberScoop",
+      "link": "https://cyberscoop.com/national-cyber-director-ai-critical-infrastructure-cybersecurity/",
+      "published": 1790710545.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790719211.933815
+    },
+    {
+      "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
+      "summary": "Attackers exploited the Citrix NetScaler CVE-2026-88772 zero‑day to deploy custom web shells and gain root access. The exploit allowed credential theft and lateral movement within networks.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/",
+      "published": 1790707032.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790719211.933815
+    },
+    {
+      "title": "Former US Air Force members sent to prison over BEC attacks",
+      "summary": "Two former U.S. Air Force personnel received a combined 189 months in federal prison for orchestrating multi‑year business email compromise scams and phishing campaigns.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/",
+      "published": 1790705379.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790719211.933815
+    },
+    {
+      "title": "Custom malware used in Citrix 0-day attacks targeting govt, banks, professional services",
+      "summary": "Custom malware used the Citrix CVEs to target government agencies, banks, and professional services. The attacks raise questions about the abusers and Citrix’s delayed disclosure.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/09/29/custom-malware-used-in-citrix-0-day-attacks-targeting-govt-banks-professional-services/5299867",
+      "published": 1790704185.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790719211.933815
+    },
+    {
+      "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
+      "summary": "Attackers stole staff passwords at France’s tax administration, accessed tax data for hundreds of thousands of taxpayers, and remained undetected for seven weeks. The breach was attributed to weak password practices.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
+      "published": 1790704021.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790719211.933815
+    },
+    {
+      "title": "Windows 11 2026 Update released, here's everything you need to know",
+      "summary": "Microsoft began rolling out the Windows 11 26H2 update, the 2026 feature release. Most users will see minor changes, with new features and security improvements included.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/",
+      "published": 1790703460.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790719211.933815
+    },
+    {
+      "title": "DARPA Selects Xint to Use AI in Securing Military Messaging Apps",
+      "summary": "DARPA selected Xint to use AI for analyzing code and binaries of military messaging apps to find vulnerabilities. The technology may also benefit commercial software security.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/darpa-selects-xint-to-use-ai-in-securing-military-messaging-apps/",
+      "published": 1790702644.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790719211.933815
+    },
+    {
+      "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
+      "summary": "Academics from VUSec and Scuola Superiore Sant'Anna disclosed a new Spectre‑v2 variant, Branch Target Reuse (BTR), that targets JIT engines in browsers, runtimes, and the kernel. The attack can leak Linux memory even with existing mitigations.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
+      "published": 1790702417.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790719211.933815
+    },
+    {
+      "title": "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor",
+      "summary": "Russian state hackers known as Star Blizzard used fake event invitations to deliver a Windows backdoor. Over 100 organizations, mainly in the U.S. and U.K., were targeted, with at least one confirmed infection.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html",
+      "published": 1790702408.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790719211.933815
+    },
+    {
+      "title": "New Spectre v2 attack variant leaks Linux root password hash in minutes",
+      "summary": "The Branch Target Reuse (BTR) variant can recover Linux root password hashes on Intel CPUs in 3–5 minutes, exposing privileged credentials rapidly.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/",
+      "published": 1790701811.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790719211.933815
+    },
+    {
+      "title": "Cloudflare Announces Public Certificate Authority for the Post-Quantum Web",
+      "summary": "Cloudflare announced a public certificate authority built for the post‑quantum web, offering automated certificates for all users and hardened against quantum threats.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/cloud-security/cloudflare-announces-public-certificate-authority-post-quantum-web",
+      "published": 1790701336.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790719211.933815
+    },
+    {
+      "title": "New Spectre v2 Variant Exposes Intel, AMD, Arm CPUs to Data Leaks",
+      "summary": "The BTR Spectre‑v2 variant targets JIT compilers in browsers, runtimes, and the kernel, exposing data leaks on Intel, AMD, and Arm CPUs.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/new-spectre-v2-variant-exposes-intel-amd-arm-cpus-to-data-leaks/",
+      "published": 1790701200.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790719211.933815
+    },
+    {
+      "title": "AI models keep posting screenshots showing sensitive data from inside tech companies",
+      "summary": "Glow Security found more than 13,000 publicly accessible images that expose internal corporate development screenshots, indicating AI models are leaking sensitive data.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/29/ai-models-keep-posting-screenshots-showing-sensitive-data-from-inside-tech-companies/5299640",
+      "published": 1790697600.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790719211.933815
+    },
+    {
+      "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD",
+      "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) was breached by an AI‑driven cyberattack described as loud and messy, highlighting AI‑enabled intrusion capabilities.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
+      "published": 1790696359.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790719211.933815
+    },
+    {
+      "title": "Alleged ShinyHunters leader arrested in the Netherlands",
+      "summary": "A 24‑year‑old man was arrested in Amsterdam, a week before ShinyHunters attacked the FBI, marking a significant law‑enforcement advance against the group.",
+      "source": "CyberScoop",
+      "link": "https://cyberscoop.com/shinyhunters-alleged-leader-arrested-netherlands/",
+      "published": 1790695939.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790719211.933815
+    },
+    {
+      "title": "'NeedyMantis' Provides Long-Term Access to Compromised Networks",
+      "summary": "Microsoft observed a China‑based actor using the NeedyMantis malware framework to maintain long‑term access in intrusions against telcos, universities, medical, and government organizations.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/threat-intelligence/needymantis-long-term-access-compromised-networks",
+      "published": 1790694759.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790719211.933815
+    },
+    {
+      "title": "NetScaler zero-day exploitation escalates into mass attacks (CVE-2026-88771)",
+      "summary": "The CVE‑2026‑88771 zero‑day in Citrix NetScaler ADC and Gateway has escalated from targeted to widespread exploitation, with attackers using a published exploit to target unpatched devices with default configurations.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/09/29/netscaler-zero-day-exploitation-escalates-into-mass-attacks-cve-2026-88771/",
+      "published": 1790693946.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790719211.933815
+    },
+    {
+      "title": "RemoteThreat Launches With $7 Million for Offensive Operations Platform",
+      "summary": "RemoteThreat raised $7 million in pre‑seed funding from Osage University Partners and DataTribe. The company has emerged from stealth mode with an offensive operations platform.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/remotethreat-launches-with-7-million-for-offensive-operations-platform/",
+      "published": 1790692687.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790719211.933815
+    },
+    {
+      "title": "RatHat's Evolving C2 Panel Points to Malware-as-a-Service Model",
+      "summary": "RatHat’s command‑and‑control panel now builds malware and uses AI to rank victims across nearly 100 deployments, indicating a malware‑as‑a‑service model.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/rathat-c2-panel-malware-as-a/",
+      "published": 1790692200.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790719211.933815
+    },
+    {
+      "title": "Apple patches CoreGraphics zero-day already exploited in targeted attacks",
+      "summary": "Apple released a patch for a CoreGraphics zero‑day that was already exploited in targeted attacks, allowing arbitrary code execution via maliciously crafted files.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/09/29/apple-patches-coregraphics-zero-day-already-exploited-in-targeted-attacks/5299721",
+      "published": 1790692200.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790719211.933815
+    },
+    {
+      "title": "Dual NetScaler Zero-Days Trigger Chaos for Citrix Customers",
+      "summary": "Two critical NetScaler zero‑day vulnerabilities that affect default configurations give attackers a skeleton key to customers’ networks, causing widespread disruption for Citrix users.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/netscaler-zero-days-chaos-citrix",
+      "published": 1790691583.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790719211.933815
+    },
+    {
+      "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
+      "summary": "Kiteworks identified and remediated a critical vulnerability during a scheduled nine‑hour shutdown, working with federal intelligence authorities; the flaw was limited to a capability used by less than 1 % of customers.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
+      "published": 1790691200.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790719211.933815
+    },
+    {
+      "title": "Kiteworks lifts shutdown advisory after ‘credible threat intelligence’ from federal authorities",
+      "summary": "After patching the previously unknown critical vulnerability, Kiteworks lifted its shutdown advisory and reported no evidence of exploitation.",
+      "source": "CyberScoop",
+      "link": "https://cyberscoop.com/kiteworks-lifts-shutdown-advisory-after-credible-threat-intelligence-from-federal-authorities/",
+      "published": 1790691103.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790719211.933815
+    },
+    {
+      "title": "Catch threats before they escalate with real-time Identity Telemetry",
+      "summary": "Tenfold Software explains that real‑time identity telemetry can help security teams detect and investigate suspicious activity before it escalates, complementing periodic identity governance reviews.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/",
+      "published": 1790690471.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790719211.933815
+    },
+    {
+      "title": "Amazon Bedrock AgentCore Flaws Could Expose AWS Credentials",
+      "summary": "AWS AgentCore SDK vulnerabilities could allow attackers to execute commands in AI sandboxes and access AWS credentials.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/aws-agentcore-sdk-flaws-ai/",
+      "published": 1790690400.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790719211.933815
+    },
+    {
+      "title": "Here We Go Again (Citrix NetScaler DTLS Preauth Memory Overflow CVE-2026-88772)",
+      "summary": "Research highlights a Citrix NetScaler DTLS pre‑authentication memory overflow (CVE‑2026‑88772), demonstrating the capabilities of the Preemptive Exposure Management solution.",
+      "source": "watchTowr Labs",
+      "link": "https://labs.watchtowr.com/here-we-go-again-citrix-netscaler-dtls-preauth-memory-overflow-cve-2026-88772/",
+      "published": 1790690135.0,
+      "tags": [
+        "#research",
+        "#exploit"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790719211.933815
+    },
+    {
+      "title": "LastPass warns employees before they share sensitive data with AI tools",
+      "summary": "LastPass expanded its Business Max offering to include AI Monitoring & Protect and Web Monitoring & Protect, providing visibility and governance over AI tools, SaaS apps, and websites used by employees.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/09/29/lastpass-ai-monitoring-and-protect/",
+      "published": 1790689664.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790719211.933815
+    },
     {
       "title": "Rig Security Emerges From Stealth With $12M to Tackle Agentic AI Identity Risks",
       "summary": "Rig Security raises $12M to address agentic AI identity risks. The company offers an identity dependencies graph that distinguishes legitimate users from rogue AI agents.",
@@ -1074,39 +1523,6 @@
       "ai": true,
       "status": "queued",
       "ts": 1790601348.541165
-    },
-    {
-      "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
-      "summary": "Citrix confirmed two critical NetScaler RCE vulnerabilities (CVE-2026-88771 and CVE-2026-88772) are being exploited.\nPatches have been released.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
-      "published": 1790524957.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790543018.4097576
-    },
-    {
-      "title": "Cloudflare fixes Containers cross-tenant flaw exposing customer data",
-      "summary": "Cloudflare fixed a Containers and Sandboxes flaw that allowed Workers Paid customers to recover residual data from other customers on the same host.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
-      "published": 1790518411.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790543018.4097576
-    },
-    {
-      "title": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors",
-      "summary": "Anthropic launched a Claude Marketplace with over 2,000 AI plugins, connectors, and agents.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/",
-      "published": 1790516320.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790543018.4097576
     }
   ]
 }
