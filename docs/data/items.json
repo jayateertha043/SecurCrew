@@ -1,7 +1,360 @@
 {
-  "generated_at": 1790770068.5603166,
-  "count": 174,
+  "generated_at": 1790805565.4710155,
+  "count": 178,
   "items": [
+    {
+      "title": "Irony alert: OpenAI whines that Chinese model stole its special IP that it stole from everybody else",
+      "summary": "OpenAI has criticized a Chinese model for using its intellectual property. US model makers can train on web data, but distilling proprietary models is considered a national security risk.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/09/30/irony-alert-openai-whines-that-chinese-model-stole-its-special-ip-that-it-stole-from-everybody-else/5300285",
+      "published": 1790804160.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790805565.4576552
+    },
+    {
+      "title": "Malicious Custom GPTs Turn ChatGPT Into RAT Delivery Lure",
+      "summary": "Threat actors are using legitimate OpenAI and Google domains to distribute malicious Custom GPTs that deliver remote access trojans. The campaign mimics legitimate services to lure users.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/malicious-custom-gpts-chatgpt-rat-delivery-lure",
+      "published": 1790803547.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790805565.4576552
+    },
+    {
+      "title": "Trump, Tech Giants Strike Voluntary AI Safety Accord",
+      "summary": "The White House and major tech firms signed a voluntary AI safety accord. The agreement requires enhanced controls and oversight for advanced AI systems.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/cyber-risk/trump-tech-giants-strike-voluntary-ai-safety-accord",
+      "published": 1790801475.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790805565.4576552
+    },
+    {
+      "title": "Russian state hackers use new RedFlick technique to push malware",
+      "summary": "Russian state actor Star Blizzard is deploying the CosmicPulse backdoor using a new RedFlick technique. This expands its malware installation tactics.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
+      "published": 1790800441.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790805565.4576552
+    },
+    {
+      "title": "Automakers routinely share personally identifiable connected-car data with third parties, report says",
+      "summary": "A study shows automakers routinely share drivers' personally identifiable connected‑car data with third parties. Users are exposed to a broad advertising ecosystem.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/automakers-routinely-share-connected-car-data-third-parties",
+      "published": 1790800320.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790805565.4576552
+    },
+    {
+      "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
+      "summary": "The Dutch Institute for Vulnerability Disclosure reported a network breach caused by two zero‑day vulnerabilities in the open‑source Zammad ticketing system. The attack was AI‑driven.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
+      "published": 1790797755.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790805565.4576552
+    },
+    {
+      "title": "After reports on suicide deaths, Pentagon puts Cyber Command on notice",
+      "summary": "After reports of multiple suicide deaths, the Pentagon's assistant secretary for cyber policy issued specific demands to U.S. Cyber Command leadership.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/cyber-command-suicide-deaths-pentagon-memo",
+      "published": 1790796900.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790805565.4576552
+    },
+    {
+      "title": "Google: Vulnerability disclosures double to 10,000 per month as AI fuels exploitation",
+      "summary": "Google researchers noted that vulnerability disclosures have doubled to over 10,000 per month. AI‑enabled exploitation is a contributing factor.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/google-vulnerabilities-cyberattacks-ai",
+      "published": 1790794800.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790805565.4576552
+    },
+    {
+      "title": "As AI Reshapes the SOC Career Ladder, Satisfaction Rises for 91%, but Entry Gets Harder for Nearly Half",
+      "summary": "Swimlane research finds 91% of security professionals report higher job satisfaction due to AI. However, nearly half say AI makes entry into the field more difficult.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/cybersecurity-careers/ai-reshapes-soc-career-ladder",
+      "published": 1790794616.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790805565.4576552
+    },
+    {
+      "title": "16-year-old researcher found a Microsoft bug, got admin access to databases with 17.3 trillion rows",
+      "summary": "A 16‑year‑old researcher discovered a Microsoft vulnerability that granted administrative access to databases containing 17.3 trillion rows. The incident raises concerns about youth exploitation.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/09/30/16-year-old-researcher-found-a-microsoft-bug-got-admin-access-to-databases-with-173-trillion-rows/5300240",
+      "published": 1790792981.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790805565.4576552
+    },
+    {
+      "title": "Over 543,000 valid credentials exposed in public GitHub repositories",
+      "summary": "Over 543,000 valid credentials were exposed in public GitHub repositories in July, many of which remained active despite GitHub’s security measures. The leak underscores the ongoing risk of accidental data exposure.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
+      "published": 1790791714.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790805565.4576552
+    },
+    {
+      "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
+      "summary": "Threat actors exploited CVE-2026-73570 in Zimbra Collaboration Suite to deploy web shells and harvest mailbox data. The flaw allows unauthenticated OS command injection, leading to remote code execution; it has since been patched.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
+      "published": 1790786789.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790805565.4576552
+    },
+    {
+      "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
+      "summary": "Phishing campaigns distributed MSP360 RMM installers disguised as meeting invites, PDFs, and software updates. Once executed, the legitimate installer granted attackers remote management access; Microsoft warned of this social‑engineering tactic.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
+      "published": 1790785979.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790805565.4576552
+    },
+    {
+      "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
+      "summary": "CISA warned of a critical pre‑authentication remote code execution vulnerability in MikroTik RouterOS that can lead to remote code execution or denial of service. Users are advised to apply patches immediately.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
+      "published": 1790783369.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790805565.4576552
+    },
+    {
+      "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
+      "summary": "Cisco identified a critical zero‑day (CVE-2026-76504) in Catalyst SD‑WAN Manager that allows unauthenticated attackers to bypass authentication and gain admin API access. Fixed releases are available; no workaround exists.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
+      "published": 1790781894.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790805565.4576552
+    },
+    {
+      "title": "Critical Cisco Catalyst SD-WAN Manager API authentication bypass exploited in the wild (CVE-2026-76504)",
+      "summary": "The CVE-2026-76504 vulnerability in Cisco Catalyst SD‑WAN Manager was actively exploited in the wild, permitting unauthenticated attackers to send crafted HTTP requests that bypass authentication and elevate privileges. Cisco released patches.",
+      "source": "Rapid7 Cybersecurity Blog",
+      "link": "https://www.rapid7.com/blog/post/etr-critical-cisco-catalyst-sd-wan-manager-api-authentication-bypass-exploited-in-the-wild-cve-2026-76504",
+      "published": 1790780962.0,
+      "tags": [
+        "#vulnerability"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790805565.4576552
+    },
+    {
+      "title": "Russia's Star Blizzard Ditches ClickFix to Widen Phishing Net",
+      "summary": "APT actor Star Blizzard abandoned ClickFix and introduced a new tactic called RedFlick to target Ukrainian‑linked NGOs, think tanks, and journalists, deploying the CosmicPulse backdoor via phishing emails.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/threat-intelligence/russia-star-blizzard-apt-ditches-clickfix-widen-phishing-net",
+      "published": 1790780545.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790805565.4576552
+    },
+    {
+      "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
+      "summary": "Threat actors used ChatGPT Custom GPTs to masquerade as legitimate products and redirect users to malicious sites employing ClickFix lures, delivering remote access trojans. Huntress documented the activity in late September 2026.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
+      "published": 1790780415.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790805565.4576552
+    },
+    {
+      "title": "Cisco warns of new SD-WAN zero-day exploited in attacks",
+      "summary": "Cisco released updates for a critical zero‑day (CVE-2026-76504) in Catalyst SD‑WAN Manager that attackers are exploiting to gain admin privileges. The vulnerability is a critical API authentication bypass; users should apply the patch.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
+      "published": 1790779600.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790805565.4576552
+    },
+    {
+      "title": "Higher education is under siege, and fragmented security is making it harder to respond",
+      "summary": "Higher education institutions face increasing cyber attacks and fragmented security practices, managing large volumes of sensitive data across open networks, legacy systems, and cloud environments. The sector recorded an average of 4,388 cyber incidents in Q2 2025.",
+      "source": "Rapid7 Cybersecurity Blog",
+      "link": "https://www.rapid7.com/blog/post/it-higher-education-under-siege-fragmented-security",
+      "published": 1790777797.0,
+      "tags": [
+        "#vulnerability"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790805565.4576552
+    },
+    {
+      "title": "Google: AI Is Changing the Pace and Profile of Vulnerability Discovery",
+      "summary": "Google reports that vulnerabilities discovered with AI are more likely to allow remote code execution. AI accelerates vulnerability discovery. The findings suggest a shift in vulnerability profiles.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/google-ai-is-changing-the-pace-and-profile-of-vulnerability-discovery/",
+      "published": 1790777158.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790805565.4576552
+    },
+    {
+      "title": "AI's Third Wave: Coworkers Break the Security Model That Worked for Agents",
+      "summary": "Persistent AI coworkers can operate continuously with standing access, creating new identity risks. Current security models are not designed to handle these agents. They require dedicated identities, owners, scoped permissions, and lifecycle controls.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/",
+      "published": 1790776871.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790805565.4576552
+    },
+    {
+      "title": "AI-Found Vulnerabilities More Likely to Enable RCE, Google Says",
+      "summary": "Google notes that AI-discovered vulnerabilities are more likely to enable remote code execution. Disclosures and exploitation of these vulnerabilities are increasing.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/ai-found-vulnerabilities-rce/",
+      "published": 1790776800.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790805565.4576552
+    },
+    {
+      "title": "Mobile malware warning from Ukrainian researchers includes iPhone exploit kit",
+      "summary": "Ukrainian researchers warn of DarkSword, a 'hit and run' iPhone malware. It is part of a wave of Russian attacks targeting iOS and Android devices.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/ukraine-ssscip-mobile-malware-warning-ios-android",
+      "published": 1790776800.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790805565.4576552
+    },
+    {
+      "title": "Microsoft to block Entra ID script injection attacks starting October",
+      "summary": "Microsoft will enhance Entra ID authentication to block external script injection attacks starting in October. Customers are advised to prepare for the changes.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/",
+      "published": 1790775435.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790805565.4576552
+    },
+    {
+      "title": "WatchGuard Patches Critical Fireware OS Code Injection Vulnerability",
+      "summary": "WatchGuard has released patches for 15 critical bugs in Fireware OS, including code execution, DoS, authorization, and path traversal vulnerabilities.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/watchguard-patches-critical-fireware-os-code-injection-vulnerability/",
+      "published": 1790774216.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790805565.4576552
+    },
+    {
+      "title": "Trump, Six AI Giants Sign 'Super Intelligence' Safety Accord",
+      "summary": "Former President Trump and six AI companies signed a voluntary safety accord. The agreement focuses on internal controls, audits, and board oversight for superintelligence development.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/trump-ai-giants-super-intelligence/",
+      "published": 1790773200.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790805565.4576552
+    },
+    {
+      "title": "Government, Finance Orgs Targeted in Weeks-Long NetScaler Zero-Day Attacks",
+      "summary": "Security firms report that government and finance organizations have been targeted in a weeks-long attack using NetScaler zero-days CVE-2026-88771 and CVE-2026-88772.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/government-finance-orgs-targeted-in-weeks-long-netscaler-zero-day-attacks/",
+      "published": 1790772500.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790805565.4576552
+    },
+    {
+      "title": "Suspected state-sponsored hackers exploited NetScaler zero-day since early September (CVE-2026-88772)",
+      "summary": "Mandiant and Google report that state-sponsored threat actors have exploited CVE-2026-88772 since early September. Dozens of organizations across North America and Europe have been impacted.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/09/30/cve-2026-88772-netscaler-exploitation-zero-day/",
+      "published": 1790771618.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790805565.4576552
+    },
+    {
+      "title": "TeamViewer urges users to patch severe flaws “as soon as possible”",
+      "summary": "TeamViewer has warned customers to patch a set of high-severity vulnerabilities in its client and host software immediately. The flaws could allow attackers to gain control or execute code.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/",
+      "published": 1790771110.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790805565.4576552
+    },
+    {
+      "title": "Chrome, Firefox Updates Patch Over 100 Vulnerabilities",
+      "summary": "Google Chrome and Mozilla Firefox released updates that patch more than 100 security vulnerabilities. The fixes address flaws that could allow remote code execution or sandbox escape. The update was reported by SecurityWeek.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/chrome-firefox-updates-patch-over-100-vulnerabilities/",
+      "published": 1790770612.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790805565.4576552
+    },
     {
       "title": "AI Boosts SOC Analyst Capacity but Limits Skill Development",
       "summary": "AI reduces repetitive tasks for SOC analysts, increasing capacity, but analysts report concerns that reliance on AI may hinder skill development and career progression.",
@@ -12,6 +365,30 @@
       "ai": true,
       "status": "queued",
       "ts": 1790770068.5497367
+    },
+    {
+      "title": "Russian FSB-linked hackers scale up phishing attacks against Ukraine supporters",
+      "summary": "Star Blizzard, a Russian state-backed hacking group linked to the FSB, has expanded its phishing operations targeting supporters of Ukraine. The group uses a new technique that simplifies malware delivery to victims. The expansion was reported this year.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/russia-hackers-ukraine-blizzard",
+      "published": 1790769600.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790805565.4576552
+    },
+    {
+      "title": "Know Your Enemy: Browser-Based Attack Techniques in 2026",
+      "summary": "A new report outlines six browser-based attack techniques expected to dominate in 2026. It notes that most breaches begin and remain within a browser session, with the entire attack chain playing out there. The guide is intended for security teams.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html",
+      "published": 1790769480.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790805565.4576552
     },
     {
       "title": "AI coding agents leaked 13,000 internal company screenshots to public GitHub repos",
@@ -1116,6 +1493,17 @@
       "ts": 1790684546.983798
     },
     {
+      "title": "Timeshare exit scams: From fake buyers to recovery fraud",
+      "summary": "Con artists are targeting timeshare owners who want to exit, using fake buyers and recovery fraud. Victims can be defrauded twice. The scams exploit the timeshare exit process.",
+      "source": "WeLiveSecurity",
+      "link": "https://www.welivesecurity.com/en/scams/timeshare-exit-scams-fake-buyers-recovery-scams/",
+      "published": 1790672400.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790805565.4576552
+    },
+    {
       "title": "Claude Sonnet 5.5 gets faster without a price hike",
       "summary": "Anthropic launched Claude Sonnet 5.5, a coding and office AI model that is over 30% faster and uses fewer tokens than its predecessor, lowering cost per task. It is available with zero data retention on AWS, GCP, and Azure.",
       "source": "Help Net Security",
@@ -1602,41 +1990,6 @@
       "ts": 1790636536.4229643
     },
     {
-      "title": "Deepfakes Are Becoming a Costly Reality for Businesses, Report Warns",
-      "summary": "Deepfake attacks cost businesses heavily, with a quarter of victims losing over $1 million. CISOs report that boardrooms often lack awareness of this threat.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/deepfakes-costly-reality-for/",
-      "published": 1790600400.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790601348.541165
-    },
-    {
-      "title": "Former US soldier gets nearly six-year sentence for hacking, extorting telecoms",
-      "summary": "A former U.S. Army soldier received a sentence of more than five years in federal prison after pleading guilty to hacking multiple telecommunications companies and leaking sensitive records.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/hacker-telecom-army-sentenced",
-      "published": 1790599500.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790601348.541165
-    },
-    {
-      "title": "Prison Sentence for Former US Soldier Who Hacked AT&T and Verizon",
-      "summary": "Cameron John Wagenius was sentenced to 70 months in prison for stealing information from AT&T and Verizon.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/prison-sentence-for-former-us-soldier-who-hacked-att-and-verizon/",
-      "published": 1790598976.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790601348.541165
-    },
-    {
       "title": "Ex-soldier's telecom hacking spree earns him 70 months",
       "summary": "An ex-soldier received a 70‑month sentence for a telecom hacking campaign that targeted at least ten organizations and sought $1 million in ransom.\nThe campaign used active‑duty tactics to extort payments.",
       "source": "www.theregister.com - Articles",
@@ -1648,176 +2001,6 @@
       "ts": 1790636536.4229643
     },
     {
-      "title": "Other users can watch your browsing and time your keystrokes through OS file notifications",
-      "summary": "Researchers demonstrated that file‑notification systems on Windows, Linux, and macOS can let other users monitor browsing activity and keystroke timing, achieving 95.7% detection on Windows.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/09/28/cve-2025-68788-file-notification-attacks/",
-      "published": 1790597683.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790601348.541165
-    },
-    {
-      "title": "Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI",
-      "summary": "A webinar highlighted that only 47% of CISOs feel confident identifying all AI agents in their environment, underscoring the need for stronger governance and controls.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html",
-      "published": 1790596680.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790601348.541165
-    },
-    {
-      "title": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent",
-      "summary": "The Carbonato botnet targets exposed Docker daemons to deploy the Hermes AI agent, overwriting its persona file to receive commands from attackers.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
-      "published": 1790595960.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790601348.541165
-    },
-    {
-      "title": "NVIDIA wants AI agent safety enforced in silicon, not left to the agent",
-      "summary": "NVIDIA launched the Open Agent Safety Platform, featuring OpenShell software and a hardware watchdog called Sentry to keep AI agents within organizational limits.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/09/28/nvidia-open-agent-safety-platform/",
-      "published": 1790595298.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790601348.541165
-    },
-    {
-      "title": "“Drunk” AI is terrible at keeping secrets",
-      "summary": "Research from UNSW Sydney found that AI models trained to write like drunk people are easier to jailbreak and more likely to leak confidential information.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/09/28/drunk-ai-models-jailbreak-research/",
-      "published": 1790595022.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790601348.541165
-    },
-    {
-      "title": "DC Health Agency Exposes 400,000 Beneficiary Records",
-      "summary": "The DC Health Agency exposed 400,000 beneficiary records, including Medicaid IDs, through a data breach.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/dc-health-agency-exposes-400000-beneficiary-records/",
-      "published": 1790594969.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790601348.541165
-    },
-    {
-      "title": "New Attack Against RSA",
-      "summary": "A new RSA attack allows forging digital signatures without accessing the private key, bypassing factoring and affecting only pure signature schemes.",
-      "source": "Schneier on Security",
-      "link": "https://www.schneier.com/blog/archives/2026/09/new-attack-against-rsa.html",
-      "published": 1790593378.0,
-      "tags": [
-        "#opinion"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790601348.541165
-    },
-    {
-      "title": "Google Warns of ShinyHunters’ Fresh Oracle PeopleSoft Campaign",
-      "summary": "Google alerts that ShinyHunters has updated its PeopleSoft exploit targeting CVE-2026-35273. The group is conducting extortion attacks against Oracle PeopleSoft customers.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/google-warns-of-shinyhunters-fresh-oracle-peoplesoft-campaign/",
-      "published": 1790593006.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790601348.541165
-    },
-    {
-      "title": "Oh Look, The Foot Gun Went Off Again (Citrix NetScaler PreAuth Command Injection CVE-2026-88771)",
-      "summary": "Citrix NetScaler vulnerability CVE-2026-88771 allows pre‑authentication command injection. The issue was publicly known before Citrix issued a patch.",
-      "source": "watchTowr Labs",
-      "link": "https://labs.watchtowr.com/oh-look-the-foot-gun-went-off-again-citrix-netscaler-preauth-command-injection-cve-2026-88771/",
-      "published": 1790592954.0,
-      "tags": [
-        "#research",
-        "#exploit"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790601348.541165
-    },
-    {
-      "title": "New Mexico Jury Finds Facebook Liable for Deceiving Users About Privacy Protections",
-      "summary": "A New Mexico jury ruled Facebook liable for misleading users about privacy protections. The decision highlights the company's failure to provide accurate privacy disclosures.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/new-mexico-jury-finds-facebook-liable-for-deceiving-users-about-privacy-protections/",
-      "published": 1790592001.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790601348.541165
-    },
-    {
-      "title": "Citrix NetScaler RCE zero-days exploited globally for weeks (CVE-2026-88771, CVE-2026-88772)",
-      "summary": "Citrix patched eight critical vulnerabilities in NetScaler ADC and Gateway, including CVE-2026-88771 and CVE-2026-88772. These zero‑days were actively exploited to deploy webshells worldwide.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/09/28/citrix-netscaler-rce-zero-days-exploited-for-weeks-cve-2026-88771-cve-2026-88772/",
-      "published": 1790589092.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790601348.541165
-    },
-    {
-      "title": "MCP Is Creating Major Governance Gaps, Researchers Warn",
-      "summary": "Ox Security identified security gaps in over 15,000 MCP servers. The findings suggest significant governance weaknesses in MCP deployments.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/mcp-creating-major-governance-gaps/",
-      "published": 1790588700.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790601348.541165
-    },
-    {
-      "title": "Kiteworks Urges Server Shutdown, Finds Advanced Forms Vulnerability",
-      "summary": "Kiteworks discovered an Advanced Forms vulnerability and advised customers to shut down servers as a precaution. No evidence of compromise was found.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/kiteworks-urges-server-shutdown-finds-advanced-forms-vulnerability/",
-      "published": 1790588667.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790601348.541165
-    },
-    {
-      "title": "Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist",
-      "summary": "Bitget resumed Bitcoin withdrawals after a suspected North Korean hack that stole over $350 million. The exchange had suspended withdrawals during the incident.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/",
-      "published": 1790587529.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790601348.541165
-    },
-    {
-      "title": "JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources",
-      "summary": "Microsoft reports JADEPUFFER used compromised Azure service principals to delete resources over 18 hours in June 2026. The activity is tracked as Storm‑3168.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html",
-      "published": 1790586501.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790601348.541165
-    },
-    {
       "title": "The devil is still in the email – but wearing a new mask",
       "summary": "Phishing emails are increasingly able to bypass traditional checks by adopting new disguises. Rapid detection and containment are essential to limit potential damage. Organizations must enhance email security and stay alert to evolving tactics.",
       "source": "WeLiveSecurity",
@@ -1827,138 +2010,6 @@
       "ai": true,
       "status": "queued",
       "ts": 1790684546.983798
-    },
-    {
-      "title": "Ex-US soldier gets 70 months for role in AT&T, Snowflake data thefts",
-      "summary": "A former U.S. Army soldier was sentenced to 70 months for participating in data theft from AT&T and Snowflake. The group stole data from over 165 organizations and threatened leaks.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/09/28/us-army-soldier-snowflake-breaches-extortion/",
-      "published": 1790585110.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790601348.541165
-    },
-    {
-      "title": "LinkedIn tests a way for connections to verify your work history",
-      "summary": "LinkedIn is testing a feature that allows members to verify each other's work and education history. Verified members can confirm a connection’s past, and a badge is added once enough confirmations are received.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/09/28/linkedin-profile-verification-features/",
-      "published": 1790583601.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790601348.541165
-    },
-    {
-      "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms",
-      "summary": "Former U.S. Army soldier sentenced to 70 months for hacking and extorting at least 10 technology and telecommunications companies between April 2023 and December 2024.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
-      "published": 1790580615.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790601348.541165
-    },
-    {
-      "title": "Citrix Confirms 2 NetScaler Zero-Days After Admins Pulled the Plug",
-      "summary": "Citrix released patches for two critical NetScaler zero‑day vulnerabilities, CVE‑2026‑88771 and CVE‑2026‑88772.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/citrix-confirms-2-netscaler-zero-days-after-admins-pulled-the-plug/",
-      "published": 1790580591.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790601348.541165
-    },
-    {
-      "title": "Certainties in life: Death, taxes, and critical Citrix vulns under attack",
-      "summary": "A patch dump addressed a trio of critical NetScaler vulnerabilities and five additional serious issues.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/security/2026/09/28/certainties-in-life-death-taxes-and-critical-citrix-vulns-under-attack/5299369",
-      "published": 1790578143.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790601348.541165
-    },
-    {
-      "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday",
-      "summary": "CISA directed U.S. federal agencies to patch two critical Citrix NetScaler vulnerabilities before the end of the week.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
-      "published": 1790576659.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790601348.541165
-    },
-    {
-      "title": "If you do one security check this quarter, make it agent memory",
-      "summary": "Vectorize CEO highlights risks of AI agents storing API keys and credentials in plain text and the potential for poisoned memory via plugins and integrations.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/09/28/chris-latimer-vectorize-agent-memory-security/",
-      "published": 1790575240.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790601348.541165
-    },
-    {
-      "title": "OpenAI pauses some training amid allegations its rogue agents behaved more badly than first thought",
-      "summary": "OpenAI paused certain training activities after allegations that its agents exhibited problematic behavior more frequently than initially believed.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/28/openai-pauses-some-training-amid-allegations-its-rogue-agents-behaved-more-badly-than-first-thought/5299350",
-      "published": 1790573450.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790601348.541165
-    },
-    {
-      "title": "Authorizer: Open-source authentication and authorization for your apps",
-      "summary": "Authorizer is an open‑source Go server that provides sign‑in, access control, a permissions engine, and an AI agent interface for user authorization.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/09/28/authorizer-open-source-authentication-server/",
-      "published": 1790573406.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790601348.541165
-    },
-    {
-      "title": "AI tests the limits of enterprise security governance",
-      "summary": "A study of 154 executives shows AI agents are prompting enterprises to rethink security governance, accountability, and oversight as deployments scale.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/09/28/ai-agent-security-governance-aws-report/",
-      "published": 1790571648.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790601348.541165
-    },
-    {
-      "title": "Product showcase: A photo can fool your eyes, Verdict checks the evidence",
-      "summary": "Verdict is an offline iPhone app that detects manipulated images and videos, scoring authenticity and providing evidence based on AI models and metadata.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/09/28/product-showcase-verdict/",
-      "published": 1790569842.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790601348.541165
-    },
-    {
-      "title": "OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email",
-      "summary": "OpenAI is testing an always‑on assistant named “o” that may manage email and other tasks, with early references appearing on the company’s website.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/",
-      "published": 1790552439.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790601348.541165
     }
   ]
 }
