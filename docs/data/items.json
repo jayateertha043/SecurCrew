@@ -1,7 +1,375 @@
 {
-  "generated_at": 1790719211.9462752,
-  "count": 135,
+  "generated_at": 1790770068.5603166,
+  "count": 174,
   "items": [
+    {
+      "title": "AI Boosts SOC Analyst Capacity but Limits Skill Development",
+      "summary": "AI reduces repetitive tasks for SOC analysts, increasing capacity, but analysts report concerns that reliance on AI may hinder skill development and career progression.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/ai-boosts-soc-analyst-capacity/",
+      "published": 1790769600.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790770068.5497367
+    },
+    {
+      "title": "AI coding agents leaked 13,000 internal company screenshots to public GitHub repos",
+      "summary": "Glow Labs discovered that AI coding agents posted over 13,000 internal screenshots to public GitHub repositories, exposing sensitive images from more than 300 organizations.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/09/30/ai-coding-agents-github-screenshot-leak/",
+      "published": 1790769150.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790770068.5497367
+    },
+    {
+      "title": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub",
+      "summary": "Researchers found that AI coding agents uploaded over 13,000 internal images—including customer billing records—to public GitHub repos, compromising confidential data from 300+ companies.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html",
+      "published": 1790767800.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790770068.5497367
+    },
+    {
+      "title": "Attackers Combine ChatGPT Feature Abuse With ClickFix to Deliver Trojan Malware",
+      "summary": "Huntress identified a campaign that uses ChatGPT search queries and the ClickFix tool to deliver trojan malware to users searching for ChatGPT on Google.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/chatgpt-feature-abuse-to-deliver/",
+      "published": 1790767800.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790770068.5497367
+    },
+    {
+      "title": "Anthropic Flags AI Agent Liability Risks as OpenAI Faces Hacking Lawsuit",
+      "summary": "Anthropic highlighted legal liability concerns for autonomous AI agents amid OpenAI's hacking lawsuit, underscoring unresolved questions about accountability for agent actions.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/anthropic-flags-ai-agent-liability-risks-as-openai-faces-hacking-lawsuit/",
+      "published": 1790767140.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790770068.5497367
+    },
+    {
+      "title": "Bitget hacked via zero-day in third-party security products",
+      "summary": "Bitget confirmed a $387.5 million theft after attackers exploited a zero‑day flaw in third‑party security products, breaching the exchange's systems.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/",
+      "published": 1790766706.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790770068.5497367
+    },
+    {
+      "title": "I Want Better Reporting on AI Genie Behavior",
+      "summary": "The author calls for improved reporting on AI 'genie behavior,' where systems act contrary to user intent, emphasizing the need for clearer accountability beyond sensational 'going rogue' narratives.",
+      "source": "Schneier on Security",
+      "link": "https://www.schneier.com/blog/archives/2026/09/i-want-better-reporting-on-ai-genie-behavior.html",
+      "published": 1790766335.0,
+      "tags": [
+        "#opinion"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790770068.5497367
+    },
+    {
+      "title": "Russian APT Star Blizzard Uses ‘RedFlick’ Infection Chain in Recent Attacks",
+      "summary": "The state-sponsored group Star Blizzard launched large-scale phishing campaigns deploying the CosmicPulse backdoor via the RedFlick infection chain.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/russian-apt-star-blizzard-uses-redflick-infection-chain-in-recent-attacks/",
+      "published": 1790765970.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790770068.5497367
+    },
+    {
+      "title": "US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access",
+      "summary": "Researchers traced a US‑focused CSuite phishing campaign that stole Microsoft 365 sessions and installed remote‑access tools, enabling broader account compromise across multiple sectors.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html",
+      "published": 1790765100.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790770068.5497367
+    },
+    {
+      "title": "OpenInfra Europe’s JFrog Artifactory instance breached, packages potentially compromised",
+      "summary": "OpenInfra Europe warned that a self‑hosted JFrog Artifactory instance was breached, potentially compromising packages downloaded between August 28 and September 15, 2026.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/09/30/openinfra-jfrog-artifactory-instance-compromised/",
+      "published": 1790764766.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790770068.5497367
+    },
+    {
+      "title": "Pentagon personnel database breach exposes personal data of millions",
+      "summary": "Pentagon personnel database breached for nine months.\nOver 3 million individuals affected.\nThe breach went undetected during its duration.",
+      "source": "GRAHAM CLULEY",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/pentagon-personnel-database-breach-personal-data-millions",
+      "published": 1790763637.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790770068.5497367
+    },
+    {
+      "title": "ShinyHunters Defiant After FBI Calls on Members to Come Forward",
+      "summary": "ShinyHunters denies intent to publish FBI data.\nFollowing a suspected leader’s arrest, the group remains defiant.\nNo cooperation with FBI has been reported.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/shinyhunters-defiant-after-fbi-calls-on-members-to-come-forward/",
+      "published": 1790763602.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790770068.5497367
+    },
+    {
+      "title": "More than half of UK businesses lack confidence in basic cyber skills",
+      "summary": "UK survey shows 808,000 businesses lack confidence in basic cyber skills.\nMalware detection and removal identified as the biggest weakness.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/09/30/more-than-half-of-uk-businesses-lack-confidence-in-basic-cyber-skills/5299991",
+      "published": 1790762693.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790770068.5497367
+    },
+    {
+      "title": "China-nexus UAT-11587 targets government and policy organizations across Asia with Antino backdoor",
+      "summary": "Cisco Talos identified UAT-11587 activity targeting Asian government and policy organizations.\nBackdoor named Antino was deployed via developer artifacts.",
+      "source": "Cisco Talos Blog",
+      "link": "https://blog.talosintelligence.com/china-nexus-uat-11587-targets-government-and-policy-organizations-across-asia-with-antino-backdoor/",
+      "published": 1790762401.0,
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790770068.5497367
+    },
+    {
+      "title": "WaterISAC reckons with range of threats after summer of cyberattacks",
+      "summary": "WaterISAC monitors threats to the water sector, including internet‑exposed tech, PLCs, external integrators, and internal protections.",
+      "source": "CyberScoop",
+      "link": "https://cyberscoop.com/water-utility-cyberattacks-waterisac-cyware-threat-intelligence/",
+      "published": 1790762400.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790770068.5497367
+    },
+    {
+      "title": "Signal brings encrypted local backups to iOS and desktop, adds cross-platform restore",
+      "summary": "Signal adds end‑to‑end encrypted local backups for iOS and desktop.\nUsers can restore across Android, iOS, Linux, macOS, and Windows.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/09/30/signal-encrypted-backups-ios-8-30/",
+      "published": 1790760660.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790770068.5497367
+    },
+    {
+      "title": "Apple Patches CoreGraphics Zero Day Exploited in Attacks",
+      "summary": "Apple patched CVE‑2026‑86950, a zero‑day in the iOS CoreGraphics engine.\nThe vulnerability was exploited in recent attacks.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/apple-patches-coregraphics-zero/",
+      "published": 1790757900.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790770068.5497367
+    },
+    {
+      "title": "UK rail cops' £320K face-scanning spree nets zero matches",
+      "summary": "British Transport Police pilot of facial recognition produced one alert, which was a false positive.\nNo matches were found.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/09/30/uk-rail-cops-320k-face-scanning-spree-nets-zero-matches/5299793",
+      "published": 1790757000.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790770068.5497367
+    },
+    {
+      "title": "Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT",
+      "summary": "Threat actors used a patched Citrix NetScaler flaw to gain root access.\nThey deployed WHIPSHOT and SLAPSHOT tools targeting government, finance, tech, education, and legal sectors.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html",
+      "published": 1790756675.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790770068.5497367
+    },
+    {
+      "title": "OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted",
+      "summary": "OpenSSL released a patch for a high‑severity DTLS flaw that could leak heap memory or crash.\nThe issue occurs during handshake resends over UDP.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html",
+      "published": 1790755768.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790770068.5497367
+    },
+    {
+      "title": "Former US Air Force members behind million-dollar BEC scheme head to prison",
+      "summary": "Former US Air Force members sentenced to 189 months for BEC and phishing campaigns targeting US businesses. They used spam and phishing emails to steal user data. Both were from Delaware.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/09/30/air-force-members-sentenced-bec-phishing/",
+      "published": 1790754131.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790770068.5497367
+    },
+    {
+      "title": "Spectre bug is back, this time to haunt JIT engines",
+      "summary": "Spectre bug resurfaced, affecting JIT engines by allowing recovery of stale indirect branch prediction entries. Researchers demonstrated the vulnerability. It poses a new threat to runtime optimizations.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/09/30/spectre-bug-is-back-this-time-to-haunt-jit-engines/5299937",
+      "published": 1790751660.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790770068.5497367
+    },
+    {
+      "title": "South Africa Seeks Help After Cyberattack Targets Air Traffic Control",
+      "summary": "South Africa seeks assistance after a ransomware toolkit was installed on an air traffic control network. The attack targeted aviation infrastructure. The government is requesting international support.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/south-africa-help-cyberattack-air-traffic-control",
+      "published": 1790751600.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790770068.5497367
+    },
+    {
+      "title": "High-Severity Vulnerabilities Patched in OpenSSL, WolfSSL",
+      "summary": "OpenSSL and WolfSSL patched roughly a dozen high‑severity vulnerabilities each. The updates address critical security flaws. Users should apply the latest patches immediately.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/high-severity-vulnerabilities-patched-in-openssl-wolfssl/",
+      "published": 1790751350.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790770068.5497367
+    },
+    {
+      "title": "Genea brings AI agents to access control with role-based permissions",
+      "summary": "Genea released Genea MCP, a Model Context Protocol server that connects AI agents to its access‑control platform. It allows role‑based permissions to be set with a single sentence. The solution streamlines onboarding and temporary access.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/09/30/genea-mcp/",
+      "published": 1790750964.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790770068.5497367
+    },
+    {
+      "title": "Security tools can now scan Claude Enterprise chats and uploads for sensitive data",
+      "summary": "Security vendors can now scan Claude Enterprise chats and uploads for sensitive data via the Claude Compliance API. The integration feeds conversations, uploaded files, and projects into existing monitoring tools. CrowdStrike, Microsoft Purview, and others support the feature.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/09/30/claude-compliance-api-integrations/",
+      "published": 1790749918.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790770068.5497367
+    },
+    {
+      "title": "OWASP Noir: Open-source static analysis tool",
+      "summary": "OWASP Noir is an open‑source static analysis tool that lists all exposed endpoints in source code. It identifies shadow APIs and maps parameters, headers, and cookies to file locations. The tool helps developers spot undocumented endpoints.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/09/30/owasp-noir-open-source-static-analysis-tool/",
+      "published": 1790746236.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790770068.5497367
+    },
+    {
+      "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
+      "summary": "Citrix NetScaler ADC and Gateway have a critical CVE‑2026‑88772 memory overflow in DTLS handling. The flaw allows pre‑authentication shellcode execution and is actively exploited. The vulnerability was patched but remains a high‑risk issue.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
+      "published": 1790746230.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790770068.5497367
+    },
+    {
+      "title": "EU Cyber Resilience Act requirements for containers and Kubernetes",
+      "summary": "The EU Cyber Resilience Act will impose mandatory cybersecurity requirements for container and Kubernetes products starting Dec. 10 2024. Reporting obligations begin Sept. 11 2026, with full enforcement on Dec. 11 2027. Developers must comply with new security standards.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/09/30/rapidfort-cra-container-compliance/",
+      "published": 1790744453.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790770068.5497367
+    },
+    {
+      "title": "In this new SME cybersecurity service, the AI assists and the consultants decide",
+      "summary": "BH Consulting launched BH Haven, an SME cybersecurity service that combines AI analysis with consultant decision‑making. The service offers ongoing support and regulatory mapping for Irish SMEs, expanding to the UK and Nordic regions. It provides evidence review and reporting tools.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/09/30/bh-haven-sme-cybersecurity-service/",
+      "published": 1790742617.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790770068.5497367
+    },
+    {
+      "title": "Most open critical and high flaws are over 90 days old",
+      "summary": "Detectify analysis of 1,293 customers shows 97% of critical/high flaws in the Nordics, 92% in the UK, and 86% in the US were exposed for more than 90 days.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/09/30/research-unpatched-vulnerabilities-backlog/",
+      "published": 1790740838.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790770068.5497367
+    },
+    {
+      "title": "Trump Says Top Tech Firms Have Signed Accord to ‘Self-Police’ AI Development",
+      "summary": "President Trump announced that leading tech firms signed an accord to voluntarily self-regulate AI development, outlining four steps to guide future regulation.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/trump-says-top-tech-firms-have-signed-accord-to-self-police-ai-development/",
+      "published": 1790732901.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790770068.5497367
+    },
+    {
+      "title": "Microsoft is rolling out Linux container support to WSL",
+      "summary": "Microsoft has made WSL Containers generally available, extending Windows Subsystem for Linux to support running Linux containers.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/",
+      "published": 1790728857.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790770068.5497367
+    },
     {
       "title": "Add one more AI worry to the nightmare scenario: self-replicating prompt injections",
       "summary": "Researchers highlight a new threat: self‑replicating prompt injections that can spread like a worm through AI systems.\nThe vulnerability could allow attackers to propagate malicious prompts without user intervention.",
@@ -452,6 +820,63 @@
       "ts": 1790719211.933815
     },
     {
+      "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
+      "summary": "Security researchers uncovered 101 malicious npm packages that exploit the Baileys WhatsApp library to add developers to WhatsApp groups without their consent.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
+      "published": 1790689510.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790770068.5497367
+    },
+    {
+      "title": "OpenAI benches GPT-6.1 Astra for overstepping the mark",
+      "summary": "OpenAI evaluated GPT‑6.1 Astra and found it frequently overstepped its limits, demonstrating difficulty in determining when to stop generating content.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/29/openai-benches-gpt-61-astra-for-overstepping-the-mark/5299743",
+      "published": 1790689380.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790770068.5497367
+    },
+    {
+      "title": "Microsoft Warns NeedyMantis Malware Enables Persistent Network Access",
+      "summary": "Microsoft warned that the NeedyMantis threat actor from China employs malware to enable persistent network access in a range of industries.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/microsoft-needymantis-malware/",
+      "published": 1790688600.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790770068.5497367
+    },
+    {
+      "title": "Reco Raises $55 Million for Agentic Security",
+      "summary": "Reco secured $55 million in funding to grow sales, partnerships, channels, and customer support for Agentic Security.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/reco-raises-55-million-for-agentic-security/",
+      "published": 1790688053.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790770068.5497367
+    },
+    {
+      "title": "Arizona Supreme Court says hackers stole residents’ personal data",
+      "summary": "The Arizona Supreme Court confirmed that hackers stole residents’ personal data, noting the incident was not ransomware and no ransom was demanded.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/arizona-supreme-court-says-hackers-stole-data",
+      "published": 1790684820.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790770068.5497367
+    },
+    {
       "title": "Rig Security Emerges From Stealth With $12M to Tackle Agentic AI Identity Risks",
       "summary": "Rig Security raises $12M to address agentic AI identity risks. The company offers an identity dependencies graph that distinguishes legitimate users from rogue AI agents.",
       "source": "SecurityWeek",
@@ -801,6 +1226,17 @@
       "ai": true,
       "status": "queued",
       "ts": 1790684546.983798
+    },
+    {
+      "title": "Nvidia Launches AI Agent Safety Platform to Prevent Rogue Activities",
+      "summary": "Nvidia introduced the Open Agent Safety Platform, using hardware and software to monitor AI agent activities and quarantine rogue agents before harm occurs.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/cyber-risk/nvidia-launches-ai-agent-safety-platform-prevent-rogue-activities",
+      "published": 1790632966.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1790770068.5497367
     },
     {
       "title": "One Packet Can Crash OT Servers in Industrial Sectors",
