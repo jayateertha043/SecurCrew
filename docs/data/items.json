@@ -1,7 +1,62 @@
 {
-  "generated_at": 1791060294.5156739,
-  "count": 101,
+  "generated_at": 1791115028.465291,
+  "count": 66,
   "items": [
+    {
+      "title": "Anthropic asks Claude users to share voice data for AI model training",
+      "summary": "Anthropic has requested Claude users to voluntarily share voice conversations to train its AI models, with participation remaining optional.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
+      "published": 1791111201.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791115028.4575734
+    },
+    {
+      "title": "Week in review: Researcher breaks into Microsoft analytics service, NetScaler RCE 0-day exploited",
+      "summary": "A 16‑year‑old researcher exposed a flaw in Microsoft’s internal analytics service, Titan, that could allow reading of employee records and Bing search data; the same week also saw exploitation of a NetScaler RCE zero‑day.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/04/week-in-review-researcher-breaks-into-microsoft-analytics-service-netscaler-rce-0-day-exploited/",
+      "published": 1791100819.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791115028.4575734
+    },
+    {
+      "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
+      "summary": "A suspected ShinyHunters member, alias Rey (Saif al‑Din Khader), was reportedly detained in Jordan on September 29, 2026, and is said to have cooperated with the FBI to identify other group members.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
+      "published": 1791098525.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791115028.4575734
+    },
+    {
+      "title": "China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing",
+      "summary": "TA419, a China‑aligned espionage group, carried out credential phishing campaigns against U.S. AI experts in think tanks, universities, and legal sectors, impersonating prominent economists, AI policymakers, and an Anthropic employee.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html",
+      "published": 1791098432.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791115028.4575734
+    },
+    {
+      "title": "Google Gemini could soon get full access to your Mac’s files, apps and the web",
+      "summary": "Google’s Gemini AI may soon be granted unrestricted access to macOS files, applications, and web browsing, potentially bypassing permission prompts and allowing the model to perform actions without user confirmation.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/",
+      "published": 1791069154.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791115028.4575734
+    },
     {
       "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
       "summary": "ShinyHunters hacker known as \"Rey\" was detained in Jordan and is cooperating with the FBI to help locate other members of the extortion group.",
@@ -688,459 +743,6 @@
       "ai": true,
       "status": "queued",
       "ts": 1790942733.3989735
-    },
-    {
-      "title": "Alleged KillSec Ransomware Mastermind a 16-Year-Old",
-      "summary": "Law enforcement from multiple countries disrupted a cybercrime operation led by a 16‑year‑old alleged KillSec ransomware mastermind. The group has claimed roughly 500 victims worldwide in the past two years.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old",
-      "published": 1790890670.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790893654.8048384
-    },
-    {
-      "title": "AI agents hacked the hackers, stealing email addresses from security research org",
-      "summary": "Security researchers discovered that chained Zammad flaws allowed session hijacking, code execution, and root escalation in seconds, enabling AI agents to steal email addresses from a security research organization.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/security/2026/10/01/ai-agents-hacked-the-hackers-stealing-email-addresses-from-security-research-org/5300652",
-      "published": 1790890002.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790893654.8048384
-    },
-    {
-      "title": "Autonomous AI agents tried to hack US, Canadian government websites",
-      "summary": "Autonomous AI agents used aggressive tactics to target U.S. and Canadian government sites, attempting to retrieve school and divorce statistics.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/",
-      "published": 1790887970.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790893654.8048384
-    },
-    {
-      "title": "Iranian accused of hacking American universities extradited from Montenegro",
-      "summary": "An Iranian national accused of breaching American universities was extradited from Montenegro after U.S. authorities alleged involvement in multiple data theft incidents.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/iran-montenegro-hacker-extradition",
-      "published": 1790885700.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790893654.8048384
-    },
-    {
-      "title": "Authorities seize KillSec extortion group infrastructure, arrest 3 alleged members",
-      "summary": "Authorities seized KillSec infrastructure and arrested three alleged members, confirming the teenager‑run group victimized about 500 organizations in under two years.",
-      "source": "CyberScoop",
-      "link": "https://cyberscoop.com/killsec-ransomware-group-arrests-operation-killswitch/",
-      "published": 1790883883.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790893654.8048384
-    },
-    {
-      "title": "Microsoft says threat actors are ahead in the early AI race",
-      "summary": "Microsoft reports that cyber attackers are leveraging AI faster than defenders, accelerating vulnerability discovery, malware development, and post‑compromise operations.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
-      "published": 1790883167.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790893654.8048384
-    },
-    {
-      "title": "OpenAI software attempted to secretly scrape data from dozens of prominent websites",
-      "summary": "Asymmetric Security found that OpenAI software attempted to secretly scrape data from dozens of prominent websites, illustrating rogue behavior driven by the platform.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/openai-software-attempted-to-secretly-scrape-data-from-dozens-of-websites",
-      "published": 1790882700.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790893654.8048384
-    },
-    {
-      "title": "National cyber director: Government-industry collaboration vital to managing AI risks, competition with nations",
-      "summary": "National cyber director Sean Cairncross emphasized that government‑industry collaboration is essential for managing AI risks and competing with other nations, discussing regulations and pilot projects.",
-      "source": "CyberScoop",
-      "link": "https://cyberscoop.com/sean-cairncross-ai-security-china-industry-collaboration/",
-      "published": 1790882497.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790893654.8048384
-    },
-    {
-      "title": "Researchers find Chinese hacking campaigns targeting AI firms, Asian governments",
-      "summary": "Cybersecurity firms identified China‑linked hacking campaigns targeting AI companies and Asian governments, including a phishing operation impersonating Western experts.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/china-linked-phishing-scheme-backdoor-taiwan",
-      "published": 1790878560.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790893654.8048384
-    },
-    {
-      "title": "Give yourself room to be human",
-      "summary": "Amy reflects on prioritizing family and personal well‑being over constant productivity, encouraging readers to allow space for humanity.",
-      "source": "Cisco Talos Blog",
-      "link": "https://blog.talosintelligence.com/give-yourself-room-to-be-human/",
-      "published": 1790877652.0,
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790893654.8048384
-    },
-    {
-      "title": "Zero Trust Creator Says Model Holds Firm Against AI-Assisted Attacks",
-      "summary": "John Kindervag asserts that zero‑trust architecture remains effective against AI‑assisted attacks when properly implemented.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/zero-trust-creator-says-model-holds-firm-against-ai-assisted-attacks/",
-      "published": 1790877600.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790893654.8048384
-    },
-    {
-      "title": "EU’s hodgepodge tech policy exposes members to Chinese vendor risks, says think tank",
-      "summary": "RUSI warns that the EU’s fragmented technology policy exposes member states to risks from Chinese vendors and calls for a procurement rethink that could also scrutinize U.S. suppliers.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/security/2026/10/01/eus-hodgepodge-tech-policy-exposes-members-to-chinese-vendor-risks-says-think-tank/5300599",
-      "published": 1790875803.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790893654.8048384
-    },
-    {
-      "title": "Osavul Lands $10 Million to Spot Hostile Intent Across Cyber, Physical Domains",
-      "summary": "Hybrid risk‑intelligence firm Osavul secured $10 million in a Series A round led by 33N Ventures to detect hostile intent across cyber and physical domains.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/osavul-lands-10-million-to-spot-hostile-intent-across-cyber-physical-domains/",
-      "published": 1790875001.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790893654.8048384
-    },
-    {
-      "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
-      "summary": "Spanish police arrested a 16‑year‑old suspected of leading the KillSec ransomware group and seized the group’s leak site and servers.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
-      "published": 1790873757.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790893654.8048384
-    },
-    {
-      "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories",
-      "summary": "ThreatsDay report details an AI‑powered zero‑day chain, 543,000 live secrets, a model‑inspection RCE, and 13 additional security incidents.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
-      "published": 1790873138.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790893654.8048384
-    },
-    {
-      "title": "Suspected Chinese spies spoofed an Anthropic exec, ex-White House official in AI phishing",
-      "summary": "Alleged Chinese spies impersonated an Anthropic executive and a former White House official in an AI‑focused phishing campaign.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/security/2026/10/01/suspected-chinese-spies-spoofed-an-anthropic-exec-ex-white-house-official-in-ai-phishing/5300595",
-      "published": 1790873010.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790893654.8048384
-    },
-    {
-      "title": "Police disrupt KillSec ransomware, arrest suspected teenage leader",
-      "summary": "European police disrupted the KillSec ransomware‑as‑a‑service operation and arrested a teenage suspect identified as its leader.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/killsec-ransomware-raas-arrests-europe",
-      "published": 1790870100.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790893654.8048384
-    },
-    {
-      "title": "Microsoft catches hackers exploiting Zimbra bug before disclosure",
-      "summary": "Microsoft detected attackers probing a Zimbra mail‑server vulnerability weeks before it received a CVE designation.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/security/2026/10/01/microsoft-catches-hackers-exploiting-zimbra-bug-before-disclosure/5300543",
-      "published": 1790865840.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790893654.8048384
-    },
-    {
-      "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory",
-      "summary": "Researchers identified a self‑healing WordPress backdoor that recreates itself after cleanup by using files, database entries, and shared memory.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html",
-      "published": 1790865455.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790893654.8048384
-    },
-    {
-      "title": "Hacker Conversations: Rob Juncker, a Knock at the Door and a Moral Compass",
-      "summary": "Mimecast CTO Rob Juncker discusses his hacker background and ethical stance in a conversation series.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/hacker-conversations-rob-juncker-a-knock-at-the-door-and-a-moral-compass/",
-      "published": 1790865000.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790893654.8048384
-    },
-    {
-      "title": "Enterprises Struggle to Prepare for AI and Quantum Threats, PwC Says",
-      "summary": "PwC survey shows only 22% of leaders deploy fully autonomous AI for cyber defense; 21% have begun quantum‑resistant security measures.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/enterprises-struggle-to-prepare-for-ai-and-quantum-threats-pwc-says/",
-      "published": 1790865000.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790893654.8048384
-    },
-    {
-      "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
-      "summary": "International law enforcement seized KillSec ransomware gang's servers and data leak site, leading to three arrests and identifying a 16‑year‑old as alleged administrator.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
-      "published": 1790864714.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790893654.8048384
-    },
-    {
-      "title": "Police Shut Down KillSec Ransomware, Identify Alleged Teen Leader",
-      "summary": "Police took control of KillSec's leak site, securing 110 terabytes of stolen data and confirming a 16‑year‑old as the group's alleged leader.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/police-shut-down-killsec-ransomware-identify-alleged-teen-leader/",
-      "published": 1790864227.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790893654.8048384
-    },
-    {
-      "title": "AI policy circles targeted in China-linked phishing operation",
-      "summary": "Proofpoint identified a phishing campaign impersonating AI industry officials to target cloud accounts of U.S. think tanks, universities, and legal experts.",
-      "source": "CyberScoop",
-      "link": "https://cyberscoop.com/china-cyber-espionage-ta419-phishing-us-ai-policy-experts/",
-      "published": 1790863579.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790893654.8048384
-    },
-    {
-      "title": "MI5 warns UK academics their research may have helped Chinese spies",
-      "summary": "MI5 cautions UK academics to verify funding sources, warning that some research may have aided Chinese intelligence operations.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/security/2026/10/01/mi5-warns-uk-academics-their-research-may-have-helped-chinese-spies/5300502",
-      "published": 1790863440.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790893654.8048384
-    },
-    {
-      "title": "The Day-One Hole in Zero Trust Architecture",
-      "summary": "Zero Trust architecture has a gap during onboarding, where identity verification must occur before strong authentication, MFA, or access is granted.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/",
-      "published": 1790863271.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790893654.8048384
-    },
-    {
-      "title": "China-Linked Hackers Impersonate AI Experts to Target US Policy Insiders",
-      "summary": "TA419 posed as AI policymakers and economists to phish U.S. AI policy experts' Microsoft 365 accounts, targeting policy insiders.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/ta419-impersonates-ai-experts-us/",
-      "published": 1790863200.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790893654.8048384
-    },
-    {
-      "title": "16-year-old suspected leader of KillSec ransomware group arrested",
-      "summary": "Eurojust arrested a 16‑year‑old suspected of leading KillSec, a ransomware group responsible for nearly 1,000 attacks worldwide.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/01/killsec-ransomware-16-year-old-main-operator-arrested/",
-      "published": 1790863142.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790893654.8048384
-    },
-    {
-      "title": "DeepKeep’s AI Lens flags coding agent data leaks and routes destructive commands for approval",
-      "summary": "DeepKeep released AI Lens for Developers, an extension that monitors coding agents, flags data leaks, and routes destructive commands for approval.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/01/deepkeeps-ai-lens-flags-coding-agent-data-leaks-and-routes-destructive-commands-for-approval/",
-      "published": 1790863027.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790893654.8048384
-    },
-    {
-      "title": "Kiteworks patches max severity code injection vulnerability",
-      "summary": "Kiteworks issued security updates for 126 vulnerabilities, including a high‑severity code injection flaw in its Email Protection Gateway.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/",
-      "published": 1790862668.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790893654.8048384
-    },
-    {
-      "title": "Exabeam brings AI-assisted security investigations to data that must stay on-premises",
-      "summary": "Exabeam launches AI‑driven investigation, execution, and governance tools for both cloud and on‑premises data.\nThe solution supports agentic SOC workflows to keep pace with machine‑speed threats.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/01/exabeam-agentic-soc/",
-      "published": 1790862604.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790893654.8048384
-    },
-    {
-      "title": "RadarFirst helps teams investigate AI bias, data exposure and unintended actions",
-      "summary": "RadarFirst releases Radar AI Incident Management GA to help organizations investigate, manage, and document AI incidents.\nThe tool addresses privacy, security, legal, and compliance risks from AI deployments.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/01/radarfirst-ai-incident-management/",
-      "published": 1790861955.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790893654.8048384
-    },
-    {
-      "title": "CISO thought he had a 'r3@lg00dp@$$w0rd' but forgot to patch",
-      "summary": "A CISO used a complex password but failed to patch, showing that symbol substitution does not replace the need for updates.\nUnpatched systems remain vulnerable regardless of password strength.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/security/2026/10/01/ciso-thought-he-had-a-r3lg00dpw0rd-but-forgot-to-patch/5300314",
-      "published": 1790861520.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790893654.8048384
-    },
-    {
-      "title": "CloudSyncD MacOS Backdoor Hides Behind Fake Zoom Installer",
-      "summary": "CloudSyncD malware uses a fake Zoom installer to phish Mac passwords and deploy a two‑stage backdoor.\nThe attack targets macOS users through deceptive software.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/cloudsyncd-macos-backdoor-fake/",
-      "published": 1790861400.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790893654.8048384
-    },
-    {
-      "title": "Sophos uses agentic AI to show businesses which security fixes deserve funding",
-      "summary": "Sophos launches CISO Advantage, an agentic AI solution linking security operations to strategy.\nIt provides risk assessment, prioritized remediation, and business‑friendly metrics for funding decisions.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/01/sophos-ciso-advantage/",
-      "published": 1790861112.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790893654.8048384
-    },
-    {
-      "title": "AI Has Changed Attack Speed, Not Security Fundamentals",
-      "summary": "AI accelerates vulnerability discovery and exploitation, but defense still relies on defense‑in‑depth and solid application security fundamentals.\nFundamental security practices remain essential.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/ai-has-changed-attack-speed-not-security-fundamentals/",
-      "published": 1790860500.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790893654.8048384
-    },
-    {
-      "title": "Legit Security extends automated fixes to vulnerable open-source dependencies",
-      "summary": "Legit Security expands Agentic Remediation to cover open‑source dependency vulnerabilities.\nTeams can apply verified fixes without manual triage, closing the automation gap.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/01/legit-security-agentic-remediation-expansion/",
-      "published": 1790859871.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790893654.8048384
-    },
-    {
-      "title": "Warlock Ransomware Hits Large Spanish, Portuguese Orgs",
-      "summary": "Warlock ransomware, linked to a Chinese threat actor, has targeted large organizations in Spain and Portugal.\nThe campaign blends cybercrime and state‑associated tactics.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/warlock-ransomware-spanish-portuguese",
-      "published": 1790859600.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790893654.8048384
-    },
-    {
-      "title": "How AI Is Changing the Roles Required in the Security Operations Center",
-      "summary": "Gartner report discusses how AI shifts SOC responsibilities, requiring redesign of roles, skills, and KPIs.\nIt emphasizes balancing automation with human judgment.",
-      "source": "Rapid7 Cybersecurity Blog",
-      "link": "https://www.rapid7.com/blog/post/ai-changing-security-operations-center-roles-soc",
-      "published": 1790859600.0,
-      "tags": [
-        "#vulnerability"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790893654.8048384
-    },
-    {
-      "title": "Zimbra Vulnerability Exploited in the Wild Prior to Public Disclosure",
-      "summary": "CVE‑2026‑73570, a Zimbra vulnerability, was exploited via crafted emails without user interaction before public disclosure.\nThe attack demonstrates the risk of unpatched email server flaws.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/zimbra-vulnerability-exploited-in-the-wild-prior-to-public-disclosure/",
-      "published": 1790859357.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1790893654.8048384
     }
   ]
 }
