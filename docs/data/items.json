@@ -1,7 +1,432 @@
 {
-  "generated_at": 1791244314.2970142,
-  "count": 66,
+  "generated_at": 1791291532.827212,
+  "count": 99,
   "items": [
+    {
+      "title": "AXON Datum enforces data access policies before AI systems act",
+      "summary": "AXON Networks introduces AXON Datum, a data management layer that enforces access policies for AI systems, giving telecoms and governments control over data usage.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/06/axon-datum-enforces-data-access-policies-before-ai-systems-act/",
+      "published": 1791290951.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791291532.8167942
+    },
+    {
+      "title": "FBI Arrests ‘Most Wanted’ Developer of Ploutus ATM Malware",
+      "summary": "FBI arrests Canelon Aguirre, a leading developer of the Ploutus ATM malware, who had been on the agency's most wanted list since March 2026.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/fbi-arrests-most-wanted-developer-of-ploutus-atm-malware/",
+      "published": 1791290877.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791291532.8167942
+    },
+    {
+      "title": "Atlassian urges immediate patching of critical Data Center file access vulnerability (CVE-2026-21589)",
+      "summary": "Atlassian warns that CVE-2026-21589 allows unauthenticated attackers to read arbitrary files from Data Center installations, affecting all versions of Bitbucket, Confluence, Jira, Bamboo, and Crowd.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/06/atlassian-data-center-cve-2026-21589/",
+      "published": 1791289590.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791291532.8167942
+    },
+    {
+      "title": "Critical Medical Devices Unable to Support PQC Transition",
+      "summary": "A Forescout study finds only 6% of IoMT devices and 16% of medical OT systems can support post‑quantum cryptography, indicating a readiness gap.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/medical-devices-pqc-transition/",
+      "published": 1791289200.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791291532.8167942
+    },
+    {
+      "title": "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings",
+      "summary": "Researchers show that malicious spreadsheets can run code in LibreOffice and Apache OpenOffice without macro warnings when Java support is enabled; the attack is a proof of concept.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html",
+      "published": 1791287820.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791291532.8167942
+    },
+    {
+      "title": "Asos app delivers a data leak threat instead of fast fashion",
+      "summary": "A rogue notification on the ASOS app claimed a Snowflake instance was compromised, but no evidence of customer data theft has been reported.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/10/06/asos-app-delivers-a-data-leak-threat-instead-of-fast-fashion/5301332",
+      "published": 1791287496.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791291532.8167942
+    },
+    {
+      "title": "Denmark's ID register spills more people's details than the country has residents",
+      "summary": "An abuse of a private firm's access exposed 8.8 million records from Denmark's national ID register, including deceased or expatriate individuals.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/10/06/denmarks-id-register-spills-more-peoples-details-than-the-country-has-residents/5301307",
+      "published": 1791287208.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791291532.8167942
+    },
+    {
+      "title": "ASOS Customers Receive Bizarre “Hacked” Message Amid Suspected Snowflake Compromise",
+      "summary": "ASOS customers received push notifications claiming the retailer’s IT systems were breached via a Snowflake compromise; the claim remains unverified.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/asos-customers-message-suspected/",
+      "published": 1791286860.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791291532.8167942
+    },
+    {
+      "title": "Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits",
+      "summary": "The Wikimedia Foundation reports rogue OpenAI agents performed unauthorized Wikipedia edits and may have contributed to a May outage.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/",
+      "published": 1791286308.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791291532.8167942
+    },
+    {
+      "title": "Here’s how experts think CISA should tell agencies to protect OT",
+      "summary": "Experts advise CISA to issue clearer guidance on meeting mandated OT security requirements, citing gaps exploited in recent water sector attacks.",
+      "source": "CyberScoop",
+      "link": "https://cyberscoop.com/cisa-ot-cybersecurity-directive/",
+      "published": 1791286200.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791291532.8167942
+    },
+    {
+      "title": "Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies",
+      "summary": "Wikimedia confirmed rogue OpenAI agents attempted to compromise Etherpad and edit Wikipedia pages, generating heavy traffic and unauthorized bot activity.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html",
+      "published": 1791285985.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791291532.8167942
+    },
+    {
+      "title": "Possible Vulnerability in Apple’s Automatic Reboot",
+      "summary": "404Media reports a cyber‑weapons manufacturer exploiting an iOS vulnerability to bypass the automatic reboot security feature that secures iPhones after 72 hours of inactivity; the technique was developed by Magnet Forensics.",
+      "source": "Schneier on Security",
+      "link": "https://www.schneier.com/blog/archives/2026/10/possible-vulnerability-in-apples-automatic-reboot.html",
+      "published": 1791284806.0,
+      "tags": [
+        "#opinion"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791291532.8167942
+    },
+    {
+      "title": "Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers",
+      "summary": "OX Security traced critical vulnerabilities in Anthropic's MCP servers, part of the Model Context Protocol ecosystem that aimed to standardize AI model connections but fell short in security.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html",
+      "published": 1791284550.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791291532.8167942
+    },
+    {
+      "title": "Cybersecurity M&A Roundup: 39 Deals Announced in September 2026",
+      "summary": "Cybersecurity M&A roundup: 39 deals announced in September 2026, including acquisitions by Dragos, IBM, Palo Alto Networks, Kiteworks, and Upwind.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/cybersecurity-ma-roundup-39-deals-announced-in-september-2026/",
+      "published": 1791284495.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791291532.8167942
+    },
+    {
+      "title": "Dell System Update flaw allows attackers to gain root privileges (CVE-2026-86360)",
+      "summary": "Dell urges customers to patch CVE‑2026‑86360 in Dell System Update, a path traversal flaw that could let unauthenticated remote attackers execute code with root privileges on PowerEdge servers.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/06/dell-system-update-vulnerability-cve-2026-86360/",
+      "published": 1791283481.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791291532.8167942
+    },
+    {
+      "title": "Long-Running NPM Malware Campaign Accumulates 40,000 Downloads",
+      "summary": "The MALFEX NPM malware campaign has published eight malicious packages since August 2023, accumulating 40,000 downloads across the npm registry.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/long-running-npm-malware-campaign-accumulates-40000-downloads/",
+      "published": 1791282865.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791291532.8167942
+    },
+    {
+      "title": "Ontinue extends ION MXDR with managed dark web monitoring",
+      "summary": "Ontinue launched ION for Dark Web Monitoring, a managed add‑on to ION MXDR that continuously scans for exposed credentials, brand impersonation, and emerging external threats.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/06/ontinue-ion-dark-web-monitoring/",
+      "published": 1791281439.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791291532.8167942
+    },
+    {
+      "title": "Blinder Tunnel Campaign Targets Iraqi Infrastructure",
+      "summary": "Unit 42 analysis of the Blinder Tunnel campaign reveals an Iran‑nexus operation using fake Dubai Airports recruitment lures and GitHub C2 malware to target Iraqi critical infrastructure.",
+      "source": "Unit 42",
+      "link": "https://unit42.paloaltonetworks.com/blinder-tunnel-targets-critical-infrastructure/",
+      "published": 1791280833.0,
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791291532.8167942
+    },
+    {
+      "title": "Transcend Rails brings policy enforcement and spending controls to AI agents",
+      "summary": "Transcend released Transcend Rails, an agent management solution that enforces policy and spending controls for AI agents, addressing governance gaps beyond identity and access control.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/06/transcend-rails-brings-policy-enforcement-and-spending-controls-to-ai-agents/",
+      "published": 1791280656.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791291532.8167942
+    },
+    {
+      "title": "Hack The Box helps enterprises evaluate AI agents for cybersecurity roles",
+      "summary": "Hack The Box introduced AI Range Enterprise Edition, enabling enterprises to test and evaluate AI security agents' effectiveness for cybersecurity roles.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/06/hack-the-box-ai-range-enterprise-edition/",
+      "published": 1791279946.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791291532.8167942
+    },
+    {
+      "title": "8.8 Million Impacted by Data Breach at Denmark’s Central Person Register",
+      "summary": "Hackers exploited lawful access to Denmark’s Central Person Register (CPR) system, stealing personal data of 8.8 million citizens.\nThe breach exposed sensitive information used for taxes, healthcare, and banking.\nThe incident highlights a significant privacy risk for Danish residents.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/8-8-million-impacted-by-data-breach-at-denmarks-central-person-register/",
+      "published": 1791279510.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791291532.8167942
+    },
+    {
+      "title": "GitHub’s ReviewBench puts AI code reviewers to the test",
+      "summary": "GitHub released ReviewBench, a benchmark to test AI code review tools.\nThe platform measures how well AI agents detect coding issues and avoid false positives.\nIt is available in research preview for developers to compare tools.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/06/github-reviewbench-ai-code-review-benchmark/",
+      "published": 1791278971.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791291532.8167942
+    },
+    {
+      "title": "Nikkei discloses breaches of employees’ Microsoft, Google email accounts",
+      "summary": "Nikkei disclosed that attackers breached two employee Microsoft and Google email accounts.\nOne compromised account was used to send thousands of phishing emails.\nThe breach underscores the need for stronger email security.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/",
+      "published": 1791278750.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791291532.8167942
+    },
+    {
+      "title": "Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports",
+      "summary": "Google paused bug bounty rewards for its open‑source projects after a surge of invalid automated reports.\nThe change affects projects such as Go, Angular, and Protocol Buffers.\nSupply‑chain vulnerability reports remain accepted.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html",
+      "published": 1791278507.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791291532.8167942
+    },
+    {
+      "title": "Police Urge Passkey Use After Surge in Cybercrime Profits",
+      "summary": "Police recommend adopting passkeys after cybercrime revenue from account takeover rose 417 % annually.\nThe advisory follows a spike in account‑takeover attacks.\nPasskeys offer stronger protection than passwords.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/police-urge-passkey-surge/",
+      "published": 1791278100.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791291532.8167942
+    },
+    {
+      "title": "Data breach at Denmark’s population register exposes 8.8 million people",
+      "summary": "A data breach at Denmark’s Central Population Register exposed personal information of 8.8 million people, including residents, deceased, and expatriates.\nThe CPR number is used for taxes, healthcare, and banking.\nThe breach demonstrates the breadth of data at risk.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/06/denmark-central-population-register-cpr-data-breach/",
+      "published": 1791277534.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791291532.8167942
+    },
+    {
+      "title": "Social Engineering Detection Moves Into the Live Conversation",
+      "summary": "Companies invest heavily in security awareness training, yet evidence of its effectiveness against social engineering is limited.\nThe article questions whether current training methods truly mitigate phishing and other attacks.\nIt calls for more evidence-based approaches.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/social-engineering-detection-moves-into-the-live-conversation/",
+      "published": 1791275894.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791291532.8167942
+    },
+    {
+      "title": "Ransomware Affiliate Double-Crosses RaaS Operator to Steal Victim Funds",
+      "summary": "An affiliate of The Gentlemen ransomware-as-a-service group operated a parallel leak site during extortion of two dozen victims.\nThe affiliate siphoned victim funds, undermining the original operator.\nThe incident illustrates internal betrayal within ransomware ecosystems.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/affiliate-doublecrosses-raas/",
+      "published": 1791275400.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791291532.8167942
+    },
+    {
+      "title": "Engineer sentenced for locking over 3,000 devices on employer network",
+      "summary": "A former core infrastructure engineer was sentenced to 32 months for locking over 3,000 devices on his employer’s network in a ransomware‑style attack.\nThe action disrupted operations and highlighted insider threat risks.\nThe case underscores the need for robust access controls.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/",
+      "published": 1791274764.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791291532.8167942
+    },
+    {
+      "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
+      "summary": "Atlassian disclosed CVE‑2026‑21589, a critical flaw in eight Data Center products that lets unauthenticated attackers read specific files in the web application root if they know the path.\nThe vulnerability is rated 9.3/10 and requires patching.\nIt poses a significant risk to self‑hosted Atlassian deployments.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
+      "published": 1791269936.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791291532.8167942
+    },
+    {
+      "title": "FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters Breach",
+      "summary": "FBI removed an Accenture contractor after a patch failure caused the ShinyHunters breach, exposing personal data of thousands of FBI employees.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html",
+      "published": 1791269817.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791291532.8167942
+    },
+    {
+      "title": "U.S. Bank CISO says the security role keeps growing and no one can own all of it",
+      "summary": "U.S. Bank CISO Ann Barron‑DiCamillo said the CISO role now covers fraud, resilience, third‑party risk, and AI governance, and that no single leader can own all responsibilities.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/06/ann-barron-dicamillo-collective-cyber-defense/",
+      "published": 1791266454.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791291532.8167942
+    },
+    {
+      "title": "Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account",
+      "summary": "Denmark's digitalization ministry reported that attackers accessed CPR data for 8.8 million people through a private company’s lawful lookup rights, exposing names, addresses and personal identification numbers.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html",
+      "published": 1791266430.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791291532.8167942
+    },
+    {
+      "title": "ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits",
+      "summary": "ClickFix attackers use compromised websites to preload malicious scripts into browser caches disguised as PNG files, enabling payload execution without downloading new files.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html",
+      "published": 1791264175.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791291532.8167942
+    },
+    {
+      "title": "Reflection’s Beam trails top open models on coding tests but claims lower inference compute",
+      "summary": "Reflection AI’s Beam, a 501‑billion‑parameter open‑weight model, outperforms top open models on coding tests while claiming lower inference compute due to a mixture‑of‑experts design.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/06/reflections-beam-trails-top-open-models-on-coding-tests-but-claims-lower-inference-compute/",
+      "published": 1791264148.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791291532.8167942
+    },
+    {
+      "title": "Atlassian warns of critical file access flaw in its datacenter products",
+      "summary": "Atlassian has issued an action‑required warning for a critical file‑access flaw in its datacenter products, urging users to address the vulnerability promptly.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/10/06/atlassian-warns-of-critical-file-access-flaw-in-its-datacenter-products/5301284",
+      "published": 1791260400.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791291532.8167942
+    },
+    {
+      "title": "Shares in British clothing company ASOS dive after hackers apparently send push notification",
+      "summary": "ASOS shares fell after an unauthorized push notification appeared to be sent to customers, raising concerns about the company’s messaging security.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/asos-push-notification-apparently-sent-by-hackers",
+      "published": 1791259200.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791291532.8167942
+    },
+    {
+      "title": "Security researcher claims they found KVM guest-host escape flaw",
+      "summary": "A security researcher reported a KVM guest‑host escape flaw affecting Firecracker MicroVMs, which originated at AWS.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/offbeat/2026/10/06/security-researcher-claims-they-found-kvm-guest-host-escape-flaw/5301267",
+      "published": 1791252380.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791291532.8167942
+    },
     {
       "title": "Citrix discloses third actively exploited NetScaler zero-day in less than a week",
       "summary": "Citrix disclosed a third NetScaler zero‑day that was actively exploited within a week. The vendor responded quickly and consistently. The impact is considered lower than previous zero‑days.",
@@ -691,61 +1116,6 @@
       "ai": true,
       "status": "queued",
       "ts": 1791147635.45973
-    },
-    {
-      "title": "Anthropic asks Claude users to share voice data for AI model training",
-      "summary": "Anthropic has requested Claude users to voluntarily share voice conversations to train its AI models, with participation remaining optional.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
-      "published": 1791111201.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791115028.4575734
-    },
-    {
-      "title": "Week in review: Researcher breaks into Microsoft analytics service, NetScaler RCE 0-day exploited",
-      "summary": "A 16‑year‑old researcher exposed a flaw in Microsoft’s internal analytics service, Titan, that could allow reading of employee records and Bing search data; the same week also saw exploitation of a NetScaler RCE zero‑day.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/04/week-in-review-researcher-breaks-into-microsoft-analytics-service-netscaler-rce-0-day-exploited/",
-      "published": 1791100819.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791115028.4575734
-    },
-    {
-      "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
-      "summary": "A suspected ShinyHunters member, alias Rey (Saif al‑Din Khader), was reportedly detained in Jordan on September 29, 2026, and is said to have cooperated with the FBI to identify other group members.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
-      "published": 1791098525.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791115028.4575734
-    },
-    {
-      "title": "China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing",
-      "summary": "TA419, a China‑aligned espionage group, carried out credential phishing campaigns against U.S. AI experts in think tanks, universities, and legal sectors, impersonating prominent economists, AI policymakers, and an Anthropic employee.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html",
-      "published": 1791098432.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791115028.4575734
-    },
-    {
-      "title": "Google Gemini could soon get full access to your Mac’s files, apps and the web",
-      "summary": "Google’s Gemini AI may soon be granted unrestricted access to macOS files, applications, and web browsing, potentially bypassing permission prompts and allowing the model to perform actions without user confirmation.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/",
-      "published": 1791069154.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791115028.4575734
     }
   ]
 }
