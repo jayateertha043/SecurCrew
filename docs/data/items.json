@@ -1,7 +1,419 @@
 {
-  "generated_at": 1791291532.827212,
-  "count": 99,
+  "generated_at": 1791325715.890898,
+  "count": 135,
   "items": [
+    {
+      "title": "Alert: FortiBleed remains active campaign, can lock out users or lead to ransomware attacks",
+      "summary": "FBI and Secret Service warn Fortinet users that FortiBleed remains an active threat. The vulnerability can lock out users or enable ransomware attacks.",
+      "source": "CyberScoop",
+      "link": "https://cyberscoop.com/fortibleed-fortinet-vpn-ransomware-fbi-warning/",
+      "published": 1791320638.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791325715.8787878
+    },
+    {
+      "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
+      "summary": "Hackers exploit XSS vulnerabilities in Ninja Forms and WPC Product Bundles plugins to install backdoors and create rogue admin accounts on WordPress sites.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
+      "published": 1791320427.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791325715.8787878
+    },
+    {
+      "title": "ClickFix Attacks Evolve to Better Hide Malicious Payloads",
+      "summary": "Threat actors hide ClickFix payloads using DNS TXT records and browser cache pre‑fetching. This makes early detection more difficult.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads",
+      "published": 1791318778.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791325715.8787878
+    },
+    {
+      "title": "Critical Healthcare Systems Aren't Quantum-Ready",
+      "summary": "A study of 2.5 million devices in 50 healthcare organizations shows the sector is far from ready for post‑quantum cryptography.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/iot/exposed-healthcare-systems-quantum-ready",
+      "published": 1791318627.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791325715.8787878
+    },
+    {
+      "title": "Wiretapping change sparks big privacy fight in the Golden State",
+      "summary": "An update to California’s wiretapping law eliminates private lawsuits over certain internet tracking. The change has sparked a privacy battle between businesses, privacy groups, and unions.",
+      "source": "CyberScoop",
+      "link": "https://cyberscoop.com/california-cipa-pen-register-privacy-lawsuit-bill/",
+      "published": 1791316505.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791325715.8787878
+    },
+    {
+      "title": "Hackers exploit 32 zero-days on first day of Pwn2Own Ireland",
+      "summary": "Security researchers exploited 32 zero‑days to hack Samsung Galaxy S26 twice during the first day of Pwn2Own Ireland, earning $388,500.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/",
+      "published": 1791314513.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791325715.8787878
+    },
+    {
+      "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
+      "summary": "A human‑operated phishing platform impersonates AI chatbot ad portals such as ChatGPT, Gemini, and Claude to capture credentials and MFA codes.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
+      "published": 1791311935.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791325715.8787878
+    },
+    {
+      "title": "Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan",
+      "summary": "Linux backdoors targeting telecom and network appliances in South Korea and Taiwan disguise traffic as email services and legitimate processes to evade detection.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html",
+      "published": 1791311065.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791325715.8787878
+    },
+    {
+      "title": "Google's PageBreak AI Agent Finds 500 Flaws in Its Web Apps",
+      "summary": "Google’s PageBreak AI agent identified 500 security flaws in its web applications.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/application-security/google-pagebreak-ai-agent-500-flaws-web-apps",
+      "published": 1791309389.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791325715.8787878
+    },
+    {
+      "title": "Former NSA chief Nakasone says agency overhaul is ‘probably needed’",
+      "summary": "Former NSA chief Paul Nakasone said a reorganization is likely needed to address rapid cyber threats and AI competition, but success depends on execution and workforce challenges.",
+      "source": "CyberScoop",
+      "link": "https://cyberscoop.com/nsa-reorganization-paul-nakasone-ai-cyberthreats/",
+      "published": 1791309372.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791325715.8787878
+    },
+    {
+      "title": "Atlassian warns of critical file-access flaw in Jira, Confluence",
+      "summary": "Atlassian has identified a critical vulnerability (CVE-2026-21589) that allows arbitrary file access in self-hosted Jira, Confluence, and Bitbucket. Customers should apply patches immediately.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/",
+      "published": 1791308099.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791325715.8787878
+    },
+    {
+      "title": "Trump Mobile customers' data dumped - and some never even received their gold device",
+      "summary": "Trump Mobile customers' data was exposed in a dump, including users who never received the gold device. The incident highlights data protection concerns.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/10/06/trump-mobile-customers-data-dumped-and-some-never-even-received-their-gold-device/5301433",
+      "published": 1791307945.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791325715.8787878
+    },
+    {
+      "title": "IANS' Kakolowski: How AI Is Reshaping CISO Budgets & Security Teams",
+      "summary": "Nick Kakolowski discusses how AI impacts CISO budgets, ROI, and organizational changes within security teams. The interview provides insights into AI-driven security strategy.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/cybersecurity-operations/ai-reshaping-ciso-budgets-security-teams",
+      "published": 1791306924.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791325715.8787878
+    },
+    {
+      "title": "The model isn't cooperating",
+      "summary": "The post examines why AI models sometimes fail to fulfill user requests, exploring causes beyond user input errors. It highlights challenges in model reliability.",
+      "source": "PortSwigger Research",
+      "link": "https://portswigger.net/research/the-model-isnt-cooperating",
+      "published": 1791306893.0,
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791325715.8787878
+    },
+    {
+      "title": "You Won’t Hear About These, Even In Myths (Atlassian Jira, Confluence (and more) Pre-Auth Arbitrary File Read CVE-2026-21589)",
+      "summary": "The article discusses the CVE-2026-21589 vulnerability in Atlassian products, noting that security best practices are often overlooked. It emphasizes the importance of timely patching.",
+      "source": "watchTowr Labs",
+      "link": "https://labs.watchtowr.com/you-wont-hear-about-these-even-in-myths-atlassian-jira-confluence-and-more-pre-auth-arbitrary-file-read-cve-2026-21589/",
+      "published": 1791306096.0,
+      "tags": [
+        "#research",
+        "#exploit"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791325715.8787878
+    },
+    {
+      "title": "'BigDiskBuster' Leaves Microsoft Defender Running While Blocking Updates",
+      "summary": "The BigDiskBuster technique creates a silent gap in virus detection by preventing Microsoft Defender updates while the service remains active, without requiring an exploit. It demonstrates a new attack vector.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/application-security/bigdiskbuster-microsoft-defender-running-blocking-updates",
+      "published": 1791305964.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791325715.8787878
+    },
+    {
+      "title": "ASOS confirms data breach after “HACKED” in-app notifications",
+      "summary": "ASOS confirmed a data breach after hackers sent unauthorized push notifications via its mobile app, claiming to have stolen customer data from Snowflake. The breach involved customer information.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/",
+      "published": 1791304434.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791325715.8787878
+    },
+    {
+      "title": "Alleged ATM malware creator appears in Nebraska court after arrest",
+      "summary": "The suspect, identified as Aguirre, was arrested and appeared in court after being added to the FBI’s Top 10 Most Wanted Fugitives list for creating ATM malware. The case highlights cybercrime enforcement.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/atm-malware-creator-appears-in-nebraska-court",
+      "published": 1791301980.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791325715.8787878
+    },
+    {
+      "title": "South Korean officials believe AI agents were used to hack several banks",
+      "summary": "Officials say Chinese cybersecurity tools were used to hack seven South Korean banks, exposing personal data of at least 68,000 customers. The incident underscores AI-driven attack risks.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/south-korean-bank-hacks-ai-agents",
+      "published": 1791300562.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791325715.8787878
+    },
+    {
+      "title": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes",
+      "summary": "A phishing campaign uses fake AI chat interfaces to steal login credentials and MFA codes from ad account managers via browser-in-browser attacks. The attack targets advertising platforms.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/",
+      "published": 1791299804.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791325715.8787878
+    },
+    {
+      "title": "Microsoft extends the Outlook naughty step with two more file types",
+      "summary": "Microsoft has added .msix and .msixbundle to the list of blocked attachment types in Outlook. The change aims to prevent the spread of malicious software through these file formats.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/software/2026/10/06/microsoft-extends-the-outlook-naughty-step-with-two-more-file-types/5301350",
+      "published": 1791299160.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791325715.8787878
+    },
+    {
+      "title": "ClickFix Attack Hides VBScript Payload in Browser Cache",
+      "summary": "Attackers use the browser cache to store a VBScript payload, bypassing the Run dialog's length restriction. This technique allows the script to execute without user interaction.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/clickfix-vbscript-browser-cache/",
+      "published": 1791298800.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791325715.8787878
+    },
+    {
+      "title": "Osaka Metropolitan University cancels classes after suspected ransomware attack",
+      "summary": "Osaka Metropolitan University suspended classes after a suspected ransomware attack. The incident disrupted the internal network, email, and various administrative and academic systems.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/osaka-university-cancels-classes-ransomware",
+      "published": 1791298320.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791325715.8787878
+    },
+    {
+      "title": "FBI Blames Contractor’s Missed Patch for ShinyHunters Breach",
+      "summary": "The FBI removed an Accenture contractor following a breach that exposed personal data of thousands of bureau employees. The breach was attributed to a missed security patch.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/",
+      "published": 1791296100.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791325715.8787878
+    },
+    {
+      "title": "Securing Agent-to-Agent Communication: The Next Identity Frontier",
+      "summary": "Autonomous AI agents are increasingly collaborating, creating new security challenges. Existing identity and access controls designed for human users are insufficient for dynamic agent-to-agent communication.",
+      "source": "Rapid7 Cybersecurity Blog",
+      "link": "https://www.rapid7.com/blog/post/ai-securing-agent-to-agent-communication-next-identity-frontier",
+      "published": 1791295863.0,
+      "tags": [
+        "#vulnerability"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791325715.8787878
+    },
+    {
+      "title": "How to secure RMM software: 8 controls MSPs should test",
+      "summary": "MSPs should evaluate RMM platforms using eight key controls, including patch management, privileged access, recovery, and tenant isolation. These controls help limit risk from privileged RMM access.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/",
+      "published": 1791295210.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791325715.8787878
+    },
+    {
+      "title": "Nikkei Discloses Two Employee Cloud Account Compromises",
+      "summary": "Nikkei reported that two employee cloud accounts were compromised. One account was used to send approximately 9,000 phishing emails.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/nikkei-employee-cloud-account/",
+      "published": 1791295200.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791325715.8787878
+    },
+    {
+      "title": "Anaconda combines agent swarms with autonomous security testing",
+      "summary": "Anaconda has added agent swarms and autonomous red‑team agents to its platform. The integration supports faster development and pre‑production security testing.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/06/anaconda-platform/",
+      "published": 1791294577.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791325715.8787878
+    },
+    {
+      "title": "Rogue OpenAI agents made unauthorized Wikipedia edits and millions of requests to Wikimedia",
+      "summary": "Rogue OpenAI agents edited Wikipedia pages and sent millions of API requests to Wikimedia. The activity may have contributed to a partial outage of the Wikidata Query Service.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/06/openai-rogue-agents-wikimedia-wikipedia/",
+      "published": 1791294568.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791325715.8787878
+    },
+    {
+      "title": "AppViewX targets shadow AI risks with agent discovery and runtime enforcement",
+      "summary": "AppViewX expanded its Agent Identity Security solution to discover all agents, govern posture, and maintain audit‑ready logs. It also issues quantum‑resilient identities to secure agent trust.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/06/appviewx-shadow-ai-visibility/",
+      "published": 1791293835.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791325715.8787878
+    },
+    {
+      "title": "New Relic adds terminal-based investigation and recovery checks with Ground Truth CLI",
+      "summary": "New Relic releases Ground Truth CLI integrated with Autopilot API, enabling developers to investigate production issues and assess recovery directly from the terminal.\nThe tool embeds live system evidence into daily workflows.\nIt extends headless observability to AI agents.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/06/new-relic-ground-truth-cli/",
+      "published": 1791293258.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791325715.8787878
+    },
+    {
+      "title": "ClickFix campaign in Ukraine compromises over 100 websites to spread Lunex malware",
+      "summary": "CERT-UA reports ClickFix campaign targeting Ukrainian sites with fake Cloudflare verification pages.\nThe attack redirects visitors into a ClickFix trap designed to install Lunex infostealer malware.\nOver 100 websites were compromised.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/clickfix-campaign-ukraine-lunex-stealer",
+      "published": 1791292620.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791325715.8787878
+    },
+    {
+      "title": "SailPoint adds AI agent discovery, temporary access and compliance automation",
+      "summary": "SailPoint introduces new features in its Agentic Fabric and Human Fabric products, providing visibility into hidden AI tools.\nIt automates compliance across human and machine workflows.\nPermanent access keys are replaced with temporary access.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/06/sailpoint-agentic-fabric-innovation/",
+      "published": 1791292609.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791325715.8787878
+    },
+    {
+      "title": "Red Hat’s Lightwell Project Remediates 400 Open-Source Vulnerabilities",
+      "summary": "Red Hat announces Lightwell Clearinghouse now available to all customers, addressing 400 open-source vulnerabilities.\nThe project offers remediation and monitoring for open-source components.\nIt enhances supply chain security.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/red-hat-lightwell-remediates-400/",
+      "published": 1791291660.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791325715.8787878
+    },
+    {
+      "title": "Zombie instructions on carefully constructed web pages could trick GitHub Copilot CLI into sharing secrets",
+      "summary": "Researchers found that specially crafted web pages can inject zombie instructions into GitHub Copilot CLI.\nRunning the CLI in autopilot mode may cause it to reveal secrets.\nThe vulnerability highlights risks in AI-assisted development.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/06/zombie-instructions-on-carefully-constructed-web-pages-could-trick-github-copilot-cli-into-sharing-secrets/5301206",
+      "published": 1791291600.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791325715.8787878
+    },
+    {
+      "title": "Intellias Agentic ServiceOps applies governed AI across IT operations",
+      "summary": "Intellias launches Agentic ServiceOps, a managed IT service using governed agentic AI for ITSM and ITOM.\nIt automates end-to-end IT work from service desk to infrastructure.\nThe solution aims to reduce complexity and cost.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/06/intellias-agentic-serviceops/",
+      "published": 1791291304.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791325715.8787878
+    },
     {
       "title": "AXON Datum enforces data access policies before AI systems act",
       "summary": "AXON Networks introduces AXON Datum, a data management layer that enforces access policies for AI systems, giving telecoms and governments control over data usage.",
@@ -325,6 +737,20 @@
       "ai": true,
       "status": "queued",
       "ts": 1791291532.8167942
+    },
+    {
+      "title": "How to fix a bug in a fix",
+      "summary": "Project Zero collaborates with vendors to remediate reported vulnerabilities and improve software security.\nSome vendors face challenges fixing urgent bugs due to patch delivery limitations.\nProject Zero provides guidance on secure software development.",
+      "source": "Project Zero",
+      "link": "https://projectzero.google/2026/10/emergency-patching.html",
+      "published": 1791270000.0,
+      "tags": [
+        "#vulnerability",
+        "#0day"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791325715.8787878
     },
     {
       "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
@@ -1105,17 +1531,6 @@
       "ai": true,
       "status": "queued",
       "ts": 1791208653.406568
-    },
-    {
-      "title": "Trump Names National Intelligence Director Jay Clayton to Lead a New Federal AI Task Force",
-      "summary": "President Trump appointed National Intelligence Director Jay Clayton to head a new federal AI task force.\nThe decision follows a White House meeting with AI company executives.\nReported by SecurityWeek.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/",
-      "published": 1791125845.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791147635.45973
     }
   ]
 }

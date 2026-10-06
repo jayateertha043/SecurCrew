@@ -1,504 +1,6 @@
 {
   "pending": [
     {
-      "added_at": 1791147635.45973,
-      "ai": true,
-      "id": "199ef7dd7a5498cc6a00827998a76e324fee0ce6",
-      "link": "https://www.securityweek.com/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/",
-      "published": 1791125845.0,
-      "source": "SecurityWeek",
-      "summary": "President Trump appointed National Intelligence Director Jay Clayton to head a new federal AI task force.\nThe decision follows a White House meeting with AI company executives.\nReported by SecurityWeek.",
-      "tags": [],
-      "title": "Trump Names National Intelligence Director Jay Clayton to Lead a New Federal AI Task Force"
-    },
-    {
-      "added_at": 1791147635.45973,
-      "ai": true,
-      "id": "6c5a609606069cf4d491d8419ba508875af662a1",
-      "link": "https://grahamcluley.com/smashing-security-podcast-482/",
-      "published": 1787785811.0,
-      "source": "GRAHAM CLULEY",
-      "summary": "Podcast discusses hacker 'CYBERLEEK' leaking GTA 6 gameplay footage and creating a cryptocurrency to fund further releases.\nThe hacker is not demanding ransom from Rockstar.\nEpisode also mentions smart TV vulnerabilities.",
-      "tags": [],
-      "title": "Smashing Security podcast #482: This hacker leaked GTA 6 – and launched their own cryptocurrency"
-    },
-    {
-      "added_at": 1791147635.45973,
-      "ai": true,
-      "id": "d1ca6caa47fb2544e89cc8f4d4a5e79d4edeab97",
-      "link": "https://securelist.com/vulnerabilities-and-exploits-in-q2-2026/121091/",
-      "published": 1787738404.0,
-      "source": "Securelist",
-      "summary": "Report provides statistics on vulnerabilities, exploits, and command‑and‑control frameworks for Q2 2026.\nIt includes first‑time data on vulnerabilities in open‑source AI agents and frameworks.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Exploits and vulnerabilities in Q2 2026"
-    },
-    {
-      "added_at": 1791147635.45973,
-      "ai": true,
-      "id": "a235d02d46e2e2aa45d21ebcf4aa483040105e42",
-      "link": "https://portswigger.net/research/whats-in-a-tag-name-javascript-apparently",
-      "published": 1787667872.0,
-      "source": "PortSwigger Research",
-      "summary": "Article examines allowed characters in JavaScript tag names, noting they must start with a letter and exploring permissible subsequent characters.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "What's in a tag name? JavaScript, apparently"
-    },
-    {
-      "added_at": 1791147635.45973,
-      "ai": true,
-      "id": "d86b26a2d2ba2d22581355e2b6b7b39c038be1b9",
-      "link": "https://unit42.paloaltonetworks.com/ai-enabled-malware-analysis/",
-      "published": 1787652057.0,
-      "source": "Unit 42",
-      "summary": "Unit 42 research explores AI‑enabled malware trends, covering brand abuse and agentic execution.\nIt discusses how behavioral detection and endpoint analytics can stop AI‑authored code before execution.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "The State of AI-Enabled Malware August 2026: From Brand Abuse to Agentic Execution"
-    },
-    {
-      "added_at": 1791147635.45973,
-      "ai": true,
-      "id": "9d3f184891978b8654c6afe247027ad6677279cf",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/malicious-firefox-add-ons-stealing-cryptowallet-seed-phrases-browser-credentials",
-      "published": 1787583602.0,
-      "source": "GRAHAM CLULEY",
-      "summary": "Study shows malicious Firefox extensions can steal cryptocurrency wallet seed phrases and browser credentials.\nUsers risk exposing savings when installing unknown add‑ons.",
-      "tags": [],
-      "title": "Malicious Firefox add-ons caught stealing cryptowallet seed phrases and browser credentials"
-    },
-    {
-      "added_at": 1791147635.45973,
-      "ai": true,
-      "id": "da5951a3ad532da877205353f07c5cbc08b84df3",
-      "link": "https://www.intigriti.com/blog/business-insights/interview-with-ryan-bonner-roll4combatus",
-      "published": 1787529600.0,
-      "source": "Intigriti",
-      "summary": "Interview with bug‑bounty hunter Ryan Bonner covers his career path, recommended tools, and advice for newcomers.\nHe discusses starting after being fired from a pentesting job.",
-      "tags": [
-        "#bugbounty"
-      ],
-      "title": "When fear no longer holds you back. Interview with Ryan Bonner (Roll4CombatUS)"
-    },
-    {
-      "added_at": 1791147635.45973,
-      "ai": true,
-      "id": "91e45ba5d38f226c5d98cc44358ea72b092a0a3d",
-      "link": "https://securelist.com/android-head-unit-malware/121106/",
-      "published": 1787299229.0,
-      "source": "Securelist",
-      "summary": "Kaspersky identified Android malware targeting car infotainment systems, delivering ads and building a proxy botnet via legitimate DoFun head‑unit software.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "The invisible passenger in your car"
-    },
-    {
-      "added_at": 1791147635.45973,
-      "ai": true,
-      "id": "66eab0e97baa4449a2d1f8251349f5ceb641d4d0",
-      "link": "https://www.intigriti.com/researchers/blog/hacking-tools/web-fuzzing-for-hackers",
-      "published": 1787184000.0,
-      "source": "Intigriti",
-      "summary": "Article outlines the history and current state of web application fuzzing, noting its origins in 1988 and its continued relevance for automated vulnerability discovery.",
-      "tags": [
-        "#bugbounty"
-      ],
-      "title": "Web fuzzing for hackers"
-    },
-    {
-      "added_at": 1791147635.45973,
-      "ai": true,
-      "id": "fdb0dea9bccbba02b19a693d109f897254876725",
-      "link": "https://www.welivesecurity.com/en/business-security/qr-code-phishing-slip-past-corporate-security-measures/",
-      "published": 1786957200.0,
-      "source": "WeLiveSecurity",
-      "summary": "Analysis explains how QR‑code phishing (quishing) bypasses corporate defenses and offers guidance on closing security gaps.",
-      "tags": [],
-      "title": "How QR-code phishing can slip past corporate security measures"
-    },
-    {
-      "added_at": 1791147635.45973,
-      "ai": true,
-      "id": "d878e0c4e97714ff9c6d7347279e64e1cd0ca124",
-      "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
-      "published": 1786706675.0,
-      "source": "Krebs on Security",
-      "summary": "DecryptAds is a free service that scrapes and publishes ad attribution data, making it easier for users to see who displays ads and harvests data on websites and apps.",
-      "tags": [],
-      "title": "Who’s Tracking You? Use This New Service to Find Out"
-    },
-    {
-      "added_at": 1791147635.45973,
-      "ai": true,
-      "id": "c030311d199a580377bdc83cc27f772e96e42de0",
-      "link": "https://labs.watchtowr.com/youre-back-in-the-room-citrix-netscaler-pre-auth-rce-cve-2026-8452/",
-      "published": 1786691300.0,
-      "source": "watchTowr Labs",
-      "summary": "A pre-authentication remote code execution vulnerability (CVE-2026-8452) in Citrix NetScaler can allow attackers to execute code on enterprise systems before authentication.",
-      "tags": [
-        "#research",
-        "#exploit"
-      ],
-      "title": "You’re Back In The Room (Citrix NetScaler Pre-Auth RCE CVE-2026-8452(?))"
-    },
-    {
-      "added_at": 1791147635.45973,
-      "ai": true,
-      "id": "067d05994f709bb8d4aa218d2fa8d9da70685d0b",
-      "link": "https://www.welivesecurity.com/en/business-security/black-hat-usa-2026-vulnerability-discovery-decline-ai-era/",
-      "published": 1786631400.0,
-      "source": "WeLiveSecurity",
-      "summary": "Black Hat USA 2026 will examine whether the surge in AI-driven vulnerability discovery will ultimately reduce future software vulnerabilities.",
-      "tags": [],
-      "title": "Black Hat USA 2026: Will vulnerability discovery eventually decline in the AI era?"
-    },
-    {
-      "added_at": 1791147635.45973,
-      "ai": true,
-      "id": "f265b1eec071c3d32a9b3ca3638e1cd644ab5682",
-      "link": "https://www.welivesecurity.com/en/business-security/black-hat-usa-2026-hugging-face-hack-human-responsibility/",
-      "published": 1786611600.0,
-      "source": "WeLiveSecurity",
-      "summary": "The Hugging Face hack discussed at Black Hat USA 2026 underscores the necessity of human oversight in autonomous AI systems.",
-      "tags": [],
-      "title": "Black Hat USA 2026: What the Hugging Face hack tells us about human responsibility"
-    },
-    {
-      "added_at": 1791147635.45973,
-      "ai": true,
-      "id": "0b9ffc93e9802d289cf39369b2c8c06316b4caa2",
-      "link": "https://www.welivesecurity.com/en/business-security/black-hat-usa-2026-ai-racing-cybersecurity-controls/",
-      "published": 1786541287.0,
-      "source": "WeLiveSecurity",
-      "summary": "Black Hat USA 2026 highlighted that AI is advancing faster than cybersecurity controls, raising questions about accountability when failures occur.",
-      "tags": [],
-      "title": "Black Hat USA 2026: AI is racing ahead of cybersecurity controls"
-    },
-    {
-      "added_at": 1791147635.45973,
-      "ai": true,
-      "id": "2735ba7149f5684227923a9ce6a8923b09d81d46",
-      "link": "https://portswigger.net/blog/can-ai-invent-new-attack-techniques-new-research-from-james-kettle-and-portswigger-research",
-      "published": 1786525485.0,
-      "source": "PortSwigger Blog",
-      "summary": "Research by James Kettle and PortSwigger shows that autonomous AI can invent genuinely new attack techniques, extending beyond simply finding existing vulnerabilities.",
-      "tags": [
-        "#appsec"
-      ],
-      "title": "Can AI invent new attack techniques? New research from James Kettle and PortSwigger Research"
-    },
-    {
-      "added_at": 1791147635.45973,
-      "ai": true,
-      "id": "cff573d711d0832681486b99ebf6dcf4f762bf76",
-      "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
-      "published": 1786483715.0,
-      "source": "Krebs on Security",
-      "summary": "Microsoft released patches for 398 security vulnerabilities in Windows and related software, including one actively exploited weakness.",
-      "tags": [],
-      "title": "Microsoft Plugs Nearly 400 Security Holes"
-    },
-    {
-      "added_at": 1791147635.45973,
-      "ai": true,
-      "id": "f2ff084b3d8e27890e9392908f8536c8e1c4efad",
-      "link": "https://www.welivesecurity.com/en/kids-online/ai-tutors-safe-kids/",
-      "published": 1786352400.0,
-      "source": "WeLiveSecurity",
-      "summary": "AI tutors vary in quality and safeguards; parents should assess safety measures before allowing children to use them.",
-      "tags": [],
-      "title": "Are AI tutors safe for your kids?"
-    },
-    {
-      "added_at": 1791147635.45973,
-      "ai": true,
-      "id": "f8d5e9be65ce754144f840607ee08e4c29687c0c",
-      "link": "https://www.intigriti.com/blog/news/introducing-crowdrecon",
-      "published": 1786320000.0,
-      "source": "Intigriti",
-      "summary": "CrowdRecon, introduced at DEF CON 34, converts hacker reconnaissance data into actionable security intelligence for enterprises.",
-      "tags": [
-        "#bugbounty"
-      ],
-      "title": "CrowdRecon is coming: turning hacker reconnaissance into security intelligence"
-    },
-    {
-      "added_at": 1791147635.45973,
-      "ai": true,
-      "id": "4057ced6d5b2467393aad90e35258ca56a5322f6",
-      "link": "https://portswigger.net/research/css-the-bomb-inside-your-inbox",
-      "published": 1786053600.0,
-      "source": "PortSwigger Research",
-      "summary": "Untrusted CSS in webmail clients can be rendered in a trusted UI; sanitization attempts may fail, creating potential security risks.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "CSS:the bomb inside your inbox"
-    },
-    {
-      "added_at": 1791147635.45973,
-      "ai": true,
-      "id": "227e8673997308a3ba6d044025a2aa09a69f6761",
-      "link": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
-      "published": 1786035656.0,
-      "source": "Krebs on Security",
-      "summary": "A 26‑year‑old Canadian man pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used Snowflake. He also admitted to stealing call and text history records of over 100 million AT&T customers.",
-      "tags": [],
-      "title": "Canadian Man Pleads Guilty in Snowflake Extortions"
-    },
-    {
-      "added_at": 1791147635.45973,
-      "ai": true,
-      "id": "4cf4da020059176cb57d170452b2d4e27175ceb0",
-      "link": "https://www.intigriti.com/blog/business-insights/rethinking-cvss-scoring-systems-amidst-ai-safety-and-security",
-      "published": 1785974400.0,
-      "source": "Intigriti",
-      "summary": "The Common Vulnerability Scoring System (CVSS) is an open framework owned by FIRST that helps teams calculate the severity of vulnerabilities. Version 4.0 expands assessment to multiple environments and dimensions.",
-      "tags": [
-        "#bugbounty"
-      ],
-      "title": "Beyond CVSS: rethinking scoring systems amidst AI Safety and Security"
-    },
-    {
-      "added_at": 1791147635.45973,
-      "ai": true,
-      "id": "04e7535e61e612e78ea250399339944f742d819c",
-      "link": "https://portswigger.net/research/crlf-powered-desync-attacks",
-      "published": 1785972600.0,
-      "source": "PortSwigger Research",
-      "summary": "A research paper demonstrates that HTTP header injection, especially when combined with CRLF sequences, is far more dangerous than previously thought and can cause catastrophic desynchronization attacks.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "CRLF-Powered Desync Attacks: Beheading HTTP Streams"
-    },
-    {
-      "added_at": 1791147635.45973,
-      "ai": true,
-      "id": "3ed3a3d15d3e9c82e7b0d93108da4ae7d1418017",
-      "link": "https://portswigger.net/research/can-ai-do-novel-security-research",
-      "published": 1785958200.0,
-      "source": "PortSwigger Research",
-      "summary": "The study investigates whether an autonomous AI system can invent new attack techniques and deploy them to hack live websites at scale, extending the capabilities of AI in security research.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "Can AI do novel security research? Meet the HTTP Terminator"
-    },
-    {
-      "added_at": 1791147635.45973,
-      "ai": true,
-      "id": "79e897c47e9dbb7f2389b63cd0849329f8036a3c",
-      "link": "https://portswigger.net/blog/how-burp-at-helped-expose-whistleblower-reports-via-a-critical-vulnerability-that-was-overlooked-for-years",
-      "published": 1785854731.0,
-      "source": "PortSwigger Blog",
-      "summary": "Security analyst Ray Huygen of Orange Cyberdefense reports that Burp AT significantly increased productivity and helped expose whistleblower reports by uncovering a critical vulnerability that had been overlooked for years.",
-      "tags": [
-        "#appsec"
-      ],
-      "title": "How Burp AT helped expose whistleblower reports via a critical vulnerability that was overlooked for years"
-    },
-    {
-      "added_at": 1791147635.45973,
-      "ai": true,
-      "id": "67fd3a038414cc99ab98b7401a56dbc818441949",
-      "link": "https://www.intigriti.com/blog/news/intigriti-named-new-provider-for-adobes-bug-bounty-program",
-      "published": 1785801600.0,
-      "source": "Intigriti",
-      "summary": "Intigriti will become the new host of Adobe’s Bug Bounty Program starting September 1, 2026, aiming to keep security testing aligned with AI‑driven product development.",
-      "tags": [
-        "#bugbounty"
-      ],
-      "title": "Intigriti named new provider for Adobe's Bug Bounty Program"
-    },
-    {
-      "added_at": 1791147635.45973,
-      "ai": true,
-      "id": "af6959625ff3bf0ddd8b8f84b4ff855055929511",
-      "link": "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-july-2026/",
-      "published": 1785507255.0,
-      "source": "WeLiveSecurity",
-      "summary": "The July 2026 security roundup covers OpenAI models acting rogue, the first documented agentic ransomware operation, and an emerging AI‑driven supply chain threat.",
-      "tags": [],
-      "title": "This month in security with Tony Anscombe – July 2026 edition"
-    },
-    {
-      "added_at": 1791147635.45973,
-      "ai": true,
-      "id": "a3c8b5faaaa961b34ccb122e3d943b9495f8c51e",
-      "link": "https://www.intigriti.com/researchers/blog/bug-bytes/intigriti-bug-bytes-238-july-2026",
-      "published": 1785456000.0,
-      "source": "Intigriti",
-      "summary": "Intigriti Bug Bytes #238 highlights the platform’s 10th anniversary, a remote code execution flaw in GitHub, Burp Suite’s agentic features, Gemini Enterprise hacking, and 3,708 live credentials discovered in GitHub Archive.",
-      "tags": [
-        "#bugbounty"
-      ],
-      "title": "Intigriti Bug Bytes #238 - July 2026 🚀"
-    },
-    {
-      "added_at": 1791147635.45973,
-      "ai": true,
-      "id": "1ef900d67892d7005542a0a28d0e10bf83553327",
-      "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-      "published": 1785430140.0,
-      "source": "Krebs on Security",
-      "summary": "Experts warn that generic TV streaming sticks can rent users’ internet connections to strangers and also spoof themselves as mobile phones to click ads on AI‑generated websites.",
-      "tags": [],
-      "title": "Read This Before You Buy That TV Streaming Stick"
-    },
-    {
-      "added_at": 1791147635.45973,
-      "ai": true,
-      "id": "132069b85b8fd69723de65ffad33b2c60985ea10",
-      "link": "https://portswigger.net/blog/from-capable-ai-models-to-trusted-security-testing",
-      "published": 1785423527.0,
-      "source": "PortSwigger Blog",
-      "summary": "Burp AT was released in public beta for Burp Suite Professional users; PortSwigger Research will present additional details at Black Hat next week.",
-      "tags": [
-        "#appsec"
-      ],
-      "title": "From capable AI models to trusted security testing"
-    },
-    {
-      "added_at": 1791147635.45973,
-      "ai": true,
-      "id": "5bce29cf9ae1d537ae04a14dcdc2b0f4564ae14d",
-      "link": "https://www.welivesecurity.com/en/cybersecurity/beyond-screenshot-why-verify-you-see/",
-      "published": 1785401400.0,
-      "source": "WeLiveSecurity",
-      "summary": "Screenshots can be fabricated and may not reflect real transactions. Verifying the authenticity of payments, bookings, or conversations is essential to avoid fraud. Relying solely on visual evidence can lead to security risks.",
-      "tags": [],
-      "title": "Beyond the screenshot: Why you should verify what you see"
-    },
-    {
-      "added_at": 1791147635.45973,
-      "ai": true,
-      "id": "1343fb03b0033931aec269efc19192ae673646d0",
-      "link": "https://www.intigriti.com/researchers/blog/hacking-tools/how-to-appeal-a-bug-bounty-submission",
-      "published": 1785369600.0,
-      "source": "Intigriti",
-      "summary": "Bug bounty appeals involve the researcher, triage team, and the program organization. Appeals are necessary when reports are mishandled, incorrectly closed, downgraded, or left unresolved. Proper appeal processes help ensure accurate handling of findings.",
-      "tags": [
-        "#bugbounty"
-      ],
-      "title": "How to appeal a bug bounty submission"
-    },
-    {
-      "added_at": 1791147635.45973,
-      "ai": true,
-      "id": "37c0e3e1926b305e1a0576eb03ab4118406f6e94",
-      "link": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
-      "published": 1785254400.0,
-      "source": "Security Archives - The GitHub Blog",
-      "summary": "GitHub and npm have implemented new safeguards to disrupt supply chain attacks. Recent changes limit the impact of malicious code injected into packages and workflows. These updates strengthen the security of open-source ecosystems.",
-      "tags": [
-        "#appsec"
-      ],
-      "title": "Disrupting supply chain attacks on npm and GitHub Actions"
-    },
-    {
-      "added_at": 1791147635.45973,
-      "ai": true,
-      "id": "93fdc1c1f20c2d800097b36662b2b9c531f9eaa7",
-      "link": "https://www.intigriti.com/blog/business-insights/why-your-existing-controls-may-miss-ai-poisoning-attacks",
-      "published": 1785196800.0,
-      "source": "Intigriti",
-      "summary": "Retrieval-augmented generation expands a model’s trust boundary by adding mutable external content. Attackers who influence indexed data can cause misinformation, unsafe recommendations, or data leakage. Existing controls may miss such AI poisoning attacks.",
-      "tags": [
-        "#bugbounty"
-      ],
-      "title": "RAG and ruin: why your existing controls may miss AI poisoning attacks"
-    },
-    {
-      "added_at": 1791147635.45973,
-      "ai": true,
-      "id": "d9ac136d5ea3fc1ed85c914c0713a3204cb7bc9e",
-      "link": "https://portswigger.net/blog/introducing-burp-at",
-      "published": 1785156711.0,
-      "source": "PortSwigger Blog",
-      "summary": "Burp AT introduces agentic AI to penetration testing, building on two decades of Burp Suite. Users can dictate how much work agents perform while Burp enforces operational boundaries. The tool blends human oversight with automated assistance.",
-      "tags": [
-        "#appsec"
-      ],
-      "title": "Introducing Burp AT: agentic AI, built on two decades of Burp Suite"
-    },
-    {
-      "added_at": 1791147635.45973,
-      "ai": true,
-      "id": "8a453e671d33dab4354bade8a75315f2e4e45263",
-      "link": "https://www.intigriti.com/blog/business-insights/impact-of-the-lethal-trifecta-on-organizations-today",
-      "published": 1784764800.0,
-      "source": "Intigriti",
-      "summary": "AI tools can read data, follow instructions, and act on behalf of users. Poisoned emails, webpages, or documents can trick AI into leaking information or executing unauthorized actions. Guardrails on access, permissions, and actions are critical.",
-      "tags": [
-        "#bugbounty"
-      ],
-      "title": "AI’s convenience cost. The impact of the lethal trifecta on organizations today"
-    },
-    {
-      "added_at": 1791147635.45973,
-      "ai": true,
-      "id": "d2fa6f8b0d0492be90aaf377ba299666ebf61e03",
-      "link": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
-      "published": 1784736000.0,
-      "source": "Security Archives - The GitHub Blog",
-      "summary": "GitHub is restructuring its bug bounty program to improve the researcher experience. Changes focus on better collaboration and clearer communication with the GitHub team. The update aims to streamline the bounty process.",
-      "tags": [
-        "#appsec"
-      ],
-      "title": "Next chapter: Restructuring GitHub’s bug bounty program"
-    },
-    {
-      "added_at": 1791147635.45973,
-      "ai": true,
-      "id": "262403f86eef301f0f3b48f2eb848526fd1e4bb9",
-      "link": "https://www.intigriti.com/blog/business-insights/why-security-teams-miss-what-attackers-see",
-      "published": 1784505600.0,
-      "source": "Intigriti",
-      "summary": "Security teams can miss attacker intent between vulnerability reports, even with faster discovery. Scanners and inventories alone do not reveal attacker focus. Earlier signals are needed to support proactive action before the next report.",
-      "tags": [
-        "#bugbounty"
-      ],
-      "title": "The between-reports problem: why security teams miss what attackers see"
-    },
-    {
-      "added_at": 1791147635.45973,
-      "ai": true,
-      "id": "9b7a0cbc311dee811f3caed8e923b009f4e82509",
-      "link": "https://portswigger.net/blog/burps-new-ambassadors-learn-from-the-people-who-use-burp-suite-everyday",
-      "published": 1784295325.0,
-      "source": "PortSwigger Blog",
-      "summary": "Burp is expanding its Ambassador community, featuring new members who use Burp Suite daily. The program shares real-world insights and best practices. Participation offers a platform for knowledge exchange.",
-      "tags": [
-        "#appsec"
-      ],
-      "title": "Burp's new Ambassadors: learn from the people who use Burp Suite everyday"
-    },
-    {
-      "added_at": 1791147635.45973,
-      "ai": true,
-      "id": "3ecae02088e4f12201408a5e34126a478aa0283f",
-      "link": "https://www.welivesecurity.com/en/eset-research/forgotten-uefi-shims-undermining-secure-boot/",
-      "published": 1784019180.0,
-      "source": "WeLiveSecurity",
-      "summary": "ESET researchers identified 11 vulnerable UEFI shim bootloaders signed by Microsoft. These shims exploit decade-old vulnerabilities, allowing attackers to bypass UEFI Secure Boot. The findings highlight a critical security gap.",
-      "tags": [],
-      "title": "Forgotten UEFI shims undermining Secure Boot"
-    },
-    {
       "added_at": 1791208653.406568,
       "ai": true,
       "id": "d38fcb4bad4591332ec36faba7773e1f3e01f031",
@@ -1857,6 +1359,465 @@
         "#opinion"
       ],
       "title": "Using Device Linking to Eavesdrop on WhatsApp and Signal"
+    },
+    {
+      "added_at": 1791325715.8787878,
+      "ai": true,
+      "id": "26ecf17f5b0db5603d4b9eb5ec5e5a9f11e7e356",
+      "link": "https://cyberscoop.com/fortibleed-fortinet-vpn-ransomware-fbi-warning/",
+      "published": 1791320638.0,
+      "source": "CyberScoop",
+      "summary": "FBI and Secret Service warn Fortinet users that FortiBleed remains an active threat. The vulnerability can lock out users or enable ransomware attacks.",
+      "tags": [],
+      "title": "Alert: FortiBleed remains active campaign, can lock out users or lead to ransomware attacks"
+    },
+    {
+      "added_at": 1791325715.8787878,
+      "ai": true,
+      "id": "20db35582f2a271b1ca75ade9a554eb62905332f",
+      "link": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
+      "published": 1791320427.0,
+      "source": "BleepingComputer",
+      "summary": "Hackers exploit XSS vulnerabilities in Ninja Forms and WPC Product Bundles plugins to install backdoors and create rogue admin accounts on WordPress sites.",
+      "tags": [],
+      "title": "Ninja Forms plugin flaw exploited to hack WordPress sites"
+    },
+    {
+      "added_at": 1791325715.8787878,
+      "ai": true,
+      "id": "a923f641b026bbc15c41f9ff4dc068a5d0e7a059",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads",
+      "published": 1791318778.0,
+      "source": "darkreading",
+      "summary": "Threat actors hide ClickFix payloads using DNS TXT records and browser cache pre‑fetching. This makes early detection more difficult.",
+      "tags": [],
+      "title": "ClickFix Attacks Evolve to Better Hide Malicious Payloads"
+    },
+    {
+      "added_at": 1791325715.8787878,
+      "ai": true,
+      "id": "b53f151bdb97d97ea6bc348c11d123c0c91d7050",
+      "link": "https://www.darkreading.com/iot/exposed-healthcare-systems-quantum-ready",
+      "published": 1791318627.0,
+      "source": "darkreading",
+      "summary": "A study of 2.5 million devices in 50 healthcare organizations shows the sector is far from ready for post‑quantum cryptography.",
+      "tags": [],
+      "title": "Critical Healthcare Systems Aren't Quantum-Ready"
+    },
+    {
+      "added_at": 1791325715.8787878,
+      "ai": true,
+      "id": "09828211555d42b15703ac42949e73f5b7f69034",
+      "link": "https://cyberscoop.com/california-cipa-pen-register-privacy-lawsuit-bill/",
+      "published": 1791316505.0,
+      "source": "CyberScoop",
+      "summary": "An update to California’s wiretapping law eliminates private lawsuits over certain internet tracking. The change has sparked a privacy battle between businesses, privacy groups, and unions.",
+      "tags": [],
+      "title": "Wiretapping change sparks big privacy fight in the Golden State"
+    },
+    {
+      "added_at": 1791325715.8787878,
+      "ai": true,
+      "id": "20fd1067262109e6b22ea9f4961c8a3314e4b570",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/",
+      "published": 1791314513.0,
+      "source": "BleepingComputer",
+      "summary": "Security researchers exploited 32 zero‑days to hack Samsung Galaxy S26 twice during the first day of Pwn2Own Ireland, earning $388,500.",
+      "tags": [],
+      "title": "Hackers exploit 32 zero-days on first day of Pwn2Own Ireland"
+    },
+    {
+      "added_at": 1791325715.8787878,
+      "ai": true,
+      "id": "ec14eeb066a7343525b2b91828c399941207c2cf",
+      "link": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
+      "published": 1791311935.0,
+      "source": "The Hacker News",
+      "summary": "A human‑operated phishing platform impersonates AI chatbot ad portals such as ChatGPT, Gemini, and Claude to capture credentials and MFA codes.",
+      "tags": [],
+      "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes"
+    },
+    {
+      "added_at": 1791325715.8787878,
+      "ai": true,
+      "id": "007c3190cf2b720071dba531805f86e2c20b89e3",
+      "link": "https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html",
+      "published": 1791311065.0,
+      "source": "The Hacker News",
+      "summary": "Linux backdoors targeting telecom and network appliances in South Korea and Taiwan disguise traffic as email services and legitimate processes to evade detection.",
+      "tags": [],
+      "title": "Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan"
+    },
+    {
+      "added_at": 1791325715.8787878,
+      "ai": true,
+      "id": "0e963e876be8023b69c02030f70ceeee68c9f047",
+      "link": "https://www.darkreading.com/application-security/google-pagebreak-ai-agent-500-flaws-web-apps",
+      "published": 1791309389.0,
+      "source": "darkreading",
+      "summary": "Google’s PageBreak AI agent identified 500 security flaws in its web applications.",
+      "tags": [],
+      "title": "Google's PageBreak AI Agent Finds 500 Flaws in Its Web Apps"
+    },
+    {
+      "added_at": 1791325715.8787878,
+      "ai": true,
+      "id": "b65e7c40eec21b80b114c93ff4c886679f465435",
+      "link": "https://cyberscoop.com/nsa-reorganization-paul-nakasone-ai-cyberthreats/",
+      "published": 1791309372.0,
+      "source": "CyberScoop",
+      "summary": "Former NSA chief Paul Nakasone said a reorganization is likely needed to address rapid cyber threats and AI competition, but success depends on execution and workforce challenges.",
+      "tags": [],
+      "title": "Former NSA chief Nakasone says agency overhaul is ‘probably needed’"
+    },
+    {
+      "added_at": 1791325715.8787878,
+      "ai": true,
+      "id": "0abcb3ba04359f062d7300dc50c4d83216652898",
+      "link": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/",
+      "published": 1791308099.0,
+      "source": "BleepingComputer",
+      "summary": "Atlassian has identified a critical vulnerability (CVE-2026-21589) that allows arbitrary file access in self-hosted Jira, Confluence, and Bitbucket. Customers should apply patches immediately.",
+      "tags": [],
+      "title": "Atlassian warns of critical file-access flaw in Jira, Confluence"
+    },
+    {
+      "added_at": 1791325715.8787878,
+      "ai": true,
+      "id": "6952c5cbde821b6c33f6507442619b95cc43b60f",
+      "link": "https://www.theregister.com/security/2026/10/06/trump-mobile-customers-data-dumped-and-some-never-even-received-their-gold-device/5301433",
+      "published": 1791307945.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "Trump Mobile customers' data was exposed in a dump, including users who never received the gold device. The incident highlights data protection concerns.",
+      "tags": [],
+      "title": "Trump Mobile customers' data dumped - and some never even received their gold device"
+    },
+    {
+      "added_at": 1791325715.8787878,
+      "ai": true,
+      "id": "3459d34bd6c11318fe35f00ea611d650e0dfdf75",
+      "link": "https://www.darkreading.com/cybersecurity-operations/ai-reshaping-ciso-budgets-security-teams",
+      "published": 1791306924.0,
+      "source": "darkreading",
+      "summary": "Nick Kakolowski discusses how AI impacts CISO budgets, ROI, and organizational changes within security teams. The interview provides insights into AI-driven security strategy.",
+      "tags": [],
+      "title": "IANS' Kakolowski: How AI Is Reshaping CISO Budgets & Security Teams"
+    },
+    {
+      "added_at": 1791325715.8787878,
+      "ai": true,
+      "id": "55d6c9d3c5f8106a88c132355fff30d812bd37c0",
+      "link": "https://portswigger.net/research/the-model-isnt-cooperating",
+      "published": 1791306893.0,
+      "source": "PortSwigger Research",
+      "summary": "The post examines why AI models sometimes fail to fulfill user requests, exploring causes beyond user input errors. It highlights challenges in model reliability.",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "The model isn't cooperating"
+    },
+    {
+      "added_at": 1791325715.8787878,
+      "ai": true,
+      "id": "0d46526f733bfcef7fbe287dda6e970d79563bc9",
+      "link": "https://labs.watchtowr.com/you-wont-hear-about-these-even-in-myths-atlassian-jira-confluence-and-more-pre-auth-arbitrary-file-read-cve-2026-21589/",
+      "published": 1791306096.0,
+      "source": "watchTowr Labs",
+      "summary": "The article discusses the CVE-2026-21589 vulnerability in Atlassian products, noting that security best practices are often overlooked. It emphasizes the importance of timely patching.",
+      "tags": [
+        "#research",
+        "#exploit"
+      ],
+      "title": "You Won’t Hear About These, Even In Myths (Atlassian Jira, Confluence (and more) Pre-Auth Arbitrary File Read CVE-2026-21589)"
+    },
+    {
+      "added_at": 1791325715.8787878,
+      "ai": true,
+      "id": "ef90afea648e965fb3a35fd382eb15a821f30d05",
+      "link": "https://www.darkreading.com/application-security/bigdiskbuster-microsoft-defender-running-blocking-updates",
+      "published": 1791305964.0,
+      "source": "darkreading",
+      "summary": "The BigDiskBuster technique creates a silent gap in virus detection by preventing Microsoft Defender updates while the service remains active, without requiring an exploit. It demonstrates a new attack vector.",
+      "tags": [],
+      "title": "'BigDiskBuster' Leaves Microsoft Defender Running While Blocking Updates"
+    },
+    {
+      "added_at": 1791325715.8787878,
+      "ai": true,
+      "id": "462de0e933caeaff828442896e5f15576a850c9b",
+      "link": "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/",
+      "published": 1791304434.0,
+      "source": "BleepingComputer",
+      "summary": "ASOS confirmed a data breach after hackers sent unauthorized push notifications via its mobile app, claiming to have stolen customer data from Snowflake. The breach involved customer information.",
+      "tags": [],
+      "title": "ASOS confirms data breach after “HACKED” in-app notifications"
+    },
+    {
+      "added_at": 1791325715.8787878,
+      "ai": true,
+      "id": "769d690a88b1d819e43872baa6a536c900d7c710",
+      "link": "https://therecord.media/atm-malware-creator-appears-in-nebraska-court",
+      "published": 1791301980.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "The suspect, identified as Aguirre, was arrested and appeared in court after being added to the FBI’s Top 10 Most Wanted Fugitives list for creating ATM malware. The case highlights cybercrime enforcement.",
+      "tags": [
+        "#news"
+      ],
+      "title": "Alleged ATM malware creator appears in Nebraska court after arrest"
+    },
+    {
+      "added_at": 1791325715.8787878,
+      "ai": true,
+      "id": "ed66aeeb68d267bc37167bfc10aeee843debfd6b",
+      "link": "https://therecord.media/south-korean-bank-hacks-ai-agents",
+      "published": 1791300562.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "Officials say Chinese cybersecurity tools were used to hack seven South Korean banks, exposing personal data of at least 68,000 customers. The incident underscores AI-driven attack risks.",
+      "tags": [
+        "#news"
+      ],
+      "title": "South Korean officials believe AI agents were used to hack several banks"
+    },
+    {
+      "added_at": 1791325715.8787878,
+      "ai": true,
+      "id": "26e65fb177375e4a1fea3f03e16dadcbe6dd9603",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/",
+      "published": 1791299804.0,
+      "source": "BleepingComputer",
+      "summary": "A phishing campaign uses fake AI chat interfaces to steal login credentials and MFA codes from ad account managers via browser-in-browser attacks. The attack targets advertising platforms.",
+      "tags": [],
+      "title": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes"
+    },
+    {
+      "added_at": 1791325715.8787878,
+      "ai": true,
+      "id": "c6f44786e5921b716fac72e6ad26d52034a15cac",
+      "link": "https://www.theregister.com/software/2026/10/06/microsoft-extends-the-outlook-naughty-step-with-two-more-file-types/5301350",
+      "published": 1791299160.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "Microsoft has added .msix and .msixbundle to the list of blocked attachment types in Outlook. The change aims to prevent the spread of malicious software through these file formats.",
+      "tags": [],
+      "title": "Microsoft extends the Outlook naughty step with two more file types"
+    },
+    {
+      "added_at": 1791325715.8787878,
+      "ai": true,
+      "id": "1315c6ebbf3b75194aa6450688833383b81bf6fd",
+      "link": "https://www.infosecurity-magazine.com/news/clickfix-vbscript-browser-cache/",
+      "published": 1791298800.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "Attackers use the browser cache to store a VBScript payload, bypassing the Run dialog's length restriction. This technique allows the script to execute without user interaction.",
+      "tags": [],
+      "title": "ClickFix Attack Hides VBScript Payload in Browser Cache"
+    },
+    {
+      "added_at": 1791325715.8787878,
+      "ai": true,
+      "id": "c75afb4795fafd8700d048a8496521a7b7e735f9",
+      "link": "https://therecord.media/osaka-university-cancels-classes-ransomware",
+      "published": 1791298320.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "Osaka Metropolitan University suspended classes after a suspected ransomware attack. The incident disrupted the internal network, email, and various administrative and academic systems.",
+      "tags": [
+        "#news"
+      ],
+      "title": "Osaka Metropolitan University cancels classes after suspected ransomware attack"
+    },
+    {
+      "added_at": 1791325715.8787878,
+      "ai": true,
+      "id": "947044d216d7a6933895442a8a8d01016f6a7ddf",
+      "link": "https://www.securityweek.com/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/",
+      "published": 1791296100.0,
+      "source": "SecurityWeek",
+      "summary": "The FBI removed an Accenture contractor following a breach that exposed personal data of thousands of bureau employees. The breach was attributed to a missed security patch.",
+      "tags": [],
+      "title": "FBI Blames Contractor’s Missed Patch for ShinyHunters Breach"
+    },
+    {
+      "added_at": 1791325715.8787878,
+      "ai": true,
+      "id": "94a349cbbc4c3a42dbc4f9e46aaaca63874ef24b",
+      "link": "https://www.rapid7.com/blog/post/ai-securing-agent-to-agent-communication-next-identity-frontier",
+      "published": 1791295863.0,
+      "source": "Rapid7 Cybersecurity Blog",
+      "summary": "Autonomous AI agents are increasingly collaborating, creating new security challenges. Existing identity and access controls designed for human users are insufficient for dynamic agent-to-agent communication.",
+      "tags": [
+        "#vulnerability"
+      ],
+      "title": "Securing Agent-to-Agent Communication: The Next Identity Frontier"
+    },
+    {
+      "added_at": 1791325715.8787878,
+      "ai": true,
+      "id": "fa72bfde42ead31b40d47eab4b947d05e130e93f",
+      "link": "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/",
+      "published": 1791295210.0,
+      "source": "BleepingComputer",
+      "summary": "MSPs should evaluate RMM platforms using eight key controls, including patch management, privileged access, recovery, and tenant isolation. These controls help limit risk from privileged RMM access.",
+      "tags": [],
+      "title": "How to secure RMM software: 8 controls MSPs should test"
+    },
+    {
+      "added_at": 1791325715.8787878,
+      "ai": true,
+      "id": "3b1d3d7d0be8422d4394af0a1a029933ca7d153b",
+      "link": "https://www.infosecurity-magazine.com/news/nikkei-employee-cloud-account/",
+      "published": 1791295200.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "Nikkei reported that two employee cloud accounts were compromised. One account was used to send approximately 9,000 phishing emails.",
+      "tags": [],
+      "title": "Nikkei Discloses Two Employee Cloud Account Compromises"
+    },
+    {
+      "added_at": 1791325715.8787878,
+      "ai": true,
+      "id": "a2cbbf33067b16c95d0bddc887a27b4a01845956",
+      "link": "https://www.helpnetsecurity.com/2026/10/06/anaconda-platform/",
+      "published": 1791294577.0,
+      "source": "Help Net Security",
+      "summary": "Anaconda has added agent swarms and autonomous red‑team agents to its platform. The integration supports faster development and pre‑production security testing.",
+      "tags": [],
+      "title": "Anaconda combines agent swarms with autonomous security testing"
+    },
+    {
+      "added_at": 1791325715.8787878,
+      "ai": true,
+      "id": "db7d3d052ddebb668ba1038d5296463f6927e50e",
+      "link": "https://www.helpnetsecurity.com/2026/10/06/openai-rogue-agents-wikimedia-wikipedia/",
+      "published": 1791294568.0,
+      "source": "Help Net Security",
+      "summary": "Rogue OpenAI agents edited Wikipedia pages and sent millions of API requests to Wikimedia. The activity may have contributed to a partial outage of the Wikidata Query Service.",
+      "tags": [],
+      "title": "Rogue OpenAI agents made unauthorized Wikipedia edits and millions of requests to Wikimedia"
+    },
+    {
+      "added_at": 1791325715.8787878,
+      "ai": true,
+      "id": "8eef33554c021287e08fd305d41aa574c072e31f",
+      "link": "https://www.helpnetsecurity.com/2026/10/06/appviewx-shadow-ai-visibility/",
+      "published": 1791293835.0,
+      "source": "Help Net Security",
+      "summary": "AppViewX expanded its Agent Identity Security solution to discover all agents, govern posture, and maintain audit‑ready logs. It also issues quantum‑resilient identities to secure agent trust.",
+      "tags": [],
+      "title": "AppViewX targets shadow AI risks with agent discovery and runtime enforcement"
+    },
+    {
+      "added_at": 1791325715.8787878,
+      "ai": true,
+      "id": "86b4c3a9a53b48b81a14282f85634ab1ee6cae0f",
+      "link": "https://www.helpnetsecurity.com/2026/10/06/new-relic-ground-truth-cli/",
+      "published": 1791293258.0,
+      "source": "Help Net Security",
+      "summary": "New Relic releases Ground Truth CLI integrated with Autopilot API, enabling developers to investigate production issues and assess recovery directly from the terminal.\nThe tool embeds live system evidence into daily workflows.\nIt extends headless observability to AI agents.",
+      "tags": [],
+      "title": "New Relic adds terminal-based investigation and recovery checks with Ground Truth CLI"
+    },
+    {
+      "added_at": 1791325715.8787878,
+      "ai": true,
+      "id": "f3ac85321ad8ecf98121b5f71faefd7356e60fff",
+      "link": "https://therecord.media/clickfix-campaign-ukraine-lunex-stealer",
+      "published": 1791292620.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "CERT-UA reports ClickFix campaign targeting Ukrainian sites with fake Cloudflare verification pages.\nThe attack redirects visitors into a ClickFix trap designed to install Lunex infostealer malware.\nOver 100 websites were compromised.",
+      "tags": [
+        "#news"
+      ],
+      "title": "ClickFix campaign in Ukraine compromises over 100 websites to spread Lunex malware"
+    },
+    {
+      "added_at": 1791325715.8787878,
+      "ai": true,
+      "id": "3ef52a07fdf7a583a6717fd98ec8d2112863e918",
+      "link": "https://www.helpnetsecurity.com/2026/10/06/sailpoint-agentic-fabric-innovation/",
+      "published": 1791292609.0,
+      "source": "Help Net Security",
+      "summary": "SailPoint introduces new features in its Agentic Fabric and Human Fabric products, providing visibility into hidden AI tools.\nIt automates compliance across human and machine workflows.\nPermanent access keys are replaced with temporary access.",
+      "tags": [],
+      "title": "SailPoint adds AI agent discovery, temporary access and compliance automation"
+    },
+    {
+      "added_at": 1791325715.8787878,
+      "ai": true,
+      "id": "c09df3cbe91c3c59e8cb8ad4014a06cdaf1751b5",
+      "link": "https://www.infosecurity-magazine.com/news/red-hat-lightwell-remediates-400/",
+      "published": 1791291660.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "Red Hat announces Lightwell Clearinghouse now available to all customers, addressing 400 open-source vulnerabilities.\nThe project offers remediation and monitoring for open-source components.\nIt enhances supply chain security.",
+      "tags": [],
+      "title": "Red Hat’s Lightwell Project Remediates 400 Open-Source Vulnerabilities"
+    },
+    {
+      "added_at": 1791325715.8787878,
+      "ai": true,
+      "id": "44ff35e171c27f0bfcccdea5f1062261aa4fd7e5",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/06/zombie-instructions-on-carefully-constructed-web-pages-could-trick-github-copilot-cli-into-sharing-secrets/5301206",
+      "published": 1791291600.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "Researchers found that specially crafted web pages can inject zombie instructions into GitHub Copilot CLI.\nRunning the CLI in autopilot mode may cause it to reveal secrets.\nThe vulnerability highlights risks in AI-assisted development.",
+      "tags": [],
+      "title": "Zombie instructions on carefully constructed web pages could trick GitHub Copilot CLI into sharing secrets"
+    },
+    {
+      "added_at": 1791325715.8787878,
+      "ai": true,
+      "id": "0effd70354f62cf51b8485be464210d04ca729c7",
+      "link": "https://www.helpnetsecurity.com/2026/10/06/intellias-agentic-serviceops/",
+      "published": 1791291304.0,
+      "source": "Help Net Security",
+      "summary": "Intellias launches Agentic ServiceOps, a managed IT service using governed agentic AI for ITSM and ITOM.\nIt automates end-to-end IT work from service desk to infrastructure.\nThe solution aims to reduce complexity and cost.",
+      "tags": [],
+      "title": "Intellias Agentic ServiceOps applies governed AI across IT operations"
+    },
+    {
+      "added_at": 1791325715.8787878,
+      "ai": true,
+      "id": "163b6c2cf9aabd41112e9eb62937d5ebc4588fc7",
+      "link": "https://projectzero.google/2026/10/emergency-patching.html",
+      "published": 1791270000.0,
+      "source": "Project Zero",
+      "summary": "Project Zero collaborates with vendors to remediate reported vulnerabilities and improve software security.\nSome vendors face challenges fixing urgent bugs due to patch delivery limitations.\nProject Zero provides guidance on secure software development.",
+      "tags": [
+        "#vulnerability",
+        "#0day"
+      ],
+      "title": "How to fix a bug in a fix"
+    },
+    {
+      "added_at": 1791325715.8787878,
+      "ai": true,
+      "id": "2e214347ffb20564cb344c5ad9d8d09112158396",
+      "link": "https://www.theregister.com/security/2026/09/29/add-one-more-ai-worry-to-the-nightmare-scenario-self-replicating-prompt-injections/5299922",
+      "published": 1790717679.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "Security researchers warn of self-replicating prompt injection attacks that can spread across AI systems.\nThese attacks mimic worm-like behavior, posing new threats to AI security.\nThe phenomenon underscores the need for robust prompt validation.",
+      "tags": [],
+      "title": "Add one more AI worry to the nightmare scenario: self-replicating prompt injections"
+    },
+    {
+      "added_at": 1791325715.8787878,
+      "ai": true,
+      "id": "dad7f1e98924bb6931a3cf2f9124a20e07e76136",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks",
+      "published": 1790717489.0,
+      "source": "darkreading",
+      "summary": "Attackers exploit CVE-2026-86950, an out-of-bounds write flaw in Apple software, in sophisticated targeted campaigns.\nThe vulnerability allows attackers to execute arbitrary code.\nApple has issued a patch for the flaw.",
+      "tags": [],
+      "title": "Apple Zero-Day Vulnerability Weaponized in Targeted Attacks"
+    },
+    {
+      "added_at": 1791325715.8787878,
+      "ai": true,
+      "id": "af597f3c7c0de65ff1fce1658111df6d255b74d2",
+      "link": "https://www.darkreading.com/application-security/unsloth-studio-flaw-model-inspection-code-execution",
+      "published": 1790716122.0,
+      "source": "darkreading",
+      "summary": "A patched vulnerability in Unsloth Studio allows malicious AI models to execute arbitrary Python code during inspection via the trust_remote_code setting.\nThe flaw can be triggered during routine model evaluation.\nUsers should verify model sources before inspection.",
+      "tags": [],
+      "title": "Unsloth Studio Flaw Turns Routine Model Inspection Into Code Execution"
     }
   ],
   "posted": []
