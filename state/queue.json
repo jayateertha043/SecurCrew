@@ -1818,6 +1818,457 @@
       "summary": "A patched vulnerability in Unsloth Studio allows malicious AI models to execute arbitrary Python code during inspection via the trust_remote_code setting.\nThe flaw can be triggered during routine model evaluation.\nUsers should verify model sources before inspection.",
       "tags": [],
       "title": "Unsloth Studio Flaw Turns Routine Model Inspection Into Code Execution"
+    },
+    {
+      "added_at": 1791377589.3031368,
+      "ai": true,
+      "id": "49b14ed2d5b24797c8eadf69c7c36fe093c062a7",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/",
+      "published": 1791377341.0,
+      "source": "BleepingComputer",
+      "summary": "Atlassian disclosed CVE‑2026‑21589, a critical unauthenticated file‑access vulnerability affecting Jira, Confluence, Bitbucket, and other products. Attackers are exploiting it without authentication, and Atlassian rated it CVSS 9.3.",
+      "tags": [],
+      "title": "Hackers exploit critical Atlassian flaw after public PoC release"
+    },
+    {
+      "added_at": 1791377589.3031368,
+      "ai": true,
+      "id": "61acdfc939132f1c3c623884146f159422937770",
+      "link": "https://www.securityweek.com/advantest-discloses-data-breach-months-after-ransomware-attack/",
+      "published": 1791376644.0,
+      "source": "SecurityWeek",
+      "summary": "Advantest, a Japanese chip‑testing company, reported that personal data was stolen from its servers months after a February 2026 ransomware attack. The breach was disclosed in a SecurityWeek article.",
+      "tags": [],
+      "title": "Advantest Discloses Data Breach Months After Ransomware Attack"
+    },
+    {
+      "added_at": 1791377589.3031368,
+      "ai": true,
+      "id": "2e1e15e83be51d6e25412ee47164a644086e7c37",
+      "link": "https://www.rapid7.com/blog/post/etr-cve-2026-21589-critical-unauthenticated-arbitrary-file-access-in-atlassian-products",
+      "published": 1791375086.0,
+      "source": "Rapid7 Cybersecurity Blog",
+      "summary": "CVE‑2026‑21589 is a critical arbitrary file‑access flaw in eight Atlassian Data Center products, including Bitbucket, Confluence, Jira, Bamboo, Crowd, Crucible, and Fisheye. Atlassian assigned it a CVSS score of 9.3.",
+      "tags": [
+        "#vulnerability"
+      ],
+      "title": "CVE-2026-21589: Critical unauthenticated arbitrary file access in Atlassian products"
+    },
+    {
+      "added_at": 1791377589.3031368,
+      "ai": true,
+      "id": "12e41dfb9e1f564b52b5ec1e86db45db5b83fffe",
+      "link": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html",
+      "published": 1791374225.0,
+      "source": "The Hacker News",
+      "summary": "The 2026 CISO survey shows cyber risk is increasingly embedded in day‑to‑day workflows, with resilience, AI governance, human risk, and board oversight converging within operational systems.",
+      "tags": [],
+      "title": "The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow"
+    },
+    {
+      "added_at": 1791377589.3031368,
+      "ai": true,
+      "id": "2de79823b5455a836924b34a968ca8bfa9f5fcfb",
+      "link": "https://www.infosecurity-magazine.com/news/telegram-accoun-asos-tied-gaming/",
+      "published": 1791374220.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "Group‑IB research found a Telegram account linked to a fraudulent ASOS customer notification was involved in gaming‑item trading.",
+      "tags": [],
+      "title": "Telegram Account Behind ASOS Rogue Notification Tied to Gaming Trading"
+    },
+    {
+      "added_at": 1791377589.3031368,
+      "ai": true,
+      "id": "9f1a8977892018e92868669c6ec02440bf608392",
+      "link": "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html",
+      "published": 1791374216.0,
+      "source": "The Hacker News",
+      "summary": "The FBI and Secret Service warned that the FortiBleed credential‑harvesting campaign targeting Fortinet FortiGate firewalls and SSL VPN gateways remains active, exploiting reused or leaked credentials and legacy SHA‑256 storage.",
+      "tags": [],
+      "title": "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials"
+    },
+    {
+      "added_at": 1791377589.3031368,
+      "ai": true,
+      "id": "78d1d9b56302a600e02cb33a3b485cee5aec6800",
+      "link": "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html",
+      "published": 1791373766.0,
+      "source": "The Hacker News",
+      "summary": "Within two hours of public disclosure, threat actors began exploiting Atlassian Data Center's CVE‑2026‑21589 flaw, allowing access to sensitive files in products such as Bitbucket, Confluence, and Jira.",
+      "tags": [],
+      "title": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details"
+    },
+    {
+      "added_at": 1791377589.3031368,
+      "ai": true,
+      "id": "ecf0f242fd12abd3ae0958f2f2ee098bd83061c8",
+      "link": "https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html",
+      "published": 1791373344.0,
+      "source": "The Hacker News",
+      "summary": "Agentic pentesting solutions claim to autonomously discover, validate, and exploit attack paths like a real attacker. Evaluators should test these claims by assessing the solution's actual capabilities and limits.",
+      "tags": [],
+      "title": "What Is Agentic Pentesting? What It Proves, and Where It Stops."
+    },
+    {
+      "added_at": 1791377589.3031368,
+      "ai": true,
+      "id": "637cde09cef7b1c1cf7c79e7e01ec6904ff723da",
+      "link": "https://www.helpnetsecurity.com/2026/10/07/google-unauthorized-https-certificates-cctld-hijacks/",
+      "published": 1791371429.0,
+      "source": "Help Net Security",
+      "summary": "Attackers compromised the operators of Ghana (.gh), Sierra Leone (.sl), and American Samoa (.as) country‑code domains, using the access to issue HTTPS certificates for Google and other large organization domains.",
+      "tags": [],
+      "title": "Hackers hijack three country-code domain registries, obtain HTTPS certificates for Google domains"
+    },
+    {
+      "added_at": 1791377589.3031368,
+      "ai": true,
+      "id": "a933b7cbaae5d4775d1d1c9ba45fcd5182cd69e2",
+      "link": "https://www.schneier.com/blog/archives/2026/10/apples-verified-photography-system.html",
+      "published": 1791371256.0,
+      "source": "Schneier on Security",
+      "summary": "Apple released Reference Image, a system that verifies an image was taken by an iPhone without linking it to a specific device or photographer, and can confirm multiple images originate from the same iPhone.",
+      "tags": [
+        "#opinion"
+      ],
+      "title": "Apple’s Verified Photography System"
+    },
+    {
+      "added_at": 1791377589.3031368,
+      "ai": true,
+      "id": "2d9c395cb16476831010f5d7874c4788f5c678cc",
+      "link": "https://www.theregister.com/security/2026/10/07/fortibleed-still-a-bleeding-nuisance-as-fbi-confirms-ongoing-attacks/5301585",
+      "published": 1791370329.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "FBI confirms FortiBleed attacks are ongoing,\naffecting tens of thousands of victims and involving multiple ransomware groups.",
+      "tags": [],
+      "title": "FortiBleed still a bleeding nuisance as FBI confirms ongoing attacks"
+    },
+    {
+      "added_at": 1791377589.3031368,
+      "ai": true,
+      "id": "2322918b8aa6967a3f5a404d6a1406f1cd7ee902",
+      "link": "https://www.securityweek.com/chrome-155-update-patches-247-vulnerabilities/",
+      "published": 1791370317.0,
+      "source": "SecurityWeek",
+      "summary": "Chrome 155 released,\npatching 247 vulnerabilities including four critical use‑after‑free bugs in Chromecast, Browser, Navigation, and Track.",
+      "tags": [],
+      "title": "Chrome 155 Update Patches 247 Vulnerabilities"
+    },
+    {
+      "added_at": 1791377589.3031368,
+      "ai": true,
+      "id": "7545dfb137e3b00ed068a285c6640c050fe53cad",
+      "link": "https://www.rapid7.com/blog/post/it-asos-incident-attackers-using-channels-customers-trust",
+      "published": 1791369607.0,
+      "source": "Rapid7 Cybersecurity Blog",
+      "summary": "ASOS customers received a malicious push notification claiming a Snowflake breach;\nthe retailer confirmed an unauthorized message sent via its app and is investigating third‑party activity.",
+      "tags": [
+        "#vulnerability"
+      ],
+      "title": "The ASOS incident: When attackers use the channels customers trust"
+    },
+    {
+      "added_at": 1791377589.3031368,
+      "ai": true,
+      "id": "585a38591fc09e557f6f3ddef3187f099699c944",
+      "link": "https://www.helpnetsecurity.com/2026/10/07/sonicwall-fixes-pre-auth-ssrf-flaw-in-sma-1000-appliances-cve-2026-102255/",
+      "published": 1791369473.0,
+      "source": "Help Net Security",
+      "summary": "SonicWall patched four vulnerabilities in its SMA 1000 series,\nincluding CVE‑2026‑102255 that could allow unauthenticated attackers to trigger internal requests and perform unauthorized operations.",
+      "tags": [],
+      "title": "SonicWall fixes pre-auth SSRF flaw in SMA 1000 appliances (CVE-2026-102255)"
+    },
+    {
+      "added_at": 1791377589.3031368,
+      "ai": true,
+      "id": "ccdbc3d08bf42bd5a5b0440e211660e67c53f7de",
+      "link": "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/",
+      "published": 1791369315.0,
+      "source": "BleepingComputer",
+      "summary": "A North Carolina musician was sentenced to 18 months for orchestrating a $10 million streaming royalty fraud using AI bots across major music platforms.",
+      "tags": [],
+      "title": "Musician sent to prison for $10 million streaming fraud using AI bots"
+    },
+    {
+      "added_at": 1791377589.3031368,
+      "ai": true,
+      "id": "e8af94180ff313349bd1710aab5e80f1672e5199",
+      "link": "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/",
+      "published": 1791368872.0,
+      "source": "BleepingComputer",
+      "summary": "Advantest notified affected individuals that a ransomware attack earlier this year exposed personally identifiable data.",
+      "tags": [],
+      "title": "Advantest confirms personal information stolen in ransomware attack"
+    },
+    {
+      "added_at": 1791377589.3031368,
+      "ai": true,
+      "id": "bed63565f97735cc7d8ff6d1a43399e7c30420ff",
+      "link": "https://www.helpnetsecurity.com/2026/10/07/windows-app-remote-pc-access/",
+      "published": 1791368563.0,
+      "source": "Help Net Security",
+      "summary": "Microsoft made remote PC connections generally available via Windows App,\nconsolidating access to physical, virtual, and cloud Windows PCs and replacing the separate Remote Desktop app.",
+      "tags": [],
+      "title": "Your Windows PC can now reach other PCs through Windows App"
+    },
+    {
+      "added_at": 1791377589.3031368,
+      "ai": true,
+      "id": "27c8334a61d52f2b51d3fac5a963f499d5850da7",
+      "link": "https://www.infosecurity-magazine.com/news/cybersecurity-pros-rely-passwords/",
+      "published": 1791368100.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "A Yubico survey shows 50% of cybersecurity professionals still rely on passwords,\nhighlighting a gap between security awareness and adoption of secure authentication methods in enterprises.",
+      "tags": [],
+      "title": "Half of Cybersecurity Pros Still Rely on Passwords Despite Security Concerns"
+    },
+    {
+      "added_at": 1791377589.3031368,
+      "ai": true,
+      "id": "69027c2a225c9a5a321e227c062c6201476a7bdd",
+      "link": "https://www.securityweek.com/anthropic-introduces-3-tier-cyber-verification-program-for-ai-access/",
+      "published": 1791367629.0,
+      "source": "SecurityWeek",
+      "summary": "Anthropic launched a three‑tier Cyber Verification Program combining CVP and Project Glasswing,\noffering graded access to its advanced AI models.",
+      "tags": [],
+      "title": "Anthropic Introduces 3-Tier Cyber Verification Program for AI Access"
+    },
+    {
+      "added_at": 1791377589.3031368,
+      "ai": true,
+      "id": "445432276ec5fcecea734a2587668713bde9ac8e",
+      "link": "https://blog.talosintelligence.com/one-breach-please-and-make-no-mistakes/",
+      "published": 1791367225.0,
+      "source": "Cisco Talos Blog",
+      "summary": "The article discusses autonomous AI agents attacking public infrastructure\nand stresses the need for preparation to mitigate agentic threats during real incidents.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "One breach, please, and make no mistakes"
+    },
+    {
+      "added_at": 1791377589.3031368,
+      "ai": true,
+      "id": "d203b78524536f10d0510dc16c732f904dded068",
+      "link": "https://www.securityweek.com/asos-confirms-cyberattack-data-breach/",
+      "published": 1791366380.0,
+      "source": "SecurityWeek",
+      "summary": "ASOS confirmed a cyberattack after hackers compromised a third‑party communication platform and sent rogue notifications to users, indicating a data breach.",
+      "tags": [],
+      "title": "ASOS Confirms Cyberattack, Data Breach"
+    },
+    {
+      "added_at": 1791377589.3031368,
+      "ai": true,
+      "id": "5b5e36783f9e6da42821a8bed748b87a07898cf5",
+      "link": "https://www.helpnetsecurity.com/2026/10/07/asos-data-breach-app-notification/",
+      "published": 1791365348.0,
+      "source": "Help Net Security",
+      "summary": "UK retailer ASOS confirmed a data breach after a notification claiming a hack was sent to shoppers via its app at about 10 am on 6 October 2026; the company serves 16.5 million active customers worldwide.",
+      "tags": [],
+      "title": "ASOS confirms data breach after “hacked” app alert reaches shoppers"
+    },
+    {
+      "added_at": 1791377589.3031368,
+      "ai": true,
+      "id": "55d800a6f1de324b0cde27612dd9cc296b03463b",
+      "link": "https://www.infosecurity-magazine.com/news/pwn2own-hackers-32-zeroday/",
+      "published": 1791365100.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "Ethical hackers at Pwn2Own Ireland discovered 32 zero‑day vulnerabilities across multiple products on the first day of the event, as announced by the organizers.",
+      "tags": [],
+      "title": "Pwn2Own Hackers Find 32 Zero-Day Vulnerabilities on Day One"
+    },
+    {
+      "added_at": 1791377589.3031368,
+      "ai": true,
+      "id": "a3797a0ae4c4d1e515c54b03a365c6e354b97c1f",
+      "link": "https://www.helpnetsecurity.com/2026/10/07/anthropic-expands-cyber-verification-program/",
+      "published": 1791363620.0,
+      "source": "Help Net Security",
+      "summary": "Anthropic expanded its Cyber Verification Program, granting vetted security professionals access to Claude with fewer automated blocks for tasks such as malware analysis, and introduced three tiers based on the scope of cybersecurity work.",
+      "tags": [],
+      "title": "Anthropic loosens Claude’s cyber restrictions for verified defenders"
+    },
+    {
+      "added_at": 1791377589.3031368,
+      "ai": true,
+      "id": "17d59a0b3ea91ff3fb96234de4e1c4d55eee23c2",
+      "link": "https://www.infosecurity-magazine.com/news/danish-cpr-breach-supply-chain-risk/",
+      "published": 1791361200.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "A breach of the Danish Central Register of Persons exposed data of 8.8 million citizens through third‑party access, highlighting supply chain risk.",
+      "tags": [],
+      "title": "Danish CPR Breach Highlights Challenge of Supply Chain Risk"
+    },
+    {
+      "added_at": 1791377589.3031368,
+      "ai": true,
+      "id": "c6065c24705db99412222b45d7f938151ca0f4c6",
+      "link": "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html",
+      "published": 1791360458.0,
+      "source": "The Hacker News",
+      "summary": "Anthropic broadened its program for vetted cybersecurity teams, allowing reduced safeguards when testing its AI models; Project Glasswing reported 129,000 verified software vulnerabilities between April and July 2026.",
+      "tags": [],
+      "title": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws"
+    },
+    {
+      "added_at": 1791377589.3031368,
+      "ai": true,
+      "id": "21989a434fca5f18f565da541888fc85163fcd35",
+      "link": "https://www.securityweek.com/wikimedia-says-rogue-openai-agents-tried-to-turn-its-tools-into-proxies/",
+      "published": 1791359902.0,
+      "source": "SecurityWeek",
+      "summary": "Wikimedia investigated activity where rogue OpenAI agents attempted to use its tools as proxies, as reported by SecurityWeek.",
+      "tags": [],
+      "title": "Wikimedia Says Rogue OpenAI Agents Tried to Turn Its Tools Into Proxies"
+    },
+    {
+      "added_at": 1791377589.3031368,
+      "ai": true,
+      "id": "1958c70e74f7f28ad7e54922ebe0204b88933337",
+      "link": "https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html",
+      "published": 1791356274.0,
+      "source": "The Hacker News",
+      "summary": "CERT‑UA identified more than 100 compromised websites that injected malicious JavaScript to deliver LunexStealer, linked to threat cluster UAC‑0277.",
+      "tags": [],
+      "title": "100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer"
+    },
+    {
+      "added_at": 1791377589.3031368,
+      "ai": true,
+      "id": "32c92579d2d8bd6c99d29c7d57e000d5f90c1294",
+      "link": "https://www.securityweek.com/atlassian-patches-critical-vulnerability-affecting-8-products/",
+      "published": 1791355036.0,
+      "source": "SecurityWeek",
+      "summary": "Atlassian released patches for a critical vulnerability that enabled unauthenticated attackers to access files in the web application root directory, affecting eight of its products.",
+      "tags": [],
+      "title": "Atlassian Patches Critical Vulnerability Affecting 8 Products"
+    },
+    {
+      "added_at": 1791377589.3031368,
+      "ai": true,
+      "id": "0e094bbf1db293f554eccd25bd1f889617e9a97b",
+      "link": "https://www.helpnetsecurity.com/2026/10/07/open-source-ai-agent-gateway/",
+      "published": 1791351059.0,
+      "source": "Help Net Security",
+      "summary": "Tuskira’s AI Agent Gateway is an open‑source solution that sits between AI agents and external services, keeping credentials out of agent configurations and running in the user’s own environment without requiring a Tuskira account.",
+      "tags": [],
+      "title": "AI Agent Gateway: Open-source tool keeps credentials out of agent configs"
+    },
+    {
+      "added_at": 1791377589.3031368,
+      "ai": true,
+      "id": "865c5e5320aac263306391f83bcf595beb650f72",
+      "link": "https://www.helpnetsecurity.com/2026/10/07/openssh-10-6-released/",
+      "published": 1791349941.0,
+      "source": "Help Net Security",
+      "summary": "OpenSSH 10.6 adds a post‑quantum signature algorithm, requiring replacement of experimental keys. The release cycle will be accelerated to deliver bug fixes faster, following a surge of security findings identified with AI assistance.",
+      "tags": [],
+      "title": "OpenSSH 10.6 enables a post-quantum signature algorithm, so experimental keys need replacing"
+    },
+    {
+      "added_at": 1791377589.3031368,
+      "ai": true,
+      "id": "b52101156f56a7ae6756f78120da95cc8944f4ce",
+      "link": "https://www.helpnetsecurity.com/2026/10/07/hcl-software-ai-endpoint-management/",
+      "published": 1791349222.0,
+      "source": "Help Net Security",
+      "summary": "Endpoint fleets are expanding faster than security teams can manage, driven by hybrid work, cloud adoption, and new CVEs. Manual tracking and remediation are no longer sufficient, and AI‑driven endpoint management can provide visibility, compliance, and automated remediation.",
+      "tags": [],
+      "title": "AI endpoint management: Visibility, compliance, and remediation"
+    },
+    {
+      "added_at": 1791377589.3031368,
+      "ai": true,
+      "id": "571c2ab48e10bf299ae057aba133d32601f51c4b",
+      "link": "https://www.helpnetsecurity.com/2026/10/07/ot-network-visibility-challenges/",
+      "published": 1791348620.0,
+      "source": "Help Net Security",
+      "summary": "Critical infrastructure operators use an average of seven security tools but still lack full visibility of OT networks. Legacy equipment is the most common visibility gap, cited by 52% of respondents, making it hard to see all assets.",
+      "tags": [],
+      "title": "Even with OT network visibility, critical infrastructure operators struggle with legacy equipment"
+    },
+    {
+      "added_at": 1791377589.3031368,
+      "ai": true,
+      "id": "c2aee6f8a6205abfd2a81660278c5d903528220f",
+      "link": "https://www.helpnetsecurity.com/2026/10/07/software-security-vulnerability-management-survey/",
+      "published": 1791347401.0,
+      "source": "Help Net Security",
+      "summary": "Over half of surveyed senior security leaders anticipate difficulty simplifying software security programs if current practices continue. The main challenge is determining responsibility for addressing scanner findings in large organizations.",
+      "tags": [],
+      "title": "Automation, AI agents or people? Sorting out who handles each security finding"
+    },
+    {
+      "added_at": 1791377589.3031368,
+      "ai": true,
+      "id": "81fd39919faac501570b66371e80b156c3d76c65",
+      "link": "https://www.theregister.com/public-sector/2026/10/07/south-korean-president-calls-for-creation-of-tools-that-stop-all-cyber-attacks/5301533",
+      "published": 1791345385.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "South Korean President urges development of comprehensive tools to prevent all cyber attacks, calling for a complete security paradigm refresh in the AI era.",
+      "tags": [],
+      "title": "South Korean president calls for creation of tools that stop all cyber-attacks"
+    },
+    {
+      "added_at": 1791377589.3031368,
+      "ai": true,
+      "id": "4e888681b7b481dbb4acfb6d27c210cefebd030c",
+      "link": "https://www.securityweek.com/personal-information-for-over-1-million-people-stolen-in-a-cyberattack-on-arizonas-court-system/",
+      "published": 1791336778.0,
+      "source": "SecurityWeek",
+      "summary": "A cyberattack on Arizona’s court system exposed personal data for more than one million individuals, including records dating back 30 years. The breach involved the Arizona Supreme Court’s database.",
+      "tags": [],
+      "title": "Personal Information for Over 1 Million People Stolen in a Cyberattack on Arizona’s Court System"
+    },
+    {
+      "added_at": 1791377589.3031368,
+      "ai": true,
+      "id": "15d8931249241012cd4db75027f84225f923bc8f",
+      "link": "https://www.intigriti.com/blog/business-insights/beyond-asset-discovery-real-life-crowdrecon-use-case-explored",
+      "published": 1791331200.0,
+      "source": "Intigriti",
+      "summary": "CrowdRecon’s use case demonstrates that asset discovery extends beyond listing internet‑facing assets to mapping relationships, assumptions, and potential attack paths that evolve with product changes.",
+      "tags": [
+        "#bugbounty"
+      ],
+      "title": "Beyond asset discovery. Real-life CrowdRecon use case explored"
+    },
+    {
+      "added_at": 1791377589.3031368,
+      "ai": true,
+      "id": "9f73fae79456b9a97bb49ddcc57a903ac7590590",
+      "link": "https://www.theregister.com/security/2026/10/07/anthropic-reconfigures-its-cool-kids-security-program/5301509",
+      "published": 1791329367.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "Anthropic has restructured its security initiatives, transforming Project Glasswing and the Cyber Verification Program into a triple‑tier threat‑hunting club.",
+      "tags": [],
+      "title": "Anthropic reconfigures its cool kids security program"
+    },
+    {
+      "added_at": 1791377589.3031368,
+      "ai": true,
+      "id": "b01b1ea281284cc621c245e5a0ccf12235ce59f5",
+      "link": "https://www.welivesecurity.com/en/business-security/quest-simplicity-why-smbs-want-advanced-protection-without-complexity/",
+      "published": 1791277200.0,
+      "source": "WeLiveSecurity",
+      "summary": "SMBs seek advanced cybersecurity solutions that are simple to deploy and manage, but the market often offers complex products that make threat protection difficult.",
+      "tags": [],
+      "title": "The quest for simplicity: Why SMBs want advanced protection without the complexity"
+    },
+    {
+      "added_at": 1791377589.3031368,
+      "ai": true,
+      "id": "622457ee914ad29a8993539858a6c060af01a0a8",
+      "link": "https://www.infosecurity-magazine.com/news/ai-boosts-soc-analyst-capacity/",
+      "published": 1790769600.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "AI reduces repetitive tasks for SOC analysts, increasing capacity, but some analysts feel their career development may be hindered by reliance on automation.",
+      "tags": [],
+      "title": "AI Boosts SOC Analyst Capacity but Limits Skill Development"
     }
   ],
   "posted": []
