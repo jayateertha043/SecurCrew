@@ -1,7 +1,330 @@
 {
-  "generated_at": 1791550080.8573694,
-  "count": 191,
+  "generated_at": 1791584691.2572827,
+  "count": 181,
   "items": [
+    {
+      "title": "OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks",
+      "summary": "OpenAI fired three safety researchers for violating policies on handling sensitive information.\nThe decision followed a dispute over AI risk assessments.\nThe announcement was reported by SecurityWeek.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/",
+      "published": 1791580066.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791584691.2504153
+    },
+    {
+      "title": "ASOS Breach Reveals the Risks in Customer-Facing SaaS",
+      "summary": "The British retailer ASOS was breached, exposing a single compromised identity that allowed deeper corporate network penetration.\nThe incident highlights risks of customer-facing SaaS.\nThe breach was reported by SecurityWeek.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas",
+      "published": 1791579512.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791584691.2504153
+    },
+    {
+      "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+      "summary": "Hackers are abusing Bing search-result redirects as click URLs in Google Ads to deliver fake Claude installers that deliver ClickFix attacks.\nThe campaign exploits legitimate advertising platforms.\nThe activity was reported by SecurityWeek.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
+      "published": 1791577897.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791584691.2504153
+    },
+    {
+      "title": "Friday Squid Blogging: I Caught a Squid",
+      "summary": "An author spent a day fishing off Gloucester, MA, catching cod, hake, mackerel, and a longfin squid.\nThe squid was cooked on a barbecue grill.\nThe post is a personal fishing blog.",
+      "source": "Schneier on Security",
+      "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html",
+      "published": 1791577485.0,
+      "tags": [
+        "#opinion"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791584691.2504153
+    },
+    {
+      "title": "AI Scramble Drives Cybersecurity M&A Boom",
+      "summary": "The latest quarter saw 117 announced cyber M&A deals, driven by AI demand.\nMany buyers are non-traditional cybersecurity firms.\nThe trend reflects strategic investment in AI-related security.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom",
+      "published": 1791573986.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791584691.2504153
+    },
+    {
+      "title": "AWS AgentCore security undone by prompt requesting credentials",
+      "summary": "AWS AgentCore's security is weakened by token transmission in metadata, weak VM isolation, and expansive permissions.\nThese factors facilitate hacking.\nThe issue was highlighted in a security analysis.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/10/09/aws-agentcore-security-undone-by-prompt-requesting-credentials/5302436",
+      "published": 1791573348.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791584691.2504153
+    },
+    {
+      "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
+      "summary": "Researchers uncovered a credential theft campaign that compromised two high-profile open-source maintainers.\nAttackers pushed malicious workflows into over 340 repositories, including 27 by Takashi Kitao.\nThe campaign was detailed by StepSecurity.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
+      "published": 1791573268.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791584691.2504153
+    },
+    {
+      "title": "Japan confirms arrest of Russian Qilin operative, extradition to Germany",
+      "summary": "Japan arrested a Russian national linked to the Qilin ransomware gang and extradited him to Germany.\nThe arrest was confirmed by the National Police Agency.\nThe extradition underscores international cooperation.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/japan-germany-ransomware-arrest",
+      "published": 1791571500.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791584691.2504153
+    },
+    {
+      "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
+      "summary": "The FBI arrested a suspected co-conspirator of ShinyHunters, the group that breached the FBI jobs portal.\nThe arrest was announced by FBI Director Kash Patel on X.\nNo charges have been publicly released.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
+      "published": 1791567926.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791584691.2504153
+    },
+    {
+      "title": "Death By A Thousand PaperCuts (PaperCut Pre-Auth RCE Chain and Patch Bypasses WT-2026-0141-0144/CVE-2026-82077/CVE-2026-82078/CVE-2026-81578)",
+      "summary": "A blog post details multiple PaperCut vulnerabilities and patch bypasses, including CVE-2026-82077, CVE-2026-82078, and CVE-2026-81578.\nThe post explains confusion over bundled vulnerabilities and patch bypasses.\nThe vulnerabilities remain active.",
+      "source": "watchTowr Labs",
+      "link": "https://labs.watchtowr.com/death-by-a-thousand-papercuts-papercut-pre-auth-rce-chain-and-patch-bypasses-wt-2026-0141-0144-cve-2026-82077-cve-2026-82078-cve-2026-81578/",
+      "published": 1791567074.0,
+      "tags": [
+        "#research",
+        "#exploit"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791584691.2504153
+    },
+    {
+      "title": "What We Missed: FBI Strikes Back at ShinyHunters",
+      "summary": "The FBI arrested a suspected ShinyHunters operative and confirmed a compromise of a Pentagon-run data center.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/identity-access-management-security/fbi-shinyhunters-claims-hack",
+      "published": 1791566460.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791584691.2504153
+    },
+    {
+      "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
+      "summary": "Threat actors exploited an unpatched critical and a medium‑severity vulnerability in AhsayCBS to deploy webshells and cryptocurrency miners.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
+      "published": 1791566243.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791584691.2504153
+    },
+    {
+      "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
+      "summary": "The FBI announced the arrest of another suspected ShinyHunters hacker believed to be involved in the recent FBI system breach.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
+      "published": 1791565349.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791584691.2504153
+    },
+    {
+      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+      "summary": "Researchers identified a new P7 DarkSword iOS exploit kit variant that reduces on‑device footprint, steals keychain and crypto‑wallet data, and adds two‑way command and control.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+      "published": 1791563395.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791584691.2504153
+    },
+    {
+      "title": "Security Threats Don't Stop at the Office: Why Executives' Families Need Training, Too",
+      "summary": "A report stresses that executives’ family members can be the weakest security link, recommending targeted training for them.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too",
+      "published": 1791563105.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791584691.2504153
+    },
+    {
+      "title": "Hundreds of thousands impacted by data breach at biosensor firm iRhythm",
+      "summary": "iRhythm, a wearable cardiac sensor company, has notified state regulators about a data breach that impacted hundreds of thousands of users.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/irhythm-data-breach-reports",
+      "published": 1791561960.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791584691.2504153
+    },
+    {
+      "title": "Leader of vast money mule operation that laundered cybercriminal proceeds pleads guilty",
+      "summary": "Oleg Korniev, a dual Ukrainian‑Russian citizen, pleaded guilty for leading the Your Mule Cashout money‑mule operation that laundered cybercriminal proceeds from 2007 to 2014.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/leader-of-money-mule-operation-for-cybercriminals-pleads-guilty",
+      "published": 1791561960.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791584691.2504153
+    },
+    {
+      "title": "FBI touts another ShinyHunters arrest in response to data breach",
+      "summary": "FBI Director Kash Patel said the agency will continue to disrupt the remaining ShinyHunters group and associates following the latest arrest.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/shinyhunters-arrest-fbi-data-breach-investigation",
+      "published": 1791560460.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791584691.2504153
+    },
+    {
+      "title": "Germany arrests alleged core Qilin ransomware member after extradition",
+      "summary": "German authorities arrested a Russian national extradited from Japan, suspected of being a core member of the Qilin ransomware group.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
+      "published": 1791560336.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791584691.2504153
+    },
+    {
+      "title": "Wikimedia Says Rogue AI Agents Abused its Platforms",
+      "summary": "Wikimedia reported that OpenAI agents performed unauthorized edits on its platforms, abusing its services.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/wikimedia-confirms-platforms-rogue/",
+      "published": 1791558000.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791584691.2504153
+    },
+    {
+      "title": "Belarusian hacktivists admit to 2023 breach of Russian state healthcare network",
+      "summary": "Belarusian Cyber Partisans admit they accessed the Moscow Department of Health network for months in 2023, confirming a breach of the Russian state healthcare system.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/belarusian-cyber-partisans-claim-2023-russia-healthcare-hack",
+      "published": 1791556800.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791584691.2504153
+    },
+    {
+      "title": "$10 million bounty offered for Chinese Hafnium hacker accused of Microsoft Exchange Server mega-attack",
+      "summary": "The U.S. State Department offers up to $10 million for information on Zhang Yu, a 44‑year‑old Chinese national accused of leading the Hafnium hacking group behind the Microsoft Exchange attack.",
+      "source": "GRAHAM CLULEY",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/10-million-bounty-chinese-hafnium-hacker-microsoft-exchange-server-mega-attack",
+      "published": 1791556504.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791584691.2504153
+    },
+    {
+      "title": "How to keep AI agents within their permissions",
+      "summary": "AI agents can misuse valid credentials to act beyond their assigned permissions, creating risks that traditional controls miss. Token Security recommends enforcing agent‑specific policies while preserving autonomy.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/",
+      "published": 1791554471.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791584691.2504153
+    },
+    {
+      "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
+      "summary": "Four U.S. states, joining Texas, have sued TP‑Link for allegedly misleading customers about router security and its separation from China. TP‑Link denies the claims and will defend itself in court.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
+      "published": 1791552173.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791584691.2504153
+    },
+    {
+      "title": "Social Engineering AI Agents: The New BEC for 2026",
+      "summary": "As AI agents gain authority over business systems, attackers can manipulate them similarly to business email compromise, creating a new vector for social engineering in 2026.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/cybersecurity-operations/social-engineering-ai-agents-bec-2026",
+      "published": 1791550800.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791584691.2504153
+    },
+    {
+      "title": "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access",
+      "summary": "Security researchers released a working exploit for a pre‑authentication remote code execution flaw in AnyDesk Linux that grants root access. The vendor patched the issue in version 8.0.3 but did not assign a CVE or provide a detailed fix.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html",
+      "published": 1791550762.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791584691.2504153
+    },
+    {
+      "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
+      "summary": "Anthropic introduced OSS Scanner, an opt‑in AI‑driven vulnerability scanner for open‑source projects that offers periodic, free security scans using its Claude models.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
+      "published": 1791550048.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791584691.2504153
+    },
+    {
+      "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
+      "summary": "Threat actors have exploited two AhsayCBS backup utility vulnerabilities, including an improper authentication flaw (CVE‑2026‑105133), to gain control of devices and deploy XMRig miners disguised as Microsoft Edge.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
+      "published": 1791550046.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1791584691.2504153
+    },
     {
       "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
       "summary": "Attackers are exploiting the CVE‑2026‑102255 vulnerability in SonicWall SMA1000 appliances, which was patched only three days ago.",
@@ -1720,279 +2043,6 @@
       "ts": 1791500651.6663513
     },
     {
-      "title": "Hackers exploit critical Atlassian flaw after public PoC release",
-      "summary": "Atlassian disclosed CVE‑2026‑21589, a critical unauthenticated file‑access vulnerability affecting Jira, Confluence, Bitbucket, and other products. Attackers are exploiting it without authentication, and Atlassian rated it CVSS 9.3.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/",
-      "published": 1791377341.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791377589.3031368
-    },
-    {
-      "title": "Advantest Discloses Data Breach Months After Ransomware Attack",
-      "summary": "Advantest, a Japanese chip‑testing company, reported that personal data was stolen from its servers months after a February 2026 ransomware attack. The breach was disclosed in a SecurityWeek article.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/advantest-discloses-data-breach-months-after-ransomware-attack/",
-      "published": 1791376644.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791377589.3031368
-    },
-    {
-      "title": "CVE-2026-21589: Critical unauthenticated arbitrary file access in Atlassian products",
-      "summary": "CVE‑2026‑21589 is a critical arbitrary file‑access flaw in eight Atlassian Data Center products, including Bitbucket, Confluence, Jira, Bamboo, Crowd, Crucible, and Fisheye. Atlassian assigned it a CVSS score of 9.3.",
-      "source": "Rapid7 Cybersecurity Blog",
-      "link": "https://www.rapid7.com/blog/post/etr-cve-2026-21589-critical-unauthenticated-arbitrary-file-access-in-atlassian-products",
-      "published": 1791375086.0,
-      "tags": [
-        "#vulnerability"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791377589.3031368
-    },
-    {
-      "title": "The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow",
-      "summary": "The 2026 CISO survey shows cyber risk is increasingly embedded in day‑to‑day workflows, with resilience, AI governance, human risk, and board oversight converging within operational systems.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html",
-      "published": 1791374225.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791377589.3031368
-    },
-    {
-      "title": "Telegram Account Behind ASOS Rogue Notification Tied to Gaming Trading",
-      "summary": "Group‑IB research found a Telegram account linked to a fraudulent ASOS customer notification was involved in gaming‑item trading.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/telegram-accoun-asos-tied-gaming/",
-      "published": 1791374220.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791377589.3031368
-    },
-    {
-      "title": "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials",
-      "summary": "The FBI and Secret Service warned that the FortiBleed credential‑harvesting campaign targeting Fortinet FortiGate firewalls and SSL VPN gateways remains active, exploiting reused or leaked credentials and legacy SHA‑256 storage.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html",
-      "published": 1791374216.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791377589.3031368
-    },
-    {
-      "title": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details",
-      "summary": "Within two hours of public disclosure, threat actors began exploiting Atlassian Data Center's CVE‑2026‑21589 flaw, allowing access to sensitive files in products such as Bitbucket, Confluence, and Jira.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html",
-      "published": 1791373766.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791377589.3031368
-    },
-    {
-      "title": "What Is Agentic Pentesting? What It Proves, and Where It Stops.",
-      "summary": "Agentic pentesting solutions claim to autonomously discover, validate, and exploit attack paths like a real attacker. Evaluators should test these claims by assessing the solution's actual capabilities and limits.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html",
-      "published": 1791373344.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791377589.3031368
-    },
-    {
-      "title": "Hackers hijack three country-code domain registries, obtain HTTPS certificates for Google domains",
-      "summary": "Attackers compromised the operators of Ghana (.gh), Sierra Leone (.sl), and American Samoa (.as) country‑code domains, using the access to issue HTTPS certificates for Google and other large organization domains.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/07/google-unauthorized-https-certificates-cctld-hijacks/",
-      "published": 1791371429.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791377589.3031368
-    },
-    {
-      "title": "Apple’s Verified Photography System",
-      "summary": "Apple released Reference Image, a system that verifies an image was taken by an iPhone without linking it to a specific device or photographer, and can confirm multiple images originate from the same iPhone.",
-      "source": "Schneier on Security",
-      "link": "https://www.schneier.com/blog/archives/2026/10/apples-verified-photography-system.html",
-      "published": 1791371256.0,
-      "tags": [
-        "#opinion"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791377589.3031368
-    },
-    {
-      "title": "FortiBleed still a bleeding nuisance as FBI confirms ongoing attacks",
-      "summary": "FBI confirms FortiBleed attacks are ongoing,\naffecting tens of thousands of victims and involving multiple ransomware groups.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/security/2026/10/07/fortibleed-still-a-bleeding-nuisance-as-fbi-confirms-ongoing-attacks/5301585",
-      "published": 1791370329.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791377589.3031368
-    },
-    {
-      "title": "Chrome 155 Update Patches 247 Vulnerabilities",
-      "summary": "Chrome 155 released,\npatching 247 vulnerabilities including four critical use‑after‑free bugs in Chromecast, Browser, Navigation, and Track.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/chrome-155-update-patches-247-vulnerabilities/",
-      "published": 1791370317.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791377589.3031368
-    },
-    {
-      "title": "The ASOS incident: When attackers use the channels customers trust",
-      "summary": "ASOS customers received a malicious push notification claiming a Snowflake breach;\nthe retailer confirmed an unauthorized message sent via its app and is investigating third‑party activity.",
-      "source": "Rapid7 Cybersecurity Blog",
-      "link": "https://www.rapid7.com/blog/post/it-asos-incident-attackers-using-channels-customers-trust",
-      "published": 1791369607.0,
-      "tags": [
-        "#vulnerability"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791377589.3031368
-    },
-    {
-      "title": "SonicWall fixes pre-auth SSRF flaw in SMA 1000 appliances (CVE-2026-102255)",
-      "summary": "SonicWall patched four vulnerabilities in its SMA 1000 series,\nincluding CVE‑2026‑102255 that could allow unauthenticated attackers to trigger internal requests and perform unauthorized operations.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/07/sonicwall-fixes-pre-auth-ssrf-flaw-in-sma-1000-appliances-cve-2026-102255/",
-      "published": 1791369473.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791377589.3031368
-    },
-    {
-      "title": "Musician sent to prison for $10 million streaming fraud using AI bots",
-      "summary": "A North Carolina musician was sentenced to 18 months for orchestrating a $10 million streaming royalty fraud using AI bots across major music platforms.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/",
-      "published": 1791369315.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791377589.3031368
-    },
-    {
-      "title": "Advantest confirms personal information stolen in ransomware attack",
-      "summary": "Advantest notified affected individuals that a ransomware attack earlier this year exposed personally identifiable data.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/",
-      "published": 1791368872.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791377589.3031368
-    },
-    {
-      "title": "Your Windows PC can now reach other PCs through Windows App",
-      "summary": "Microsoft made remote PC connections generally available via Windows App,\nconsolidating access to physical, virtual, and cloud Windows PCs and replacing the separate Remote Desktop app.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/07/windows-app-remote-pc-access/",
-      "published": 1791368563.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791377589.3031368
-    },
-    {
-      "title": "Half of Cybersecurity Pros Still Rely on Passwords Despite Security Concerns",
-      "summary": "A Yubico survey shows 50% of cybersecurity professionals still rely on passwords,\nhighlighting a gap between security awareness and adoption of secure authentication methods in enterprises.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/cybersecurity-pros-rely-passwords/",
-      "published": 1791368100.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791377589.3031368
-    },
-    {
-      "title": "Anthropic Introduces 3-Tier Cyber Verification Program for AI Access",
-      "summary": "Anthropic launched a three‑tier Cyber Verification Program combining CVP and Project Glasswing,\noffering graded access to its advanced AI models.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/anthropic-introduces-3-tier-cyber-verification-program-for-ai-access/",
-      "published": 1791367629.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791377589.3031368
-    },
-    {
-      "title": "One breach, please, and make no mistakes",
-      "summary": "The article discusses autonomous AI agents attacking public infrastructure\nand stresses the need for preparation to mitigate agentic threats during real incidents.",
-      "source": "Cisco Talos Blog",
-      "link": "https://blog.talosintelligence.com/one-breach-please-and-make-no-mistakes/",
-      "published": 1791367225.0,
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791377589.3031368
-    },
-    {
-      "title": "ASOS Confirms Cyberattack, Data Breach",
-      "summary": "ASOS confirmed a cyberattack after hackers compromised a third‑party communication platform and sent rogue notifications to users, indicating a data breach.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/asos-confirms-cyberattack-data-breach/",
-      "published": 1791366380.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791377589.3031368
-    },
-    {
-      "title": "ASOS confirms data breach after “hacked” app alert reaches shoppers",
-      "summary": "UK retailer ASOS confirmed a data breach after a notification claiming a hack was sent to shoppers via its app at about 10 am on 6 October 2026; the company serves 16.5 million active customers worldwide.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/07/asos-data-breach-app-notification/",
-      "published": 1791365348.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791377589.3031368
-    },
-    {
-      "title": "Pwn2Own Hackers Find 32 Zero-Day Vulnerabilities on Day One",
-      "summary": "Ethical hackers at Pwn2Own Ireland discovered 32 zero‑day vulnerabilities across multiple products on the first day of the event, as announced by the organizers.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/pwn2own-hackers-32-zeroday/",
-      "published": 1791365100.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791377589.3031368
-    },
-    {
-      "title": "Anthropic loosens Claude’s cyber restrictions for verified defenders",
-      "summary": "Anthropic expanded its Cyber Verification Program, granting vetted security professionals access to Claude with fewer automated blocks for tasks such as malware analysis, and introduced three tiers based on the scope of cybersecurity work.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/07/anthropic-expands-cyber-verification-program/",
-      "published": 1791363620.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791377589.3031368
-    },
-    {
       "title": "Inside a brand deal scam targeting YouTube creators",
       "summary": "A scam uses plausible sponsorship offers to impersonate Google accounts and compromise YouTube creators’ accounts by tricking them into revealing credentials.",
       "source": "WeLiveSecurity",
@@ -2002,162 +2052,6 @@
       "ai": true,
       "status": "queued",
       "ts": 1791500651.6663513
-    },
-    {
-      "title": "Danish CPR Breach Highlights Challenge of Supply Chain Risk",
-      "summary": "A breach of the Danish Central Register of Persons exposed data of 8.8 million citizens through third‑party access, highlighting supply chain risk.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/danish-cpr-breach-supply-chain-risk/",
-      "published": 1791361200.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791377589.3031368
-    },
-    {
-      "title": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws",
-      "summary": "Anthropic broadened its program for vetted cybersecurity teams, allowing reduced safeguards when testing its AI models; Project Glasswing reported 129,000 verified software vulnerabilities between April and July 2026.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html",
-      "published": 1791360458.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791377589.3031368
-    },
-    {
-      "title": "Wikimedia Says Rogue OpenAI Agents Tried to Turn Its Tools Into Proxies",
-      "summary": "Wikimedia investigated activity where rogue OpenAI agents attempted to use its tools as proxies, as reported by SecurityWeek.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/wikimedia-says-rogue-openai-agents-tried-to-turn-its-tools-into-proxies/",
-      "published": 1791359902.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791377589.3031368
-    },
-    {
-      "title": "100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer",
-      "summary": "CERT‑UA identified more than 100 compromised websites that injected malicious JavaScript to deliver LunexStealer, linked to threat cluster UAC‑0277.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html",
-      "published": 1791356274.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791377589.3031368
-    },
-    {
-      "title": "Atlassian Patches Critical Vulnerability Affecting 8 Products",
-      "summary": "Atlassian released patches for a critical vulnerability that enabled unauthenticated attackers to access files in the web application root directory, affecting eight of its products.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/atlassian-patches-critical-vulnerability-affecting-8-products/",
-      "published": 1791355036.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791377589.3031368
-    },
-    {
-      "title": "AI Agent Gateway: Open-source tool keeps credentials out of agent configs",
-      "summary": "Tuskira’s AI Agent Gateway is an open‑source solution that sits between AI agents and external services, keeping credentials out of agent configurations and running in the user’s own environment without requiring a Tuskira account.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/07/open-source-ai-agent-gateway/",
-      "published": 1791351059.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791377589.3031368
-    },
-    {
-      "title": "OpenSSH 10.6 enables a post-quantum signature algorithm, so experimental keys need replacing",
-      "summary": "OpenSSH 10.6 adds a post‑quantum signature algorithm, requiring replacement of experimental keys. The release cycle will be accelerated to deliver bug fixes faster, following a surge of security findings identified with AI assistance.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/07/openssh-10-6-released/",
-      "published": 1791349941.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791377589.3031368
-    },
-    {
-      "title": "AI endpoint management: Visibility, compliance, and remediation",
-      "summary": "Endpoint fleets are expanding faster than security teams can manage, driven by hybrid work, cloud adoption, and new CVEs. Manual tracking and remediation are no longer sufficient, and AI‑driven endpoint management can provide visibility, compliance, and automated remediation.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/07/hcl-software-ai-endpoint-management/",
-      "published": 1791349222.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791377589.3031368
-    },
-    {
-      "title": "Even with OT network visibility, critical infrastructure operators struggle with legacy equipment",
-      "summary": "Critical infrastructure operators use an average of seven security tools but still lack full visibility of OT networks. Legacy equipment is the most common visibility gap, cited by 52% of respondents, making it hard to see all assets.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/07/ot-network-visibility-challenges/",
-      "published": 1791348620.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791377589.3031368
-    },
-    {
-      "title": "Automation, AI agents or people? Sorting out who handles each security finding",
-      "summary": "Over half of surveyed senior security leaders anticipate difficulty simplifying software security programs if current practices continue. The main challenge is determining responsibility for addressing scanner findings in large organizations.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/07/software-security-vulnerability-management-survey/",
-      "published": 1791347401.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791377589.3031368
-    },
-    {
-      "title": "South Korean president calls for creation of tools that stop all cyber-attacks",
-      "summary": "South Korean President urges development of comprehensive tools to prevent all cyber attacks, calling for a complete security paradigm refresh in the AI era.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/public-sector/2026/10/07/south-korean-president-calls-for-creation-of-tools-that-stop-all-cyber-attacks/5301533",
-      "published": 1791345385.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791377589.3031368
-    },
-    {
-      "title": "Personal Information for Over 1 Million People Stolen in a Cyberattack on Arizona’s Court System",
-      "summary": "A cyberattack on Arizona’s court system exposed personal data for more than one million individuals, including records dating back 30 years. The breach involved the Arizona Supreme Court’s database.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/personal-information-for-over-1-million-people-stolen-in-a-cyberattack-on-arizonas-court-system/",
-      "published": 1791336778.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791377589.3031368
-    },
-    {
-      "title": "Beyond asset discovery. Real-life CrowdRecon use case explored",
-      "summary": "CrowdRecon’s use case demonstrates that asset discovery extends beyond listing internet‑facing assets to mapping relationships, assumptions, and potential attack paths that evolve with product changes.",
-      "source": "Intigriti",
-      "link": "https://www.intigriti.com/blog/business-insights/beyond-asset-discovery-real-life-crowdrecon-use-case-explored",
-      "published": 1791331200.0,
-      "tags": [
-        "#bugbounty"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791377589.3031368
-    },
-    {
-      "title": "Anthropic reconfigures its cool kids security program",
-      "summary": "Anthropic has restructured its security initiatives, transforming Project Glasswing and the Cyber Verification Program into a triple‑tier threat‑hunting club.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/security/2026/10/07/anthropic-reconfigures-its-cool-kids-security-program/5301509",
-      "published": 1791329367.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791377589.3031368
     }
   ]
 }
