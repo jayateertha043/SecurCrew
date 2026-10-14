@@ -1,7 +1,383 @@
 {
-  "generated_at": 1791930270.4093058,
-  "count": 124,
+  "generated_at": 1791977131.3767762,
+  "count": 162,
   "items": [
+    {
+      "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
+      "summary": "A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company said. Its researchers built the…",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
+      "published": 1791976742.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1791977131.3658595
+    },
+    {
+      "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks",
+      "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called Hirudo that works by replacing legitimate banking apps with purpose-built patched versions designed to bypass security checks from…",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
+      "published": 1791976102.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1791977131.3658595
+    },
+    {
+      "title": "An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.",
+      "summary": "The bug was simple: the login let you choose where your sign-in code went. Proving it on a live website was the hard part. TL;DR During an authorized assessment, an AI pentesting agent found a critical authentication…",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html",
+      "published": 1791975600.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1791977131.3658595
+    },
+    {
+      "title": "US Arrests Two in Crackdown on North Korean IT Worker Laptop Farms",
+      "summary": "<p>Investigators stormed 40 locations in Texas and seized 187 laptops used by North Korean IT workers to hide their location.</p> <p>The post <a…",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/us-arrests-two-in-crackdown-on-north-korean-it-worker-laptop-farms/",
+      "published": 1791975321.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1791977131.3658595
+    },
+    {
+      "title": "Phase Eight, Hobbs and Whistles owner joins growing list of fashion retailers targeted by hackers",
+      "summary": "<p>People who have shopped with Phase Eight, Hobbs or Whistles will have to wait to find out whether their personal information was exposed in a cyberattack on the company behind the three UK fashion brands. TFG London,…",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/14/tfg-london-cyberattack-phase-eight-hobbs-whistles/",
+      "published": 1791974892.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1791977131.3658595
+    },
+    {
+      "title": "Microsoft: Recent Windows updates may trigger Remote Desktop failures",
+      "summary": "Microsoft has confirmed that non-admin users may be unable to connect to devices via Remote Desktop after installing recent Windows updates if the \"Administrator protection\" security feature is enabled. [...]",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
+      "published": 1791974889.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1791977131.3658595
+    },
+    {
+      "title": "Radware MCP Server Protection monitors agent activity and guards against protocol abuse",
+      "summary": "<p>Radware has announced Radware Model Context Protocol (MCP) Server Protection, a purpose-built solution designed to help organizations more securely adopt MCP as AI agents gain greater access to enterprise…",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/14/radware-mcp-server-protection/",
+      "published": 1791974125.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1791977131.3658595
+    },
+    {
+      "title": "SolarWinds Avior pairs IT automation with human approval and audit trails",
+      "summary": "<p>SolarWinds has announced the launch of Avior, a standalone, goal-oriented agentic AI system purpose-built for mission-critical IT environments. Built on the SolarWinds Platform, Avior will help IT teams securely…",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/14/solarwinds-avior/",
+      "published": 1791973631.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1791977131.3658595
+    },
+    {
+      "title": "Chainguard Harness uses frontier AI to test running applications for vulnerabilities",
+      "summary": "<p>Chainguard has announced Chainguard Harness, a new cyber harness that uses frontier AI models like Anthropic’s Claude Mythos 5.1 to find and fix exploitable vulnerabilities in an organization’s application code.…",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/14/chainguard-harness/",
+      "published": 1791972964.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1791977131.3658595
+    },
+    {
+      "title": "Passkey Authentications Double but Adoption Remains Slow",
+      "summary": "Dashlane data finds that passkey adoption is growing but not quickly enough",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/passkey-authentications-double/",
+      "published": 1791972900.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1791977131.3658595
+    },
+    {
+      "title": "Scytale MCP gives AI tools scoped, read-only access to compliance data",
+      "summary": "<p>Scytale has announced the launch of Scytale MCP, a Model Context Protocol server that connects a customer’s AI tools directly to their compliance program. With Scytale MCP, tools such as Claude and ChatGPT can query…",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/14/scytale-mcp/",
+      "published": 1791972046.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1791977131.3658595
+    },
+    {
+      "title": "OpenAI engineer charged after boardroom bug found wrapped in toilet paper",
+      "summary": "FBI alleges covert recorder was plugged into a TV, with a second device later discovered in the employee's bag",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/10/14/openai-engineer-charged-after-boardroom-bug-found-wrapped-in-toilet-paper/5303000",
+      "published": 1791971700.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1791977131.3658595
+    },
+    {
+      "title": "French Supermarket Cyber-Attack Impacts More Refrigeration Controllers",
+      "summary": "At least two French supermarkets using temperature regulation devices from Dixell Electronics also experienced food stock disruptions",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/french-supermarket-hack-more/",
+      "published": 1791970200.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1791977131.3658595
+    },
+    {
+      "title": "GitHub adopts cheaper AI model to catch secrets developers leave in code",
+      "summary": "<p>GitHub has trained a credential classifier to improve generic secret detection and reduce false alerts. The new pipeline cut median post-push scan execution time by 86% and model serving costs by more than 98%…",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/14/github-secret-detection-model/",
+      "published": 1791970001.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1791977131.3658595
+    },
+    {
+      "title": "Attackers chained three Ivanti zero-days to gain root on fully patched VPN appliances",
+      "summary": "<p>A threat actor has been using an exploit chain combining three vulnerabilities in Ivanti’s Connect Secure (ICS) appliances to breach organizations, collect credentials, exfiltrate configuration data, and perform…",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/14/ivanti-zero-days-gain-root-patched-vpn-appliances/",
+      "published": 1791968359.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1791977131.3658595
+    },
+    {
+      "title": "Microsoft Breaks Patch Tuesday Record Again with 1400+ CVEs",
+      "summary": "Microsoft issued its largest ever round of security updates in the October Patch Tuesday",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/microsoft-patch-tuesday-record-1/",
+      "published": 1791967500.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1791977131.3658595
+    },
+    {
+      "title": "OpenAI engineer arrested for allegedly trying to eavesdrop on executive meetings",
+      "summary": "<p>A recording device wrapped in toilet paper and plugged into the back of a television in an executive conference room at OpenAI’s San Francisco office has led to the arrest of one of the company’s engineers.…",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/14/openai-engineer-arrested-hidden-recording-device/",
+      "published": 1791967241.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1791977131.3658595
+    },
+    {
+      "title": "Billion-Dollar Companies Twice as Likely to Leave Critical Vulnerabilities Unpatched",
+      "summary": "New Chainguard research reveals larger companies struggle to patch vulnerabilities due to business priorities and operational disruption",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/companies-leave-critical/",
+      "published": 1791964500.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1791977131.3658595
+    },
+    {
+      "title": "Microsoft fixes exploited Mark of the Web bypass vulnerability (CVE-2026-96951)",
+      "summary": "<p>In another record-breaking Patch Tuesday, Microsoft has squashed over 1,400 security bugs, including a Mark of the Web bypass vulnerability (CVE-2026-96951) exploited by attackers in the wild. CVE-2026-96951 is a…",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/14/microsoft-patch-tuesday-cve-2026-96951-motw-bypass/",
+      "published": 1791964397.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1791977131.3658595
+    },
+    {
+      "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
+      "summary": "A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an untrusted virtual machine write…",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
+      "published": 1791964017.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1791977131.3658595
+    },
+    {
+      "title": "Chrome, Firefox Updates Patch 114 Flaws as Mozilla Unveils Firefox Enterprise",
+      "summary": "<p>Mozilla has introduced Firefox Enterprise for organizations with strict compliance, governance, and security requirements.</p> <p>The post <a…",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/chrome-firefox-updates-patch-114-flaws-as-mozilla-unveils-firefox-enterprise/",
+      "published": 1791963531.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1791977131.3658595
+    },
+    {
+      "title": "Citrix, Fortinet, Ivanti Patch 29 Vulnerabilities Across Their Products",
+      "summary": "<p>Critical-severity flaws could lead to authentication bypass, code execution, and sensitive authentication information leaks.</p> <p>The post <a…",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/citrix-fortinet-ivanti-patch-29-vulnerabilities-across-their-products/",
+      "published": 1791962795.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1791977131.3658595
+    },
+    {
+      "title": "Microsoft Patches Record 1,413 Vulnerabilities, Including Exploited Windows Zero-Day",
+      "summary": "<p>The most important is CVE-2026-96951, a security feature bypass flaw in Windows that has been exploited in the wild.</p> <p>The post <a…",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/microsoft-patches-record-1413-vulnerabilities-including-exploited-windows-zero-day/",
+      "published": 1791962172.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1791977131.3658595
+    },
+    {
+      "title": "SAP Patches Critical NetWeaver, S/4HANA Vulnerabilities",
+      "summary": "<p>The bugs could allow attackers to invoke internal operations and execute code, completely compromising the system.</p> <p>The post <a…",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/sap-patches-critical-netweaver-s-4hana-vulnerabilities/",
+      "published": 1791958330.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1791977131.3658595
+    },
+    {
+      "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
+      "summary": "Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over. The protected area is a VBS enclave, an isolated slice of…",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
+      "published": 1791957148.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1791977131.3658595
+    },
+    {
+      "title": "Patching and preventing issues: What are the lessons you can learn?",
+      "summary": "<p>In this Help Net Security interview, Kunal Modasiya, Senior VP & GM at Qualys, talks about why patching is still hard to get right. He explains how business pressure, revenue-critical systems, and patches that break…",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/14/kunal-modasiya-qualys-vulnerability-remediation/",
+      "published": 1791955859.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1791977131.3658595
+    },
+    {
+      "title": "Ransomware Gangs Embrace Physical Threats, Family Stalking?",
+      "summary": "Organizations are reporting that employees face threats to their families, stalking, physical violence, and abduction. But these alarming claims are hard to verify.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/ransomware-gangs-physical-threats-family-stalking",
+      "published": 1791954000.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1791977131.3658595
+    },
+    {
+      "title": "Ransomware gets personal: 'We-know-where-you-are kind of stuff'",
+      "summary": "37% of ransomware attacks involve psychological or physical threats, global survey found",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/cyber-crime/2026/10/14/ransomware-gets-personal-we-know-where-you-are-kind-of-stuff/5302939",
+      "published": 1791954000.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1791977131.3658595
+    },
+    {
+      "title": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug",
+      "summary": "Microsoft on Tuesday shattered its own Patch Tuesday record by shipping patches for a whopping 1,413 vulnerabilities, including one that it said has come under active exploitation. These include 1,102 flaws in Windows,…",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
+      "published": 1791952483.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1791977131.3658595
+    },
+    {
+      "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
+      "summary": "A Saudi national and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive…",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
+      "published": 1791943165.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1791977131.3658595
+    },
+    {
+      "title": "Microsoft Patches More Than 1,400 Security Flaws",
+      "summary": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was…",
+      "source": "Krebs on Security",
+      "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
+      "published": 1791933893.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1791977131.3658595
+    },
+    {
+      "title": "Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say",
+      "summary": "<p>Saudi national Abdulrahman Alfozan was arrested Friday and terminated by OpenAI.</p> <p>The post <a…",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say/",
+      "published": 1791932820.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1791977131.3658595
+    },
+    {
+      "title": "Saudi national charged with planting spy device in OpenAI executive conference room",
+      "summary": "Abdulrahman Alfozan, 35, a Saudi national working as an engineer for OpenAI, was charged Tuesday with secretly bugging an executive conference room at one of the company’s buildings in San Francisco.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/saudi-national-charged-with-spy-device-openai",
+      "published": 1791932400.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": false,
+      "status": "queued",
+      "ts": 1791977131.3658595
+    },
+    {
+      "title": "Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday",
+      "summary": "The scary surprises for the largest security update ever include security bypasses and unauthenticated RCEs.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday",
+      "published": 1791930597.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1791977131.3658595
+    },
     {
       "title": "Ivanti misses opportunity to fix vulnerability before attackers got to work and made it a zero-day",
       "summary": "Ivanti discovered a defect in June but did not issue an out‑of‑band patch.\nAttackers exploited the flaw, turning it into a zero‑day vulnerability.",
@@ -167,6 +543,17 @@
       "ts": 1791930270.399629
     },
     {
+      "title": "Ivanti Zero-Day Chain Gave Attackers Root Access to Fully Patched VPN",
+      "summary": "<p>CVE-2026-104935 affects Ivanti Connect Secure and it can be exploited for unauthenticated remote code execution with elevated privileges. </p> <p>The post <a…",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/ivanti-zero-day-chain-gave-attackers-root-access-to-fully-patched-vpn/",
+      "published": 1791917023.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1791977131.3658595
+    },
+    {
       "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
       "summary": "Anthropic warns that small AI models may soon self‑replicate on IoT devices.\nSuch models could form autonomous, self‑propagating botnets that are difficult to shut down.",
       "source": "The Hacker News",
@@ -257,6 +644,17 @@
       "ts": 1791930270.399629
     },
     {
+      "title": "Adobe Patches 176 Vulnerabilities Across 11 Products",
+      "summary": "<p>The flaws affect products such as Commerce, Photoshop, ColdFusion, Substance 3D, Dimension, FrameMaker and Bridge.</p> <p>The post <a…",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/adobe-patches-140-vulnerabilities-across-10-products/",
+      "published": 1791911682.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1791977131.3658595
+    },
+    {
       "title": "Ivanti Connect Secure zero-day exploited in the wild (CVE-2026-104935)",
       "summary": "Ivanti Connect Secure (ICS) suffered a high‑severity authentication bypass (CVE‑2026‑104935) that allows unauthenticated remote attackers to execute arbitrary commands; exploitation in the wild was reported before disclosure.",
       "source": "Rapid7 Cybersecurity Blog",
@@ -268,6 +666,17 @@
       "ai": true,
       "status": "queued",
       "ts": 1791930270.399629
+    },
+    {
+      "title": "Google Partially Reverses Chrome Bug Bounty Cuts",
+      "summary": "<p>Google is restructuring bug bounty rewards with a focus on complex memory safety vulnerabilities. </p> <p>The post <a href=\"https://www.securityweek.com/google-partially-reverses-chrome-bug-bounty-cuts/\">Google…",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/google-partially-reverses-chrome-bug-bounty-cuts/",
+      "published": 1791910800.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1791977131.3658595
     },
     {
       "title": "Anthropic conjures another threat that doesn't exist yet to stoke fears of AI apocalypse",
@@ -338,6 +747,17 @@
       "ai": true,
       "status": "queued",
       "ts": 1791930270.399629
+    },
+    {
+      "title": "Meta Says Hackers Took Code, Personal Data of 1,500 in GitHub Breach",
+      "summary": "<p>Most of the affected individuals are Meta employees in the United States and they are being offered credit monitoring services.</p> <p>The post <a…",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/meta-says-hackers-took-code-personal-data-of-1500-in-github-breach/",
+      "published": 1791907260.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1791977131.3658595
     },
     {
       "title": "Ivanti warns of Connect Secure zero-day exploited in attacks",
