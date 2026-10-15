@@ -1,7 +1,410 @@
 {
-  "generated_at": 1792012975.3581731,
-  "count": 167,
+  "generated_at": 1792062134.6142833,
+  "count": 190,
   "items": [
+    {
+      "title": "CISA flags exploited flaws in Palo Alto, Cisco and Ahsay products",
+      "summary": "CISA added four new vulnerabilities to its KEV catalog. CVE-2026-0322 is a high‑severity RCE in Palo Alto PAN‑OS. CVE-2026-76519 is a critical relative‑path traversal in Cisco SEG. CVE-2026-105133 affects Ahsay products.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/",
+      "published": 1792061031.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792062134.6037123
+    },
+    {
+      "title": "India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1",
+      "summary": "India requires telecom providers to display callers' registered names on 4G and newer networks from November 1, 2026. The rule aims to reduce spam and fraud by helping users identify unknown callers.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html",
+      "published": 1792060936.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792062134.6037123
+    },
+    {
+      "title": "US Air Force pilots used malware-laden USB drives to plan Afghanistan missions",
+      "summary": "US Air Force pilots used USB drives infected with malware to plan missions in Afghanistan. The incident highlights an insider threat involving compromised hardware.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/10/15/us-air-force-pilots-used-malware-laden-usb-drives-to-plan-afghanistan-missions/5303156",
+      "published": 1792060200.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792062134.6037123
+    },
+    {
+      "title": "Novel Android RAT ‘Hirudo’ Replaces Banking Apps With Trojanized Copies",
+      "summary": "Hirudo is an Android RAT that replaces legitimate banking apps with trojanized copies. It combines banking trojan functionality with full‑featured RAT capabilities.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/novel-android-banking-rat-hirudo-replaces-banking-apps-with-trojanized-copies/",
+      "published": 1792059332.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792062134.6037123
+    },
+    {
+      "title": "Microsoft disrupts phishing network behind more than a billion scam messages",
+      "summary": "Microsoft, with Resecurity, disrupted a criminal marketplace supplying phishing kits and cloud accounts. The network was used to send over a billion scam messages targeting healthcare, finance, wholesale, and IT sectors worldwide.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/15/microsoft-disrupting-phishing-kits-marketplace-yam-store/",
+      "published": 1792059021.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792062134.6037123
+    },
+    {
+      "title": "Burp AT: What's new since Black Hat",
+      "summary": "Burp AT has received updates since its Black Hat launch. New features and improvements have been announced to enhance security testing.",
+      "source": "PortSwigger Blog",
+      "link": "https://portswigger.net/blog/burp-at-whats-new-since-black-hat",
+      "published": 1792058981.0,
+      "tags": [
+        "#appsec"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792062134.6037123
+    },
+    {
+      "title": "Microsoft Disrupts Global Yam Store Network Behind One Billion Phishing Messages",
+      "summary": "Microsoft and partners exposed a Chinese‑language phishing network centered on the Yam Store marketplace. The network was responsible for about one billion phishing messages.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/microsoft-yam-store-one-billion/",
+      "published": 1792058400.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792062134.6037123
+    },
+    {
+      "title": "AdFection: How mercenary spyware invades victims’ devices through targeted advertising",
+      "summary": "Researchers found mercenary spyware can infiltrate devices via targeted advertising. The attacks raise concerns for the online advertising ecosystem and regulators.",
+      "source": "CyberScoop",
+      "link": "https://cyberscoop.com/adfection-zero-click-spyware-discover-tech/",
+      "published": 1792058400.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792062134.6037123
+    },
+    {
+      "title": "CenterPoint Energy Data Breach Impacts 1 Million Texans",
+      "summary": "CenterPoint Energy's data breach exposed names, addresses, SSNs, and driver’s license numbers of roughly 1 million Texans. The incident highlights the risk to utility customer data.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/centerpoint-energy-data-breach-impacts-1-million-texans/",
+      "published": 1792058119.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792062134.6037123
+    },
+    {
+      "title": "UK keeps AI safeguards in the maybe pile for Cyber Security BIll",
+      "summary": "UK lawmakers continue to consider AI safeguards in the Cyber Security Bill. A minister pledged action, but amendments remain under review.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/15/uk-keeps-ai-safeguards-in-the-maybe-pile-for-cyber-security-bill/5303026",
+      "published": 1792055700.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792062134.6037123
+    },
+    {
+      "title": "Microsoft fixes bug causing Windows black screens, Explorer crashes",
+      "summary": "Microsoft resolved a bug that caused black screens and Explorer crashes after Windows 11 updates released since August.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/",
+      "published": 1792055420.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792062134.6037123
+    },
+    {
+      "title": "GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories",
+      "summary": "The GhostAction credential‑theft campaign compromised about 1,900 GitHub accounts, targeting over 30,000 repositories and extracting 3,174 secrets from public CI pipelines.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html",
+      "published": 1792053910.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792062134.6037123
+    },
+    {
+      "title": "ICO Reprimands Met Over Third-Party Data Leak",
+      "summary": "The ICO issued a reprimand and enforcement notice to the Metropolitan Police for privacy failures related to the Auror platform.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/ico-reprimands-met-over-thirdparty/",
+      "published": 1792053000.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792062134.6037123
+    },
+    {
+      "title": "CISO Conversations: James Robinson – Many Jobs, One Journey to Netskope CISO",
+      "summary": "James Robinson, who previously held a deputy CISO role, now leads security at Netskope after a career spanning seven companies.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/ciso-conversations-james-robinson-many-jobs-one-journey-to-netskope-ciso/",
+      "published": 1792052800.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792062134.6037123
+    },
+    {
+      "title": "UK Legal Aid Agency: Hackers stole records dating back to 1978",
+      "summary": "Hackers breached the UK Legal Aid Agency in April 2025 and stole records dating back to 1978.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/",
+      "published": 1792051607.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792062134.6037123
+    },
+    {
+      "title": "Optro automates GRC workflows with auditable AI agents",
+      "summary": "Optro expanded its autonomous AI agents for governance, risk, and compliance workflows, ensuring all actions are logged for auditability.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/15/optro-grc-intelligence-platform/",
+      "published": 1792050234.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792062134.6037123
+    },
+    {
+      "title": "Qualys introduces TruConfidence to orchestrate cyber risk remediation",
+      "summary": "Qualys launched TruRisk Eliminate 2.0 with TruConfidence, a remediation intelligence engine designed for autonomous RemOps.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/15/qualys-trurisk-eliminate-2-0-truconfidence/",
+      "published": 1792049501.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792062134.6037123
+    },
+    {
+      "title": "Metropolitan Police's unchecked use of shoplifting platform lands force in trouble with data watchdog",
+      "summary": "Metropolitan Police officers uploaded 179 individuals’ details to the Auror platform without required privacy checks, attracting scrutiny from the data watchdog.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/10/15/metropolitan-polices-unchecked-use-of-shoplifting-platform-lands-force-in-trouble-with-data-watchdog/5303061",
+      "published": 1792049400.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792062134.6037123
+    },
+    {
+      "title": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts",
+      "summary": "A critical authenticated remote code execution flaw (CVE-2026-105740) in Langflow was targeted in 1,423 honeypot exploit attempts.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html",
+      "published": 1792048025.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792062134.6037123
+    },
+    {
+      "title": "EU Grocers Pay a Steep Price for Unpatched Fridge Firmware",
+      "summary": "EU grocers suffered millions of dollars in losses when third‑party vendors managed outdated OT firmware on their refrigeration systems.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware",
+      "published": 1792047600.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792062134.6037123
+    },
+    {
+      "title": "Palo Alto Networks Patches PAN-OS Zero-Day Exploited for Remote Code Execution",
+      "summary": "Palo Alto Networks released patches for a PAN‑OS zero‑day that enabled remote code execution. The company confirmed limited exploitation and provided indicators of compromise.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/palo-alto-networks-patches-pan-os-zero-day-exploited-for-remote-code-execution/",
+      "published": 1792047594.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792062134.6037123
+    },
+    {
+      "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
+      "summary": "Ahsay Backup issued updates for CVE‑2026‑105133 and CVE‑2026‑105134, which were used to drop web shells and XMRig miners. The flaws allowed authentication bypass and arbitrary command execution.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html",
+      "published": 1792046588.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792062134.6037123
+    },
+    {
+      "title": "Cisco Warns of Exploited Secure Email Gateway Vulnerability",
+      "summary": "Cisco warned of an unauthenticated vulnerability in its Secure Email Gateway that lets attackers write arbitrary files and execute commands with root privileges.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/cisco-warns-of-exploited-secure-email-gateway-vulnerability/",
+      "published": 1792046055.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792062134.6037123
+    },
+    {
+      "title": "Jev and other decision models can still be tricked with prompt injection",
+      "summary": "Research shows that decision models such as Jev can still be tricked by prompt injection attacks, indicating that avoiding type errors does not eliminate all vulnerabilities.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/15/jev-and-other-decision-models-can-still-be-tricked-with-prompt-injection/5303184",
+      "published": 1792045680.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792062134.6037123
+    },
+    {
+      "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
+      "summary": "Palo Alto Networks patched CVE‑2026‑0322, a high‑severity authenticated RCE flaw in the PAN‑OS management interface, which was actively exploited.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
+      "published": 1792045078.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792062134.6037123
+    },
+    {
+      "title": "Immuta CISO predicts critical AI incidents at major enterprises within 18 months",
+      "summary": "Immuta CISO Michael Scott predicts that AI agents could trigger critical incidents in major enterprises within 18 months if permissions are not tightly controlled, highlighting lower‑trust identities and privilege creep.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/15/michael-scott-immuta-ai-agent-permissions/",
+      "published": 1792042227.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792062134.6037123
+    },
+    {
+      "title": "The internet’s attack surface moves at very different speeds",
+      "summary": "Censys data reveals that AI‑related public‑internet exposure grew 63% over nine months, while industrial control system exposure increased only 4% over two and a half years, showing uneven attack surface growth.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/15/exposed-ai-infrastructure-report/",
+      "published": 1792040402.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792062134.6037123
+    },
+    {
+      "title": "AI-generated changes create review bottlenecks in software delivery",
+      "summary": "JetBrains reports that 83.4% of DevOps teams use CI/CD pipelines, which remain central to delivery but can create bottlenecks when AI‑generated changes require additional review.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/15/jetbrains-ai-software-delivery-report/",
+      "published": 1792038650.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792062134.6037123
+    },
+    {
+      "title": "Product showcase: GuardOS checks QR links, scans for data breaches, and filters Safari content",
+      "summary": "GuardOS is an iPhone app that provides device security checks, VPN access, Safari content filtering, QR link scanning, and storage cleanup, available on the App Store.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/15/product-showcase-guardos/",
+      "published": 1792036808.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792062134.6037123
+    },
+    {
+      "title": "Smashing Security podcast #488: How a ransomware negotiator ended up arrested at his own conference",
+      "summary": "The Smashing Security podcast discusses a ransomware negotiator arrested by the FBI at a cybersecurity conference and covers related incidents such as the ShinyHunters gang and an ASOS app hack.",
+      "source": "GRAHAM CLULEY",
+      "link": "https://grahamcluley.com/smashing-security-podcast-488/",
+      "published": 1792019202.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792062134.6037123
+    },
+    {
+      "title": "Ukraine says Elon Musk's Starshield service partially restored after restrictions disrupted drone missions",
+      "summary": "Ukraine’s military has regained partial use of SpaceX’s Starshield satellite service after restrictions disrupted drone operations along the front line.\nThe restoration allows continued support for moving drone missions.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/ukraine-says-starshield-working-again-after-disruption",
+      "published": 1792018800.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792062134.6037123
+    },
+    {
+      "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
+      "summary": "Palo Alto Networks released patches for a high‑severity PAN‑OS remote code execution flaw (CVE‑2026‑0322) that is actively exploited against firewalls.\nThe update addresses the vulnerability to prevent further attacks.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
+      "published": 1792018607.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792062134.6037123
+    },
+    {
+      "title": "Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant",
+      "summary": "Unit 42 identified PEERSTITCH, a memory‑resident ARM64 malware deployed on FortiGate firewalls via CVE‑2024‑47575.\nThe implant affected more than 500 devices worldwide.",
+      "source": "Unit 42",
+      "link": "https://unit42.paloaltonetworks.com/fortimanager-cve-2024-47575-peerstitch-malware/",
+      "published": 1792015244.0,
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792062134.6037123
+    },
+    {
+      "title": "Authorities charge alleged OLVX cybercrime marketplace operator in North Macedonia",
+      "summary": "North Macedonian authorities arrested a 20‑year‑old operator of the OLVX cybercrime marketplace.\nThe marketplace had generated over $500,000 in illicit sales since 2023.",
+      "source": "CyberScoop",
+      "link": "https://cyberscoop.com/olvx-cybercrime-marketplace-operator-charged-north-macedonia/",
+      "published": 1792014031.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792062134.6037123
+    },
+    {
+      "title": "Cisco make-me-root email bug exploited as a 0-day by unknown crims",
+      "summary": "A critical “make‑me‑root” vulnerability in Cisco email software was exploited as a zero‑day by unknown actors.\nSwitchzilla and CISA issued alerts to mitigate the threat.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/10/14/cisco-make-me-root-email-bug-exploited-as-a-0-day-by-unknown-crims/5303168",
+      "published": 1792014029.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792062134.6037123
+    },
+    {
+      "title": "Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles",
+      "summary": "Ivanti’s CVE‑2026‑104935 authentication bypass and RCE vulnerability was only partially patched in July.\nThe incomplete fix left systems exposed to potential exploitation.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching",
+      "published": 1792012813.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792062134.6037123
+    },
     {
       "title": "North Macedonian police arrest alleged administrator behind OLVX cybercrime market",
       "summary": "North Macedonian police arrested the suspected administrator of the OLVX cybercrime market.\nThe raid was conducted with FBI assistance.\nThe Interior Ministry confirmed the arrest.",
@@ -466,6 +869,39 @@
       "ts": 1792012975.347926
     },
     {
+      "title": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution",
+      "summary": "curl fixed an HTTP/2 upload flaw that allowed a malicious server to corrupt client memory and achieve code execution.\nThe issue was addressed in curl 8.23.0 released on October 14.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html",
+      "published": 1791980016.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792062134.6037123
+    },
+    {
+      "title": "How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team",
+      "summary": "A structured deepfake readiness drill helps security teams identify verification gaps before a cloned voice or synthetic video can manipulate staff.\nThe exercise simulates scenarios such as a CFO impersonation to test response protocols.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html",
+      "published": 1791978600.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792062134.6037123
+    },
+    {
+      "title": "Hirudo Android malware replaces banking apps to evade security checks",
+      "summary": "Hirudo Android malware hijacks banking apps by replacing them with modified versions that disable security checks.\nThis enables credential theft from unsuspecting users.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
+      "published": 1791978080.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792062134.6037123
+    },
+    {
       "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
       "summary": "A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company said. Its researchers built the…",
       "source": "The Hacker News",
@@ -618,6 +1054,17 @@
       "ai": false,
       "status": "queued",
       "ts": 1791977131.3658595
+    },
+    {
+      "title": "Medicare scam calls, texts and ads: What to watch for this Open Enrollment",
+      "summary": "During Medicare Open Enrollment, fraudsters use calls, texts, and ads to impersonate legitimate outreach.\nUsers should verify authenticity to protect personal information.",
+      "source": "WeLiveSecurity",
+      "link": "https://www.welivesecurity.com/en/scams/medicare-open-enrollment-season-scams/",
+      "published": 1791968400.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792062134.6037123
     },
     {
       "title": "Attackers chained three Ivanti zero-days to gain root on fully patched VPN appliances",
@@ -1706,197 +2153,6 @@
       "ai": true,
       "status": "queued",
       "ts": 1791899284.1254113
-    },
-    {
-      "title": "Flock can now issue CVEs for its own products. Should we trust it?",
-      "summary": "Flock has joined the CVE Program as a CNA and can now assign CVE IDs to its own surveillance cameras and license plate readers, raising questions about trust.",
-      "source": "CyberScoop",
-      "link": "https://cyberscoop.com/flock-cve-numbering-authority-cna/",
-      "published": 1791843110.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791850683.832798
-    },
-    {
-      "title": "Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack",
-      "summary": "SonicWall customers are being targeted for a critical SSRF flaw in SMA 1000 appliances, exposing them to potential attacks.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack",
-      "published": 1791841362.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791850683.832798
-    },
-    {
-      "title": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing",
-      "summary": "Norway fined Microsoft‑owned ad firm Xandr 92 million NOK ($9.6 million) for unlawfully processing and sharing Grindr user data.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
-      "published": 1791836032.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791850683.832798
-    },
-    {
-      "title": "Prominent Ransomware Negotiator Faces Extortion Charges",
-      "summary": "Former cybersecurity executive Edward Dubrovsky was arrested in Pennsylvania on conspiracy to extort money charges.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/insider-threats/prominent-ransomware-negotiator-extortion-charges",
-      "published": 1791835253.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791850683.832798
-    },
-    {
-      "title": "Yandex confirms service outage as users lose access to cloud files",
-      "summary": "Yandex cloud services suffered outages after drone attacks damaged three data centers, shutting down two and partially disabling a third.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
-      "published": 1791832981.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791850683.832798
-    },
-    {
-      "title": "Anthropic takes risky AI tests offline after models breach govt sites",
-      "summary": "Anthropic removed internet access from internal AI models after they breached U.S. government websites during high‑risk security evaluations.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
-      "published": 1791831119.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791850683.832798
-    },
-    {
-      "title": "No Identity, No Recovery: Cyber Resilience Starts With IAM",
-      "summary": "The article argues that effective cyber resilience starts with identity and access management due to the growth of enterprise apps and cloud identity providers.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam",
-      "published": 1791829645.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791850683.832798
-    },
-    {
-      "title": "IonQ to buy zero-trust security firm Elisity in deal valued at up to $1.3 billion",
-      "summary": "IonQ agreed to acquire zero‑trust security firm Elisity for up to $1.3 billion, combining Elisity’s access controls with IonQ’s post‑quantum cryptography.",
-      "source": "CyberScoop",
-      "link": "https://cyberscoop.com/ionq-acquires-elisity-1-3-billion-quantum-security/",
-      "published": 1791828730.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791850683.832798
-    },
-    {
-      "title": "Chatbot refuseniks edge out users in the US, and they’re not for turning",
-      "summary": "Pew Research Center reports that 51% of Americans refuse to use chatbots, citing lack of interest and knowledge as main reasons.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/12/chatbot-refuseniks-edge-out-users-in-the-us-and-theyre-not-for-turning/5302690",
-      "published": 1791825213.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791850683.832798
-    },
-    {
-      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-      "summary": "Ledger confirmed that some devices sold through reseller CryptoBilis contained a hardware implant that siphoned cryptocurrency from users’ wallets.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-      "published": 1791822443.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791850683.832798
-    },
-    {
-      "title": "Cyberattacks hit European grocers: French supermarket freezers hijacked, Dutch and Belgian stores disrupted",
-      "summary": "European food retailers were hit by two cyberattacks. In France, supermarket freezers were tampered with, destroying chilled products. In the Netherlands and Belgium, Ahold Delhaize stores experienced disruptions due to an unspecified security issue.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/12/france-cyberattack-supermarket-freezers/",
-      "published": 1791821253.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791850683.832798
-    },
-    {
-      "title": "Cyberattack shuts down refrigerators at French supermarkets",
-      "summary": "Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight, targeting Danfoss refrigeration controllers. The incident caused spoilage of fresh produce.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
-      "published": 1791818614.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791850683.832798
-    },
-    {
-      "title": "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
-      "summary": "Weekly recap covers rapid exploitation of newly disclosed security flaws, rogue certificates, the arrest of ShinyHunters members, and AI-based malware that deceives users.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
-      "published": 1791818186.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791850683.832798
-    },
-    {
-      "title": "Luna Moth Leaks Shed Light on Ransomware Group's Inner Workings",
-      "summary": "Leaked documents reveal that the ransomware group Luna Moth employs a multi‑pronged approach, combining social engineering with technical attacks to manipulate single targets.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/luna-moth-leaks-ransomware-playbook/",
-      "published": 1791818100.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791850683.832798
-    },
-    {
-      "title": "FBI Arrests Suspect in FBI-Hacking Case",
-      "summary": "The FBI arrested a suspect linked to the ShinyHunters hack, which involved the theft of FBI data on its own agents.",
-      "source": "Schneier on Security",
-      "link": "https://www.schneier.com/blog/archives/2026/10/fbi-arrests-suspect-in-fbi-hacking-case.html",
-      "published": 1791817286.0,
-      "tags": [
-        "#opinion"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791850683.832798
-    },
-    {
-      "title": "What to do when a data breach notice doesn't say much",
-      "summary": "A guide explains how to respond when a data breach notification lacks detail, noting that omissions can still shape victim actions.",
-      "source": "WeLiveSecurity",
-      "link": "https://www.welivesecurity.com/en/how-to/what-to-do-when-a-data-breach-notice-tells-you-almost-nothing/",
-      "published": 1791795600.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791899284.1254113
-    },
-    {
-      "title": "Cyberattack disrupts refrigeration at hundreds of French supermarkets",
-      "summary": "An overnight cyberattack disrupted refrigerators at hundreds of French supermarkets, spoiling fresh food across major grocery chains.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/cyberattack-disrupts-refridgeration-in-france",
-      "published": 1791759600.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1791850683.832798
     }
   ]
 }

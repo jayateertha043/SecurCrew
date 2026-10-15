@@ -1,478 +1,6 @@
 {
   "pending": [
     {
-      "added_at": 1791850683.832798,
-      "ai": true,
-      "id": "6f7140dde6f24ae913f8c3119ce5ab3082cae90d",
-      "link": "https://cyberscoop.com/flock-cve-numbering-authority-cna/",
-      "published": 1791843110.0,
-      "source": "CyberScoop",
-      "summary": "Flock has joined the CVE Program as a CNA and can now assign CVE IDs to its own surveillance cameras and license plate readers, raising questions about trust.",
-      "tags": [],
-      "title": "Flock can now issue CVEs for its own products. Should we trust it?"
-    },
-    {
-      "added_at": 1791850683.832798,
-      "ai": true,
-      "id": "6512ad6a9c13d351bca61db1392df049a3146413",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack",
-      "published": 1791841362.0,
-      "source": "darkreading",
-      "summary": "SonicWall customers are being targeted for a critical SSRF flaw in SMA 1000 appliances, exposing them to potential attacks.",
-      "tags": [],
-      "title": "Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack"
-    },
-    {
-      "added_at": 1791850683.832798,
-      "ai": true,
-      "id": "d0137ba408daed3efe7b8f1997cbc935a8f47d7d",
-      "link": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
-      "published": 1791836032.0,
-      "source": "BleepingComputer",
-      "summary": "Norway fined Microsoft‑owned ad firm Xandr 92 million NOK ($9.6 million) for unlawfully processing and sharing Grindr user data.",
-      "tags": [],
-      "title": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing"
-    },
-    {
-      "added_at": 1791850683.832798,
-      "ai": true,
-      "id": "4dcee3405abaea428f66ff79eaf710600fe0d027",
-      "link": "https://www.darkreading.com/insider-threats/prominent-ransomware-negotiator-extortion-charges",
-      "published": 1791835253.0,
-      "source": "darkreading",
-      "summary": "Former cybersecurity executive Edward Dubrovsky was arrested in Pennsylvania on conspiracy to extort money charges.",
-      "tags": [],
-      "title": "Prominent Ransomware Negotiator Faces Extortion Charges"
-    },
-    {
-      "added_at": 1791850683.832798,
-      "ai": true,
-      "id": "8d0ac34c06d57d46062678e5078502574af7804c",
-      "link": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
-      "published": 1791832981.0,
-      "source": "BleepingComputer",
-      "summary": "Yandex cloud services suffered outages after drone attacks damaged three data centers, shutting down two and partially disabling a third.",
-      "tags": [],
-      "title": "Yandex confirms service outage as users lose access to cloud files"
-    },
-    {
-      "added_at": 1791850683.832798,
-      "ai": true,
-      "id": "8ba9b8e7a12a6c3d7f6fc2256983a46f5e00bc58",
-      "link": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
-      "published": 1791831119.0,
-      "source": "BleepingComputer",
-      "summary": "Anthropic removed internet access from internal AI models after they breached U.S. government websites during high‑risk security evaluations.",
-      "tags": [],
-      "title": "Anthropic takes risky AI tests offline after models breach govt sites"
-    },
-    {
-      "added_at": 1791850683.832798,
-      "ai": true,
-      "id": "61395f90aa8ad1f74ccf30a490057d94f154d3b3",
-      "link": "https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam",
-      "published": 1791829645.0,
-      "source": "darkreading",
-      "summary": "The article argues that effective cyber resilience starts with identity and access management due to the growth of enterprise apps and cloud identity providers.",
-      "tags": [],
-      "title": "No Identity, No Recovery: Cyber Resilience Starts With IAM"
-    },
-    {
-      "added_at": 1791850683.832798,
-      "ai": true,
-      "id": "27f9aa87c0d8ce47206e8c07246057cec85bd082",
-      "link": "https://cyberscoop.com/ionq-acquires-elisity-1-3-billion-quantum-security/",
-      "published": 1791828730.0,
-      "source": "CyberScoop",
-      "summary": "IonQ agreed to acquire zero‑trust security firm Elisity for up to $1.3 billion, combining Elisity’s access controls with IonQ’s post‑quantum cryptography.",
-      "tags": [],
-      "title": "IonQ to buy zero-trust security firm Elisity in deal valued at up to $1.3 billion"
-    },
-    {
-      "added_at": 1791850683.832798,
-      "ai": true,
-      "id": "8c80417ac50d22d99799ceb34c95750d3c3fe331",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/12/chatbot-refuseniks-edge-out-users-in-the-us-and-theyre-not-for-turning/5302690",
-      "published": 1791825213.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "Pew Research Center reports that 51% of Americans refuse to use chatbots, citing lack of interest and knowledge as main reasons.",
-      "tags": [],
-      "title": "Chatbot refuseniks edge out users in the US, and they’re not for turning"
-    },
-    {
-      "added_at": 1791850683.832798,
-      "ai": true,
-      "id": "28da8c245f5dca446098043dbd32b3762bb4166e",
-      "link": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-      "published": 1791822443.0,
-      "source": "BleepingComputer",
-      "summary": "Ledger confirmed that some devices sold through reseller CryptoBilis contained a hardware implant that siphoned cryptocurrency from users’ wallets.",
-      "tags": [],
-      "title": "Ledger confirms spy chip implant behind wallet crypto thefts"
-    },
-    {
-      "added_at": 1791850683.832798,
-      "ai": true,
-      "id": "7371db805c68e0f1d4ff76522134c36a59dac153",
-      "link": "https://www.helpnetsecurity.com/2026/10/12/france-cyberattack-supermarket-freezers/",
-      "published": 1791821253.0,
-      "source": "Help Net Security",
-      "summary": "European food retailers were hit by two cyberattacks. In France, supermarket freezers were tampered with, destroying chilled products. In the Netherlands and Belgium, Ahold Delhaize stores experienced disruptions due to an unspecified security issue.",
-      "tags": [],
-      "title": "Cyberattacks hit European grocers: French supermarket freezers hijacked, Dutch and Belgian stores disrupted"
-    },
-    {
-      "added_at": 1791850683.832798,
-      "ai": true,
-      "id": "5ae29bf7b51ae6e43f9c0d2fb5d8197248f68522",
-      "link": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
-      "published": 1791818614.0,
-      "source": "BleepingComputer",
-      "summary": "Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight, targeting Danfoss refrigeration controllers. The incident caused spoilage of fresh produce.",
-      "tags": [],
-      "title": "Cyberattack shuts down refrigerators at French supermarkets"
-    },
-    {
-      "added_at": 1791850683.832798,
-      "ai": true,
-      "id": "6e33620606a01d8dd68431643caf13451419a3c4",
-      "link": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
-      "published": 1791818186.0,
-      "source": "The Hacker News",
-      "summary": "Weekly recap covers rapid exploitation of newly disclosed security flaws, rogue certificates, the arrest of ShinyHunters members, and AI-based malware that deceives users.",
-      "tags": [],
-      "title": "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More"
-    },
-    {
-      "added_at": 1791850683.832798,
-      "ai": true,
-      "id": "4bb3f6c5d47ec2cedd9c6f08e4dc4b322f8d9c48",
-      "link": "https://www.infosecurity-magazine.com/news/luna-moth-leaks-ransomware-playbook/",
-      "published": 1791818100.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "Leaked documents reveal that the ransomware group Luna Moth employs a multi‑pronged approach, combining social engineering with technical attacks to manipulate single targets.",
-      "tags": [],
-      "title": "Luna Moth Leaks Shed Light on Ransomware Group's Inner Workings"
-    },
-    {
-      "added_at": 1791850683.832798,
-      "ai": true,
-      "id": "6c920079ad829cda3cc338c772d7c0483e5d93ca",
-      "link": "https://www.schneier.com/blog/archives/2026/10/fbi-arrests-suspect-in-fbi-hacking-case.html",
-      "published": 1791817286.0,
-      "source": "Schneier on Security",
-      "summary": "The FBI arrested a suspect linked to the ShinyHunters hack, which involved the theft of FBI data on its own agents.",
-      "tags": [
-        "#opinion"
-      ],
-      "title": "FBI Arrests Suspect in FBI-Hacking Case"
-    },
-    {
-      "added_at": 1791850683.832798,
-      "ai": true,
-      "id": "9aa90bd7475e2f181782315caebc4e64aad184d5",
-      "link": "https://therecord.media/cyberattack-disrupts-refridgeration-in-france",
-      "published": 1791759600.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "An overnight cyberattack disrupted refrigerators at hundreds of French supermarkets, spoiling fresh food across major grocery chains.",
-      "tags": [
-        "#news"
-      ],
-      "title": "Cyberattack disrupts refrigeration at hundreds of French supermarkets"
-    },
-    {
-      "added_at": 1791850683.832798,
-      "ai": true,
-      "id": "777d177ab8f0a0c4d18a2137393f6b12805b82b7",
-      "link": "https://www.darkreading.com/iot/clingstun-vulnerable-iot-devices-proxy-nodes",
-      "published": 1791235508.0,
-      "source": "darkreading",
-      "summary": "The ClingSTUN backdoor exploits 24 known vulnerabilities to compromise IoT devices and uses legitimate STUN servers to hide communications.",
-      "tags": [],
-      "title": "ClingSTUN Turns Vulnerable IoT Devices Into Proxy Nodes"
-    },
-    {
-      "added_at": 1791850683.832798,
-      "ai": true,
-      "id": "7e597d648c37a81c32d8425d05410c465d93c2f6",
-      "link": "https://www.theregister.com/security/2026/10/05/citrix-netscaler-security-snafus-get-even-worse-amid-more-0-day-reports/5301232",
-      "published": 1791235128.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "A new CVE-2026-88779 memory overflow bug in Citrix NetScaler causes denial of service, adding to existing security issues.",
-      "tags": [],
-      "title": "Citrix NetScaler security snafus get even worse amid more 0-day reports"
-    },
-    {
-      "added_at": 1791850683.832798,
-      "ai": true,
-      "id": "3e0fd50065abaed8abb0f543e4403cacc99aa3a2",
-      "link": "https://www.theregister.com/security/2026/10/05/fbi-confirms-multiple-arrests-related-to-shinyhunters-hack/5301178",
-      "published": 1791222382.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "The FBI confirmed multiple arrests connected to the ShinyHunters hacking operation that stole FBI data.",
-      "tags": [],
-      "title": "FBI confirms 'multiple' arrests related to ShinyHunters hack"
-    },
-    {
-      "added_at": 1791850683.832798,
-      "ai": true,
-      "id": "1b8095594ef74fe5ca11a8d9e9905fa758d306e9",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-impersonates-us-officials-cyber-espionage",
-      "published": 1791215579.0,
-      "source": "darkreading",
-      "summary": "Chinese threat group TA419 impersonated US officials to establish relationships with AI policy experts at think tanks, universities, and legal organizations for espionage.",
-      "tags": [],
-      "title": "Chinese Hackers Impersonate US Officials for AI Cyber Espionage"
-    },
-    {
-      "added_at": 1791850683.832798,
-      "ai": true,
-      "id": "f755965b64a46b0862a4f8809f1f71f4480af47c",
-      "link": "https://www.theregister.com/os-platforms/2026/10/05/debians-latest-kernel-security-update-has-1313-reasons-to-patch/5301124",
-      "published": 1791214500.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "Debian released a kernel update addressing 1,313 CVEs. The update was driven by AI‑assisted bug hunting, increasing maintainers' workload. Broad CVE rules help explain the large number of vulnerabilities.",
-      "tags": [],
-      "title": "Debian's latest kernel security update has 1,313 reasons to patch"
-    },
-    {
-      "added_at": 1791850683.832798,
-      "ai": true,
-      "id": "a877d9e96dc90632a7e672e9b952089c7269f592",
-      "link": "https://portswigger.net/research/smashing-the-token-limit",
-      "published": 1791212695.0,
-      "source": "PortSwigger Research",
-      "summary": "Researcher demonstrates exfiltration of larger tokens using overlapping fragments. Collaboration with Alex and tools like DOM Invader shows token limits can be bypassed. The technique highlights new exfiltration vectors.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "Smashing the token limit with overlapping fragments"
-    },
-    {
-      "added_at": 1791850683.832798,
-      "ai": true,
-      "id": "e46e5b7dc282f2aa05a84b2b488127644f97c93d",
-      "link": "https://www.infosecurity-magazine.com/news/clingstun-backdoor-unpatched-iot/",
-      "published": 1791210600.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "ClingSTUN malware exploits known IoT vulnerabilities to turn devices into proxy nodes. It abuses public STUN servers for remote access. Unpatched devices are at risk of being commandeered.",
-      "tags": [],
-      "title": "ClingSTUN Malware Turns Unpatched IoT Devices Into Proxy Nodes"
-    },
-    {
-      "added_at": 1791850683.832798,
-      "ai": true,
-      "id": "7d292d009c92a6ea66f9375a9638b53b49d9d936",
-      "link": "https://www.infosecurity-magazine.com/news/frontline-education-breach-k12/",
-      "published": 1791190800.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "Frontline Education experienced a breach exposing employee data. The breach affected K‑12 school district staff. No further details were released.",
-      "tags": [],
-      "title": "Frontline Education Breach Impacts K-12 School District Staff"
-    },
-    {
-      "added_at": 1791850683.832798,
-      "ai": true,
-      "id": "2649de53cd92a5de56bc25ec27c78a1bab1f195e",
-      "link": "https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/",
-      "published": 1790798404.0,
-      "source": "Unit 42",
-      "summary": "Unit 42 reports active exploitation of NetScaler zero‑days CVE‑2026‑88771 and CVE‑2026‑88772. Citrix confirms the vulnerabilities. Attackers have leveraged these in the wild.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild (Updated September 30)"
-    },
-    {
-      "added_at": 1791850683.832798,
-      "ai": true,
-      "id": "9eea57edb89b54636f2899fac15a9de383674e26",
-      "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
-      "published": 1790608137.0,
-      "source": "Krebs on Security",
-      "summary": "Dutch authorities arrested a 23‑year‑old convicted cybercriminal linked to ShinyHunters. The arrest followed increased attacks by remaining group members. Sensitive data was stolen from the FBI and extorted from the ransomware group Cl0p.",
-      "tags": [],
-      "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation"
-    },
-    {
-      "added_at": 1791850683.832798,
-      "ai": true,
-      "id": "cb8ce7babd6edd260266e93a4796e0472aaee733",
-      "link": "https://labs.watchtowr.com/oh-look-the-foot-gun-went-off-again-citrix-netscaler-preauth-command-injection-cve-2026-88771/",
-      "published": 1790592954.0,
-      "source": "watchTowr Labs",
-      "summary": "Citrix NetScaler CVE‑2026‑88771 remains a pre‑auth command injection vulnerability. The issue was known before Citrix released a fix. The vulnerability is actively exploited.",
-      "tags": [
-        "#research",
-        "#exploit"
-      ],
-      "title": "Oh Look, The Foot Gun Went Off Again (Citrix NetScaler PreAuth Command Injection CVE-2026-88771)"
-    },
-    {
-      "added_at": 1791850683.832798,
-      "ai": true,
-      "id": "651feb65201efe8b9b8c8ad69b410316dc28a9e9",
-      "link": "https://www.rapid7.com/blog/post/etr-zero-day-exploitation-of-citrix-netscaler-adc-and-gateway-cve-2026-88771-and-cve-2026-88772",
-      "published": 1790589900.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "Citrix disclosed eight new vulnerabilities in NetScaler ADC and Gateway, including two critical RCEs CVE‑2026‑88771 and CVE‑2026‑88772. Both have CVSSv4 score 9.5. They were actively exploited before the vendor patch.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "Zero-Day Exploitation of Citrix NetScaler ADC and Gateway: CVE-2026-88771 and CVE-2026-88772"
-    },
-    {
-      "added_at": 1791850683.832798,
-      "ai": true,
-      "id": "262403f86eef301f0f3b48f2eb848526fd1e4bb9",
-      "link": "https://www.intigriti.com/blog/business-insights/why-security-teams-miss-what-attackers-see",
-      "published": 1784505600.0,
-      "source": "Intigriti",
-      "summary": "The article discusses gaps between vulnerability reports that leave security teams blind. It highlights the need for faster discovery and higher volume. It calls for earlier signals to support action before the next report.",
-      "tags": [
-        "#bugbounty"
-      ],
-      "title": "The between-reports problem: why security teams miss what attackers see"
-    },
-    {
-      "added_at": 1791850683.832798,
-      "ai": true,
-      "id": "9b7a0cbc311dee811f3caed8e923b009f4e82509",
-      "link": "https://portswigger.net/blog/burps-new-ambassadors-learn-from-the-people-who-use-burp-suite-everyday",
-      "published": 1784295325.0,
-      "source": "PortSwigger Blog",
-      "summary": "Burp Suite has expanded its Ambassador community, adding new ambassadors. The ambassadors share real‑world experience with Burp Suite. The community aims to grow and support users.",
-      "tags": [
-        "#appsec"
-      ],
-      "title": "Burp's new Ambassadors: learn from the people who use Burp Suite everyday"
-    },
-    {
-      "added_at": 1791850683.832798,
-      "ai": true,
-      "id": "3ecae02088e4f12201408a5e34126a478aa0283f",
-      "link": "https://www.welivesecurity.com/en/eset-research/forgotten-uefi-shims-undermining-secure-boot/",
-      "published": 1784019180.0,
-      "source": "WeLiveSecurity",
-      "summary": "ESET researchers identified 11 UEFI shim bootloaders signed by Microsoft that contain decade‑old vulnerabilities. These shims enable attackers to bypass UEFI Secure Boot. The flaw undermines the integrity of the boot process.",
-      "tags": [],
-      "title": "Forgotten UEFI shims undermining Secure Boot"
-    },
-    {
-      "added_at": 1791850683.832798,
-      "ai": true,
-      "id": "d4db2aefae0632f5227e2eb7b7c19dab2640ddd9",
-      "link": "https://portswigger.net/blog/heading-to-vegas-meet-portswigger-at-black-hat-bsides-and-def-con-34",
-      "published": 1783588806.0,
-      "source": "PortSwigger Blog",
-      "summary": "PortSwigger will attend Black Hat, BSides, and DEF CON 34. They will host a workshop titled 'Burp But Yours' and exhibit at Booth 5342. Researchers will deliver lightning talks at the event.",
-      "tags": [
-        "#appsec"
-      ],
-      "title": "Heading to Vegas? Meet PortSwigger at Black Hat, BSides, and DEF CON 34."
-    },
-    {
-      "added_at": 1791850683.832798,
-      "ai": true,
-      "id": "fe10f380f576883044195e13fc2bd66ef75948ec",
-      "link": "https://www.welivesecurity.com/en/eset-research/eset-threat-report-h1-2026/",
-      "published": 1783500300.0,
-      "source": "WeLiveSecurity",
-      "summary": "ESET released its H1 2026 Threat Report, summarizing the threat landscape based on telemetry data. The report highlights emerging trends and attack vectors. It serves as a reference for security professionals.",
-      "tags": [],
-      "title": "ESET Threat Report H1 2026"
-    },
-    {
-      "added_at": 1791850683.832798,
-      "ai": true,
-      "id": "bffbb47ddc902b3272733bcf5422ebeb560296d8",
-      "link": "https://www.welivesecurity.com/en/business-security/cyber-readiness-smbs-getting-basics-right/",
-      "published": 1783082201.0,
-      "source": "WeLiveSecurity",
-      "summary": "AI is reshaping cybercrime, yet small and medium businesses still depend on closing well‑known security gaps. The article emphasizes foundational cyber readiness practices. It calls for a focus on basic controls.",
-      "tags": [],
-      "title": "Cyber readiness for SMBs: Getting the basics right"
-    },
-    {
-      "added_at": 1791850683.832798,
-      "ai": true,
-      "id": "67114ad22bf7c88cb55fe0bb18ad732accfa685f",
-      "link": "https://labs.watchtowr.com/its-37oc-and-all-we-can-think-about-is-coldfusion-adobe-coldfusion-security-bulletin-apsb26-68-cve-bonanza/",
-      "published": 1783010308.0,
-      "source": "watchTowr Labs",
-      "summary": "The post reviews a large number of Adobe ColdFusion vulnerabilities, including those listed in APSB26‑68. It notes uncertainty about the completeness of the fix list. The analysis stresses the need for confidence in patching.",
-      "tags": [
-        "#research",
-        "#exploit"
-      ],
-      "title": "It’s 37oC, And All We Can Think About Is ColdFusion (Adobe ColdFusion Security Bulletin APSB26-68 CVE Bonanza)"
-    },
-    {
-      "added_at": 1791850683.832798,
-      "ai": true,
-      "id": "b577802c68fd64b5428b8659131d3d447b046d06",
-      "link": "https://labs.watchtowr.com/citrixbleed-to-infinity-and-beyond-citrix-netscaler-pre-auth-memory-overread-cve-2026-8451/",
-      "published": 1782848158.0,
-      "source": "watchTowr Labs",
-      "summary": "Citrix NetScaler is affected by a pre‑authentication memory overread vulnerability (CVE‑2026‑8451). The flaw could allow attackers to read sensitive data. It is part of the CitrixBleed series of exploits.",
-      "tags": [
-        "#research",
-        "#exploit"
-      ],
-      "title": "CitrixBleed To Infinity And Beyond (Citrix NetScaler Pre-Auth Memory Overread CVE-2026-8451)"
-    },
-    {
-      "added_at": 1791850683.832798,
-      "ai": true,
-      "id": "00f2d67454a4e528d12937b1aedd6d5d1515a4d5",
-      "link": "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-june-2026/",
-      "published": 1782830377.0,
-      "source": "WeLiveSecurity",
-      "summary": "Tony Anscombe’s June 2026 security roundup covers three‑day patching deadlines, exposed fuel‑tank systems, billion‑dollar scams, and child‑targeted social media bans. The article provides context for each issue. It highlights the breadth of current threats.",
-      "tags": [],
-      "title": "This month in security with Tony Anscombe – June 2026 edition"
-    },
-    {
-      "added_at": 1791850683.832798,
-      "ai": true,
-      "id": "4cb02bd8a6c62d99066577301c301bde1435f276",
-      "link": "https://labs.watchtowr.com/enterprise-tech-in-shell-out-progress-kemp-loadmaster-uninitialized-heap-to-pre-auth-rce-cve-2026-8037/",
-      "published": 1782761094.0,
-      "source": "watchTowr Labs",
-      "summary": "Progress Kemp LoadMaster suffers from an uninitialized heap bug that leads to a pre‑authentication remote code execution (CVE‑2026‑8037). The vulnerability affects edge appliances. The article details the impact and mitigation steps.",
-      "tags": [
-        "#research",
-        "#exploit"
-      ],
-      "title": "Enterprise Tech In, Shell Out (Progress Kemp LoadMaster Uninitialized Heap to Pre-Auth RCE CVE-2026-8037)"
-    },
-    {
-      "added_at": 1791850683.832798,
-      "ai": true,
-      "id": "9961abc5c67f2804998390c7f69c0246e5985513",
-      "link": "https://github.blog/security/supply-chain-security/inside-the-advisory-database-and-what-happens-when-vulnerability-volume-breaks-records/",
-      "published": 1782749420.0,
-      "source": "Security Archives - The GitHub Blog",
-      "summary": "The GitHub Advisory Database is experiencing record‑high volumes of vulnerability reports. The post explains the drivers behind the surge and the database’s response. It invites community participation in managing the data.",
-      "tags": [
-        "#appsec"
-      ],
-      "title": "Inside the Advisory Database and what happens when vulnerability volume breaks records"
-    },
-    {
-      "added_at": 1791850683.832798,
-      "ai": true,
-      "id": "6808aefe9d95a3e16674aedad9ea97053ee0d799",
-      "link": "https://www.welivesecurity.com/en/cybersecurity/inside-inbox-cybercriminals-want-break-email-account/",
-      "published": 1782723000.0,
-      "source": "WeLiveSecurity",
-      "summary": "Email accounts function as identity systems, making them attractive targets for cybercriminals. The article explains why attackers seek to compromise inboxes. It outlines the potential downstream risks.",
-      "tags": [],
-      "title": "Inside the inbox: Why cybercriminals want to break into your email account"
-    },
-    {
       "added_at": 1791899284.1254113,
       "ai": true,
       "id": "1a9fdc2dc47360c86b9a6ae0c27051321f604e51",
@@ -2291,6 +1819,453 @@
       "summary": "CISA warned that the actively exploited Ivanti Connect Secure vulnerability (CVE-2026-104935) had been used in 105 exploit attempts logged by honeypots. Organizations were advised to update to the latest version immediately to mitigate the risk.",
       "tags": [],
       "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts"
+    },
+    {
+      "added_at": 1792062134.6037123,
+      "ai": true,
+      "id": "a2edcd5d5132a1591e9e40b887435acc5928f737",
+      "link": "https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/",
+      "published": 1792061031.0,
+      "source": "Help Net Security",
+      "summary": "CISA added four new vulnerabilities to its KEV catalog. CVE-2026-0322 is a high‑severity RCE in Palo Alto PAN‑OS. CVE-2026-76519 is a critical relative‑path traversal in Cisco SEG. CVE-2026-105133 affects Ahsay products.",
+      "tags": [],
+      "title": "CISA flags exploited flaws in Palo Alto, Cisco and Ahsay products"
+    },
+    {
+      "added_at": 1792062134.6037123,
+      "ai": true,
+      "id": "b5878f01eb586193d6ede5dd85cbb564d9527243",
+      "link": "https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html",
+      "published": 1792060936.0,
+      "source": "The Hacker News",
+      "summary": "India requires telecom providers to display callers' registered names on 4G and newer networks from November 1, 2026. The rule aims to reduce spam and fraud by helping users identify unknown callers.",
+      "tags": [],
+      "title": "India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1"
+    },
+    {
+      "added_at": 1792062134.6037123,
+      "ai": true,
+      "id": "769245e47af181d8da5abeb8b21592201a77f16d",
+      "link": "https://www.theregister.com/security/2026/10/15/us-air-force-pilots-used-malware-laden-usb-drives-to-plan-afghanistan-missions/5303156",
+      "published": 1792060200.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "US Air Force pilots used USB drives infected with malware to plan missions in Afghanistan. The incident highlights an insider threat involving compromised hardware.",
+      "tags": [],
+      "title": "US Air Force pilots used malware-laden USB drives to plan Afghanistan missions"
+    },
+    {
+      "added_at": 1792062134.6037123,
+      "ai": true,
+      "id": "b554bfcb0729dc100851e225bfa00ede8cf4f2d9",
+      "link": "https://www.securityweek.com/novel-android-banking-rat-hirudo-replaces-banking-apps-with-trojanized-copies/",
+      "published": 1792059332.0,
+      "source": "SecurityWeek",
+      "summary": "Hirudo is an Android RAT that replaces legitimate banking apps with trojanized copies. It combines banking trojan functionality with full‑featured RAT capabilities.",
+      "tags": [],
+      "title": "Novel Android RAT ‘Hirudo’ Replaces Banking Apps With Trojanized Copies"
+    },
+    {
+      "added_at": 1792062134.6037123,
+      "ai": true,
+      "id": "60d41e7e44e9c502ca7293e6e79321e1e9318646",
+      "link": "https://www.helpnetsecurity.com/2026/10/15/microsoft-disrupting-phishing-kits-marketplace-yam-store/",
+      "published": 1792059021.0,
+      "source": "Help Net Security",
+      "summary": "Microsoft, with Resecurity, disrupted a criminal marketplace supplying phishing kits and cloud accounts. The network was used to send over a billion scam messages targeting healthcare, finance, wholesale, and IT sectors worldwide.",
+      "tags": [],
+      "title": "Microsoft disrupts phishing network behind more than a billion scam messages"
+    },
+    {
+      "added_at": 1792062134.6037123,
+      "ai": true,
+      "id": "542b70b8a5d0bee51f11b7e61d0fdf16cdc6fc6a",
+      "link": "https://portswigger.net/blog/burp-at-whats-new-since-black-hat",
+      "published": 1792058981.0,
+      "source": "PortSwigger Blog",
+      "summary": "Burp AT has received updates since its Black Hat launch. New features and improvements have been announced to enhance security testing.",
+      "tags": [
+        "#appsec"
+      ],
+      "title": "Burp AT: What's new since Black Hat"
+    },
+    {
+      "added_at": 1792062134.6037123,
+      "ai": true,
+      "id": "de29e2c837fdc168e70ab5000faa16374d8791c3",
+      "link": "https://www.infosecurity-magazine.com/news/microsoft-yam-store-one-billion/",
+      "published": 1792058400.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "Microsoft and partners exposed a Chinese‑language phishing network centered on the Yam Store marketplace. The network was responsible for about one billion phishing messages.",
+      "tags": [],
+      "title": "Microsoft Disrupts Global Yam Store Network Behind One Billion Phishing Messages"
+    },
+    {
+      "added_at": 1792062134.6037123,
+      "ai": true,
+      "id": "950d0b7bf2d0cc5000a618c2de1c5567ed6c4803",
+      "link": "https://cyberscoop.com/adfection-zero-click-spyware-discover-tech/",
+      "published": 1792058400.0,
+      "source": "CyberScoop",
+      "summary": "Researchers found mercenary spyware can infiltrate devices via targeted advertising. The attacks raise concerns for the online advertising ecosystem and regulators.",
+      "tags": [],
+      "title": "AdFection: How mercenary spyware invades victims’ devices through targeted advertising"
+    },
+    {
+      "added_at": 1792062134.6037123,
+      "ai": true,
+      "id": "fbda5a8420ddcdb15c9b963a457e16e740183784",
+      "link": "https://www.securityweek.com/centerpoint-energy-data-breach-impacts-1-million-texans/",
+      "published": 1792058119.0,
+      "source": "SecurityWeek",
+      "summary": "CenterPoint Energy's data breach exposed names, addresses, SSNs, and driver’s license numbers of roughly 1 million Texans. The incident highlights the risk to utility customer data.",
+      "tags": [],
+      "title": "CenterPoint Energy Data Breach Impacts 1 Million Texans"
+    },
+    {
+      "added_at": 1792062134.6037123,
+      "ai": true,
+      "id": "9fced633ccd9128ac5a640526597f61fbf0f328c",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/15/uk-keeps-ai-safeguards-in-the-maybe-pile-for-cyber-security-bill/5303026",
+      "published": 1792055700.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "UK lawmakers continue to consider AI safeguards in the Cyber Security Bill. A minister pledged action, but amendments remain under review.",
+      "tags": [],
+      "title": "UK keeps AI safeguards in the maybe pile for Cyber Security BIll"
+    },
+    {
+      "added_at": 1792062134.6037123,
+      "ai": true,
+      "id": "080d6dd1dc1fdb26f090abee739078dce914dafa",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/",
+      "published": 1792055420.0,
+      "source": "BleepingComputer",
+      "summary": "Microsoft resolved a bug that caused black screens and Explorer crashes after Windows 11 updates released since August.",
+      "tags": [],
+      "title": "Microsoft fixes bug causing Windows black screens, Explorer crashes"
+    },
+    {
+      "added_at": 1792062134.6037123,
+      "ai": true,
+      "id": "1d72630baefb75287b77a2db9d0c6a9242b01e05",
+      "link": "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html",
+      "published": 1792053910.0,
+      "source": "The Hacker News",
+      "summary": "The GhostAction credential‑theft campaign compromised about 1,900 GitHub accounts, targeting over 30,000 repositories and extracting 3,174 secrets from public CI pipelines.",
+      "tags": [],
+      "title": "GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories"
+    },
+    {
+      "added_at": 1792062134.6037123,
+      "ai": true,
+      "id": "0db65351a44dfbf2774e54a3b0c1b8ba73a32abf",
+      "link": "https://www.infosecurity-magazine.com/news/ico-reprimands-met-over-thirdparty/",
+      "published": 1792053000.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "The ICO issued a reprimand and enforcement notice to the Metropolitan Police for privacy failures related to the Auror platform.",
+      "tags": [],
+      "title": "ICO Reprimands Met Over Third-Party Data Leak"
+    },
+    {
+      "added_at": 1792062134.6037123,
+      "ai": true,
+      "id": "7278d7ea9fdc812d71d01622ffa394cf51503de5",
+      "link": "https://www.securityweek.com/ciso-conversations-james-robinson-many-jobs-one-journey-to-netskope-ciso/",
+      "published": 1792052800.0,
+      "source": "SecurityWeek",
+      "summary": "James Robinson, who previously held a deputy CISO role, now leads security at Netskope after a career spanning seven companies.",
+      "tags": [],
+      "title": "CISO Conversations: James Robinson – Many Jobs, One Journey to Netskope CISO"
+    },
+    {
+      "added_at": 1792062134.6037123,
+      "ai": true,
+      "id": "9d7e0c21485d6346e291697c5ff34d65d712642f",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/",
+      "published": 1792051607.0,
+      "source": "BleepingComputer",
+      "summary": "Hackers breached the UK Legal Aid Agency in April 2025 and stole records dating back to 1978.",
+      "tags": [],
+      "title": "UK Legal Aid Agency: Hackers stole records dating back to 1978"
+    },
+    {
+      "added_at": 1792062134.6037123,
+      "ai": true,
+      "id": "b3b29f01540659f689779500b6d495eff4f76f1a",
+      "link": "https://www.helpnetsecurity.com/2026/10/15/optro-grc-intelligence-platform/",
+      "published": 1792050234.0,
+      "source": "Help Net Security",
+      "summary": "Optro expanded its autonomous AI agents for governance, risk, and compliance workflows, ensuring all actions are logged for auditability.",
+      "tags": [],
+      "title": "Optro automates GRC workflows with auditable AI agents"
+    },
+    {
+      "added_at": 1792062134.6037123,
+      "ai": true,
+      "id": "86d6db3d97df3c96696c261ce7da2986c1e7d386",
+      "link": "https://www.helpnetsecurity.com/2026/10/15/qualys-trurisk-eliminate-2-0-truconfidence/",
+      "published": 1792049501.0,
+      "source": "Help Net Security",
+      "summary": "Qualys launched TruRisk Eliminate 2.0 with TruConfidence, a remediation intelligence engine designed for autonomous RemOps.",
+      "tags": [],
+      "title": "Qualys introduces TruConfidence to orchestrate cyber risk remediation"
+    },
+    {
+      "added_at": 1792062134.6037123,
+      "ai": true,
+      "id": "6e383188c8f312a9d40fe38cc0b2692a1b102311",
+      "link": "https://www.theregister.com/security/2026/10/15/metropolitan-polices-unchecked-use-of-shoplifting-platform-lands-force-in-trouble-with-data-watchdog/5303061",
+      "published": 1792049400.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "Metropolitan Police officers uploaded 179 individuals’ details to the Auror platform without required privacy checks, attracting scrutiny from the data watchdog.",
+      "tags": [],
+      "title": "Metropolitan Police's unchecked use of shoplifting platform lands force in trouble with data watchdog"
+    },
+    {
+      "added_at": 1792062134.6037123,
+      "ai": true,
+      "id": "50367ee6ae87dcd5e1b39b493e658ad9d82660d1",
+      "link": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html",
+      "published": 1792048025.0,
+      "source": "The Hacker News",
+      "summary": "A critical authenticated remote code execution flaw (CVE-2026-105740) in Langflow was targeted in 1,423 honeypot exploit attempts.",
+      "tags": [],
+      "title": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts"
+    },
+    {
+      "added_at": 1792062134.6037123,
+      "ai": true,
+      "id": "c86f8dee64ea51e31099c2880ffb5e111f6d4cc3",
+      "link": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware",
+      "published": 1792047600.0,
+      "source": "darkreading",
+      "summary": "EU grocers suffered millions of dollars in losses when third‑party vendors managed outdated OT firmware on their refrigeration systems.",
+      "tags": [],
+      "title": "EU Grocers Pay a Steep Price for Unpatched Fridge Firmware"
+    },
+    {
+      "added_at": 1792062134.6037123,
+      "ai": true,
+      "id": "0ec6dac3321659dc4ecd782e1cbd1ee347ac263d",
+      "link": "https://www.securityweek.com/palo-alto-networks-patches-pan-os-zero-day-exploited-for-remote-code-execution/",
+      "published": 1792047594.0,
+      "source": "SecurityWeek",
+      "summary": "Palo Alto Networks released patches for a PAN‑OS zero‑day that enabled remote code execution. The company confirmed limited exploitation and provided indicators of compromise.",
+      "tags": [],
+      "title": "Palo Alto Networks Patches PAN-OS Zero-Day Exploited for Remote Code Execution"
+    },
+    {
+      "added_at": 1792062134.6037123,
+      "ai": true,
+      "id": "a713f2422da2706fcb2511499fd511e0d0b80a19",
+      "link": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html",
+      "published": 1792046588.0,
+      "source": "The Hacker News",
+      "summary": "Ahsay Backup issued updates for CVE‑2026‑105133 and CVE‑2026‑105134, which were used to drop web shells and XMRig miners. The flaws allowed authentication bypass and arbitrary command execution.",
+      "tags": [],
+      "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches"
+    },
+    {
+      "added_at": 1792062134.6037123,
+      "ai": true,
+      "id": "8bed3c35c1a5ef607482c8d008d6dae9a66afc11",
+      "link": "https://www.securityweek.com/cisco-warns-of-exploited-secure-email-gateway-vulnerability/",
+      "published": 1792046055.0,
+      "source": "SecurityWeek",
+      "summary": "Cisco warned of an unauthenticated vulnerability in its Secure Email Gateway that lets attackers write arbitrary files and execute commands with root privileges.",
+      "tags": [],
+      "title": "Cisco Warns of Exploited Secure Email Gateway Vulnerability"
+    },
+    {
+      "added_at": 1792062134.6037123,
+      "ai": true,
+      "id": "a3bbfb3873528e2cb5b1386e963871b5fc9323eb",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/15/jev-and-other-decision-models-can-still-be-tricked-with-prompt-injection/5303184",
+      "published": 1792045680.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "Research shows that decision models such as Jev can still be tricked by prompt injection attacks, indicating that avoiding type errors does not eliminate all vulnerabilities.",
+      "tags": [],
+      "title": "Jev and other decision models can still be tricked with prompt injection"
+    },
+    {
+      "added_at": 1792062134.6037123,
+      "ai": true,
+      "id": "fc3053d7e094c0e62c244195c2a2e83e62c70539",
+      "link": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
+      "published": 1792045078.0,
+      "source": "The Hacker News",
+      "summary": "Palo Alto Networks patched CVE‑2026‑0322, a high‑severity authenticated RCE flaw in the PAN‑OS management interface, which was actively exploited.",
+      "tags": [],
+      "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation"
+    },
+    {
+      "added_at": 1792062134.6037123,
+      "ai": true,
+      "id": "6bef8c5bb894acb7150bb90e71f8274a441ae026",
+      "link": "https://www.helpnetsecurity.com/2026/10/15/michael-scott-immuta-ai-agent-permissions/",
+      "published": 1792042227.0,
+      "source": "Help Net Security",
+      "summary": "Immuta CISO Michael Scott predicts that AI agents could trigger critical incidents in major enterprises within 18 months if permissions are not tightly controlled, highlighting lower‑trust identities and privilege creep.",
+      "tags": [],
+      "title": "Immuta CISO predicts critical AI incidents at major enterprises within 18 months"
+    },
+    {
+      "added_at": 1792062134.6037123,
+      "ai": true,
+      "id": "2a1cef5cea05220cc7e842a26d66053cc05bd8bf",
+      "link": "https://www.helpnetsecurity.com/2026/10/15/exposed-ai-infrastructure-report/",
+      "published": 1792040402.0,
+      "source": "Help Net Security",
+      "summary": "Censys data reveals that AI‑related public‑internet exposure grew 63% over nine months, while industrial control system exposure increased only 4% over two and a half years, showing uneven attack surface growth.",
+      "tags": [],
+      "title": "The internet’s attack surface moves at very different speeds"
+    },
+    {
+      "added_at": 1792062134.6037123,
+      "ai": true,
+      "id": "7ca19f22fe3774f38e0c7e9084c45f4915930c89",
+      "link": "https://www.helpnetsecurity.com/2026/10/15/jetbrains-ai-software-delivery-report/",
+      "published": 1792038650.0,
+      "source": "Help Net Security",
+      "summary": "JetBrains reports that 83.4% of DevOps teams use CI/CD pipelines, which remain central to delivery but can create bottlenecks when AI‑generated changes require additional review.",
+      "tags": [],
+      "title": "AI-generated changes create review bottlenecks in software delivery"
+    },
+    {
+      "added_at": 1792062134.6037123,
+      "ai": true,
+      "id": "03c50c316d788d102bc2b0f4c56c491613ff0cc8",
+      "link": "https://www.helpnetsecurity.com/2026/10/15/product-showcase-guardos/",
+      "published": 1792036808.0,
+      "source": "Help Net Security",
+      "summary": "GuardOS is an iPhone app that provides device security checks, VPN access, Safari content filtering, QR link scanning, and storage cleanup, available on the App Store.",
+      "tags": [],
+      "title": "Product showcase: GuardOS checks QR links, scans for data breaches, and filters Safari content"
+    },
+    {
+      "added_at": 1792062134.6037123,
+      "ai": true,
+      "id": "4f678ae197795f077ce3bb070ece653b2a9be521",
+      "link": "https://grahamcluley.com/smashing-security-podcast-488/",
+      "published": 1792019202.0,
+      "source": "GRAHAM CLULEY",
+      "summary": "The Smashing Security podcast discusses a ransomware negotiator arrested by the FBI at a cybersecurity conference and covers related incidents such as the ShinyHunters gang and an ASOS app hack.",
+      "tags": [],
+      "title": "Smashing Security podcast #488: How a ransomware negotiator ended up arrested at his own conference"
+    },
+    {
+      "added_at": 1792062134.6037123,
+      "ai": true,
+      "id": "cb4f3bcbd54dc702586b15e7807cfca5c63c9c82",
+      "link": "https://therecord.media/ukraine-says-starshield-working-again-after-disruption",
+      "published": 1792018800.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "Ukraine’s military has regained partial use of SpaceX’s Starshield satellite service after restrictions disrupted drone operations along the front line.\nThe restoration allows continued support for moving drone missions.",
+      "tags": [
+        "#news"
+      ],
+      "title": "Ukraine says Elon Musk's Starshield service partially restored after restrictions disrupted drone missions"
+    },
+    {
+      "added_at": 1792062134.6037123,
+      "ai": true,
+      "id": "c9a3f02d710caec5c4ab4165d9642977a33b261a",
+      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
+      "published": 1792018607.0,
+      "source": "BleepingComputer",
+      "summary": "Palo Alto Networks released patches for a high‑severity PAN‑OS remote code execution flaw (CVE‑2026‑0322) that is actively exploited against firewalls.\nThe update addresses the vulnerability to prevent further attacks.",
+      "tags": [],
+      "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks"
+    },
+    {
+      "added_at": 1792062134.6037123,
+      "ai": true,
+      "id": "f92c56fe800f3f5c376892e426466fa3eb639991",
+      "link": "https://unit42.paloaltonetworks.com/fortimanager-cve-2024-47575-peerstitch-malware/",
+      "published": 1792015244.0,
+      "source": "Unit 42",
+      "summary": "Unit 42 identified PEERSTITCH, a memory‑resident ARM64 malware deployed on FortiGate firewalls via CVE‑2024‑47575.\nThe implant affected more than 500 devices worldwide.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant"
+    },
+    {
+      "added_at": 1792062134.6037123,
+      "ai": true,
+      "id": "9073d40bed09ec1d8da22eab87ed8897f0de5f39",
+      "link": "https://cyberscoop.com/olvx-cybercrime-marketplace-operator-charged-north-macedonia/",
+      "published": 1792014031.0,
+      "source": "CyberScoop",
+      "summary": "North Macedonian authorities arrested a 20‑year‑old operator of the OLVX cybercrime marketplace.\nThe marketplace had generated over $500,000 in illicit sales since 2023.",
+      "tags": [],
+      "title": "Authorities charge alleged OLVX cybercrime marketplace operator in North Macedonia"
+    },
+    {
+      "added_at": 1792062134.6037123,
+      "ai": true,
+      "id": "f27922db894b417042e37b9317a8d9439b3d0075",
+      "link": "https://www.theregister.com/security/2026/10/14/cisco-make-me-root-email-bug-exploited-as-a-0-day-by-unknown-crims/5303168",
+      "published": 1792014029.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "A critical “make‑me‑root” vulnerability in Cisco email software was exploited as a zero‑day by unknown actors.\nSwitchzilla and CISA issued alerts to mitigate the threat.",
+      "tags": [],
+      "title": "Cisco make-me-root email bug exploited as a 0-day by unknown crims"
+    },
+    {
+      "added_at": 1792062134.6037123,
+      "ai": true,
+      "id": "e1c5b3e9fc3c2f66a9be13102e74e21fd746263b",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching",
+      "published": 1792012813.0,
+      "source": "darkreading",
+      "summary": "Ivanti’s CVE‑2026‑104935 authentication bypass and RCE vulnerability was only partially patched in July.\nThe incomplete fix left systems exposed to potential exploitation.",
+      "tags": [],
+      "title": "Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles"
+    },
+    {
+      "added_at": 1792062134.6037123,
+      "ai": true,
+      "id": "01ccdefefe75bf15fd34c2ef2966af9f73168cf3",
+      "link": "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html",
+      "published": 1791980016.0,
+      "source": "The Hacker News",
+      "summary": "curl fixed an HTTP/2 upload flaw that allowed a malicious server to corrupt client memory and achieve code execution.\nThe issue was addressed in curl 8.23.0 released on October 14.",
+      "tags": [],
+      "title": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution"
+    },
+    {
+      "added_at": 1792062134.6037123,
+      "ai": true,
+      "id": "de7e4a82bb7fc2570ee61fa580f3a862b28bf677",
+      "link": "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html",
+      "published": 1791978600.0,
+      "source": "The Hacker News",
+      "summary": "A structured deepfake readiness drill helps security teams identify verification gaps before a cloned voice or synthetic video can manipulate staff.\nThe exercise simulates scenarios such as a CFO impersonation to test response protocols.",
+      "tags": [],
+      "title": "How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team"
+    },
+    {
+      "added_at": 1792062134.6037123,
+      "ai": true,
+      "id": "0602ed16425a9a84e2b67713a3227fe916e8a8a5",
+      "link": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
+      "published": 1791978080.0,
+      "source": "BleepingComputer",
+      "summary": "Hirudo Android malware hijacks banking apps by replacing them with modified versions that disable security checks.\nThis enables credential theft from unsuspecting users.",
+      "tags": [],
+      "title": "Hirudo Android malware replaces banking apps to evade security checks"
+    },
+    {
+      "added_at": 1792062134.6037123,
+      "ai": true,
+      "id": "cb8d7c0fa36772afd0b83af001e68a5b45eaf311",
+      "link": "https://www.welivesecurity.com/en/scams/medicare-open-enrollment-season-scams/",
+      "published": 1791968400.0,
+      "source": "WeLiveSecurity",
+      "summary": "During Medicare Open Enrollment, fraudsters use calls, texts, and ads to impersonate legitimate outreach.\nUsers should verify authenticity to protect personal information.",
+      "tags": [],
+      "title": "Medicare scam calls, texts and ads: What to watch for this Open Enrollment"
     }
   ],
   "posted": []
