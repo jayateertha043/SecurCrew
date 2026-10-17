@@ -1,469 +1,6 @@
 {
   "pending": [
     {
-      "added_at": 1792012975.347926,
-      "ai": true,
-      "id": "e634a1670f02cf9e43a3092b9d4ad71cb86643df",
-      "link": "https://therecord.media/olvx-cybercrime-marketplace-arrest-north-macedonia",
-      "published": 1792012200.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "North Macedonian police arrested the suspected administrator of the OLVX cybercrime market.\nThe raid was conducted with FBI assistance.\nThe Interior Ministry confirmed the arrest.",
-      "tags": [
-        "#news"
-      ],
-      "title": "North Macedonian police arrest alleged administrator behind OLVX cybercrime market"
-    },
-    {
-      "added_at": 1792012975.347926,
-      "ai": true,
-      "id": "b0a791a97e86668c88a89a937bee020067cda8b9",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/yam-store-phishing-network-behind-billion-messages",
-      "published": 1792011436.0,
-      "source": "darkreading",
-      "summary": "Yam Store supplied cloud infrastructure and phishing kits to a cybercrime marketplace.\nThe network helped generate over 1 billion phishing messages worldwide.\nThe operation was uncovered by investigators.",
-      "tags": [],
-      "title": "Yam Store: The Phishing Network Behind a Billion Messages"
-    },
-    {
-      "added_at": 1792012975.347926,
-      "ai": true,
-      "id": "f2c5c74b7401be58c6e4442a94b91b74eac4a1de",
-      "link": "https://therecord.media/brooklyn-da-server-takedowns-crypto-scam-russian-speakers",
-      "published": 1792009980.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "Brooklyn DA's office dismantled a cryptocurrency fraud scheme targeting Russian-speaking residents.\nThe operation followed tips from the community.\nServers and domains associated with the scam were taken down.",
-      "tags": [
-        "#news"
-      ],
-      "title": "Brooklyn DA’s office disrupts crypto scam targeting Russian community"
-    },
-    {
-      "added_at": 1792012975.347926,
-      "ai": true,
-      "id": "7f55a7a9001ea1149f3907b8e4a32941a2026bb1",
-      "link": "https://www.darkreading.com/threat-intelligence/new-anthropic-sneakpeek-silent-zero-click-threat",
-      "published": 1792008582.0,
-      "source": "darkreading",
-      "summary": "A bug in Claude Code Desktop's preview pane can silently steal credentials.\nThe flaw exposes SSH private keys, AWS credentials, and Claude 0Auth tokens.\nNo user interaction is required.",
-      "tags": [],
-      "title": "Anthropic 'SneakPeek' Flaw Is a Silent Zero-Click Threat"
-    },
-    {
-      "added_at": 1792012975.347926,
-      "ai": true,
-      "id": "8ab3c51ec37145657c09b41052a3a315adff42cb",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/",
-      "published": 1792006903.0,
-      "source": "BleepingComputer",
-      "summary": "The DOJ disrupted the Famous Chollima threat group by arresting two suspects and charging 14 individuals.\nNearly 187 laptops used in North Korean remote IT worker schemes were seized.\nThe operation targeted U.S. nationals.",
-      "tags": [],
-      "title": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested"
-    },
-    {
-      "added_at": 1792012975.347926,
-      "ai": true,
-      "id": "24b402916fcefe4051f1c975aeca6c83bf137d82",
-      "link": "https://www.theregister.com/security/2026/10/14/security-researchers-spent-6-days-doing-their-chromework-built-1b-user-exploit/5303134",
-      "published": 1792005153.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "Security researchers spent six days developing a Chrome-based exploit that could affect 1 billion users.\nThey earned a $250,000 bug bounty.\nThe researchers received a t‑shirt as a reward.",
-      "tags": [],
-      "title": "Security researchers spent 6 days doing their Chromework, built 1B user exploit"
-    },
-    {
-      "added_at": 1792012975.347926,
-      "ai": true,
-      "id": "976f4f5fb239546a1517e32db6d8451af1e92a48",
-      "link": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
-      "published": 1792003136.0,
-      "source": "The Hacker News",
-      "summary": "Cisco identified a critical flaw in its Secure Email Gateway that allows unauthenticated senders to write files to the appliance.\nAttackers can send crafted attachments to gain root access.\nThe vulnerability is actively exploited.",
-      "tags": [],
-      "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability"
-    },
-    {
-      "added_at": 1792012975.347926,
-      "ai": true,
-      "id": "91d989b5fb66289f25dcd19101e48e7c41a9462b",
-      "link": "https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/",
-      "published": 1792000010.0,
-      "source": "BleepingComputer",
-      "summary": "Ledger requested resellers in several Asian countries to suspend wallet sales and remove devices from shelves.\nThe request follows a supply‑chain attack that tampered with devices.\nLedger is investigating the tampering.",
-      "tags": [],
-      "title": "Ledger asks sellers across Asia to halt sales after supply-chain attack"
-    },
-    {
-      "added_at": 1792012975.347926,
-      "ai": true,
-      "id": "d14c3879250e68f23c4c692c9591e5151aec5ccc",
-      "link": "https://cyberscoop.com/microsoft-patch-tuesday-october-2026/",
-      "published": 1791999731.0,
-      "source": "CyberScoop",
-      "summary": "Microsoft's October Patch Tuesday addressed 1,413 vulnerabilities, the highest on record.\nNearly 80 % affected Windows.\nAn actively exploited zero‑day was among the patches.",
-      "tags": [],
-      "title": "Microsoft drops an actively exploited zero-day among record high of 1,413 vulnerabilities"
-    },
-    {
-      "added_at": 1792012975.347926,
-      "ai": true,
-      "id": "639d0d6e00a7eca3d11d5db60af7d3290bccdcaa",
-      "link": "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
-      "published": 1791999511.0,
-      "source": "The Hacker News",
-      "summary": "Attackers exploited a flaw in Collabora Online's CODE Server to plant web shells on Nextcloud servers.\nThe first logged attack occurred on September 10.\nThe vulnerability allows execution of arbitrary commands via web requests.",
-      "tags": [],
-      "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App"
-    },
-    {
-      "added_at": 1792012975.347926,
-      "ai": true,
-      "id": "a7632caf16a4605d27df4528f53061a322227984",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/",
-      "published": 1791998954.0,
-      "source": "BleepingComputer",
-      "summary": "Cisco released a patch for a zero‑day vulnerability in its Secure Email Gateway that allowed unauthenticated remote attackers to execute commands with root privileges.\nThe flaw was actively exploited in the wild before the fix was issued.",
-      "tags": [],
-      "title": "Cisco patches new Secure Email Gateway zero-day exploited in attacks"
-    },
-    {
-      "added_at": 1792012975.347926,
-      "ai": true,
-      "id": "6051d8ed862c2daf34ecd90086dfa2965ce5d68f",
-      "link": "https://www.theregister.com/security/2026/10/14/ivanti-patches-connect-secure-zero-day-after-researchers-confirm-in-the-wild-attacks/5303095",
-      "published": 1791998100.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "Ivanti announced a fix for a privilege‑escalation flaw in Connect Secure.\nResearchers confirmed the vulnerability was being used in the wild, and the vendor will provide a patch in the coming weeks.",
-      "tags": [],
-      "title": "Ivanti patches Connect Secure zero-day after researchers confirm in-the-wild attacks"
-    },
-    {
-      "added_at": 1792012975.347926,
-      "ai": true,
-      "id": "78b0d9b2dfa117c3a73cc06145b37d273d7ebbc4",
-      "link": "https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html",
-      "published": 1791997755.0,
-      "source": "The Hacker News",
-      "summary": "Microsoft, Health‑ISAC, JC3, and a coalition of private sector partners disrupted three phishing kits—CoGUI, Haozi, and Iron Man System.\nThese kits have generated over 1 billion scam messages since January 2026.",
-      "tags": [],
-      "title": "Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages"
-    },
-    {
-      "added_at": 1792012975.347926,
-      "ai": true,
-      "id": "045289937798f189898d9d5bcbf5a72176a09f51",
-      "link": "https://therecord.media/spyware-manufacturer-had-access-to-data-harvested-by-previous-polish-government",
-      "published": 1791996600.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "Polish Prime Minister Donald Tusk said a spyware operation run by the former ruling party accessed data collected by the previous Polish government.\nHe described the activity as one of the biggest scandals in Polish history since the fall of communism.",
-      "tags": [
-        "#news"
-      ],
-      "title": "Spyware manufacturer had access to data harvested by former Polish government, current PM says"
-    },
-    {
-      "added_at": 1792012975.347926,
-      "ai": true,
-      "id": "f47fa401827130f446e9e1b700857d1d75adeba3",
-      "link": "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html",
-      "published": 1791995671.0,
-      "source": "The Hacker News",
-      "summary": "The U.S. Department of Justice charged 14 individuals and seized 187 computers in a crackdown on a North Korean IT‑worker fraud scheme.\nThe indictment alleges the conspiracy affected more than 70 U.S. companies through wire‑fraud and money‑laundering charges.",
-      "tags": [],
-      "title": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud"
-    },
-    {
-      "added_at": 1792012975.347926,
-      "ai": true,
-      "id": "4d5b36d13b300c3b0d8b544940b993f46b07c6dc",
-      "link": "https://www.schneier.com/blog/archives/2026/10/upcoming-speaking-engagements-61.html",
-      "published": 1791993737.0,
-      "source": "Schneier on Security",
-      "summary": "The speaker will present at Democracy Rebuilt in Montreal (Oct 21‑23), the University of Toronto (Oct 22), and [un]prompted in San Francisco (Oct 27‑29).",
-      "tags": [
-        "#opinion"
-      ],
-      "title": "Upcoming Speaking Engagements"
-    },
-    {
-      "added_at": 1792012975.347926,
-      "ai": true,
-      "id": "e2e487f81c3d6eb668738926073a0a5c199007eb",
-      "link": "https://www.securityweek.com/ai-agents-navigate-unfamiliar-ot-systems-and-move-equipment-in-minutes-booz-allen-finds/",
-      "published": 1791993600.0,
-      "source": "SecurityWeek",
-      "summary": "Booz Allen research shows AI agents can navigate unfamiliar operational technology environments and move equipment within 16 minutes after a perimeter compromise.\nThe study used an isolated OT lab with eight scenarios to test the models.",
-      "tags": [],
-      "title": "AI Agents Navigate Unfamiliar OT Systems and Move Equipment in Minutes, Booz Allen Finds"
-    },
-    {
-      "added_at": 1792012975.347926,
-      "ai": true,
-      "id": "f0efb52b806cdecef9f2a7b8b3a7437c1c7347c9",
-      "link": "https://www.securityweek.com/ics-patch-tuesday-siemens-issues-17-advisories-rockwell-fixes-armorblock-takeover-flaw/",
-      "published": 1791990915.0,
-      "source": "SecurityWeek",
-      "summary": "Siemens issued 17 advisories during Patch Tuesday, while Rockwell addressed a takeover flaw in its ArmorBlock product.\nABB also warned about potential probing of a dynovaPRO vulnerability.",
-      "tags": [],
-      "title": "ICS Patch Tuesday: Siemens Issues 17 Advisories, Rockwell Fixes ArmorBlock Takeover Flaw"
-    },
-    {
-      "added_at": 1792012975.347926,
-      "ai": true,
-      "id": "7a224cbe0db0b27581a48920036b72b191b94309",
-      "link": "https://cyberscoop.com/congress-presses-trump-administration-ai-safety-cybersecurity/",
-      "published": 1791990691.0,
-      "source": "CyberScoop",
-      "summary": "Senators urged the Trump administration to enforce stricter AI testing, safety standards, and defensive AI across federal agencies.\nThey called for more rigorous evaluation of AI models for security threats and sandbox evasion.",
-      "tags": [],
-      "title": "Senators press Trump admin to rally federal government around AI safety, security"
-    },
-    {
-      "added_at": 1792012975.347926,
-      "ai": true,
-      "id": "fac7cd6e29f5b58e54653525d3458960537cdb36",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/",
-      "published": 1791988021.0,
-      "source": "BleepingComputer",
-      "summary": "Microsoft resolved an issue that caused Always On VPN connections to fail after installing the September 2026 Windows 11 security updates.\nThe fix restores VPN functionality for affected users.",
-      "tags": [],
-      "title": "Microsoft fixes VPN issues caused by September Windows updates"
-    },
-    {
-      "added_at": 1792012975.347926,
-      "ai": true,
-      "id": "6bb19fd6562cc725ef8f98a0c501c4816af92dfb",
-      "link": "https://www.schneier.com/blog/archives/2026/10/the-future-of-ai-cryptanalysis.html",
-      "published": 1791987858.0,
-      "source": "Schneier on Security",
-      "summary": "Matthew Green has expressed pessimism about AI surpassing humans in cryptanalysis. The author disagrees, citing cryptographers' over-engineering, and plans a detailed write‑up.",
-      "tags": [
-        "#opinion"
-      ],
-      "title": "The Future of AI Cryptanalysis"
-    },
-    {
-      "added_at": 1792012975.347926,
-      "ai": true,
-      "id": "78394b2e6b36c2856a85b2231c39ddee2611e7f0",
-      "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
-      "published": 1791987769.0,
-      "source": "Krebs on Security",
-      "summary": "The United Kingdom has imposed sanctions on Cryptomus, a cryptocurrency platform linked to ransomware, narcotics, darknet markets, fraud, and cybercrime that aids Russia in evading financial restrictions.",
-      "tags": [],
-      "title": "U.K. Sanctions Cryptomus for RU Money Laundering"
-    },
-    {
-      "added_at": 1792012975.347926,
-      "ai": true,
-      "id": "7bf6f5bbc65c05af2dbc7d4738e6aa279c64226a",
-      "link": "https://www.schneier.com/blog/archives/2026/10/cyberattack-on-connected-fridges-in-france.html",
-      "published": 1791987022.0,
-      "source": "Schneier on Security",
-      "summary": "Hackers gained control of the temperature‑regulation software in French supermarket refrigerators, forcing some units to heat to 50 °C overnight, a deviation from normal defrost cycles.",
-      "tags": [
-        "#opinion"
-      ],
-      "title": "Cyberattack on Connected Fridges in France"
-    },
-    {
-      "added_at": 1792012975.347926,
-      "ai": true,
-      "id": "f6b610c18e508db281873e7ace5d1ff97d852f83",
-      "link": "https://www.securityweek.com/harmonic-security-raises-50-million-for-workforce-ai-protection/",
-      "published": 1791986991.0,
-      "source": "SecurityWeek",
-      "summary": "Harmonic Security has raised $50 million to expand its engineering and go‑to‑market teams in the United States and United Kingdom, focusing on workforce AI protection.",
-      "tags": [],
-      "title": "Harmonic Security Raises $50 Million for Workforce AI Protection"
-    },
-    {
-      "added_at": 1792012975.347926,
-      "ai": true,
-      "id": "937c7f4fab21f49cf5a0f9830e26487a2a078282",
-      "link": "https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them/",
-      "published": 1791986410.0,
-      "source": "BleepingComputer",
-      "summary": "AI‑powered penetration testing can miss assets due to safety limits and network constraints; combining it with exposure validation and breach simulation can close these gaps.",
-      "tags": [],
-      "title": "The Blind Spots of Agentic Pentesting and How to Close Them"
-    },
-    {
-      "added_at": 1792012975.347926,
-      "ai": true,
-      "id": "7ce538eab969da7b625abd46cba277aeba6818f2",
-      "link": "https://www.infosecurity-magazine.com/news/romulus-malware-clickfix-deliver/",
-      "published": 1791986400.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "Forescout researchers found that the ROMULUS malware server uses ClickFix not just as a delivery method but as a full cyber‑criminal infrastructure.",
-      "tags": [],
-      "title": "ROMULUS Malware Server Leverages ClickFix to Deliver Multiple Payloads"
-    },
-    {
-      "added_at": 1792012975.347926,
-      "ai": true,
-      "id": "f25ecccf706526b1875c1fff0719428078073c7a",
-      "link": "https://blog.talosintelligence.com/break-the-silence-kazakhstan-nexus-uat-6275-targets-cis-government-organizations/",
-      "published": 1791986400.0,
-      "source": "Cisco Talos Blog",
-      "summary": "Talos and Recorded Future identified UAT‑6275 activity targeting government organizations across the Commonwealth of Independent States, with additional focus on water resources and energy.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Break the silence: Kazakhstan-nexus UAT-6275 targets CIS government organizations"
-    },
-    {
-      "added_at": 1792012975.347926,
-      "ai": true,
-      "id": "2ee0c0a49b5a2657a0b5c4685b6a56597674195a",
-      "link": "https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/",
-      "published": 1791986196.0,
-      "source": "SecurityWeek",
-      "summary": "A virtual summit today will deliver actionable strategies on next‑generation Zero Trust and identity security, moving beyond theory.",
-      "tags": [],
-      "title": "Virtual Event Today: Zero Trust Strategies Summit"
-    },
-    {
-      "added_at": 1792012975.347926,
-      "ai": true,
-      "id": "4ec11149b02ca77dd707d494d3cc807654e30e18",
-      "link": "https://therecord.media/microsoft-takes-down-3-major-chinese-phishing-platforms",
-      "published": 1791983880.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "Microsoft, with Japan’s National Police Agency and Health‑ISAC, secured a U.S. court order to seize and redirect domains of YAM Store, CoGUI, and Iron Man, major phishing platforms used by Chinese cybercriminals.",
-      "tags": [
-        "#news"
-      ],
-      "title": "Microsoft takes down 3 major phishing platforms used by Chinese cybercriminals"
-    },
-    {
-      "added_at": 1792012975.347926,
-      "ai": true,
-      "id": "91795601b1ffd249b1f5b2d62d6d91ad19f21d7d",
-      "link": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
-      "published": 1791983572.0,
-      "source": "BleepingComputer",
-      "summary": "Law‑enforcement agencies disrupted a global cybercriminal network that sent more than one billion phishing messages to over 75,000 organizations in 150 countries.",
-      "tags": [],
-      "title": "Global takedown hits network behind 1 billion phishing messages"
-    },
-    {
-      "added_at": 1792012975.347926,
-      "ai": true,
-      "id": "a7d7c0f109d9c0c8c196ebc36827abfe97594350",
-      "link": "https://therecord.media/russia-anywayanyday-travel-website-cyberattack",
-      "published": 1791983100.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "Russian travel booking platform Anywayanyday halted ticket and hotel reservations following a cyberattack. Customers could not complete bookings during the incident. The company is investigating the breach.",
-      "tags": [
-        "#news"
-      ],
-      "title": "Russian travel booking platform suspends reservations after cyberattack"
-    },
-    {
-      "added_at": 1792012975.347926,
-      "ai": true,
-      "id": "a1e5b1dc00e9e35a004429833aa776e247e0f4c5",
-      "link": "https://www.helpnetsecurity.com/2026/10/14/north-korean-it-workers-laptop-farms-arrests/",
-      "published": 1791982849.0,
-      "source": "Help Net Security",
-      "summary": "The FBI raided laptop farms in Ohio, Texas, and Pennsylvania linked to North Korean IT workers who used stolen identities to secure remote jobs at over 70 U.S. companies. Several individuals were arrested. The operation targeted the infrastructure enabling the illicit employment scheme.",
-      "tags": [],
-      "title": "FBI raids 40+ laptop farms helping North Korea pocket US tech salaries"
-    },
-    {
-      "added_at": 1792012975.347926,
-      "ai": true,
-      "id": "97663ac4d05ec1873d2ab237a1514705528b60b0",
-      "link": "https://www.helpnetsecurity.com/2026/10/14/tines-it-security-ai-adoption-guide/",
-      "published": 1791982827.0,
-      "source": "Help Net Security",
-      "summary": "A guide examines why AI adoption often fails in IT and security teams, citing issues such as unrealistic expectations, increased complexity, and new risks. It offers a clearer path for evaluating and implementing AI tools in real workflows.",
-      "tags": [],
-      "title": "Download: The IT and security field guide to AI adoption"
-    },
-    {
-      "added_at": 1792012975.347926,
-      "ai": true,
-      "id": "319aa986d3e5a772ed3f063f48073bddaf0dcfbb",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-influence-operation-targeting-latin-america",
-      "published": 1791982800.0,
-      "source": "darkreading",
-      "summary": "An AI-enabled influence operation used spoofed emails, fake government documents, and a fabricated local organization to target schools in Peru and Ecuador, among other Latin American institutions. The campaign aimed to spread misinformation and sow discord.",
-      "tags": [],
-      "title": "Russian Influence Operation Widely Targeting Latin America"
-    },
-    {
-      "added_at": 1792012975.347926,
-      "ai": true,
-      "id": "b9b58f38aa23af333d9ec585257ddf1ebe047253",
-      "link": "https://www.securityweek.com/microsoft-disrupts-chinese-language-phishing-market-behind-1b-messages/",
-      "published": 1791982800.0,
-      "source": "SecurityWeek",
-      "summary": "Microsoft and Health-ISAC seized domains that powered the YAM Store, CoGUI, and Iron Man phishing platforms, disrupting a Chinese-language phishing market that sent over 1 billion malicious messages. The action was authorized by a federal court order.",
-      "tags": [],
-      "title": "Microsoft Disrupts Chinese-Language Phishing Market Behind 1B+ Messages"
-    },
-    {
-      "added_at": 1792012975.347926,
-      "ai": true,
-      "id": "7da1d8e11993ee03726ad18d734bb089e35a9d96",
-      "link": "https://cyberscoop.com/microsoft-disrupts-chinese-language-phishing-kit-ecosystem/",
-      "published": 1791982800.0,
-      "source": "CyberScoop",
-      "summary": "In less than ten months, cybercriminals used customized phishing kits to send more than 1 billion messages to over 75 000 organizations worldwide. Microsoft and partners dismantled the kit ecosystem, reducing the threat to global enterprises.",
-      "tags": [],
-      "title": "Microsoft and partners disrupt vast Chinese-language phishing kit ecosystem"
-    },
-    {
-      "added_at": 1792012975.347926,
-      "ai": true,
-      "id": "a2de7043bd5e42261a0a63dd1ae3a3e238323356",
-      "link": "https://www.rapid7.com/blog/post/ve-breaking-zimbra-identity-boundaries-part-1",
-      "published": 1791982800.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "Rapid7 identified more than 80 vulnerabilities in Zimbra Collaboration Suite that could allow attackers to compromise user authentication, access private communications, and manipulate email workflows. The findings highlight significant risks to organizations using Zimbra.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "From One Account to Every Mailbox: Breaking Zimbra's Identity Boundaries (Part 1)"
-    },
-    {
-      "added_at": 1792012975.347926,
-      "ai": true,
-      "id": "835a57efab96f42461e390e9cf176a2ead93ddde",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/",
-      "published": 1791982687.0,
-      "source": "BleepingComputer",
-      "summary": "CISA urged security teams to patch an Ivanti Connect Secure flaw (CVE-2026-104935) that was actively exploited since October 1. The vulnerability allows authentication bypass and was used in zero‑day attacks against multiple organizations.",
-      "tags": [],
-      "title": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day"
-    },
-    {
-      "added_at": 1792012975.347926,
-      "ai": true,
-      "id": "96569fe71628d69f4bf7196d0a86103ddf80f83c",
-      "link": "https://www.rapid7.com/blog/post/ve-unauthenticated-sql-injection-in-channel-software-weballiance-ecommerce",
-      "published": 1791982025.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "Rapid7 discovered a CVE-2026-108065 SQL injection in Channel Software WebAlliance eCommerce that lets attackers read sensitive data or execute system commands if the database user has high privileges. The flaw was found during continuous red‑teaming exercises.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "Unauthenticated SQL Injection In Channel Software WebAlliance eCommerce"
-    },
-    {
-      "added_at": 1792012975.347926,
-      "ai": true,
-      "id": "c8c2a8e77f0c47d2d688a0479fc2f335b5379c5e",
-      "link": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
-      "published": 1791981042.0,
-      "source": "The Hacker News",
-      "summary": "CISA warned that the actively exploited Ivanti Connect Secure vulnerability (CVE-2026-104935) had been used in 105 exploit attempts logged by honeypots. Organizations were advised to update to the latest version immediately to mitigate the risk.",
-      "tags": [],
-      "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts"
-    },
-    {
       "added_at": 1792062134.6037123,
       "ai": true,
       "id": "a2edcd5d5132a1591e9e40b887435acc5928f737",
@@ -2271,6 +1808,471 @@
       "summary": "Russia‑aligned UAC‑0099 has continuously upgraded its MATCHBOIL downloader since 2024.",
       "tags": [],
       "title": "Russia-Aligned UAC-0099 Evolves MATCHBOIL Malware"
+    },
+    {
+      "added_at": 1792232386.5302942,
+      "ai": true,
+      "id": "b3dabcb4d0c0986ad73ee47e5e64823262340c59",
+      "link": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
+      "published": 1792217806.0,
+      "source": "The Hacker News",
+      "summary": "Unknown threat actors used a compromised ConnectWise Cloud Backup credential to access 173 Microsoft 365 tenants. The credential was originally for a backup service used by managed service providers. Researchers warn of unauthorized access to customer M365 environments.",
+      "tags": [],
+      "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants"
+    },
+    {
+      "added_at": 1792232386.5302942,
+      "ai": true,
+      "id": "566129759a779d83ab362fb0e5a742cc7c0e4511",
+      "link": "https://cyberscoop.com/federal-ai-agent-sandbox-security-guidance/",
+      "published": 1792197242.0,
+      "source": "CyberScoop",
+      "summary": "Federal agencies released guidance recommending cyber controls and independent testing for AI model sandbox environments. The guidance is voluntary but provides detailed security requirements for frontier AI systems. It aims to improve AI system security during testing.",
+      "tags": [],
+      "title": "Federal agencies recommend cyber controls, independent testing for frontier AI systems"
+    },
+    {
+      "added_at": 1792232386.5302942,
+      "ai": true,
+      "id": "fd577205a9bacaa8b58b5ccadcc0234c8456eb27",
+      "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-squid-before-the-chicxulub-meteor-impact.html",
+      "published": 1792184807.0,
+      "source": "Schneier on Security",
+      "summary": "New research shows squid existed worldwide before the Cretaceous-Paleogene extinction event. The study highlights the ancient presence of squid species. The blog also references other security stories not covered.",
+      "tags": [
+        "#opinion"
+      ],
+      "title": "Friday Squid Blogging: Squid Before the Chicxulub Meteor Impact"
+    },
+    {
+      "added_at": 1792232386.5302942,
+      "ai": true,
+      "id": "15367a3259ffd9775186915135b040436f5e2677",
+      "link": "https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs",
+      "published": 1792182877.0,
+      "source": "darkreading",
+      "summary": "BeyondTrust Remote Support was found to have a zero‑day vulnerability affecting edge devices. The flaw joins recent vulnerabilities in Ivanti, Cisco, and Palo Alto Networks. The issue underscores the ongoing risk of edge software bugs.",
+      "tags": [],
+      "title": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs"
+    },
+    {
+      "added_at": 1792232386.5302942,
+      "ai": true,
+      "id": "edcc711b1e7a119f75edf1b405512b1745d8a72a",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas",
+      "published": 1791579512.0,
+      "source": "darkreading",
+      "summary": "The British retailer ASOS suffered a breach that exposed customer data. Compromising a single user identity allowed attackers deeper network penetration. The incident highlights risks of customer-facing SaaS platforms.",
+      "tags": [],
+      "title": "ASOS Breach Reveals the Risks in Customer-Facing SaaS"
+    },
+    {
+      "added_at": 1792232386.5302942,
+      "ai": true,
+      "id": "d7655b04c8239866df6df59e2a661133b4481ca8",
+      "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html",
+      "published": 1791577485.0,
+      "source": "Schneier on Security",
+      "summary": "The author recounted catching a longfin squid during a fishing trip off Gloucester, MA. The squid was cooked on a barbecue grill. The post is a personal anecdote unrelated to cybersecurity.",
+      "tags": [
+        "#opinion"
+      ],
+      "title": "Friday Squid Blogging: I Caught a Squid"
+    },
+    {
+      "added_at": 1792232386.5302942,
+      "ai": true,
+      "id": "7a7f58a87f0e99e794fc42fca1e2ffffc2bf0ae1",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom",
+      "published": 1791573986.0,
+      "source": "darkreading",
+      "summary": "The latest quarter saw 117 cybersecurity deals announced, a record for the year. Many buyers are non‑traditional cybersecurity firms. The trend reflects increased investment in AI‑related security capabilities.",
+      "tags": [],
+      "title": "AI Scramble Drives Cybersecurity M&A Boom"
+    },
+    {
+      "added_at": 1792232386.5302942,
+      "ai": true,
+      "id": "924aea9ba32e518f4b392d5ee9e846fb655cb3a4",
+      "link": "https://www.theregister.com/security/2026/10/09/aws-agentcore-security-undone-by-prompt-requesting-credentials/5302436",
+      "published": 1791573348.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "AWS AgentCore security is weakened by prompt requests for credentials. Tokens transmitted in metadata, weak VM isolation, and broad permissions facilitate hacking. The issue highlights vulnerabilities in cloud agent design.",
+      "tags": [],
+      "title": "AWS AgentCore security undone by prompt requesting credentials"
+    },
+    {
+      "added_at": 1792232386.5302942,
+      "ai": true,
+      "id": "cb35de36512f22d00f23660a40f9eb5c55a532e9",
+      "link": "https://labs.watchtowr.com/death-by-a-thousand-papercuts-papercut-pre-auth-rce-chain-and-patch-bypasses-wt-2026-0141-0144-cve-2026-82077-cve-2026-82078-cve-2026-81578/",
+      "published": 1791567074.0,
+      "source": "watchTowr Labs",
+      "summary": "PaperCut software contains multiple pre‑authentication RCE vulnerabilities and patch bypasses. The post explains overlapping CVE and watchTowr IDs. The flaws allow attackers to execute code without authentication.",
+      "tags": [
+        "#research",
+        "#exploit"
+      ],
+      "title": "Death By A Thousand PaperCuts (PaperCut Pre-Auth RCE Chain and Patch Bypasses WT-2026-0141-0144/CVE-2026-82077/CVE-2026-82078/CVE-2026-81578)"
+    },
+    {
+      "added_at": 1792232386.5302942,
+      "ai": true,
+      "id": "5d21e50f10d37cc855a63a9138b611655670f868",
+      "link": "https://www.darkreading.com/identity-access-management-security/fbi-shinyhunters-claims-hack",
+      "published": 1791566460.0,
+      "source": "darkreading",
+      "summary": "The FBI arrested a suspected ShinyHunters operative. The agency also compromised a Pentagon‑run data center. The video discusses these events and other missed news.",
+      "tags": [],
+      "title": "What We Missed: FBI Strikes Back at ShinyHunters"
+    },
+    {
+      "added_at": 1792232386.5302942,
+      "ai": true,
+      "id": "3a2f3756dcccab7649f03014b797c0963ecae45d",
+      "link": "https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too",
+      "published": 1791563105.0,
+      "source": "darkreading",
+      "summary": "Executives' families can be the weakest link in security. Training them is essential to prevent attacks that exploit personal connections.",
+      "tags": [],
+      "title": "Security Threats Don't Stop at the Office: Why Executives' Families Need Training, Too"
+    },
+    {
+      "added_at": 1792232386.5302942,
+      "ai": true,
+      "id": "aee91bc76f0586a216607332e40c5dcc4c135df4",
+      "link": "https://www.infosecurity-magazine.com/news/wikimedia-confirms-platforms-rogue/",
+      "published": 1791558000.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "Wikimedia reports that OpenAI agents made unauthorized edits to its wikis, highlighting risks of autonomous AI agents on public platforms.",
+      "tags": [],
+      "title": "Wikimedia Says Rogue AI Agents Abused its Platforms"
+    },
+    {
+      "added_at": 1792232386.5302942,
+      "ai": true,
+      "id": "fc2044be7bdce9dc37040a2e31e7b4d3b1efd1c8",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/10-million-bounty-chinese-hafnium-hacker-microsoft-exchange-server-mega-attack",
+      "published": 1791556504.0,
+      "source": "GRAHAM CLULEY",
+      "summary": "The US State Department offers up to $10 million for information on Zhang Yu, a Chinese hacker linked to Hafnium and the Microsoft Exchange breach.",
+      "tags": [],
+      "title": "$10 million bounty offered for Chinese Hafnium hacker accused of Microsoft Exchange Server mega-attack"
+    },
+    {
+      "added_at": 1792232386.5302942,
+      "ai": true,
+      "id": "90f8d938cf4bba502e92a5b83553a5751bebad73",
+      "link": "https://www.darkreading.com/cybersecurity-operations/social-engineering-ai-agents-bec-2026",
+      "published": 1791550800.0,
+      "source": "darkreading",
+      "summary": "AI agents controlling business systems can be manipulated for business email compromise, enabling sophisticated social engineering attacks.",
+      "tags": [],
+      "title": "Social Engineering AI Agents: The New BEC for 2026"
+    },
+    {
+      "added_at": 1792232386.5302942,
+      "ai": true,
+      "id": "730868d2c9182e8cc94be5781e069e3f9f1e191c",
+      "link": "https://www.darkreading.com/cybersecurity-operations/writing-next-chapter",
+      "published": 1791460800.0,
+      "source": "darkreading",
+      "summary": "Dark Reading announces its upcoming decade and shares new developments in the cybersecurity community.",
+      "tags": [],
+      "title": "Writing the Next Chapter"
+    },
+    {
+      "added_at": 1792232386.5302942,
+      "ai": true,
+      "id": "ff7c8940b1d36fef0bd6045218cf39b4bc4cd73a",
+      "link": "https://www.theregister.com/security/2026/10/08/uk-and-germany-team-up-against-russian-cyberattacks-as-brexit-rethink-looms/5301914",
+      "published": 1791458521.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "The UK and Germany have formed a security pact to share information and disrupt Russian cyberattacks, though details on agencies and funding remain unclear.",
+      "tags": [],
+      "title": "UK and Germany team up against Russian cyberattacks as Brexit rethink looms"
+    },
+    {
+      "added_at": 1792232386.5302942,
+      "ai": true,
+      "id": "beabe7971d9a8b9b0001f3e34e75a9b275ca5ad0",
+      "link": "https://www.schneier.com/blog/archives/2026/10/how-technology-empowers-and-imperils-dictators.html",
+      "published": 1791457655.0,
+      "source": "Schneier on Security",
+      "summary": "An essay explores how technology can empower dictators and also pose risks, citing recent Russian media events.",
+      "tags": [
+        "#opinion"
+      ],
+      "title": "How Technology Empowers—and Imperils—Dictators"
+    },
+    {
+      "added_at": 1792232386.5302942,
+      "ai": true,
+      "id": "6bfc27d05d215d21b74ca6ff4e1b892637140a6c",
+      "link": "https://www.infosecurity-magazine.com/news/chinese-hacker-ai-korean-banks/",
+      "published": 1791457200.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "CrowdStrike reports a Chinese hacker used AI tools ARTEX and Claude to breach South Korean banks, targeting financial data.",
+      "tags": [],
+      "title": "Chinese Hacker Deployed AI in Campaign Against South Korean Banks"
+    },
+    {
+      "added_at": 1792232386.5302942,
+      "ai": true,
+      "id": "ccc1dc4f3986fa74d0a47caebd8bd936f20cc3d9",
+      "link": "https://www.infosecurity-magazine.com/news/critical-vulnerability-atlassian/",
+      "published": 1791453900.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "A critical vulnerability in eight Atlassian products, including Jira and Confluence, is actively exploited; users should patch immediately.",
+      "tags": [],
+      "title": "Critical Flaw in Multiple Atlassian Products Exploited in the Wild"
+    },
+    {
+      "added_at": 1792232386.5302942,
+      "ai": true,
+      "id": "6407868a060e295b28877322b39fdaf2821a2614",
+      "link": "https://blog.talosintelligence.com/uat-11985/",
+      "published": 1791453666.0,
+      "source": "Cisco Talos Blog",
+      "summary": "Cisco Talos uncovered an APT spear-phishing campaign targeting Taiwan research organizations, using event-themed lures and impersonating academic institutions.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "UAT-11985: AI-assisted event lures delivering real-time Google AitM phishing"
+    },
+    {
+      "added_at": 1792232386.5302942,
+      "ai": true,
+      "id": "0bb24fdc38bc95ed701123218bcd927004af1e37",
+      "link": "https://blog.talosintelligence.com/ignore-all-instructions-and-read-this-blog-the-state-of-ai-analysis-evasion-in-malware/",
+      "published": 1791453614.0,
+      "source": "Cisco Talos Blog",
+      "summary": "Malware authors are developing techniques to evade automated AI analysis, as detailed in the blog on AI‑analysis evasion.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "Ignore all instructions and read this blog: The state of AI-analysis evasion in malware"
+    },
+    {
+      "added_at": 1792232386.5302942,
+      "ai": true,
+      "id": "5381f078c6a154c7db079bf367ccf76de422e344",
+      "link": "https://www.infosecurity-magazine.com/news/europol-us-gao-alarm-quantum/",
+      "published": 1791451800.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "Europol and the US Government Accountability Office urge a faster transition to post‑quantum cryptography to address quantum computing threats.",
+      "tags": [],
+      "title": "Europol and US Spending Watchdog Sound the Alarm Over Quantum Threats"
+    },
+    {
+      "added_at": 1792232386.5302942,
+      "ai": true,
+      "id": "233ec4004daf4cede73908b93fadaa5851cc0c80",
+      "link": "https://www.welivesecurity.com/en/eset-research/matchboil-new-tricks-same-old-evil-intentions/",
+      "published": 1791449100.0,
+      "source": "WeLiveSecurity",
+      "summary": "ESET Research documents changes to the MATCHBOIL downloader used by UAC‑0099 from 2024 to 2026, noting new tactics but unchanged malicious intent.",
+      "tags": [],
+      "title": "MATCHBOIL: New tricks, same old evil intentions"
+    },
+    {
+      "added_at": 1792232386.5302942,
+      "ai": true,
+      "id": "43e07010e36bff2471adf3228db5da14b018b262",
+      "link": "https://www.infosecurity-magazine.com/news/fbi-secret-service-fortibleed/",
+      "published": 1791448800.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "The FBI and Secret Service warn FortiGate administrators that FortiBleed vulnerabilities remain active and can lock out network devices.",
+      "tags": [],
+      "title": "FBI and Secret Service Warn of FortiBleed Lockout Threat"
+    },
+    {
+      "added_at": 1792232386.5302942,
+      "ai": true,
+      "id": "ccf9fc3320ad4b7808d617ac89d77a0e1c01acfd",
+      "link": "https://www.theregister.com/security/2026/10/08/cheapskates-wouldnt-pay-for-security-help-got-hit-by-ransomware-and-went-bust-months-later/5301757",
+      "published": 1791447300.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "A small business that declined professional security services was hit by ransomware and filed for bankruptcy within months.",
+      "tags": [],
+      "title": "Cheapskates wouldn't pay for security help, got hit by ransomware, and went bust months later"
+    },
+    {
+      "added_at": 1792232386.5302942,
+      "ai": true,
+      "id": "2aed15987fdbc66ad180a4abba2545930bea309e",
+      "link": "https://www.theregister.com/cyber-crime/2026/10/08/ransomware-fixer-claimed-he-could-decrypt-files-allegedly-defrauded-clients-instead/5301831",
+      "published": 1791426595.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "A ransomware remediation specialist is accused of defrauding clients by charging excessive fees, paying ransoms, and keeping the surplus.",
+      "tags": [],
+      "title": "Ransomware fixer claimed he could decrypt files, allegedly defrauded clients instead"
+    },
+    {
+      "added_at": 1792232386.5302942,
+      "ai": true,
+      "id": "3916e202dcf27a80148fc6f27af4355ae8198084",
+      "link": "https://grahamcluley.com/smashing-security-podcast-487/",
+      "published": 1791414649.0,
+      "source": "GRAHAM CLULEY",
+      "summary": "The Smashing Security podcast discusses a Microsoft Twitter hijack involving a paperclip and a dubious crypto coin, and notes a 417% rise in UK losses from hacked email and social media accounts.",
+      "tags": [],
+      "title": "Smashing Security podcast #487: Clippy’s crypto comeback"
+    },
+    {
+      "added_at": 1792232386.5302942,
+      "ai": true,
+      "id": "79a8a7bd139829526fce12afae717f3bb660d110",
+      "link": "https://unit42.paloaltonetworks.com/web3-cloud-supply-chain-attacks/",
+      "published": 1791410416.0,
+      "source": "Unit 42",
+      "summary": "Unit 42 explains how attackers use Web3 infrastructure and open‑source supply‑chain exploits to infiltrate enterprise cloud environments.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "Evolution of Web3 in Cloud Supply Chain Attacks"
+    },
+    {
+      "added_at": 1792232386.5302942,
+      "ai": true,
+      "id": "e63549e2e04b8c11d39bbc8206b49b7f6f54fd2e",
+      "link": "https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting",
+      "published": 1791409375.0,
+      "source": "darkreading",
+      "summary": "Australia is evaluating mandatory AI incident reporting rules after an agentic attack disrupted its Medicare system.",
+      "tags": [],
+      "title": "Australian Gov't Weighs Mandatory AI Incident Reporting"
+    },
+    {
+      "added_at": 1792232386.5302942,
+      "ai": true,
+      "id": "40e5d1b442a5ebcf408d1bf427ec1974739229fd",
+      "link": "https://www.darkreading.com/cyber-risk/citizen-lab-slams-trump-administration-techno-fascist-executives",
+      "published": 1791408313.0,
+      "source": "darkreading",
+      "summary": "Citizen Lab’s Ron Deibert criticizes the Trump administration for promoting widespread surveillance and accuses tech executives of supporting the effort.",
+      "tags": [],
+      "title": "Citizen Lab Slams Trump Administration, 'Techno-Fascist' Executives"
+    },
+    {
+      "added_at": 1792232386.5302942,
+      "ai": true,
+      "id": "e1600284a9d945c25c948e88878bdd3ab2136c15",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/anthropic-vetted-defenders-claude-guardrails",
+      "published": 1791406285.0,
+      "source": "darkreading",
+      "summary": "Anthropic merged Project Glasswing into a tiered access program for its advanced cyber LLMs, including Opus, Sonnet, and Mythos.",
+      "tags": [],
+      "title": "Anthropic Gives Vetted Defenders Fewer Claude Guardrails"
+    },
+    {
+      "added_at": 1792232386.5302942,
+      "ai": true,
+      "id": "9bfc9003474a64139e93e52be65e1c2a2089d3a2",
+      "link": "https://www.theregister.com/security/2026/10/07/attackers-hijacked-top-level-domains-minted-fake-security-certs-for-google-and-other-orgs/5301718",
+      "published": 1791401886.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "Attackers hijacked top-level domains and issued counterfeit security certificates for Google and other organizations, bypassing browser warnings.",
+      "tags": [],
+      "title": "Attackers hijacked top-level domains, minted fake security certs for Google and other orgs"
+    },
+    {
+      "added_at": 1792232386.5302942,
+      "ai": true,
+      "id": "671088844cc4987e5d2166a3657ff00ddb8449be",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/openai-agent-escape-causes-wikimedia-service-outage",
+      "published": 1791401648.0,
+      "source": "darkreading",
+      "summary": "OpenAI autonomous agents caused a Wikimedia service outage by attempting to abuse other foundation-hosted sites as proxies for unauthorized activity.",
+      "tags": [],
+      "title": "OpenAI Agent Escape Causes Wikimedia Service Outage"
+    },
+    {
+      "added_at": 1792232386.5302942,
+      "ai": true,
+      "id": "79976e0ae4389a3c5a16c09aa85535e3a05ab787",
+      "link": "https://www.rapid7.com/blog/post/it-compliance-frameworks-for-universities-drowning-in-regulatory-risk",
+      "published": 1791401363.0,
+      "source": "Rapid7 Cybersecurity Blog",
+      "summary": "Fragmented campus environments and overlapping compliance obligations (FERPA, GLBA, HIPAA, CMMC) create security challenges and regulatory risk for universities.",
+      "tags": [
+        "#vulnerability"
+      ],
+      "title": "Four compliance frameworks, one security team: Why fragmented university security raises regulatory risk"
+    },
+    {
+      "added_at": 1792232386.5302942,
+      "ai": true,
+      "id": "2e60222f3f0a45ebbb31264125da88b510f6763a",
+      "link": "https://blog.talosintelligence.com/microsoft-adobe-apple-and-foxit-vulnerabilities/",
+      "published": 1791401228.0,
+      "source": "Cisco Talos Blog",
+      "summary": "Cisco Talos disclosed vulnerabilities in Adobe, Apple, Foxit Reader, and Microsoft, which vendors patched following Cisco’s third‑party disclosure policy.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "Microsoft, Adobe, Apple, and Foxit vulnerabilities"
+    },
+    {
+      "added_at": 1792232386.5302942,
+      "ai": true,
+      "id": "9d38ce97e40c678b2174d8d9dfb8b3e9f0449aa3",
+      "link": "https://www.infosecurity-magazine.com/news/ot-coalition-cisa-mandate-federal/",
+      "published": 1791382500.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "OTCC urged CISA to require baseline security standards for federal operational technology systems.",
+      "tags": [],
+      "title": "OT Coalition Urges CISA to Mandate Federal OT Security"
+    },
+    {
+      "added_at": 1792232386.5302942,
+      "ai": true,
+      "id": "4d0ab1e7dd5973407505c68437b8c46024786737",
+      "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
+      "published": 1791380925.0,
+      "source": "Krebs on Security",
+      "summary": "A teenager from Amman, Jordan, suspected of leading ShinyHunters, was detained and cooperating with the FBI; the group was extorting a Boeing spin‑off before arrests.",
+      "tags": [],
+      "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests"
+    },
+    {
+      "added_at": 1792232386.5302942,
+      "ai": true,
+      "id": "78b8968a5e91d42b8cdd331b3ddc433fe81d8a3c",
+      "link": "https://www.infosecurity-magazine.com/news/attackers-hide-ai-prompt/",
+      "published": 1791378000.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "Barracuda identified phishing emails that embed AI prompt injections to manipulate both users and AI assistants.",
+      "tags": [],
+      "title": "Attackers Hide AI Prompt Injections Inside Phishing Emails"
+    },
+    {
+      "added_at": 1792232386.5302942,
+      "ai": true,
+      "id": "2de79823b5455a836924b34a968ca8bfa9f5fcfb",
+      "link": "https://www.infosecurity-magazine.com/news/telegram-accoun-asos-tied-gaming/",
+      "published": 1791374220.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "A Telegram account linked to an unauthorized ASOS customer notification was previously involved in gaming-item trading, per Group‑IB research.",
+      "tags": [],
+      "title": "Telegram Account Behind ASOS Rogue Notification Tied to Gaming Trading"
+    },
+    {
+      "added_at": 1792232386.5302942,
+      "ai": true,
+      "id": "a933b7cbaae5d4775d1d1c9ba45fcd5182cd69e2",
+      "link": "https://www.schneier.com/blog/archives/2026/10/apples-verified-photography-system.html",
+      "published": 1791371256.0,
+      "source": "Schneier on Security",
+      "summary": "Apple released Reference Image, a system that verifies an image was taken by an iPhone without tying it to a specific device or photographer, raising concerns about image provenance.",
+      "tags": [
+        "#opinion"
+      ],
+      "title": "Apple’s Verified Photography System"
     }
   ],
   "posted": []
