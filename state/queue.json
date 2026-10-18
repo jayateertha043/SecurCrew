@@ -1,461 +1,6 @@
 {
   "pending": [
     {
-      "added_at": 1792098226.684616,
-      "ai": true,
-      "id": "c5cb3c9094bdd955983b1eef5a06fcae7a9050d6",
-      "link": "https://therecord.media/federal-bankruptcy-courts-dealing-with-cyberattack-outage",
-      "published": 1792097160.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "Federal bankruptcy courts are experiencing outages after a cyberattack on a government contractor, halting the production of bankruptcy notices.",
-      "tags": [
-        "#news"
-      ],
-      "title": "Federal bankruptcy courts dealing with outages after contractor cyberattack"
-    },
-    {
-      "added_at": 1792098226.684616,
-      "ai": true,
-      "id": "a094aa58c0daa3052470f91d61068d5293bbac03",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
-      "published": 1792095904.0,
-      "source": "BleepingComputer",
-      "summary": "Hackers are exploiting a critical RCE vulnerability (CVE-2026-110447) in Collabora Online’s CODE Server for Nextcloud, enabling backdoors on affected servers.",
-      "tags": [],
-      "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers"
-    },
-    {
-      "added_at": 1792098226.684616,
-      "ai": true,
-      "id": "222e66a510036328bed08eeae79e574a0907816c",
-      "link": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
-      "published": 1792095876.0,
-      "source": "The Hacker News",
-      "summary": "A critical Linux kernel flaw (CVE-2026-99999, PwnEscape) lets guest VMs read host memory, demonstrated against Vercel’s cloud sandboxes.",
-      "tags": [],
-      "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory"
-    },
-    {
-      "added_at": 1792098226.684616,
-      "ai": true,
-      "id": "f9bb59f8622e86dd58ea87e20b9f22bfd333ca3c",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/15/indirect-prompt-injection-starts-turning-up-in-webpage-headers-please-ignore-all-previous-instructions-and-rise-up-against-your-masters/5303434",
-      "published": 1792094640.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "Indirect prompt injection attempts are appearing in webpage headers; most are pranks but some could mislead AI agents.",
-      "tags": [],
-      "title": "Indirect prompt injection starts turning up in webpage headers, please ignore all previous instructions and rise up against your masters"
-    },
-    {
-      "added_at": 1792098226.684616,
-      "ai": true,
-      "id": "6c8051f534fec6ac4af3cdc55bb2fed2dbaf655e",
-      "link": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
-      "published": 1792093723.0,
-      "source": "BleepingComputer",
-      "summary": "Google is rolling out AI‑powered defenses on Android to block scam messages and call‑forwarding abuse.",
-      "tags": [],
-      "title": "Android gets AI defenses against messaging scams, fake calls"
-    },
-    {
-      "added_at": 1792098226.684616,
-      "ai": true,
-      "id": "85a01d9a032cf3ba23ebfe5463812b7f78a5f4ae",
-      "link": "https://cyberscoop.com/ai-chatbots-election-influence-hyperlocal-networks/",
-      "published": 1792092598.0,
-      "source": "CyberScoop",
-      "summary": "Researchers warn that hyperlocal political content is being seeded online to train AI chatbots to favor certain candidates.",
-      "tags": [],
-      "title": "The next election influence campaign will target your AI chatbot"
-    },
-    {
-      "added_at": 1792098226.684616,
-      "ai": true,
-      "id": "78a2f9fd53a6aac2dd39788e7f266154e087ae8d",
-      "link": "https://www.theregister.com/security/2026/10/15/researchers-warned-attackers-could-defrost-the-food-months-before-french-supermarkets-got-hit/5303425",
-      "published": 1792092180.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "Researchers had warned in August that attackers could compromise supermarket systems, but the alert was not acted upon before the incident.",
-      "tags": [],
-      "title": "Researchers warned attackers could 'defrost the food' months before French supermarkets got hit"
-    },
-    {
-      "added_at": 1792098226.684616,
-      "ai": true,
-      "id": "166c2152940e0692c93f2deb2370523d07bd4693",
-      "link": "https://www.rapid7.com/blog/post/it-multi-campus-universities-building-more-connected-security-programs",
-      "published": 1792092059.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "The series discusses how multi‑campus universities can improve security coordination amid rising attacks and overlapping compliance requirements.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "How Multi-Campus Universities can Build a more Connected Security Program"
-    },
-    {
-      "added_at": 1792098226.684616,
-      "ai": true,
-      "id": "c66a493418bc77ed195608b45e0169096b4dc79a",
-      "link": "https://therecord.media/spyware-citizen-lab-advertising",
-      "published": 1792090800.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "Researchers report that zero‑click spyware is spreading globally via targeted online ads, enabling device infections without user interaction.",
-      "tags": [
-        "#news"
-      ],
-      "title": "Zero-click spyware infecting devices through online ads, researchers say"
-    },
-    {
-      "added_at": 1792098226.684616,
-      "ai": true,
-      "id": "986cc714fb426f821349327b1c955b2a14e9a584",
-      "link": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
-      "published": 1792090173.0,
-      "source": "The Hacker News",
-      "summary": "ThreatsDay highlighted multiple vulnerabilities, including Adobe RCE, DNS wallet theft, NVIDIA container escape, and a self‑healing backdoor, among 23 additional threats.",
-      "tags": [],
-      "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More"
-    },
-    {
-      "added_at": 1792098226.684616,
-      "ai": true,
-      "id": "b14fd868476bffef96044edd03c70b55fe422e2d",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/",
-      "published": 1792088459.0,
-      "source": "BleepingComputer",
-      "summary": "Proxyjacking campaign hijacked D‑Link and Ubiquiti devices in 34 countries, monetizing victims’ internet connections through a commercial residential proxy network.",
-      "tags": [],
-      "title": "Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth"
-    },
-    {
-      "added_at": 1792098226.684616,
-      "ai": true,
-      "id": "c993d0f62b81a9c46e0f456163b7d6346df9262c",
-      "link": "https://blog.talosintelligence.com/the-q3-vulnerability-pulse-discovery-exploitation/",
-      "published": 1792087200.0,
-      "source": "Cisco Talos Blog",
-      "summary": "Thor’s Q3 Vulnerability Pulse review shows that discovering CVEs does not guarantee exploitation, challenging the notion of a “Bugmageddon” in the cybersecurity landscape.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "The Q3 Vulnerability Pulse: Discovery ≠ Exploitation"
-    },
-    {
-      "added_at": 1792098226.684616,
-      "ai": true,
-      "id": "33659e3f78085d11485484cde5b077b92b0d0b65",
-      "link": "https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/",
-      "published": 1792086170.0,
-      "source": "SecurityWeek",
-      "summary": "Contextual defense is key to stopping modern cyberattacks, enabling security teams to connect signals, anticipate threats, and prevent escalation.",
-      "tags": [],
-      "title": "Context Is King in the Fight Against Modern Cyberattacks"
-    },
-    {
-      "added_at": 1792098226.684616,
-      "ai": true,
-      "id": "20dc09b781c43539fc8394533922aea9d5d51a58",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/",
-      "published": 1792084351.0,
-      "source": "BleepingComputer",
-      "summary": "Malicious packages were uploaded to the Arch User Repository, impersonating yay and paru, and delivered malware with root‑level privileges to users.",
-      "tags": [],
-      "title": "Fake Arch Linux packages push malware with root privileges"
-    },
-    {
-      "added_at": 1792098226.684616,
-      "ai": true,
-      "id": "b199b73eb8c2692ae6eb425e86712c6e6b0fd5f1",
-      "link": "https://www.schneier.com/blog/archives/2026/10/measuring-human-cryptanalysis-effort.html",
-      "published": 1792081469.0,
-      "source": "Schneier on Security",
-      "summary": "Matthew Green’s new site estimates the amount of cryptanalyst effort devoted to public‑key algorithms by analyzing literature, providing insight into ECDLP and other assumptions.",
-      "tags": [
-        "#opinion"
-      ],
-      "title": "Measuring Human Cryptanalysis Effort"
-    },
-    {
-      "added_at": 1792098226.684616,
-      "ai": true,
-      "id": "cdc576e64c59b425bfc4bd70b27225cd857313cf",
-      "link": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
-      "published": 1792080117.0,
-      "source": "The Hacker News",
-      "summary": "Citizen Lab traced zero‑click Candiru spyware infections at Al Jazeera, showing the malware activated when online ads loaded, sometimes hidden from view.",
-      "tags": [],
-      "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads"
-    },
-    {
-      "added_at": 1792098226.684616,
-      "ai": true,
-      "id": "6ab9bdcb522c46b07ada56102efd828c09d68876",
-      "link": "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
-      "published": 1792080026.0,
-      "source": "The Hacker News",
-      "summary": "Silent Lynx leveraged a WinRAR vulnerability, macro‑enabled documents, PS2EXE downloaders, GitHub‑hosted PowerShell, and crafted archives to deploy reverse shells against CIS government organizations.",
-      "tags": [],
-      "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks"
-    },
-    {
-      "added_at": 1792098226.684616,
-      "ai": true,
-      "id": "295b94e919e747edc78e2a0b36d667a467157f47",
-      "link": "https://www.darkreading.com/cybersecurity-operations/vulnerability-management-isnt-about-the-score-its-about-how-it-applies-to-you",
-      "published": 1792077438.0,
-      "source": "darkreading",
-      "summary": "The article argues that vulnerability management should focus on real exploit data relevant to an organization rather than relying on vendor‑assigned theoretical scores.",
-      "tags": [],
-      "title": "Vulnerability Management Isn't About the Score — It's About How It Applies to You"
-    },
-    {
-      "added_at": 1792098226.684616,
-      "ai": true,
-      "id": "04cb354de1cb50b96f7c2bfbdf1cda9742c178ef",
-      "link": "https://www.theregister.com/security/2026/10/15/spyware-vendors-found-a-way-to-make-targeted-ads-even-worse/5303334",
-      "published": 1792074687.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "An Israeli ad‑tech company allegedly aided spyware vendors in infecting phones through targeted ads while still holding Google’s approval seal.",
-      "tags": [],
-      "title": "Spyware vendors found a way to make targeted ads even worse"
-    },
-    {
-      "added_at": 1792098226.684616,
-      "ai": true,
-      "id": "7fb1c5cdc54ff3a053e20aee7a6b790c363e4ec1",
-      "link": "https://therecord.media/uk-legal-aid-cyberattack-data",
-      "published": 1792074600.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "The UK Legal Aid Agency hack revealed stolen records dating back to 1978, indicating a broader and older data breach than initially reported.",
-      "tags": [
-        "#news"
-      ],
-      "title": "UK Legal Aid Agency hack worse than thought, with stolen records dating back to 1978"
-    },
-    {
-      "added_at": 1792098226.684616,
-      "ai": true,
-      "id": "d71aee9427eec4323acdb27ccdafb38f49b3dd27",
-      "link": "https://www.securityweek.com/uk-legal-aid-agency-hack-scope-widens-after-forensic-review/",
-      "published": 1792074154.0,
-      "source": "SecurityWeek",
-      "summary": "Forensic review expanded the scope of the UK Legal Aid Agency data breach, covering applications, claims, and payments from 2007 to 2025. The majority of exposed data relates to those records.",
-      "tags": [],
-      "title": "UK Legal Aid Agency Hack Scope Widens After Forensic Review"
-    },
-    {
-      "added_at": 1792098226.684616,
-      "ai": true,
-      "id": "ba5ef20dc7e9f65b242c2100a76cd701cfd8def4",
-      "link": "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html",
-      "published": 1792073496.0,
-      "source": "The Hacker News",
-      "summary": "Help TDS, linked to the Russian affiliate Hotejka (formerly ROI777), has distributed PHP code to compromised sites since 2017 to redirect traffic. Over 20,000 Cloudflare Pages domains now host tech‑support scams.",
-      "tags": [],
-      "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams"
-    },
-    {
-      "added_at": 1792098226.684616,
-      "ai": true,
-      "id": "5d774caabf5a04c98be7607361be0def7bc6899c",
-      "link": "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
-      "published": 1792072871.0,
-      "source": "BleepingComputer",
-      "summary": "AI pentesting can uncover vulnerabilities missed by humans but lacks consistency and business context. Intruder compares AI and human strengths, noting areas where AI agents can improve testing.",
-      "tags": [],
-      "title": "Is AI pentesting as good as a human pentester?"
-    },
-    {
-      "added_at": 1792098226.684616,
-      "ai": true,
-      "id": "ada0693d26303007188c417c50960c5d79d0b041",
-      "link": "https://therecord.media/suspected-kazakhstan-phishing-central-asia-espionage",
-      "published": 1792072500.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "Researchers attribute a two‑year cyber‑espionage campaign targeting Central Asian governments to Kazakhstan. The campaign continues to target former Soviet states.",
-      "tags": [
-        "#news"
-      ],
-      "title": "Suspected Kazakhstan-linked hackers target governments across former Soviet states"
-    },
-    {
-      "added_at": 1792098226.684616,
-      "ai": true,
-      "id": "d15fa47c423ed75378e20e2293815428f916f1d3",
-      "link": "https://www.helpnetsecurity.com/2026/10/15/servicenow-ai-passport/",
-      "published": 1792072282.0,
-      "source": "Help Net Security",
-      "summary": "ServiceNow introduced an AI Passport to give enterprises runtime control over AI agents, adding governance and oversight within its operational AI harness. The solution limits what AI agents can do to ensure production readiness.",
-      "tags": [],
-      "title": "ServiceNow gives AI agents a passport, and limits on what they can do"
-    },
-    {
-      "added_at": 1792098226.684616,
-      "ai": true,
-      "id": "05373092476a7d9dd470256bc0902a768bdf5104",
-      "link": "https://www.helpnetsecurity.com/2026/10/15/kgb-rat-windows-trojan-webcam-spying-password-theft/",
-      "published": 1792072263.0,
-      "source": "Help Net Security",
-      "summary": "KGB RAT, a Windows trojan built on NjRAT, offers webcam, microphone, keystroke, and password theft, plus a menu designed to frighten victims. It is sold on hacking forums for $150 per month.",
-      "tags": [],
-      "title": "KGB RAT trojan packs webcam spying, password theft and a “fun” menu to terrorize victims"
-    },
-    {
-      "added_at": 1792098226.684616,
-      "ai": true,
-      "id": "4c516ad54fe510d3ac0fc231a74ca2a5634937a4",
-      "link": "https://www.infosecurity-magazine.com/news/france-expose-danfoss-controllers/",
-      "published": 1792071900.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "After the October 11 cyber‑attack, French operators of Danfoss refrigeration controllers reduced internet exposure by 71%. The change reflects a review of exposed device settings.",
-      "tags": [],
-      "title": "France: Internet-Exposed Danfoss Controllers Drop 71% After Cyber-Attack"
-    },
-    {
-      "added_at": 1792098226.684616,
-      "ai": true,
-      "id": "a3f718524b93aa1d8753310bf4c992ad008c1671",
-      "link": "https://www.theregister.com/security/2026/10/15/bank-of-america-had-to-bring-in-1000-contractors-to-patch-all-the-bugs-mythos-identified/5303275",
-      "published": 1792071900.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "Bank of America hired 1,000 contractors in Q2 to patch bugs identified by Mythos. The contractors continue to work on fixes, highlighting the scale of the vulnerabilities.",
-      "tags": [],
-      "title": "Bank of America had to bring in 1,000 contractors to patch all the bugs Mythos identified"
-    },
-    {
-      "added_at": 1792098226.684616,
-      "ai": true,
-      "id": "0c3ef718b98c144485829c602ab4905bfeaeb4ba",
-      "link": "https://www.helpnetsecurity.com/2026/10/15/barracuda-fake-captcha-phishing-attacks/",
-      "published": 1792070941.0,
-      "source": "Help Net Security",
-      "summary": "Barracuda found that 43% of phishing kits examined in 2025 used fake CAPTCHA checks to download malware and trigger malicious actions. Attackers use CAPTCHA to trick users into executing malware.",
-      "tags": [],
-      "title": "Fake CAPTCHAs are tricking users into running malware on their own devices"
-    },
-    {
-      "added_at": 1792098226.684616,
-      "ai": true,
-      "id": "80cf54be12869d7abbb9e0ba34aea1fe69dcf259",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
-      "published": 1792070316.0,
-      "source": "BleepingComputer",
-      "summary": "Microsoft announced that Windows Server 2022 has reached the end of mainstream support, with extended support lasting until October 2031. Users must plan for future updates.",
-      "tags": [],
-      "title": "Microsoft: Windows Server 2022 reached end of mainstream support"
-    },
-    {
-      "added_at": 1792098226.684616,
-      "ai": true,
-      "id": "0a017a81c0c4ef31675f0caecee703ceaa181c06",
-      "link": "https://www.infosecurity-magazine.com/news/aoki-infostealer-ai-coding/",
-      "published": 1792069200.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "Symantec warned that Aoki infostealer can steal API keys and tokens from popular AI coding assistants such as Claude and Gemini.\nThe malware targets credentials used to access AI services.",
-      "tags": [],
-      "title": "New Aoki Infostealer Targets AI Coding Assistant Credentials"
-    },
-    {
-      "added_at": 1792098226.684616,
-      "ai": true,
-      "id": "12b5084185c2ae4fa50f57574752b5cfd5ea1229",
-      "link": "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html",
-      "published": 1792069085.0,
-      "source": "The Hacker News",
-      "summary": "NGINX released versions 1.30.6 and 1.31.7 on October 14 to fix five vulnerabilities, including a possible remote code execution flaw and a TLS bug that could bypass client‑certificate checks.\nThe fixes address memory bugs that could crash worker processes or allow code execution under specific configurations.",
-      "tags": [],
-      "title": "NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks"
-    },
-    {
-      "added_at": 1792098226.684616,
-      "ai": true,
-      "id": "804b1f79c64cf8aa8dbb883271b51fa0b11a0589",
-      "link": "https://www.securityweek.com/supermarket-refrigeration-attack-widens-to-copeland-dixell-controllers/",
-      "published": 1792068642.0,
-      "source": "SecurityWeek",
-      "summary": "An undisclosed group attacked roughly 700 French supermarkets, expanding the supermarket refrigeration attack to Copeland and Dixell controllers.\nNo group has claimed responsibility for the attacks.",
-      "tags": [],
-      "title": "Supermarket Refrigeration Attack Widens to Copeland, Dixell Controllers"
-    },
-    {
-      "added_at": 1792098226.684616,
-      "ai": true,
-      "id": "05e0b38688d5eae9365c3589ff543372deba927b",
-      "link": "https://www.theregister.com/security/2026/10/15/x-purges-13000-accounts-linked-to-suspected-meddling-ahead-of-us-midterms/5303234",
-      "published": 1792068300.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "X removed 13,000 accounts linked to suspected political meddling ahead of the U.S. midterm elections.\nThe platform cited Iran, Russia, and China as potential sources but did not provide evidence.",
-      "tags": [],
-      "title": "X purges 13,000 accounts linked to suspected meddling ahead of US midterms"
-    },
-    {
-      "added_at": 1792098226.684616,
-      "ai": true,
-      "id": "e7e0582933872fb7723cedd78f33b38a5033dcd6",
-      "link": "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
-      "published": 1792067293.0,
-      "source": "The Hacker News",
-      "summary": "Next.js issued an out‑of‑band patch on October 14 that fixes two critical remote code execution flaws in React Server Components and the librsvg library used for SVG processing.\nThe update also addresses a high‑severity denial‑of‑service vulnerability.",
-      "tags": [],
-      "title": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing"
-    },
-    {
-      "added_at": 1792098226.684616,
-      "ai": true,
-      "id": "ce862b886d1b841552a0ba76b245d1abf6905403",
-      "link": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
-      "published": 1792066040.0,
-      "source": "The Hacker News",
-      "summary": "Drupal released security updates on October 14 for Drupal 11.4.10, 11.3.19, and 10.6.19 to patch a critical Field UI flaw that could allow unauthenticated remote code execution via contributed modules.\nThe core flaw cannot be exploited without additional modules.",
-      "tags": [],
-      "title": "Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules"
-    },
-    {
-      "added_at": 1792098226.684616,
-      "ai": true,
-      "id": "3565d45fa9724e1b9d8a08243de8966c0a8d55c9",
-      "link": "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
-      "published": 1792065338.0,
-      "source": "BleepingComputer",
-      "summary": "Interpol coordinated an operation that led to the arrest of 95 suspects across 17 countries for distributing child sexual abuse material through online messaging groups.\nThe crackdown targeted international CSAM distribution networks.",
-      "tags": [],
-      "title": "Police arrests 95 suspects in international CSAM crackdown action"
-    },
-    {
-      "added_at": 1792098226.684616,
-      "ai": true,
-      "id": "999e9923be3989dcddf029eb04e27600ca36f0d0",
-      "link": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
-      "published": 1792064819.0,
-      "source": "The Hacker News",
-      "summary": "Attackers are impersonating popular AI products to deliver malware, steal browser sessions, and compromise business accounts, with 1,258 sandbox analyses linked to fake AI campaigns between April and October 2026.\nThe attacks increase operational pressure on MSSPs serving U.S. businesses.",
-      "tags": [],
-      "title": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early"
-    },
-    {
-      "added_at": 1792098226.684616,
-      "ai": true,
-      "id": "265b36d1cec0ee47b7bf6aa5c3e63e2fb599e463",
-      "link": "https://www.infosecurity-magazine.com/news/high-risk-vulnerabilities-llm-tool/",
-      "published": 1792063800.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "LiteLLM, a widely used LLM gateway tool, is affected by CVE-2026-35029 and CVE-2026-59823, posing high‑risk vulnerabilities for enterprises connecting AI applications to providers like OpenAI and Anthropic.\nThe vulnerabilities could allow attackers to compromise the gateway.",
-      "tags": [],
-      "title": "Warning Over High-Risk Vulnerabilities in Widely Used LLM Gateway Tool"
-    },
-    {
-      "added_at": 1792098226.684616,
-      "ai": true,
-      "id": "a28002aabf34a9dd834c350238055ff01acff1c3",
-      "link": "https://www.securityweek.com/cikabika-bot-rat-uses-discord-for-cc/",
-      "published": 1792063558.0,
-      "source": "SecurityWeek",
-      "summary": "CikaBika Bot RAT, delivered via phishing, uses Discord for command and control and provides reconnaissance, remote execution, and data exfiltration capabilities.\nThe malware is distributed through phishing campaigns.",
-      "tags": [],
-      "title": "CikaBika Bot RAT Uses Discord for C&C"
-    },
-    {
       "added_at": 1792148286.0297616,
       "ai": true,
       "id": "196d1fbeb9fc43990f27866e442390b75e03052d",
@@ -2304,6 +1849,517 @@
       "summary": "ESET researchers uncovered SprySOCKS for Windows, a FishMonger backdoor that uses a kernel‑level driver to achieve advanced stealth and persistence.",
       "tags": [],
       "title": "FishMonger’s arsenal upgraded: SprySOCKS for Windows"
+    },
+    {
+      "added_at": 1792319731.8792107,
+      "ai": true,
+      "id": "952b3a6c7b9c760d0adc18e4758d2a484db0de4d",
+      "link": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
+      "published": 1792311782.0,
+      "source": "The Hacker News",
+      "summary": "ConnectWise disabled seven application identities after attackers accessed them and compromised Microsoft 365 tenants. Investigation is ongoing. The disabled identity includes ConnectWise Cloud Backup.",
+      "tags": [],
+      "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants"
+    },
+    {
+      "added_at": 1792319731.8792107,
+      "ai": true,
+      "id": "14fcc0d971132d81c1a82b92c1dd553be0264afb",
+      "link": "https://www.helpnetsecurity.com/2026/10/18/week-in-review-hidden-implant-in-ledger-wallets-linked-to-93m-theft-1500-npm-packages-exposed/",
+      "published": 1792310430.0,
+      "source": "Help Net Security",
+      "summary": "Review highlights a hidden implant in Ledger wallets linked to a $93 million theft and the exposure of over 1,500 npm packages. It also mentions Strands Box, an open‑source sandbox for AI agents.",
+      "tags": [],
+      "title": "Week in review: Hidden implant in Ledger wallets linked to $93M theft, 1,500+ npm packages exposed"
+    },
+    {
+      "added_at": 1792319731.8792107,
+      "ai": true,
+      "id": "b297d2b311175806cad39004f37e63a046d62810",
+      "link": "https://unit42.paloaltonetworks.com/agentic-ai-kubernetes-operator-risks/",
+      "published": 1790676048.0,
+      "source": "Unit 42",
+      "summary": "Unit 42’s OperTraitor tool audits Kubernetes operator privileges, identifies excessive RBAC risks, and secures non‑human identities.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "OperTraitors: How Kubernetes Operators Betray Your Security Posture"
+    },
+    {
+      "added_at": 1792319731.8792107,
+      "ai": true,
+      "id": "ae45e879c52a933d8c18072b5c5267cc3bf18041",
+      "link": "https://blog.talosintelligence.com/securing-the-keys-to-the-kingdom-announcing-executive-threat-detection/",
+      "published": 1790676036.0,
+      "source": "Cisco Talos Blog",
+      "summary": "A new proactive service, Executive Threat Detection, offers intelligence‑led hunting for an organization’s high‑value IT assets as part of its retainer offerings.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "Securing the keys to the kingdom: Announcing Executive Threat Detection"
+    },
+    {
+      "added_at": 1792319731.8792107,
+      "ai": true,
+      "id": "f6be75e34064927e9fe7279f2fc86a4ffbd5fc9b",
+      "link": "https://www.welivesecurity.com/en/scams/timeshare-exit-scams-fake-buyers-recovery-scams/",
+      "published": 1790672400.0,
+      "source": "WeLiveSecurity",
+      "summary": "Con artists target timeshare owners seeking exit, using fake buyers and recovery fraud, often hitting victims twice.",
+      "tags": [],
+      "title": "Timeshare exit scams: From fake buyers to recovery fraud"
+    },
+    {
+      "added_at": 1792319731.8792107,
+      "ai": true,
+      "id": "cc0f1f97276ebdca3430b91a69181521e4951adb",
+      "link": "https://www.intigriti.com/blog/news/10-years-of-intigriti",
+      "published": 1790640000.0,
+      "source": "Intigriti",
+      "summary": "Intigriti celebrated its 10th anniversary in summer 2026, reflecting on a decade of growth and global cybersecurity impact, as noted by CEO Stijn Jans.",
+      "tags": [
+        "#bugbounty"
+      ],
+      "title": "10 years of Intigriti"
+    },
+    {
+      "added_at": 1792319731.8792107,
+      "ai": true,
+      "id": "285e5e3adefd95da7e27ff2731d0a0708e78a194",
+      "link": "https://www.welivesecurity.com/en/business-security/devil-email-wearing-new-mask/",
+      "published": 1790586000.0,
+      "source": "WeLiveSecurity",
+      "summary": "Phishing attacks increasingly bypass familiar checks; rapid detection and containment are essential to limit damage.",
+      "tags": [],
+      "title": "The devil is still in the email – but wears a new mask"
+    },
+    {
+      "added_at": 1792319731.8792107,
+      "ai": true,
+      "id": "e9160c0adae6864466a869d5764fdf370497d2db",
+      "link": "https://unit42.paloaltonetworks.com/3-consulting-myths-debunked-by-unit-42-experts/",
+      "published": 1790377228.0,
+      "source": "Unit 42",
+      "summary": "Unit 42 experts debunk three cybersecurity consulting myths, providing practical insights to strengthen enterprise defenses.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "3 Consulting Myths Debunked by Unit 42 Experts"
+    },
+    {
+      "added_at": 1792319731.8792107,
+      "ai": true,
+      "id": "42d7d50a9109dcecf519edd256383b953834ae14",
+      "link": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
+      "published": 1790372680.0,
+      "source": "Krebs on Security",
+      "summary": "A U.S. Army soldier was sentenced to 70 months in federal prison for hacking AT&T and Verizon, stealing metadata of over 100 million customers, and ordered to pay nearly $300 k restitution.",
+      "tags": [],
+      "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions"
+    },
+    {
+      "added_at": 1792319731.8792107,
+      "ai": true,
+      "id": "57cc9f4b5f83babdb3441ecc21ab45adeea6c2c2",
+      "link": "https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-belgian-waffles-chocolates-and-modules-frites",
+      "published": 1790347085.0,
+      "source": "Rapid7 Cybersecurity Blog",
+      "summary": "The article titled 'Metasploit Wrap Up: Belgian Waffles, Chocolates, and…Modules‑Frites?' contains no additional content in the provided text.",
+      "tags": [
+        "#vulnerability"
+      ],
+      "title": "Metasploit Wrap Up: Belgian Waffles, Chocolates, and…Modules-Frites?"
+    },
+    {
+      "added_at": 1792319731.8792107,
+      "ai": true,
+      "id": "7ff5ebdf54049fd1f5d5e7fa998ca6f9adcd0506",
+      "link": "https://www.welivesecurity.com/en/mobile-security/is-new-vibe-coded-app-safe-5-questions-ask-first/",
+      "published": 1790326800.0,
+      "source": "WeLiveSecurity",
+      "summary": "Before downloading a new AI‑built app, perform five checks: verify the developer’s reputation, review the app’s permissions, examine the source code or repository, test the app in a sandbox, and confirm it uses secure communication protocols.",
+      "tags": [],
+      "title": "Is that vibe coded app safe? 5 checks before you download"
+    },
+    {
+      "added_at": 1792319731.8792107,
+      "ai": true,
+      "id": "af019f17e205a1c0df9bb4ecda1dae31dec52b15",
+      "link": "https://www.intigriti.com/researchers/blog/bug-bytes/intigriti-bug-bytes-240-september-2026",
+      "published": 1790294400.0,
+      "source": "Intigriti",
+      "summary": "Intigriti Bug Bytes #240 highlights recent exploits: a vulnerable image library compromised OpenAI, Slack, Meta, and other services; attackers accessed OpenAI employee accounts in under 72 hours; they breached Google GFile for $100K; and Turbo Intruder 2 achieved over 100,000 HTTP/3 requests per second.",
+      "tags": [
+        "#bugbounty"
+      ],
+      "title": "Intigriti Bug Bytes #240 - September 2026 🚀"
+    },
+    {
+      "added_at": 1792319731.8792107,
+      "ai": true,
+      "id": "d5374ac44466d0dd2566476fd7c7c5ff783d5670",
+      "link": "https://blog.talosintelligence.com/trust-and-the-enticing-consultancy-offer/",
+      "published": 1790272837.0,
+      "source": "Cisco Talos Blog",
+      "summary": "The newsletter examines a suspicious social media elicitation and stresses the importance of trust in the cyber ecosystem, noting that hubris may be a critical vulnerability for the industry.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "Trust and the enticing consultancy offer"
+    },
+    {
+      "added_at": 1792319731.8792107,
+      "ai": true,
+      "id": "aa0e33ec006b59c5d7281e709f585ba932ff4646",
+      "link": "https://www.rapid7.com/blog/post/ve-business-email-compromise-rewriting-reality-zimbra-cve",
+      "published": 1790254800.0,
+      "source": "Rapid7 Cybersecurity Blog",
+      "summary": "Business Email Compromise operates by breaching mailboxes, monitoring operations, mapping approval chains, and diverting funds or exfiltrating assets; the series will detail technical aspects in collaboration with Rapid7 and Zimbra.",
+      "tags": [
+        "#vulnerability"
+      ],
+      "title": "When Business Email Compromise Starts Rewriting Reality"
+    },
+    {
+      "added_at": 1792319731.8792107,
+      "ai": true,
+      "id": "2ac632f3e2c9a02f7063aa7358ba9d48f8871e7c",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/ukrainian-ransomware-developer-jailed-for-nearly-13-years",
+      "published": 1790253733.0,
+      "source": "GRAHAM CLULEY",
+      "summary": "A Zurich court sentenced a Ukrainian ransomware developer to 12 years and nine months in prison and banned him from Switzerland for ten years for creating ransomware that targeted companies worldwide.",
+      "tags": [],
+      "title": "Ukrainian ransomware developer jailed for nearly 13 years"
+    },
+    {
+      "added_at": 1792319731.8792107,
+      "ai": true,
+      "id": "cd083f8992fdd977d092f260ffeed43586e04be9",
+      "link": "https://securelist.com/macsync-new-version/121383/",
+      "published": 1790244021.0,
+      "source": "Securelist",
+      "summary": "The latest MacSync macOS stealer includes a backdoor module that specifically targets cryptocurrency enthusiasts and developers, expanding its delivery methods and payload capabilities.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "MacSync under the microscope: new delivery methods and a new payload"
+    },
+    {
+      "added_at": 1792319731.8792107,
+      "ai": true,
+      "id": "b7d530528fbf0320f72b8e34deeb98f247076a53",
+      "link": "https://www.welivesecurity.com/en/scams/been-told-pay-bitcoin-atm-read-first/",
+      "published": 1790240400.0,
+      "source": "WeLiveSecurity",
+      "summary": "Crypto ATM scams follow a predictable pattern; the guide explains how to recognize the scam and outlines steps to take if you have already been targeted.",
+      "tags": [],
+      "title": "Been told to pay at a Bitcoin ATM? Read this first"
+    },
+    {
+      "added_at": 1792319731.8792107,
+      "ai": true,
+      "id": "1572cfbc8e6865930f7ff344cc00dc3ece01ff00",
+      "link": "https://labs.watchtowr.com/is-this-a-joke-in-the-auth-header-f5-big-ip-unauth-heap-overflow-to-rce-cve-2026-94127/",
+      "published": 1790205559.0,
+      "source": "watchTowr Labs",
+      "summary": "F5 BIG‑IP is vulnerable to an unauthenticated heap‑overflow (CVE‑2026‑94127) that can lead to remote code execution, allowing attackers to compromise the device without credentials.",
+      "tags": [
+        "#research",
+        "#exploit"
+      ],
+      "title": "Is This A Joke? In The Auth Header? (F5 BIG-IP UnAuth Heap-Overflow to RCE CVE-2026-94127)"
+    },
+    {
+      "added_at": 1792319731.8792107,
+      "ai": true,
+      "id": "268e8c7bbe39b42ca980f3835d70109f70c656cb",
+      "link": "https://grahamcluley.com/smashing-security-podcast-486/",
+      "published": 1790205305.0,
+      "source": "GRAHAM CLULEY",
+      "summary": "The Smashing Security podcast discusses a shop that vibe‑coded its website, resulting in inventory anomalies, and a hacker collective that exploited Flock safety cameras for unauthorized access.",
+      "tags": [],
+      "title": "Smashing Security podcast #486: Vibe-coded shops, and hackable Flock cameras"
+    },
+    {
+      "added_at": 1792319731.8792107,
+      "ai": true,
+      "id": "63d6d101ab6d43606bbab6e3a5eb767d75134938",
+      "link": "https://portswigger.net/research/http3-in-burp-suite",
+      "published": 1790172000.0,
+      "source": "PortSwigger Research",
+      "summary": "Turbo Intruder now supports HTTP/3, enabling more than 100,000 requests per second over Wi‑Fi and auto‑tuning for efficient testing, highlighting the need for larger wordlists.",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "HTTP/3 in Burp Suite - it’s time to find a bigger wordlist"
+    },
+    {
+      "added_at": 1792319731.8792107,
+      "ai": true,
+      "id": "4c4cb6380811cfc65a4c958f2c2f6164eed5af41",
+      "link": "https://blog.talosintelligence.com/the-closed-quorum-inside-the-first-reported-autonomous-ai-c2-implant/",
+      "published": 1790071258.0,
+      "source": "Cisco Talos Blog",
+      "summary": "Closed Quorum is a malware binary with fully autonomous command and control.\nIt allows attackers to execute parts of the attack chain without operator involvement.\nDiscovered by Cisco Talos CAIRN project.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "The Closed Quorum: Inside the first reported autonomous AI C2 implant"
+    },
+    {
+      "added_at": 1792319731.8792107,
+      "ai": true,
+      "id": "851affdd497a2b7c1bd2ec7168f438388ee2d65b",
+      "link": "https://blog.talosintelligence.com/introducing-cairn-frontier-tracking-for-ai-integrated-malware/",
+      "published": 1790071225.0,
+      "source": "Cisco Talos Blog",
+      "summary": "Talos releases CAIRN, a research toolkit for hunting, classifying, and tracking AI-integrated malware.\nIt supports analysis of emerging AI-driven threats.\nThe toolkit is available to security researchers.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "Introducing CAIRN: Frontier tracking for AI-integrated malware"
+    },
+    {
+      "added_at": 1792319731.8792107,
+      "ai": true,
+      "id": "18bf141d2661557ca190612f030aeca98ea90a13",
+      "link": "https://www.welivesecurity.com/en/kids-online/looking-for-free-robux-heres-whats-real-whats-scam/",
+      "published": 1790067600.0,
+      "source": "WeLiveSecurity",
+      "summary": "Scammers target Roblox accounts with fake giveaways, generators, and phishing sites.\nThese tactics aim to steal account credentials.\nUsers should verify authenticity before sharing personal information.",
+      "tags": [],
+      "title": "Looking for free Robux? Here’s what’s real, and what’s a scam"
+    },
+    {
+      "added_at": 1792319731.8792107,
+      "ai": true,
+      "id": "0c34834f51359083617f8c1a4e915fa05ad5280b",
+      "link": "https://securelist.com/tr/payload-ransomware-via-group-policy/121335/",
+      "published": 1789984840.0,
+      "source": "Securelist",
+      "summary": "PAYLOAD ransomware abuses Active Directory Group Policy Objects for encryptionless, binary-less operations.\nKaspersky GERT experts analyze the technical details of the incident.\nThe attack demonstrates the use of legitimate AD mechanisms for malicious purposes.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "Group Policy hijacked: PAYLOAD ransomware weaponizes Active Directory GPO"
+    },
+    {
+      "added_at": 1792319731.8792107,
+      "ai": true,
+      "id": "5e7190318dbce36521fc7777e75ae8d6a23d8e39",
+      "link": "https://unit42.paloaltonetworks.com/detecting-exposed-aws-iam-credentials/",
+      "published": 1789984813.0,
+      "source": "Unit 42",
+      "summary": "AWS neutralizes exposed IAM credentials using managed policies, GitHub secret scanning, and CloudTrail monitoring.\nThe approach limits the impact of compromised credentials.\nThe post details the process and best practices.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "From Exposure to Lockdown: How AWS Neutralizes Compromised IAM Credentials through Managed Policies"
+    },
+    {
+      "added_at": 1792319731.8792107,
+      "ai": true,
+      "id": "d4928ad1f97d3afaed7f3a7f81693208a0acfe9f",
+      "link": "https://www.welivesecurity.com/en/business-security/smb-cybersecurity-squeeze-ai-agents-work-old-attacks-overdrive/",
+      "published": 1789981200.0,
+      "source": "WeLiveSecurity",
+      "summary": "AI enables faster, cheaper attacks while opening new data access paths.\nSMBs need protection tailored to limited time and expertise.\nThe post discusses strategies for securing small and medium businesses.",
+      "tags": [],
+      "title": "The SMB cybersecurity squeeze: AI agents at work, old attacks in overdrive"
+    },
+    {
+      "added_at": 1792319731.8792107,
+      "ai": true,
+      "id": "3a7b569916d745088cd980262bd427d2a8e7886f",
+      "link": "https://projectzero.google/2026/09/windows-dangling-com.html",
+      "published": 1789974000.0,
+      "source": "Project Zero",
+      "summary": "A privilege escalation bug (CVE-2026-66804) involving dangling COM object registrations was reported.\nMicrosoft fixed the issue but the fix is incomplete for CVE-2026-50343.\nThe bug was discovered by a community of 15 researchers.",
+      "tags": [
+        "#vulnerability",
+        "#0day"
+      ],
+      "title": "Windows Exploitation Techniques: Dangling COM Object Registrations"
+    },
+    {
+      "added_at": 1792319731.8792107,
+      "ai": true,
+      "id": "bea59d177fac977faa6c7a1357d83ab957f0048b",
+      "link": "https://www.intigriti.com/blog/business-insights/how-ai-changed-my-day-as-a-qa-engineer",
+      "published": 1789948800.0,
+      "source": "Intigriti",
+      "summary": "A QA engineer at Intigriti shares experience integrating AI into testing workflows.\nAI improved test creation, execution, and collaboration with developers.\nThe post highlights the benefits and challenges of AI in QA.",
+      "tags": [
+        "#bugbounty"
+      ],
+      "title": "From sceptic to supercharged. How AI changed my day as a QA Engineer"
+    },
+    {
+      "added_at": 1792319731.8792107,
+      "ai": true,
+      "id": "e153090477bae18910884806c16ed5e90312f845",
+      "link": "https://unit42.paloaltonetworks.com/securing-aws-agentcore-harness-credentials/",
+      "published": 1789725636.0,
+      "source": "Unit 42",
+      "summary": "Analysis shows default AWS AgentCore Harness configurations enable prompt injection to exfiltrate credentials.\nThe post outlines steps to secure agents and mitigate the risk.\nIt emphasizes the importance of proper configuration.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "A Vault with a Heap-View: The Uncomfortable Space Between AgentCore Harness and Identity"
+    },
+    {
+      "added_at": 1792319731.8792107,
+      "ai": true,
+      "id": "2c3a16c81fa1a351b907fa90c6eddb13774a7c75",
+      "link": "https://www.welivesecurity.com/en/privacy/nudify-apps-fake-nude-you/",
+      "published": 1789722000.0,
+      "source": "WeLiveSecurity",
+      "summary": "Advice for victims of fake nude images includes steps to remove content and protect personal information.\nThe guide also offers support for parents and concerned parties.\nIt outlines practical measures to address the issue.",
+      "tags": [],
+      "title": "‘Nudify’ apps: What to do if someone makes a fake nude of you"
+    },
+    {
+      "added_at": 1792319731.8792107,
+      "ai": true,
+      "id": "c9c87b84069c0472d85377ff2ec54159bffdbaeb",
+      "link": "https://unit42.paloaltonetworks.com/soc-cross-environment-pivot/",
+      "published": 1789682433.0,
+      "source": "Unit 42",
+      "summary": "Unit 42 Managed XSIAM supports SOC teams in tracking full attack paths.\nThe solution addresses cross‑environment attack challenges.\nIt provides a new approach to security operations.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "Inside the Modern SOC: Defending the Cross-Environment Pivot"
+    },
+    {
+      "added_at": 1792319731.8792107,
+      "ai": true,
+      "id": "bc5b49fdafa46e90ed7e5cfb92c296469fa0fcc0",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/us-coast-guard-fbi-board-oil-tanker-investigate-cyber-attack",
+      "published": 1789656228.0,
+      "source": "GRAHAM CLULEY",
+      "summary": "The US Coast Guard and FBI boarded an oil tanker mid‑voyage.\nThe vessel’s network may have been compromised by a foreign actor.\nThe boarding was to investigate a potential cyber attack.",
+      "tags": [],
+      "title": "US Coast Guard and FBI board oil tanker to investigate cyber attack"
+    },
+    {
+      "added_at": 1792319731.8792107,
+      "ai": true,
+      "id": "add245d425eeb8bcca648b85689e72d3b2d88394",
+      "link": "https://securelist.com/moviereaper-malware-torrent-odyssey-solana/121344/",
+      "published": 1789650053.0,
+      "source": "Securelist",
+      "summary": "Kaspersky identified a MovieReaper campaign spreading via movie torrents.\nThe Trojan uses the Solana blockchain to hide its command‑and‑control infrastructure.\nIt targets users in multiple countries.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "The Odyssey and Trojans again: MovieReaper attacks users in multiple countries through compromised torrents"
+    },
+    {
+      "added_at": 1792319731.8792107,
+      "ai": true,
+      "id": "3cfa00bea7a5bf7b9fc56e0635da640f040b8676",
+      "link": "https://www.welivesecurity.com/en/cybercrime/eviltokens-phishing-doesnt-steal-password/",
+      "published": 1781513700.0,
+      "source": "WeLiveSecurity",
+      "summary": "A phishing kit exploits Microsoft’s authentication flow.\nAttackers can take over accounts without stealing passwords or creating fake login pages.\nThe kit bypasses standard login procedures.",
+      "tags": [],
+      "title": "EvilTokens: A phishing attack that doesn’t steal your password"
+    },
+    {
+      "added_at": 1792319731.8792107,
+      "ai": true,
+      "id": "b1f8c189922ad99d22f819efa7f6dd2b2b50f7a2",
+      "link": "https://labs.watchtowr.com/why-use-app-level-auth-when-every-database-has-auth-splunk-enterprise-cve-2026-20253-pre-auth-rce/",
+      "published": 1781296513.0,
+      "source": "watchTowr Labs",
+      "summary": "Splunk released an advisory for CVE‑2026‑20253.\nThe vulnerability allows pre‑authentication remote code execution in Splunk Enterprise.\nIt requires no user interaction to exploit.",
+      "tags": [
+        "#research",
+        "#exploit"
+      ],
+      "title": "Why Use App-Level Auth When Every Database Has Auth? (Splunk Enterprise CVE-2026-20253 Pre-Auth RCE)"
+    },
+    {
+      "added_at": 1792319731.8792107,
+      "ai": true,
+      "id": "2b7352fc235caa799a9de49924e0b6431ae6ff49",
+      "link": "https://labs.watchtowr.com/marking-your-own-homework-check-point-remote-access-vpn-ikev1-authentication-bypass-cve-2026-50751/",
+      "published": 1781241440.0,
+      "source": "watchTowr Labs",
+      "summary": "Check Point VPN IKEv1 has an authentication bypass flaw, CVE‑2026‑50751.\nAttackers can bypass authentication on remote access VPNs.\nThe vulnerability could allow unauthorized access.",
+      "tags": [
+        "#research",
+        "#exploit"
+      ],
+      "title": "Marking Your Own Homework (Check Point Remote Access VPN IKEv1 Authentication Bypass CVE-2026-50751)"
+    },
+    {
+      "added_at": 1792319731.8792107,
+      "ai": true,
+      "id": "a87887de0fe6255868457ae68ba36b01460650af",
+      "link": "https://labs.watchtowr.com/more-evidence-that-words-dont-mean-what-we-thought-they-meant-ivanti-sentry-pre-auth-os-command-injection-cve-2026-10520/",
+      "published": 1781052740.0,
+      "source": "watchTowr Labs",
+      "summary": "Ivanti Sentry contains a pre‑authentication OS command injection vulnerability, CVE‑2026‑10520.\nAttackers can execute arbitrary commands on the server.\nThe flaw is present in the Sentry product.",
+      "tags": [
+        "#research",
+        "#exploit"
+      ],
+      "title": "More Evidence That Words Don't Mean What We Thought They Meant (Ivanti Sentry Pre-Auth OS Command Injection CVE-2026-10520)"
+    },
+    {
+      "added_at": 1792319731.8792107,
+      "ai": true,
+      "id": "585001b1978a5c70adf9fbc807efee8d407400fc",
+      "link": "https://github.blog/security/raising-the-bar-quality-shared-responsibility-and-the-future-of-githubs-bug-bounty-program/",
+      "published": 1778853600.0,
+      "source": "Security Archives - The GitHub Blog",
+      "summary": "GitHub updated its bug bounty program to focus on quality submissions.\nThe changes clarify shared responsibility boundaries.\nRewards for low‑risk findings will be adjusted.",
+      "tags": [
+        "#appsec"
+      ],
+      "title": "Raising the bar: Quality, shared responsibility, and the future of GitHub’s bug bounty program"
+    },
+    {
+      "added_at": 1792319731.8792107,
+      "ai": true,
+      "id": "3e6f4335ce749d6c237aa4c8e42c360b84b4f664",
+      "link": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+      "published": 1778655600.0,
+      "source": "Project Zero",
+      "summary": "Researchers demonstrated a zero‑click exploit chain for the Google Pixel 10.\nThe chain achieves root via two exploits.\nIt builds on a prior Pixel 9 chain that used a Dolby vulnerability.",
+      "tags": [
+        "#vulnerability",
+        "#0day"
+      ],
+      "title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens"
+    },
+    {
+      "added_at": 1792319731.8792107,
+      "ai": true,
+      "id": "9a86af6e8c2fabbffa56e92e066b857378cef2f9",
+      "link": "https://portswigger.net/blog/the-beast-needs-a-cage-whats-next-for-appsec-post-mythos",
+      "published": 1778595527.0,
+      "source": "PortSwigger Blog",
+      "summary": "An article discusses the future of application security after Mythos.\nIt reflects on industry direction and challenges.\nThe piece considers new opportunities for AppSec.",
+      "tags": [
+        "#appsec"
+      ],
+      "title": "The beast needs a cage: What's next for AppSec post-Mythos"
     }
   ],
   "posted": []
