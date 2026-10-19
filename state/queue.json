@@ -1,484 +1,6 @@
 {
   "pending": [
     {
-      "added_at": 1792268269.398966,
-      "ai": true,
-      "id": "74a44f824ba0950d0757cee38fb3e0911edc7516",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
-      "published": 1792250331.0,
-      "source": "BleepingComputer",
-      "summary": "Hackers accessed ConnectWise Cloud Backup credentials and used them to compromise Microsoft 365 tenants. ConnectWise shut down the service to mitigate the breach.",
-      "tags": [],
-      "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack"
-    },
-    {
-      "added_at": 1792268269.398966,
-      "ai": true,
-      "id": "43fc56afbb2752b58692f2066ff9987b432b27b4",
-      "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
-      "published": 1792247568.0,
-      "source": "BleepingComputer",
-      "summary": "Drupal patched two critical vulnerabilities that could allow remote code execution on any supported CMS version. The company warned that exploits may appear soon.",
-      "tags": [],
-      "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon"
-    },
-    {
-      "added_at": 1792268269.398966,
-      "ai": true,
-      "id": "ff874f9be1925cec12e162239f6057a9a933722e",
-      "link": "https://www.theregister.com/security/2026/10/17/cybercrims-go-beyond-stealing-data-to-attack-physical-building-systems/5303677",
-      "published": 1792236600.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "Cybercriminals are extending their tactics to target physical building systems in addition to data theft.",
-      "tags": [],
-      "title": "Cybercrims go beyond stealing data to attack physical building systems"
-    },
-    {
-      "added_at": 1792268269.398966,
-      "ai": true,
-      "id": "1fae9cde44bf146fc8470e1b7795ab083ebf7d1d",
-      "link": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
-      "published": 1792235516.0,
-      "source": "The Hacker News",
-      "summary": "The malicious npm package \"imgdecode\" is part of the MALFEX supply‑chain attack, containing a shellcode loader in a Windows native addon and remains available on npm.",
-      "tags": [],
-      "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon"
-    },
-    {
-      "added_at": 1792268269.398966,
-      "ai": true,
-      "id": "2956b1e39e10f98f1f057b2561bec01013f5b2f6",
-      "link": "https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/",
-      "published": 1792234800.0,
-      "source": "SecurityWeek",
-      "summary": "Discover‑Tech’s advertising network was used to fingerprint devices and deliver zero‑click spyware, enabling large‑scale infections.",
-      "tags": [],
-      "title": "Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel"
-    },
-    {
-      "added_at": 1792268269.398966,
-      "ai": true,
-      "id": "f2639c17d104783566e0a11caa78e83a95203518",
-      "link": "https://www.welivesecurity.com/en/cybersecurity/inbox-flooded-signup-messages-email-bombing/",
-      "published": 1792141200.0,
-      "source": "WeLiveSecurity",
-      "summary": "Email bombing can flood inboxes with sign‑up messages, often indicating a broader malicious campaign.",
-      "tags": [],
-      "title": "Inbox flooded with sign-up messages? Email bombing explained"
-    },
-    {
-      "added_at": 1792268269.398966,
-      "ai": true,
-      "id": "3d15435ffe4d6ead3d90cfd83a5c98dc1208912d",
-      "link": "https://www.theregister.com/security/2026/10/10/two-characters-open-up-a-world-of-typosquatting-opportunities-in-chromium-browsers/5302383",
-      "published": 1791627300.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "Attackers exploit rare Cyrillic and Latin characters to create typosquatting domains that deceive Chromium browser users.",
-      "tags": [],
-      "title": "Two characters open up a world of typosquatting opportunities in Chromium browsers"
-    },
-    {
-      "added_at": 1792268269.398966,
-      "ai": true,
-      "id": "7f5dd566b2dd8d8cd689f202d357bb36a03a2891",
-      "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
-      "published": 1791591462.0,
-      "source": "Krebs on Security",
-      "summary": "The FBI arrested a co‑founder of a Canadian cybersecurity firm linked to the ShinyHunters ransomware group that exfiltrated sensitive data.",
-      "tags": [],
-      "title": "FBI Arrests Executive at Ransomware Negotiation Firm"
-    },
-    {
-      "added_at": 1792268269.398966,
-      "ai": true,
-      "id": "7545dfb137e3b00ed068a285c6640c050fe53cad",
-      "link": "https://www.rapid7.com/blog/post/it-asos-incident-attackers-using-channels-customers-trust",
-      "published": 1791369607.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "ASOS sent an unauthorized push notification claiming a Snowflake breach and directing customers to Telegram; the company is investigating the incident.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "The ASOS Incident: When Attackers Use the Channels Customers Trust"
-    },
-    {
-      "added_at": 1792268269.398966,
-      "ai": true,
-      "id": "27c8334a61d52f2b51d3fac5a963f499d5850da7",
-      "link": "https://www.infosecurity-magazine.com/news/cybersecurity-pros-rely-passwords/",
-      "published": 1791368100.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "A Yubico survey found that half of cybersecurity professionals still rely on passwords, highlighting a gap between awareness and secure authentication adoption.",
-      "tags": [],
-      "title": "Half of Cybersecurity Pros Still Rely on Passwords Despite Security Concerns"
-    },
-    {
-      "added_at": 1792268269.398966,
-      "ai": true,
-      "id": "445432276ec5fcecea734a2587668713bde9ac8e",
-      "link": "https://blog.talosintelligence.com/one-breach-please-and-make-no-mistakes/",
-      "published": 1791367225.0,
-      "source": "Cisco Talos Blog",
-      "summary": "Autonomous AI agents built in labs have attacked public infrastructure, showing that preparing for agentic threats is essential during incidents.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "One breach, please, and make no mistakes"
-    },
-    {
-      "added_at": 1792268269.398966,
-      "ai": true,
-      "id": "55d800a6f1de324b0cde27612dd9cc296b03463b",
-      "link": "https://www.infosecurity-magazine.com/news/pwn2own-hackers-32-zeroday/",
-      "published": 1791365100.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "Ethical hackers discovered 32 zero‑day vulnerabilities across multiple products at Pwn2Own Ireland.",
-      "tags": [],
-      "title": "Pwn2Own Hackers Find 32 Zero-Day Vulnerabilities on Day One"
-    },
-    {
-      "added_at": 1792268269.398966,
-      "ai": true,
-      "id": "999ceca9b1cf268ba9bd51e5b1940a001840c38a",
-      "link": "https://www.welivesecurity.com/en/social-media/brand-deal-scam-targeting-youtube-creators/",
-      "published": 1791363600.0,
-      "source": "WeLiveSecurity",
-      "summary": "A sponsorship offer can disguise an attempt to compromise a YouTube creator’s Google account.",
-      "tags": [],
-      "title": "Inside a brand deal scam targeting YouTube creators"
-    },
-    {
-      "added_at": 1792268269.398966,
-      "ai": true,
-      "id": "17d59a0b3ea91ff3fb96234de4e1c4d55eee23c2",
-      "link": "https://www.infosecurity-magazine.com/news/danish-cpr-breach-supply-chain-risk/",
-      "published": 1791361200.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "The Danish Central Register of Persons exposed data of 8.8 million citizens through third‑party access, highlighting supply‑chain risk.",
-      "tags": [],
-      "title": "Danish CPR Breach Highlights Challenge of Supply Chain Risk"
-    },
-    {
-      "added_at": 1792268269.398966,
-      "ai": true,
-      "id": "15d8931249241012cd4db75027f84225f923bc8f",
-      "link": "https://www.intigriti.com/blog/business-insights/beyond-asset-discovery-real-life-crowdrecon-use-case-explored",
-      "published": 1791331200.0,
-      "source": "Intigriti",
-      "summary": "CrowdRecon helps teams map assets, scan infrastructure, and track vulnerabilities, revealing evolving relationships and paths.",
-      "tags": [
-        "#bugbounty"
-      ],
-      "title": "Beyond asset discovery. Real-life CrowdRecon use case explored"
-    },
-    {
-      "added_at": 1792268269.398966,
-      "ai": true,
-      "id": "0e963e876be8023b69c02030f70ceeee68c9f047",
-      "link": "https://www.darkreading.com/application-security/google-pagebreak-ai-agent-500-flaws-web-apps",
-      "published": 1791309389.0,
-      "source": "darkreading",
-      "summary": "Google’s PageBreak AI agent identified 500 flaws in its web applications, demonstrating AI‑driven vulnerability detection.",
-      "tags": [],
-      "title": "Google's PageBreak AI Agent Finds 500 Flaws in Its Web Apps"
-    },
-    {
-      "added_at": 1792268269.398966,
-      "ai": true,
-      "id": "55d6c9d3c5f8106a88c132355fff30d812bd37c0",
-      "link": "https://portswigger.net/research/the-model-isnt-cooperating",
-      "published": 1791306893.0,
-      "source": "PortSwigger Research",
-      "summary": "The post explores why AI models sometimes fail to follow user instructions, examining underlying causes.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "The model isn't cooperating"
-    },
-    {
-      "added_at": 1792268269.398966,
-      "ai": true,
-      "id": "0d46526f733bfcef7fbe287dda6e970d79563bc9",
-      "link": "https://labs.watchtowr.com/you-wont-hear-about-these-even-in-myths-atlassian-jira-confluence-and-more-pre-auth-arbitrary-file-read-cve-2026-21589/",
-      "published": 1791306096.0,
-      "source": "watchTowr Labs",
-      "summary": "A pre‑authentication arbitrary file read vulnerability (CVE‑2026‑21589) affects Atlassian Jira and Confluence, underscoring ongoing security challenges.",
-      "tags": [
-        "#research",
-        "#exploit"
-      ],
-      "title": "You Won’t Hear About These, Even In Myths (Atlassian Jira, Confluence (and more) Pre-Auth Arbitrary File Read CVE-2026-21589)"
-    },
-    {
-      "added_at": 1792268269.398966,
-      "ai": true,
-      "id": "94a349cbbc4c3a42dbc4f9e46aaaca63874ef24b",
-      "link": "https://www.rapid7.com/blog/post/ai-securing-agent-to-agent-communication-next-identity-frontier",
-      "published": 1791295863.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "Existing security architectures fail to secure dynamic agent‑to‑agent interactions, necessitating new approaches for autonomous AI collaboration.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "Securing Agent-to-Agent Communication: The Next Identity Frontier"
-    },
-    {
-      "added_at": 1792268269.398966,
-      "ai": true,
-      "id": "b01b1ea281284cc621c245e5a0ccf12235ce59f5",
-      "link": "https://www.welivesecurity.com/en/business-security/quest-simplicity-why-smbs-want-advanced-protection-without-complexity/",
-      "published": 1791277200.0,
-      "source": "WeLiveSecurity",
-      "summary": "SMBs demand advanced cybersecurity solutions that are simple to deploy and manage, but the market often adds complexity.",
-      "tags": [],
-      "title": "The quest for simplicity: Why SMBs want advanced protection without the complexity"
-    },
-    {
-      "added_at": 1792268269.398966,
-      "ai": true,
-      "id": "163b6c2cf9aabd41112e9eb62937d5ebc4588fc7",
-      "link": "https://projectzero.google/2026/10/emergency-patching.html",
-      "published": 1791270000.0,
-      "source": "Project Zero",
-      "summary": "Project Zero works with vendors to remediate reported vulnerabilities and improve software security. Vendors express concerns about patch delivery limits that may prevent fixing immediate user harm. Project Zero handles a wide range of systems.",
-      "tags": [
-        "#vulnerability",
-        "#0day"
-      ],
-      "title": "How to fix a bug in a fix"
-    },
-    {
-      "added_at": 1792268269.398966,
-      "ai": true,
-      "id": "fbad828f4421a1fc4702eb44c598872ad5901b13",
-      "link": "https://www.fortra.com/blog/n0n-ransomware-what-you-need-know",
-      "published": 1791016194.0,
-      "source": "GRAHAM CLULEY",
-      "summary": "N0n is a newly emerged ransomware gang first spotted in September 2026. Within days it released victim details on a dark web leak site and has since increased its victim count. The story is detailed on the Fortra blog.",
-      "tags": [],
-      "title": "N0n ransomware: what you need to know"
-    },
-    {
-      "added_at": 1792268269.398966,
-      "ai": true,
-      "id": "d079a17148dbe51c1e5c4983ad45b2079751bd94",
-      "link": "https://blog.talosintelligence.com/give-yourself-room-to-be-human/",
-      "published": 1790877652.0,
-      "source": "Cisco Talos Blog",
-      "summary": "Amy reflects on prioritizing family and personal well-being over constant productivity pressure. The article emphasizes the importance of work‑life balance.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Give yourself room to be human"
-    },
-    {
-      "added_at": 1792268269.398966,
-      "ai": true,
-      "id": "7d6f890d8bce58ca410670477b07b5a49753177f",
-      "link": "https://www.rapid7.com/blog/post/ai-changing-security-operations-center-roles-soc",
-      "published": 1790859600.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "AI now handles enrichment, correlation, and initial assessment in SOCs, requiring redesign of roles, skills, and KPIs. Leaders must decide where automation is reliable and where human judgment remains essential.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "How AI Is Changing the Roles Required in the Security Operations Center"
-    },
-    {
-      "added_at": 1792268269.398966,
-      "ai": true,
-      "id": "04183963b9d8e8822fd6f1495d95c2716c6e5a15",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/fbi-shinyhunters-turn-themselves-in-arrest-leader",
-      "published": 1790852018.0,
-      "source": "GRAHAM CLULEY",
-      "summary": "The FBI urges ShinyHunters members to surrender after arresting a suspected leader. Assistant director Brett Leatherman released a video thanking Dutch police for the arrest, which also involves a murder plot suspect. The story is on Hot for Security.",
-      "tags": [],
-      "title": "FBI tells ShinyHunters members to turn themselves in, after arrest of alleged leader"
-    },
-    {
-      "added_at": 1792268269.398966,
-      "ai": true,
-      "id": "6b9c4b3e9dc911f9c52f61e7d2b8530622fd2662",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/shinyhunters-suspect-arrested-now-investigated-alleged-murder-plots",
-      "published": 1790851923.0,
-      "source": "GRAHAM CLULEY",
-      "summary": "A key figure in the ShinyHunters cybercrime group was arrested in the Netherlands and is being investigated for attempting to arrange two murders. The incident is reported on Hot for Security.",
-      "tags": [],
-      "title": "ShinyHunters suspect arrested, and is now investigated over alleged murder plots"
-    },
-    {
-      "added_at": 1792268269.398966,
-      "ai": true,
-      "id": "4d43b6c7b064be1335cb42b43eb3ef26370a6ecc",
-      "link": "https://blog.talosintelligence.com/the-fine-art-of-frustrating-the-adversary/",
-      "published": 1790848805.0,
-      "source": "Cisco Talos Blog",
-      "summary": "Cisco Talos researchers share eight tactics to frustrate adversaries, including deception, behavioral detection, breaking attack dependencies, and resisting urgency. The article outlines practical ways to slow adversary moves.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "The Fine Art of Frustrating the Adversary"
-    },
-    {
-      "added_at": 1792268269.398966,
-      "ai": true,
-      "id": "a2c6481b2f81eb3622407cae6d3c21227f1758ca",
-      "link": "https://www.rapid7.com/blog/post/etr-critical-cisco-catalyst-sd-wan-manager-api-authentication-bypass-exploited-in-the-wild-cve-2026-76504",
-      "published": 1790780962.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "Cisco disclosed a critical API authentication bypass (CVE-2026-76504) affecting its SD‑WAN Manager, with a CVSS score of 9.8. Attackers can send crafted HTTP requests to bypass authentication due to improper URL encoding. The vulnerability was exploited in the wild.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "Critical Cisco Catalyst SD-WAN Manager API authentication bypass exploited in the wild (CVE-2026-76504)"
-    },
-    {
-      "added_at": 1792268269.398966,
-      "ai": true,
-      "id": "2913841e729c883a0f0066434d03d1483a11d505",
-      "link": "https://www.rapid7.com/blog/post/it-higher-education-under-siege-fragmented-security",
-      "published": 1790777797.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "Higher education institutions face large volumes of sensitive data and complex environments, making them targets. In Q2 2025, universities experienced an average of 4,388 cyber incidents, increasing pressure on security teams.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "Higher education is under siege, and fragmented security is making it harder to respond"
-    },
-    {
-      "added_at": 1792268269.398966,
-      "ai": true,
-      "id": "064692977b9f759f2e83049346467d3f1d94de35",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/pentagon-personnel-database-breach-personal-data-millions",
-      "published": 1790763637.0,
-      "source": "GRAHAM CLULEY",
-      "summary": "A Pentagon personnel database was breached for nine months, affecting over three million people. The breach went unnoticed until discovered. The incident is detailed on Hot for Security.",
-      "tags": [],
-      "title": "Pentagon personnel database breach exposes personal data of millions"
-    },
-    {
-      "added_at": 1792268269.398966,
-      "ai": true,
-      "id": "b4bc5adc38d7024cc0f77a905ee95a137e291e40",
-      "link": "https://blog.talosintelligence.com/china-nexus-uat-11587-targets-government-and-policy-organizations-across-asia-with-antino-backdoor/",
-      "published": 1790762401.0,
-      "source": "Cisco Talos Blog",
-      "summary": "Cisco Talos identified the UAT-11587 campaign targeting Asian government and policy organizations. The group deployed an undocumented backdoor named Antino via developer artifacts.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "China-nexus UAT-11587 targets government and policy organizations across Asia with Antino backdoor"
-    },
-    {
-      "added_at": 1792268269.398966,
-      "ai": true,
-      "id": "56700f399dd97d1fb8e58efd09a746f99b929316",
-      "link": "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-september-2026/",
-      "published": 1790755200.0,
-      "source": "WeLiveSecurity",
-      "summary": "Tony Anscombe highlights autonomous AI agents launching hacks and Microsoft’s release of a year's worth of security patches in a single update, stressing the need to keep pace.",
-      "tags": [],
-      "title": "This month in security with Tony Anscombe – September 2026 edition"
-    },
-    {
-      "added_at": 1792268269.398966,
-      "ai": true,
-      "id": "9500df075a9b45c20ed054106945e659fd708de8",
-      "link": "https://labs.watchtowr.com/here-we-go-again-citrix-netscaler-dtls-preauth-memory-overflow-cve-2026-88772/",
-      "published": 1790690135.0,
-      "source": "watchTowr Labs",
-      "summary": "Research exposes a Citrix NetScaler DTLS preauthentication memory overflow (CVE-2026-88772). The watchTowr platform demonstrates rapid response capabilities to emerging threats.",
-      "tags": [
-        "#research",
-        "#exploit"
-      ],
-      "title": "Here We Go Again (Citrix NetScaler DTLS Preauth Memory Overflow CVE-2026-88772)"
-    },
-    {
-      "added_at": 1792268269.398966,
-      "ai": true,
-      "id": "532da234a8a9ed9dc0a07dc319b683969a60b094",
-      "link": "https://www.welivesecurity.com/en/business-security/smb-cyber-readiness-road-resilience-starts-here/",
-      "published": 1782463800.0,
-      "source": "WeLiveSecurity",
-      "summary": "Small businesses face extensive attack surfaces; establishing cyber readiness is the first step toward building resilience.",
-      "tags": [],
-      "title": "SMB cyber readiness: the road to resilience starts here"
-    },
-    {
-      "added_at": 1792268269.398966,
-      "ai": true,
-      "id": "154671ccc90399a7b5e0c257bfc4081a30ef8c8e",
-      "link": "https://www.welivesecurity.com/en/eset-research/gamaredon-2025-leveraging-tunnels-workers-dead-drops-new-alliances/",
-      "published": 1782377100.0,
-      "source": "WeLiveSecurity",
-      "summary": "ESET Research examines Gamaredon's updated toolset, noting increased use of legitimate online services for command‑and‑control and data exfiltration.",
-      "tags": [],
-      "title": "Gamaredon in 2025: Leveraging tunnels, workers, dead drops, and new alliances"
-    },
-    {
-      "added_at": 1792268269.398966,
-      "ai": true,
-      "id": "2fd947715d55cdf24f1eba9721f48e8c28710170",
-      "link": "https://www.welivesecurity.com/en/eset-research/eset-takes-part-operation-endgame-disrupt-amadey-stealc/",
-      "published": 1782304524.0,
-      "source": "WeLiveSecurity",
-      "summary": "ESET researchers contributed technical analysis, infrastructure tracking, and affiliate insights to Operation Endgame, disrupting the Amadey botnet and Stealc infostealer.",
-      "tags": [],
-      "title": "ESET takes part in Operation Endgame to disrupt Amadey and Stealc"
-    },
-    {
-      "added_at": 1792268269.398966,
-      "ai": true,
-      "id": "0eab1f6043c37736df99ad90dce3ae154c455025",
-      "link": "https://portswigger.net/blog/burp-extensibility-2026-awards-talks-and-highlights",
-      "published": 1781871494.0,
-      "source": "PortSwigger Blog",
-      "summary": "The 2026 Burp Suite Extension Awards highlighted top extensions in Recon & Discovery, Auth & Access Control, Workflow & Manipulation, and API & Specialist Testing, with several hidden gems recognized.",
-      "tags": [
-        "#appsec"
-      ],
-      "title": "Burp Extensibility 2026: Awards, Talks, and Highlights"
-    },
-    {
-      "added_at": 1792268269.398966,
-      "ai": true,
-      "id": "8eb1a138fda08bb92ccf91ccfe143ab592e212d6",
-      "link": "https://www.welivesecurity.com/en/eset-research/killing-me-gently-inside-gentlemens-edr-killer-framework/",
-      "published": 1781775992.0,
-      "source": "WeLiveSecurity",
-      "summary": "ESET Research investigated Gentlemen RaaS’s suite of EDR kill‑switches, revealing how the gang deploys tools to disable endpoint detection and response systems.",
-      "tags": [],
-      "title": "Killing me gently: Inside Gentlemen’s EDR killer framework"
-    },
-    {
-      "added_at": 1792268269.398966,
-      "ai": true,
-      "id": "3858e7ac2e4ca6fee81f3780e62ff8747f06dbc7",
-      "link": "https://www.welivesecurity.com/en/critical-infrastructure/protecting-legacy-ot-systems-modern-threats/",
-      "published": 1781685900.0,
-      "source": "WeLiveSecurity",
-      "summary": "Long‑running OT systems in manufacturing plants pose hidden cybersecurity risks; protecting these legacy assets is essential to mitigate modern threats.",
-      "tags": [],
-      "title": "Protecting legacy OT systems against modern cyberthreats"
-    },
-    {
-      "added_at": 1792268269.398966,
-      "ai": true,
-      "id": "cda8525dba3d99622bc5c2eefb2b4c0718dd04fb",
-      "link": "https://www.welivesecurity.com/en/eset-research/fishmongers-arsenal-upgraded-sprysocks-windows/",
-      "published": 1781600044.0,
-      "source": "WeLiveSecurity",
-      "summary": "ESET researchers uncovered SprySOCKS for Windows, a FishMonger backdoor that uses a kernel‑level driver to achieve advanced stealth and persistence.",
-      "tags": [],
-      "title": "FishMonger’s arsenal upgraded: SprySOCKS for Windows"
-    },
-    {
       "added_at": 1792319731.8792107,
       "ai": true,
       "id": "952b3a6c7b9c760d0adc18e4758d2a484db0de4d",
@@ -1950,6 +1472,464 @@
         "#bugbounty"
       ],
       "title": "CrowdRecon is coming: turning hacker reconnaissance into security intelligence"
+    },
+    {
+      "added_at": 1792447613.1963692,
+      "ai": true,
+      "id": "5a8d0413be6f3aca628650df47e7e8140b425b2e",
+      "link": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/",
+      "published": 1792446588.0,
+      "source": "BleepingComputer",
+      "summary": "Nikkei Inc. disclosed a third data breach in about a month, exposing 1.83 million personal records.\nThe breach involved personal information but no further details were released.",
+      "tags": [],
+      "title": "Nikkei discloses third data breach in a month, 1.8M records exposed"
+    },
+    {
+      "added_at": 1792447613.1963692,
+      "ai": true,
+      "id": "a4cd23325612accf24618e05e935325dfb583d14",
+      "link": "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/",
+      "published": 1792445091.0,
+      "source": "BleepingComputer",
+      "summary": "Downloads of the Rank Math PRO WordPress plugin from the vendor’s official site carried malware.\nThe malware planted hidden backdoors in a supply‑chain attack.",
+      "tags": [],
+      "title": "WordPress SEO plugin Rank Math compromised to backdoor websites"
+    },
+    {
+      "added_at": 1792447613.1963692,
+      "ai": true,
+      "id": "cd2448e33b82aa7d0f98c524e19badb17b02d5f6",
+      "link": "https://www.darkreading.com/threat-intelligence/microsoft-tech-support-scam-operation",
+      "published": 1792444421.0,
+      "source": "darkreading",
+      "summary": "Researchers infiltrated a large‑scale Microsoft impersonation scam.\nThe operation used a malicious traffic distribution system run by a Russian organization and abused thousands of Cloudflare links.",
+      "tags": [],
+      "title": "Researchers Infiltrate Microsoft Tech Support Scam Operation"
+    },
+    {
+      "added_at": 1792447613.1963692,
+      "ai": true,
+      "id": "8c0757d8205e262e888c198cab955ef9739fd763",
+      "link": "https://www.theregister.com/security/2026/10/19/grocery-giant-ahold-delhaize-confirms-cyberattack-forced-us-and-european-systems-offline/5303970",
+      "published": 1792441581.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "Ahold Delhaize confirmed a cyberattack that forced its US and European systems offline.\nThis marks a second security incident in two years.",
+      "tags": [],
+      "title": "Grocery giant Ahold Delhaize confirms cyberattack forced US and European systems offline"
+    },
+    {
+      "added_at": 1792447613.1963692,
+      "ai": true,
+      "id": "553c25ef77944fe278ee6760bd5418f2f9e65abd",
+      "link": "https://www.darkreading.com/data-privacy/adfection-online-ads-spyware-delivery",
+      "published": 1792439701.0,
+      "source": "darkreading",
+      "summary": "AdFection exploits targeted ad bidding to deliver zero‑click spyware.\nThe technique allows vendors to identify and track individuals and organizations.",
+      "tags": [],
+      "title": "'AdFection' Turns Ad Impressions Into Zero-Click Spyware Delivery"
+    },
+    {
+      "added_at": 1792447613.1963692,
+      "ai": true,
+      "id": "d781dbabb69488eb98644b1e75e9a7bf13c28261",
+      "link": "https://therecord.media/whatsapp-denied-appeal-alleged-nso-group-violation-injunction",
+      "published": 1792439340.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "A federal judge denied WhatsApp’s request to hold NSO Group in contempt.\nThe judge cited insufficient disclosure by WhatsApp regarding the alleged spyware use.",
+      "tags": [
+        "#news"
+      ],
+      "title": "Judge denies WhatsApp’s bid to hold spyware maker in contempt for allegedly targeting users"
+    },
+    {
+      "added_at": 1792447613.1963692,
+      "ai": true,
+      "id": "dc9813bc2d425c7d16f17c56cf2d94af024e4f18",
+      "link": "https://therecord.media/connectwise-suspends-cloud-backup-service-supply-chain-attack",
+      "published": 1792439100.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "ConnectWise suspended its Cloud Backup service after confirming unauthorized access to the environment.\nThe action followed a supply‑chain attack.",
+      "tags": [
+        "#news"
+      ],
+      "title": "ConnectWise suspends Cloud Backup service after supply chain attack"
+    },
+    {
+      "added_at": 1792447613.1963692,
+      "ai": true,
+      "id": "ff25b976bdfa1d9ff1dad11eb92adf087c5f17bc",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
+      "published": 1792438858.0,
+      "source": "BleepingComputer",
+      "summary": "Hackers compromised AOMEI’s update servers to distribute malware via a promotional feature in its backup software.\nThey briefly tampered with configuration files before restoring them to hide the attack.",
+      "tags": [],
+      "title": "Hackers hijack AOMEI update servers to secretly spread malware"
+    },
+    {
+      "added_at": 1792447613.1963692,
+      "ai": true,
+      "id": "3e1278093e934b6a8a83ff1de4655867483e4a86",
+      "link": "https://www.darkreading.com/identity-access-management-security/connectwise-disables-cloud-backups-downstream-msps",
+      "published": 1792437573.0,
+      "source": "darkreading",
+      "summary": "Researchers found attackers authenticated into Microsoft 365 tenants using ConnectWise credentials.\nConnectWise said customer impact remains unconfirmed.",
+      "tags": [],
+      "title": "ConnectWise Disables Cloud Backups Amid Concerns for Downstream MSPs"
+    },
+    {
+      "added_at": 1792447613.1963692,
+      "ai": true,
+      "id": "06accfcb31a1d0808596eb415fdcd7f48a8b31cd",
+      "link": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
+      "published": 1792435873.0,
+      "source": "BleepingComputer",
+      "summary": "Bullhorn disabled access to its staffing platform to contain a cyberattack that caused a system‑wide outage.\nThe move was taken to prevent further spread of the attack.",
+      "tags": [],
+      "title": "Bullhorn takes staffing platform offline to contain cyberattack"
+    },
+    {
+      "added_at": 1792447613.1963692,
+      "ai": true,
+      "id": "5a936d0dc13b0356f0d8f71c30c0f73318346b5b",
+      "link": "https://therecord.media/serbia-spyware-pegasus-elections",
+      "published": 1792435500.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "Pegasus spyware infected the phone of the University of Belgrade rector, marking a third discovery in a series of attacks on Serbian opposition figures ahead of national elections.",
+      "tags": [
+        "#news"
+      ],
+      "title": "Two more Serbian opposition figures targeted with spyware, researchers say"
+    },
+    {
+      "added_at": 1792447613.1963692,
+      "ai": true,
+      "id": "f54f75da3d7ca2b70933ca4389a571e38f126d2c",
+      "link": "https://cyberscoop.com/wyden-urges-federal-adoption-encrypted-client-hello/",
+      "published": 1792434452.0,
+      "source": "CyberScoop",
+      "summary": "Senator Wyden calls for encryption technology adoption across federal agencies to safeguard sensitive visitor traffic, citing risks to whistleblowers and other vulnerable groups.",
+      "tags": [],
+      "title": "Wyden seeks adoption of encryption tech at hundreds of federal agencies to protect visitors’ sensitive traffic"
+    },
+    {
+      "added_at": 1792447613.1963692,
+      "ai": true,
+      "id": "f06325b7751d2c55def1451ab72bd0713c92aa7e",
+      "link": "https://www.theregister.com/patches/2026/10/19/security-patches-need-patches-now-that-attackers-have-ai/5303927",
+      "published": 1792434220.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "Terra reports a sharp increase in GitHub security fixes that become broken within 90 days, highlighting the need for timely patching amid AI‑driven attacks.",
+      "tags": [],
+      "title": "Security patches need patches now that attackers have AI"
+    },
+    {
+      "added_at": 1792447613.1963692,
+      "ai": true,
+      "id": "561dd3f2eda51546b66d876363e1c83d2343d2c1",
+      "link": "https://www.securityweek.com/siemens-software-center-vulnerability-exploited-in-clickfix-malware-attacks/",
+      "published": 1792433739.0,
+      "source": "SecurityWeek",
+      "summary": "Attackers exploited a Siemens Software Center vulnerability by pairing a signed copy with malicious DLLs, delivering malware through ClickFix lures to Windows PCs.",
+      "tags": [],
+      "title": "Siemens Software Center Vulnerability Exploited in ClickFix Malware Attacks"
+    },
+    {
+      "added_at": 1792447613.1963692,
+      "ai": true,
+      "id": "143bfdf19e2bc5d69819fffe2b5bbb199145a514",
+      "link": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
+      "published": 1792431133.0,
+      "source": "The Hacker News",
+      "summary": "Threat actors chain four Plex Media Server vulnerabilities—Plex2Shell—to install cryptocurrency miners and a reverse‑proxy backdoor on Linux systems.",
+      "tags": [],
+      "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor"
+    },
+    {
+      "added_at": 1792447613.1963692,
+      "ai": true,
+      "id": "c8f4e94200b3a33f390ddb6d813098e0690a874b",
+      "link": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
+      "published": 1792430835.0,
+      "source": "BleepingComputer",
+      "summary": "OpenCode informs users that API keys for external providers were exposed in a breach, potentially enabling AI distillation attacks.",
+      "tags": [],
+      "title": "OpenCode hack exposes API keys amid AI distillation attacks"
+    },
+    {
+      "added_at": 1792447613.1963692,
+      "ai": true,
+      "id": "425846ce93981910ed1bc1b85c3eb25d77b5c251",
+      "link": "https://therecord.media/ahold-delhaize-cyberattack-grocery",
+      "published": 1792428300.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "Ahold Delhaize attributes recent system outages across its U.S. and European brands to a cyberattack that disrupted operations and affected shoppers.",
+      "tags": [
+        "#news"
+      ],
+      "title": "Ahold Delhaize confirms 'malicious actions' behind cyber outages affecting grocery brands"
+    },
+    {
+      "added_at": 1792447613.1963692,
+      "ai": true,
+      "id": "71965359535822fcfe9719d5f2b91dc6c692ed96",
+      "link": "https://www.rapid7.com/blog/post/ai-inhuman-insider-threats-securing-agents",
+      "published": 1792427683.0,
+      "source": "Rapid7 Cybersecurity Blog",
+      "summary": "The article argues that AI agents must be governed by external controls to mitigate insider threats, proposing security operations teams implement such measures.",
+      "tags": [
+        "#vulnerability"
+      ],
+      "title": "Your Next Insider Threat Won’t be Human: Securing AI Agents From the Outside in"
+    },
+    {
+      "added_at": 1792447613.1963692,
+      "ai": true,
+      "id": "4ad529ab62166d3cfccc952a0eb216b65dca5f80",
+      "link": "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
+      "published": 1792427327.0,
+      "source": "The Hacker News",
+      "summary": "Rank Math PRO plugin copies released between Oct 15–16 were compromised with a self‑restoring backdoor; sites that installed them should consider themselves compromised.",
+      "tags": [],
+      "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor"
+    },
+    {
+      "added_at": 1792447613.1963692,
+      "ai": true,
+      "id": "d43c265cb0a39bedec0c60a6c00354ed18bbaa72",
+      "link": "https://www.rapid7.com/blog/post/ve-authentication-bypass-remote-code-execution-and-database-read-in-eptura-archibus-fixed",
+      "published": 1792425463.0,
+      "source": "Rapid7 Cybersecurity Blog",
+      "summary": "Rapid7 identified three vulnerabilities in Eptura Archibus—a legacy API endpoint allowing authentication bypass, remote code execution, and full database read—now fixed.",
+      "tags": [
+        "#vulnerability"
+      ],
+      "title": "Authentication Bypass, Remote Code Execution, and Database Read in Eptura Archibus (FIXED)"
+    },
+    {
+      "added_at": 1792447613.1963692,
+      "ai": true,
+      "id": "f650fcc751bf590a69bd5417dcd01421a26e14fa",
+      "link": "https://therecord.media/russian-social-media-giant-vk-faces-disruptions-drone-strike-data-center",
+      "published": 1792425300.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "VK users report difficulties loading news feeds, music, and other features following a data center drone strike that began Sunday.",
+      "tags": [
+        "#news"
+      ],
+      "title": "Russian social media giant VK faces disruptions after data center drone strike"
+    },
+    {
+      "added_at": 1792447613.1963692,
+      "ai": true,
+      "id": "c2afa77235015720f163e7d36b239463be165dce",
+      "link": "https://www.securityweek.com/drupal-warns-of-fast-exploitation-risk-for-critical-core-rce-flaw/",
+      "published": 1792424870.0,
+      "source": "SecurityWeek",
+      "summary": "Drupal warns of a critical remote code execution flaw affecting Entity List and Field UI modules, with exploit paths via contributed modules.",
+      "tags": [],
+      "title": "Drupal Warns of Fast Exploitation Risk for Critical Core RCE Flaw"
+    },
+    {
+      "added_at": 1792447613.1963692,
+      "ai": true,
+      "id": "8b887cc388b4b0a152d89f7c2936e72c56339aae",
+      "link": "https://cyberscoop.com/dhs-bans-deepseek-federal-agencies/",
+      "published": 1792423640.0,
+      "source": "CyberScoop",
+      "summary": "The Department of Homeland Security has prohibited the use of DeepSeek in federal civilian agencies due to national security concerns, including data transmission to China and malware risk.",
+      "tags": [],
+      "title": "DHS to ban DeepSeek from federal civilian agencies"
+    },
+    {
+      "added_at": 1792447613.1963692,
+      "ai": true,
+      "id": "1419b8dc407c140b55bc2dd4b1fd4fd04b21f879",
+      "link": "https://www.infosecurity-magazine.com/news/exploited-vulnerabilities-three/",
+      "published": 1792423500.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "A Moody’s report finds that known exploited vulnerabilities take a median of 87 days to patch, indicating a typical three-month window.",
+      "tags": [],
+      "title": "Exploited Vulnerabilities Typically Take Three Months to Patch, Moody’s Finds"
+    },
+    {
+      "added_at": 1792447613.1963692,
+      "ai": true,
+      "id": "c513afb9763bce9956cba37a1402c2f652c67041",
+      "link": "https://www.securityweek.com/rank-math-pro-wordpress-plugin-compromised-in-supply-chain-attack/",
+      "published": 1792423253.0,
+      "source": "SecurityWeek",
+      "summary": "Rank Math PRO version 3.0.123 was compromised by malware injection in October 2026, affecting packages distributed between Oct 15‑16.",
+      "tags": [],
+      "title": "Rank Math PRO WordPress Plugin Compromised in Supply Chain Attack"
+    },
+    {
+      "added_at": 1792447613.1963692,
+      "ai": true,
+      "id": "1984747c4f33937c6fad5c977948fdc3d876f924",
+      "link": "https://www.rapid7.com/blog/post/ra-netscaler-intrusions-chaining-cve-2026-88771-and-cve-2026-88779",
+      "published": 1792422717.0,
+      "source": "Rapid7 Cybersecurity Blog",
+      "summary": "Rapid7 analysis reveals Citrix NetScaler ADC appliances on build 14.1 were compromised via CVE‑2026‑88771 and CVE‑2026‑88779, enabling root code execution and persistence.",
+      "tags": [
+        "#vulnerability"
+      ],
+      "title": "Rapid7 Analysis: NetScaler intrusions chaining CVE-2026-88771 and CVE-2026-88779"
+    },
+    {
+      "added_at": 1792447613.1963692,
+      "ai": true,
+      "id": "6e689f58716dcd5bf0184f10f46b655968c6e4ff",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update/",
+      "published": 1792421723.0,
+      "source": "BleepingComputer",
+      "summary": "Microsoft addressed a bug in the September 2026 Windows 11 preview update that caused games and apps using AC‑3 audio decoding to crash.",
+      "tags": [],
+      "title": "Microsoft fixes game, app crashes caused by recent Windows update"
+    },
+    {
+      "added_at": 1792447613.1963692,
+      "ai": true,
+      "id": "c7fd768c926c2c12696739ed099de0efa802eb0e",
+      "link": "https://www.rapid7.com/blog/post/etr-cve-2026-102764-critical-beyondtrust-remote-support-authentication-bypass-exploited-in-the-wild",
+      "published": 1792420444.0,
+      "source": "Rapid7 Cybersecurity Blog",
+      "summary": "BeyondTrust disclosed CVE‑2026‑102764, a critical authentication bypass in Remote Support that allows unauthenticated attackers to perform file operations on affected appliances.",
+      "tags": [
+        "#vulnerability"
+      ],
+      "title": "CVE-2026-102764: Critical BeyondTrust Remote Support Authentication Bypass Exploited in the Wild"
+    },
+    {
+      "added_at": 1792447613.1963692,
+      "ai": true,
+      "id": "e4ddb72db383543f93ef87d3b1ce1e3a02bf72fe",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/onlyfans-copyright-takedowns-expose-compromised-websites",
+      "published": 1792420091.0,
+      "source": "darkreading",
+      "summary": "OnlyFans copyright takedown requests are exposing compromised university and government websites, revealing attackers manipulating search results.",
+      "tags": [],
+      "title": "OnlyFans Copyright Takedowns Expose Compromised Websites"
+    },
+    {
+      "added_at": 1792447613.1963692,
+      "ai": true,
+      "id": "87778142388aacab69dea3dc050a6e503d7c9e4c",
+      "link": "https://www.infosecurity-magazine.com/news/conduent-settle-data-breach-action/",
+      "published": 1792419300.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "Conduent agreed to pay $80 million to settle a class action lawsuit over a 2024 data breach that exposed healthcare data of 62 million people.",
+      "tags": [],
+      "title": "Conduent Agrees to Pay $80m to Settle Data Breach Class Action"
+    },
+    {
+      "added_at": 1792447613.1963692,
+      "ai": true,
+      "id": "03d3ba9d36cc06435f2dd3a7c2f05d3f0df9f6de",
+      "link": "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html",
+      "published": 1792419247.0,
+      "source": "The Hacker News",
+      "summary": "The weekly recap highlights 98 zero-day vulnerabilities, rogue AI agents, a $100M crypto theft, and attacks on 700 supermarkets, among other incidents.",
+      "tags": [],
+      "title": "⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More"
+    },
+    {
+      "added_at": 1792447613.1963692,
+      "ai": true,
+      "id": "10c7257940ccee9d600a3141ffba12be8715aeb6",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/",
+      "published": 1792418410.0,
+      "source": "BleepingComputer",
+      "summary": "The article examines how cybercriminals sell forged IDs, deepfake videos, and live verification services to bypass KYC checks, detailing underground operations and techniques.",
+      "tags": [],
+      "title": "Inside the Underground Market for Know Your Client Services"
+    },
+    {
+      "added_at": 1792447613.1963692,
+      "ai": true,
+      "id": "6e8696034a920beba644e1ec65ed05c65069d3ab",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/cybersecurity-lexicon-vulnerability-discovery-resilience",
+      "published": 1792418400.0,
+      "source": "darkreading",
+      "summary": "The piece discusses how an industry focus on vulnerability discovery has limited teams' ability to plan for resilience, outlining the evolving cybersecurity lexicon.",
+      "tags": [],
+      "title": "The Evolving Cybersecurity Lexicon: Vulnerability Discovery to Resilience"
+    },
+    {
+      "added_at": 1792447613.1963692,
+      "ai": true,
+      "id": "59b0e474cfa72377e1ff4d0f7b24389f1285d037",
+      "link": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/",
+      "published": 1792417764.0,
+      "source": "BleepingComputer",
+      "summary": "F5 released out-of-band patches for multiple NGINX web server flaws, including three critical vulnerabilities that could allow attackers to execute code.",
+      "tags": [],
+      "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities"
+    },
+    {
+      "added_at": 1792447613.1963692,
+      "ai": true,
+      "id": "5f2037864b2f69b178914b0d63c953678c9f5531",
+      "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "published": 1792417736.0,
+      "source": "Krebs on Security",
+      "summary": "Federal investigators link executives of two ransomware negotiation firms to the ShinyHunters group that stole FBI data, with one executive allegedly assisting the attackers.",
+      "tags": [],
+      "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site"
+    },
+    {
+      "added_at": 1792447613.1963692,
+      "ai": true,
+      "id": "fd5afa5349e9afbf6fc66022b8bf5ef4ca4a5b68",
+      "link": "https://www.helpnetsecurity.com/2026/10/19/axonius-ai-workforce/",
+      "published": 1792417091.0,
+      "source": "Help Net Security",
+      "summary": "Axonius introduced AI Workforce, a virtual worker platform that monitors environments, identifies high-risk exposures, remediates issues, and reports progress with human‑in‑the‑loop approvals.",
+      "tags": [],
+      "title": "Axonius AI Workforce pairs asset intelligence with automated action"
+    },
+    {
+      "added_at": 1792447613.1963692,
+      "ai": true,
+      "id": "531572f7c55d89acaa8bbb8d377983c9d2cebb22",
+      "link": "https://www.helpnetsecurity.com/2026/10/19/connectwise-cloud-backup-suspended-security-incident/",
+      "published": 1792416837.0,
+      "source": "Help Net Security",
+      "summary": "ConnectWise suspended its Cloud Backup service after attackers used compromised credentials from the application to access customers' Microsoft 365 accounts.",
+      "tags": [],
+      "title": "ConnectWise suspends Cloud Backup service after attackers abuse its Microsoft 365 access"
+    },
+    {
+      "added_at": 1792447613.1963692,
+      "ai": true,
+      "id": "2c03e3806e741d5f7cbed0ca0f73057ce9f2f859",
+      "link": "https://www.infosecurity-magazine.com/news/opencode-breach-openai-anthropic/",
+      "published": 1792416600.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "A breach of the OpenCode Console may expose API keys for Anthropic, OpenAI, and Google Gemini users, potentially compromising their services.",
+      "tags": [],
+      "title": "OpenCode Breach Could Affect OpenAI, Anthropic and Google"
+    },
+    {
+      "added_at": 1792447613.1963692,
+      "ai": true,
+      "id": "54614ce52317276d4b217f08c126bb6834aa2bd2",
+      "link": "https://www.helpnetsecurity.com/2026/10/19/sweet-security-virtual-patching/",
+      "published": 1792416486.0,
+      "source": "Help Net Security",
+      "summary": "Sweet Security launched Virtual Patching, a one‑click solution that protects cloud and AI workloads from identified vulnerabilities until permanent fixes are deployed.",
+      "tags": [],
+      "title": "Sweet Security adds one-click protection for vulnerable cloud workloads"
+    },
+    {
+      "added_at": 1792447613.1963692,
+      "ai": true,
+      "id": "acf12ad31aacbc6b453a389b2ae9e4bac44a8bb8",
+      "link": "https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/",
+      "published": 1792415780.0,
+      "source": "SecurityWeek",
+      "summary": "ConnectWise has suspended its cloud services following a cyberattack and is conducting remediation and security validation; services remain unavailable.",
+      "tags": [],
+      "title": "ConnectWise Suspends Cloud Services in Response to Cyberattack"
     }
   ],
   "posted": []
