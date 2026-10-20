@@ -1,517 +1,6 @@
 {
   "pending": [
     {
-      "added_at": 1792319731.8792107,
-      "ai": true,
-      "id": "952b3a6c7b9c760d0adc18e4758d2a484db0de4d",
-      "link": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
-      "published": 1792311782.0,
-      "source": "The Hacker News",
-      "summary": "ConnectWise disabled seven application identities after attackers accessed them and compromised Microsoft 365 tenants. Investigation is ongoing. The disabled identity includes ConnectWise Cloud Backup.",
-      "tags": [],
-      "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants"
-    },
-    {
-      "added_at": 1792319731.8792107,
-      "ai": true,
-      "id": "14fcc0d971132d81c1a82b92c1dd553be0264afb",
-      "link": "https://www.helpnetsecurity.com/2026/10/18/week-in-review-hidden-implant-in-ledger-wallets-linked-to-93m-theft-1500-npm-packages-exposed/",
-      "published": 1792310430.0,
-      "source": "Help Net Security",
-      "summary": "Review highlights a hidden implant in Ledger wallets linked to a $93 million theft and the exposure of over 1,500 npm packages. It also mentions Strands Box, an open‑source sandbox for AI agents.",
-      "tags": [],
-      "title": "Week in review: Hidden implant in Ledger wallets linked to $93M theft, 1,500+ npm packages exposed"
-    },
-    {
-      "added_at": 1792319731.8792107,
-      "ai": true,
-      "id": "b297d2b311175806cad39004f37e63a046d62810",
-      "link": "https://unit42.paloaltonetworks.com/agentic-ai-kubernetes-operator-risks/",
-      "published": 1790676048.0,
-      "source": "Unit 42",
-      "summary": "Unit 42’s OperTraitor tool audits Kubernetes operator privileges, identifies excessive RBAC risks, and secures non‑human identities.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "OperTraitors: How Kubernetes Operators Betray Your Security Posture"
-    },
-    {
-      "added_at": 1792319731.8792107,
-      "ai": true,
-      "id": "ae45e879c52a933d8c18072b5c5267cc3bf18041",
-      "link": "https://blog.talosintelligence.com/securing-the-keys-to-the-kingdom-announcing-executive-threat-detection/",
-      "published": 1790676036.0,
-      "source": "Cisco Talos Blog",
-      "summary": "A new proactive service, Executive Threat Detection, offers intelligence‑led hunting for an organization’s high‑value IT assets as part of its retainer offerings.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Securing the keys to the kingdom: Announcing Executive Threat Detection"
-    },
-    {
-      "added_at": 1792319731.8792107,
-      "ai": true,
-      "id": "f6be75e34064927e9fe7279f2fc86a4ffbd5fc9b",
-      "link": "https://www.welivesecurity.com/en/scams/timeshare-exit-scams-fake-buyers-recovery-scams/",
-      "published": 1790672400.0,
-      "source": "WeLiveSecurity",
-      "summary": "Con artists target timeshare owners seeking exit, using fake buyers and recovery fraud, often hitting victims twice.",
-      "tags": [],
-      "title": "Timeshare exit scams: From fake buyers to recovery fraud"
-    },
-    {
-      "added_at": 1792319731.8792107,
-      "ai": true,
-      "id": "cc0f1f97276ebdca3430b91a69181521e4951adb",
-      "link": "https://www.intigriti.com/blog/news/10-years-of-intigriti",
-      "published": 1790640000.0,
-      "source": "Intigriti",
-      "summary": "Intigriti celebrated its 10th anniversary in summer 2026, reflecting on a decade of growth and global cybersecurity impact, as noted by CEO Stijn Jans.",
-      "tags": [
-        "#bugbounty"
-      ],
-      "title": "10 years of Intigriti"
-    },
-    {
-      "added_at": 1792319731.8792107,
-      "ai": true,
-      "id": "285e5e3adefd95da7e27ff2731d0a0708e78a194",
-      "link": "https://www.welivesecurity.com/en/business-security/devil-email-wearing-new-mask/",
-      "published": 1790586000.0,
-      "source": "WeLiveSecurity",
-      "summary": "Phishing attacks increasingly bypass familiar checks; rapid detection and containment are essential to limit damage.",
-      "tags": [],
-      "title": "The devil is still in the email – but wears a new mask"
-    },
-    {
-      "added_at": 1792319731.8792107,
-      "ai": true,
-      "id": "e9160c0adae6864466a869d5764fdf370497d2db",
-      "link": "https://unit42.paloaltonetworks.com/3-consulting-myths-debunked-by-unit-42-experts/",
-      "published": 1790377228.0,
-      "source": "Unit 42",
-      "summary": "Unit 42 experts debunk three cybersecurity consulting myths, providing practical insights to strengthen enterprise defenses.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "3 Consulting Myths Debunked by Unit 42 Experts"
-    },
-    {
-      "added_at": 1792319731.8792107,
-      "ai": true,
-      "id": "42d7d50a9109dcecf519edd256383b953834ae14",
-      "link": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
-      "published": 1790372680.0,
-      "source": "Krebs on Security",
-      "summary": "A U.S. Army soldier was sentenced to 70 months in federal prison for hacking AT&T and Verizon, stealing metadata of over 100 million customers, and ordered to pay nearly $300 k restitution.",
-      "tags": [],
-      "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions"
-    },
-    {
-      "added_at": 1792319731.8792107,
-      "ai": true,
-      "id": "57cc9f4b5f83babdb3441ecc21ab45adeea6c2c2",
-      "link": "https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-belgian-waffles-chocolates-and-modules-frites",
-      "published": 1790347085.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "The article titled 'Metasploit Wrap Up: Belgian Waffles, Chocolates, and…Modules‑Frites?' contains no additional content in the provided text.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "Metasploit Wrap Up: Belgian Waffles, Chocolates, and…Modules-Frites?"
-    },
-    {
-      "added_at": 1792319731.8792107,
-      "ai": true,
-      "id": "7ff5ebdf54049fd1f5d5e7fa998ca6f9adcd0506",
-      "link": "https://www.welivesecurity.com/en/mobile-security/is-new-vibe-coded-app-safe-5-questions-ask-first/",
-      "published": 1790326800.0,
-      "source": "WeLiveSecurity",
-      "summary": "Before downloading a new AI‑built app, perform five checks: verify the developer’s reputation, review the app’s permissions, examine the source code or repository, test the app in a sandbox, and confirm it uses secure communication protocols.",
-      "tags": [],
-      "title": "Is that vibe coded app safe? 5 checks before you download"
-    },
-    {
-      "added_at": 1792319731.8792107,
-      "ai": true,
-      "id": "af019f17e205a1c0df9bb4ecda1dae31dec52b15",
-      "link": "https://www.intigriti.com/researchers/blog/bug-bytes/intigriti-bug-bytes-240-september-2026",
-      "published": 1790294400.0,
-      "source": "Intigriti",
-      "summary": "Intigriti Bug Bytes #240 highlights recent exploits: a vulnerable image library compromised OpenAI, Slack, Meta, and other services; attackers accessed OpenAI employee accounts in under 72 hours; they breached Google GFile for $100K; and Turbo Intruder 2 achieved over 100,000 HTTP/3 requests per second.",
-      "tags": [
-        "#bugbounty"
-      ],
-      "title": "Intigriti Bug Bytes #240 - September 2026 🚀"
-    },
-    {
-      "added_at": 1792319731.8792107,
-      "ai": true,
-      "id": "d5374ac44466d0dd2566476fd7c7c5ff783d5670",
-      "link": "https://blog.talosintelligence.com/trust-and-the-enticing-consultancy-offer/",
-      "published": 1790272837.0,
-      "source": "Cisco Talos Blog",
-      "summary": "The newsletter examines a suspicious social media elicitation and stresses the importance of trust in the cyber ecosystem, noting that hubris may be a critical vulnerability for the industry.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Trust and the enticing consultancy offer"
-    },
-    {
-      "added_at": 1792319731.8792107,
-      "ai": true,
-      "id": "aa0e33ec006b59c5d7281e709f585ba932ff4646",
-      "link": "https://www.rapid7.com/blog/post/ve-business-email-compromise-rewriting-reality-zimbra-cve",
-      "published": 1790254800.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "Business Email Compromise operates by breaching mailboxes, monitoring operations, mapping approval chains, and diverting funds or exfiltrating assets; the series will detail technical aspects in collaboration with Rapid7 and Zimbra.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "When Business Email Compromise Starts Rewriting Reality"
-    },
-    {
-      "added_at": 1792319731.8792107,
-      "ai": true,
-      "id": "2ac632f3e2c9a02f7063aa7358ba9d48f8871e7c",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/ukrainian-ransomware-developer-jailed-for-nearly-13-years",
-      "published": 1790253733.0,
-      "source": "GRAHAM CLULEY",
-      "summary": "A Zurich court sentenced a Ukrainian ransomware developer to 12 years and nine months in prison and banned him from Switzerland for ten years for creating ransomware that targeted companies worldwide.",
-      "tags": [],
-      "title": "Ukrainian ransomware developer jailed for nearly 13 years"
-    },
-    {
-      "added_at": 1792319731.8792107,
-      "ai": true,
-      "id": "cd083f8992fdd977d092f260ffeed43586e04be9",
-      "link": "https://securelist.com/macsync-new-version/121383/",
-      "published": 1790244021.0,
-      "source": "Securelist",
-      "summary": "The latest MacSync macOS stealer includes a backdoor module that specifically targets cryptocurrency enthusiasts and developers, expanding its delivery methods and payload capabilities.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "MacSync under the microscope: new delivery methods and a new payload"
-    },
-    {
-      "added_at": 1792319731.8792107,
-      "ai": true,
-      "id": "b7d530528fbf0320f72b8e34deeb98f247076a53",
-      "link": "https://www.welivesecurity.com/en/scams/been-told-pay-bitcoin-atm-read-first/",
-      "published": 1790240400.0,
-      "source": "WeLiveSecurity",
-      "summary": "Crypto ATM scams follow a predictable pattern; the guide explains how to recognize the scam and outlines steps to take if you have already been targeted.",
-      "tags": [],
-      "title": "Been told to pay at a Bitcoin ATM? Read this first"
-    },
-    {
-      "added_at": 1792319731.8792107,
-      "ai": true,
-      "id": "1572cfbc8e6865930f7ff344cc00dc3ece01ff00",
-      "link": "https://labs.watchtowr.com/is-this-a-joke-in-the-auth-header-f5-big-ip-unauth-heap-overflow-to-rce-cve-2026-94127/",
-      "published": 1790205559.0,
-      "source": "watchTowr Labs",
-      "summary": "F5 BIG‑IP is vulnerable to an unauthenticated heap‑overflow (CVE‑2026‑94127) that can lead to remote code execution, allowing attackers to compromise the device without credentials.",
-      "tags": [
-        "#research",
-        "#exploit"
-      ],
-      "title": "Is This A Joke? In The Auth Header? (F5 BIG-IP UnAuth Heap-Overflow to RCE CVE-2026-94127)"
-    },
-    {
-      "added_at": 1792319731.8792107,
-      "ai": true,
-      "id": "268e8c7bbe39b42ca980f3835d70109f70c656cb",
-      "link": "https://grahamcluley.com/smashing-security-podcast-486/",
-      "published": 1790205305.0,
-      "source": "GRAHAM CLULEY",
-      "summary": "The Smashing Security podcast discusses a shop that vibe‑coded its website, resulting in inventory anomalies, and a hacker collective that exploited Flock safety cameras for unauthorized access.",
-      "tags": [],
-      "title": "Smashing Security podcast #486: Vibe-coded shops, and hackable Flock cameras"
-    },
-    {
-      "added_at": 1792319731.8792107,
-      "ai": true,
-      "id": "63d6d101ab6d43606bbab6e3a5eb767d75134938",
-      "link": "https://portswigger.net/research/http3-in-burp-suite",
-      "published": 1790172000.0,
-      "source": "PortSwigger Research",
-      "summary": "Turbo Intruder now supports HTTP/3, enabling more than 100,000 requests per second over Wi‑Fi and auto‑tuning for efficient testing, highlighting the need for larger wordlists.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "HTTP/3 in Burp Suite - it’s time to find a bigger wordlist"
-    },
-    {
-      "added_at": 1792319731.8792107,
-      "ai": true,
-      "id": "4c4cb6380811cfc65a4c958f2c2f6164eed5af41",
-      "link": "https://blog.talosintelligence.com/the-closed-quorum-inside-the-first-reported-autonomous-ai-c2-implant/",
-      "published": 1790071258.0,
-      "source": "Cisco Talos Blog",
-      "summary": "Closed Quorum is a malware binary with fully autonomous command and control.\nIt allows attackers to execute parts of the attack chain without operator involvement.\nDiscovered by Cisco Talos CAIRN project.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "The Closed Quorum: Inside the first reported autonomous AI C2 implant"
-    },
-    {
-      "added_at": 1792319731.8792107,
-      "ai": true,
-      "id": "851affdd497a2b7c1bd2ec7168f438388ee2d65b",
-      "link": "https://blog.talosintelligence.com/introducing-cairn-frontier-tracking-for-ai-integrated-malware/",
-      "published": 1790071225.0,
-      "source": "Cisco Talos Blog",
-      "summary": "Talos releases CAIRN, a research toolkit for hunting, classifying, and tracking AI-integrated malware.\nIt supports analysis of emerging AI-driven threats.\nThe toolkit is available to security researchers.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Introducing CAIRN: Frontier tracking for AI-integrated malware"
-    },
-    {
-      "added_at": 1792319731.8792107,
-      "ai": true,
-      "id": "18bf141d2661557ca190612f030aeca98ea90a13",
-      "link": "https://www.welivesecurity.com/en/kids-online/looking-for-free-robux-heres-whats-real-whats-scam/",
-      "published": 1790067600.0,
-      "source": "WeLiveSecurity",
-      "summary": "Scammers target Roblox accounts with fake giveaways, generators, and phishing sites.\nThese tactics aim to steal account credentials.\nUsers should verify authenticity before sharing personal information.",
-      "tags": [],
-      "title": "Looking for free Robux? Here’s what’s real, and what’s a scam"
-    },
-    {
-      "added_at": 1792319731.8792107,
-      "ai": true,
-      "id": "0c34834f51359083617f8c1a4e915fa05ad5280b",
-      "link": "https://securelist.com/tr/payload-ransomware-via-group-policy/121335/",
-      "published": 1789984840.0,
-      "source": "Securelist",
-      "summary": "PAYLOAD ransomware abuses Active Directory Group Policy Objects for encryptionless, binary-less operations.\nKaspersky GERT experts analyze the technical details of the incident.\nThe attack demonstrates the use of legitimate AD mechanisms for malicious purposes.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Group Policy hijacked: PAYLOAD ransomware weaponizes Active Directory GPO"
-    },
-    {
-      "added_at": 1792319731.8792107,
-      "ai": true,
-      "id": "5e7190318dbce36521fc7777e75ae8d6a23d8e39",
-      "link": "https://unit42.paloaltonetworks.com/detecting-exposed-aws-iam-credentials/",
-      "published": 1789984813.0,
-      "source": "Unit 42",
-      "summary": "AWS neutralizes exposed IAM credentials using managed policies, GitHub secret scanning, and CloudTrail monitoring.\nThe approach limits the impact of compromised credentials.\nThe post details the process and best practices.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "From Exposure to Lockdown: How AWS Neutralizes Compromised IAM Credentials through Managed Policies"
-    },
-    {
-      "added_at": 1792319731.8792107,
-      "ai": true,
-      "id": "d4928ad1f97d3afaed7f3a7f81693208a0acfe9f",
-      "link": "https://www.welivesecurity.com/en/business-security/smb-cybersecurity-squeeze-ai-agents-work-old-attacks-overdrive/",
-      "published": 1789981200.0,
-      "source": "WeLiveSecurity",
-      "summary": "AI enables faster, cheaper attacks while opening new data access paths.\nSMBs need protection tailored to limited time and expertise.\nThe post discusses strategies for securing small and medium businesses.",
-      "tags": [],
-      "title": "The SMB cybersecurity squeeze: AI agents at work, old attacks in overdrive"
-    },
-    {
-      "added_at": 1792319731.8792107,
-      "ai": true,
-      "id": "3a7b569916d745088cd980262bd427d2a8e7886f",
-      "link": "https://projectzero.google/2026/09/windows-dangling-com.html",
-      "published": 1789974000.0,
-      "source": "Project Zero",
-      "summary": "A privilege escalation bug (CVE-2026-66804) involving dangling COM object registrations was reported.\nMicrosoft fixed the issue but the fix is incomplete for CVE-2026-50343.\nThe bug was discovered by a community of 15 researchers.",
-      "tags": [
-        "#vulnerability",
-        "#0day"
-      ],
-      "title": "Windows Exploitation Techniques: Dangling COM Object Registrations"
-    },
-    {
-      "added_at": 1792319731.8792107,
-      "ai": true,
-      "id": "bea59d177fac977faa6c7a1357d83ab957f0048b",
-      "link": "https://www.intigriti.com/blog/business-insights/how-ai-changed-my-day-as-a-qa-engineer",
-      "published": 1789948800.0,
-      "source": "Intigriti",
-      "summary": "A QA engineer at Intigriti shares experience integrating AI into testing workflows.\nAI improved test creation, execution, and collaboration with developers.\nThe post highlights the benefits and challenges of AI in QA.",
-      "tags": [
-        "#bugbounty"
-      ],
-      "title": "From sceptic to supercharged. How AI changed my day as a QA Engineer"
-    },
-    {
-      "added_at": 1792319731.8792107,
-      "ai": true,
-      "id": "e153090477bae18910884806c16ed5e90312f845",
-      "link": "https://unit42.paloaltonetworks.com/securing-aws-agentcore-harness-credentials/",
-      "published": 1789725636.0,
-      "source": "Unit 42",
-      "summary": "Analysis shows default AWS AgentCore Harness configurations enable prompt injection to exfiltrate credentials.\nThe post outlines steps to secure agents and mitigate the risk.\nIt emphasizes the importance of proper configuration.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "A Vault with a Heap-View: The Uncomfortable Space Between AgentCore Harness and Identity"
-    },
-    {
-      "added_at": 1792319731.8792107,
-      "ai": true,
-      "id": "2c3a16c81fa1a351b907fa90c6eddb13774a7c75",
-      "link": "https://www.welivesecurity.com/en/privacy/nudify-apps-fake-nude-you/",
-      "published": 1789722000.0,
-      "source": "WeLiveSecurity",
-      "summary": "Advice for victims of fake nude images includes steps to remove content and protect personal information.\nThe guide also offers support for parents and concerned parties.\nIt outlines practical measures to address the issue.",
-      "tags": [],
-      "title": "‘Nudify’ apps: What to do if someone makes a fake nude of you"
-    },
-    {
-      "added_at": 1792319731.8792107,
-      "ai": true,
-      "id": "c9c87b84069c0472d85377ff2ec54159bffdbaeb",
-      "link": "https://unit42.paloaltonetworks.com/soc-cross-environment-pivot/",
-      "published": 1789682433.0,
-      "source": "Unit 42",
-      "summary": "Unit 42 Managed XSIAM supports SOC teams in tracking full attack paths.\nThe solution addresses cross‑environment attack challenges.\nIt provides a new approach to security operations.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Inside the Modern SOC: Defending the Cross-Environment Pivot"
-    },
-    {
-      "added_at": 1792319731.8792107,
-      "ai": true,
-      "id": "bc5b49fdafa46e90ed7e5cfb92c296469fa0fcc0",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/us-coast-guard-fbi-board-oil-tanker-investigate-cyber-attack",
-      "published": 1789656228.0,
-      "source": "GRAHAM CLULEY",
-      "summary": "The US Coast Guard and FBI boarded an oil tanker mid‑voyage.\nThe vessel’s network may have been compromised by a foreign actor.\nThe boarding was to investigate a potential cyber attack.",
-      "tags": [],
-      "title": "US Coast Guard and FBI board oil tanker to investigate cyber attack"
-    },
-    {
-      "added_at": 1792319731.8792107,
-      "ai": true,
-      "id": "add245d425eeb8bcca648b85689e72d3b2d88394",
-      "link": "https://securelist.com/moviereaper-malware-torrent-odyssey-solana/121344/",
-      "published": 1789650053.0,
-      "source": "Securelist",
-      "summary": "Kaspersky identified a MovieReaper campaign spreading via movie torrents.\nThe Trojan uses the Solana blockchain to hide its command‑and‑control infrastructure.\nIt targets users in multiple countries.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "The Odyssey and Trojans again: MovieReaper attacks users in multiple countries through compromised torrents"
-    },
-    {
-      "added_at": 1792319731.8792107,
-      "ai": true,
-      "id": "3cfa00bea7a5bf7b9fc56e0635da640f040b8676",
-      "link": "https://www.welivesecurity.com/en/cybercrime/eviltokens-phishing-doesnt-steal-password/",
-      "published": 1781513700.0,
-      "source": "WeLiveSecurity",
-      "summary": "A phishing kit exploits Microsoft’s authentication flow.\nAttackers can take over accounts without stealing passwords or creating fake login pages.\nThe kit bypasses standard login procedures.",
-      "tags": [],
-      "title": "EvilTokens: A phishing attack that doesn’t steal your password"
-    },
-    {
-      "added_at": 1792319731.8792107,
-      "ai": true,
-      "id": "b1f8c189922ad99d22f819efa7f6dd2b2b50f7a2",
-      "link": "https://labs.watchtowr.com/why-use-app-level-auth-when-every-database-has-auth-splunk-enterprise-cve-2026-20253-pre-auth-rce/",
-      "published": 1781296513.0,
-      "source": "watchTowr Labs",
-      "summary": "Splunk released an advisory for CVE‑2026‑20253.\nThe vulnerability allows pre‑authentication remote code execution in Splunk Enterprise.\nIt requires no user interaction to exploit.",
-      "tags": [
-        "#research",
-        "#exploit"
-      ],
-      "title": "Why Use App-Level Auth When Every Database Has Auth? (Splunk Enterprise CVE-2026-20253 Pre-Auth RCE)"
-    },
-    {
-      "added_at": 1792319731.8792107,
-      "ai": true,
-      "id": "2b7352fc235caa799a9de49924e0b6431ae6ff49",
-      "link": "https://labs.watchtowr.com/marking-your-own-homework-check-point-remote-access-vpn-ikev1-authentication-bypass-cve-2026-50751/",
-      "published": 1781241440.0,
-      "source": "watchTowr Labs",
-      "summary": "Check Point VPN IKEv1 has an authentication bypass flaw, CVE‑2026‑50751.\nAttackers can bypass authentication on remote access VPNs.\nThe vulnerability could allow unauthorized access.",
-      "tags": [
-        "#research",
-        "#exploit"
-      ],
-      "title": "Marking Your Own Homework (Check Point Remote Access VPN IKEv1 Authentication Bypass CVE-2026-50751)"
-    },
-    {
-      "added_at": 1792319731.8792107,
-      "ai": true,
-      "id": "a87887de0fe6255868457ae68ba36b01460650af",
-      "link": "https://labs.watchtowr.com/more-evidence-that-words-dont-mean-what-we-thought-they-meant-ivanti-sentry-pre-auth-os-command-injection-cve-2026-10520/",
-      "published": 1781052740.0,
-      "source": "watchTowr Labs",
-      "summary": "Ivanti Sentry contains a pre‑authentication OS command injection vulnerability, CVE‑2026‑10520.\nAttackers can execute arbitrary commands on the server.\nThe flaw is present in the Sentry product.",
-      "tags": [
-        "#research",
-        "#exploit"
-      ],
-      "title": "More Evidence That Words Don't Mean What We Thought They Meant (Ivanti Sentry Pre-Auth OS Command Injection CVE-2026-10520)"
-    },
-    {
-      "added_at": 1792319731.8792107,
-      "ai": true,
-      "id": "585001b1978a5c70adf9fbc807efee8d407400fc",
-      "link": "https://github.blog/security/raising-the-bar-quality-shared-responsibility-and-the-future-of-githubs-bug-bounty-program/",
-      "published": 1778853600.0,
-      "source": "Security Archives - The GitHub Blog",
-      "summary": "GitHub updated its bug bounty program to focus on quality submissions.\nThe changes clarify shared responsibility boundaries.\nRewards for low‑risk findings will be adjusted.",
-      "tags": [
-        "#appsec"
-      ],
-      "title": "Raising the bar: Quality, shared responsibility, and the future of GitHub’s bug bounty program"
-    },
-    {
-      "added_at": 1792319731.8792107,
-      "ai": true,
-      "id": "3e6f4335ce749d6c237aa4c8e42c360b84b4f664",
-      "link": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-      "published": 1778655600.0,
-      "source": "Project Zero",
-      "summary": "Researchers demonstrated a zero‑click exploit chain for the Google Pixel 10.\nThe chain achieves root via two exploits.\nIt builds on a prior Pixel 9 chain that used a Dolby vulnerability.",
-      "tags": [
-        "#vulnerability",
-        "#0day"
-      ],
-      "title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens"
-    },
-    {
-      "added_at": 1792319731.8792107,
-      "ai": true,
-      "id": "9a86af6e8c2fabbffa56e92e066b857378cef2f9",
-      "link": "https://portswigger.net/blog/the-beast-needs-a-cage-whats-next-for-appsec-post-mythos",
-      "published": 1778595527.0,
-      "source": "PortSwigger Blog",
-      "summary": "An article discusses the future of application security after Mythos.\nIt reflects on industry direction and challenges.\nThe piece considers new opportunities for AppSec.",
-      "tags": [
-        "#appsec"
-      ],
-      "title": "The beast needs a cage: What's next for AppSec post-Mythos"
-    },
-    {
       "added_at": 1792354616.4586642,
       "ai": true,
       "id": "74ff0a30f9fe582b5b178becc9a122847cb91ed4",
@@ -1930,6 +1419,467 @@
       "summary": "ConnectWise has suspended its cloud services following a cyberattack and is conducting remediation and security validation; services remain unavailable.",
       "tags": [],
       "title": "ConnectWise Suspends Cloud Services in Response to Cyberattack"
+    },
+    {
+      "added_at": 1792494392.866187,
+      "ai": true,
+      "id": "59dff61018ead8f4287342ded3a683bd3e1d62a2",
+      "link": "https://www.schneier.com/blog/archives/2026/10/possible-new-cellebrite-iphone-radio-zero-day.html",
+      "published": 1792494193.0,
+      "source": "Schneier on Security",
+      "summary": "Cellebrite leaked a document revealing its Advanced Unlocks (AU) product, a next‑generation AFU vector slated for 2026 that could enable iPhone radio zero‑day exploits. AU is distinct from existing advanced unlocking services and is designed to be more resilient against countermeasures.",
+      "tags": [
+        "#opinion"
+      ],
+      "title": "Possible new Cellebrite iPhone Radio Zero-Day"
+    },
+    {
+      "added_at": 1792494392.866187,
+      "ai": true,
+      "id": "687247e9e8b57e89720e61e26ab61ad74a826a94",
+      "link": "https://www.infosecurity-magazine.com/news/siemens-clickfix-exploiting-side/",
+      "published": 1792493100.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "Siemens identified the ClickFix campaign targeting its Software Center users through a DLL side‑loading vulnerability. Users were urged to apply a security update to mitigate the threat.",
+      "tags": [],
+      "title": "Siemens Customers Targeted by ClickFix Attackers Exploiting DLL Side-Loading Flaw"
+    },
+    {
+      "added_at": 1792494392.866187,
+      "ai": true,
+      "id": "3493ad24d01d3adf57dee30e0a2d1c87de6f6371",
+      "link": "https://www.securityweek.com/hackers-steal-1-8-million-records-from-nikkei/",
+      "published": 1792492518.0,
+      "source": "SecurityWeek",
+      "summary": "Hackers accessed 1.8 million personal records from Nikkei, including names, addresses, emails, phone numbers, and dates of birth. The breach was reported by SecurityWeek.",
+      "tags": [],
+      "title": "Hackers Steal 1.8 Million Records From Nikkei"
+    },
+    {
+      "added_at": 1792494392.866187,
+      "ai": true,
+      "id": "0a81b4c58b1253c97f35f32aea1aed1655c00fd8",
+      "link": "https://www.helpnetsecurity.com/2026/10/20/teradata-ai-data-security/",
+      "published": 1792491699.0,
+      "source": "Help Net Security",
+      "summary": "Teradata announced new AI data security features, including post‑quantum encryption and immutable backups, to protect sensitive data, control access, and ensure recoverability.",
+      "tags": [],
+      "title": "Teradata expands AI data security with post-quantum protection and immutable backups"
+    },
+    {
+      "added_at": 1792494392.866187,
+      "ai": true,
+      "id": "edf015667c6fb80aa0563cf06e33679cdc1885d2",
+      "link": "https://www.helpnetsecurity.com/2026/10/20/extend-verify/",
+      "published": 1792490904.0,
+      "source": "Help Net Security",
+      "summary": "Extend released Extend Verify, a document fraud detection API that allows developers and AI agents to assess document integrity before using them in decisions such as lending, payments, or claims.",
+      "tags": [],
+      "title": "Extend Verify helps AI agents flag suspicious documents before acting"
+    },
+    {
+      "added_at": 1792494392.866187,
+      "ai": true,
+      "id": "f1e0cf730432318dd907353188aa94396e88bd26",
+      "link": "https://www.helpnetsecurity.com/2026/10/20/us-army-ai-agents-echotribble/",
+      "published": 1792490619.0,
+      "source": "Help Net Security",
+      "summary": "The US Army is researching autonomous AI agents that can infiltrate adversary networks, replicate on devices, and self‑erase to avoid detection. Recent incidents of AI breaches raised concerns.",
+      "tags": [],
+      "title": "US Army is developing AI agents that could strike enemy networks and vanish without a trace"
+    },
+    {
+      "added_at": 1792494392.866187,
+      "ai": true,
+      "id": "87e932b60df16ca9e8b83b4792490fd83c7ddda1",
+      "link": "https://therecord.media/european-defense-contractors-fancy-bear-espionage",
+      "published": 1792490400.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "APT28/Fancy Bear deployed a backdoor to infiltrate networks of two defense contractors and a law‑enforcement agency in NATO allies, according to researchers.",
+      "tags": [
+        "#news"
+      ],
+      "title": "Defense contractors in two NATO allies hacked in recent Russia-linked campaign"
+    },
+    {
+      "added_at": 1792494392.866187,
+      "ai": true,
+      "id": "45c01eea51f2352fd7d45fb35c06bf79fa822459",
+      "link": "https://www.helpnetsecurity.com/2026/10/20/microsofts-ai-agents-threats-guardian-agents/",
+      "published": 1792490104.0,
+      "source": "Help Net Security",
+      "summary": "Microsoft introduced Guardian Agents in Project Perception to monitor AI agent activity, adjust permissions, and recommend containment when risk or policy changes occur, keeping human control over objectives.",
+      "tags": [],
+      "title": "Microsoft wants to limit AI agents’ permissions when they stray from the job"
+    },
+    {
+      "added_at": 1792494392.866187,
+      "ai": true,
+      "id": "4b4f09e00694289e9dc4bccd6ed4a962d073327e",
+      "link": "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/",
+      "published": 1792489604.0,
+      "source": "BleepingComputer",
+      "summary": "Revolut experienced a global outage that disrupted most services, including online banking, and is working to restore operations.",
+      "tags": [],
+      "title": "Revolut outage disrupts online banking operations worldwide"
+    },
+    {
+      "added_at": 1792494392.866187,
+      "ai": true,
+      "id": "ce48c7fb264138d8526b6009cee06bae56ced506",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/qilin-ransomware-arrested-synnovis-patient-death",
+      "published": 1792489309.0,
+      "source": "GRAHAM CLULEY",
+      "summary": "German police arrested a 28‑year‑old Russian suspect linked to the Qilin ransomware gang and the Synnovis hack that disrupted London hospitals and caused a patient’s death.",
+      "tags": [],
+      "title": "Police arrest Qilin ransomware suspect on holiday, as links made to Synnovis hack that contributed to patient’s death"
+    },
+    {
+      "added_at": 1792494392.866187,
+      "ai": true,
+      "id": "ebff93066b7e3416aa7f2f3d4ddbe90f353f605e",
+      "link": "https://www.securityweek.com/970000-medi-cal-members-affected-by-paradigm-healthcare-data-breach/",
+      "published": 1792488829.0,
+      "source": "SecurityWeek",
+      "summary": "Paradigm Healthcare Services detected an intrusion in October 2025. Notification of 970,000 Medi‑Cal members began nearly a year later, exposing personal data of California Medicaid recipients.",
+      "tags": [],
+      "title": "970,000 Medi-Cal Members Affected by Paradigm Healthcare Data Breach"
+    },
+    {
+      "added_at": 1792494392.866187,
+      "ai": true,
+      "id": "92e4076765780a55e4735d4581630c94496a5c9c",
+      "link": "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
+      "published": 1792484489.0,
+      "source": "The Hacker News",
+      "summary": "An attacker hijacked a contributor’s GitHub account to replace five OVHcloud CLI release archives. The malicious files were available for 94 minutes and were designed to steal secrets from any machine that runs them.",
+      "tags": [],
+      "title": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware"
+    },
+    {
+      "added_at": 1792494392.866187,
+      "ai": true,
+      "id": "4fd8d5a31fd8ccfc2fb573dbc3d78b103f3bf5bf",
+      "link": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
+      "published": 1792480305.0,
+      "source": "The Hacker News",
+      "summary": "Siemens addressed a DLL sideloading vulnerability (CVE‑2026‑110936) in its Software Center. Attackers used the flaw to deploy a remote access trojan, allowing execution of malicious code with application privileges.",
+      "tags": [],
+      "title": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan"
+    },
+    {
+      "added_at": 1792494392.866187,
+      "ai": true,
+      "id": "0ddc2ba2b197e1d513580ae3874888ecfa2613f2",
+      "link": "https://securelist.com/paper-unicorn-warehouse-security/121537/",
+      "published": 1792479645.0,
+      "source": "Securelist",
+      "summary": "Kaspersky experts discuss security challenges in modern warehouse environments, outlining initial access vectors and the impact of a potential compromise on supply chain operations.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "The journey of a paper unicorn: adventures inside a modern warehouse"
+    },
+    {
+      "added_at": 1792494392.866187,
+      "ai": true,
+      "id": "46a2bbb0a04722e7d1b87a98b5956e374665753a",
+      "link": "https://www.helpnetsecurity.com/2026/10/20/mastercard-stablecoin-security/",
+      "published": 1792477512.0,
+      "source": "Help Net Security",
+      "summary": "Mastercard launched Stablecoin Security, a risk intelligence solution partnering with Borderless.xyz and Keyrails. It provides banks with visibility into stablecoin risk across complex payment flows.",
+      "tags": [],
+      "title": "Mastercard helps banks assess stablecoin risks before funds move"
+    },
+    {
+      "added_at": 1792494392.866187,
+      "ai": true,
+      "id": "860212061d1148701f7603cec598b2e4f930ce10",
+      "link": "https://www.helpnetsecurity.com/2026/10/20/easydmarc-gmo-globalsign-partnership/",
+      "published": 1792476013.0,
+      "source": "Help Net Security",
+      "summary": "EasyDMARC partnered with GMO GlobalSign to offer DNS security, sender authentication, and verified branding for email. The solution helps organizations maintain trusted email identities across cloud applications.",
+      "tags": [],
+      "title": "EasyDMARC and GMO GlobalSign connect email authentication with verified branding"
+    },
+    {
+      "added_at": 1792494392.866187,
+      "ai": true,
+      "id": "50e3424172875e03eac083602ee7a4723bcf322e",
+      "link": "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html",
+      "published": 1792475596.0,
+      "source": "The Hacker News",
+      "summary": "A former OpenAI engineer was detained after a U.S. court granted a request to arrest him for allegedly planting a recording device in an executive conference room. Prosecutors linked him to frequent WhatsApp communications with Saudi contacts.",
+      "tags": [],
+      "title": "Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge"
+    },
+    {
+      "added_at": 1792494392.866187,
+      "ai": true,
+      "id": "69abfa92ac33bd14f7840ad6f5048990f084ff76",
+      "link": "https://www.helpnetsecurity.com/2026/10/20/frontline-worker-authentication-passwordless/",
+      "published": 1792470618.0,
+      "source": "Help Net Security",
+      "summary": "A Sapio Research survey found that 95% of IT and security leaders observed frontline workers bypassing MFA by staying signed in or sharing credentials. These practices weaken the security link between authentication and access.",
+      "tags": [],
+      "title": "Your frontline workers have a workaround for that MFA prompt"
+    },
+    {
+      "added_at": 1792494392.866187,
+      "ai": true,
+      "id": "6c494d43a8453ba0da3e7b077762dab0353c974c",
+      "link": "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html",
+      "published": 1792469158.0,
+      "source": "The Hacker News",
+      "summary": "Researchers identified ROMULUS, a ClickFix-style malware delivery platform used to distribute Legion Loader and other threats. The platform lures users with fake landing pages that prompt execution of malicious commands.",
+      "tags": [],
+      "title": "Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware"
+    },
+    {
+      "added_at": 1792494392.866187,
+      "ai": true,
+      "id": "68bc1a0af4e94865796b36356faa42352b4ef676",
+      "link": "https://www.helpnetsecurity.com/2026/10/20/cybersecurity-jobs-available-right-now-october-20-2026/",
+      "published": 1792468824.0,
+      "source": "Help Net Security",
+      "summary": "Riskified is hiring an Application Security Architect in Israel for a hybrid role. The position involves reviewing architecture, design, and code to identify security gaps and support incident response.",
+      "tags": [],
+      "title": "Cybersecurity jobs available right now: October 20, 2026"
+    },
+    {
+      "added_at": 1792494392.866187,
+      "ai": true,
+      "id": "f6a3249087bd98d8d23e58fc4ce44d7f93c2fe7b",
+      "link": "https://www.helpnetsecurity.com/2026/10/20/cloudflare-ai-clairic-extraction-model/",
+      "published": 1792467903.0,
+      "source": "Help Net Security",
+      "summary": "Cloudflare previewed Clairic, a model that extracts typed values from text and images in a single pass. It completed a damaged‑product claim in 19.3 seconds versus 61.7 seconds for an LLM‑based pipeline, cutting costs by 49%.",
+      "tags": [],
+      "title": "Cloudflare bets you’re overpaying an LLM to read your invoices"
+    },
+    {
+      "added_at": 1792494392.866187,
+      "ai": true,
+      "id": "6bd6585835c425692b6a5223c7f2e3b29b588bb0",
+      "link": "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/",
+      "published": 1792449342.0,
+      "source": "Unit 42",
+      "summary": "Ransomware groups Spikey Scorpius and Tarnished Scorpius are actively exploiting the PAN‑OS CVE‑2026‑0257 vulnerability, according to Unit 42.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 19)"
+    },
+    {
+      "added_at": 1792494392.866187,
+      "ai": true,
+      "id": "47f4fcfb349a6896db9680efed5613a4de494982",
+      "link": "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html",
+      "published": 1792415145.0,
+      "source": "The Hacker News",
+      "summary": "GhostAction actors have broadened their supply‑chain attack by embedding a credential‑stealing payload disguised as a fake font file in 94 GitHub repositories, targeting open‑source developers.",
+      "tags": [],
+      "title": "GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories"
+    },
+    {
+      "added_at": 1792494392.866187,
+      "ai": true,
+      "id": "1f63abf1d8df5433eb9bfd0479fe0a068acaa058",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/",
+      "published": 1792413884.0,
+      "source": "BleepingComputer",
+      "summary": "Microsoft resolved a bug that caused the Copilot Chat and Copilot buttons to disappear in the classic Outlook desktop client on certain Windows installations.",
+      "tags": [],
+      "title": "Microsoft fixes classic Outlook bug that hid Copilot buttons"
+    },
+    {
+      "added_at": 1792494392.866187,
+      "ai": true,
+      "id": "bcca2fd24d4b14787f8ab00a442fa2041ef1627d",
+      "link": "https://www.securityweek.com/plex2shell-exploit-chain-weaponized-against-plex-servers-hours-after-disclosure/",
+      "published": 1792413879.0,
+      "source": "SecurityWeek",
+      "summary": "After the Plex2Shell vulnerability was disclosed, attackers began weaponizing the exploit chain against Plex servers, deploying cryptocurrency miners and proxy software.",
+      "tags": [],
+      "title": "Plex2Shell Exploit Chain Weaponized Against Plex Servers Hours After Disclosure"
+    },
+    {
+      "added_at": 1792494392.866187,
+      "ai": true,
+      "id": "5ae38a63e4733a2ac2ed54ed97fb5d044741168b",
+      "link": "https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html",
+      "published": 1792410600.0,
+      "source": "The Hacker News",
+      "summary": "The article examines how Salesforce’s Email‑to‑Case and Web‑to‑Case features, combined with Agentforce flows, can create governance gaps when inherited agents process customer data.",
+      "tags": [],
+      "title": "From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software"
+    },
+    {
+      "added_at": 1792494392.866187,
+      "ai": true,
+      "id": "6512ad6a9c13d351bca61db1392df049a3146413",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack",
+      "published": 1791841362.0,
+      "source": "darkreading",
+      "summary": "A critical SSRF vulnerability in SonicWall SMA 1000 appliances is currently being exploited, putting customers at risk of remote code execution.",
+      "tags": [],
+      "title": "Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack"
+    },
+    {
+      "added_at": 1792494392.866187,
+      "ai": true,
+      "id": "4dcee3405abaea428f66ff79eaf710600fe0d027",
+      "link": "https://www.darkreading.com/insider-threats/prominent-ransomware-negotiator-extortion-charges",
+      "published": 1791835253.0,
+      "source": "darkreading",
+      "summary": "Former cybersecurity executive Edward Dubrovsky was arrested in Pennsylvania and charged with conspiracy to extort money as a ransomware negotiator.",
+      "tags": [],
+      "title": "Prominent Ransomware Negotiator Faces Extortion Charges"
+    },
+    {
+      "added_at": 1792494392.866187,
+      "ai": true,
+      "id": "61395f90aa8ad1f74ccf30a490057d94f154d3b3",
+      "link": "https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam",
+      "published": 1791829645.0,
+      "source": "darkreading",
+      "summary": "The article argues that the growing use of enterprise applications and cloud identity providers necessitates a fundamental rethink of identity and access management for effective cyber resilience.",
+      "tags": [],
+      "title": "No Identity, No Recovery: Cyber Resilience Starts With IAM"
+    },
+    {
+      "added_at": 1792494392.866187,
+      "ai": true,
+      "id": "4bb3f6c5d47ec2cedd9c6f08e4dc4b322f8d9c48",
+      "link": "https://www.infosecurity-magazine.com/news/luna-moth-leaks-ransomware-playbook/",
+      "published": 1791818100.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "Leaked documents reveal that the Luna Moth ransomware group coordinates social engineering and technical attacks to manipulate a single target, offering insight into its internal operations.",
+      "tags": [],
+      "title": "Luna Moth Leaks Shed Light on Ransomware Group's Inner Workings"
+    },
+    {
+      "added_at": 1792494392.866187,
+      "ai": true,
+      "id": "6c920079ad829cda3cc338c772d7c0483e5d93ca",
+      "link": "https://www.schneier.com/blog/archives/2026/10/fbi-arrests-suspect-in-fbi-hacking-case.html",
+      "published": 1791817286.0,
+      "source": "Schneier on Security",
+      "summary": "FBI arrested a suspect linked to the ShinyHunters group that stole FBI agent data. The theft involved sensitive internal information. The arrest follows the group's public announcement of the breach.",
+      "tags": [
+        "#opinion"
+      ],
+      "title": "FBI Arrests Suspect in FBI-Hacking Case"
+    },
+    {
+      "added_at": 1792494392.866187,
+      "ai": true,
+      "id": "f09be95f6cf352360fe32f74527903f7ff95b516",
+      "link": "https://www.darkreading.com/cyber-risk/passing-baton-dark-reading-new-editor-in-chief",
+      "published": 1791808258.0,
+      "source": "darkreading",
+      "summary": "Dark Reading has appointed Fahmida Y. Rashid as its new editor‑in‑chief. She will continue the publication’s editorial direction. No changes to the editorial team announced.",
+      "tags": [],
+      "title": "Passing the Baton: Dark Reading Names New Editor-in-Chief"
+    },
+    {
+      "added_at": 1792494392.866187,
+      "ai": true,
+      "id": "bf58dffab3ba253b986501c2601dc07a764f03d6",
+      "link": "https://www.infosecurity-magazine.com/news/french-supermarket-chains/",
+      "published": 1791806220.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "Cooperative U confirmed a cyber‑attack that disrupted food stock at several French supermarket stores from October 11. The incident affected inventory management. No further operational impact reported.",
+      "tags": [],
+      "title": "Major French Supermarket Chains Hit by Cyber-Attack, Food Stock Impacted"
+    },
+    {
+      "added_at": 1792494392.866187,
+      "ai": true,
+      "id": "fef12b3752d6fb705e511be6ed91705b4e84b259",
+      "link": "https://www.infosecurity-magazine.com/news/net-closes-shinyhunters-another/",
+      "published": 1791799200.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "The FBI arrested a Canadian cybersecurity executive as part of its ongoing crackdown on the ShinyHunters hacking group. The arrest adds to previous actions against the group. No additional details released.",
+      "tags": [],
+      "title": "Net Closes Around ShinyHunters with Another FBI Arrest"
+    },
+    {
+      "added_at": 1792494392.866187,
+      "ai": true,
+      "id": "035001ca0c44dea3800078467e62dcdfd2735bcd",
+      "link": "https://www.infosecurity-magazine.com/news/palo-alto-vpn-vulnerability-target/",
+      "published": 1791796500.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "ReliaQuest reports that Qilin and Settra ransomware groups are still exploiting a Palo Alto VPN vulnerability patched in May. The vulnerability remains a target for ransomware actors. No patch updates issued.",
+      "tags": [],
+      "title": "Months-Old Palo Alto VPN Vulnerability Remains a Target for Ransomware Groups"
+    },
+    {
+      "added_at": 1792494392.866187,
+      "ai": true,
+      "id": "2524f939ba20df882a48fe55d54d2957fdd5e3f9",
+      "link": "https://www.infosecurity-magazine.com/news/karaoke-giant-data-breach-eight/",
+      "published": 1791794100.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "Daiichi Kosho disclosed a supply‑chain breach that exposed personal data of more than eight million karaoke customers. The breach involved customer information. No further details provided.",
+      "tags": [],
+      "title": "Karaoke Giant Reveals Data Breach Impacting Eight Million"
+    },
+    {
+      "added_at": 1792494392.866187,
+      "ai": true,
+      "id": "a877d9e96dc90632a7e672e9b952089c7269f592",
+      "link": "https://portswigger.net/research/smashing-the-token-limit",
+      "published": 1791212695.0,
+      "source": "PortSwigger Research",
+      "summary": "The author introduces Alex, a collaborator who demonstrated exfiltration of larger tokens using overlapping fragments. The technique expands token size beyond typical limits. No additional context given.",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Smashing the token limit with overlapping fragments"
+    },
+    {
+      "added_at": 1792494392.866187,
+      "ai": true,
+      "id": "2649de53cd92a5de56bc25ec27c78a1bab1f195e",
+      "link": "https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/",
+      "published": 1790798404.0,
+      "source": "Unit 42",
+      "summary": "Unit 42 reports that Citrix NetScaler CVE‑2026‑88771 and CVE‑2026‑88772 are being exploited in the wild. Citrix confirms zero‑day activity. No mitigation guidance released.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild (Updated September 30)"
+    },
+    {
+      "added_at": 1792494392.866187,
+      "ai": true,
+      "id": "9eea57edb89b54636f2899fac15a9de383674e26",
+      "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
+      "published": 1790608137.0,
+      "source": "Krebs on Security",
+      "summary": "Dutch police arrested a 23‑year‑old convicted cybercriminal suspected of aiding ShinyHunters. Following the arrest, the group escalated attacks, targeting FBI data and extorting Cl0p. No further arrests announced.",
+      "tags": [],
+      "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation"
+    },
+    {
+      "added_at": 1792494392.866187,
+      "ai": true,
+      "id": "cb8ce7babd6edd260266e93a4796e0472aaee733",
+      "link": "https://labs.watchtowr.com/oh-look-the-foot-gun-went-off-again-citrix-netscaler-preauth-command-injection-cve-2026-88771/",
+      "published": 1790592954.0,
+      "source": "watchTowr Labs",
+      "summary": "An incident involving Citrix NetScaler pre‑auth command injection CVE‑2026‑88771 has been highlighted again. The vulnerability was widely known before Citrix’s response. No new patches mentioned.",
+      "tags": [
+        "#research",
+        "#exploit"
+      ],
+      "title": "Oh Look, The Foot Gun Went Off Again (Citrix NetScaler PreAuth Command Injection CVE-2026-88771)"
     }
   ],
   "posted": []
