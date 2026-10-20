@@ -2,166 +2,6 @@
   "counts": {},
   "history": [
     {
-      "norm": "trellix wise private cloud delivers auditable ai investigations security teams p trellix announced trellix wise private cloud premises federated ai core agentic security operations solution extends security fabric across organization s existing infrastructure improve threat detection response while preserving data sovereignty governance predictable costs threat landscape fundamentally shifted where ai isn t just accelerating attacks s commercializing them said vishal rao chief executive officer trellix our strategy ai era clear meet ai powered threats href rel nofollow more span class meta nav span p p post href wise private cloud delivers auditable ai investigations security teams appeared first href net security p",
-      "ts": 1791899284.125424
-    },
-    {
-      "norm": "defenders reluctant deploy agentic ai cybersecurity tool flashpoint research suggests only 25 security teams actively deployed ai many concerned about ai agents negative impact",
-      "ts": 1791899284.1254478
-    },
-    {
-      "norm": "ninjaone combines katana ai mcp server accelerate problem resolution p ninjaone announced katana ai agentic ai technician supports elevates workers ninjaone mcp server agentic orchestration connector extends platform s governed access ai tools teams already use modern environments generate more data than any technician can process said phil hochmuth research vp endpoint management enterprise mobility idc hunting problem s context instead actually solving issue wastes time href rel nofollow more span class meta nav span p p post href combines katana ai mcp server accelerate problem resolution appeared first href net security p",
-      "ts": 1791899284.125455
-    },
-    {
-      "norm": "russian internet provider skynet reports outages after cyberattack claimed ukrainian hackers one st petersburg s major internet providers said network had been under distributed denial service ddos attack since october 6 affecting services including online gaming voice calls video conferencing",
-      "ts": 1791899284.12546
-    },
-    {
-      "norm": "ledger says hardware implant cryptocurrency wallets stole recovery phrases ledger cryptocurrency wallets sold through southeast asian reseller had implant allowing outsiders drain funds company said",
-      "ts": 1791899284.125464
-    },
-    {
-      "norm": "ukrainian drones hit yandex data centers sparking claims russian troll farms went quiet p russian tech giant yandex confirmed drones hit three data centers shutting down facilities sasovo vladimir knocking out part infrastructure kaluga october 11 yandex cloud told customers platform running emergency mode advised them switch their own disaster recovery plans after drone attack shut down company s data center vladimir facility third yandex href rel nofollow more span class meta nav span p p post href drones hit yandex data centers sparking claims russian troll farms went quiet appeared first href net security p",
-      "ts": 1791899284.125469
-    },
-    {
-      "norm": "lattice sentry 5 0 brings quantum resistant firmware security ai data centers p lattice semiconductor released version 5 0 lattice sentry solution stack adding post quantum cryptography pqc platform firmware resilience pfr attestation capabilities update provides cnsa 2 0 aligned nist compliant protection ai data centers critical infrastructure giving system designers validated production ready approach quantum resistant security ai infrastructure threat landscape evolving rapidly platform firmware become primary attack vector quantum era upend decades security href rel nofollow more span class meta nav span p p post href sentry 5 0 brings quantum resistant firmware security ai data centers appeared first href net security p",
-      "ts": 1791899284.1254725
-    },
-    {
-      "norm": "south african clothing retailer foschini group investigating cyberattack british fashion brands south african retail giant foschini group tfg disclosed cyberattack disrupted systems three british fashion brands leaving some services unavailable",
-      "ts": 1791899284.1254761
-    },
-    {
-      "norm": "ridge security s ridgeone keeps autonomous penetration testing data inside customer environments p ridge security announced ridgeone self contained solution brings autonomous ai powered penetration testing agentic red teaming mid sized organizations combining ridge security s ridgegen agentic security validation platform open weight ai model running nvidia dgx spark ridgeone enables organizations perform deep security testing within their own environment without sending sensitive testing data external ai provider incurring ongoing ai token costs organizations limited ai security resources href rel nofollow more span class meta nav span p p post href security s ridgeone keeps autonomous penetration testing data inside customer environments appeared first href net security p",
-      "ts": 1791899284.125481
-    },
-    {
-      "norm": "cyberattacks crank french supermarket refrigeration systems up 50 c stock spoiled hundreds stores manufacturer says affected equipment ran outdated firmware",
-      "ts": 1791899284.125485
-    },
-    {
-      "norm": "cyber incident hits grocery stores us netherlands belgium ahold delhaize dutch multinational retailer announced taking precautionary measures following cybersecurity incident stores u s netherlands belgium reportedly impacted",
-      "ts": 1791899284.1254895
-    },
-    {
-      "norm": "small ai models could soon self replicate iot devices anthropic warns p experiments show cheap tv boxes can run capable ai models small models may soon able spread across such devices their own p p post href ai models could soon self replicate iot devices anthropic warns appeared first href",
-      "ts": 1791899284.1254938
-    },
-    {
-      "norm": "webinar stop ai driven privilege escalation runtime identity controls dangerous part stolen identity isn t always initial login s attacker can do access next ai accelerating reconnaissance exploitation vulnerabilities privilege escalation attackers can move through systems faster than security teams can investigate compromised account looks legitimate first could become starting point much",
-      "ts": 1791899284.1254976
-    },
-    {
-      "norm": "cve 2026 97229 critical unauthenticated remote code execution gitlab h2 style direction ltr overview h2 p style direction ltr span style font size undefined october 12 2026 gitlab span href style font size undefined published critical patch release span span style font size undefined span href style font size undefined cve 2026 97229 span span style font size undefined integer overflow wraparound span href style font size undefined cwe 190 span span style font size undefined ci cd regular expression compiler affecting gitlab community edition ce enterprise edition ee gitlab assigned vulnerability cvssv3 1 score span href style font size undefined 10 0 span span style font size undefined under certain conditions remote attacker can execute arbitrary code affected gitlab server through specially crafted regular expression stored malicious ci cd configuration while vendor supplied cvss score indicates exploitation fully unauthenticated reproducing exploit noted attacker must mechanism plant malicious ci cd configuration repository prior triggering vulnerability gitlab instances where users can self register create projects this constraint removed span p p style direction ltr span style font size undefined vulnerability affects self managed gitlab instances across all deployment types gitlab com already running patched version gitlab dedicated customers do not need take action span p p style direction ltr span style font size undefined this writing there no confirmed wild exploitation cve 2026 97229 however rapid7 intelligence independently reproduced arbitrary code execution unpatched official gitlab ce image given vulnerability s maximum cvss score network accessible trigger code execution gitlab application worker rapid7 recommends upgrading affected self managed instances urgent basis outside normal patch cycles span p h2 style direction ltr technical overview h2 p style direction ltr span style font size undefined rapid7 s testing found attacker must first able commit malicious ci cd configuration file gitlab ci yml repository path containing utf 8 characters branch public project example ordinary account can satisfy this prerequisite creating public project self managed gitlab instance where functionality permitted span p p style direction ltr span style font size undefined crafted regular expression initially compiles compact us ascii representation passes gitlab s regular expression validation when evaluated against specially formed valid utf 8 repository path ruby s onigmo regular expression engine recompiles encoding after those checks completed integer overflow compiler s program size calculation then causes invalid regular expression instructions generated resulting loss control flow integrity can used execute attacker controlled onigmo vm operations ruby process run operating system command gitlab span span style color rgb 24 128 56 font size undefined git span span style font size undefined user span p p style direction ltr span style font size undefined rapid7 validated complete chain against official gitlab span span style color rgb 24 128 56 font size undefined 19 4 1 span span style font size undefined ce linux amd64 image address space layout randomization enabled same input did not execute against official patched span span style color rgb 24 128 56 font size undefined 19 4 2 span span style font size undefined ce image further root cause exploit chain details included separate rapid7 technical analysis span p h2 style direction ltr mitigation guidance h2 p style direction ltr span style font size undefined vendor provided patch available remediate cve 2026 97229 organizations running affected self managed gitlab ce ee instances should immediately upgrade fixed version without waiting regular patch cycle span p p p table thead tr th p style direction ltr span style font size undefined strong affected gitlab ce ee versions strong span p th th p style direction ltr span style font size undefined strong fixed version strong span p th tr thead tbody tr td p style direction ltr span style font size undefined all versions span span style color rgb 24 128 56 font size undefined 19 2 span span style font size undefined before span span style color rgb 24 128 56 font size undefined 19 2 8 span p td td p style direction ltr span style color rgb 24 128 56 font size undefined 19 2 8 span p td tr tr td p style direction ltr span style font size undefined all versions span span style color rgb 24 128 56 font size undefined 19 3 span span style font size undefined before span span style color rgb 24 128 56 font size undefined 19 3 5 span p td td p style direction ltr span style color rgb 24 128 56 font size undefined 19 3 5 span p td tr tr td p style direction ltr span style font size undefined all versions span span style color rgb 24 128 56 font size undefined 19 4 span span style font size undefined before span span style color rgb 24 128 56 font size undefined 19 4 2 span p td td p style direction ltr span style color rgb 24 128 56 font size undefined 19 4 2 span p td tr tbody table p p p style direction ltr span style font size undefined gitlab com already been updated gitlab dedicated customers do not need take action until affected self managed instances can upgraded restricting anonymous access public projects preventing untrusted users creating writing public projects can reduce exposure exploit path demonstrated rapid7 these controls address only demonstrated delivery path do not remediate vulnerable regular expression compiler span p p style direction ltr span style font size undefined latest mitigation guidance please refer gitlab s span href style font size undefined security advisory span span style font size undefined span p h2 style direction ltr rapid7 customers h2 h3 style direction ltr span style color rgb 67 67 67 exposure command vulnerability management nexpose span h3 p style direction ltr span style font size undefined exposure command vulnerability management nexpose customers can assess exposure cve 2026 97229 authenticated vulnerability check expected available today s october 13 content release span p h2 style direction ltr updates h2 ul li style direction ltr p style direction ltr span style font size undefined strong october 13 2026 strong span span style font size undefined initial publication span p li ul",
-      "ts": 1791899284.125502
-    },
-    {
-      "norm": "mozilla s firefox enterprise lets companies block shadow ai browser p mozilla s firefox enterprise paid platform lets organizations control sensitive data shared check device security manage employee access web applications platform pairs browser management dashboard hosted organization s own infrastructure teams can set policies across their workforce restrict ai tools connect browser activity existing security monitoring systems mozilla targeting organizations demanding security regulatory requirements controlling sensitive data href rel nofollow more span class meta nav span p p post href firefox enterprise lets companies block shadow ai browser appeared first href net security p",
-      "ts": 1791899284.125507
-    },
-    {
-      "norm": "123456 password linked denmark data breach affecting 8 8m people local media reports three weakly protected accounts small biz whose access national register abused",
-      "ts": 1791899284.1255116
-    },
-    {
-      "norm": "xworm rat evolves into surveillance platform p expanded plugin count allows malware monitor users location stream live audio interact authenticated browser sessions p p post href rat evolves into surveillance platform appeared first href",
-      "ts": 1791899284.1255162
-    },
-    {
-      "norm": "lg smart tvs vulnerable pre auth root takeover local network three vulnerabilities lg s webos can chained give attacker same local network root access certain smart tvs without pin any interaction owner lg issued fix according advisory published ssd secure disclosure october 12 chain tested two tv models 32lq636bpsa 27tq600sw running webos 7 5 7 25 firmware",
-      "ts": 1791899284.1255207
-    },
-    {
-      "norm": "ai turns familiar cyberattacks into race against time p ibm s steve wallin talks securityweek effect ai driven attacks enterprise defenses p p post href turns familiar cyberattacks into race against time appeared first href",
-      "ts": 1791899284.1255245
-    },
-    {
-      "norm": "86 million crypto heist linked ledger signer hardware implant p small circuit board hidden under signers screens read user data transmitted attackers p p post href million crypto heist linked ledger signer hardware implant appeared first href",
-      "ts": 1791899284.1255283
-    },
-    {
-      "norm": "product walkthrough bitdefender ai visibility control user opens browser tab pastes data into chat assistant nothing installed developer adds coding assistant editor extension nothing shows up installed programs list someone downloads local model runtime program runs models directly machine instead sending data external service because they told not send company data",
-      "ts": 1791899284.1255322
-    },
-    {
-      "norm": "uk government announces sweeping ai security plans government planning tweaks legislation incident response more head ai security threats",
-      "ts": 1791899284.125537
-    },
-    {
-      "norm": "owner fashion brands hobbs whistles joins autumn pwned collection several systems remain offline orders face delays tfg london becomes latest retailer suffer cyberattack",
-      "ts": 1791899284.1255414
-    },
-    {
-      "norm": "cyberattack prompts grocery giant ahold delhaize disconnect systems p company says took some systems offline contain security issue within network p p post href prompts grocery giant ahold delhaize disconnect systems appeared first href",
-      "ts": 1791899284.1255448
-    },
-    {
-      "norm": "meta outlines muse wonder safeguards ai agents acting your behalf p meta s muse wonder muse wonder full models built ai agents handle tasks such preparing insurance claims reviewing leases developing software models combine document analysis tool use ability retain relevant details across conversations work through obstacles toward user s goal intended commercial research use they support writing reasoning coding planning research they can process text images video audio produce href rel nofollow more span class meta nav span p p post href outlines muse wonder safeguards ai agents acting your behalf appeared first href net security p",
-      "ts": 1791899284.1255474
-    },
-    {
-      "norm": "gitlab admins urged patch critical rce flaw cve 2026 97229 p gitlab urging users self managed instances patch critical vulnerability cve 2026 97229 ci cd regular expression compiler could allow remote attackers execute arbitrary code gitlab servers about cve 2026 97229 cve 2026 97229 integer overflow vulnerability gitlab s ci cd regular expression compiler affects both gitlab community edition ce enterprise edition ee gitlab assigned vulnerability cvss score 10 0 highest possible according cvss vector href rel nofollow more span class meta nav span p p post href admins urged patch critical rce flaw cve 2026 97229 appeared first href net security p",
-      "ts": 1791899284.1255503
-    },
-    {
-      "norm": "npm trusted publishing flaw exposed 1 500 npm packages takeover p bloom security researchers found npm s trusted publishing feature let attacker push versions someone else s package without stealing credential attacker only needed register github repository name maintainer had left behind bloom counted more than 1 500 npm packages exposed this way github which owns npm says shipped fixes exposed packages more than 10 million downloads total more than million href rel nofollow more span class meta nav span p p post href trusted publishing flaw exposed 1 500 npm packages takeover appeared first href net security p",
-      "ts": 1791899284.1255536
-    },
-    {
-      "norm": "fifth cisos take time off avoid patch tuesday socura report claims cisos calling sick taking holiday miss patch tuesday",
-      "ts": 1791899284.1255565
-    },
-    {
-      "norm": "attackers heat french supermarket fridges up 50 c hijacking danfoss controllers attackers took remote control fridges freezers hundreds french supermarkets night october 11 warmed them forcing stores throw food away several retail chains said attackers reached them through controller runs all store s fridges freezers device made danish company danfoss maintenance firms can manage remotely les mousquetaires",
-      "ts": 1791899284.1255593
-    },
-    {
-      "norm": "two critical marklogic flaws could give delegated managers persistent admin control two 31 newly disclosed flaws progress software s marklogic server database could let account given only some management privileges take administrator control server company says progress published all 31 october 12 scored five them critical fixes been available since september 10 marklogic 11 3 7 marklogic 12 1 0 affected",
-      "ts": 1791899284.1255622
-    },
-    {
-      "norm": "gitlab patches cvss 10 0 flaw could let unauthenticated users run server code gitlab released patches maximum severity security flaw impacting community edition ce enterprise edition ee software could result arbitrary code execution gitlab remediated issue under certain conditions could allowed unauthenticated user execute arbitrary code gitlab server via specially crafted regular expression ci cd",
-      "ts": 1791899284.1255648
-    },
-    {
-      "norm": "refrigeration controller hack spoils food across european supermarkets p cyberattack targeted refrigeration controllers setting refrigerators freezers across hundreds supermarkets defrost p p post href controller hack spoils food across european supermarkets appeared first href",
-      "ts": 1791899284.1255674
-    },
-    {
-      "norm": "gta 6 leaker threatens release full playable version game ahead official launch hacker behind high profile string leaks involving upcoming release grand theft auto gta 6 videogame threatened release complete playable build read more my article hot security blog",
-      "ts": 1791899284.12557
-    },
-    {
-      "norm": "vmware pushing so many patches thinks users need tools manage flood s 2026 virtzilla reckons s ok pay mfa",
-      "ts": 1791899284.1255727
-    },
-    {
-      "norm": "low cost android phones ship preinstalled malware turns them into residential proxies low cost android smartphones been shipped malicious software baked into device firmware allowing bad actors covertly install apps conduct ad fraud turn devices into residential proxies activity which targets android devices built mediatek platforms across several brands being tracked bitdefender under moniker midnight mimosa preinstalled",
-      "ts": 1791899284.1255755
-    },
-    {
-      "norm": "good ai ancestor cybersecurity already gave us playbook p ai brought us familiar inflection point story privacy cybersecurity online safety we opportunity apply decades cybersecurity experience before next generation technology creates consequences we cannot easily reverse i learned importance responsibility through three year old child i ll call adia her name protective pseudonym adia appeared image child sexual exploitation uploaded internet investigators needed href rel nofollow more span class meta nav span p p post href good ai ancestor cybersecurity already gave us playbook appeared first href net security p",
-      "ts": 1791899284.1255782
-    },
-    {
-      "norm": "do when data breach notice doesn t say much data breach notifications telling victims less than ever company leaves out can still shape you do next",
-      "ts": 1791899284.1255813
-    },
-    {
-      "norm": "critical medical devices unable support pqc transition forescout found just 6 internet medical things iomt 16 medical ot capable supporting post quantum cryptography",
-      "ts": 1791899284.1255841
-    },
-    {
-      "norm": "asos app delivers data leak threat instead fast fashion rogue notification claims snowflake instance compromised but customer info theft remains unverified",
-      "ts": 1791899284.1255865
-    },
-    {
-      "norm": "denmark s id register spills more people s details than country residents abuse private firm s access exposed 8 8m records including those people who had died moved abroad",
-      "ts": 1791899284.125589
-    },
-    {
       "norm": "ivanti misses opportunity fix vulnerability before attackers got work made zero day p security vendor said initially discovered portion defect during internal security checks june but company said didn t meet threshold out band release p p post href misses opportunity fix vulnerability before attackers got work made zero day appeared first href",
       "ts": 1791930270.3996396
     },
@@ -2420,10 +2260,169 @@
     {
       "norm": "oh look foot gun went off again citrix netscaler preauth command injection cve 2026 88771 p god damn we re back room again p p yes sound your ears screaming footgun gone off again shockingly we yet again dealing situation where entire world apparently knew about citrix netscaler cves before citrix had woken up p",
       "ts": 1792494392.8663821
+    },
+    {
+      "norm": "php warns admins two critical flaws emergency patches coming tomorrow php security team warning administrators prepare emergency security updates tomorrow address two critical vulnerabilities information about flaws reportedly leaked ahead their scheduled disclosure",
+      "ts": 1792531352.0577843
+    },
+    {
+      "norm": "fbi says safepay ransomware gang among most active more than 600 victims since 2024 fbi cyber agencies uk germany said safepay targeting businesses critical infrastructure guessing passwords exploiting vulnerabilities using phishing attacks",
+      "ts": 1792531352.0578032
+    },
+    {
+      "norm": "nigerian sentenced 8 years long running tax business hacking fraud scheme p chukwuemeka victor amachukwu hacked tax preparation businesses filed false tax returns enticed victims send him money investment schemes p p post href sentenced 8 years long running tax business hacking fraud scheme appeared first href",
+      "ts": 1792531352.0578072
+    },
+    {
+      "norm": "zeabur shutting down after second security breach two months development platform zeabur disclosed details cybersecurity incident which attacker used leaked internal credentials stored plaintext compromise infrastructure steal over 3 2 million environment variable records information 321 810 accounts",
+      "ts": 1792531352.05781
+    },
+    {
+      "norm": "california warns all public school students data stolen contractor breach cde released multiple statements over last week warning state s students assessment contractor educational testing service ets suffered months long data breach",
+      "ts": 1792531352.0578127
+    },
+    {
+      "norm": "ex openai engineer detained after planting secret recorder hq perp who saudi ties arrested allegedly bugging openai conference room highlighting preventable insider threat vector",
+      "ts": 1792531352.0578156
+    },
+    {
+      "norm": "23andme successor settles california 6 million over cybersecurity failings california attorney general rob bonta announced settlement under which 23andme s successor pay 6 million resolve allegations company did not properly protect customers data before 2023 breach",
+      "ts": 1792531352.0578184
+    },
+    {
+      "norm": "openai says gpt 6 1 sol dramatically better migrating legacy code openai confirmed newer models much better writing migrating software older programming languages",
+      "ts": 1792531352.0578206
+    },
+    {
+      "norm": "russian gru hackers hit nato shipbuilder aircraft engine maker law enforcement agency espionage campaign p s work infamous group behind attacks democrats during 2016 presidential election symantec said p p post href gru hackers hit nato shipbuilder aircraft engine maker law enforcement agency espionage campaign appeared first href",
+      "ts": 1792531352.0578246
+    },
+    {
+      "norm": "palo alto s firewall os been under attack multiple ransomware groups since june unit 42 investigates network compromises across numerous industries",
+      "ts": 1792531352.0578268
+    },
+    {
+      "norm": "nigerian national given 8 year sentence tax business hacks nigerian national who worked group hack tax prep businesses conduct millions dollars fraud using customer data sentenced this week",
+      "ts": 1792531352.0578294
+    },
+    {
+      "norm": "eight emudhra ca keys compromised triggering emergency fixes across browsers software private keys eight emudhra intermediate certificate authority ca certificates compromised mozilla google s chrome root program confirms october 20 intermediate ca signs certificates websites present so anyone holding one these keys could issue certificate any website browser would accept researcher reported",
+      "ts": 1792531352.0578322
+    },
+    {
+      "norm": "chrome flags malicious commands scammers pass off fixes p google updating chrome s enhanced protection mode detect scam websites warn users when page tricks them into copying malicious command company introduced enhanced protection chrome s safe browsing feature 2020 address online scams social engineering google says further updates made users ten times safer phishing social engineering notification abuse other scams compared those using standard protection figure based href rel nofollow more span class meta nav span p p post href flags malicious commands scammers pass off fixes appeared first href net security p",
+      "ts": 1792531352.057835
+    },
+    {
+      "norm": "swamped curl maintainers take low level flaws public survive vulnerability avalanche october 26 only high critical cases stay private project seeks help sharing workload",
+      "ts": 1792531352.0578375
+    },
+    {
+      "norm": "connectwise customers hit supply chain attack linked compromised api secret p hundreds customers confirmed impacted attackers use sensitive credential break into connected microsoft 365 applications unimpeded p p post href customers hit supply chain attack linked compromised api secret appeared first href",
+      "ts": 1792531352.05784
+    },
+    {
+      "norm": "us agencies detail incident response practices rogue ai agents p nist cisa nsa share ten voluntary practices preparing detecting responding recovering reporting rogue ai agent incidents p p post href agencies detail incident response practices rogue ai agents appeared first href",
+      "ts": 1792531352.0578432
+    },
+    {
+      "norm": "critical fortisiem flaw gets public exploit poc unauthenticated remote code execution cybersecurity researchers released proof concept poc exploit recently patched critical security flaw impacting fortinet fortisiem could result arbitrary code execution vulnerability tracked cve 2026 106173 cvss score 9 4 critical path traversal flaw could allow unauthenticated attacker execute unauthorized code commands via specially",
+      "ts": 1792531352.0578454
+    },
+    {
+      "norm": "close identity gaps software development before unleashing ai artificial intelligence complicating security software development lifecycle but dark reading roundtable found collaboration better identity visibility reduced testing costs offer cisos way ahead",
+      "ts": 1792531352.0578475
+    },
+    {
+      "norm": "qilin inc ransomware groups exploit palo alto networks flaw bypass mfa palo alto networks disclosed s continuing observe exploitation now patched security flaw impacting pan os prisma access ransomware actors activity relates cve 2026 0257 cvss score 7 8 authentication bypass flaw could exploited bad actors set up unauthorized vpn connections patched palo alto networks may 2026",
+      "ts": 1792531352.0578501
+    },
+    {
+      "norm": "there s only so much code rise vulnerability numbers september microsoft patch tuesday release included 975 vulnerability advisories this month 1 415 vulnerabilities just dropped compared pre june average 100 month increase staggering where did they come does future look like",
+      "ts": 1792531352.0578525
+    },
+    {
+      "norm": "doj escalates fight election supremacy california raids p arrests paired comments doj dhs officials threatening investigate arrest prosecute tens thousands california voters if they vote november p p post href escalates fight election supremacy california raids appeared first href",
+      "ts": 1792531352.0578558
+    },
+    {
+      "norm": "aomei backupper servers hijacked minutes time push backdoor p unknown number aomei backupper users had their computers infected backdoor through unusually stealthy supply chain attack security researchers discovered between april july 2026 attackers repeatedly altered configuration files aomei s own servers just five ten minutes time then restored originals tampered files belong software s update promotional pop up mechanism which periodically fetches instructions aomei s servers activity observed href rel nofollow more span class meta nav span p p post href backupper servers hijacked minutes time push backdoor appeared first href net security p",
+      "ts": 1792531352.0578644
+    },
+    {
+      "norm": "eu cyber law won t force fixes fridge controllers hit french attack eu s cyber resilience act took effect last month only requires companies fix vulnerabilities issue free updates during product s support period which manufacturers define",
+      "ts": 1792531352.0578682
+    },
+    {
+      "norm": "head ai security roles surge large organizations ians report found despite growth head ai security role accountability ai governance firms remains unsettled",
+      "ts": 1792531352.0578723
+    },
+    {
+      "norm": "hackers abuse ai pen test tool cairn automate massive attack spree chinese speaking attacker compromised hundreds websites across globe looting big fish like john deere sharkninja engine manufacturer cummins",
+      "ts": 1792531352.057876
+    },
+    {
+      "norm": "dhs bans deepseek products across us federal civilian agencies u s department homeland security dhs ordering federal civilian agencies stop using deepseek products remove them government systems",
+      "ts": 1792531352.0578802
+    },
+    {
+      "norm": "incomplete security patches show hackers where look next p security patches turning into roadmaps attackers growing share fixes later found incomplete open bypass oren yomtov security researcher terra security began tracking broken fixes after team kept running into them own work over past year fix would ship bypass would found another fix would go out worried this sample bias we looked every published cve record href rel nofollow more span class meta nav span p p post href security patches show hackers where look next appeared first href net security p",
+      "ts": 1792531352.057884
+    },
+    {
+      "norm": "hackers use autonomous ai agents breach company websites target over 1 200 sites chinese speaking criminal pointed autonomous ai agents company websites let them break almost no help security researcher watched happen because operators left their control panels open internet agents tried more than 1 200 sites reached websites belonging more than 100 companies including farm equipment maker deere appliance company",
+      "ts": 1792531352.0578878
+    },
+    {
+      "norm": "researchers warn opencode quietly patched critical rce flaw leaving users risk opencode silently patched critical rce flaw leaving vulnerable users unaware security risk researchers pillar security warned",
+      "ts": 1792531352.0578928
+    },
+    {
+      "norm": "aomei backupper compromised short burst supply chain campaign p across multiple short compromise windows users served downloader shinyroad modular backdoor framework p p post href backupper compromised short burst supply chain campaign appeared first href",
+      "ts": 1792531352.0578973
+    },
+    {
+      "norm": "cjis v6 1 compliance 5 practical priorities agencies cjis v6 1 requires agencies maintain strong authentication account security audit controls while demonstrating ongoing compliance specops outlines five practical priorities covering mfa account management passwords logging audit readiness",
+      "ts": 1792531352.057901
+    },
+    {
+      "norm": "password1 forgotten test account land welsh outfits hot water ico reprimands ogi networks data cymru after ransomware breach exposes info 3 300 people mostly children",
+      "ts": 1792531352.0579047
+    },
+    {
+      "norm": "key ai software security isn t speed s maturity p where your developers sit ai adoption scale real impact you addressing security risk p p post href key ai software security isn t speed s maturity appeared first href",
+      "ts": 1792531352.0579085
+    },
+    {
+      "norm": "abstract links automated response actions directly siem detection rules p abstract announced ai soc capabilities agentic siem investigation hunt triage powered combination abstract s own trained tuned models frontier foundation models soar response capabilities actions assigned directly detection rules capabilities built into platform already collects routes detects security data stream security teams facing agentic attacks move machine speed while their own tooling spreads href rel nofollow more span class meta nav span p p post href links automated response actions directly siem detection rules appeared first href net security p",
+      "ts": 1792531352.0579116
+    },
+    {
+      "norm": "hacker gets 8 years stealing 3 3 million taxpayers nigerian national sentenced eight years prison his involvement series spearphishing attacks targeting us tax preparation businesses since 2019",
+      "ts": 1792531352.0579147
+    },
+    {
+      "norm": "threatmodeler nexusai tracks architectural changes proposes security updates p threatmodeler announced launch nexusai ai powered threat modeling partner within threatmodeler nexus platform nexusai helps enterprises automate more work involved creating analyzing maintaining threat models enabling security teams scale their impact without scaling manual effort ai accelerates application development security teams face growing pressure assess more applications respond architectural changes manage risk without slowing innovation nexusai addresses this challenge taking href rel nofollow more span class meta nav span p p post href nexusai tracks architectural changes proposes security updates appeared first href net security p",
+      "ts": 1792531352.0579183
+    },
+    {
+      "norm": "identos policyarc gives ai agents task specific time limited access p identos announced policyarc now generally available solution gives security platform compliance teams single place define enforce audit access policy across their applications policyarc built solve safely extend access not just people services but ai agents now acting their behalf policyarc builds more than 12 years identos identity access work across canadian government healthcare href rel nofollow more span class meta nav span p p post href policyarc gives ai agents task specific time limited access appeared first href net security p",
+      "ts": 1792531352.057922
+    },
+    {
+      "norm": "ahold delhaize restoring services disrupted cyberattack p company restored many websites apps europe expects e commerce brands us restored days p p post href delhaize restoring services disrupted cyberattack appeared first href",
+      "ts": 1792531352.0579255
+    },
+    {
+      "norm": "pegasus spyware infection confirmed serbian university rector s iphone days before election iphone vladan oki rector university belgrade prominent supporter serbia s student protest movement infected nso group s pegasus spyware 2026 citizen lab said october 19 finding came six days before serbia s october 25 snap parliamentary election infection used zero click exploit meaning oki did not tap link",
+      "ts": 1792531352.0579293
+    },
+    {
+      "norm": "appgate gives ot supervisors live monitoring session termination controls p appgate expanded zero trust offering operational technology ot session governance capabilities help critical infrastructure operators reduce third party access risk simplify compliance audits protect operational uptime expansion builds ztna ot offering appgate introduced march 2026 initial release appgate ztna ot controlled who could access critical systems this release governs happens during each session gives supervisors final say when activity href rel nofollow more span class meta nav span p p post href gives ot supervisors live monitoring session termination controls appeared first href net security p",
+      "ts": 1792531352.0579333
     }
   ],
   "seen": {
-    "00c3c723a4e5193cd82289c30c95ad4b704d7e9b": 1791899284.125469,
     "01ccdefefe75bf15fd34c2ef2966af9f73168cf3": 1792062134.6038623,
     "0210f954decce4e8bf4ff24b39d7e8ce4a8b427b": 1791977131.3660376,
     "028fbbce931a7931f6f5eab152b576931b7a8c0b": 1792183156.4634714,
@@ -2438,6 +2437,7 @@
     "05373092476a7d9dd470256bc0902a768bdf5104": 1792098226.684721,
     "055bfa833fc008026412166ac06c5cdab1876c50": 1792148286.0298054,
     "05b41d1861c0bce38027d49692866ddcf2e1e25d": 1791930270.3997514,
+    "05dd90fd0f45aeea58e41e32ea7000f4b8eca8e7": 1792531352.0577843,
     "05e0b38688d5eae9365c3589ff543372deba927b": 1792098226.6847427,
     "0602ed16425a9a84e2b67713a3227fe916e8a8a5": 1792062134.6038694,
     "064692977b9f759f2e83049346467d3f1d94de35": 1792268269.3991196,
@@ -2445,7 +2445,6 @@
     "067d05994f709bb8d4aa218d2fa8d9da70685d0b": 1792413059.8767312,
     "06accfcb31a1d0808596eb415fdcd7f48a8b31cd": 1792447613.1964185,
     "07ca9e611f68c32769d76c796614c505a5e89a12": 1791930270.3997118,
-    "07d5d5e31dfe7dbeb5bf83fecf2ff88b0a3e4949": 1791899284.1255414,
     "080d6dd1dc1fdb26f090abee739078dce914dafa": 1792062134.6037679,
     "0a017a81c0c4ef31675f0caecee703ceaa181c06": 1792098226.6847353,
     "0a02340233325a551f4843ac76eaf4e13196c035": 1792183156.4633973,
@@ -2457,10 +2456,13 @@
     "0c34834f51359083617f8c1a4e915fa05ad5280b": 1792319731.879318,
     "0c3ef718b98c144485829c602ab4905bfeaeb4ba": 1792098226.6847305,
     "0cfb790894cf8cc47c246991bbd291fb6935cb71": 1791977131.3662689,
+    "0d304799e6217321369b64bcc69d2b9450cfc44a": 1792531352.0578501,
     "0d46526f733bfcef7fbe287dda6e970d79563bc9": 1792268269.3990629,
     "0db65351a44dfbf2774e54a3b0c1b8ba73a32abf": 1792062134.6037743,
+    "0db72c8bc26332c03158c3b8b8ccc970ec1b8e37": 1792531352.0578973,
     "0ddc2ba2b197e1d513580ae3874888ecfa2613f2": 1792494392.8662758,
     "0de6d47211a02f69f88c299f75f514aa58bf7295": 1792413059.8765888,
+    "0dfa738d1635fedf0b2c5e39e4d1be2701c413e7": 1792531352.0578878,
     "0e8c653d006415ac2969306a17aa20f52af8fad3": 1791977131.366305,
     "0e963e876be8023b69c02030f70ceeee68c9f047": 1792268269.3990526,
     "0eab1f6043c37736df99ad90dce3ae154c455025": 1792268269.3991473,
@@ -2474,6 +2476,7 @@
     "10c7257940ccee9d600a3141ffba12be8715aeb6": 1792447613.1964836,
     "120d43c94eeed2cb4f679ee7dd7579785d411192": 1791930270.3997874,
     "124b51acd4ea48768ee612eab1f82658c7053ced": 1792354616.458816,
+    "124f277a741bb4ce94d06e610da790b75d20cf1f": 1792531352.0578072,
     "12a2c547bde3e4daa8b6cf5e55f19d7ad107fcc9": 1792354616.4588275,
     "12b5084185c2ae4fa50f57574752b5cfd5ea1229": 1792098226.6847374,
     "1419b8dc407c140b55bc2dd4b1fd4fd04b21f879": 1792447613.1964595,
@@ -2482,11 +2485,11 @@
     "14c8d290762cda2b6cc8028a072fd828221d3fb9": 1791977131.3661377,
     "14fcc0d971132d81c1a82b92c1dd553be0264afb": 1792319731.8792381,
     "15156651e22133c322f2c81bd0501bbe1053a2ea": 1792413059.8766022,
+    "1530955429aa55bf5dca7f0e05dc20bd3e197e86": 1792531352.0578322,
     "15367a3259ffd9775186915135b040436f5e2677": 1792232386.530339,
     "154671ccc90399a7b5e0c257bfc4081a30ef8c8e": 1792268269.39914,
     "1572cfbc8e6865930f7ff344cc00dc3ece01ff00": 1792319731.879287,
     "15d8931249241012cd4db75027f84225f923bc8f": 1792268269.399047,
-    "1608d9df78e7886b4f093bae1100e9f5ea0a9b45": 1791899284.1255674,
     "163b6c2cf9aabd41112e9eb62937d5ebc4588fc7": 1792268269.3990786,
     "166c2152940e0692c93f2deb2370523d07bd4693": 1792098226.6846702,
     "1728782a1e6c5132f53c7c3e384e51b4257b1d00": 1791930270.3997574,
@@ -2497,12 +2500,10 @@
     "1984747c4f33937c6fad5c977948fdc3d876f924": 1792447613.196466,
     "19a292ee37839cafa247943eb92256b7b550dad5": 1791977131.366299,
     "1a0763123a1d11fad123c60f44a7dcd9f3e5d0a8": 1791930270.3996787,
-    "1a9fdc2dc47360c86b9a6ae0c27051321f604e51": 1791899284.125424,
+    "1b377ec74e5fe1708fb8c568a9c8ad60399301ef": 1792531352.0578294,
     "1d72630baefb75287b77a2db9d0c6a9242b01e05": 1792062134.6037707,
     "1d97e61eedbe02c5957c67a666c19c17139a56e3": 1791977131.3660436,
     "1de1c48ce23bc8e58ce8223556194752e19d5f54": 1792413059.8766184,
-    "1e643864d18e2f3fc1c19b927a334bfb5b852315": 1791899284.125502,
-    "1e8135b67b022e24c6ab1b0fc31de398807d0bc4": 1791899284.1255283,
     "1f63abf1d8df5433eb9bfd0479fe0a068acaa058": 1792494392.8663158,
     "1fae9cde44bf146fc8470e1b7795ab083ebf7d1d": 1792268269.3990073,
     "1fd194e19c3dd4f626e80a401655fff8337f132a": 1792148286.0298276,
@@ -2516,6 +2517,7 @@
     "22e67f78de18053e597e94db7e6ab0c5d46602e5": 1791930270.3998168,
     "23373acbfb83777a06d7b263de2db792f7bafc56": 1791977131.366103,
     "233ec4004daf4cede73908b93fadaa5851cc0c80": 1792232386.5304165,
+    "2364e99b6bb5e93b126cdb2f6ae3e6667b95819d": 1792531352.0578156,
     "24b402916fcefe4051f1c975aeca6c83bf137d82": 1792012975.3479679,
     "250a0b74db7d26da7e35d8832c74a3cf35757d6e": 1792354616.4587047,
     "2524f939ba20df882a48fe55d54d2957fdd5e3f9": 1792494392.8663647,
@@ -2528,14 +2530,14 @@
     "2913841e729c883a0f0066434d03d1483a11d505": 1792268269.399115,
     "2956b1e39e10f98f1f057b2561bec01013f5b2f6": 1792268269.39901,
     "295b94e919e747edc78e2a0b36d667a467157f47": 1792098226.6846986,
-    "299efc5024af479abba08d5cb00a426228aa33fb": 1791899284.125481,
+    "29ac1c4b3b838c48590e8f87e5ef121fb755cbe7": 1792531352.0578184,
     "29d3645f74b2fb62019c008fd15a049e20450764": 1792354616.4587789,
     "2a08f777a497349f8ab94bba5eed4a9f37d814eb": 1791977131.3660653,
     "2a1cef5cea05220cc7e842a26d66053cc05bd8bf": 1792062134.6038182,
-    "2a309150834bed602317a0137260c4d6fdb4e46b": 1791899284.1254478,
     "2ac632f3e2c9a02f7063aa7358ba9d48f8871e7c": 1792319731.8792777,
     "2aed15987fdbc66ad180a4abba2545930bea309e": 1792232386.530425,
     "2b7352fc235caa799a9de49924e0b6431ae6ff49": 1792319731.87937,
+    "2bcaf37a740b174ea5714202aeec0fde4d043f7f": 1792531352.0578206,
     "2c03e3806e741d5f7cbed0ca0f73057ce9f2f859": 1792447613.196501,
     "2c3a16c81fa1a351b907fa90c6eddb13774a7c75": 1792319731.8793457,
     "2cf131532cb914f15cdedf76c8a95926fa537f52": 1791977131.3659232,
@@ -2548,15 +2550,13 @@
     "2ee0c0a49b5a2657a0b5c4685b6a56597674195a": 1792012975.34805,
     "2f6312b7767d6c547ac84e86b76922a35d16c11a": 1792183156.4634192,
     "2f67e7ff74fc3554b47fc035e01bbdf0429769db": 1792183156.4634006,
+    "2f7a0f9a2ffb40116ec7f986f6e5d813abc86732": 1792531352.0579293,
     "2fd581d2b9b4e293783f76ae17a90fcf9345199f": 1791930270.3998048,
     "2fd947715d55cdf24f1eba9721f48e8c28710170": 1792268269.3991435,
-    "302530343dab63e8868723dd6b580755ecee6b8d": 1791899284.1255322,
     "3042b8d5fd6d0727cdff09fb5367b2ae0f3481b7": 1792148286.0297866,
     "30c48aec6fa791e331300a9d1455f0e6b66a3b14": 1791930270.3997333,
     "319aa986d3e5a772ed3f063f48073bddaf0dcfbb": 1792012975.3480742,
-    "32a5798850bf21a4917374d97ea10ac5ab523dfe": 1791899284.12546,
     "33659e3f78085d11485484cde5b077b92b0d0b65": 1792098226.684684,
-    "339f93492eeffe921a65315848f66e7b92194200": 1791899284.1255622,
     "348862c34884fced08a7201efabbbf640df39203": 1792183156.463463,
     "3493ad24d01d3adf57dee30e0a2d1c87de6f6371": 1792494392.8662183,
     "3565d45fa9724e1b9d8a08243de8966c0a8d55c9": 1792098226.68475,
@@ -2569,12 +2569,9 @@
     "39925f2a643ee3f3c8e2bb338ce77aeceaac3213": 1792183156.4634674,
     "3a2f3756dcccab7649f03014b797c0963ecae45d": 1792232386.5303686,
     "3a7b569916d745088cd980262bd427d2a8e7886f": 1792319731.8793325,
-    "3a9e3913c5c484fd4917b81b6d0ecd2975893775": 1791899284.125464,
-    "3b4e5e79f1e238650e2b27ac0d1bf43967c3d0de": 1791899284.1255448,
     "3b8939cd6e35c1ec377db330038c1bc291ca7eb2": 1792354616.4586947,
     "3c5cedb37c36ebf2c426a2bb7f87345d65ef0615": 1792413059.8765929,
     "3c74e6888cec845d300a7c2147b99a49f8bde06f": 1791977131.366192,
-    "3cb01d3354eeaee2438cf71bab6096d518a473fd": 1791899284.1255474,
     "3cfa00bea7a5bf7b9fc56e0635da640f040b8676": 1792319731.8793616,
     "3d15435ffe4d6ead3d90cfd83a5c98dc1208912d": 1792268269.399016,
     "3e1278093e934b6a8a83ff1de4655867483e4a86": 1792447613.1964161,
@@ -2583,7 +2580,7 @@
     "3f1030ed0e261f8191fbf9c44d38ce845c360c5f": 1792148286.0298634,
     "40e5d1b442a5ebcf408d1bf427ec1974739229fd": 1792232386.5304372,
     "40f621da6d1414b041357939748faacef35f6ca4": 1792148286.029911,
-    "417e4e30fb4cbd1c4c7ace1eab6a09f19ffd5768": 1791899284.1255536,
+    "4162cca6289cbc1dd289ae42a592095ba436c643": 1792531352.0578802,
     "425846ce93981910ed1bc1b85c3eb25d77b5c251": 1792447613.1964364,
     "42d7d50a9109dcecf519edd256383b953834ae14": 1792319731.8792617,
     "4386cacdf66a1a470518734093c29972e6d6c8fe": 1792148286.0297904,
@@ -2597,6 +2594,8 @@
     "46a2bbb0a04722e7d1b87a98b5956e374665753a": 1792494392.866281,
     "46e66f8ca65c698dd3c446b90aef5978dba61ef7": 1791930270.3997915,
     "471ea8bf94e66bbd6c9c8820b9baf983a9f0e45f": 1792413059.8766859,
+    "4741baa19ee3376ad2f113ed714dd97e237a79e6": 1792531352.0579333,
+    "4791d60cd7f67dbeafc7547ea74042a8dbcbd024": 1792531352.0579085,
     "4797cf0536943db966cbef1c694d335d5120714a": 1792148286.0298812,
     "47f4fcfb349a6896db9680efed5613a4de494982": 1792494392.866312,
     "48b9aea0ee8325eebf41ded15651196954fce9e7": 1792183156.4634788,
@@ -2607,16 +2606,16 @@
     "4c4cb6380811cfc65a4c958f2c2f6164eed5af41": 1792319731.8793051,
     "4c516ad54fe510d3ac0fc231a74ca2a5634937a4": 1792098226.684725,
     "4c627fbf925d7d6cdd88274affbb4f566cb282b4": 1791977131.3661237,
+    "4cce5b0679d631b9993396145f40ae1ef643c6a7": 1792531352.0578682,
     "4d0ab1e7dd5973407505c68437b8c46024786737": 1792232386.5304558,
     "4d43b6c7b064be1335cb42b43eb3ef26370a6ecc": 1792268269.3991053,
     "4d5b36d13b300c3b0d8b544940b993f46b07c6dc": 1792012975.3480034,
-    "4dc2fbb89eb1359191cdb290d356660bef3ea799": 1791899284.1255503,
     "4dcee3405abaea428f66ff79eaf710600fe0d027": 1792494392.8663316,
-    "4dee64c03bb74bfe264099aba3f7ef5d84abc9f6": 1791899284.1254761,
-    "4e716b804a63e6f8512ff63b06b361fe36a73de9": 1791899284.1255865,
     "4ec11149b02ca77dd707d494d3cc807654e30e18": 1792012975.348054,
+    "4f1699f96a5adad2e5b45da085e9ee59753e6ba4": 1792531352.0578375,
     "4f678ae197795f077ce3bb070ece653b2a9be521": 1792062134.6038327,
     "4fd8d5a31fd8ccfc2fb573dbc3d78b103f3bf5bf": 1792494392.8662713,
+    "4ffed07b69ad9f90d134bbd692c573ab99b58f22": 1792531352.0578928,
     "50367ee6ae87dcd5e1b39b493e658ad9d82660d1": 1792062134.6037889,
     "50880c900177e28f08a260a1d2573f4dd0686d51": 1792183156.4634068,
     "509b1847c72fe13078b8239fb14509630ac96399": 1792148286.0298102,
@@ -2627,8 +2626,10 @@
     "5368079cd481f9c0c908b01118cb83cf953d3c9c": 1792413059.876567,
     "5381f078c6a154c7db079bf367ccf76de422e344": 1792232386.5304134,
     "53bfae4a0cf33888db047c3ab9070d0d05c3f216": 1791930270.3996592,
+    "53ddecf9f5b1add8506d5ea401ed7d5a9d2c3c76": 1792531352.0578454,
     "542b70b8a5d0bee51f11b7e61d0fdf16cdc6fc6a": 1792062134.6037533,
     "54614ce52317276d4b217f08c126bb6834aa2bd2": 1792447613.196504,
+    "54e589c7063e95af2e0e52118429c994b5b28264": 1792531352.057901,
     "5536db95e16ab920fe387164ee0f7164ce227b58": 1791977131.3660147,
     "553c25ef77944fe278ee6760bd5418f2f9e65abd": 1792447613.1964066,
     "55d6c9d3c5f8106a88c132355fff30d812bd37c0": 1792268269.3990576,
@@ -2638,14 +2639,11 @@
     "56700f399dd97d1fb8e58efd09a746f99b929316": 1792268269.399128,
     "570936749f048b8336fd87418a08ca61bbeb1867": 1792413059.8765752,
     "57cc9f4b5f83babdb3441ecc21ab45adeea6c2c2": 1792319731.8792644,
-    "57d7ee05b83fd99b83a2b542f9deff0faf7ff559": 1791899284.1255813,
     "585001b1978a5c70adf9fbc807efee8d407400fc": 1792319731.879378,
-    "585594f86cc881b7f666cf835f95f6dbea46c6f9": 1791899284.1255755,
     "5921092180ebaec232dd7ee03a78e840132ef6cc": 1792148286.0298715,
     "5987fef0dd416d605f8c0bbe35663ca2b9d98653": 1792183156.463483,
     "59b0e474cfa72377e1ff4d0f7b24389f1285d037": 1792447613.1964886,
     "59dff61018ead8f4287342ded3a683bd3e1d62a2": 1792494392.8661957,
-    "5a70d1e6bd473ee48959e75a5f8304c65d552cc6": 1791899284.1254725,
     "5a8d0413be6f3aca628650df47e7e8140b425b2e": 1792447613.196377,
     "5a936d0dc13b0356f0d8f71c30c0f73318346b5b": 1792447613.1964204,
     "5ae38a63e4733a2ac2ed54ed97fb5d044741168b": 1792494392.8663232,
@@ -2657,12 +2655,12 @@
     "5e7190318dbce36521fc7777e75ae8d6a23d8e39": 1792319731.8793218,
     "5f2037864b2f69b178914b0d63c953678c9f5531": 1792447613.1964917,
     "5fc8c6dd8c540e0eb9bfe03074f9a2fd575374c4": 1792148286.029849,
-    "604124be3b4aa73775d51100cdd271582c6953d9": 1791899284.125589,
     "6051d8ed862c2daf34ecd90086dfa2965ce5d68f": 1792012975.3479838,
-    "60741e2fa63608cb9f523b6ae40be04fde311c70": 1791899284.1255565,
     "60d41e7e44e9c502ca7293e6e79321e1e9318646": 1792062134.60375,
     "61395f90aa8ad1f74ccf30a490057d94f154d3b3": 1792494392.8663378,
     "61ac6bfaa7c9de556d960c3924691dcc2f35be07": 1792183156.463514,
+    "61ae40293dee867ba96e330d966c534df1d6fae3": 1792531352.0579047,
+    "6203e915296ac66d83c772b5eeab42c16764e8c7": 1792531352.0578127,
     "6281ee2fcd9ff18a17101385c6c2f30efa7f123f": 1792354616.458775,
     "636f592f9fe4d1f69c86b3029a2757bf6575db97": 1791930270.3997664,
     "639d0d6e00a7eca3d11d5db60af7d3290bccdcaa": 1792012975.3479784,
@@ -2688,7 +2686,6 @@
     "6bfc27d05d215d21b74ca6ff4e1b892637140a6c": 1792232386.5304015,
     "6c494d43a8453ba0da3e7b077762dab0353c974c": 1792494392.8662968,
     "6c8051f534fec6ac4af3cdc55bb2fed2dbaf655e": 1792098226.68466,
-    "6c8407df0b36380043e86aac926b70a121e25ae6": 1791899284.1254895,
     "6c920079ad829cda3cc338c772d7c0483e5d93ca": 1792494392.8663461,
     "6c93682bf2887395cb564f48f888e2f8d562ae82": 1792183156.4634416,
     "6cef4003f8059c631c7f60a10780929ee5bce1d9": 1792183156.4635262,
@@ -2698,12 +2695,12 @@
     "6e56ced53da56dc2b3e2db615d233c7953f430f3": 1791930270.3997433,
     "6e689f58716dcd5bf0184f10f46b655968c6e4ff": 1792447613.196469,
     "6e8696034a920beba644e1ec65ed05c65069d3ab": 1792447613.1964862,
-    "6ebfc31532ee33e4f7e3795eb39060443b219029": 1791899284.1255593,
     "7101269c7dc3b87e3c46642f4b13f2e99b2efcd7": 1791930270.3997626,
     "714d202db5965001890c89f4a85de50f3be64257": 1792183156.4633949,
     "71965359535822fcfe9719d5f2b91dc6c692ed96": 1792447613.1964395,
     "7278d7ea9fdc812d71d01622ffa394cf51503de5": 1792062134.6037765,
     "730868d2c9182e8cc94be5781e069e3f9f1e191c": 1792232386.5303886,
+    "73fd52e0b2d71e49fb18e74c126cc4e6c02b1092": 1792531352.057884,
     "746693f60fe62165b001e08b885b0c880fa90e69": 1792413059.876633,
     "74a44f824ba0950d0757cee38fb3e0911edc7516": 1792268269.3989768,
     "74ff0a30f9fe582b5b178becc9a122847cb91ed4": 1792354616.4586725,
@@ -2719,6 +2716,7 @@
     "79446cd89775d8149e818ccb027b89a781be02b8": 1791977131.366287,
     "79976e0ae4389a3c5a16c09aa85535e3a05ab787": 1792232386.530448,
     "79a8a7bd139829526fce12afae717f3bb660d110": 1792232386.530432,
+    "79b4014f667cba1b1a55f9fad342f8874e4954bb": 1792531352.0578525,
     "7a1f49cfc7152176e0538dce8036dd3937160060": 1792183156.463446,
     "7a224cbe0db0b27581a48920036b72b191b94309": 1792012975.3480144,
     "7a7f58a87f0e99e794fc42fca1e2ffffc2bf0ae1": 1792232386.5303519,
@@ -2732,11 +2730,13 @@
     "7d6f890d8bce58ca410670477b07b5a49753177f": 1792268269.3990896,
     "7d7873546869b4f9fdc54575e7b49aede2b34209": 1792148286.0297942,
     "7da1d8e11993ee03726ad18d734bb089e35a9d96": 1792012975.3480814,
+    "7e6b42f8e84a6022d9d56f09d4e774d70c95b8b4": 1792531352.0578268,
     "7e8ace9d42e7bb3d7e46d0215d9aae32ae2565f7": 1792148286.0298078,
     "7e978702ff2e8fcc6c32d616a706fefdc6988d3b": 1792354616.4586904,
     "7eecf551fade765e01cf73aae99f32029f860a13": 1792413052.855833,
     "7f55a7a9001ea1149f3907b8e4a32941a2026bb1": 1792012975.3479621,
     "7f5dd566b2dd8d8cd689f202d357bb36a03a2891": 1792268269.3990188,
+    "7f980a9b2d81a662e3a53c381309222a3b73f0d6": 1792531352.0578246,
     "7fb1c5cdc54ff3a053e20aee7a6b790c363e4ec1": 1792098226.6847048,
     "7ff5ebdf54049fd1f5d5e7fa998ca6f9adcd0506": 1792319731.8792667,
     "804b1f79c64cf8aa8dbb883271b51fa0b11a0589": 1792098226.68474,
@@ -2747,7 +2747,6 @@
     "82c7537f544bd2c145c73debe8c52cdc15868fa7": 1792413059.8765986,
     "834a248937dfd68d67182908dbd75dade8d34bfb": 1792183156.4634545,
     "835a57efab96f42461e390e9cf176a2ead93ddde": 1792012975.3480883,
-    "83ad8032898d3c18b8987fbfdc221fcd9fb3dc84": 1791899284.125507,
     "83d130e7ba9f7dd16780b5aa051506c65599588d": 1791977131.3662632,
     "841edbc362aba60e5718ec14463656a9f7fa2429": 1791977131.3662796,
     "8506686dc9dbdbdb6d386b3a18c53acd22b9b8e5": 1792148286.0298562,
@@ -2755,6 +2754,7 @@
     "856c0768794b2c32b2d5e87c1f02ed35713a367d": 1791977131.3659596,
     "8593df7d9b95548df29da4481355c51e67e5122c": 1792354616.4587486,
     "85a01d9a032cf3ba23ebfe5463812b7f78a5f4ae": 1792098226.6846633,
+    "85d254d8a7e49675578d52b7a4297bc7dbd937a5": 1792531352.0578558,
     "85fdfba5d2e3b397e01e46a243112bc247a82ec7": 1792148286.0298524,
     "860212061d1148701f7603cec598b2e4f930ce10": 1792494392.866285,
     "861f4dd4c580966a80c1122d9ffeb9b61acc3973": 1792413059.87669,
@@ -2767,24 +2767,21 @@
     "88b1b3c0bd98be582c085de3759e3bdd007c447c": 1792354616.458731,
     "88f9506fb18e64e305fd6ccc686177829142cbb3": 1791930270.3996649,
     "892cc8ea298160be2e5b87754d29e14b0549471e": 1792354616.4588308,
-    "8986d7ba1cda10d06e9f4a142660e44d4fce1e29": 1791899284.1255245,
     "89da19b51c108909add2bf9e27d94a365cc55903": 1791977127.7276387,
     "8ab3c51ec37145657c09b41052a3a315adff42cb": 1792012975.3479648,
-    "8aec78183befadf7ded785a310f4d8993a69d0d1": 1791899284.1255841,
     "8b887cc388b4b0a152d89f7c2936e72c56339aae": 1792447613.1964557,
     "8ba0ac282b9f068bb1ae56a144b2e925363bd716": 1792354616.4587367,
-    "8bb6776490a4ecf863f52580c474280fb52ded78": 1791899284.12557,
     "8bed3c35c1a5ef607482c8d008d6dae9a66afc11": 1792062134.6037993,
     "8c0757d8205e262e888c198cab955ef9739fd763": 1792447613.1964037,
     "8cc5ccfba0addfc92f2cd97ac599b2973d93fb4c": 1792148286.029888,
     "8dfac5c34b84f531356e5f797e207e718f0b844e": 1792183156.4633656,
     "8e2b4b8581aaf0f3e478f5b02cca2158aa7ca2a1": 1792183156.463386,
     "8eb1a138fda08bb92ccf91ccfe143ab592e212d6": 1792268269.3991513,
-    "8f63a0f3f0541bc2b9086282e5fcec4da6ed268c": 1791899284.1255207,
     "8faee352256ff8141405afd97d20839786caf18f": 1792354616.4588041,
     "9073d40bed09ec1d8da22eab87ed8897f0de5f39": 1792062134.6038501,
     "90f714cac7b33a2d10ce141508c50158a7b0080d": 1792148286.0298977,
     "90f8d938cf4bba502e92a5b83553a5751bebad73": 1792232386.5303845,
+    "91169d0210955495c0f8087bf1864b22e3248d80": 1792531352.057876,
     "91795601b1ffd249b1f5b2d62d6d91ad19f21d7d": 1792012975.3480585,
     "91d989b5fb66289f25dcd19101e48e7c41a9462b": 1792012975.347973,
     "91e45ba5d38f226c5d98cc44358ea72b092a0a3d": 1792413059.8767166,
@@ -2812,7 +2809,6 @@
     "9d5ca6b881a5aa18a0af71e17c9661ea45e2d7c0": 1792354616.4587224,
     "9d7e0c21485d6346e291697c5ff34d65d712642f": 1792062134.6037788,
     "9eea57edb89b54636f2899fac15a9de383674e26": 1792494392.8663778,
-    "9eef291b01269e916c0604c8ed31542ad6759a1e": 1791899284.125455,
     "9fced633ccd9128ac5a640526597f61fbf0f328c": 1792062134.6037645,
     "a08438a7ab1a57d46e6adeff721c344869aaff10": 1792354616.4587257,
     "a094aa58c0daa3052470f91d61068d5293bbac03": 1792098226.6846468,
@@ -2832,15 +2828,17 @@
     "a713f2422da2706fcb2511499fd511e0d0b80a19": 1792062134.6037967,
     "a7632caf16a4605d27df4528f53061a322227984": 1792012975.3479812,
     "a7d7c0f109d9c0c8c196ebc36827abfe97594350": 1792012975.3480618,
+    "a8188903597cf8d27973565893ace766d2b57c47": 1792531352.057922,
     "a877d9e96dc90632a7e672e9b952089c7269f592": 1792494392.8663692,
     "a87887de0fe6255868457ae68ba36b01460650af": 1792319731.8793738,
     "a923f641b026bbc15c41f9ff4dc068a5d0e7a059": 1791977131.36631,
+    "a92bc795de6c58266ac9c226531daf6057ddd311": 1792531352.0578032,
     "a933b7cbaae5d4775d1d1c9ba45fcd5182cd69e2": 1792232386.5304635,
     "a94f659501d4c7262a23b1bdd9c189b096b6c830": 1792148286.029875,
     "a9fd8af64558c12fc2e4251ec6eb4f70c6e6868c": 1792413059.8766816,
     "aa0e33ec006b59c5d7281e709f585ba932ff4646": 1792319731.8792753,
+    "aa2f36ffa3be9ae9d81801f54fedc3aaf0a32e6e": 1792531352.05781,
     "ab8d628f7d0e613ebc0a0c5c92acdaef1a8a2006": 1792413059.8766978,
-    "abd771f6e3f18ebab952a176843f5af735d93793": 1791899284.1255116,
     "acf12ad31aacbc6b453a389b2ae9e4bac44a8bb8": 1792447613.1965067,
     "ada0693d26303007188c417c50960c5d79d0b041": 1792098226.6847153,
     "add245d425eeb8bcca648b85689e72d3b2d88394": 1792319731.879358,
@@ -2849,6 +2847,7 @@
     "aee91bc76f0586a216607332e40c5dcc4c135df4": 1792232386.530373,
     "af019f17e205a1c0df9bb4ecda1dae31dec52b15": 1792319731.8792691,
     "af908dabc4c0cd7717a5823d1427e075ed214cc9": 1791977131.366156,
+    "afb6cd59faf067d602cb2056c38f1e997b4f5151": 1792531352.0579116,
     "b01b1ea281284cc621c245e5a0ccf12235ce59f5": 1792268269.3990734,
     "b08967e0808474b644c919fdc1927f161272e326": 1792354616.4587924,
     "b0a791a97e86668c88a89a937bee020067cda8b9": 1792012975.3479555,
@@ -2857,7 +2856,7 @@
     "b1f8c189922ad99d22f819efa7f6dd2b2b50f7a2": 1792319731.8793654,
     "b297d2b311175806cad39004f37e63a046d62810": 1792319731.879243,
     "b3127e730a19d4465d4288e72f048e4df44cec76": 1792413059.8766687,
-    "b33f097e4050912f9086d504c0039617ba899126": 1791899284.1255782,
+    "b39b9589d7d51b18f1ba0d012969ef7e06e5eb2d": 1792531352.057835,
     "b3b29f01540659f689779500b6d495eff4f76f1a": 1792062134.603782,
     "b3dabcb4d0c0986ad73ee47e5e64823262340c59": 1792232386.530305,
     "b4bc5adc38d7024cc0f77a905ee95a137e291e40": 1792268269.3991241,
@@ -2870,6 +2869,7 @@
     "b7b1929554c442d8c908e7d9ed0b09477c22aa12": 1791977131.3662498,
     "b7d530528fbf0320f72b8e34deeb98f247076a53": 1792319731.879283,
     "b8b7cb7d4b497f6a56733a463c77182601dd4ca3": 1792183156.463391,
+    "b8cb67bf0a57ef0eebd49228ced91d08692b72ab": 1792531352.0579147,
     "b9b58f38aa23af333d9ec585257ddf1ebe047253": 1792012975.348078,
     "ba5ef20dc7e9f65b242c2100a76cd701cfd8def4": 1792098226.6847098,
     "bc5b49fdafa46e90ed7e5cfb92c296469fa0fcc0": 1792319731.8793538,
@@ -2915,21 +2915,22 @@
     "cb8d7c0fa36772afd0b83af001e68a5b45eaf311": 1792062134.603873,
     "cc0f1f97276ebdca3430b91a69181521e4951adb": 1792319731.8792527,
     "cc31bbd9700e1bb60ebce1071e6ef8241e944a7e": 1791977131.3660715,
+    "cc8c53111d4df0379cff5a30516d098eb9b7df61": 1792531352.05784,
     "ccc1dc4f3986fa74d0a47caebd8bd936f20cc3d9": 1792232386.5304046,
     "ccf9fc3320ad4b7808d617ac89d77a0e1c01acfd": 1792232386.5304213,
     "cd001c5faa80bfeb30a180632ebcedad4ba49793": 1791930270.3997831,
     "cd083f8992fdd977d092f260ffeed43586e04be9": 1792319731.8792803,
     "cd2448e33b82aa7d0f98c524e19badb17b02d5f6": 1792447613.1964004,
-    "cd473945c5d8743c09b5f95ff3318c45fec1c953": 1791899284.1254976,
     "cda8525dba3d99622bc5c2eefb2b4c0718dd04fb": 1792268269.3991585,
     "cdc576e64c59b425bfc4bd70b27225cd857313cf": 1792098226.6846921,
-    "ce24b80c7a89971dc42046d95d3eceb89903aec7": 1791899284.1255727,
     "ce48c7fb264138d8526b6009cee06bae56ced506": 1792494392.8662572,
     "ce862b886d1b841552a0ba76b245d1abf6905403": 1792098226.6847477,
     "cf0c636f104428948deabe5796b7e3838f9559a9": 1791977131.3661427,
+    "cf21e83d251e9c5d7b63fa3cfeb9399bfd367f59": 1792531352.0579255,
     "cfa7b655389e5fcbb07c8625b5510bdabba124c2": 1791930270.399696,
     "d0104b2bc605329f0bca308c6f16623a36bee941": 1791930270.3997746,
     "d079a17148dbe51c1e5c4983ad45b2079751bd94": 1792268269.399086,
+    "d0e29dd20b0b09f0bb3db698bb3f1c14dcc54b05": 1792531352.0579183,
     "d14c3879250e68f23c4c692c9591e5151aec5ccc": 1792012975.3479757,
     "d15fa47c423ed75378e20e2293815428f916f1d3": 1792098226.6847181,
     "d1ca6caa47fb2544e89cc8f4d4a5e79d4edeab97": 1792413059.8767033,
@@ -2945,18 +2946,20 @@
     "d71aee9427eec4323acdb27ccdafb38f49b3dd27": 1792098226.6847072,
     "d7655b04c8239866df6df59e2a661133b4481ca8": 1792232386.5303478,
     "d781dbabb69488eb98644b1e75e9a7bf13c28261": 1792447613.196409,
+    "d8f99e10fef6ca0d2fdf1dc1a922cb897c8ae000": 1792531352.0578723,
     "d92fd5adf0be4354d3718950a698546a49881805": 1792413059.8765957,
+    "d95748138700bbb28a71d83367c258cb1051c895": 1792531352.0578644,
     "d9ed76a64d3ea742b8854ce4acd88ff8e19aedab": 1791930270.3997164,
     "da5951a3ad532da877205353f07c5cbc08b84df3": 1792413059.876712,
     "da5a47b5ebfc1c7bfa727cecf1467911d6897fff": 1792148286.0298026,
     "dab4d8e4a33fe928e4170e5dce30a0929d4097cf": 1792148286.0298913,
     "db0de8b1cf1562b3347ff5c723f9bfed31f2700c": 1791930270.3997202,
     "dc9813bc2d425c7d16f17c56cf2d94af024e4f18": 1792447613.1964111,
-    "dcac8200a15ee63cd8bf9d7d4d4cf626d6c0860a": 1791899284.125537,
     "dd22e4e57e645ef6713ebde73f5a35952aeb08d0": 1792354616.4587574,
     "de29e2c837fdc168e70ab5000faa16374d8791c3": 1792062134.6037562,
     "de7e4a82bb7fc2570ee61fa580f3a862b28bf677": 1792062134.6038659,
     "dfe48df60999dc884922ccb86bfe754cfba74967": 1792183156.463431,
+    "dff178c340ad524b58d0024a014cf7fe67275f4b": 1792531352.0578475,
     "e13926c790b226662713dc918351c586d3e2dfa7": 1792183156.46351,
     "e153090477bae18910884806c16ed5e90312f845": 1792319731.8793416,
     "e1600284a9d945c25c948e88878bdd3ab2136c15": 1792232386.5304399,
@@ -2969,7 +2972,6 @@
     "e5adadfbe555bd99940d95f651ac6c52e29af63e": 1792354616.4587831,
     "e634a1670f02cf9e43a3092b9d4ad71cb86643df": 1792012975.3479354,
     "e63549e2e04b8c11d39bbc8206b49b7f6f54fd2e": 1792232386.5304346,
-    "e7916ed60e978bf50b60b93a20b1e89e1e880bd5": 1791899284.1255648,
     "e7e0582933872fb7723cedd78f33b38a5033dcd6": 1792098226.684745,
     "e8ae45ad54e87ecc3ffc7b692e22d520420c3155": 1791930270.3997958,
     "e9160c0adae6864466a869d5764fdf370497d2db": 1792319731.8792584,
@@ -2993,7 +2995,6 @@
     "f27922db894b417042e37b9317a8d9439b3d0075": 1792062134.6038547,
     "f2c5c74b7401be58c6e4442a94b91b74eac4a1de": 1792012975.3479595,
     "f2ff084b3d8e27890e9392908f8536c8e1c4efad": 1792413059.876749,
-    "f42a122e5dac462a31e1c499a72817b3e8a44bc5": 1791899284.1254938,
     "f432760b27504e89a884d0f080e83331384138b2": 1791977131.366233,
     "f47fa401827130f446e9e1b700857d1d75adeba3": 1792012975.3479996,
     "f519e0b522d74ec30448cb585bd7fc270dd449ee": 1792413059.8766127,
@@ -3004,6 +3005,7 @@
     "f6b610c18e508db281873e7ace5d1ff97d852f83": 1792012975.3480341,
     "f6be75e34064927e9fe7279f2fc86a4ffbd5fc9b": 1792319731.8792496,
     "f771155483cebf6d55da1e2676334c5010d999b5": 1792354616.458713,
+    "f7a865abe770edc48bf8047079a70dcaeb3fa3af": 1792531352.0578432,
     "f8c07b4f34747eca7e6f9aa5c3322c4bcbad26a8": 1791930270.3996828,
     "f8d5e9be65ce754144f840607ee08e4c29687c0c": 1792413059.8767536,
     "f909b9dee009b4a3069e5438d9b3a3de8d7b8636": 1792148286.0298314,
@@ -3012,7 +3014,6 @@
     "f9bb59f8622e86dd58ea87e20b9f22bfd333ca3c": 1792098226.6846566,
     "fac7cd6e29f5b58e54653525d3458960537cdb36": 1792012975.3480177,
     "fb0d1859261d6b6fc066c70fdb09e5b6940579fb": 1792413059.8766735,
-    "fb6e12345e1cbc1b3192a0fe1c624e145cbe5e4c": 1791899284.1255162,
     "fb99d329a170ccdf90361b408a1b6b357ac741ed": 1791930270.3997378,
     "fbad828f4421a1fc4702eb44c598872ad5901b13": 1792268269.399083,
     "fbda5a8420ddcdb15c9b963a457e16e740183784": 1792062134.6037617,
@@ -3022,7 +3023,6 @@
     "fd5afa5349e9afbf6fc66022b8bf5ef4ca4a5b68": 1792447613.196495,
     "fdaf1b106b1e909ea1c94684363a852039d616e9": 1792413059.8766234,
     "fdb0dea9bccbba02b19a693d109f897254876725": 1792413059.8767235,
-    "fe7fa2faa2f6084d54cdc92c1bbc74d19e1b69cd": 1791899284.125485,
     "fef12b3752d6fb705e511be6ed91705b4e84b259": 1792494392.8663573,
     "ff21bb8aab0186afcf42076c4ece8997553420fc": 1791977127.622146,
     "ff25b976bdfa1d9ff1dad11eb92adf087c5f17bc": 1792447613.1964133,
