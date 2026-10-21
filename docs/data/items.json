@@ -1,7 +1,457 @@
 {
-  "generated_at": 1792531352.06771,
-  "count": 127,
+  "generated_at": 1792581799.0301647,
+  "count": 167,
   "items": [
+    {
+      "title": "Browsers Block eMudhra Intermediate CAs Over Recoverable Private Keys",
+      "summary": "Browsers and trust stores have blocked eight eMudhra intermediate certificates after the private keys were compromised. Root programs enforce the block to prevent further use.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/browsers-block-emudhra-intermediate-cas-over-recoverable-private-keys/",
+      "published": 1792581725.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792581799.0189455
+    },
+    {
+      "title": "Ransomware gangs have been exploiting Palo Alto GlobalProtect VPN flaw since June",
+      "summary": "Ransomware groups have exploited CVE-2026-0257, an authentication bypass in Palo Alto Networks GlobalProtect, since June. The flaw was patched in May but remains in use across multiple sectors.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/21/ransomware-groups-exploit-palo-alto-globalprotect-cve-2026-0257/",
+      "published": 1792581219.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792581799.0189455
+    },
+    {
+      "title": "EU wants Booking.com to check out of its scam problem",
+      "summary": "The European Commission opened a DSA probe into Booking.com after discovering fake listings and phishing. It described the platform's fraud defenses as \"absolutely substandard.\"",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/10/21/eu-wants-bookingcom-to-check-out-of-its-scam-problem/5304413",
+      "published": 1792581055.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792581799.0189455
+    },
+    {
+      "title": "Workshop on Economics and Information Security (WEIS) Archive",
+      "summary": "A new archive now contains all papers from 25 years of the Workshop on Economics and Information Security (WEIS). The collection serves as a comprehensive resource for researchers.",
+      "source": "Schneier on Security",
+      "link": "https://www.schneier.com/blog/archives/2026/10/workshop-on-economics-and-information-security-weis-archive.html",
+      "published": 1792580542.0,
+      "tags": [
+        "#opinion"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792581799.0189455
+    },
+    {
+      "title": "SafePay Has Compromised 600 Critical Infrastructure Victims Worldwide, CISA Warns",
+      "summary": "CISA warned that the SafePay threat group has compromised 600 critical infrastructure organizations worldwide. Defenders are urged to mitigate the group's tactics.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/safepay-compromised-critical/",
+      "published": 1792580400.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792581799.0189455
+    },
+    {
+      "title": "China Defends DeepSeek After US Ban of Its AI From Government Systems",
+      "summary": "China defended DeepSeek AI after the US DHS ordered removal of DeepSeek products from government IT systems. The defense cites security and compliance concerns.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/china-defends-deepseek-after-us-ban-of-its-ai-from-government-systems/",
+      "published": 1792580089.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792581799.0189455
+    },
+    {
+      "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
+      "summary": "PHP will release a patch at 14:00 UTC on October 21 for two critical RCE flaws rated 9.2/10. Current workarounds are insufficient and no official mitigation is available until the patch.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
+      "published": 1792579013.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792581799.0189455
+    },
+    {
+      "title": "The Harness Is the Hard Part of Agentic Pentesting",
+      "summary": "AI models can generate attack code, but the essential engineering lies in the harness that safely executes and validates those attacks in production environments.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
+      "published": 1792578760.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792581799.0189455
+    },
+    {
+      "title": "Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections",
+      "summary": "Attackers seized control of more than 300 Tor exit relays in early October, redirecting SSH traffic to capture login credentials from users connecting via Tor.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html",
+      "published": 1792578627.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792581799.0189455
+    },
+    {
+      "title": "Microsoft says October updates didn’t actually fix VPN issues",
+      "summary": "Microsoft clarified that the October 2026 Windows 11 cumulative updates incorrectly claimed to fix Always On VPN connection problems. The issue remains unresolved.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/",
+      "published": 1792577693.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792581799.0189455
+    },
+    {
+      "title": "Chinese AI Model Writes More Hackable Code When Told It’s for US Contractor",
+      "summary": "Chinese AI model increased code hackability by 19% when tasked to write for a US defense contractor. The finding was reported by SecurityWeek.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/chinese-ai-model-writes-more-hackable-code-when-told-its-for-us-contractor/",
+      "published": 1792577004.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792581799.0189455
+    },
+    {
+      "title": "Parasitizing trust: How legitimate infrastructure becomes a delivery pipeline for attackers",
+      "summary": "Adversaries are exploiting more than 25 trusted platforms to deliver malware. Cisco Talos observed abuse of collaboration, file‑sharing, payment and other services over the past year.",
+      "source": "Cisco Talos Blog",
+      "link": "https://blog.talosintelligence.com/parasitizing-trust-how-legitimate-infrastructure-becomes-a-delivery-pipeline-for-attackers/",
+      "published": 1792576800.0,
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792581799.0189455
+    },
+    {
+      "title": "Grafana Labs connects observability and incident response with Knowledge Graph",
+      "summary": "Grafana Labs introduced a Knowledge Graph to every Grafana Cloud stack, linking infrastructure dependencies with user experience and incident response. New Digital Experience Monitoring features were also released.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/21/grafana-labs-knowledge-graph/",
+      "published": 1792575038.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792581799.0189455
+    },
+    {
+      "title": "ThreatLocker adds external controls for AI agent access and execution",
+      "summary": "ThreatLocker launched Zero Trust AI Control, allowing organizations to deploy AI agents with restricted access while keeping control over their environments. The solution limits AI actions to necessary resources.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/21/threatlocker-zero-trust-ai-control-ztaic/",
+      "published": 1792573650.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792581799.0189455
+    },
+    {
+      "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
+      "summary": "PHP released an out‑of‑cycle update fixing two critical remote code execution vulnerabilities rated 9.2 CVSS. The update addresses unpatched flaws in multiple PHP versions.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
+      "published": 1792573517.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792581799.0189455
+    },
+    {
+      "title": "Children’s Data Stolen After Ransomware Attack Compromises ‘Password1’ Account",
+      "summary": "A ransomware attack compromised a Welsh local government account named 'Password1', exposing children's data. The ICO criticized the security failures of the local government data unit and IT service provider.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/children-data-stolen-password1/",
+      "published": 1792573500.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792581799.0189455
+    },
+    {
+      "title": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites",
+      "summary": "Threat actors breached TeamUpdraft’s website, stole connection keys for UpdraftCentral, Vault, and Clone, and used them to install backdoors on WordPress sites. The vendor’s backup plugin has over four million active installations.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html",
+      "published": 1792573272.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792581799.0189455
+    },
+    {
+      "title": "Info-stealing malware slipped into OVHcloud CLI releases on GitHub",
+      "summary": "OVHcloud discovered that a hacker tampered with its open‑source CLI tool on GitHub, embedding information‑stealing malware. Users were advised to update or delete the tool.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/21/ovhcloud-cli-github-malware/",
+      "published": 1792573197.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792581799.0189455
+    },
+    {
+      "title": "Safari blocks trackers that turn your email into a tracking ID",
+      "summary": "Apple’s Safari and WebKit now block connections to identity resolution services that turn email addresses into persistent tracking identifiers. The update enhances privacy by preventing post‑cookie tracking.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/21/apple-safari-tracking-protection/",
+      "published": 1792572814.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792581799.0189455
+    },
+    {
+      "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
+      "summary": "CISA reports that the SafePay ransomware gang has breached more than 600 critical infrastructure organizations worldwide since 2024.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
+      "published": 1792571784.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792581799.0189455
+    },
+    {
+      "title": "U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases",
+      "summary": "The Department of Homeland Security has ordered federal civilian agencies to remove all DeepSeek products and related third‑party services from their IT systems. Agencies are also prohibited from purchasing new DeepSeek products or services from the Chinese developer or its affiliates.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html",
+      "published": 1792569857.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792581799.0189455
+    },
+    {
+      "title": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web",
+      "summary": "State Bank of India discovered 3,897 customer records on the dark web, part of a set of about 375,000 leaked records. The bank has not identified the source of the breach and has reported the incident to regulators.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html",
+      "published": 1792568662.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792581799.0189455
+    },
+    {
+      "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
+      "summary": "CISA added four vulnerabilities to its Known Exploited Vulnerabilities catalog, including the Plex Media Server SSRF flaw (CVE‑2026‑96652) and other critical bugs. Federal agencies are urged to patch immediately.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
+      "published": 1792567609.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792581799.0189455
+    },
+    {
+      "title": "PHP2Shell: Mass Exploitation Looms for Leaked Critical PHP Flaws",
+      "summary": "Two critical PHP bugs, CVE‑2026‑109618 and CVE‑2026‑109619, allow unauthenticated remote code execution. Security researchers warn that mass exploitation of these flaws is likely.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/php2shell-mass-exploitation-looms-for-leaked-critical-php-flaws/",
+      "published": 1792566126.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792581799.0189455
+    },
+    {
+      "title": "Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion",
+      "summary": "A Belarus‑aligned hacktivist group, Partisan Zmiy, infiltrated a Russian healthcare organization for nearly two years, embedding a Vasilek backdoor inside VMware Tools during the intrusion.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html",
+      "published": 1792562715.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792581799.0189455
+    },
+    {
+      "title": "Hijacked Developer Account Used to Plant Stealer in OVHcloud CLI",
+      "summary": "A compromised developer account, infected with a GlassWorm loader, was used to inject a stealer into the OVHcloud command‑line interface, exposing sensitive data.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/hijacked-developer-account-used-to-plant-stealer-in-ovhcloud-cli/",
+      "published": 1792562547.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792581799.0189455
+    },
+    {
+      "title": "Privacy-preserving AI can protect your heart data, the bill is the problem",
+      "summary": "Privacy‑preserving AI technologies could secure cardiac monitoring data, but current regulatory bills may impede their deployment in the evolving healthcare ecosystem.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/21/ecg-heart-data-privacy-preserving-ai/",
+      "published": 1792562435.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792581799.0189455
+    },
+    {
+      "title": "DevGuard: Open-source vulnerability management for the software supply chain",
+      "summary": "DevGuard is a free, open‑source platform that aggregates security findings across code, dependencies, secrets, and infrastructure, ranks them by risk, and tracks remediation progress.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/21/devguard-open-source-vulnerability-management/",
+      "published": 1792560645.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792581799.0189455
+    },
+    {
+      "title": "Why security tools lose sight of the credential",
+      "summary": "Security teams often lose track of credentials after discovery, struggling to determine activity, ownership, and access scope across repositories, CI/CD pipelines, and cloud environments.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/21/gitguardian-securing-credential-layer/",
+      "published": 1792558832.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792581799.0189455
+    },
+    {
+      "title": "Bringing AI into the SOC means watching for shadow AI and loose permissions",
+      "summary": "Integrating AI into SOC operations enhances detection but also creates risks such as shadow AI usage and overly permissive access; operators must monitor for misuse and enforce strict permissions.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/21/bringing-ai-into-the-soc-video/",
+      "published": 1792557013.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792581799.0189455
+    },
+    {
+      "title": "Accenture, Dragos, SANS Launch $10M Initiative to Defend Small US Utilities",
+      "summary": "$10M initiative by Accenture, Dragos, and SANS will provide free security tools, equipment, deployment assistance, and training to up to 500 small U.S. utilities.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/accenture-dragos-sans-launch-10m-initiative-to-defend-small-us-utilities/",
+      "published": 1792556531.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792581799.0189455
+    },
+    {
+      "title": "A critical PHP security release is coming today, so get ready to update!",
+      "summary": "PHP will release a critical patch on Oct 21 2026 at 14:00 UTC, fixing two 9.2‑CVSS vulnerabilities; details and affected versions will be published with the update.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/21/php-security-release-announcement-october-2026/",
+      "published": 1792556514.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792581799.0189455
+    },
+    {
+      "title": "Operation FlashHole: Lazarus breaks security, defies control",
+      "summary": "Kaspersky researchers detail Operation FlashHole, a Lazarus attack that used sophisticated malware, watering‑hole tactics, and abuse of CrossWeb EX financial software.",
+      "source": "Securelist",
+      "link": "https://securelist.com/lazarus-operation-flashhole/121541/",
+      "published": 1792548449.0,
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792581799.0189455
+    },
+    {
+      "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
+      "summary": "A threat actor breached TeamUpdraft, compromising UpdraftCentral connection keys that can issue commands to connected WordPress sites.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
+      "published": 1792544510.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792581799.0189455
+    },
+    {
+      "title": "Mozilla, Google, Apple block compromised eMudhra CA certificates",
+      "summary": "Mozilla, Google, Apple, and others blocked eight eMudhra intermediate certificates after weak private keys were exposed, preventing forged trusted certificates.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
+      "published": 1792543602.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792581799.0189455
+    },
+    {
+      "title": "AI raised the floor. The hacker crowd keeps raising the ceiling.",
+      "summary": "Intigriti data shows AI raises the baseline for vulnerability discovery, but human bug bounty remains essential; researchers use multi‑agent workflows and CrowdRecon demonstrates extensive hacker reconnaissance coverage.",
+      "source": "Intigriti",
+      "link": "https://www.intigriti.com/blog/business-insights/ai-raised-the-floor-the-hacker-crowd-keeps-raising-the-ceiling",
+      "published": 1792540800.0,
+      "tags": [
+        "#bugbounty"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792581799.0189455
+    },
+    {
+      "title": "Philippines-based American pleads guilty to running expansive fraud scheme targeting US servicemembers",
+      "summary": "Robert Wayne Boling Jr. pleaded guilty to an identity‑theft conspiracy targeting thousands of U.S. military members and veterans; he faces up to 40 years in prison.",
+      "source": "CyberScoop",
+      "link": "https://cyberscoop.com/identity-theft-fraud-military-servicemembers-veterans-guilty-robert-boling/",
+      "published": 1792539370.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792581799.0189455
+    },
+    {
+      "title": "Indian certification authority eMudhra’s private keys compromised – one of them was the number ‘4’",
+      "summary": "eMudhra’s private keys were compromised, enabling impersonation of any website or service; a large cleanup effort is underway.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/10/20/indian-certification-authority-emudhras-private-keys-compromised-one-of-them-was-the-number-4/5304312",
+      "published": 1792537064.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792581799.0189455
+    },
+    {
+      "title": "Auto tech startup claims it traced hack attempt back to rival's IP address",
+      "summary": "IQ.Lvbs claims it traced a hack attempt back to rival Comma.ai’s IP address, suggesting unfair competition.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/cyber-crime/2026/10/20/auto-tech-startup-claims-it-traced-hack-attempt-back-to-rivals-ip-address/5304281",
+      "published": 1792533646.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792581799.0189455
+    },
+    {
+      "title": "Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys",
+      "summary": "Google, Mozilla, Apple, the Go project, and others blocked eMudhra certificates linked to eight compromised keys; the compromise source remains unclear.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys",
+      "published": 1792532747.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1792581799.0189455
+    },
     {
       "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
       "summary": "PHP security team warns admins of two critical vulnerabilities.\nEmergency patches scheduled for tomorrow.\nInformation leaked ahead of official disclosure.",
