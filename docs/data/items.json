@@ -1,7 +1,262 @@
 {
-  "generated_at": 1792703940.4007463,
+  "generated_at": 1792753962.5775776,
   "count": 200,
   "items": [
+    {
+      "title": "Compromised TLS Certificates",
+      "summary": "<p>The Indian CA eMudhra Limited has eight TLS certificates with <a href=\"https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/\">laughably weak private…",
+      "source": "Schneier on Security",
+      "link": "https://www.schneier.com/blog/archives/2026/10/compromised-tls-certificates.html",
+      "published": 1792753462.0,
+      "tags": [
+        "#opinion"
+      ],
+      "ai": false,
+      "status": "queued",
+      "ts": 1792753962.5667446
+    },
+    {
+      "title": "China APT Uses AI Pentest Tool Artex in ConnectWise Attacks",
+      "summary": "<p>The state-sponsored hackers targeted hundreds of organizations and gained privileged access to some environments.</p> <p>The post <a…",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/",
+      "published": 1792751476.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1792753962.5667446
+    },
+    {
+      "title": "Widespread Token-Spraying Attacks Target Microsoft 365 Accounts For Email Compromise",
+      "summary": "Security researchers identified attempts to access corporate networks which have been linked to a major Microsoft 365-targeted BEC campaign using phishing, stolen session tokens and social engineering",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/tokenspraying-attacks-target/",
+      "published": 1792751400.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1792753962.5667446
+    },
+    {
+      "title": "Attacks on Tech Firms Behind Most Third-Party Data Breach Victims",
+      "summary": "Kroll found that 69% of data breach victims in the past year were affected by a third-party breach, with attacks on tech companies the most common cause",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/tech-third-party-breach-victims/",
+      "published": 1792749600.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1792753962.5667446
+    },
+    {
+      "title": "Attackers Exploit Third VeloCloud Orchestrator Zero-Day in Four Months",
+      "summary": "<p>The critical-severity SQL injection flaw allows attackers to access privileged internal functionality and gain operator privileges.</p> <p>The post <a…",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/",
+      "published": 1792749514.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1792753962.5667446
+    },
+    {
+      "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
+      "summary": "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open. The flaw, CVE-2026-112900, is in the way Pillow…",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
+      "published": 1792748160.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1792753962.5667446
+    },
+    {
+      "title": "UK threatens subsea cable saboteurs with 14 years behind bars",
+      "summary": "Whitehall wants tougher penalties and new powers over telecoms operators as Russian activity raises alarm",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/networks/2026/10/23/uk-threatens-subsea-cable-saboteurs-with-14-years-behind-bars/5304794",
+      "published": 1792747740.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1792753962.5667446
+    },
+    {
+      "title": "Capcom data breach exposes 11.7 million account records",
+      "summary": "<p>Players who signed up for Capcom’s online account service may want to look twice at emails that seem to come from the company. The company has disclosed that a third party gained unauthorized access to customer…",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/23/capcom-id-data-breach-11-million-records-exposed/",
+      "published": 1792746451.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1792753962.5667446
+    },
+    {
+      "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
+      "summary": "Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have demonstrated. Their \"Node2Shell\" proof of concept ran code on the official…",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
+      "published": 1792744843.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1792753962.5667446
+    },
+    {
+      "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances",
+      "summary": "AI agents paying for API calls with the x402 SDKs could sign a payment for their full balance of a supported token if a malicious API asked for it, security firm V12 said on October 22. The cause was the SDKs' default…",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
+      "published": 1792744545.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1792753962.5667446
+    },
+    {
+      "title": "11 Million Impacted by Capcom Data Breach",
+      "summary": "<p>The hackers stole 11 million email addresses from CAPCOM ID and changed the login passwords for 196 accounts.</p> <p>The post <a href=\"https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/\">11…",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/",
+      "published": 1792744454.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1792753962.5667446
+    },
+    {
+      "title": "Quest Diagnostics Reports Cyber Breach Affecting ‘Certain Patient Records’",
+      "summary": "<p>In a regulatory filing, Quest Diagnostics reported unauthorized access to its Quanum Lab Services Manager, a platform where certain clients can place test orders.</p> <p>The post <a…",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/",
+      "published": 1792743906.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1792753962.5667446
+    },
+    {
+      "title": "Hackers hijack exposed AI models to launch cyberattacks at victims’ expense",
+      "summary": "<p>An attack tool built around AI goes looking for AI models that anyone on the internet can reach, then uses them to plan break-ins while the model’s owner pays for the computing power. Symantec captured the agent’s…",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/23/llmjacking-agent-hijacks-exposed-ai-models/",
+      "published": 1792743708.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1792753962.5667446
+    },
+    {
+      "title": "LiteLLM Compromised in Fresh Supply Chain Attack",
+      "summary": "<p>Hackers used compromised GitHub CLI OAuth tokens to push and approve malicious packages on PyPI and Docker.</p> <p>The post <a…",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/",
+      "published": 1792743046.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1792753962.5667446
+    },
+    {
+      "title": "Atlassian Patches 75 Flaws in Data Center and Server Products",
+      "summary": "<p>Atlassian’s October bulletin lists 176 vulnerability entries, including 14 critical-severity issues, all in third-party components.</p> <p>The post <a…",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/",
+      "published": 1792742087.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1792753962.5667446
+    },
+    {
+      "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
+      "summary": "Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges that weaponizing…",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
+      "published": 1792741245.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1792753962.5667446
+    },
+    {
+      "title": "Iran’s Prince of Persia APT Hosts C&C in US for First Time Since 2016",
+      "summary": "<p>After a three-month lull, Prince of Persia hid a Tornado C&C server on US shared hosting, its first US-based server since 2016.</p> <p>The post <a…",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/",
+      "published": 1792737569.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1792753962.5667446
+    },
+    {
+      "title": "Google opens its cloud to rival OpenAI, promises business data won’t train models",
+      "summary": "<p>Google Cloud is adding OpenAI models to its platform, initially through a private preview for selected business customers. The launch includes GPT-6 Astra, GPT-6.1 Sol and GPT-6 Luna. Google positions them as options…",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/23/google-cloud-openai-models-private-preview/",
+      "published": 1792735231.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1792753962.5667446
+    },
+    {
+      "title": "Drone program compliance: What a CTO says most agencies get wrong",
+      "summary": "<p>In this interview with Help Net Security, Nick Donarski, CTO at RotorLab, explains what councils, records clerks, insurers, and auditors expect from a public safety drone program, and where most programs fall short.…",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/23/nick-donarski-rotorlab-drone-program-compliance/",
+      "published": 1792733425.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1792753962.5667446
+    },
+    {
+      "title": "AI is taking cybersecurity jobs at junior and experienced levels alike",
+      "summary": "<p>Organizations are cutting cybersecurity roles as they adopt AI, even while reporting shortages of the expertise needed to manage threats, according to Barracuda’s Cybersecurity Skills Gap Report. 56% have experienced…",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/23/barracuda-cybersecurity-career-development-report/",
+      "published": 1792729839.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1792753962.5667446
+    },
+    {
+      "title": "New infosec products of the week: October 23, 2026",
+      "summary": "<p>Here’s a look at the most interesting products from the past week, featuring releases from AppGate, IDENTOS, Sweet Security, and ThreatModeler. Sweet Security adds one-click protection for vulnerable cloud workloads…",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/23/new-infosec-products-of-the-week-october-23-2026/",
+      "published": 1792728041.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1792753962.5667446
+    },
+    {
+      "title": "State Bank of India Suffers a Customer PII Data Leak",
+      "summary": "Relatively small data breaches in India can turn quite serious, thanks to a sophisticated underground market for trading PII.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak",
+      "published": 1792726200.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1792753962.5667446
+    },
+    {
+      "title": "Railway warns devs to rotate secrets after potential breach",
+      "summary": "Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
+      "published": 1792704331.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1792753962.5667446
+    },
     {
       "title": "Toronto crime tips org freezes operations after details of data breach come to light",
       "summary": "Toronto chapter of Crime Stoppers has paused operations. The pause follows the release of a breach timeline detailing what was known and when.",
@@ -14,6 +269,17 @@
       "ai": true,
       "status": "queued",
       "ts": 1792703940.3945868
+    },
+    {
+      "title": "Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack",
+      "summary": "The China-linked actor used an AI-enabled penetration-testing tool to automate and accelerate its attack on more than 2,200 tenants.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack",
+      "published": 1792701737.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1792753962.5667446
     },
     {
       "title": "PHP2Shell exploit bypasses protections designed to stop remote code execution",
@@ -464,6 +730,50 @@
       "ts": 1792703940.3945868
     },
     {
+      "title": "New PHP2Shell scanner checks your hosts for CVE-2026-109618 and CVE-2026-109619",
+      "summary": "<p>Searchlight Cyber released php2shell-scanner, an open-source tool that tests whether a host is exposed to CVE-2026-109618 and CVE-2026-109619, the pair of PHP remote code execution bugs patched on October 21.…",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/22/php2shell-scanner-tool/",
+      "published": 1792670597.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1792753962.5667446
+    },
+    {
+      "title": "Fingerprint uses AI coding tools to automate fraud detection setup",
+      "summary": "<p>Fingerprint has announced Agentic Installation, the AI-powered onboarding path for companies to deploy device intelligence to their websites or apps in minutes to detect and stop fraud. By running a single prompt in…",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/22/fingerprint-agentic-installation/",
+      "published": 1792669524.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1792753962.5667446
+    },
+    {
+      "title": "GitLab warns of new max severity code execution vulnerability",
+      "summary": "GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers. [...]",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
+      "published": 1792669308.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1792753962.5667446
+    },
+    {
+      "title": "Microsoft says ConnectWise breach let Chinese spies loose on 2,250 cloud tenants",
+      "summary": "AI agents did the dirty work, with hackers gaining privileged access in some environments in under three hours",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/10/22/microsoft-says-connectwise-breach-let-chinese-spies-loose-on-2250-cloud-tenants/5304687",
+      "published": 1792668480.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1792753962.5667446
+    },
+    {
       "title": "Broadcom adds real-time scam detection to 3-D Secure authentication",
       "summary": "Broadcom launched Arcot Scam Defense, a real‑time feature that blocks social engineering fraud during card‑not‑present transactions.",
       "source": "Help Net Security",
@@ -616,6 +926,17 @@
       "ai": true,
       "status": "queued",
       "ts": 1792668163.6717691
+    },
+    {
+      "title": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration",
+      "summary": "ESET researchers uncover MythicRatatoskr – a previously unknown Go-based backdoor hiding its C&C server inside the Yggdrasil mesh network – that paved the way for a destructive attack against a Ukrainian grain firm",
+      "source": "WeLiveSecurity",
+      "link": "https://www.welivesecurity.com/en/eset-research/mythicratatoskr-yggdrasil-enabled-backdoor-deployed-uac0099-sandworm-collaboration/",
+      "published": 1792658700.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1792753962.5667446
     },
     {
       "title": "Signal flaw could expose audio and video even after users hang up",
@@ -806,6 +1127,19 @@
       "ai": true,
       "status": "queued",
       "ts": 1792668163.6717691
+    },
+    {
+      "title": "Understanding PHP2Shell: Everything you need to know about CVE-2026-109618 & CVE-2026-109619",
+      "summary": "PHP remains one of the most widely deployed server-side languages on the web. Estimates suggest it powers close to 70% of all websites, from small personal blogs to large-scale government services, banking platforms,…",
+      "source": "Intigriti",
+      "link": "https://www.intigriti.com/blog/news/php2shell",
+      "published": 1792627200.0,
+      "tags": [
+        "#bugbounty"
+      ],
+      "ai": false,
+      "status": "queued",
+      "ts": 1792753962.5667446
     },
     {
       "title": "Smashing Security podcast #489: How a brand new crypto wallet came with a spy inside",
@@ -1376,6 +1710,85 @@
       "ts": 1792668163.6717691
     },
     {
+      "title": "Decades-Old Windows Utility Powers Modern ClickFix Attack",
+      "summary": "The attack uses malicious Google search results related to Amazon and leverages the \"finger\" utility to launch a CAPTCHA that installs malware, including the Lumma stealer.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/decades-old-windows-utility-modern-clickfix-attack",
+      "published": 1792587600.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1792753962.5667446
+    },
+    {
+      "title": "Q3 2026 Threat Update: Attackers Are Exploiting Vulnerabilities Within 3 Days",
+      "summary": "<p style=\"direction: ltr;\"><span style=\"font-size: undefined;\">Three days is the average time between a high-severity vulnerability becoming public and its exploitation, according to the latest </span><a…",
+      "source": "Rapid7 Cybersecurity Blog",
+      "link": "https://www.rapid7.com/blog/post/tr-q3-2026-threat-update-attackers-exploiting-vulnerabilities-within-3-days",
+      "published": 1792587600.0,
+      "tags": [
+        "#vulnerability"
+      ],
+      "ai": false,
+      "status": "queued",
+      "ts": 1792753962.5667446
+    },
+    {
+      "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
+      "summary": "Cybersecurity researchers have disclosed details of a previously undocumented China-aligned threat cluster known as Bronze Sandcastle that has been observed targeting organizations in Asia and Africa since mid-2025.…",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
+      "published": 1792584300.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1792753962.5667446
+    },
+    {
+      "title": "Ransomware Attacks Rise as Rival Gangs Vie For Market Supremacy",
+      "summary": "Cybercriminal groups The Gentlemen and Qilin dominate ransomware attacks - and both are evolving their tactics in an attempt to outdo one another",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/rival-gangs-vie-for-market/",
+      "published": 1792584000.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1792753962.5667446
+    },
+    {
+      "title": "AI has 'potential' to turn script kiddies into sophisticated infrastructure attackers",
+      "summary": "Consider this the wake-up call",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/10/21/ai-has-potential-to-turn-script-kiddies-into-sophisticated-infrastructure-attackers/5304297",
+      "published": 1792584000.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1792753962.5667446
+    },
+    {
+      "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
+      "summary": "Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, personalized, and unique to each…",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
+      "published": 1792583614.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1792753962.5667446
+    },
+    {
+      "title": "Nvidia picks OpenShell to tame AI gents",
+      "summary": "Give your agents freedom to do useful work by locking them down",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/21/nvidia-picks-openshell-to-tame-ai-gents/5304319",
+      "published": 1792582200.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1792753962.5667446
+    },
+    {
       "title": "Browsers Block eMudhra Intermediate CAs Over Recoverable Private Keys",
       "summary": "Browsers and trust stores have blocked eight eMudhra intermediate certificates after the private keys were compromised. Root programs enforce the block to prevent further use.",
       "source": "SecurityWeek",
@@ -1826,457 +2239,37 @@
       "ts": 1792581799.0189455
     },
     {
-      "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
-      "summary": "PHP security team warns admins of two critical vulnerabilities.\nEmergency patches scheduled for tomorrow.\nInformation leaked ahead of official disclosure.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
-      "published": 1792529803.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1792531352.0577755
-    },
-    {
-      "title": "FBI says SafePay ransomware gang ‘among most active’ with more than 600 victims since 2024",
-      "summary": "FBI, UK, and German agencies report SafePay ransomware active, affecting over 600 victims since 2024.\nTargeting businesses and critical infrastructure through password guessing, exploits, and phishing.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/fbi-says-safepay-ransomware-gang-among-most-active-600-victims",
-      "published": 1792528020.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1792531352.0577755
-    },
-    {
-      "title": "Nigerian sentenced to 8 years for long-running tax business hacking and fraud scheme",
-      "summary": "Nigerian hacker sentenced to 8 years for hacking tax preparation businesses, filing false returns, and running investment fraud scheme.",
-      "source": "CyberScoop",
-      "link": "https://cyberscoop.com/nigerian-sentenced-hacking-fraud-tax-investment-scheme/",
-      "published": 1792524801.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1792531352.0577755
-    },
-    {
-      "title": "Zeabur shutting down after second security breach in two months",
-      "summary": "Zeabur platform disclosed second breach; attacker used leaked plaintext credentials to access infrastructure, stealing 3.2 million environment variable records and data for 321,810 accounts.\nPlatform shutting down.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
-      "published": 1792524782.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1792531352.0577755
-    },
-    {
-      "title": "California warns all public school students of data stolen in contractor breach",
-      "summary": "California Department of Education warned students about data breach at Educational Testing Service contractor.\nBreach lasted months; student data potentially compromised.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/california-warns-all-public-school-students-of-data-breach",
-      "published": 1792524000.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1792531352.0577755
-    },
-    {
-      "title": "Ex-OpenAI Engineer Detained After Planting Secret Recorder at HQ",
-      "summary": "Former OpenAI engineer arrested for installing hidden recorder in OpenAI conference room, highlighting insider threat risk.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties",
-      "published": 1792523809.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1792531352.0577755
-    },
-    {
-      "title": "23andMe successor settles with California for $6 million over cybersecurity failings",
-      "summary": "23andMe successor agreed to pay $6 million settlement to California Attorney General over allegations of inadequate data protection before 2023 breach.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/23andme-california-data-breach-settlement",
-      "published": 1792521120.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1792531352.0577755
-    },
-    {
-      "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code",
-      "summary": "OpenAI announced GPT-6.1 Sol improves legacy code migration and generation, performing better in older programming languages.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/",
-      "published": 1792519863.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1792531352.0577755
-    },
-    {
-      "title": "Russian GRU hackers hit NATO shipbuilder, aircraft engine maker, law enforcement agency in espionage campaign",
-      "summary": "Russian GRU hacking group targeted NATO shipbuilder, aircraft engine manufacturer, and law enforcement agency in espionage campaign.\nGroup known for 2016 Democratic attacks.",
-      "source": "CyberScoop",
-      "link": "https://cyberscoop.com/russian-hackers-apt28-target-nato-defense-firms/",
-      "published": 1792518935.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1792531352.0577755
-    },
-    {
-      "title": "Palo Alto's firewall OS has been under attack from multiple ransomware groups since June",
-      "summary": "Palo Alto Networks' firewall OS has faced attacks from several ransomware groups since June.\nUnit 42 investigated compromises across industries.",
+      "title": "Bullhorn sees red after cyberattack knocks recruitment platform offline",
+      "summary": "Staffing software giant calls in CrowdStrike as customers face login headaches and questions remain over possible data theft",
       "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/cyber-crime/2026/10/20/palo-altos-firewall-os-has-been-under-attack-from-multiple-ransomware-groups-since-june/5304226",
-      "published": 1792517606.0,
+      "link": "https://www.theregister.com/security/2026/10/20/bullhorn-sees-red-after-cyberattack-knocks-recruitment-platform-offline/5304114",
+      "published": 1792498500.0,
       "tags": [],
-      "ai": true,
+      "ai": false,
       "status": "queued",
-      "ts": 1792531352.0577755
+      "ts": 1792753962.5667446
     },
     {
-      "title": "Nigerian national given 8-year sentence for tax business hacks",
-      "summary": "Nigerian national sentenced to 8 years for hacking tax preparation businesses and conducting multi‑million dollar fraud using customer data.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/nigerian-given-8-year-sentenc-tax-hacks",
-      "published": 1792516440.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1792531352.0577755
-    },
-    {
-      "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
-      "summary": "Eight eMudhra CA private keys were compromised, prompting browsers and software vendors to apply emergency fixes to prevent malicious certificate issuance.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
-      "published": 1792516193.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1792531352.0577755
-    },
-    {
-      "title": "Chrome flags malicious commands that scammers pass off as fixes",
-      "summary": "Google updates Chrome’s Enhanced Protection to detect scam sites that trick users into copying malicious commands, improving phishing defenses.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/20/google-chrome-enhanced-protection-updates/",
-      "published": 1792515647.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1792531352.0577755
-    },
-    {
-      "title": "Swamped curl maintainers take low-level flaws public to survive vulnerability 'avalanche'",
-      "summary": "Curl maintainers publicize low‑level vulnerabilities to manage workload; high and critical cases remain private after October 26.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/security/2026/10/20/swamped-curl-maintainers-take-low-level-flaws-public-to-survive-vulnerability-avalanche/5304198",
-      "published": 1792513800.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1792531352.0577755
-    },
-    {
-      "title": "ConnectWise customers hit by supply-chain attack linked to compromised API secret",
-      "summary": "ConnectWise supply‑chain attack: a compromised API secret enabled attackers to access Microsoft 365 applications, affecting hundreds of customers.",
-      "source": "CyberScoop",
-      "link": "https://cyberscoop.com/connectwise-cloud-backup-supply-chain-attack/",
-      "published": 1792513072.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1792531352.0577755
-    },
-    {
-      "title": "US Agencies Detail Incident Response Practices for Rogue AI Agents",
-      "summary": "NIST, CISA, and NSA released ten voluntary practices for preparing, detecting, responding to, recovering from, and reporting rogue AI agent incidents.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/",
-      "published": 1792511100.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1792531352.0577755
-    },
-    {
-      "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
-      "summary": "Fortinet FortiSIEM critical flaw CVE‑2026‑106173 is publicly exploited; a PoC allows unauthenticated remote code execution via path traversal.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
-      "published": 1792510732.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1792531352.0577755
-    },
-    {
-      "title": "Close Identity Gaps in Software Development Before Unleashing AI",
-      "summary": "A Dark Reading roundtable noted that improved identity visibility and collaboration can close software development security gaps before deploying AI.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/application-security/close-identity-gaps-sdlc-before-ai",
-      "published": 1792510545.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1792531352.0577755
-    },
-    {
-      "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
-      "summary": "Palo Alto Networks reports ransomware groups Qilin and INC exploiting CVE‑2026‑0257 to bypass MFA and establish unauthorized VPN connections.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
-      "published": 1792510347.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1792531352.0577755
-    },
-    {
-      "title": "There's only so much code: the rise in vulnerability numbers",
-      "summary": "Microsoft Patch Tuesday advisories rose sharply, from 975 in September to 1,415 this month, far exceeding the pre‑June average of 100 per month.",
-      "source": "Cisco Talos Blog",
-      "link": "https://blog.talosintelligence.com/theres-only-so-much-code-the-rise-in-vulnerability-numbers/",
-      "published": 1792510282.0,
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1792531352.0577755
-    },
-    {
-      "title": "DOJ escalates fight for election supremacy with California raids",
-      "summary": "DOJ and DHS threatened to investigate, arrest, or prosecute tens of thousands of California voters if they vote in November, following California raids.",
-      "source": "CyberScoop",
-      "link": "https://cyberscoop.com/justice-department-california-voter-arrests-noncitizen-claims/",
-      "published": 1792510176.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1792531352.0577755
-    },
-    {
-      "title": "AOMEI Backupper servers hijacked for minutes at a time to push backdoor",
-      "summary": "Between April and July 2026, attackers hijacked AOMEI Backupper servers for 5–10 minutes at a time, altering configuration files to push a backdoor to users. The tampered files were part of the software’s update mechanism.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/20/aomei-backupper-compromised-supply-chain/",
-      "published": 1792509270.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1792531352.0577755
-    },
-    {
-      "title": "EU cyber law won’t force fixes for fridge controllers hit in French attack",
-      "summary": "The EU Cyber Resilience Act, effective last month, only obligates manufacturers to fix vulnerabilities and provide free updates while a product remains in support, as defined by the manufacturer. It does not mandate post‑support fixes for fridge controllers targeted in a French attack.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/eu-cyber-law-wont-force-fixes-for-fridges-in-french-attack",
-      "published": 1792508100.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1792531352.0577755
-    },
-    {
-      "title": "Head of AI Security Roles Surge in Large Organizations",
-      "summary": "An IANS report notes a rise in the head of AI security position in large firms, yet accountability for AI governance remains unclear.",
+      "title": "AI Agent Adoption Creates Risk as Oversight Struggles to Keep Pace, Splunk Finds",
+      "summary": "Rapid adoption of agentic AI comes with potential business benefits. But if done incorrectly it also carries risks around AI activity management and security",
       "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/head-ai-security-roles/",
-      "published": 1792507200.0,
+      "link": "https://www.infosecurity-magazine.com/news/ai-agent-adoption-oversight/",
+      "published": 1792497900.0,
       "tags": [],
-      "ai": true,
+      "ai": false,
       "status": "queued",
-      "ts": 1792531352.0577755
+      "ts": 1792753962.5667446
     },
     {
-      "title": "Hackers Abuse AI Pen-Test Tool Cairn to Automate Massive Attack Spree",
-      "summary": "A Chinese-speaking attacker used the AI pen‑testing tool Cairn to compromise hundreds of websites worldwide, targeting companies such as John Deere, SharkNinja, and Cummins.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/hackers-abuse-ai-pen-test-tool-cairn",
-      "published": 1792506965.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1792531352.0577755
-    },
-    {
-      "title": "DHS bans DeepSeek products across US federal civilian agencies",
-      "summary": "The Department of Homeland Security has ordered all federal civilian agencies to discontinue use of DeepSeek products and remove them from government systems.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/",
-      "published": 1792505945.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1792531352.0577755
-    },
-    {
-      "title": "Incomplete security patches show hackers where to look next",
-      "summary": "Security patches are increasingly revealing gaps that attackers can exploit, with many fixes later found incomplete or bypassable. Researcher Oren Yomtov has documented a growing number of such broken patches.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/20/ncomplete-security-patches-broken-fixes-rise/",
-      "published": 1792505584.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1792531352.0577755
-    },
-    {
-      "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
-      "summary": "A Chinese-speaking criminal deployed autonomous AI agents that attempted to breach more than 1,200 websites, successfully compromising over 100 companies such as Deere and various appliance manufacturers.",
+      "title": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
+      "summary": "WhatsApp's help pages carried hidden instructions for its support chatbot that told it not to recommend a data protection authority or regulator to users who could no longer delete their accounts, even though WhatsApp's…",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
-      "published": 1792505237.0,
+      "link": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
+      "published": 1792496466.0,
       "tags": [],
-      "ai": true,
+      "ai": false,
       "status": "queued",
-      "ts": 1792531352.0577755
-    },
-    {
-      "title": "Researchers Warn OpenCode Quietly Patched Critical RCE Flaw, Leaving Users At Risk",
-      "summary": "OpenCode quietly applied a patch for a critical remote code execution flaw, leaving users unaware of the vulnerability and at risk.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/opencode-quietly-patched-critical/",
-      "published": 1792504500.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1792531352.0577755
-    },
-    {
-      "title": "AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign",
-      "summary": "Across several brief compromise windows, AOMEI Backupper users were served a downloader for the ShinyRoad modular backdoor framework, indicating a short‑burst supply‑chain attack.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/aomei-backupper-compromised-in-short-burst-supply-chain-campaign/",
-      "published": 1792504261.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1792531352.0577755
-    },
-    {
-      "title": "CJIS v6.1 Compliance: 5 Practical Priorities for Agencies",
-      "summary": "Agencies must enforce MFA, account management, strong passwords, logging, and audit readiness to meet CJIS v6.1. Specops outlines five practical priorities for compliance.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/",
-      "published": 1792504260.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1792531352.0577755
-    },
-    {
-      "title": "'Password1' and a forgotten test account land Welsh outfits in hot water",
-      "summary": "ICO reprimanded Ogi Networks and Data Cymru after a ransomware breach exposed data of 3,300 people, mainly children. The breach involved a weak password and a forgotten test account.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/cyber-crime/2026/10/20/password1-and-a-forgotten-test-account-land-welsh-outfits-in-hot-water/5304139",
-      "published": 1792503300.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1792531352.0577755
-    },
-    {
-      "title": "The Key to AI Software Security Isn’t Speed, It’s Maturity",
-      "summary": "Security risk in AI adoption depends on the maturity level of developers. Organizations should focus on mature processes rather than rapid deployment to secure AI software.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/the-key-to-ai-software-security-isnt-speed-its-maturity/",
-      "published": 1792503263.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1792531352.0577755
-    },
-    {
-      "title": "Abstract links automated response actions directly to SIEM detection rules",
-      "summary": "Abstract released AI SOC features in its agentic SIEM, adding investigation, hunt, triage, and SOAR response tied to detection rules. The platform already collects and detects security data.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/20/abstract-links-automated-response-actions-directly-to-siem-detection-rules/",
-      "published": 1792502769.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1792531352.0577755
-    },
-    {
-      "title": "Hacker gets 8 years for stealing $3.3 million from taxpayers",
-      "summary": "A Nigerian national was sentenced to eight years in prison for spearphishing attacks that stole $3.3 million from U.S. tax preparation firms since 2019.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/",
-      "published": 1792502316.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1792531352.0577755
-    },
-    {
-      "title": "ThreatModeler NexusAI tracks architectural changes and proposes security updates",
-      "summary": "ThreatModeler launched NexusAI, an AI‑powered threat modeling tool that automates creation, analysis, and maintenance of threat models, helping teams scale security without increasing manual effort.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/20/threatmodeler-nexusai/",
-      "published": 1792502276.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1792531352.0577755
-    },
-    {
-      "title": "IDENTOS PolicyArc gives AI agents task-specific, time-limited access",
-      "summary": "IDENTOS released PolicyArc, a policy enforcement platform that defines, enforces, and audits access for users, services, and AI agents, providing time‑limited, task‑specific permissions.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/20/identos-policyarc/",
-      "published": 1792501764.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1792531352.0577755
-    },
-    {
-      "title": "Ahold Delhaize Restoring Services Disrupted by Cyberattack",
-      "summary": "Ahold Delhaize has restored many European websites and apps after a cyberattack and expects U.S. e‑commerce sites to be back within days.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/ahold-delhaize-restoring-services-disrupted-by-cyberattack/",
-      "published": 1792501338.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1792531352.0577755
-    },
-    {
-      "title": "Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election",
-      "summary": "Citizen Lab confirmed that the iPhone of University of Belgrade rector Vladan Đokić was infected with Pegasus spyware via a zero‑click exploit six days before Serbia's snap parliamentary election.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html",
-      "published": 1792501184.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1792531352.0577755
-    },
-    {
-      "title": "AppGate gives OT supervisors live monitoring and session termination controls",
-      "summary": "AppGate expanded its OT zero‑trust solution with Session Governance, enabling live monitoring and session termination to reduce third‑party access risk and simplify compliance for critical infrastructure operators.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/20/appgate-session-governance/",
-      "published": 1792501172.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1792531352.0577755
+      "ts": 1792753962.5667446
     }
   ]
 }
