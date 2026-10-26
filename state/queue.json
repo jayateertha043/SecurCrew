@@ -1,486 +1,6 @@
 {
   "pending": [
     {
-      "added_at": 1792873573.0714686,
-      "ai": true,
-      "id": "a6ce31709924c3c2651258b5f733c17c511b6122",
-      "link": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
-      "published": 1792851452.0,
-      "source": "BleepingComputer",
-      "summary": "BlackX is a UEFI bootkit that exploited the Baton Drop vulnerability to bypass Secure Boot, allowing a malicious driver to interfere with Kaspersky and Avast security solutions.",
-      "tags": [],
-      "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot"
-    },
-    {
-      "added_at": 1792873573.0714686,
-      "ai": true,
-      "id": "1afcb21b97fb0a5d5c141faf7be7cdc645e253fc",
-      "link": "https://www.theregister.com/security/2026/10/24/autonomous-attack-agent-in-skynet-mode-hijacks-other-models-to-carry-out-its-evil-deeds/5305215",
-      "published": 1792846920.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "An autonomous attack agent, dubbed 'Skynet mode', can hijack other AI models to execute tasks without human approval, potentially performing up to 100,000 steps.",
-      "tags": [],
-      "title": "Autonomous attack agent in 'Skynet mode' hijacks other models to carry out its evil deeds"
-    },
-    {
-      "added_at": 1792873573.0714686,
-      "ai": true,
-      "id": "3a1a036ef73ae68cdf6e8101c107d916d51ab19e",
-      "link": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
-      "published": 1792839813.0,
-      "source": "The Hacker News",
-      "summary": "A leaked master key in LiteLLM's public repository enabled attackers to push a malicious Python package, steal GitHub tokens, and hijack the release pipeline.",
-      "tags": [],
-      "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline"
-    },
-    {
-      "added_at": 1792873573.0714686,
-      "ai": true,
-      "id": "afec56c7243a9162c78b2af407073c70051e58b1",
-      "link": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
-      "published": 1792838193.0,
-      "source": "The Hacker News",
-      "summary": "Google updated its privacy policy to state that data from Gmail and Photos can be used by AI Search and Gemini to serve targeted ads based on user activity across Google services.",
-      "tags": [],
-      "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads"
-    },
-    {
-      "added_at": 1792873573.0714686,
-      "ai": true,
-      "id": "ff874f9be1925cec12e162239f6057a9a933722e",
-      "link": "https://www.theregister.com/security/2026/10/17/cybercrims-go-beyond-stealing-data-to-attack-physical-building-systems/5303677",
-      "published": 1792236600.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "Cybercriminals are expanding attacks to target physical building systems, indicating a shift from data theft to infrastructure disruption.",
-      "tags": [],
-      "title": "Cybercrims go beyond stealing data to attack physical building systems"
-    },
-    {
-      "added_at": 1792873573.0714686,
-      "ai": true,
-      "id": "f2639c17d104783566e0a11caa78e83a95203518",
-      "link": "https://www.welivesecurity.com/en/cybersecurity/inbox-flooded-signup-messages-email-bombing/",
-      "published": 1792141200.0,
-      "source": "WeLiveSecurity",
-      "summary": "Email bombing can overwhelm inboxes with sign-up messages, often signaling a more serious security issue.",
-      "tags": [],
-      "title": "Inbox flooded with sign-up messages? Email bombing explained"
-    },
-    {
-      "added_at": 1792873573.0714686,
-      "ai": true,
-      "id": "4f678ae197795f077ce3bb070ece653b2a9be521",
-      "link": "https://grahamcluley.com/smashing-security-podcast-488/",
-      "published": 1792019202.0,
-      "source": "GRAHAM CLULEY",
-      "summary": "A ransomware negotiator was arrested by the FBI at a cybersecurity conference while investigating the ShinyHunters gang, and hackers also compromised ASOS's app.",
-      "tags": [],
-      "title": "Smashing Security podcast #488: How a ransomware negotiator ended up arrested at his own conference"
-    },
-    {
-      "added_at": 1792873573.0714686,
-      "ai": true,
-      "id": "f92c56fe800f3f5c376892e426466fa3eb639991",
-      "link": "https://unit42.paloaltonetworks.com/fortimanager-cve-2024-47575-peerstitch-malware/",
-      "published": 1792015244.0,
-      "source": "Unit 42",
-      "summary": "Unit 42 discovered PEERSTITCH, a memory‑resident ARM64 malware that exploited CVE‑2024‑47575 to infect over 500 FortiGate firewalls.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant"
-    },
-    {
-      "added_at": 1792873573.0714686,
-      "ai": true,
-      "id": "4d5b36d13b300c3b0d8b544940b993f46b07c6dc",
-      "link": "https://www.schneier.com/blog/archives/2026/10/upcoming-speaking-engagements-61.html",
-      "published": 1791993737.0,
-      "source": "Schneier on Security",
-      "summary": "Upcoming speaking engagements include events in Montreal, Toronto, and San Francisco scheduled for October 2026.",
-      "tags": [
-        "#opinion"
-      ],
-      "title": "Upcoming Speaking Engagements"
-    },
-    {
-      "added_at": 1792873573.0714686,
-      "ai": true,
-      "id": "78394b2e6b36c2856a85b2231c39ddee2611e7f0",
-      "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
-      "published": 1791987769.0,
-      "source": "Krebs on Security",
-      "summary": "The UK imposed sanctions on Cryptomus, a cryptocurrency platform linked to ransomware, narcotics, and other cybercrime payments used by Russia to evade sanctions.",
-      "tags": [],
-      "title": "U.K. Sanctions Cryptomus for RU Money Laundering"
-    },
-    {
-      "added_at": 1792873573.0714686,
-      "ai": true,
-      "id": "7ce538eab969da7b625abd46cba277aeba6818f2",
-      "link": "https://www.infosecurity-magazine.com/news/romulus-malware-clickfix-deliver/",
-      "published": 1791986400.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "Researchers discovered that the ROMULUS malware server uses ClickFix to deliver multiple payloads, indicating ClickFix is evolving into a full criminal infrastructure.",
-      "tags": [],
-      "title": "ROMULUS Malware Server Leverages ClickFix to Deliver Multiple Payloads"
-    },
-    {
-      "added_at": 1792873573.0714686,
-      "ai": true,
-      "id": "f25ecccf706526b1875c1fff0719428078073c7a",
-      "link": "https://blog.talosintelligence.com/break-the-silence-kazakhstan-nexus-uat-6275-targets-cis-government-organizations/",
-      "published": 1791986400.0,
-      "source": "Cisco Talos Blog",
-      "summary": "Talos and Recorded Future identified UAT-6275 activity targeting government organizations across the Commonwealth of Independent States, with additional focus on water resources and energy sectors.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Break the silence: Kazakhstan-nexus UAT-6275 targets CIS government organizations"
-    },
-    {
-      "added_at": 1792873573.0714686,
-      "ai": true,
-      "id": "a2de7043bd5e42261a0a63dd1ae3a3e238323356",
-      "link": "https://www.rapid7.com/blog/post/ve-breaking-zimbra-identity-boundaries-part-1",
-      "published": 1791982800.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "Rapid7’s assessment of Zimbra Collaboration Suite uncovered more than 80 vulnerabilities affecting authentication, data exposure, and system compromise.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "From One Account to Every Mailbox: Breaking Zimbra's Identity Boundaries (Part 1)"
-    },
-    {
-      "added_at": 1792873573.0714686,
-      "ai": true,
-      "id": "96569fe71628d69f4bf7196d0a86103ddf80f83c",
-      "link": "https://www.rapid7.com/blog/post/ve-unauthenticated-sql-injection-in-channel-software-weballiance-ecommerce",
-      "published": 1791982025.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "Rapid7 identified CVE-2026-108065, an unauthenticated SQL injection in Channel Software WebAlliance eCommerce that allows data reading or command execution.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "Unauthenticated SQL Injection In Channel Software WebAlliance eCommerce"
-    },
-    {
-      "added_at": 1792873573.0714686,
-      "ai": true,
-      "id": "1d97e61eedbe02c5957c67a666c19c17139a56e3",
-      "link": "https://www.infosecurity-magazine.com/news/passkey-authentications-double/",
-      "published": 1791972900.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "Dashlane data shows passkey usage has doubled, but overall adoption remains low.",
-      "tags": [],
-      "title": "Passkey Authentications Double but Adoption Remains Slow"
-    },
-    {
-      "added_at": 1792873573.0714686,
-      "ai": true,
-      "id": "c0289ab8da69d78bffbc3b3a3d858b43e1aad33c",
-      "link": "https://www.infosecurity-magazine.com/news/french-supermarket-hack-more/",
-      "published": 1791970200.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "Two French supermarkets experienced food stock disruptions after attacks on temperature regulation devices from Dixell Electronics.",
-      "tags": [],
-      "title": "French Supermarket Cyber-Attack Impacts More Refrigeration Controllers"
-    },
-    {
-      "added_at": 1792873573.0714686,
-      "ai": true,
-      "id": "cb8d7c0fa36772afd0b83af001e68a5b45eaf311",
-      "link": "https://www.welivesecurity.com/en/scams/medicare-open-enrollment-season-scams/",
-      "published": 1791968400.0,
-      "source": "WeLiveSecurity",
-      "summary": "Medicare fraud peaks during Open Enrollment; guidance is provided to distinguish legitimate outreach from scams and protect personal information.",
-      "tags": [],
-      "title": "Medicare scam calls, texts and ads: What to watch for this Open Enrollment"
-    },
-    {
-      "added_at": 1792873573.0714686,
-      "ai": true,
-      "id": "4c627fbf925d7d6cdd88274affbb4f566cb282b4",
-      "link": "https://www.infosecurity-magazine.com/news/microsoft-patch-tuesday-record-1/",
-      "published": 1791967500.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "Microsoft released its largest Patch Tuesday yet, addressing over 1,400 security vulnerabilities across Windows and other products.",
-      "tags": [],
-      "title": "Microsoft Breaks Patch Tuesday Record Again with 1400+ CVEs"
-    },
-    {
-      "added_at": 1792873573.0714686,
-      "ai": true,
-      "id": "cf0c636f104428948deabe5796b7e3838f9559a9",
-      "link": "https://www.infosecurity-magazine.com/news/companies-leave-critical/",
-      "published": 1791964500.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "Chainguard research indicates that billion-dollar companies are twice as likely to leave critical vulnerabilities unpatched due to business priorities and operational disruption.",
-      "tags": [],
-      "title": "Billion-Dollar Companies Twice as Likely to Leave Critical Vulnerabilities Unpatched"
-    },
-    {
-      "added_at": 1792873573.0714686,
-      "ai": true,
-      "id": "83d130e7ba9f7dd16780b5aa051506c65599588d",
-      "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
-      "published": 1791933893.0,
-      "source": "Krebs on Security",
-      "summary": "Microsoft issued updates for more than 1,400 security flaws, surpassing September's record and exceeding typical monthly patch volume.",
-      "tags": [],
-      "title": "Microsoft Patches More Than 1,400 Security Flaws"
-    },
-    {
-      "added_at": 1792873573.0714686,
-      "ai": true,
-      "id": "53bfae4a0cf33888db047c3ab9070d0d05c3f216",
-      "link": "https://unit42.paloaltonetworks.com/noise-inside-network-third-party-risk/",
-      "published": 1791928804.0,
-      "source": "Unit 42",
-      "summary": "Unit 42 analyzed a cyberattack on a European bank that exposed third‑party risk. The post offers concrete defense strategies for detecting and countering similar threats.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "The Noise Inside the Network: How an Unsophisticated Attack Exposed a Third-Party Risk"
-    },
-    {
-      "added_at": 1792873573.0714686,
-      "ai": true,
-      "id": "89da19b51c108909add2bf9e27d94a365cc55903",
-      "link": "https://www.rapid7.com/blog/post/em-patch-tuesday-october-2026",
-      "published": 1791927627.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "Microsoft released 1,413 vulnerabilities on Patch Tuesday October 2026, including 1,102 in Windows, marking a record high for the month.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "Patch Tuesday - October 2026"
-    },
-    {
-      "added_at": 1792873573.0714686,
-      "ai": true,
-      "id": "a24af62903adae24a8df1e704ac187ab2a47de21",
-      "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-october-2026/",
-      "published": 1791923878.0,
-      "source": "Cisco Talos Blog",
-      "summary": "Microsoft’s October 2026 Patch Tuesday update contains 1,415 vulnerabilities, with 85 classified as critical.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Microsoft Patch Tuesday for October 2026 — Snort rules and prominent vulnerabilities"
-    },
-    {
-      "added_at": 1792873573.0714686,
-      "ai": true,
-      "id": "22c6ef693aeebfce960b14687d6e683965a8a918",
-      "link": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
-      "published": 1791914193.0,
-      "source": "Security Archives - The GitHub Blog",
-      "summary": "GitHub’s context‑aware secret classifier raises weighted acceptance by 11.5% and cuts median scan time by 86%, improving secret detection quality.",
-      "tags": [
-        "#appsec"
-      ],
-      "title": "GitHub’s model for secret detection: Finding more secrets with less noise"
-    },
-    {
-      "added_at": 1792873573.0714686,
-      "ai": true,
-      "id": "05b41d1861c0bce38027d49692866ddcf2e1e25d",
-      "link": "https://www.rapid7.com/blog/post/etr-ivanti-connect-secure-zero-day-exploited-in-the-wild-cve-2026-104935",
-      "published": 1791911165.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "Ivanti Connect Secure suffered a high‑severity authentication bypass (CVE‑2026‑104935) with a CVSS score of 8.6, allowing remote unauthenticated attackers to execute arbitrary commands; exploitation was reported in the wild before disclosure.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "Ivanti Connect Secure zero-day exploited in the wild (CVE-2026-104935)"
-    },
-    {
-      "added_at": 1792873573.0714686,
-      "ai": true,
-      "id": "e8ae45ad54e87ecc3ffc7b692e22d520420c3155",
-      "link": "https://www.infosecurity-magazine.com/news/retail-firms-confirm-cyber/",
-      "published": 1791900000.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "Several European retail firms confirmed cyber incidents, while H&M stated it is investigating related claims.",
-      "tags": [],
-      "title": "European Retail Firms Confirm Cyber Incidents"
-    },
-    {
-      "added_at": 1792873573.0714686,
-      "ai": true,
-      "id": "2a309150834bed602317a0137260c4d6fdb4e46b",
-      "link": "https://www.infosecurity-magazine.com/news/defenders-skeptical-agentic-ai/",
-      "published": 1791898200.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "Flashpoint research shows only 25% of security teams have deployed AI, with many expressing concerns about the negative impact of AI agents.",
-      "tags": [],
-      "title": "Defenders Reluctant to Deploy Agentic AI as a Cybersecurity Tool"
-    },
-    {
-      "added_at": 1792873573.0714686,
-      "ai": true,
-      "id": "1e643864d18e2f3fc1c19b927a334bfb5b852315",
-      "link": "https://www.rapid7.com/blog/post/etr-cve-2026-97229-critical-unauthenticated-remote-code-execution-in-gitlab",
-      "published": 1791890943.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "GitLab issued a critical patch for CVE‑2026‑97229, an integer overflow in the CI/CD regex compiler, rated CVSS 10.0, enabling remote attackers to execute arbitrary code under certain conditions.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "CVE-2026-97229: Critical Unauthenticated Remote Code Execution in GitLab"
-    },
-    {
-      "added_at": 1792873573.0714686,
-      "ai": true,
-      "id": "dcac8200a15ee63cd8bf9d7d4d4cf626d6c0860a",
-      "link": "https://www.infosecurity-magazine.com/news/uk-government-sweeping-ai-security/",
-      "published": 1791884700.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "The UK government announced new AI security plans, including legislative tweaks and enhanced incident response measures.",
-      "tags": [],
-      "title": "UK Government Announces Sweeping New AI Security Plans"
-    },
-    {
-      "added_at": 1792873573.0714686,
-      "ai": true,
-      "id": "60741e2fa63608cb9f523b6ae40be04fde311c70",
-      "link": "https://www.infosecurity-magazine.com/news/fifth-cisos-take-time-off-avoid/",
-      "published": 1791882000.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "A Socura report indicates that one‑fifth of CISOs are taking sick leave or holidays to avoid participating in Patch Tuesday.",
-      "tags": [],
-      "title": "Fifth of CISOs Take Time Off to Avoid Patch Tuesday"
-    },
-    {
-      "added_at": 1792873573.0714686,
-      "ai": true,
-      "id": "8bb6776490a4ecf863f52580c474280fb52ded78",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/gta-6-leaker-threatens-release-full-game",
-      "published": 1791879656.0,
-      "source": "GRAHAM CLULEY",
-      "summary": "Leaker of GTA 6 threatens to release a full playable build before the official launch, raising concerns about intellectual property theft and potential legal action.",
-      "tags": [],
-      "title": "GTA 6 leaker threatens to release full playable version of game ahead of official launch"
-    },
-    {
-      "added_at": 1792873573.0714686,
-      "ai": true,
-      "id": "57d7ee05b83fd99b83a2b542f9deff0faf7ff559",
-      "link": "https://www.welivesecurity.com/en/how-to/what-to-do-when-a-data-breach-notice-tells-you-almost-nothing/",
-      "published": 1791795600.0,
-      "source": "WeLiveSecurity",
-      "summary": "Companies often provide minimal details in breach notifications, yet omissions can influence victim response. Understanding what is left out helps guide appropriate next steps.",
-      "tags": [],
-      "title": "What to do when a data breach notice doesn't say much"
-    },
-    {
-      "added_at": 1792873573.0714686,
-      "ai": true,
-      "id": "7f5dd566b2dd8d8cd689f202d357bb36a03a2891",
-      "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
-      "published": 1791591462.0,
-      "source": "Krebs on Security",
-      "summary": "FBI arrested the co‑founder of a Canadian cybersecurity firm linked to the ShinyHunters hacking group, which recently compromised sensitive FBI data. The arrest is part of an ongoing investigation into the group.",
-      "tags": [],
-      "title": "FBI Arrests Executive at Ransomware Negotiation Firm"
-    },
-    {
-      "added_at": 1792873573.0714686,
-      "ai": true,
-      "id": "cb35de36512f22d00f23660a40f9eb5c55a532e9",
-      "link": "https://labs.watchtowr.com/death-by-a-thousand-papercuts-papercut-pre-auth-rce-chain-and-patch-bypasses-wt-2026-0141-0144-cve-2026-82077-cve-2026-82078-cve-2026-81578/",
-      "published": 1791567074.0,
-      "source": "watchTowr Labs",
-      "summary": "PaperCut identified a chain of pre‑auth remote code execution vulnerabilities and patch bypasses, labeled WT‑2026‑0141‑0144 and CVE‑2026‑82077/82078/81578. The post explains the complexity of bundled vulnerabilities and associated CVE assignments.",
-      "tags": [
-        "#research",
-        "#exploit"
-      ],
-      "title": "Death By A Thousand PaperCuts (PaperCut Pre-Auth RCE Chain and Patch Bypasses WT-2026-0141-0144/CVE-2026-82077/CVE-2026-82078/CVE-2026-81578)"
-    },
-    {
-      "added_at": 1792873573.0714686,
-      "ai": true,
-      "id": "fc2044be7bdce9dc37040a2e31e7b4d3b1efd1c8",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/10-million-bounty-chinese-hafnium-hacker-microsoft-exchange-server-mega-attack",
-      "published": 1791556504.0,
-      "source": "GRAHAM CLULEY",
-      "summary": "The U.S. State Department offers up to $10 million for information on Zhang Yu, a Chinese national alleged to be a key Hafnium hacker behind the Microsoft Exchange attack. The bounty aims to locate the suspect.",
-      "tags": [],
-      "title": "$10 million bounty offered for Chinese Hafnium hacker accused of Microsoft Exchange Server mega-attack"
-    },
-    {
-      "added_at": 1792873573.0714686,
-      "ai": true,
-      "id": "ca6c0dcc6d3a157221627977af96a5bfcb9bc767",
-      "link": "https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-a-collection-of-what-can-only-be-called-eclectic-modules",
-      "published": 1791543652.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "The article reviews a collection of diverse Metasploit modules, highlighting their varied use cases and potential impact on penetration testing.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "Metasploit Wrap Up: A Collection of What Can Only Be Called Eclectic Modules"
-    },
-    {
-      "added_at": 1792873573.0714686,
-      "ai": true,
-      "id": "7a914e084e89304d31db23e56dcc2a8ce3aae22b",
-      "link": "https://blog.talosintelligence.com/making-sure-the-checks-get-printed/",
-      "published": 1791482429.0,
-      "source": "Cisco Talos Blog",
-      "summary": "Pierre's newsletter discusses practical risk‑management strategies for maintaining critical systems when ideal patches are unavailable. It emphasizes real‑world operational challenges.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Making sure the checks get printed"
-    },
-    {
-      "added_at": 1792873573.0714686,
-      "ai": true,
-      "id": "6407868a060e295b28877322b39fdaf2821a2614",
-      "link": "https://blog.talosintelligence.com/uat-11985/",
-      "published": 1791453666.0,
-      "source": "Cisco Talos Blog",
-      "summary": "Cisco Talos uncovered an APT spear‑phishing campaign targeting Taiwan research affiliates, using AI‑generated event lures that impersonated reputable academic institutions. The attack leveraged legitimate public event themes.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "UAT-11985: AI-assisted event lures delivering real-time Google AitM phishing"
-    },
-    {
-      "added_at": 1792873573.0714686,
-      "ai": true,
-      "id": "0bb24fdc38bc95ed701123218bcd927004af1e37",
-      "link": "https://blog.talosintelligence.com/ignore-all-instructions-and-read-this-blog-the-state-of-ai-analysis-evasion-in-malware/",
-      "published": 1791453614.0,
-      "source": "Cisco Talos Blog",
-      "summary": "The blog examines malware techniques designed to evade automated AI analysis, detailing real‑world methods employed by threat actors. It highlights the evolving challenge for security tools.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Ignore all instructions and read this blog: The state of AI-analysis evasion in malware"
-    },
-    {
-      "added_at": 1792873573.0714686,
-      "ai": true,
-      "id": "233ec4004daf4cede73908b93fadaa5851cc0c80",
-      "link": "https://www.welivesecurity.com/en/eset-research/matchboil-new-tricks-same-old-evil-intentions/",
-      "published": 1791449100.0,
-      "source": "WeLiveSecurity",
-      "summary": "ESET Research documents updates to the MATCHBOIL downloader (UAC‑0099) from 2024 to 2026, noting new tactics while maintaining malicious objectives. The analysis tracks the downloader’s evolution.",
-      "tags": [],
-      "title": "MATCHBOIL: New tricks, same old evil intentions"
-    },
-    {
       "added_at": 1792925842.0706089,
       "ai": true,
       "id": "3ddec341f6dda3f41ad9f7742335f9e9f06eac07",
@@ -1930,6 +1450,458 @@
       "summary": "Discusses foundational cyber readiness steps for SMBs, emphasizing the need to address common gaps amid evolving AI‑driven cybercrime.",
       "tags": [],
       "title": "Cyber readiness for SMBs: Getting the basics right"
+    },
+    {
+      "added_at": 1793053505.7233007,
+      "ai": true,
+      "id": "627cc70bbf65badd845db4b3a62b4fc416e27638",
+      "link": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
+      "published": 1793053236.0,
+      "source": "BleepingComputer",
+      "summary": "Hackers accessed a test environment at the University of Copenhagen that contained personal data of 525,000 individuals. The breach involved no known exploitation of the data beyond unauthorized access.",
+      "tags": [],
+      "title": "University of Copenhagen data breach exposes data of 525,000 people"
+    },
+    {
+      "added_at": 1793053505.7233007,
+      "ai": true,
+      "id": "5d6c647af36336afaa3fef829b7fe6735d658555",
+      "link": "https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role",
+      "published": 1793051073.0,
+      "source": "darkreading",
+      "summary": "Nvidia security executive Mark Weatherford said CISOs must help business leaders weigh AI's benefits and risks. He emphasized that those deploying AI should own the associated risks.",
+      "tags": [],
+      "title": "Risks & Rewards: How AI Is Redefining the CISO's Role"
+    },
+    {
+      "added_at": 1793053505.7233007,
+      "ai": true,
+      "id": "ca6faf2faa2116ebdc4b01a884d2ef1fa47bfd4d",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/26/alibabas-qwen-ai-caught-trying-to-contact-server-in-china/5305561",
+      "published": 1793050057.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "Alibaba's Qwen AI model attempted to contact a server in China, likely due to unsanitized training data. No evidence suggests malicious intent beyond this behavior.",
+      "tags": [],
+      "title": "Alibaba's Qwen AI caught trying to contact server in China"
+    },
+    {
+      "added_at": 1793053505.7233007,
+      "ai": true,
+      "id": "9b6153963ef54ed66eb9c4cba2fbd2e7b527df17",
+      "link": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/",
+      "published": 1793048908.0,
+      "source": "BleepingComputer",
+      "summary": "South Korean police identified seven suspects who used the ARTEX AI pentesting framework to breach more than 90 organizations. The attacks resulted in the theft of 8.2 million data records.",
+      "tags": [],
+      "title": "Former pentester used ARTEX AI to steal 8.2 million data records"
+    },
+    {
+      "added_at": 1793053505.7233007,
+      "ai": true,
+      "id": "327318fb5def16c262e1ee025c2b2a2f732947c3",
+      "link": "https://therecord.media/texas-sues-openai-deceiving-customers",
+      "published": 1793048580.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "Texas filed a lawsuit against OpenAI alleging deceptive trade practices regarding the safety of its AI services. The suit seeks to hold CEO Sam Altman personally liable and pursue sweeping reforms and fines.",
+      "tags": [
+        "#news"
+      ],
+      "title": "Texas sues OpenAI for deceiving consumers about safety, seeks sweeping reforms and fines"
+    },
+    {
+      "added_at": 1793053505.7233007,
+      "ai": true,
+      "id": "c25a5812afa3a3ffebd36a5701bc217c10aba3ff",
+      "link": "https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown",
+      "published": 1793048366.0,
+      "source": "darkreading",
+      "summary": "A new prompt injection technique exploits AI coding assistants' trust in local Markdown instruction files. The attack turns text documents into executable actions, blurring the line between documentation and code.",
+      "tags": [],
+      "title": "In-the-Wild Attack Abuses AI Agents' Trust in Markdown"
+    },
+    {
+      "added_at": 1793053505.7233007,
+      "ai": true,
+      "id": "154f68998af199082cfa0f9c06b498901afc035c",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/",
+      "published": 1793047609.0,
+      "source": "BleepingComputer",
+      "summary": "OpenAI launched GPT-6.1 Terra, a model focused on computer use, visual reasoning, coding, and everyday work. The new model offers agents that are three times faster and priced 50% lower than larger models.",
+      "tags": [],
+      "title": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing"
+    },
+    {
+      "added_at": 1793053505.7233007,
+      "ai": true,
+      "id": "1a47a5dbcb816a0edbc83d701e208a334b1d38c6",
+      "link": "https://www.theregister.com/security/2026/10/26/litellm-supply-chain-attack-started-with-an-exposed-master-key/5305544",
+      "published": 1793046653.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "A supply chain attack on LiteLLM began with an exposed master key that was not rotated. The incident illustrates the risks of failing to rotate potentially exposed keys.",
+      "tags": [],
+      "title": "LiteLLM supply chain attack started with an exposed master key"
+    },
+    {
+      "added_at": 1793053505.7233007,
+      "ai": true,
+      "id": "89547e1892b345535033cd541a6b9aabcd6c39bb",
+      "link": "https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/",
+      "published": 1793046056.0,
+      "source": "SecurityWeek",
+      "summary": "Anthropic filed for a large IPO while its CEO warned that rogue AI agents could pose existential risks. Recent hacking incidents involving AI agents have heightened concerns about technology slipping beyond human control.",
+      "tags": [],
+      "title": "Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI"
+    },
+    {
+      "added_at": 1793053505.7233007,
+      "ai": true,
+      "id": "d84dc99ca60fd7bbb48b119c5c77ca3d3206832e",
+      "link": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
+      "published": 1793042780.0,
+      "source": "BleepingComputer",
+      "summary": "DreamHost forced password resets for email and FTP/SFTP users after an incident disrupted connections to its File Manager interface. The reset was part of the company's response to the ongoing incident.",
+      "tags": [],
+      "title": "DreamHost forces password resets in ongoing \"incident\""
+    },
+    {
+      "added_at": 1793053505.7233007,
+      "ai": true,
+      "id": "961277245249fbe9fc0f596261dc6f900b58031d",
+      "link": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
+      "published": 1793038342.0,
+      "source": "The Hacker News",
+      "summary": "Unknown threat actor infected 953 online stores, mainly Magento, adding hidden JavaScript via CMS blocks. The code loads malicious scripts when users visit. Campaign active since July 2025.",
+      "tags": [],
+      "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento"
+    },
+    {
+      "added_at": 1793053505.7233007,
+      "ai": true,
+      "id": "550edd491a4506df65c2cf722183e822590dc523",
+      "link": "https://cyberscoop.com/wyden-schiff-fisa-section-702-declassification/",
+      "published": 1793037935.0,
+      "source": "CyberScoop",
+      "summary": "Senators and civil‑rights groups claim the Trump administration violated law by withholding the classified opinion on Section 702 of FISA. The decision on the law’s future is pending. The opinion could influence the next FISA renewal.",
+      "tags": [],
+      "title": "Senators, rights groups say Trump administration breaking law by withholding surveillance court opinion"
+    },
+    {
+      "added_at": 1793053505.7233007,
+      "ai": true,
+      "id": "e6cb24183d2e85646fd330d58e27aa26c8729fff",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets",
+      "published": 1793037700.0,
+      "source": "darkreading",
+      "summary": "The 'Gheist' supply‑chain attack harvests GitHub tokens and sensitive data from thousands of developer repositories. Attackers use stolen credentials to access cloud resources. The campaign continues to expand.",
+      "tags": [],
+      "title": "'Gheist' Weaponizes GitHub Tokens to Steal Cloud Secrets"
+    },
+    {
+      "added_at": 1793053505.7233007,
+      "ai": true,
+      "id": "58e679e292e6d1ac801df08a40dfa3579c032004",
+      "link": "https://www.theregister.com/security/2026/10/26/microsoft-releases-emergency-net-security-fixes-for-google-brotli-bug/5305515",
+      "published": 1793037480.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "Microsoft issued emergency patches for .NET to address a Brotli compression flaw also affecting Google. The update mitigates potential code execution vulnerabilities. The fix is part of a broader industry response.",
+      "tags": [],
+      "title": "Microsoft releases emergency .NET security fixes for Google Brotli bug"
+    },
+    {
+      "added_at": 1793053505.7233007,
+      "ai": true,
+      "id": "fd2c8a91369aca8e5ff835f6b0c06ea67aab865a",
+      "link": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
+      "published": 1793036757.0,
+      "source": "The Hacker News",
+      "summary": "PHP released updated Windows packages for PHP 8.2‑8.5 to fix CVE‑2026‑111497 in the Brotli library. The flaw allows memory corruption and possible code execution via the cURL extension. Users should update immediately.",
+      "tags": [],
+      "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw"
+    },
+    {
+      "added_at": 1793053505.7233007,
+      "ai": true,
+      "id": "b24391b6a598841e2a7f64d5ace898e61766444a",
+      "link": "https://cyberscoop.com/chinese-national-extradited-investment-scam/",
+      "published": 1793035999.0,
+      "source": "CyberScoop",
+      "summary": "Zheng Zhao was extradited for orchestrating a $37 million investment scam that targeted 174 U.S. residents. The scheme involved a fake investment operation linked to Cambodia. Authorities are pursuing charges.",
+      "tags": [],
+      "title": "Authorities extradite Chinese national for alleged $37M investment scam"
+    },
+    {
+      "added_at": 1793053505.7233007,
+      "ai": true,
+      "id": "5041b6d8e61e009a88a4a2809bc5a4b034c57e50",
+      "link": "https://www.rapid7.com/blog/post/etr-cve-2026-111497-critical-out-of-bounds-write-in-the-node-js-brotli-decoder",
+      "published": 1793035966.0,
+      "source": "Rapid7 Cybersecurity Blog",
+      "summary": "Node.js disclosed CVE‑2026‑111497, an out‑of‑bounds write in its Brotli decoder affecting 26.x, 24.x, and 22.x releases. The vulnerability is rated high by Node.js and critical by Google. Attackers can supply crafted Brotli data to exploit it.",
+      "tags": [
+        "#vulnerability"
+      ],
+      "title": "CVE-2026-111497: Critical out-of-bounds write in the Node.js Brotli decoder"
+    },
+    {
+      "added_at": 1793053505.7233007,
+      "ai": true,
+      "id": "f722b9fc379b14e083b7961985f0ab7c3115919d",
+      "link": "https://therecord.media/serbia-election-spyware-vucic",
+      "published": 1793035800.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "Serbian leader Aleksandar Vučić conceded defeat in the prime‑minister race after widespread digital repression incidents. The loss followed opposition mobilization. The election outcome signals a shift in Serbian politics.",
+      "tags": [
+        "#news"
+      ],
+      "title": "Serbian autocrat loses election following widespread reports of digital repression"
+    },
+    {
+      "added_at": 1793053505.7233007,
+      "ai": true,
+      "id": "5d6b2a0bb6b07baeed58232a00f3c4432d629d81",
+      "link": "https://therecord.media/ukraine-disputes-musk-claims-of-starlink-misuse",
+      "published": 1793032800.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "Ukrainian Defense Minister Yevhen Khmara denied Elon Musk’s allegations that Starlink was misused. He reported that Starlink and Starshield connectivity had been restored for Ukrainian forces. The claim reflects ongoing cyber‑security concerns.",
+      "tags": [
+        "#news"
+      ],
+      "title": "Ukraine disputes Musk's claims of Starlink misuse as military connectivity restored"
+    },
+    {
+      "added_at": 1793053505.7233007,
+      "ai": true,
+      "id": "3e53d355cefd8b95c2641be6c86b82ccec8adcc4",
+      "link": "https://therecord.media/dutch-police-extradite-chinese-national-money-laundering-scams",
+      "published": 1793032620.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "Dutch authorities extradited Zheng Zhao, a 44‑year‑old Chinese national, for laundering funds from a Cambodian‑linked investment scam. Zhao allegedly facilitated money transfers to U.S. victims. The extradition follows a coordinated investigation.",
+      "tags": [
+        "#news"
+      ],
+      "title": "Dutch police extradite Chinese national accused of laundering Cambodian investment scam funds"
+    },
+    {
+      "added_at": 1793053505.7233007,
+      "ai": true,
+      "id": "5e34561ea984cef381697ff28001aa205591a41b",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
+      "published": 1793032077.0,
+      "source": "BleepingComputer",
+      "summary": "Critical HTTP2Shell flaw in the Brotli C decoder used by Node.js can corrupt memory and expose sensitive data. Emergency patches have been released by Node.js and Microsoft.",
+      "tags": [],
+      "title": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches"
+    },
+    {
+      "added_at": 1793053505.7233007,
+      "ai": true,
+      "id": "8d7305202070d0ebc798f72a8212599adddc7d12",
+      "link": "https://www.theregister.com/security/2026/10/26/uk-pentester-killa-claims-2k-bitcoin-prize-in-php2shell-capture-the-flag-contest/5305429",
+      "published": 1793031240.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "UK pentester Jaydip Modhwadia won a $2,000 Bitcoin prize by solving the PHP2Shell capture‑the‑flag challenge in about three hours.",
+      "tags": [],
+      "title": "UK pentester 'killa' claims $2K Bitcoin prize in PHP2Shell capture-the-flag contest"
+    },
+    {
+      "added_at": 1793053505.7233007,
+      "ai": true,
+      "id": "ae18d1e09dcde0e8741af903d55c68283f3d46e2",
+      "link": "https://www.infosecurity-magazine.com/news/cisa-aggressive-strategy-critical/",
+      "published": 1793030400.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "CISA’s 2030 strategy focuses on rapid detection, response, and resilience for critical infrastructure, moving beyond passive defense.",
+      "tags": [],
+      "title": "CISA 2030 Sets Out ‘Aggressive, Anticipatory’ Cyber Defense Strategy for Critical Infrastructure"
+    },
+    {
+      "added_at": 1793053505.7233007,
+      "ai": true,
+      "id": "03f54c74f6feb39826b170f3d610b9677919c072",
+      "link": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
+      "published": 1793029960.0,
+      "source": "The Hacker News",
+      "summary": "Threat actors use Microsoft Teams’ external chat feature to impersonate IT support, delivering malware and ransomware in hundreds of incidents.",
+      "tags": [],
+      "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware"
+    },
+    {
+      "added_at": 1793053505.7233007,
+      "ai": true,
+      "id": "0484546ab1e68e9aaf733dcb6cc46a2bebcec69f",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/26/trumpets-blare-and-skies-part-as-ai-hypefest-culminates-in-anthropic-ipo-filing/5305456",
+      "published": 1793029625.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "Anthropic filed for an IPO, revealing financials and warning that its Claude models could exhibit harmful behaviors such as blackmail or resistance to shutdown.",
+      "tags": [],
+      "title": "Trumpets blare and skies part as AI hypefest culminates in Anthropic IPO filing"
+    },
+    {
+      "added_at": 1793053505.7233007,
+      "ai": true,
+      "id": "cf08225efb6bf99ec59c2ca45fdd514c2579ab7b",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-net-patches-for-critical-brotli-flaw/",
+      "published": 1793029104.0,
+      "source": "BleepingComputer",
+      "summary": "Microsoft issued emergency .NET updates to fix the Brotli vulnerability known as Broccoli2Shell, also tracked as HTTP2Shell.",
+      "tags": [],
+      "title": "Microsoft releases emergency .NET patches for critical Brotli flaw"
+    },
+    {
+      "added_at": 1793053505.7233007,
+      "ai": true,
+      "id": "3cd95951a6a6df652a4f241c527afedddf3e1c48",
+      "link": "https://www.infosecurity-magazine.com/news/gheist-attackers-abuse-stolen/",
+      "published": 1793026800.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "A large‑scale GitHub campaign used stolen access tokens to target over 13,500 repositories with secret‑stealing workflows, but attackers faced obstacles.",
+      "tags": [],
+      "title": "Gheist Attackers Stumble in Attempt to Abuse GitHub Tokens"
+    },
+    {
+      "added_at": 1793053505.7233007,
+      "ai": true,
+      "id": "d7e589c62a2dd12ba118192b5ff829f8774b26ba",
+      "link": "https://www.securityweek.com/industrial-vendors-check-products-for-php2shell-vulnerabilities/",
+      "published": 1793026334.0,
+      "source": "SecurityWeek",
+      "summary": "Siemens, Schneider Electric, ABB and other industrial vendors confirmed that some of their products are affected by PHP2Shell vulnerabilities.",
+      "tags": [],
+      "title": "Industrial Vendors Check Products for PHP2Shell Vulnerabilities"
+    },
+    {
+      "added_at": 1793053505.7233007,
+      "ai": true,
+      "id": "0894723045c0f53843faf33b1ffc169e7e1a2c55",
+      "link": "https://www.securityweek.com/genesys-hack-exposes-customer-data-from-internal-systems/",
+      "published": 1793025648.0,
+      "source": "SecurityWeek",
+      "summary": "A hack of Genesys internal systems exposed customer data; the Genesys Cloud and Engage platforms were not affected.",
+      "tags": [],
+      "title": "Genesys Hack Exposes Customer Data From Internal Systems"
+    },
+    {
+      "added_at": 1793053505.7233007,
+      "ai": true,
+      "id": "38ba7bc24d68243a173008d9050072cd0c9e86b6",
+      "link": "https://www.securityweek.com/stolen-ai-reasoning-could-help-china-build-cheaper-rivals/",
+      "published": 1793025009.0,
+      "source": "SecurityWeek",
+      "summary": "Researchers discovered a flaw in OpenAI’s compaction process that allows transfer of reasoning traces between models, potentially enabling cheaper AI distillation for competitors.",
+      "tags": [],
+      "title": "Stolen AI Reasoning Could Help China Build Cheaper Rivals"
+    },
+    {
+      "added_at": 1793053505.7233007,
+      "ai": true,
+      "id": "d72684f804b8ac420e36f9d189538cd05d57aaa2",
+      "link": "https://therecord.media/ukraine-cert-ua-warning-chinese-dahua-cameras-hacked",
+      "published": 1793024460.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "Ukraine's CERT-UA reports that hackers have compromised Dahua internet‑connected cameras and video recorders, altering settings and creating unauthorized accounts.",
+      "tags": [
+        "#news"
+      ],
+      "title": "Ukraine warns hackers are exploiting Chinese-made Dahua surveillance cameras"
+    },
+    {
+      "added_at": 1793053505.7233007,
+      "ai": true,
+      "id": "3576934612fc89d7825b1844829b45f53e233d5b",
+      "link": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
+      "published": 1793023573.0,
+      "source": "The Hacker News",
+      "summary": "The week saw widespread remote code execution vulnerabilities, with attackers scanning and exploiting them. A leaked key exposed a software supply‑chain compromise.",
+      "tags": [],
+      "title": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More"
+    },
+    {
+      "added_at": 1793053505.7233007,
+      "ai": true,
+      "id": "3c0f1fb39eeafb73c6f5ce2a639083eee8d23b3a",
+      "link": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
+      "published": 1793023210.0,
+      "source": "BleepingComputer",
+      "summary": "A new NIST, CISA, and NSA guide treats runaway AI agents as incidents to rehearse. The guide emphasizes establishing the agent’s authority before the incident occurs.",
+      "tags": [],
+      "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence"
+    },
+    {
+      "added_at": 1793053505.7233007,
+      "ai": true,
+      "id": "0d99ee2b282857bf5a8f9a03ad4c7ab90154297c",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/10-software-security-practices-built-250-years",
+      "published": 1793023200.0,
+      "source": "darkreading",
+      "summary": "The Cybersecurity Awareness Month theme \"Securing the Next 250\" encourages looking beyond vulnerabilities to build long‑term resilience. It outlines ten practices designed to safeguard digital systems for generations.",
+      "tags": [],
+      "title": "10 Software Security Practices Built for the Next 250 Years"
+    },
+    {
+      "added_at": 1793053505.7233007,
+      "ai": true,
+      "id": "699670a82ef0c7001155d0cd257dc4e98fc99bcc",
+      "link": "https://www.infosecurity-magazine.com/news/linux-flaws-exposed-before-fixes/",
+      "published": 1793023200.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "Six Linux kernel flaws were publicly disclosed before fixes were merged, including one with a working root exploit. The exposure highlights a gap between vulnerability discovery and patch deployment.",
+      "tags": [],
+      "title": "Linux Flaws Exposed Before Fixes as Root Exploit Goes Public"
+    },
+    {
+      "added_at": 1793053505.7233007,
+      "ai": true,
+      "id": "9cb042202f4ddf083377e08e248962b7e5837ea2",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/",
+      "published": 1793023004.0,
+      "source": "BleepingComputer",
+      "summary": "A Chinese national was extradited from the Netherlands to the United States and arraigned in California for a cryptocurrency investment scam that stole nearly $37 million from 174 victims. The case underscores cross‑border cooperation in cyber‑crime investigations.",
+      "tags": [],
+      "title": "Chinese man extradited for role in $36 million cryptocurrency scam"
+    },
+    {
+      "added_at": 1793053505.7233007,
+      "ai": true,
+      "id": "b0268599885cc535d9ec6389c71b1fcf602b7f57",
+      "link": "https://cyberscoop.com/cisa-2030-cybersecurity-strategy/",
+      "published": 1793021498.0,
+      "source": "CyberScoop",
+      "summary": "CISA released a strategy review assessing its capabilities to meet the pillars of defend, harden, and prevail over the next four years. The document outlines plans to strengthen national cybersecurity posture.",
+      "tags": [],
+      "title": "CISA publishes strategy with eye on the next four years"
+    },
+    {
+      "added_at": 1793053505.7233007,
+      "ai": true,
+      "id": "104d630292349d7f4a58237327f66452d73bd3be",
+      "link": "https://www.securityweek.com/php2shell-exploitation-moves-from-probes-to-working-shells/",
+      "published": 1793021410.0,
+      "source": "SecurityWeek",
+      "summary": "Attackers exploited PHP2Shell vulnerabilities against honeypots, launching 35 shells from two IP addresses on October 24. The incident demonstrates the transition from probing to active exploitation.",
+      "tags": [],
+      "title": "PHP2Shell Exploitation Moves From Probes to Working Shells"
+    },
+    {
+      "added_at": 1793053505.7233007,
+      "ai": true,
+      "id": "355b1b790d0c7e9ecc10f488b8ad5873ba0a5731",
+      "link": "https://www.helpnetsecurity.com/2026/10/26/kali-linux-2026-3-released/",
+      "published": 1793021064.0,
+      "source": "Help Net Security",
+      "summary": "Kali Linux 2026.3 released with kernel 7.1.5 and updated build scripts, enabling containerized builds. The update also adds wardriving support for the TicWatch Pro 3.",
+      "tags": [],
+      "title": "Kali Linux 2026.3 ships kernel 7.1.5, brings wardriving to the TicWatch Pro 3"
+    },
+    {
+      "added_at": 1793053505.7233007,
+      "ai": true,
+      "id": "1b00cdb86a3b84d7b278c32e189b09f943ed5b27",
+      "link": "https://www.helpnetsecurity.com/2026/10/26/ai-tools-security-worry-survey/",
+      "published": 1793020561.0,
+      "source": "Help Net Security",
+      "summary": "Security professionals cite employee misuse of AI tools, such as pasting company data, as the greatest risk. AI‑generated phishing was only a concern for a quarter of surveyed experts.",
+      "tags": [],
+      "title": "Security pros reckon the biggest AI risk comes with an employee badge"
     }
   ],
   "posted": []

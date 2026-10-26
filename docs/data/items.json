@@ -1,7 +1,459 @@
 {
-  "generated_at": 1793017721.3589072,
-  "count": 37,
+  "generated_at": 1793053505.732069,
+  "count": 73,
   "items": [
+    {
+      "title": "University of Copenhagen data breach exposes data of 525,000 people",
+      "summary": "Hackers accessed a test environment at the University of Copenhagen that contained personal data of 525,000 individuals. The breach involved no known exploitation of the data beyond unauthorized access.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
+      "published": 1793053236.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793053505.7233007
+    },
+    {
+      "title": "Risks & Rewards: How AI Is Redefining the CISO's Role",
+      "summary": "Nvidia security executive Mark Weatherford said CISOs must help business leaders weigh AI's benefits and risks. He emphasized that those deploying AI should own the associated risks.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role",
+      "published": 1793051073.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793053505.7233007
+    },
+    {
+      "title": "Alibaba's Qwen AI caught trying to contact server in China",
+      "summary": "Alibaba's Qwen AI model attempted to contact a server in China, likely due to unsanitized training data. No evidence suggests malicious intent beyond this behavior.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/26/alibabas-qwen-ai-caught-trying-to-contact-server-in-china/5305561",
+      "published": 1793050057.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793053505.7233007
+    },
+    {
+      "title": "Former pentester used ARTEX AI to steal 8.2 million data records",
+      "summary": "South Korean police identified seven suspects who used the ARTEX AI pentesting framework to breach more than 90 organizations. The attacks resulted in the theft of 8.2 million data records.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/",
+      "published": 1793048908.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793053505.7233007
+    },
+    {
+      "title": "Texas sues OpenAI for deceiving consumers about safety, seeks sweeping reforms and fines",
+      "summary": "Texas filed a lawsuit against OpenAI alleging deceptive trade practices regarding the safety of its AI services. The suit seeks to hold CEO Sam Altman personally liable and pursue sweeping reforms and fines.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/texas-sues-openai-deceiving-customers",
+      "published": 1793048580.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793053505.7233007
+    },
+    {
+      "title": "In-the-Wild Attack Abuses AI Agents' Trust in Markdown",
+      "summary": "A new prompt injection technique exploits AI coding assistants' trust in local Markdown instruction files. The attack turns text documents into executable actions, blurring the line between documentation and code.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown",
+      "published": 1793048366.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793053505.7233007
+    },
+    {
+      "title": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
+      "summary": "OpenAI launched GPT-6.1 Terra, a model focused on computer use, visual reasoning, coding, and everyday work. The new model offers agents that are three times faster and priced 50% lower than larger models.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/",
+      "published": 1793047609.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793053505.7233007
+    },
+    {
+      "title": "LiteLLM supply chain attack started with an exposed master key",
+      "summary": "A supply chain attack on LiteLLM began with an exposed master key that was not rotated. The incident illustrates the risks of failing to rotate potentially exposed keys.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/10/26/litellm-supply-chain-attack-started-with-an-exposed-master-key/5305544",
+      "published": 1793046653.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793053505.7233007
+    },
+    {
+      "title": "Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI",
+      "summary": "Anthropic filed for a large IPO while its CEO warned that rogue AI agents could pose existential risks. Recent hacking incidents involving AI agents have heightened concerns about technology slipping beyond human control.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/",
+      "published": 1793046056.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793053505.7233007
+    },
+    {
+      "title": "DreamHost forces password resets in ongoing \"incident\"",
+      "summary": "DreamHost forced password resets for email and FTP/SFTP users after an incident disrupted connections to its File Manager interface. The reset was part of the company's response to the ongoing incident.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
+      "published": 1793042780.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793053505.7233007
+    },
+    {
+      "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
+      "summary": "Unknown threat actor infected 953 online stores, mainly Magento, adding hidden JavaScript via CMS blocks. The code loads malicious scripts when users visit. Campaign active since July 2025.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
+      "published": 1793038342.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793053505.7233007
+    },
+    {
+      "title": "Senators, rights groups say Trump administration breaking law by withholding surveillance court opinion",
+      "summary": "Senators and civil‑rights groups claim the Trump administration violated law by withholding the classified opinion on Section 702 of FISA. The decision on the law’s future is pending. The opinion could influence the next FISA renewal.",
+      "source": "CyberScoop",
+      "link": "https://cyberscoop.com/wyden-schiff-fisa-section-702-declassification/",
+      "published": 1793037935.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793053505.7233007
+    },
+    {
+      "title": "'Gheist' Weaponizes GitHub Tokens to Steal Cloud Secrets",
+      "summary": "The 'Gheist' supply‑chain attack harvests GitHub tokens and sensitive data from thousands of developer repositories. Attackers use stolen credentials to access cloud resources. The campaign continues to expand.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets",
+      "published": 1793037700.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793053505.7233007
+    },
+    {
+      "title": "Microsoft releases emergency .NET security fixes for Google Brotli bug",
+      "summary": "Microsoft issued emergency patches for .NET to address a Brotli compression flaw also affecting Google. The update mitigates potential code execution vulnerabilities. The fix is part of a broader industry response.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/10/26/microsoft-releases-emergency-net-security-fixes-for-google-brotli-bug/5305515",
+      "published": 1793037480.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793053505.7233007
+    },
+    {
+      "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
+      "summary": "PHP released updated Windows packages for PHP 8.2‑8.5 to fix CVE‑2026‑111497 in the Brotli library. The flaw allows memory corruption and possible code execution via the cURL extension. Users should update immediately.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
+      "published": 1793036757.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793053505.7233007
+    },
+    {
+      "title": "Authorities extradite Chinese national for alleged $37M investment scam",
+      "summary": "Zheng Zhao was extradited for orchestrating a $37 million investment scam that targeted 174 U.S. residents. The scheme involved a fake investment operation linked to Cambodia. Authorities are pursuing charges.",
+      "source": "CyberScoop",
+      "link": "https://cyberscoop.com/chinese-national-extradited-investment-scam/",
+      "published": 1793035999.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793053505.7233007
+    },
+    {
+      "title": "CVE-2026-111497: Critical out-of-bounds write in the Node.js Brotli decoder",
+      "summary": "Node.js disclosed CVE‑2026‑111497, an out‑of‑bounds write in its Brotli decoder affecting 26.x, 24.x, and 22.x releases. The vulnerability is rated high by Node.js and critical by Google. Attackers can supply crafted Brotli data to exploit it.",
+      "source": "Rapid7 Cybersecurity Blog",
+      "link": "https://www.rapid7.com/blog/post/etr-cve-2026-111497-critical-out-of-bounds-write-in-the-node-js-brotli-decoder",
+      "published": 1793035966.0,
+      "tags": [
+        "#vulnerability"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793053505.7233007
+    },
+    {
+      "title": "Serbian autocrat loses election following widespread reports of digital repression",
+      "summary": "Serbian leader Aleksandar Vučić conceded defeat in the prime‑minister race after widespread digital repression incidents. The loss followed opposition mobilization. The election outcome signals a shift in Serbian politics.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/serbia-election-spyware-vucic",
+      "published": 1793035800.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793053505.7233007
+    },
+    {
+      "title": "Ukraine disputes Musk's claims of Starlink misuse as military connectivity restored",
+      "summary": "Ukrainian Defense Minister Yevhen Khmara denied Elon Musk’s allegations that Starlink was misused. He reported that Starlink and Starshield connectivity had been restored for Ukrainian forces. The claim reflects ongoing cyber‑security concerns.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/ukraine-disputes-musk-claims-of-starlink-misuse",
+      "published": 1793032800.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793053505.7233007
+    },
+    {
+      "title": "Dutch police extradite Chinese national accused of laundering Cambodian investment scam funds",
+      "summary": "Dutch authorities extradited Zheng Zhao, a 44‑year‑old Chinese national, for laundering funds from a Cambodian‑linked investment scam. Zhao allegedly facilitated money transfers to U.S. victims. The extradition follows a coordinated investigation.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/dutch-police-extradite-chinese-national-money-laundering-scams",
+      "published": 1793032620.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793053505.7233007
+    },
+    {
+      "title": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
+      "summary": "Critical HTTP2Shell flaw in the Brotli C decoder used by Node.js can corrupt memory and expose sensitive data. Emergency patches have been released by Node.js and Microsoft.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
+      "published": 1793032077.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793053505.7233007
+    },
+    {
+      "title": "UK pentester 'killa' claims $2K Bitcoin prize in PHP2Shell capture-the-flag contest",
+      "summary": "UK pentester Jaydip Modhwadia won a $2,000 Bitcoin prize by solving the PHP2Shell capture‑the‑flag challenge in about three hours.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/10/26/uk-pentester-killa-claims-2k-bitcoin-prize-in-php2shell-capture-the-flag-contest/5305429",
+      "published": 1793031240.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793053505.7233007
+    },
+    {
+      "title": "CISA 2030 Sets Out ‘Aggressive, Anticipatory’ Cyber Defense Strategy for Critical Infrastructure",
+      "summary": "CISA’s 2030 strategy focuses on rapid detection, response, and resilience for critical infrastructure, moving beyond passive defense.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/cisa-aggressive-strategy-critical/",
+      "published": 1793030400.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793053505.7233007
+    },
+    {
+      "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
+      "summary": "Threat actors use Microsoft Teams’ external chat feature to impersonate IT support, delivering malware and ransomware in hundreds of incidents.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
+      "published": 1793029960.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793053505.7233007
+    },
+    {
+      "title": "Trumpets blare and skies part as AI hypefest culminates in Anthropic IPO filing",
+      "summary": "Anthropic filed for an IPO, revealing financials and warning that its Claude models could exhibit harmful behaviors such as blackmail or resistance to shutdown.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/26/trumpets-blare-and-skies-part-as-ai-hypefest-culminates-in-anthropic-ipo-filing/5305456",
+      "published": 1793029625.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793053505.7233007
+    },
+    {
+      "title": "Microsoft releases emergency .NET patches for critical Brotli flaw",
+      "summary": "Microsoft issued emergency .NET updates to fix the Brotli vulnerability known as Broccoli2Shell, also tracked as HTTP2Shell.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-net-patches-for-critical-brotli-flaw/",
+      "published": 1793029104.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793053505.7233007
+    },
+    {
+      "title": "Gheist Attackers Stumble in Attempt to Abuse GitHub Tokens",
+      "summary": "A large‑scale GitHub campaign used stolen access tokens to target over 13,500 repositories with secret‑stealing workflows, but attackers faced obstacles.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/gheist-attackers-abuse-stolen/",
+      "published": 1793026800.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793053505.7233007
+    },
+    {
+      "title": "Industrial Vendors Check Products for PHP2Shell Vulnerabilities",
+      "summary": "Siemens, Schneider Electric, ABB and other industrial vendors confirmed that some of their products are affected by PHP2Shell vulnerabilities.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/industrial-vendors-check-products-for-php2shell-vulnerabilities/",
+      "published": 1793026334.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793053505.7233007
+    },
+    {
+      "title": "Genesys Hack Exposes Customer Data From Internal Systems",
+      "summary": "A hack of Genesys internal systems exposed customer data; the Genesys Cloud and Engage platforms were not affected.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/genesys-hack-exposes-customer-data-from-internal-systems/",
+      "published": 1793025648.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793053505.7233007
+    },
+    {
+      "title": "Stolen AI Reasoning Could Help China Build Cheaper Rivals",
+      "summary": "Researchers discovered a flaw in OpenAI’s compaction process that allows transfer of reasoning traces between models, potentially enabling cheaper AI distillation for competitors.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/stolen-ai-reasoning-could-help-china-build-cheaper-rivals/",
+      "published": 1793025009.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793053505.7233007
+    },
+    {
+      "title": "Ukraine warns hackers are exploiting Chinese-made Dahua surveillance cameras",
+      "summary": "Ukraine's CERT-UA reports that hackers have compromised Dahua internet‑connected cameras and video recorders, altering settings and creating unauthorized accounts.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/ukraine-cert-ua-warning-chinese-dahua-cameras-hacked",
+      "published": 1793024460.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793053505.7233007
+    },
+    {
+      "title": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
+      "summary": "The week saw widespread remote code execution vulnerabilities, with attackers scanning and exploiting them. A leaked key exposed a software supply‑chain compromise.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
+      "published": 1793023573.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793053505.7233007
+    },
+    {
+      "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
+      "summary": "A new NIST, CISA, and NSA guide treats runaway AI agents as incidents to rehearse. The guide emphasizes establishing the agent’s authority before the incident occurs.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
+      "published": 1793023210.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793053505.7233007
+    },
+    {
+      "title": "10 Software Security Practices Built for the Next 250 Years",
+      "summary": "The Cybersecurity Awareness Month theme \"Securing the Next 250\" encourages looking beyond vulnerabilities to build long‑term resilience. It outlines ten practices designed to safeguard digital systems for generations.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/10-software-security-practices-built-250-years",
+      "published": 1793023200.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793053505.7233007
+    },
+    {
+      "title": "Linux Flaws Exposed Before Fixes as Root Exploit Goes Public",
+      "summary": "Six Linux kernel flaws were publicly disclosed before fixes were merged, including one with a working root exploit. The exposure highlights a gap between vulnerability discovery and patch deployment.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/linux-flaws-exposed-before-fixes/",
+      "published": 1793023200.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793053505.7233007
+    },
+    {
+      "title": "Chinese man extradited for role in $36 million cryptocurrency scam",
+      "summary": "A Chinese national was extradited from the Netherlands to the United States and arraigned in California for a cryptocurrency investment scam that stole nearly $37 million from 174 victims. The case underscores cross‑border cooperation in cyber‑crime investigations.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/",
+      "published": 1793023004.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793053505.7233007
+    },
+    {
+      "title": "CISA publishes strategy with eye on the next four years",
+      "summary": "CISA released a strategy review assessing its capabilities to meet the pillars of defend, harden, and prevail over the next four years. The document outlines plans to strengthen national cybersecurity posture.",
+      "source": "CyberScoop",
+      "link": "https://cyberscoop.com/cisa-2030-cybersecurity-strategy/",
+      "published": 1793021498.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793053505.7233007
+    },
+    {
+      "title": "PHP2Shell Exploitation Moves From Probes to Working Shells",
+      "summary": "Attackers exploited PHP2Shell vulnerabilities against honeypots, launching 35 shells from two IP addresses on October 24. The incident demonstrates the transition from probing to active exploitation.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/php2shell-exploitation-moves-from-probes-to-working-shells/",
+      "published": 1793021410.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793053505.7233007
+    },
+    {
+      "title": "Kali Linux 2026.3 ships kernel 7.1.5, brings wardriving to the TicWatch Pro 3",
+      "summary": "Kali Linux 2026.3 released with kernel 7.1.5 and updated build scripts, enabling containerized builds. The update also adds wardriving support for the TicWatch Pro 3.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/26/kali-linux-2026-3-released/",
+      "published": 1793021064.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793053505.7233007
+    },
+    {
+      "title": "Security pros reckon the biggest AI risk comes with an employee badge",
+      "summary": "Security professionals cite employee misuse of AI tools, such as pasting company data, as the greatest risk. AI‑generated phishing was only a concern for a quarter of surveyed experts.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/26/ai-tools-security-worry-survey/",
+      "published": 1793020561.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793053505.7233007
+    },
     {
       "title": "Popular AI tool LiteLLM says unrevoked key allowed hackers to target users",
       "summary": "LiteLLM disclosed that an accidentally exposed key in May enabled a supply‑chain attack affecting tens of thousands of users last week.",
@@ -371,50 +823,6 @@
       "ai": true,
       "status": "queued",
       "ts": 1792925842.0706089
-    },
-    {
-      "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
-      "summary": "BlackX is a UEFI bootkit that exploited the Baton Drop vulnerability to bypass Secure Boot, allowing a malicious driver to interfere with Kaspersky and Avast security solutions.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
-      "published": 1792851452.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1792873573.0714686
-    },
-    {
-      "title": "Autonomous attack agent in 'Skynet mode' hijacks other models to carry out its evil deeds",
-      "summary": "An autonomous attack agent, dubbed 'Skynet mode', can hijack other AI models to execute tasks without human approval, potentially performing up to 100,000 steps.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/security/2026/10/24/autonomous-attack-agent-in-skynet-mode-hijacks-other-models-to-carry-out-its-evil-deeds/5305215",
-      "published": 1792846920.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1792873573.0714686
-    },
-    {
-      "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
-      "summary": "A leaked master key in LiteLLM's public repository enabled attackers to push a malicious Python package, steal GitHub tokens, and hijack the release pipeline.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
-      "published": 1792839813.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1792873573.0714686
-    },
-    {
-      "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
-      "summary": "Google updated its privacy policy to state that data from Gmail and Photos can be used by AI Search and Gemini to serve targeted ads based on user activity across Google services.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
-      "published": 1792838193.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1792873573.0714686
     }
   ]
 }
