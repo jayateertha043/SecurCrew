@@ -1,493 +1,6 @@
 {
   "pending": [
     {
-      "added_at": 1792960349.630968,
-      "ai": true,
-      "id": "4a8154151413dd37b9bdf51d2fa11690833c976c",
-      "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
-      "published": 1792950249.0,
-      "source": "The Hacker News",
-      "summary": "A single compromised device on a Tailscale network can use SSH port forwarding to gain root access to other servers it can reach. The attack requires the target to allow SSH port forwarding and for the attacker to already control a device with network access to the target.",
-      "tags": [],
-      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers"
-    },
-    {
-      "added_at": 1792960349.630968,
-      "ai": true,
-      "id": "3eda0d6ae7e393224e1958f65258a5bb6c244ba7",
-      "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
-      "published": 1792948786.0,
-      "source": "The Hacker News",
-      "summary": "Threat actors used AI platforms for post‑exploitation after exploiting PHP2Shell CVE‑2026‑109618/109619. In one case, a European government entity was compromised within two hours, with attackers accessing password hashes and multi‑factor authentication data.",
-      "tags": [],
-      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking"
-    },
-    {
-      "added_at": 1792960349.630968,
-      "ai": true,
-      "id": "9e8f060397f4d2d14e58b81262f3164f7ed453e7",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
-      "published": 1792943378.0,
-      "source": "BleepingComputer",
-      "summary": "Researchers discovered a malicious AGENTS.md file in a user’s Downloads folder that tricked an AI coding agent into installing a rogue npm package. The file leveraged the agent’s instruction parsing to execute malicious code.",
-      "tags": [],
-      "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder"
-    },
-    {
-      "added_at": 1792960349.630968,
-      "ai": true,
-      "id": "e85723a0f6770849e0d4348ce46ecec8112d2b6c",
-      "link": "https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/",
-      "published": 1792926000.0,
-      "source": "SecurityWeek",
-      "summary": "Tel Aviv‑based Mave, founded by Unit 8200 alumni, raised $34 million to develop AI agents that investigate alerts across existing security stacks. The funding supports the company’s agentic SecOps platform.",
-      "tags": [],
-      "title": "Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave"
-    },
-    {
-      "added_at": 1792960349.630968,
-      "ai": true,
-      "id": "3b8939cd6e35c1ec377db330038c1bc291ca7eb2",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/irish-police-twitter-hacked-crypto-scam",
-      "published": 1792173650.0,
-      "source": "GRAHAM CLULEY",
-      "summary": "Two accounts of Ireland’s police force were hijacked in a cryptocurrency scam. The incident highlighted vulnerabilities in the department’s social media security.",
-      "tags": [],
-      "title": "Irish police force has its Twitter hacked in cryptocurrency scam"
-    },
-    {
-      "added_at": 1792960349.630968,
-      "ai": true,
-      "id": "e16fac9bbbbd758a720e741130353b08b887d9f9",
-      "link": "https://www.fortra.com/blog/krybit-ransomware-what-you-need-know",
-      "published": 1792146312.0,
-      "source": "GRAHAM CLULEY",
-      "summary": "Krybit is a fast‑growing ransomware gang that was hacked by a rival, retaliated, and continues to extort victims. The gang targets various organizations and uses sophisticated techniques to evade defenses.",
-      "tags": [],
-      "title": "Krybit ransomware: what you need to know"
-    },
-    {
-      "added_at": 1792960349.630968,
-      "ai": true,
-      "id": "18bf141d2661557ca190612f030aeca98ea90a13",
-      "link": "https://www.welivesecurity.com/en/kids-online/looking-for-free-robux-heres-whats-real-whats-scam/",
-      "published": 1790067600.0,
-      "source": "WeLiveSecurity",
-      "summary": "Fake giveaways, free Robux generators, and phishing login pages target Roblox accounts. Users should verify sources before providing credentials.",
-      "tags": [],
-      "title": "Looking for free Robux? Here’s what’s real, and what’s a scam"
-    },
-    {
-      "added_at": 1792960349.630968,
-      "ai": true,
-      "id": "0c34834f51359083617f8c1a4e915fa05ad5280b",
-      "link": "https://securelist.com/tr/payload-ransomware-via-group-policy/121335/",
-      "published": 1789984840.0,
-      "source": "Securelist",
-      "summary": "PAYLOAD ransomware weaponizes Active Directory Group Policy Objects to deliver an encryption‑less, binary‑less attack. Kaspersky GERT experts analyzed the technical details of the operation.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Group Policy hijacked: PAYLOAD ransomware weaponizes Active Directory GPO"
-    },
-    {
-      "added_at": 1792960349.630968,
-      "ai": true,
-      "id": "5e7190318dbce36521fc7777e75ae8d6a23d8e39",
-      "link": "https://unit42.paloaltonetworks.com/detecting-exposed-aws-iam-credentials/",
-      "published": 1789984813.0,
-      "source": "Unit 42",
-      "summary": "AWS uses managed policies, GitHub secret scanning, and CloudTrail monitoring to neutralize exposed IAM credentials. The approach helps organizations quickly lock down compromised access.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "From Exposure to Lockdown: How AWS Neutralizes Compromised IAM Credentials through Managed Policies"
-    },
-    {
-      "added_at": 1792960349.630968,
-      "ai": true,
-      "id": "d4928ad1f97d3afaed7f3a7f81693208a0acfe9f",
-      "link": "https://www.welivesecurity.com/en/business-security/smb-cybersecurity-squeeze-ai-agents-work-old-attacks-overdrive/",
-      "published": 1789981200.0,
-      "source": "WeLiveSecurity",
-      "summary": "AI enables new data access paths while accelerating familiar attacks, increasing risk for SMBs. Protection strategies must be tailored to the limited time and expertise available to small businesses.",
-      "tags": [],
-      "title": "The SMB cybersecurity squeeze: AI agents at work, old attacks in overdrive"
-    },
-    {
-      "added_at": 1792960349.630968,
-      "ai": true,
-      "id": "3a7b569916d745088cd980262bd427d2a8e7886f",
-      "link": "https://projectzero.google/2026/09/windows-dangling-com.html",
-      "published": 1789974000.0,
-      "source": "Project Zero",
-      "summary": "Microsoft patched privilege‑escalation bug CVE‑2026‑66804. The fix was incomplete for CVE‑2026‑50343, which involved a dangling COM object registration for the CrossDevice COM object (CLSID {E9F83CF2‑E0C0‑4CA7‑AF01‑E90C70BEF496}). 15 reporters identified the issue.",
-      "tags": [
-        "#vulnerability",
-        "#0day"
-      ],
-      "title": "Windows Exploitation Techniques: Dangling COM Object Registrations"
-    },
-    {
-      "added_at": 1792960349.630968,
-      "ai": true,
-      "id": "bea59d177fac977faa6c7a1357d83ab957f0048b",
-      "link": "https://www.intigriti.com/blog/business-insights/how-ai-changed-my-day-as-a-qa-engineer",
-      "published": 1789948800.0,
-      "source": "Intigriti",
-      "summary": "QA engineer at Intigriti adopted AI to automate test creation and execution. The shift improved collaboration with developers and streamlined defect identification.",
-      "tags": [
-        "#bugbounty"
-      ],
-      "title": "From sceptic to supercharged. How AI changed my day as a QA Engineer"
-    },
-    {
-      "added_at": 1792960349.630968,
-      "ai": true,
-      "id": "2c3a16c81fa1a351b907fa90c6eddb13774a7c75",
-      "link": "https://www.welivesecurity.com/en/privacy/nudify-apps-fake-nude-you/",
-      "published": 1789722000.0,
-      "source": "WeLiveSecurity",
-      "summary": "The article outlines steps for victims, parents, and concerned parties when faced with fake nude images, including reporting, evidence preservation, and legal options.",
-      "tags": [],
-      "title": "‘Nudify’ apps: What to do if someone makes a fake nude of you"
-    },
-    {
-      "added_at": 1792960349.630968,
-      "ai": true,
-      "id": "bc5b49fdafa46e90ed7e5cfb92c296469fa0fcc0",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/us-coast-guard-fbi-board-oil-tanker-investigate-cyber-attack",
-      "published": 1789656228.0,
-      "source": "GRAHAM CLULEY",
-      "summary": "The US Coast Guard and FBI boarded an oil tanker bound for Texas after indications its network may have been compromised by a foreign actor.",
-      "tags": [],
-      "title": "US Coast Guard and FBI board oil tanker to investigate cyber attack"
-    },
-    {
-      "added_at": 1792960349.630968,
-      "ai": true,
-      "id": "add245d425eeb8bcca648b85689e72d3b2d88394",
-      "link": "https://securelist.com/moviereaper-malware-torrent-odyssey-solana/121344/",
-      "published": 1789650053.0,
-      "source": "Securelist",
-      "summary": "Kaspersky identified a MovieReaper campaign that spreads a multi‑stage Trojan through movie torrents, using the Solana blockchain to conceal its command‑and‑control infrastructure.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "The Odyssey and Trojans again: MovieReaper attacks users in multiple countries through compromised torrents"
-    },
-    {
-      "added_at": 1792960349.630968,
-      "ai": true,
-      "id": "250a0b74db7d26da7e35d8832c74a3cf35757d6e",
-      "link": "https://www.welivesecurity.com/en/eset-research/beware-sparrowock-backdoor-bites-commands-catch/",
-      "published": 1789635000.0,
-      "source": "WeLiveSecurity",
-      "summary": "ESET researchers documented SparroWocky, the flagship backdoor of the FamousSparrow APT group, detailing its capabilities and command structure.",
-      "tags": [],
-      "title": "Beware the SparroWock: The backdoor that bites, the commands that catch"
-    },
-    {
-      "added_at": 1792960349.630968,
-      "ai": true,
-      "id": "d3f6cc920698eea203cce81aec7e8f6d6424e356",
-      "link": "https://grahamcluley.com/smashing-security-podcast-485/",
-      "published": 1789600039.0,
-      "source": "GRAHAM CLULEY",
-      "summary": "Researchers tested LG smart TVs by hacking while intoxicated to bypass legal terms, uncovering security vulnerabilities that could affect consumers.",
-      "tags": [],
-      "title": "Smashing Security podcast #485: These researchers got drunk to hack an LG TV"
-    },
-    {
-      "added_at": 1792960349.630968,
-      "ai": true,
-      "id": "d653533745a68c07326b20879bec2304c0013a6a",
-      "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
-      "published": 1789582462.0,
-      "source": "Krebs on Security",
-      "summary": "Radaris, a consumer data broker, faced a lawsuit for violating New Jersey privacy law and lost several domains in the ensuing privacy dispute.",
-      "tags": [],
-      "title": "Data Broker Radaris Loses Domains in Privacy Fight"
-    },
-    {
-      "added_at": 1792960349.630968,
-      "ai": true,
-      "id": "f771155483cebf6d55da1e2676334c5010d999b5",
-      "link": "https://securelist.com/tr/nighteagle-apt-ghostcontainer-and-tunneling/121323/",
-      "published": 1789552811.0,
-      "source": "Securelist",
-      "summary": "Kaspersky GERT uncovered NightEagle APT targeting Russian companies with the GhostContainer backdoor, GitHub‑hosted tools, and exploitation of Active Directory and RDP vulnerabilities.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "NightEagle targets Russian companies"
-    },
-    {
-      "added_at": 1792960349.630968,
-      "ai": true,
-      "id": "43aaadeab2e03e4ff1608a8b78212b277b4daa35",
-      "link": "https://www.welivesecurity.com/en/business-security/cyberthreats-moving-faster-smbs-readiness-must-accelerate/",
-      "published": 1789549200.0,
-      "source": "WeLiveSecurity",
-      "summary": "As AI expands the attack surface, SMBs must accelerate readiness through automation and expert support to keep pace with faster cyber threats.",
-      "tags": [],
-      "title": "Cyberthreats are moving faster than SMBs: Readiness must accelerate"
-    },
-    {
-      "added_at": 1792960349.630968,
-      "ai": true,
-      "id": "9d5ca6b881a5aa18a0af71e17c9661ea45e2d7c0",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/former-at-t-worker-jailed-sim-swap",
-      "published": 1789465434.0,
-      "source": "GRAHAM CLULEY",
-      "summary": "Kenneth Carter, 44, from Portland, Oregon, was sentenced to 16 months in federal prison for acting as an inside man for a SIM‑swap gang that stole over $500,000. He worked at an AT&T retail store before the crime. The case highlights insider risk in telecom operations.",
-      "tags": [],
-      "title": "Former AT&T store worker jailed after moonlighting as a SIM-swap gang’s inside man"
-    },
-    {
-      "added_at": 1792960349.630968,
-      "ai": true,
-      "id": "986b76c74d972a9dd187047eb5ff30cd1f03f7a4",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/anne-hathaway-245-million-crypto-theft-nightclubs-watches-luxury-cars",
-      "published": 1789047148.0,
-      "source": "GRAHAM CLULEY",
-      "summary": "A cybercriminal group led by an individual known as 'Anne Hathaway' stole $245 million in cryptocurrency. The gang spent heavily on nightclubs, watches, and luxury cars. The incident underscores the scale of modern crypto theft operations.",
-      "tags": [],
-      "title": "‘Anne Hathaway’ admits leading $245 million crypto theft gang that spent a fortune on nightclubs, watches, and luxury cars"
-    },
-    {
-      "added_at": 1792960349.630968,
-      "ai": true,
-      "id": "d5c84e81656fb962c8f1de9244b94456064028e4",
-      "link": "https://www.welivesecurity.com/en/business-security/guardbreaker-derailing-ai-assisted-malware-analysis-code-comment/",
-      "published": 1789030800.0,
-      "source": "WeLiveSecurity",
-      "summary": "Researchers discovered that attackers can insert a simple code comment to disrupt AI‑driven malware analysis tools. The technique undermines automated threat detection. It demonstrates new vectors for evading security automation.",
-      "tags": [],
-      "title": "GuardBreaker: Derailing AI-assisted malware analysis with a code comment"
-    },
-    {
-      "added_at": 1792960349.630968,
-      "ai": true,
-      "id": "8ba0ac282b9f068bb1ae56a144b2e925363bd716",
-      "link": "https://grahamcluley.com/smashing-security-podcast-484/",
-      "published": 1788995154.0,
-      "source": "GRAHAM CLULEY",
-      "summary": "The Smashing Security podcast explores how silent web pages can use audio fingerprinting to track users via their hardware. A single AliExpress page was shown to trigger tracking without audible sound. The episode discusses implications for privacy and surveillance.",
-      "tags": [],
-      "title": "Smashing Security podcast #484: How websites are tracking you with silence"
-    },
-    {
-      "added_at": 1792960349.630968,
-      "ai": true,
-      "id": "c8dcb609d0f845c79ff42668e76f8ca4f571db98",
-      "link": "https://www.welivesecurity.com/en/cybersecurity/safe-word-what-why-need-one/",
-      "published": 1788944400.0,
-      "source": "WeLiveSecurity",
-      "summary": "The article explains the concept of a 'safe word' as a simple method to detect hyper‑realistic AI scams. It offers a practical approach to verify authenticity in digital communications. The technique helps users spot deceptive content.",
-      "tags": [],
-      "title": "Safe word: What is it and why do you need one?"
-    },
-    {
-      "added_at": 1792960349.630968,
-      "ai": true,
-      "id": "c7e7ad60970c4251994034154a557f7aa3598a8b",
-      "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
-      "published": 1788903862.0,
-      "source": "Krebs on Security",
-      "summary": "Microsoft released patches for 974 vulnerabilities, its largest single patch batch to date. The company credits AI for accelerating vulnerability discovery. Security experts note the challenge of prioritizing and testing such a large number of fixes.",
-      "tags": [],
-      "title": "Microsoft Plugs Nearly 1,000 Security Holes"
-    },
-    {
-      "added_at": 1792960349.630968,
-      "ai": true,
-      "id": "0f625bcdfa97d28044241e77304b9303ca7cadbb",
-      "link": "https://projectzero.google/2026/09/maccconc-race-condition.html",
-      "published": 1788850800.0,
-      "source": "Project Zero",
-      "summary": "The paper presents techniques for detecting race conditions using memory access tracing and stack‑based delay injection. It addresses challenges in confirming bugs and writing regression tests. The methods aim to improve reliability in multithreaded software.",
-      "tags": [
-        "#vulnerability",
-        "#0day"
-      ],
-      "title": "Testing race conditions with memory access tracing and stack-based delay injection"
-    },
-    {
-      "added_at": 1792960349.630968,
-      "ai": true,
-      "id": "ec26f962ff25cd198335e6497857b1e669e67c54",
-      "link": "https://www.intigriti.com/blog/business-insights/how-ai-has-changed-the-way-i-think-build-and-work",
-      "published": 1788825600.0,
-      "source": "Intigriti",
-      "summary": "An Intigriti engineer describes a typical day heavily integrated with AI tools, from code review to problem solving. The narrative shows how AI shapes development workflows. It highlights the evolving role of AI in software engineering.",
-      "tags": [
-        "#bugbounty"
-      ],
-      "title": "How AI has changed the way I think, build, and work. A day in the life of an Intigriti Engineer"
-    },
-    {
-      "added_at": 1792960349.630968,
-      "ai": true,
-      "id": "6281ee2fcd9ff18a17101385c6c2f30efa7f123f",
-      "link": "https://securelist.com/toy-ghouls-new-hivemq-and-element-backdoors/121270/",
-      "published": 1788516005.0,
-      "source": "Securelist",
-      "summary": "Kaspersky GERT identified new backdoors from the Toy Ghouls group. One variant uses HiveMQ MQTT as a command‑and‑control server; another uses Matrix Element messenger. The findings illustrate the group's evolving infrastructure.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Angry Birds: Toy Ghouls’ new toys"
-    },
-    {
-      "added_at": 1792960349.630968,
-      "ai": true,
-      "id": "29d3645f74b2fb62019c008fd15a049e20450764",
-      "link": "https://www.welivesecurity.com/en/how-to/ive-been-deepfaked-what-do/",
-      "published": 1788349689.0,
-      "source": "WeLiveSecurity",
-      "summary": "The article offers steps for individuals who discover illegal deepfake images or videos of themselves online. It advises verifying authenticity and requesting removal from platforms. The guidance helps mitigate reputational damage.",
-      "tags": [],
-      "title": "I’ve been deepfaked: What do I do?"
-    },
-    {
-      "added_at": 1792960349.630968,
-      "ai": true,
-      "id": "e5adadfbe555bd99940d95f651ac6c52e29af63e",
-      "link": "https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-service-agents",
-      "published": 1788307200.0,
-      "source": "Intigriti",
-      "summary": "Defenders warned that AI customer service agents can be abused by attackers. Inti De Ceukelaire presented at DEF CON 34 how attackers can exploit AI agents, highlighting the need for human oversight.",
-      "tags": [
-        "#bugbounty"
-      ],
-      "title": "Hacking AI customer service agents"
-    },
-    {
-      "added_at": 1792960349.630968,
-      "ai": true,
-      "id": "b08967e0808474b644c919fdc1927f161272e326",
-      "link": "https://securelist.com/mirage-kitten-new-backdoors-noderabbit-pollcat/121244/",
-      "published": 1788246026.0,
-      "source": "Securelist",
-      "summary": "Kaspersky identified Mirage Kitten attacks targeting aviation and FinTech in the Middle East and Africa. The attacks use new malware families NodeRabbit (Node.js) and PollCat (JavaScript).",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Mirage Kitten targeting aviation and FinTech sectors across the Middle East and Africa with a new malware set"
-    },
-    {
-      "added_at": 1792960349.630968,
-      "ai": true,
-      "id": "bdb8539dd7eb8068b560e9c73616e1f06b0646d6",
-      "link": "https://www.intigriti.com/blog/news/reconnaissance-unleashed-meet-crowdrecon",
-      "published": 1788220800.0,
-      "source": "Intigriti",
-      "summary": "Intigriti introduced CrowdRecon, a reconnaissance tool that helps organizations identify and reduce risk before vulnerabilities are exploited. The approach emphasizes context in exposure management.",
-      "tags": [
-        "#bugbounty"
-      ],
-      "title": "Reconnaissance unleashed: Meet CrowdRecon"
-    },
-    {
-      "added_at": 1792960349.630968,
-      "ai": true,
-      "id": "4057ced6d5b2467393aad90e35258ca56a5322f6",
-      "link": "https://portswigger.net/research/css-the-bomb-inside-your-inbox",
-      "published": 1786053600.0,
-      "source": "PortSwigger Research",
-      "summary": "Webmail clients often render untrusted CSS, which can be unsafe. Gareth Heyes highlighted risks of CSS sanitization failures in webmail interfaces.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "CSS:the bomb inside your inbox"
-    },
-    {
-      "added_at": 1792960349.630968,
-      "ai": true,
-      "id": "4cf4da020059176cb57d170452b2d4e27175ceb0",
-      "link": "https://www.intigriti.com/blog/business-insights/rethinking-cvss-scoring-systems-amidst-ai-safety-and-security",
-      "published": 1785974400.0,
-      "source": "Intigriti",
-      "summary": "The article reviews the Common Vulnerability Scoring System (CVSS) and its latest version 4.0. It notes CVSS's role in assessing vulnerability severity across multiple environments and the need to adapt scoring for AI safety.",
-      "tags": [
-        "#bugbounty"
-      ],
-      "title": "Beyond CVSS: rethinking scoring systems amidst AI Safety and Security"
-    },
-    {
-      "added_at": 1792960349.630968,
-      "ai": true,
-      "id": "04e7535e61e612e78ea250399339944f742d819c",
-      "link": "https://portswigger.net/research/crlf-powered-desync-attacks",
-      "published": 1785972600.0,
-      "source": "PortSwigger Research",
-      "summary": "The paper demonstrates that CRLF injection can cause severe HTTP header desynchronization, leading to catastrophic attacks. It argues that this threat is underestimated.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "CRLF-Powered Desync Attacks: Beheading HTTP Streams"
-    },
-    {
-      "added_at": 1792960349.630968,
-      "ai": true,
-      "id": "3ed3a3d15d3e9c82e7b0d93108da4ae7d1418017",
-      "link": "https://portswigger.net/research/can-ai-do-novel-security-research",
-      "published": 1785958200.0,
-      "source": "PortSwigger Research",
-      "summary": "The study explores whether an autonomous AI can invent new attack techniques and hack live websites at scale. It presents the HTTP Terminator as a prototype system.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "Can AI do novel security research? Meet the HTTP Terminator"
-    },
-    {
-      "added_at": 1792960349.630968,
-      "ai": true,
-      "id": "79e897c47e9dbb7f2389b63cd0849329f8036a3c",
-      "link": "https://portswigger.net/blog/how-burp-at-helped-expose-whistleblower-reports-via-a-critical-vulnerability-that-was-overlooked-for-years",
-      "published": 1785854731.0,
-      "source": "PortSwigger Blog",
-      "summary": "Security Analyst Ray Huygen described how Burp AT identified a long-overlooked critical vulnerability that exposed whistleblower reports. The discovery significantly increased productivity.",
-      "tags": [
-        "#appsec"
-      ],
-      "title": "How Burp AT helped expose whistleblower reports via a critical vulnerability that was overlooked for years"
-    },
-    {
-      "added_at": 1792960349.630968,
-      "ai": true,
-      "id": "67fd3a038414cc99ab98b7401a56dbc818441949",
-      "link": "https://www.intigriti.com/blog/news/intigriti-named-new-provider-for-adobes-bug-bounty-program",
-      "published": 1785801600.0,
-      "source": "Intigriti",
-      "summary": "Starting September 1, 2026, Intigriti will manage Adobe's Bug Bounty Program. The partnership leverages Intigriti's global researcher community to keep pace with AI-driven product development.",
-      "tags": [
-        "#bugbounty"
-      ],
-      "title": "Intigriti named new provider for Adobe's Bug Bounty Program"
-    },
-    {
-      "added_at": 1792960349.630968,
-      "ai": true,
-      "id": "af6959625ff3bf0ddd8b8f84b4ff855055929511",
-      "link": "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-july-2026/",
-      "published": 1785507255.0,
-      "source": "WeLiveSecurity",
-      "summary": "Tony Anscombe's July 2026 security roundup covered OpenAI model incidents, the first agentic ransomware operation, and an emerging AI-driven supply chain threat.",
-      "tags": [],
-      "title": "This month in security with Tony Anscombe – July 2026 edition"
-    },
-    {
       "added_at": 1793017721.3490288,
       "ai": true,
       "id": "680a1bdeb1056a7b4fbae6dd1d45bb22c9f39e9f",
@@ -1853,6 +1366,459 @@
         "#opinion"
       ],
       "title": "Possible new Cellebrite iPhone Radio Zero-Day"
+    },
+    {
+      "added_at": 1793138159.3553813,
+      "ai": true,
+      "id": "003902bc855556173275bea0fb9d1d3d3eb9aab7",
+      "link": "https://cyberscoop.com/openai-ai-generated-bug-reports/",
+      "published": 1793136087.0,
+      "source": "CyberScoop",
+      "summary": "OpenAI advises higher-quality AI bug reports and better coordination to reduce overload on open-source maintainers.\nThe guidance focuses on improving report quality and streamlining communication.",
+      "tags": [],
+      "title": "Before you file that AI bug report, OpenAI has some advice"
+    },
+    {
+      "added_at": 1793138159.3553813,
+      "ai": true,
+      "id": "2db299f6a19064cf5c46d2d279c81e1818ccd7d0",
+      "link": "https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability",
+      "published": 1793135703.0,
+      "source": "darkreading",
+      "summary": "Cyber leaders can mitigate AI liability by documenting usage, ensuring transparency, and negotiating smart contracts with vendors.\nThese steps help clarify responsibilities and reduce legal exposure.",
+      "tags": [],
+      "title": "3 Frameworks to Protect CISOs & Orgs Against AI Liability"
+    },
+    {
+      "added_at": 1793138159.3553813,
+      "ai": true,
+      "id": "7477a331e67ff22c65655c78b0940006f3901e11",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/",
+      "published": 1793134645.0,
+      "source": "BleepingComputer",
+      "summary": "Hackers compromised Convertr's shared analytics script to skim credit card data during checkout.\nThe breach exposed shoppers' payment information to a skimming group.",
+      "tags": [],
+      "title": "Hackers hijack Convertr analytics script to steal payment card data"
+    },
+    {
+      "added_at": 1793138159.3553813,
+      "ai": true,
+      "id": "e7767410559634bd76ccf9d97163ef03a10baeb6",
+      "link": "https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path",
+      "published": 1793133760.0,
+      "source": "darkreading",
+      "summary": "A social engineering campaign linked to Black Basta ransomware is delivering malware via external team chats.\nThe attacks target organizations through compromised communication channels.",
+      "tags": [],
+      "title": "External Teams Chats Anchor 15-Minute Malware Delivery"
+    },
+    {
+      "added_at": 1793138159.3553813,
+      "ai": true,
+      "id": "d319090e160b96e5ed4f84cac85b346e14aa2705",
+      "link": "https://cyberscoop.com/anthropic-ipo-filing-cybersecurity-risks/",
+      "published": 1793133676.0,
+      "source": "CyberScoop",
+      "summary": "Anthropic highlights AI security risks before its IPO, noting that profit motives may influence decision-making.\nThe company emphasizes the need for robust safeguards as it prepares for public markets.",
+      "tags": [],
+      "title": "All the security risks Anthropic is worried about before its IPO"
+    },
+    {
+      "added_at": 1793138159.3553813,
+      "ai": true,
+      "id": "2f6663d0ce966b034290bdacc9eba593665ca66b",
+      "link": "https://therecord.media/nefilim-hive-ransomware-operator-70-months-prison",
+      "published": 1793133600.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "Ukrainian national Artem Stryzhak received a 5+ year sentence for involvement in Hive and Nefilim ransomware operations.\nHe pleaded guilty to charges related to multiple high-profile attacks.",
+      "tags": [
+        "#news"
+      ],
+      "title": "Nefilim, Hive ransomware operator given five-year-plus sentence after guilty plea"
+    },
+    {
+      "added_at": 1793138159.3553813,
+      "ai": true,
+      "id": "c75ce4708bf6d3074e0ab0c128aae3e5487462bf",
+      "link": "https://therecord.media/malaysian-national-indicted-after-scam-centers-raid-madagascar",
+      "published": 1793129400.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "The U.S. DOJ indicted a Malaysian national involved in a Madagascar scam operation, illustrating the global reach of scam centers.\nThe case involved a sting operation in Madagascar and five foreign nationals.",
+      "tags": [
+        "#news"
+      ],
+      "title": "US indicts Malaysian national after Madagascar scam operation uncovered"
+    },
+    {
+      "added_at": 1793138159.3553813,
+      "ai": true,
+      "id": "004c185054dc7de7219af1aa37378a49f00d5b80",
+      "link": "https://www.theregister.com/security/2026/10/27/ai-hacker-finds-4-severe-bugs-in-popular-industrial-control-software-in-under-4-hours/5305811",
+      "published": 1793128262.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "An AI-powered tester discovered four severe EPICS bugs in industrial control software in under four hours.\nThe bugs include one critical and three high-severity issues that could disrupt research experiments.",
+      "tags": [],
+      "title": "AI 'hacker' finds 4 severe bugs in popular industrial control software in under 4 hours"
+    },
+    {
+      "added_at": 1793138159.3553813,
+      "ai": true,
+      "id": "f9ab7d3feda96e64e8a8d8db6569d1c72ad63f78",
+      "link": "https://cyberscoop.com/nefilim-hive-ransomware-affiliate-artem-stryzhak-sentenced/",
+      "published": 1793126021.0,
+      "source": "CyberScoop",
+      "summary": "Artem Stryzhak was sentenced to 70 months for ransomware attacks on hospitals, government, and law firms from 2018-2021.\nHis actions impacted multiple sectors over several years.",
+      "tags": [],
+      "title": "Prolific Hive and Nefilim ransomware affiliate sentenced to 70 months in prison"
+    },
+    {
+      "added_at": 1793138159.3553813,
+      "ai": true,
+      "id": "d09366a97fc830949e991e69ae964e4915553225",
+      "link": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
+      "published": 1793125606.0,
+      "source": "The Hacker News",
+      "summary": "CyberStrikeAI used 44 AI agents to automate hacking against Japanese targets.\nThe attacks employed AI to drive or assist human operators in compromising server environments.",
+      "tags": [],
+      "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets"
+    },
+    {
+      "added_at": 1793138159.3553813,
+      "ai": true,
+      "id": "9df47a48bc7e9c437524c456a5fafef1ab7430ed",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/",
+      "published": 1793125228.0,
+      "source": "BleepingComputer",
+      "summary": "Microsoft issued out‑of‑band Windows updates to remove trust in certificates linked to compromised eMudhra CA keys, protecting systems that do not receive automatic trust updates.",
+      "tags": [],
+      "title": "Microsoft releases Windows OOB updates to distrust eMudhra certificates"
+    },
+    {
+      "added_at": 1793138159.3553813,
+      "ai": true,
+      "id": "a8008ad652a3fd552b1b9616fad2deb1b859cd23",
+      "link": "https://www.darkreading.com/cybersecurity-operations/ai-kill-off-cybersecurity-pros-skills",
+      "published": 1793122987.0,
+      "source": "darkreading",
+      "summary": "Author Nathan Hamiel warns that AI could erode core technical skills of cybersecurity professionals, comparing it to obsolete knowledge such as reading atlases or remembering phone numbers.",
+      "tags": [],
+      "title": "Beware the Slasher: AI Could Kill Off Cybersecurity Pros' Skills"
+    },
+    {
+      "added_at": 1793138159.3553813,
+      "ai": true,
+      "id": "18000dc0a6c96cea4da0ab320314502f24ffa3ac",
+      "link": "https://www.helpnetsecurity.com/2026/10/27/node2shell-broccoli2shell-vulnerability-cve-2026-111497/",
+      "published": 1793122731.0,
+      "source": "Help Net Security",
+      "summary": "A remote out‑of‑bounds write flaw in the Brotli compression library (CVE‑2026‑111497) threatens many applications, including Node.js, potentially enabling code execution.",
+      "tags": [],
+      "title": "Brotli bug reaches far beyond Node.js (CVE-2026-111497)"
+    },
+    {
+      "added_at": 1793138159.3553813,
+      "ai": true,
+      "id": "c64d4188c21b1cf3ed50ae45d9f62a9e893829d7",
+      "link": "https://www.darkreading.com/endpoint-security/aokigahara-stealer-developer-keyrings-ai-assistants",
+      "published": 1793119640.0,
+      "source": "darkreading",
+      "summary": "The Aokigahara malware steals AI session data, developer keyrings, and business information from compromised endpoints, extending traditional infostealer tactics.",
+      "tags": [],
+      "title": "'Aokigahara' Stealer Targets 'Developer Keyrings' & AI Assistants"
+    },
+    {
+      "added_at": 1793138159.3553813,
+      "ai": true,
+      "id": "50f45dab6d6aa26bc1872152db8b4f3054bd24f3",
+      "link": "https://www.infosecurity-magazine.com/news/cyber-unmhealth-surgeries/",
+      "published": 1793119500.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "A ransomware attack by the BYOD group disrupted UNM Health systems, causing surgery cancellations and ambulance diversions while recovery efforts begin.",
+      "tags": [],
+      "title": "Cyber Incident Forces UNM Health to Cancel Surgeries, Divert Ambulances"
+    },
+    {
+      "added_at": 1793138159.3553813,
+      "ai": true,
+      "id": "db852607b1360578df6a7bf6aab090b0fea2f25e",
+      "link": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
+      "published": 1793117739.0,
+      "source": "BleepingComputer",
+      "summary": "Warp disclosed that a third‑party vendor breach exposed agent decision logs and telemetry data for users of its agentic development environment.",
+      "tags": [],
+      "title": "Warp discloses breach exposing AI agent logs, user telemetry data"
+    },
+    {
+      "added_at": 1793138159.3553813,
+      "ai": true,
+      "id": "bee2c07a4262e07b619ab33ad3b14372faad6b41",
+      "link": "https://www.theregister.com/cyber-crime/2026/10/27/day-2-of-canceled-classes-at-university-of-new-mexico-after-health-sciences-center-cyberattack/5305690",
+      "published": 1793117700.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "UNM hospitals resume patient intake after initial ambulance diversion, but recovery continues in phases following the cyberattack.",
+      "tags": [],
+      "title": "Day 2 of canceled classes at University of New Mexico after Health Sciences Center cyberattack"
+    },
+    {
+      "added_at": 1793138159.3553813,
+      "ai": true,
+      "id": "3c283067060948d4564514dbd36ffc2e0611564d",
+      "link": "https://www.infosecurity-magazine.com/news/openai-compaction-flaw-ai/",
+      "published": 1793116800.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "Researchers discovered a flaw in OpenAI’s API that leaked hidden reasoning traces, leading to a fix and a $6,000 bug bounty award.",
+      "tags": [],
+      "title": "OpenAI Compaction Flaw Exposed AI Reasoning to Researchers"
+    },
+    {
+      "added_at": 1793138159.3553813,
+      "ai": true,
+      "id": "820476dc1929c69bb12612cf9f83101feeda6c47",
+      "link": "https://www.securityweek.com/tailscale-rushes-patches-after-uncoordinated-disclosure-of-tailworm-flaws/",
+      "published": 1793114772.0,
+      "source": "SecurityWeek",
+      "summary": "Tailscale is issuing patches for SSH vulnerabilities disclosed publicly before fixes were available, addressing the uncoordinated “Tailworm” flaws.",
+      "tags": [],
+      "title": "Tailscale Rushes Patches After Uncoordinated Disclosure of ‘Tailworm’ Flaws"
+    },
+    {
+      "added_at": 1793138159.3553813,
+      "ai": true,
+      "id": "ce13d310ccf3837487839fa862a0aca972b05090",
+      "link": "https://cyberscoop.com/oncd-rural-hospital-cybersecurity-pilot-project-lifeline-250/",
+      "published": 1793114028.0,
+      "source": "CyberScoop",
+      "summary": "The national cyber director launched a six‑month pilot in South Carolina to connect rural hospitals with free industry cybersecurity services, following a similar water‑sector initiative.",
+      "tags": [],
+      "title": "National cyber director rolls out latest pilot in South Carolina, this time for rural hospitals"
+    },
+    {
+      "added_at": 1793138159.3553813,
+      "ai": true,
+      "id": "37ead5afc46237ea22b585e1516eb0a310d00e7e",
+      "link": "https://therecord.media/uk-police-data-breached-from-suppliers-watchdog-report",
+      "published": 1793113620.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "UK police data was breached multiple times this decade through third‑party IT suppliers. The breaches highlight ongoing supplier security weaknesses.",
+      "tags": [
+        "#news"
+      ],
+      "title": "Hackers repeatedly breached suppliers holding UK police data, watchdog finds"
+    },
+    {
+      "added_at": 1793138159.3553813,
+      "ai": true,
+      "id": "1607279398d99272b0c2337f949ee76a76201636",
+      "link": "https://www.infosecurity-magazine.com/news/isc2-launches-cyberai-workforce/",
+      "published": 1793113200.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "ISC2 has launched a vendor‑neutral Cyber‑AI Workforce Coalition to map future AI security careers. The coalition aims to align industry needs with workforce development.",
+      "tags": [],
+      "title": "ISC2 Launches Cyber-AI Workforce Coalition to Address the Future of AI Security Jobs"
+    },
+    {
+      "added_at": 1793138159.3553813,
+      "ai": true,
+      "id": "319765385a5579532c5121602974ca2505b7ecc1",
+      "link": "https://therecord.media/university-of-new-mexico-hospital-diverts-cyber-incident",
+      "published": 1793113020.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "The University of New Mexico hospital diverted ambulances for about two hours after a cyberattack. Outpatient surgeries and appointments were suspended for the rest of the day.",
+      "tags": [
+        "#news"
+      ],
+      "title": "University of New Mexico hospital diverts ambulances after cyberattack"
+    },
+    {
+      "added_at": 1793138159.3553813,
+      "ai": true,
+      "id": "6aac3b6503006f2e87688963ad72ea21b5c9dbc4",
+      "link": "https://www.theregister.com/cyber-crime/2026/10/27/cisa-confirms-php2shell-under-attack-as-researchers-clock-successful-exploits/5305681",
+      "published": 1793112300.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "CISA confirmed that PHP 2Shell vulnerabilities are actively exploited. Researchers reported successful shell exploits against both critical PHP flaws.",
+      "tags": [],
+      "title": "CISA confirms PHP2Shell under attack as researchers clock successful exploits"
+    },
+    {
+      "added_at": 1793138159.3553813,
+      "ai": true,
+      "id": "696ee508e20b6acef3f2a9bd16b256f101de4ff3",
+      "link": "https://portswigger.net/research/scalable-vector-grief",
+      "published": 1793111366.0,
+      "source": "PortSwigger Research",
+      "summary": "A researcher tested eight SVG sanitizers and bypassed six. A response header can run JavaScript in Firefox even when the XML body is harmless.",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Scalable Vector Grief"
+    },
+    {
+      "added_at": 1793138159.3553813,
+      "ai": true,
+      "id": "5533eece4578436660b9a7c14efa90f2200ed9d4",
+      "link": "https://www.helpnetsecurity.com/2026/10/27/microsoft-teams-social-engineering-fake-it-help-desk/",
+      "published": 1793110603.0,
+      "source": "Help Net Security",
+      "summary": "Threat actors flood employees’ inboxes with spam and then contact them on Microsoft Teams as fake IT support. Arctic Wolf documented more than 400 such incidents.",
+      "tags": [],
+      "title": "Hackers bury inboxes in spam then show up on Microsoft Teams posing as IT support"
+    },
+    {
+      "added_at": 1793138159.3553813,
+      "ai": true,
+      "id": "eeae20ed2a5aa36fd63a6bac411277131819172c",
+      "link": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
+      "published": 1793110186.0,
+      "source": "BleepingComputer",
+      "summary": "Tailscale identified almost a dozen SSH vulnerabilities that could allow credential theft, server crashes, or root privilege escalation. The team is working to patch them.",
+      "tags": [],
+      "title": "Tailscale warns of SSH flaws allowing root privilege escalation"
+    },
+    {
+      "added_at": 1793138159.3553813,
+      "ai": true,
+      "id": "b611ff4c270c9f39f0ba5be3297bc96b1c1e91aa",
+      "link": "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/",
+      "published": 1793109671.0,
+      "source": "BleepingComputer",
+      "summary": "Huntress Labs released the Tragic Quadrant ranking threats that abuse legitimate IT tools and Microsoft 365 sessions. The report highlights high‑impact attack techniques.",
+      "tags": [],
+      "title": "The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest"
+    },
+    {
+      "added_at": 1793138159.3553813,
+      "ai": true,
+      "id": "ae042a0b53b23466bf89375950c64ddfa0bb75a9",
+      "link": "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
+      "published": 1793109588.0,
+      "source": "The Hacker News",
+      "summary": "GoAhead’s embedded web server does not enforce certificate revocation, allowing revoked client certificates to authenticate. This flaw also enables session decryption.",
+      "tags": [],
+      "title": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption"
+    },
+    {
+      "added_at": 1793138159.3553813,
+      "ai": true,
+      "id": "0afa3606f14eb6615a23345716efacf6c3a89dd5",
+      "link": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
+      "published": 1793109549.0,
+      "source": "The Hacker News",
+      "summary": "Apple backported fixes for CVE‑2026‑86950, an out‑of‑bounds write in CoreGraphics, to older iPhones and iPads. The patch addresses arbitrary code execution from malicious files.",
+      "tags": [],
+      "title": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads"
+    },
+    {
+      "added_at": 1793138159.3553813,
+      "ai": true,
+      "id": "37d79b8322984cf8d605e9fd15b4ff759fbbf343",
+      "link": "https://therecord.media/malicious-apps-russian-anxiety-gas-prices-drone-strikes",
+      "published": 1793108160.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "Cybercriminals embed infostealer malware in fake apps that track gas prices, police activity, and drone strikes, targeting Russian users.",
+      "tags": [
+        "#news"
+      ],
+      "title": "Malicious apps prey on Russians’ anxiety about fuel prices, drone strikes"
+    },
+    {
+      "added_at": 1793138159.3553813,
+      "ai": true,
+      "id": "41ce8592d3fbb761181f42c1c2cd476bc0f6c664",
+      "link": "https://www.securityweek.com/vendor-key-leak-puts-data-of-238000-denver-health-plan-members-at-risk/",
+      "published": 1793107828.0,
+      "source": "SecurityWeek",
+      "summary": "A leaked SquareML access key could allow unauthorized access to a database containing personal and health information for 238,000 Denver Health Plan members.",
+      "tags": [],
+      "title": "Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk"
+    },
+    {
+      "added_at": 1793138159.3553813,
+      "ai": true,
+      "id": "1251ca83af9a00a8982471ff7570f5446d6b99a0",
+      "link": "https://www.helpnetsecurity.com/2026/10/27/socure-agent-intelligence/",
+      "published": 1793107711.0,
+      "source": "Help Net Security",
+      "summary": "Socure launched Agent Intelligence to detect AI agents, assess their trustworthiness, and link each agent to the verified person or business that authorized it.",
+      "tags": [],
+      "title": "Socure links AI agents to verified people and businesses"
+    },
+    {
+      "added_at": 1793138159.3553813,
+      "ai": true,
+      "id": "243406f675bd1aee28aab0a009f9c24709a0c230",
+      "link": "https://www.securityweek.com/hpe-patches-dozens-of-critical-flaws-in-networking-products/",
+      "published": 1793106838.0,
+      "source": "SecurityWeek",
+      "summary": "HPE released patches for eight high‑severity defects that could enable remote code execution or authentication bypass in its networking products.",
+      "tags": [],
+      "title": "HPE Patches Dozens of Critical Flaws in Networking Products"
+    },
+    {
+      "added_at": 1793138159.3553813,
+      "ai": true,
+      "id": "814945c68c268f38d24a2f9fc0f89cb331c22032",
+      "link": "https://www.helpnetsecurity.com/2026/10/27/sekoia-self-hosted/",
+      "published": 1793106719.0,
+      "source": "Help Net Security",
+      "summary": "Sekoia added a self‑hosted deployment option, enabling large organizations and regulated entities to run the SOC platform on their own infrastructure.",
+      "tags": [],
+      "title": "Sekoia introduces self-hosted deployment for organizations with strict data controls"
+    },
+    {
+      "added_at": 1793138159.3553813,
+      "ai": true,
+      "id": "05abb43d9baf5f9f0fb8861b3420fa30ff080ce3",
+      "link": "https://www.helpnetsecurity.com/2026/10/27/dnsfilter-luminate/",
+      "published": 1793106049.0,
+      "source": "Help Net Security",
+      "summary": "DNSFilter introduced LUMINATE, a platform that consolidates DNS security, AI risk controls, and remote‑work protection into a single agent and console.",
+      "tags": [],
+      "title": "DNSFilter LUMINATE unifies DNS security, AI controls and remote work protection"
+    },
+    {
+      "added_at": 1793138159.3553813,
+      "ai": true,
+      "id": "beeec944f8596eae7ff54186258a96110af372b1",
+      "link": "https://www.helpnetsecurity.com/2026/10/27/firemon-agentic-ai/",
+      "published": 1793105464.0,
+      "source": "Help Net Security",
+      "summary": "FireMon unveiled Agentic AI, allowing network security teams to use AI agents for investigating access and drafting policy changes within their management suite.",
+      "tags": [],
+      "title": "FireMon Agentic AI helps teams investigate access and prepare policy changes"
+    },
+    {
+      "added_at": 1793138159.3553813,
+      "ai": true,
+      "id": "22418d85686927223f1e74e48859de98be66c78a",
+      "link": "https://www.helpnetsecurity.com/2026/10/27/exeon-expands-threat-detection-to-shadow-ai-and-autonomous-agents/",
+      "published": 1793104568.0,
+      "source": "Help Net Security",
+      "summary": "Exeon Analytics launched Exeon.AgentGuard to provide visibility into approved and shadow AI usage, autonomous agent activity, and associated data flows.",
+      "tags": [],
+      "title": "Exeon expands threat detection to shadow AI and autonomous agents"
+    },
+    {
+      "added_at": 1793138159.3553813,
+      "ai": true,
+      "id": "04758badbb9d8b091eee60c58454f3f6f97a6606",
+      "link": "https://www.infosecurity-magazine.com/news/exploit-teams-chat-breach/",
+      "published": 1793104200.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "Arctic Wolf warned that Microsoft Teams external chat can be exploited for rapid social engineering attacks, enabling breaches in under 15 minutes.",
+      "tags": [],
+      "title": "Attackers Exploit Teams External Chat to Breach Organizations in Under 15 Minutes"
+    },
+    {
+      "added_at": 1793138159.3553813,
+      "ai": true,
+      "id": "e0a16a2e2ffa5c2ee3e1f033afa42d5c274143db",
+      "link": "https://www.theregister.com/security/2026/10/27/microsoft-releases-out-of-band-windows-fixes-with-certificate-updates/5305637",
+      "published": 1793104200.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "Microsoft issued out‑of‑band Windows updates that include certificate trust list changes, addressing issues related to eMudhra and other certificate authorities.",
+      "tags": [],
+      "title": "Microsoft releases out-of-band Windows fixes with certificate updates"
     }
   ],
   "posted": []
