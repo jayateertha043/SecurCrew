@@ -1,7 +1,401 @@
 {
-  "generated_at": 1793138159.36458,
-  "count": 145,
+  "generated_at": 1793190053.9329894,
+  "count": 185,
   "items": [
+    {
+      "title": "Hackers now scanning systems for recently-patched Oracle flaw",
+      "summary": "Attackers have begun probing the Internet for systems unpatched against a recently disclosed critical Oracle E-Business Suite (EBS) vulnerability. [...]",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/",
+      "published": 1793189997.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1793190053.9224098
+    },
+    {
+      "title": "Ukrainian ransomware hacker sentenced, $11 million reward offered for co-conspirator",
+      "summary": "<p>A Ukrainian national who participated in ransomware attacks targeting hospitals, government entities, law firms, and other businesses was sentenced to five years and 10 months in prison. Artem Stryzhak, 36, pleaded…",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/28/doj-ukrainian-ransomware-hacker-sentenced/",
+      "published": 1793189853.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1793190053.9224098
+    },
+    {
+      "title": "China-Linked Hackers Exploit PHP2Shell to Root Firewalls",
+      "summary": "<p>The attackers chained PHP2Shell and Fragnesia exploits and hacked two servers of a US government-affiliated organization.</p> <p>The post <a…",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/china-linked-hackers-exploit-php2shell-to-root-firewalls/",
+      "published": 1793188859.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1793190053.9224098
+    },
+    {
+      "title": "Cisco open sources tool for detecting AI agents on hacking sprees",
+      "summary": "Project Quarry aims to provide a 'shared language' for evaluating agent behavior",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/10/28/cisco-open-sources-tool-for-detecting-ai-agents-on-hacking-sprees/5305867",
+      "published": 1793188800.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1793190053.9224098
+    },
+    {
+      "title": "FBI seizes ‘bulletproof’ hosting site accused of facilitating child abuse, money laundering",
+      "summary": "The FBI seized the domain of a “bulletproof” hosting provider accused of facilitating a range of cybercrimes, including money laundering and the distribution of child sexual abuse material.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/fbi-seizure-csam-virtualine",
+      "published": 1793188800.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": false,
+      "status": "queued",
+      "ts": 1793190053.9224098
+    },
+    {
+      "title": "123 Reg discloses 'AI cyberattack' on customer data, suspects China nexus",
+      "summary": "Company chiefs believe the attackers could be the same as those who used ARTEX to breach South Korea’s financial giants",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/cyber-crime/2026/10/28/123-reg-discloses-ai-cyberattack-on-customer-data-suspects-china-nexus/5305936",
+      "published": 1793187900.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1793190053.9224098
+    },
+    {
+      "title": "FBI seizes Virtualine, bulletproof hosting provider that promised to shield criminals from police",
+      "summary": "<p>The FBI has seized virtualine.net, the domain of a bulletproof hosting provider that laundered money for its criminal customers and kept a forum trading in child sexual abuse material online despite repeated warnings…",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/28/fbi-seizure-virtualine-bulletproof-hosting-domain/",
+      "published": 1793187661.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1793190053.9224098
+    },
+    {
+      "title": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
+      "summary": "Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary code execution, security feature bypass, and privilege escalation.…",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
+      "published": 1793186151.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1793190053.9224098
+    },
+    {
+      "title": "Studying Fraudulent North Korean IT Workers",
+      "summary": "<p>Researchers set up a fake start-up company to <a href=\"https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html\">study</a> fraudulent North Korean IT workers.</p>",
+      "source": "Schneier on Security",
+      "link": "https://www.schneier.com/blog/archives/2026/10/studying-fraudulent-north-korean-it-workers.html",
+      "published": 1793185500.0,
+      "tags": [
+        "#opinion"
+      ],
+      "ai": false,
+      "status": "queued",
+      "ts": 1793190053.9224098
+    },
+    {
+      "title": "Long-Hidden Flaws Patched in EPICS Research Facility Control Software",
+      "summary": "<p>Four EPICS Base flaws found by an autonomous system could let attackers crash processes at particle accelerators and fusion labs.</p> <p>The post <a…",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/long-hidden-flaws-patched-in-epics-research-facility-control-software/",
+      "published": 1793184480.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1793190053.9224098
+    },
+    {
+      "title": "CISA warns of hackers now exploiting critical Node2Shell flaw",
+      "summary": "On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Shell. [...]",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
+      "published": 1793184383.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1793190053.9224098
+    },
+    {
+      "title": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
+      "summary": "Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Attackers can abuse legitimate cloud services, authentication mechanisms, and trusted business workflows to…",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
+      "published": 1793183400.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1793190053.9224098
+    },
+    {
+      "title": "Nobody Trusts the Security Questionnaire. We Rely on It Anyway.",
+      "summary": "<p>The process that gates nearly every B2B deal is a self-assessment the sender distrusts and the receiver accepts. There is finally a better basis for trust between companies.</p> <p>The post <a…",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/nobody-trusts-the-security-questionnaire-we-rely-on-it-anyway/",
+      "published": 1793183400.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1793190053.9224098
+    },
+    {
+      "title": "Data breach at Sony-owned internet provider compromises 2.6 million customer records",
+      "summary": "<p>Attackers who broke into the So-net member database made off with personal information belonging to more than 2.58 million current and former customers, along with the email passwords of 54,401 users, Sony Network…",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/28/sony-network-communications-data-breach-so-net/",
+      "published": 1793182689.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1793190053.9224098
+    },
+    {
+      "title": "Millions of security cameras at risk: DoS vulnerability in Intelbras devices",
+      "summary": "During our research, we discovered a denial-of-service vulnerability that could affect millions of Intelbras IP camera systems built on the platform platform of a popular Chinese manufacturer.",
+      "source": "Securelist",
+      "link": "https://securelist.com/intelbras-camera-vulnerability/121131/",
+      "published": 1793181618.0,
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "ai": false,
+      "status": "queued",
+      "ts": 1793190053.9224098
+    },
+    {
+      "title": "Secrets Management Firm Infisical Valued at $600 Million After $40 Million Raise",
+      "summary": "<p>The company will use the Series B funds to expand its platform for securing AI agents’ access to sensitive systems.</p> <p>The post <a…",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/secrets-management-firm-infisical-valued-at-600-million-after-40-million-raise/",
+      "published": 1793180904.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1793190053.9224098
+    },
+    {
+      "title": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
+      "summary": "A Ukrainian national was sentenced to 70 months in prison for his role in ransomware attacks targeting hospitals, government entities, and high-revenue businesses worldwide between 2018 and 2021. [...]",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/",
+      "published": 1793180595.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1793190053.9224098
+    },
+    {
+      "title": "CISA updates ScubaGear and ScubaGoggles, and says Microsoft 365 checks get faster",
+      "summary": "<p>CISA released ScubaGear v2.0 and ScubaGoggles v1.1.0, new versions of the open-source tools it publishes to check Microsoft 365 and Google Workspace settings against its security baselines. The agency calls ScubaGear…",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/28/cisa-scubagear-scubagoggles-update/",
+      "published": 1793180297.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1793190053.9224098
+    },
+    {
+      "title": "Hackers Start Probing Fresh Oracle EBS Vulnerability",
+      "summary": "<p>CVE-2026-101767 is an unauthenticated SQL injection that can be exploited for remote code execution.</p> <p>The post <a…",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/hackers-start-probing-fresh-oracle-ebs-vulnerability/",
+      "published": 1793178863.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1793190053.9224098
+    },
+    {
+      "title": "CISA Warns of Node2Shell Exploitation as Honeypots Log Attack Attempts",
+      "summary": "<p>CISA added the Brotli flaw to its KEV catalog, and two honeypot operators logged attempts, including one that used a broken exploit.</p> <p>The post <a…",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/cisa-warns-of-node2shell-exploitation-as-honeypots-log-attack-attempts/",
+      "published": 1793176644.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1793190053.9224098
+    },
+    {
+      "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
+      "summary": "An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report. The exploits were…",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
+      "published": 1793175307.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1793190053.9224098
+    },
+    {
+      "title": "FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering",
+      "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a domain associated with a bulletproof hosting provider (BPH) named Virtualine. The move was in response to the service being used to commit and…",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html",
+      "published": 1793173070.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1793190053.9224098
+    },
+    {
+      "title": "Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach",
+      "summary": "Japan's GMO Internet Group is offering up to $1 million in total for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after refusing to pay an extortion demand. The reward program…",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html",
+      "published": 1793171601.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1793190053.9224098
+    },
+    {
+      "title": "Bellini Capital CISO on AI security governance and the limits of patching faster",
+      "summary": "<p>In this Help Net Security interview, Brian Blakley, CISO at Bellini Capital and ConnectSecure, explains why AI makes finding vulnerabilities faster while fixing them still takes time. He argues that “patch faster” is…",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/28/brian-blakley-bellini-capital-ai-security-governance/",
+      "published": 1793169035.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1793190053.9224098
+    },
+    {
+      "title": "Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers",
+      "summary": "Tailscale has released version 1.104.4 to fix flaws in its built-in SSH server that could let an attacker reach services and files on other servers that only the root user should be able to touch. The flaws are in how…",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html",
+      "published": 1793168437.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1793190053.9224098
+    },
+    {
+      "title": "ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws",
+      "summary": "The critical Oracle PeopleSoft bug that ShinyHunters has exploited since May is not one flaw but three chained together, the researchers who reported it said this week. Oracle patched all three under a single…",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html",
+      "published": 1793167498.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1793190053.9224098
+    },
+    {
+      "title": "AbuseBox: Open-source monitor for blacklists, DNS, SSL and email records",
+      "summary": "<p>AbuseBox is a free, open-source tool that checks IP addresses and domains against 60 DNS blacklists, pulls reputation scores from AbuseIPDB, inspects DNS, SSL and email-authentication records, and sends an alert when…",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/28/abusebox-open-source-ip-blacklist-monitoring/",
+      "published": 1793167245.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1793190053.9224098
+    },
+    {
+      "title": "Third Serengeti Sweep Tops 1,400 Arrests as Investigations Mature",
+      "summary": "Interpol's annual Operation Serengeti, now on its third iteration, led to 1,462 arrests across 20 African countries and the US, recovering $105 million in stolen funds.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature",
+      "published": 1793167200.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1793190053.9224098
+    },
+    {
+      "title": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two vulnerabilities impacting Adobe Commerce and Magento, and Google's Brotli decoder library to its Known Exploited Vulnerabilities…",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
+      "published": 1793166146.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1793190053.9224098
+    },
+    {
+      "title": "NIST starts the countdown to retire quantum-vulnerable encryption",
+      "summary": "<p>The National Institute of Standards and Technology (NIST) has released a roadmap for moving to post-quantum cryptography (PQC), with earlier deadlines for certain sensitive federal systems. The report, Transition to…",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/28/nist-post-quantum-cryptography-migration-roadmap/",
+      "published": 1793165429.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1793190053.9224098
+    },
+    {
+      "title": "Breach victims discover their data was held by companies they’ve never heard of",
+      "summary": "<p>Nearly seven in ten people affected by data breaches handled by Kroll were exposed through an outside supplier, according to its Data Breach Outlook 2026. Businesses rely on outside providers to store information,…",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/10/28/kroll-third-party-data-breaches-insurance-claims-report/",
+      "published": 1793163619.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1793190053.9224098
+    },
+    {
+      "title": "Exploiting LLM prompt injection vulnerabilities",
+      "summary": "Large language models (LLMs) are quickly becoming a standard component of any modern web application nowadays, powering everything from customer support chatbots to internal knowledge assistants. For us, security…",
+      "source": "Intigriti",
+      "link": "https://www.intigriti.com/researchers/blog/hacking-tools/exploiting-advanced-llm-prompt-injection-vulnerabilities",
+      "published": 1793145600.0,
+      "tags": [
+        "#bugbounty"
+      ],
+      "ai": false,
+      "status": "queued",
+      "ts": 1793190053.9224098
+    },
+    {
+      "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
+      "summary": "The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a ransomware attack…",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
+      "published": 1793144151.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1793190053.9224098
+    },
+    {
+      "title": "OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests",
+      "summary": "OpenAI confirmed GPT-6.1 Terra is safer overall than some of its older models, but its safety testing also found other problems. [...]",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/",
+      "published": 1793141007.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1793190053.9224098
+    },
+    {
+      "title": "UNM Health ransomware attack disrupts patient care, surgeries",
+      "summary": "The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities. [...]",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/",
+      "published": 1793138854.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1793190053.9224098
+    },
     {
       "title": "Before you file that AI bug report, OpenAI has some advice",
       "summary": "OpenAI advises higher-quality AI bug reports and better coordination to reduce overload on open-source maintainers.\nThe guidance focuses on improving report quality and streamlining communication.",
@@ -69,6 +463,17 @@
       "ai": true,
       "status": "queued",
       "ts": 1793138159.3553813
+    },
+    {
+      "title": "SBOMs Alone Can't Reveal the Scope of a Supply Chain Attack",
+      "summary": "A recent Shai-Hulud attack shows defenders need real-time visibility into production code and affected services to respond to supply chain compromises.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/cyber-risk/sboms-alone-scope-supply-chain-attack",
+      "published": 1793131086.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1793190053.9224098
     },
     {
       "title": "US indicts Malaysian national after Madagascar scam operation uncovered",
@@ -454,6 +859,55 @@
       "ai": true,
       "status": "queued",
       "ts": 1793138159.3553813
+    },
+    {
+      "title": "Simplify User Access Management with SCIM on Rapid7 Command Platform",
+      "summary": "<p style=\"direction: ltr;\"><span style=\"font-size: undefined;\">Managing access to security tools shouldn't require another manual process. As organizations grow, keeping user accounts and permissions up to date becomes…",
+      "source": "Rapid7 Cybersecurity Blog",
+      "link": "https://www.rapid7.com/blog/post/pt-scim-simplifies-user-access-management-uam-command-platform",
+      "published": 1793103844.0,
+      "tags": [
+        "#vulnerability"
+      ],
+      "ai": false,
+      "status": "queued",
+      "ts": 1793190053.9224098
+    },
+    {
+      "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
+      "summary": "Microsoft has fixed a flaw in its Authenticator app for Android that let a malicious app with no permissions pose as a trusted Microsoft app, such as Teams, and collect sign-in tokens for a victim's work account.…",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
+      "published": 1793102990.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1793190053.9224098
+    },
+    {
+      "title": "Unexplained DreamHost Incident Prompts Email, FTP Password Resets",
+      "summary": "<p>The company says it reacted to an issue affecting some of its systems, including DreamHost webmail.</p> <p>The post <a…",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/unexplained-dreamhost-incident-prompts-email-ftp-password-resets/",
+      "published": 1793102526.0,
+      "tags": [],
+      "ai": false,
+      "status": "queued",
+      "ts": 1793190053.9224098
+    },
+    {
+      "title": "An insecure neighbor: how a vulnerability chain led to an isolation bypass in cloud infrastructure",
+      "summary": "A Kaspersky expert presents a cloud isolation bypass case honored at Russian Pentest Award 2026. Learn how vulnerabilities in Kubernetes, Konnectivity, and the overlay network lead to RCE and compromise of other…",
+      "source": "Securelist",
+      "link": "https://securelist.com/cloud-infrastructure-isolation-bypass/121609/",
+      "published": 1793102419.0,
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "ai": false,
+      "status": "queued",
+      "ts": 1793190053.9224098
     },
     {
       "title": "Cyberattack on University of Copenhagen exposes data of 525,000 people",
