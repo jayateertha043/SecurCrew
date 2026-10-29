@@ -1,459 +1,6 @@
 {
   "pending": [
     {
-      "added_at": 1793138159.3553813,
-      "ai": true,
-      "id": "003902bc855556173275bea0fb9d1d3d3eb9aab7",
-      "link": "https://cyberscoop.com/openai-ai-generated-bug-reports/",
-      "published": 1793136087.0,
-      "source": "CyberScoop",
-      "summary": "OpenAI advises higher-quality AI bug reports and better coordination to reduce overload on open-source maintainers.\nThe guidance focuses on improving report quality and streamlining communication.",
-      "tags": [],
-      "title": "Before you file that AI bug report, OpenAI has some advice"
-    },
-    {
-      "added_at": 1793138159.3553813,
-      "ai": true,
-      "id": "2db299f6a19064cf5c46d2d279c81e1818ccd7d0",
-      "link": "https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability",
-      "published": 1793135703.0,
-      "source": "darkreading",
-      "summary": "Cyber leaders can mitigate AI liability by documenting usage, ensuring transparency, and negotiating smart contracts with vendors.\nThese steps help clarify responsibilities and reduce legal exposure.",
-      "tags": [],
-      "title": "3 Frameworks to Protect CISOs & Orgs Against AI Liability"
-    },
-    {
-      "added_at": 1793138159.3553813,
-      "ai": true,
-      "id": "7477a331e67ff22c65655c78b0940006f3901e11",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/",
-      "published": 1793134645.0,
-      "source": "BleepingComputer",
-      "summary": "Hackers compromised Convertr's shared analytics script to skim credit card data during checkout.\nThe breach exposed shoppers' payment information to a skimming group.",
-      "tags": [],
-      "title": "Hackers hijack Convertr analytics script to steal payment card data"
-    },
-    {
-      "added_at": 1793138159.3553813,
-      "ai": true,
-      "id": "e7767410559634bd76ccf9d97163ef03a10baeb6",
-      "link": "https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path",
-      "published": 1793133760.0,
-      "source": "darkreading",
-      "summary": "A social engineering campaign linked to Black Basta ransomware is delivering malware via external team chats.\nThe attacks target organizations through compromised communication channels.",
-      "tags": [],
-      "title": "External Teams Chats Anchor 15-Minute Malware Delivery"
-    },
-    {
-      "added_at": 1793138159.3553813,
-      "ai": true,
-      "id": "d319090e160b96e5ed4f84cac85b346e14aa2705",
-      "link": "https://cyberscoop.com/anthropic-ipo-filing-cybersecurity-risks/",
-      "published": 1793133676.0,
-      "source": "CyberScoop",
-      "summary": "Anthropic highlights AI security risks before its IPO, noting that profit motives may influence decision-making.\nThe company emphasizes the need for robust safeguards as it prepares for public markets.",
-      "tags": [],
-      "title": "All the security risks Anthropic is worried about before its IPO"
-    },
-    {
-      "added_at": 1793138159.3553813,
-      "ai": true,
-      "id": "2f6663d0ce966b034290bdacc9eba593665ca66b",
-      "link": "https://therecord.media/nefilim-hive-ransomware-operator-70-months-prison",
-      "published": 1793133600.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "Ukrainian national Artem Stryzhak received a 5+ year sentence for involvement in Hive and Nefilim ransomware operations.\nHe pleaded guilty to charges related to multiple high-profile attacks.",
-      "tags": [
-        "#news"
-      ],
-      "title": "Nefilim, Hive ransomware operator given five-year-plus sentence after guilty plea"
-    },
-    {
-      "added_at": 1793138159.3553813,
-      "ai": true,
-      "id": "c75ce4708bf6d3074e0ab0c128aae3e5487462bf",
-      "link": "https://therecord.media/malaysian-national-indicted-after-scam-centers-raid-madagascar",
-      "published": 1793129400.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "The U.S. DOJ indicted a Malaysian national involved in a Madagascar scam operation, illustrating the global reach of scam centers.\nThe case involved a sting operation in Madagascar and five foreign nationals.",
-      "tags": [
-        "#news"
-      ],
-      "title": "US indicts Malaysian national after Madagascar scam operation uncovered"
-    },
-    {
-      "added_at": 1793138159.3553813,
-      "ai": true,
-      "id": "004c185054dc7de7219af1aa37378a49f00d5b80",
-      "link": "https://www.theregister.com/security/2026/10/27/ai-hacker-finds-4-severe-bugs-in-popular-industrial-control-software-in-under-4-hours/5305811",
-      "published": 1793128262.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "An AI-powered tester discovered four severe EPICS bugs in industrial control software in under four hours.\nThe bugs include one critical and three high-severity issues that could disrupt research experiments.",
-      "tags": [],
-      "title": "AI 'hacker' finds 4 severe bugs in popular industrial control software in under 4 hours"
-    },
-    {
-      "added_at": 1793138159.3553813,
-      "ai": true,
-      "id": "f9ab7d3feda96e64e8a8d8db6569d1c72ad63f78",
-      "link": "https://cyberscoop.com/nefilim-hive-ransomware-affiliate-artem-stryzhak-sentenced/",
-      "published": 1793126021.0,
-      "source": "CyberScoop",
-      "summary": "Artem Stryzhak was sentenced to 70 months for ransomware attacks on hospitals, government, and law firms from 2018-2021.\nHis actions impacted multiple sectors over several years.",
-      "tags": [],
-      "title": "Prolific Hive and Nefilim ransomware affiliate sentenced to 70 months in prison"
-    },
-    {
-      "added_at": 1793138159.3553813,
-      "ai": true,
-      "id": "d09366a97fc830949e991e69ae964e4915553225",
-      "link": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
-      "published": 1793125606.0,
-      "source": "The Hacker News",
-      "summary": "CyberStrikeAI used 44 AI agents to automate hacking against Japanese targets.\nThe attacks employed AI to drive or assist human operators in compromising server environments.",
-      "tags": [],
-      "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets"
-    },
-    {
-      "added_at": 1793138159.3553813,
-      "ai": true,
-      "id": "9df47a48bc7e9c437524c456a5fafef1ab7430ed",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/",
-      "published": 1793125228.0,
-      "source": "BleepingComputer",
-      "summary": "Microsoft issued out‑of‑band Windows updates to remove trust in certificates linked to compromised eMudhra CA keys, protecting systems that do not receive automatic trust updates.",
-      "tags": [],
-      "title": "Microsoft releases Windows OOB updates to distrust eMudhra certificates"
-    },
-    {
-      "added_at": 1793138159.3553813,
-      "ai": true,
-      "id": "a8008ad652a3fd552b1b9616fad2deb1b859cd23",
-      "link": "https://www.darkreading.com/cybersecurity-operations/ai-kill-off-cybersecurity-pros-skills",
-      "published": 1793122987.0,
-      "source": "darkreading",
-      "summary": "Author Nathan Hamiel warns that AI could erode core technical skills of cybersecurity professionals, comparing it to obsolete knowledge such as reading atlases or remembering phone numbers.",
-      "tags": [],
-      "title": "Beware the Slasher: AI Could Kill Off Cybersecurity Pros' Skills"
-    },
-    {
-      "added_at": 1793138159.3553813,
-      "ai": true,
-      "id": "18000dc0a6c96cea4da0ab320314502f24ffa3ac",
-      "link": "https://www.helpnetsecurity.com/2026/10/27/node2shell-broccoli2shell-vulnerability-cve-2026-111497/",
-      "published": 1793122731.0,
-      "source": "Help Net Security",
-      "summary": "A remote out‑of‑bounds write flaw in the Brotli compression library (CVE‑2026‑111497) threatens many applications, including Node.js, potentially enabling code execution.",
-      "tags": [],
-      "title": "Brotli bug reaches far beyond Node.js (CVE-2026-111497)"
-    },
-    {
-      "added_at": 1793138159.3553813,
-      "ai": true,
-      "id": "c64d4188c21b1cf3ed50ae45d9f62a9e893829d7",
-      "link": "https://www.darkreading.com/endpoint-security/aokigahara-stealer-developer-keyrings-ai-assistants",
-      "published": 1793119640.0,
-      "source": "darkreading",
-      "summary": "The Aokigahara malware steals AI session data, developer keyrings, and business information from compromised endpoints, extending traditional infostealer tactics.",
-      "tags": [],
-      "title": "'Aokigahara' Stealer Targets 'Developer Keyrings' & AI Assistants"
-    },
-    {
-      "added_at": 1793138159.3553813,
-      "ai": true,
-      "id": "50f45dab6d6aa26bc1872152db8b4f3054bd24f3",
-      "link": "https://www.infosecurity-magazine.com/news/cyber-unmhealth-surgeries/",
-      "published": 1793119500.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "A ransomware attack by the BYOD group disrupted UNM Health systems, causing surgery cancellations and ambulance diversions while recovery efforts begin.",
-      "tags": [],
-      "title": "Cyber Incident Forces UNM Health to Cancel Surgeries, Divert Ambulances"
-    },
-    {
-      "added_at": 1793138159.3553813,
-      "ai": true,
-      "id": "db852607b1360578df6a7bf6aab090b0fea2f25e",
-      "link": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
-      "published": 1793117739.0,
-      "source": "BleepingComputer",
-      "summary": "Warp disclosed that a third‑party vendor breach exposed agent decision logs and telemetry data for users of its agentic development environment.",
-      "tags": [],
-      "title": "Warp discloses breach exposing AI agent logs, user telemetry data"
-    },
-    {
-      "added_at": 1793138159.3553813,
-      "ai": true,
-      "id": "bee2c07a4262e07b619ab33ad3b14372faad6b41",
-      "link": "https://www.theregister.com/cyber-crime/2026/10/27/day-2-of-canceled-classes-at-university-of-new-mexico-after-health-sciences-center-cyberattack/5305690",
-      "published": 1793117700.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "UNM hospitals resume patient intake after initial ambulance diversion, but recovery continues in phases following the cyberattack.",
-      "tags": [],
-      "title": "Day 2 of canceled classes at University of New Mexico after Health Sciences Center cyberattack"
-    },
-    {
-      "added_at": 1793138159.3553813,
-      "ai": true,
-      "id": "3c283067060948d4564514dbd36ffc2e0611564d",
-      "link": "https://www.infosecurity-magazine.com/news/openai-compaction-flaw-ai/",
-      "published": 1793116800.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "Researchers discovered a flaw in OpenAI’s API that leaked hidden reasoning traces, leading to a fix and a $6,000 bug bounty award.",
-      "tags": [],
-      "title": "OpenAI Compaction Flaw Exposed AI Reasoning to Researchers"
-    },
-    {
-      "added_at": 1793138159.3553813,
-      "ai": true,
-      "id": "820476dc1929c69bb12612cf9f83101feeda6c47",
-      "link": "https://www.securityweek.com/tailscale-rushes-patches-after-uncoordinated-disclosure-of-tailworm-flaws/",
-      "published": 1793114772.0,
-      "source": "SecurityWeek",
-      "summary": "Tailscale is issuing patches for SSH vulnerabilities disclosed publicly before fixes were available, addressing the uncoordinated “Tailworm” flaws.",
-      "tags": [],
-      "title": "Tailscale Rushes Patches After Uncoordinated Disclosure of ‘Tailworm’ Flaws"
-    },
-    {
-      "added_at": 1793138159.3553813,
-      "ai": true,
-      "id": "ce13d310ccf3837487839fa862a0aca972b05090",
-      "link": "https://cyberscoop.com/oncd-rural-hospital-cybersecurity-pilot-project-lifeline-250/",
-      "published": 1793114028.0,
-      "source": "CyberScoop",
-      "summary": "The national cyber director launched a six‑month pilot in South Carolina to connect rural hospitals with free industry cybersecurity services, following a similar water‑sector initiative.",
-      "tags": [],
-      "title": "National cyber director rolls out latest pilot in South Carolina, this time for rural hospitals"
-    },
-    {
-      "added_at": 1793138159.3553813,
-      "ai": true,
-      "id": "37ead5afc46237ea22b585e1516eb0a310d00e7e",
-      "link": "https://therecord.media/uk-police-data-breached-from-suppliers-watchdog-report",
-      "published": 1793113620.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "UK police data was breached multiple times this decade through third‑party IT suppliers. The breaches highlight ongoing supplier security weaknesses.",
-      "tags": [
-        "#news"
-      ],
-      "title": "Hackers repeatedly breached suppliers holding UK police data, watchdog finds"
-    },
-    {
-      "added_at": 1793138159.3553813,
-      "ai": true,
-      "id": "1607279398d99272b0c2337f949ee76a76201636",
-      "link": "https://www.infosecurity-magazine.com/news/isc2-launches-cyberai-workforce/",
-      "published": 1793113200.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "ISC2 has launched a vendor‑neutral Cyber‑AI Workforce Coalition to map future AI security careers. The coalition aims to align industry needs with workforce development.",
-      "tags": [],
-      "title": "ISC2 Launches Cyber-AI Workforce Coalition to Address the Future of AI Security Jobs"
-    },
-    {
-      "added_at": 1793138159.3553813,
-      "ai": true,
-      "id": "319765385a5579532c5121602974ca2505b7ecc1",
-      "link": "https://therecord.media/university-of-new-mexico-hospital-diverts-cyber-incident",
-      "published": 1793113020.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "The University of New Mexico hospital diverted ambulances for about two hours after a cyberattack. Outpatient surgeries and appointments were suspended for the rest of the day.",
-      "tags": [
-        "#news"
-      ],
-      "title": "University of New Mexico hospital diverts ambulances after cyberattack"
-    },
-    {
-      "added_at": 1793138159.3553813,
-      "ai": true,
-      "id": "6aac3b6503006f2e87688963ad72ea21b5c9dbc4",
-      "link": "https://www.theregister.com/cyber-crime/2026/10/27/cisa-confirms-php2shell-under-attack-as-researchers-clock-successful-exploits/5305681",
-      "published": 1793112300.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "CISA confirmed that PHP 2Shell vulnerabilities are actively exploited. Researchers reported successful shell exploits against both critical PHP flaws.",
-      "tags": [],
-      "title": "CISA confirms PHP2Shell under attack as researchers clock successful exploits"
-    },
-    {
-      "added_at": 1793138159.3553813,
-      "ai": true,
-      "id": "696ee508e20b6acef3f2a9bd16b256f101de4ff3",
-      "link": "https://portswigger.net/research/scalable-vector-grief",
-      "published": 1793111366.0,
-      "source": "PortSwigger Research",
-      "summary": "A researcher tested eight SVG sanitizers and bypassed six. A response header can run JavaScript in Firefox even when the XML body is harmless.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "Scalable Vector Grief"
-    },
-    {
-      "added_at": 1793138159.3553813,
-      "ai": true,
-      "id": "5533eece4578436660b9a7c14efa90f2200ed9d4",
-      "link": "https://www.helpnetsecurity.com/2026/10/27/microsoft-teams-social-engineering-fake-it-help-desk/",
-      "published": 1793110603.0,
-      "source": "Help Net Security",
-      "summary": "Threat actors flood employees’ inboxes with spam and then contact them on Microsoft Teams as fake IT support. Arctic Wolf documented more than 400 such incidents.",
-      "tags": [],
-      "title": "Hackers bury inboxes in spam then show up on Microsoft Teams posing as IT support"
-    },
-    {
-      "added_at": 1793138159.3553813,
-      "ai": true,
-      "id": "eeae20ed2a5aa36fd63a6bac411277131819172c",
-      "link": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
-      "published": 1793110186.0,
-      "source": "BleepingComputer",
-      "summary": "Tailscale identified almost a dozen SSH vulnerabilities that could allow credential theft, server crashes, or root privilege escalation. The team is working to patch them.",
-      "tags": [],
-      "title": "Tailscale warns of SSH flaws allowing root privilege escalation"
-    },
-    {
-      "added_at": 1793138159.3553813,
-      "ai": true,
-      "id": "b611ff4c270c9f39f0ba5be3297bc96b1c1e91aa",
-      "link": "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/",
-      "published": 1793109671.0,
-      "source": "BleepingComputer",
-      "summary": "Huntress Labs released the Tragic Quadrant ranking threats that abuse legitimate IT tools and Microsoft 365 sessions. The report highlights high‑impact attack techniques.",
-      "tags": [],
-      "title": "The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest"
-    },
-    {
-      "added_at": 1793138159.3553813,
-      "ai": true,
-      "id": "ae042a0b53b23466bf89375950c64ddfa0bb75a9",
-      "link": "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
-      "published": 1793109588.0,
-      "source": "The Hacker News",
-      "summary": "GoAhead’s embedded web server does not enforce certificate revocation, allowing revoked client certificates to authenticate. This flaw also enables session decryption.",
-      "tags": [],
-      "title": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption"
-    },
-    {
-      "added_at": 1793138159.3553813,
-      "ai": true,
-      "id": "0afa3606f14eb6615a23345716efacf6c3a89dd5",
-      "link": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
-      "published": 1793109549.0,
-      "source": "The Hacker News",
-      "summary": "Apple backported fixes for CVE‑2026‑86950, an out‑of‑bounds write in CoreGraphics, to older iPhones and iPads. The patch addresses arbitrary code execution from malicious files.",
-      "tags": [],
-      "title": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads"
-    },
-    {
-      "added_at": 1793138159.3553813,
-      "ai": true,
-      "id": "37d79b8322984cf8d605e9fd15b4ff759fbbf343",
-      "link": "https://therecord.media/malicious-apps-russian-anxiety-gas-prices-drone-strikes",
-      "published": 1793108160.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "Cybercriminals embed infostealer malware in fake apps that track gas prices, police activity, and drone strikes, targeting Russian users.",
-      "tags": [
-        "#news"
-      ],
-      "title": "Malicious apps prey on Russians’ anxiety about fuel prices, drone strikes"
-    },
-    {
-      "added_at": 1793138159.3553813,
-      "ai": true,
-      "id": "41ce8592d3fbb761181f42c1c2cd476bc0f6c664",
-      "link": "https://www.securityweek.com/vendor-key-leak-puts-data-of-238000-denver-health-plan-members-at-risk/",
-      "published": 1793107828.0,
-      "source": "SecurityWeek",
-      "summary": "A leaked SquareML access key could allow unauthorized access to a database containing personal and health information for 238,000 Denver Health Plan members.",
-      "tags": [],
-      "title": "Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk"
-    },
-    {
-      "added_at": 1793138159.3553813,
-      "ai": true,
-      "id": "1251ca83af9a00a8982471ff7570f5446d6b99a0",
-      "link": "https://www.helpnetsecurity.com/2026/10/27/socure-agent-intelligence/",
-      "published": 1793107711.0,
-      "source": "Help Net Security",
-      "summary": "Socure launched Agent Intelligence to detect AI agents, assess their trustworthiness, and link each agent to the verified person or business that authorized it.",
-      "tags": [],
-      "title": "Socure links AI agents to verified people and businesses"
-    },
-    {
-      "added_at": 1793138159.3553813,
-      "ai": true,
-      "id": "243406f675bd1aee28aab0a009f9c24709a0c230",
-      "link": "https://www.securityweek.com/hpe-patches-dozens-of-critical-flaws-in-networking-products/",
-      "published": 1793106838.0,
-      "source": "SecurityWeek",
-      "summary": "HPE released patches for eight high‑severity defects that could enable remote code execution or authentication bypass in its networking products.",
-      "tags": [],
-      "title": "HPE Patches Dozens of Critical Flaws in Networking Products"
-    },
-    {
-      "added_at": 1793138159.3553813,
-      "ai": true,
-      "id": "814945c68c268f38d24a2f9fc0f89cb331c22032",
-      "link": "https://www.helpnetsecurity.com/2026/10/27/sekoia-self-hosted/",
-      "published": 1793106719.0,
-      "source": "Help Net Security",
-      "summary": "Sekoia added a self‑hosted deployment option, enabling large organizations and regulated entities to run the SOC platform on their own infrastructure.",
-      "tags": [],
-      "title": "Sekoia introduces self-hosted deployment for organizations with strict data controls"
-    },
-    {
-      "added_at": 1793138159.3553813,
-      "ai": true,
-      "id": "05abb43d9baf5f9f0fb8861b3420fa30ff080ce3",
-      "link": "https://www.helpnetsecurity.com/2026/10/27/dnsfilter-luminate/",
-      "published": 1793106049.0,
-      "source": "Help Net Security",
-      "summary": "DNSFilter introduced LUMINATE, a platform that consolidates DNS security, AI risk controls, and remote‑work protection into a single agent and console.",
-      "tags": [],
-      "title": "DNSFilter LUMINATE unifies DNS security, AI controls and remote work protection"
-    },
-    {
-      "added_at": 1793138159.3553813,
-      "ai": true,
-      "id": "beeec944f8596eae7ff54186258a96110af372b1",
-      "link": "https://www.helpnetsecurity.com/2026/10/27/firemon-agentic-ai/",
-      "published": 1793105464.0,
-      "source": "Help Net Security",
-      "summary": "FireMon unveiled Agentic AI, allowing network security teams to use AI agents for investigating access and drafting policy changes within their management suite.",
-      "tags": [],
-      "title": "FireMon Agentic AI helps teams investigate access and prepare policy changes"
-    },
-    {
-      "added_at": 1793138159.3553813,
-      "ai": true,
-      "id": "22418d85686927223f1e74e48859de98be66c78a",
-      "link": "https://www.helpnetsecurity.com/2026/10/27/exeon-expands-threat-detection-to-shadow-ai-and-autonomous-agents/",
-      "published": 1793104568.0,
-      "source": "Help Net Security",
-      "summary": "Exeon Analytics launched Exeon.AgentGuard to provide visibility into approved and shadow AI usage, autonomous agent activity, and associated data flows.",
-      "tags": [],
-      "title": "Exeon expands threat detection to shadow AI and autonomous agents"
-    },
-    {
-      "added_at": 1793138159.3553813,
-      "ai": true,
-      "id": "04758badbb9d8b091eee60c58454f3f6f97a6606",
-      "link": "https://www.infosecurity-magazine.com/news/exploit-teams-chat-breach/",
-      "published": 1793104200.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "Arctic Wolf warned that Microsoft Teams external chat can be exploited for rapid social engineering attacks, enabling breaches in under 15 minutes.",
-      "tags": [],
-      "title": "Attackers Exploit Teams External Chat to Breach Organizations in Under 15 Minutes"
-    },
-    {
-      "added_at": 1793138159.3553813,
-      "ai": true,
-      "id": "e0a16a2e2ffa5c2ee3e1f033afa42d5c274143db",
-      "link": "https://www.theregister.com/security/2026/10/27/microsoft-releases-out-of-band-windows-fixes-with-certificate-updates/5305637",
-      "published": 1793104200.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "Microsoft issued out‑of‑band Windows updates that include certificate trust list changes, addressing issues related to eMudhra and other certificate authorities.",
-      "tags": [],
-      "title": "Microsoft releases out-of-band Windows fixes with certificate updates"
-    },
-    {
       "added_at": 1793190053.9224098,
       "ai": false,
       "id": "7c22489c81a536a6565a6cbc3c1de4d0ddfcf374",
@@ -1812,6 +1359,465 @@
       "summary": "Threat actors are probing the newly patched CVE‑2026‑101767, a critical RCE flaw in Oracle E‑Business Suite, after Oracle released a security patch last week.",
       "tags": [],
       "title": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch"
+    },
+    {
+      "added_at": 1793313196.7375028,
+      "ai": true,
+      "id": "a6d0e88b749ca24bbcc6e89cf35c90492c49be81",
+      "link": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
+      "published": 1793311764.0,
+      "source": "BleepingComputer",
+      "summary": "A crypto‑mining campaign using Hugging Face models returned after takedown, hijacking GPU servers and planting backdoors.\nThe malicious model was downloaded over 28,000 times.\nA separate fake Solana starter kit on GitHub aims to trick AI coding agents into installing a NetSupport RAT.",
+      "tags": [],
+      "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining"
+    },
+    {
+      "added_at": 1793313196.7375028,
+      "ai": true,
+      "id": "17e71a11c730f03f9955f036e23f0e2a46cf3eb3",
+      "link": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
+      "published": 1793311684.0,
+      "source": "BleepingComputer",
+      "summary": "Japan Airlines disclosed a data breach at Amadeus Passenger Service System that exposed personal data of approximately 92,000 customers.\nThe breach involved a third‑party service provider, Amadeus.",
+      "tags": [],
+      "title": "Japan Airlines suffers third-party data breach exposing passenger info"
+    },
+    {
+      "added_at": 1793313196.7375028,
+      "ai": true,
+      "id": "fe7730fa406879f5265b15de708ab69ff6ce9162",
+      "link": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
+      "published": 1793310445.0,
+      "source": "BleepingComputer",
+      "summary": "Polymarket temporarily suspended trading after hackers compromised a third‑party service to distribute a cryptocurrency‑draining JavaScript.\nAbout $2.5 million in assets were traced to a suspected attacker wallet.",
+      "tags": [],
+      "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced"
+    },
+    {
+      "added_at": 1793313196.7375028,
+      "ai": true,
+      "id": "cbcc5cbaf6f622fa2458905d1f65600e4b062df2",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools",
+      "published": 1793308916.0,
+      "source": "darkreading",
+      "summary": "Phishing emails themed around Anthropic bypassed several leading secure email gateway products despite containing multiple red flags.",
+      "tags": [],
+      "title": "Anthropic-Themed Phishing Emails Bypass Top Security Tools"
+    },
+    {
+      "added_at": 1793313196.7375028,
+      "ai": true,
+      "id": "2211e8c8dce0441863dc3f66a51cfee2cad6384f",
+      "link": "https://cyberscoop.com/dhs-employee-breach-icepick-database-takedown/",
+      "published": 1793307508.0,
+      "source": "CyberScoop",
+      "summary": "The DHS employee archive 'Icepick' was removed by a contractor and blocked by a social media site, but later found a new hosting location.",
+      "tags": [],
+      "title": "Leaked DHS employee archive, Icepick, faces challenges to stay online"
+    },
+    {
+      "added_at": 1793313196.7375028,
+      "ai": true,
+      "id": "68f0757a3373fe6a45e0a96c71ae122452aca514",
+      "link": "https://www.darkreading.com/cyber-risk/rethinking-cybersecurity-awareness-ai-era",
+      "published": 1793304937.0,
+      "source": "darkreading",
+      "summary": "The Reporters' Notebook series discusses trends from Cybersecurity Awareness Month, focusing on AI‑driven training and educating next‑generation workforces on modern risks.",
+      "tags": [],
+      "title": "Rethinking Cybersecurity Awareness in the AI Era"
+    },
+    {
+      "added_at": 1793313196.7375028,
+      "ai": true,
+      "id": "6c129a8658fc10c51a73e1322dbadd46c20b93e8",
+      "link": "https://therecord.media/php2shell-successful-exploitation-reports-emerge",
+      "published": 1793304085.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "Only a handful of PHP2Shell bug exploitations have been reported, with one campaign targeting U.S. government‑affiliated servers suspected to be Chinese.",
+      "tags": [
+        "#news"
+      ],
+      "title": "Limited reports of PHP bug exploitation emerge"
+    },
+    {
+      "added_at": 1793313196.7375028,
+      "ai": true,
+      "id": "aacd7396929c5498f661f2811b6ce3bbf3e3488e",
+      "link": "https://therecord.media/general-motors-lawsuit-privacy",
+      "published": 1793303100.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "General Motors agreed to pay $220 million to settle a lawsuit by 36 state attorneys general alleging unlawful sale of driver behavior data.\nThe company also agreed to implement data‑privacy reforms.",
+      "tags": [
+        "#news"
+      ],
+      "title": "GM settles with 36 states for selling driver data, agrees to $220 million fine and reforms"
+    },
+    {
+      "added_at": 1793313196.7375028,
+      "ai": true,
+      "id": "e692538b686ec012b41f7dd0d020b00330f10034",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
+      "published": 1793301821.0,
+      "source": "BleepingComputer",
+      "summary": "A counterfeit cryptocurrency trading app, 'Padre Terminal', was removed from the Apple App Store and linked to theft of about $23,000 from 27 Solana wallets.",
+      "tags": [],
+      "title": "Fake crypto app on Apple App Store linked to $23K wallet theft"
+    },
+    {
+      "added_at": 1793313196.7375028,
+      "ai": true,
+      "id": "7325900e53d9990520b8e77f3c53604f700c68ae",
+      "link": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
+      "published": 1793301118.0,
+      "source": "The Hacker News",
+      "summary": "ThreatsDay highlighted a range of attacks, including exposed firewall flaws, rented banking trojans, weaponized PDFs, and token theft, illustrating both sophisticated tactics and careless security gaps.",
+      "tags": [],
+      "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories"
+    },
+    {
+      "added_at": 1793313196.7375028,
+      "ai": true,
+      "id": "50e8cd6d193c992701de7871b019d9e7a1a79190",
+      "link": "https://www.theregister.com/security/2026/10/29/suspected-chinese-attackers-built-a-custom-php2shell-exploit-and-rooted-25-servers/5306456",
+      "published": 1793300717.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "Suspected Chinese threat actors used a custom PHP2Shell exploit to compromise 25 servers.\nThe attackers likely maintain access to a U.S. government-affiliated network.\nNo data exfiltration confirmed.",
+      "tags": [],
+      "title": "Suspected Chinese attackers built a custom PHP2Shell exploit and rooted 25 servers"
+    },
+    {
+      "added_at": 1793313196.7375028,
+      "ai": true,
+      "id": "7c2b70bd7e3e786d7885b46caa35beae07d946c8",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
+      "published": 1793299106.0,
+      "source": "BleepingComputer",
+      "summary": "APT group UAT-11473 exploited CVE-2026-20127 in Cisco Catalyst SD‑WAN Controllers to deploy KeyDrift malware.\nThe flaw allows authentication bypass.\nThe attack demonstrates continued use of Cisco SD‑WAN vulnerabilities.",
+      "tags": [],
+      "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware"
+    },
+    {
+      "added_at": 1793313196.7375028,
+      "ai": true,
+      "id": "2c3bc9054593866dde8eacbe153a45fd9e9372ae",
+      "link": "https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses",
+      "published": 1793297759.0,
+      "source": "darkreading",
+      "summary": "Anthropic reports an unreleased Claude model discovered and chained vulnerabilities in Chrome, Safari, Android, Windows, and Linux.\nThe model identified multiple zero‑day exploits across major browsers and operating systems.\nNo public release of the findings yet.",
+      "tags": [],
+      "title": "Claude Model Builds Exploits Across Major Browsers & OSes"
+    },
+    {
+      "added_at": 1793313196.7375028,
+      "ai": true,
+      "id": "2810027585c5f3b558764b60c6a3d31c978637c2",
+      "link": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
+      "published": 1793296834.0,
+      "source": "Unit 42",
+      "summary": "CVE-2026-109618 and CVE-2026-109619 are critical PHP vulnerabilities affecting web servers and CMS platforms.\nThe flaws allow remote code execution and could compromise PHP installations worldwide.\nPatching is recommended immediately.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 29)"
+    },
+    {
+      "added_at": 1793313196.7375028,
+      "ai": true,
+      "id": "27b4ee16aef662444d519ed9053b66df11e55431",
+      "link": "https://blog.talosintelligence.com/a-quiet-week-in-infosec/",
+      "published": 1793296800.0,
+      "source": "Cisco Talos Blog",
+      "summary": "The Threat Source newsletter highlights PHP and Node.js as dominant topics in recent discussions.\nIt also notes ongoing community efforts to address security challenges.\nNo major incidents were reported this week.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "A quiet week in infosec <.<"
+    },
+    {
+      "added_at": 1793313196.7375028,
+      "ai": true,
+      "id": "63b84b48fd3c5f6c48ee30c27d7d54e9dd86da2c",
+      "link": "https://www.fortra.com/blog/byod-cyberattack-diverts-ambulances-and-cancels-classes-university-new-mexico-health-center",
+      "published": 1793293284.0,
+      "source": "GRAHAM CLULEY",
+      "summary": "A ransomware attack on the University of New Mexico Health Sciences Center disrupted ambulance services, canceled surgeries, and forced medical students to leave classes.\nThe incident was caused by a BYOD-related breach.\nThe university is investigating the attack.",
+      "tags": [],
+      "title": "BYOD cyberattack diverts ambulances and cancels classes at University of New Mexico health center"
+    },
+    {
+      "added_at": 1793313196.7375028,
+      "ai": true,
+      "id": "39a633755f1e27f72c9ccbda7c5c365a2c88d40a",
+      "link": "https://www.securityweek.com/when-risk-becomes-personal-what-security-leaders-can-learn-from-a-cancer-diagnosis/",
+      "published": 1793291400.0,
+      "source": "SecurityWeek",
+      "summary": "The article discusses how risk management principles apply to personal health crises.\nIt highlights the importance of early detection, contingency planning, and decision-making under uncertainty.\nThe piece offers insights for security leaders.",
+      "tags": [],
+      "title": "When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis"
+    },
+    {
+      "added_at": 1793313196.7375028,
+      "ai": true,
+      "id": "e1f46de0b5536c5e860e747de1a94476a212c425",
+      "link": "https://www.helpnetsecurity.com/2026/10/29/php2shell-fragnesia-vmware-esx-zero-day/",
+      "published": 1793291110.0,
+      "source": "Help Net Security",
+      "summary": "Chinese threat actors exploited a VMware ESX zero‑day to conceal activity and chained PHP2Shell with the Fragnesia Linux kernel bug to compromise servers and firewalls.\nCisco confirmed a new firewall crash vulnerability.\nThe attack demonstrates multi‑stage exploitation.",
+      "tags": [],
+      "title": "Chinese hackers used VMware ESX zero-day; PHP2Shell and Fragnesia chained to root firewalls"
+    },
+    {
+      "added_at": 1793313196.7375028,
+      "ai": true,
+      "id": "31dc864af62655f460544aea83ed33ee7f78893e",
+      "link": "https://therecord.media/us-bankruptcy-courts-it-contractor-says-no-data-stolen-cyberattack",
+      "published": 1793290380.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "BAE Systems, a federal contractor, reported that no data was extracted during a cyber intrusion targeting its systems for federal bankruptcy courts.\nThe company is conducting a full investigation.\nNo breach of sensitive information was confirmed.",
+      "tags": [
+        "#news"
+      ],
+      "title": "Federal bankruptcy courts contractor says no data stolen during cyber intrusion"
+    },
+    {
+      "added_at": 1793313196.7375028,
+      "ai": true,
+      "id": "a556f2a13255d1872178d288e5894ac48fbaf30e",
+      "link": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
+      "published": 1793290231.0,
+      "source": "BleepingComputer",
+      "summary": "A search‑hijacking campaign involved 319 Chrome extensions with 13.4 million installs.\nThe extensions redirected users’ searches to tracking servers, generating revenue from Bing and Yahoo.\nThe campaign was discovered by security researchers.",
+      "tags": [],
+      "title": "Chrome extensions with 13.4 million installs caught hijacking searches"
+    },
+    {
+      "added_at": 1793313196.7375028,
+      "ai": true,
+      "id": "649ecf4a57aab371a5154e70113bb9f756397242",
+      "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
+      "published": 1793289425.0,
+      "source": "The Hacker News",
+      "summary": "CVE-2026-98432 is a critical TCP flaw in the Linux kernel, rated 9.8 CVSS. It affects Ubuntu, RHEL, and other distributions. Anthropic’s AI model produced an exploit that allows unauthenticated remote attackers to execute commands as root.",
+      "tags": [],
+      "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions"
+    },
+    {
+      "added_at": 1793313196.7375028,
+      "ai": true,
+      "id": "efbb1c68eb20dd3a98bd4010b1eb6a474772493a",
+      "link": "https://www.darkreading.com/cyber-risk/threat-modeling-4-simple-questions",
+      "published": 1793288644.0,
+      "source": "darkreading",
+      "summary": "CISOs can use a four‑question whiteboard exercise to build effective threat models. The approach focuses on clarity and cost‑efficiency, avoiding large budgets.",
+      "tags": [],
+      "title": "Threat Modeling With 4 Simple Questions on a White Board"
+    },
+    {
+      "added_at": 1793313196.7375028,
+      "ai": true,
+      "id": "8cc04215eff5794daadf90654beb3223d39b5fd5",
+      "link": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
+      "published": 1793287229.0,
+      "source": "The Hacker News",
+      "summary": "Threat actors distribute malware disguised as AI desktop apps for Claude and ChatGPT. Fake GitHub projects deliver a loader that installs cryptocurrency miners under the Yoba campaign.",
+      "tags": [],
+      "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners"
+    },
+    {
+      "added_at": 1793313196.7375028,
+      "ai": true,
+      "id": "f5faf77d964126369a5b99d3fab7fa5503b77780",
+      "link": "https://www.securityweek.com/google-says-gemini-4-carbon-leads-in-finding-exploiting-and-fixing-vulnerabilities/",
+      "published": 1793286060.0,
+      "source": "SecurityWeek",
+      "summary": "Google’s Gemini 4 Carbon model achieved 88.2% on the SEC‑bench Pro test. The model is being rolled out to vetted cyber defenders through the Fairwind Program.",
+      "tags": [],
+      "title": "Google Touts Powerful Cybersecurity Capabilities in Gemini 4 Carbon Model"
+    },
+    {
+      "added_at": 1793313196.7375028,
+      "ai": true,
+      "id": "fcadd0dd5cf004d0f14ec9607de5188270d8bb0a",
+      "link": "https://www.securityweek.com/how-secure-are-us-elections-voting-machine-risks-and-the-growing-threat-of-ai/",
+      "published": 1793286000.0,
+      "source": "SecurityWeek",
+      "summary": "Unpatched voting machines, QR‑coded ballots, and AI‑driven influence campaigns expose vulnerabilities in US elections. The article highlights the need for stronger security measures.",
+      "tags": [],
+      "title": "How Secure Are US Elections? Voting Machine Risks and the Growing Threat of AI"
+    },
+    {
+      "added_at": 1793313196.7375028,
+      "ai": true,
+      "id": "f34bbdcb95197b7c079f8bb3b3a729e1767cb439",
+      "link": "https://www.infosecurity-magazine.com/news/nik-c2-malware-victims-openai-keys/",
+      "published": 1793286000.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "NIK C2 malware can leverage victims’ OpenAI API keys to perform AI queries, enabling advanced malicious capabilities.",
+      "tags": [],
+      "title": "NIK C2 Malware Can Use Victims’ OpenAI Keys for AI Queries"
+    },
+    {
+      "added_at": 1793313196.7375028,
+      "ai": true,
+      "id": "e7c6ca872fb5351e095529bfb6adb25680f2cc6e",
+      "link": "https://www.helpnetsecurity.com/2026/10/29/fake-chatgpt-claude-apps-github-yoba-malware-cryptominer/",
+      "published": 1793285351.0,
+      "source": "Help Net Security",
+      "summary": "The Yoba campaign uses fake GitHub repositories for apps like GPT‑5.6 Sol and Claude Opus to deliver a malware chain that culminates in a cryptocurrency miner.",
+      "tags": [],
+      "title": "Yoba malware hides in fake desktop versions of ChatGPT and Claude"
+    },
+    {
+      "added_at": 1793313196.7375028,
+      "ai": true,
+      "id": "8c5315d592079c6525df7a8d99473b0f4b9dedb5",
+      "link": "https://www.theregister.com/security/2026/10/29/belgiums-tax-agency-confirms-cyberattack-pulls-services-offline/5306409",
+      "published": 1793285260.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "Belgium’s tax authority experienced a cyberattack that forced it to take services offline and extend tax deadlines to November.",
+      "tags": [],
+      "title": "Belgium's tax agency confirms cyberattack, pulls services offline"
+    },
+    {
+      "added_at": 1793313196.7375028,
+      "ai": true,
+      "id": "f34fb5d0be197df27ba96f70c273c54956611bd7",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/",
+      "published": 1793284540.0,
+      "source": "BleepingComputer",
+      "summary": "Microsoft resolved an issue where non‑admin users could not connect via Remote Desktop when the Administrator protection feature was enabled after recent updates.",
+      "tags": [],
+      "title": "Microsoft fixes Remote Desktop failures caused by recent Windows updates"
+    },
+    {
+      "added_at": 1793313196.7375028,
+      "ai": true,
+      "id": "67386231cf52a9977194beab78a275e06cc5da46",
+      "link": "https://www.securityweek.com/cisco-open-sources-quarry-to-catch-ai-agent-attacks-hidden-in-harmless-steps/",
+      "published": 1793283483.0,
+      "source": "SecurityWeek",
+      "summary": "Cisco released Project Quarry, a rule language that detects AI agent attacks that emerge only across sequences of benign actions. The tool is open sourced for broader use.",
+      "tags": [],
+      "title": "Cisco Open Sources Quarry to Catch AI Agent Attacks Hidden in Harmless Steps"
+    },
+    {
+      "added_at": 1793313196.7375028,
+      "ai": true,
+      "id": "42f121e2a91a4d08ee5e5b64267b1aaf8e24397e",
+      "link": "https://www.helpnetsecurity.com/2026/10/29/research-ai-assistant-browser-vulnerabilities/",
+      "published": 1793283049.0,
+      "source": "Help Net Security",
+      "summary": "Researchers bypassed built‑in browsers in five AI coding assistants, allowing local files or web pages to access the host system. The exploits enabled code execution, spoofed addresses, and full file system read.",
+      "tags": [],
+      "title": "Researchers broke the browsers built into VS Code, Cursor, Copilot, Codex and Claude Desktop"
+    },
+    {
+      "added_at": 1793313196.7375028,
+      "ai": true,
+      "id": "d340597c608d2583e891da06a08c443fca07eabf",
+      "link": "https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser/",
+      "published": 1793282410.0,
+      "source": "BleepingComputer",
+      "summary": "AI agents can control authenticated browsers, interact with corporate apps, and access sensitive data while appearing as legitimate employees. Traditional security tools may struggle to differentiate their activity from human users.",
+      "tags": [],
+      "title": "3 Ways AI Agents Already Operate in Your Browser"
+    },
+    {
+      "added_at": 1793313196.7375028,
+      "ai": true,
+      "id": "7a35ffe5727f21b8812a706c8dd7d1872b8a68c6",
+      "link": "https://www.infosecurity-magazine.com/news/crest-financial-cyber-resilience/",
+      "published": 1793282400.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "CREST released a framework advocating a whole‑ecosystem approach to strengthen cyber resilience across financial services.",
+      "tags": [],
+      "title": "CREST Urges Whole-Ecosystem Approach to Financial Cyber Resilience"
+    },
+    {
+      "added_at": 1793313196.7375028,
+      "ai": true,
+      "id": "d8346a01fb6e259fd6028316ac6ad927117bbddb",
+      "link": "https://blog.talosintelligence.com/ir-trends-q3-2026/",
+      "published": 1793282400.0,
+      "source": "Cisco Talos Blog",
+      "summary": "Q3 2026 IR trends show increased ransomware activity; actors impersonate IT help desks in vishing attacks. Finance and public administration are top‑targeted industries.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "IR trends Q3 2026: Actors impersonate IT help desks in vishing attacks as ransomware activity increases"
+    },
+    {
+      "added_at": 1793313196.7375028,
+      "ai": true,
+      "id": "748d67ab1d92c076de235a5f586330196cc52534",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/",
+      "published": 1793282388.0,
+      "source": "BleepingComputer",
+      "summary": "CISA warned federal agencies to patch a high‑severity Linux kernel privilege escalation flaw that is being chained with PHP2Shell attacks.",
+      "tags": [],
+      "title": "CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks"
+    },
+    {
+      "added_at": 1793313196.7375028,
+      "ai": true,
+      "id": "147d2921484983ce82e000c0bd4f2e015b364a65",
+      "link": "https://therecord.media/ftc-rideshare-airlines-data",
+      "published": 1793281500.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "FTC ordered nine major companies to provide detailed data on how they use personal data for individualized pricing and employee compensation.",
+      "tags": [
+        "#news"
+      ],
+      "title": "FTC to probe major companies over personalized pricing and pay"
+    },
+    {
+      "added_at": 1793313196.7375028,
+      "ai": true,
+      "id": "b326a55c6171863cd3312d3eecddb58ed05188ab",
+      "link": "https://www.securityweek.com/adobe-veeam-juniper-networks-patch-critical-vulnerabilities/",
+      "published": 1793281372.0,
+      "source": "SecurityWeek",
+      "summary": "Adobe, Veeam, and Juniper Networks released patches for critical vulnerabilities that could lead to arbitrary code execution, authorization bypass, and privilege escalation.",
+      "tags": [],
+      "title": "Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities"
+    },
+    {
+      "added_at": 1793313196.7375028,
+      "ai": true,
+      "id": "005f2528861a55a191e59b090439d009eb10d00f",
+      "link": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
+      "published": 1793281360.0,
+      "source": "The Hacker News",
+      "summary": "Google announced Gemini 4 Carbon, a model that leads benchmarks for finding, exploiting, and patching vulnerabilities, achieving high scores on SEC‑bench Pro and ExploitGym.",
+      "tags": [],
+      "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities"
+    },
+    {
+      "added_at": 1793313196.7375028,
+      "ai": true,
+      "id": "1210927968fd7fd0157c35c7c61a139e35e24a1a",
+      "link": "https://www.helpnetsecurity.com/2026/10/29/volt-typhoon-silent-train-relay-network/",
+      "published": 1793281333.0,
+      "source": "Help Net Security",
+      "summary": "Volt Typhoon, a Chinese state‑sponsored APT, used a rotating relay network called Silent Train, built from compromised SOHO and IoT devices, to target enterprise control planes.",
+      "tags": [],
+      "title": "Volt Typhoon targeted enterprise control planes via ever-changing “Silent Train” relay network"
+    },
+    {
+      "added_at": 1793313196.7375028,
+      "ai": true,
+      "id": "342c74932bccb89ef7e79ad77e16012f6e27fdb0",
+      "link": "https://therecord.media/cyberattack-disrupts-belgian-tax-services-before-deadline",
+      "published": 1793280660.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "A cyberattack disrupted Belgium’s MyMinfin tax platform before the filing deadline, prompting the Federal Public Service Finance to suspend access and investigate the breach.",
+      "tags": [
+        "#news"
+      ],
+      "title": "Cyberattack disrupts Belgian tax services before filing deadline"
     }
   ],
   "posted": []
