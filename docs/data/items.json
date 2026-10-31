@@ -1,7 +1,51 @@
 {
-  "generated_at": 1793397723.8649058,
-  "count": 198,
+  "generated_at": 1793447556.482524,
+  "count": 160,
   "items": [
+    {
+      "title": "Syrian Hacker Gets Prison Time in US After Over a Decade on the Run",
+      "summary": "US court sentenced Syrian hacker Ahmad Umar Agha to 42 months in prison for pro‑Assad attacks on media, businesses, and government entities. He had been on the run for over a decade.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/syrian-hacker-gets-prison-time-in-us-after-over-a-decade-on-the-run/",
+      "published": 1793444400.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793447556.4727983
+    },
+    {
+      "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
+      "summary": "CISA added two Ivanti Connect Secure vulnerabilities to its KEV catalog after active exploitation. CVE‑2026‑111357 allows unauthenticated root access due to missing authentication.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
+      "published": 1793435263.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793447556.4727983
+    },
+    {
+      "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
+      "summary": "Researchers discovered a flaw in shared ChatGPT links that could run attacker code in a logged‑in user's session and read private chats. OpenAI fixed the issue within eight days.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
+      "published": 1793424821.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793447556.4727983
+    },
+    {
+      "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
+      "summary": "Cloudflare mitigated 18.2 million network‑layer DDoS attacks and 14.4 trillion HTTP requests in Q3 2026, averaging 197,400 attacks per day.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
+      "published": 1793422572.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793447556.4727983
+    },
     {
       "title": "China-backed threat group used agentic AI pentesting tool to compromise 140 sensitive targets in 11 days",
       "summary": "China-backed threat group used an AI pentesting tool to compromise 140 sensitive targets across 14 countries in 11 days, affecting more than 200 organizations.",
@@ -60,6 +104,17 @@
       "ai": true,
       "status": "queued",
       "ts": 1793397723.8547568
+    },
+    {
+      "title": "Behind the Scenes of How Operation Blackout Went Down",
+      "summary": "A law‑enforcement operation dismantled harmful scam centers, with a threat‑intelligence expert detailing tactics and calling for more initiatives.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down",
+      "published": 1793389568.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793447556.4727983
     },
     {
       "title": "Crim spent $7K+ on AI services in extortion attacks, then left evidence for all to see",
@@ -244,6 +299,17 @@
       "ai": true,
       "status": "queued",
       "ts": 1793397723.8547568
+    },
+    {
+      "title": "This month in security with Tony Anscombe – October 2026 edition",
+      "summary": "The October 2026 security roundup highlighted the PHP2Shell disclosure and other major events, underscoring the need for robust cyber‑readiness plans.",
+      "source": "WeLiveSecurity",
+      "link": "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-october-2026/",
+      "published": 1793372594.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793447556.4727983
     },
     {
       "title": "In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak",
@@ -1672,299 +1738,6 @@
       "ts": 1793277016.6411653
     },
     {
-      "title": "Leak site publishes data on more than 41,000 DHS employees obtained by hacktivists",
-      "summary": "Leak site publishes data on more than 41,000 DHS employees obtained by hacktivists.\nThe Department of Peace group shared the data with Swiss hacker/journalist maia arson crimew, and DDoSecrets posted it online.",
-      "source": "CyberScoop",
-      "link": "https://cyberscoop.com/dhs-employee-data-leak-ddosecrets/",
-      "published": 1793223180.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793225997.5878506
-    },
-    {
-      "title": "Inside KeyDrift: Analyzing historical UAT-11473 activity on Cisco SD-WAN",
-      "summary": "Talos identified UAT-11473, a sophisticated APT.\nThe group exploited CVE-2026-20127 in Cisco SD-WAN Catalyst Controller to bypass authentication and deploy KeyDrift.",
-      "source": "Cisco Talos Blog",
-      "link": "https://blog.talosintelligence.com/uat-11473-keydrift/",
-      "published": 1793223122.0,
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793225997.5878506
-    },
-    {
-      "title": "Court strikes down West Virginia law barring disclosure of public officials’ personal data",
-      "summary": "A federal appellate court struck down West Virginia's law restricting disclosure of public officials’ personal data.\nThe law, intended to protect police and other officials, was ruled unconstitutional.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/west-virginia-daniels-law-struck-down-appellate-court",
-      "published": 1793220600.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793225997.5878506
-    },
-    {
-      "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
-      "summary": "U.S. law enforcement seized the primary domain of Virtualine, a bulletproof hosting service used for ransomware and other cybercrime.\nThe service was advertised on cybercrime forums.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
-      "published": 1793220442.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793225997.5878506
-    },
-    {
-      "title": "Japan Airlines warns of data breach as country grapples with multiple cyber incidents",
-      "summary": "Japan Airlines reported a data breach affecting roughly 2,000 customers.\nHackers accessed passport numbers, frequent flyer numbers, email addresses, and phone numbers.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/japan-airlines-warns-of-breach-country-grapples-with-incidents",
-      "published": 1793219580.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793225997.5878506
-    },
-    {
-      "title": "Oracle celebrates end of Cybersecurity Awareness Month with quadruple trouble",
-      "summary": "Oracle noted that attackers probed another Oracle EBS bug.\nShinyHunters' PeopleSoft 0-day involved three separate vulnerabilities.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/security/2026/10/28/oracle-celebrates-end-of-cybersecurity-awareness-month-with-quadruple-trouble/5306121",
-      "published": 1793217416.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793225997.5878506
-    },
-    {
-      "title": "GhostAction Hacking Wave Fizzles, But Attackers Lurk on in GitHub",
-      "summary": "GhostAction's hacking wave failed, but attackers continue to target developer endpoints and cloud access.\nThe campaign shift suggests future focus on supply chain attacks.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github",
-      "published": 1793216340.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793225997.5878506
-    },
-    {
-      "title": "Lawsuit against Ex-Overstock CEO tied to 2020 election film falls apart over question of ‘actual malice’",
-      "summary": "A lawsuit against former Overstock CEO over a 2020 election film was dismissed.\nThe case hinged on proving actual malice, which the court found lacking.",
-      "source": "CyberScoop",
-      "link": "https://cyberscoop.com/patrick-byrne-dominion-defamation-lawsuit-actual-malice/",
-      "published": 1793213935.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793225997.5878506
-    },
-    {
-      "title": "Discord to let search engines index public server messages",
-      "summary": "Discord will permit search engines to index public messages in Discoverable Servers.\nThe content will be viewable on the web by users without a Discord account.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
-      "published": 1793213056.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793225997.5878506
-    },
-    {
-      "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
-      "summary": "Volt Typhoon used the Silent Train covert network for four zero‑day exploitation campaigns.\nThe network, identified in late 2023, chains compromised SOHO, IoT, and enterprise infrastructure.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
-      "published": 1793210913.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793225997.5878506
-    },
-    {
-      "title": "European digital rights nonprofit noyb sues Scale AI for ‘invasive’ worker surveillance",
-      "summary": "Noyb has filed a lawsuit against Scale AI, alleging the platform records freelancers’ mouse clicks and keystrokes every few seconds. The company claims the data could be used to create video logs of entire workdays.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/noyb-sues-scale-ai-for-worker-surveillance",
-      "published": 1793210520.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793225997.5878506
-    },
-    {
-      "title": "Unwrapping Retail Peak Season Cyber Threats",
-      "summary": "Unit 42 outlines key cyber threats that spike during peak retail season, including ransomware and AI‑driven attacks. The post offers guidance on protecting operations and maintaining customer trust.",
-      "source": "Unit 42",
-      "link": "https://unit42.paloaltonetworks.com/unwrapping-retail-cyber-threats/",
-      "published": 1793210410.0,
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793225997.5878506
-    },
-    {
-      "title": "US sanctions Russians, North Koreans for laundering IT worker earnings",
-      "summary": "The U.S. Treasury Department imposed sanctions on Russian and North Korean nationals accused of laundering earnings from illicit IT workers for the Pyongyang regime.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/north-korea-russia-sanctions",
-      "published": 1793209500.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793225997.5878506
-    },
-    {
-      "title": "GitHub’s npm package firewall can block brand-new versions before they install",
-      "summary": "GitHub announced a package firewall that inspects npm packages against enterprise policies before installation. It blocks known malware, critical vulnerabilities, and even brand‑new package versions.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/28/github-package-firewall-npm/",
-      "published": 1793207354.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793225997.5878506
-    },
-    {
-      "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
-      "summary": "Google will allow approved third‑party Android app stores to provide one‑tap installs and background updates outside the United States. Stores must pass identity checks and submit their catalog for continuous malware scanning.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
-      "published": 1793207289.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793225997.5878506
-    },
-    {
-      "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
-      "summary": "Sony Network Communications confirmed a data breach that exposed approximately 2.5 million customer records, including personal information of current and former customers.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
-      "published": 1793205947.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793225997.5878506
-    },
-    {
-      "title": "Moldova investigates possible foreign involvement in major government cyberattack",
-      "summary": "Moldova is investigating a major government cyberattack that may involve foreign actors. Prime Minister Vasile Tofan said the incident could be part of a broader campaign targeting personal data and digital infrastructure.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/moldova-investigates-possible-foreign-involvement-cyberattacks",
-      "published": 1793205420.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793225997.5878506
-    },
-    {
-      "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
-      "summary": "A researcher showed that a chain of logic bugs, without memory corruption, can let a malicious web page run code outside Microsoft Edge’s sandbox. The method was used to win $175,000 at the Pwn2Own Berlin contest.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
-      "published": 1793204614.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793225997.5878506
-    },
-    {
-      "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
-      "summary": "Cybersecurity researchers identified an AI‑assisted attack that used PHP2Shell and a kernel privilege‑escalation exploit to compromise 25 servers and breach a U.S. government‑affiliated network.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
-      "published": 1793203365.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793225997.5878506
-    },
-    {
-      "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
-      "summary": "Chinese state‑sponsored group Volt Typhoon employs the Silent Train framework, which rotates chains of compromised devices to deliver zero‑day attacks against high‑value targets.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
-      "published": 1793203200.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793225997.5878506
-    },
-    {
-      "title": "Researchers uncover Volt Typhoon’s covert, ephemeral network",
-      "summary": "Researchers identified Volt Typhoon's use of the Silent Train framework, which relies on rapidly rotating compromised devices to infiltrate critical infrastructure networks.",
-      "source": "CyberScoop",
-      "link": "https://cyberscoop.com/volt-typhoon-silent-train-covert-ephemeral-network-black-lotus-labs/",
-      "published": 1793203200.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793225997.5878506
-    },
-    {
-      "title": "Serial ransomware crook gets 70 months behind bars for Nefilim, Hive roles",
-      "summary": "Artem Stryzhak, a serial ransomware operator linked to Nefilim and Hive, received a 70‑month sentence for attacks on businesses and a hospital during the pandemic.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/cyber-crime/2026/10/28/serial-ransomware-crook-gets-70-months-behind-bars-for-nefilim-hive-roles/5306050",
-      "published": 1793202737.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793225997.5878506
-    },
-    {
-      "title": "Japan’s GMO Internet Urges Customers to Disconnect PCs",
-      "summary": "GMO Internet advised customers in Japan to disconnect their PCs ahead of a potential ransomware attack.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/japan-gmo-internet-disconnect/",
-      "published": 1793202540.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793225997.5878506
-    },
-    {
-      "title": "Prosecutors charge Madagascar scammers in NFT-stealing scheme based on fake online dating profiles",
-      "summary": "Madagascar scammers were charged for an NFT theft scheme using fake dating profiles, affecting about 800 victims and causing losses over $500,000.",
-      "source": "CyberScoop",
-      "link": "https://cyberscoop.com/madagascar-nft-dating-scam-charges/",
-      "published": 1793201796.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793225997.5878506
-    },
-    {
-      "title": "Heading to San Francisco? Meet PortSwigger at OWASP Global AppSec USA 2026",
-      "summary": "PortSwigger will attend OWASP Global AppSec USA 2026 in San Francisco, presenting at booth G14 with live Burp AT demos and discussions on application security.",
-      "source": "PortSwigger Blog",
-      "link": "https://portswigger.net/blog/heading-to-san-francisco-meet-portswigger-at-owasp-global-appsec-usa-2026",
-      "published": 1793201524.0,
-      "tags": [
-        "#appsec"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793225997.5878506
-    },
-    {
       "title": "AI Takes Root in Hospital Corridors, Raises Security Stakes",
       "summary": "Artificial intelligence is increasingly used in healthcare, from intake forms to cancer screening. In some cases, the rapid deployment of AI outpaces cybersecurity controls, raising life‑and‑death risks.",
       "source": "darkreading",
@@ -1974,171 +1747,6 @@
       "ai": true,
       "status": "queued",
       "ts": 1793362933.5260088
-    },
-    {
-      "title": "Hive ransomware affiliate jailed, years after FBI infiltrated the gang’s systems",
-      "summary": "A Ukrainian affiliate of Hive and Nefilim, responsible for ransomware attacks on law firms and a healthcare provider, was sentenced to 70 months in U.S. prison.",
-      "source": "GRAHAM CLULEY",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/hive-ransomware-jailed-fbi-infiltrated",
-      "published": 1793201235.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793225997.5878506
-    },
-    {
-      "title": "I underestimated how fast security teams would trust AI to act in the SOC",
-      "summary": "An author reflects on the rapid adoption of AI in security operations centers, noting that security teams trust AI tools faster than other security technologies.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/28/exaforce-trust-in-ai-security/",
-      "published": 1793201101.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793225997.5878506
-    },
-    {
-      "title": "Attackers Hide Malware Behind Signed ChatGPT and Claude Binaries",
-      "summary": "Attackers distributed Yoba malware by embedding it in counterfeit signed ChatGPT and Claude binaries.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/attackers-hide-malware-behind/",
-      "published": 1793200380.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793225997.5878506
-    },
-    {
-      "title": "Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison",
-      "summary": "Artem Stryzhak, a Ukrainian affiliate of Hive and Nefilim, received a 70‑month prison sentence for using Nefilim ransomware in attacks.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/ukrainian-hive-and-nefilim-ransomware-affiliate-gets-70-months-in-us-prison/",
-      "published": 1793199906.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793225997.5878506
-    },
-    {
-      "title": "Microsoft urges Entra ID admins to migrate users to passkeys",
-      "summary": "Microsoft urged Entra ID administrators to migrate users to passkeys to prevent sign‑in disruptions before SMS and voice authentication are retired in February 2027.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/",
-      "published": 1793198912.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793225997.5878506
-    },
-    {
-      "title": "ControlUp’s Pulse AI Resolve diagnoses and fixes IT issues within admin-defined controls",
-      "summary": "ControlUp releases Pulse AI Resolve, adding AI‑driven investigation and remediation to its Pulse AI ecosystem. The feature provides real‑time issue detection, governance controls, and endpoint self‑service capabilities to accelerate IT problem resolution.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/28/controlup-pulse-ai-resolve/",
-      "published": 1793198815.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793225997.5878506
-    },
-    {
-      "title": "Compromised camera management software gives attackers a way into corporate networks",
-      "summary": "Security research shows attackers used compromised camera management software to breach corporate networks. The specific application remains unidentified and logs are missing, complicating attribution. Incidents occurred in September and October.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/28/compromised-camera-management-software-initial-access/",
-      "published": 1793198603.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793225997.5878506
-    },
-    {
-      "title": "Attacker Relentlessly Scans for Credentials by Impersonating AI Bots",
-      "summary": "A threat actor used bots posing as OpenAI, Anthropic, Meta, and other AI services to scan for exposed credentials, locating sensitive data across the internet.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/cyber-risk/attacker-impersonates-ai-bots-scans-credentials",
-      "published": 1793198272.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793225997.5878506
-    },
-    {
-      "title": "Digitate adds AI agents for patch planning, service desks, and SAP operations",
-      "summary": "Digitate launched ignio Hummingbird, adding AI agents for patch planning, service desks, and SAP operations. The platform supports end‑to‑end action, enterprise change controls, and allows custom agent creation.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/28/digitate-ignio-hummingbird/",
-      "published": 1793198219.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793225997.5878506
-    },
-    {
-      "title": "345,000 email addresses stolen in cyberattack on Germany’s far-right party AfD",
-      "summary": "A cyberattack on Germany’s far‑right party AfD exposed over 345,000 email addresses and messages. The breach was reported to Have I Been Pwned on 27 October and is classified as sensitive.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/28/afd-data-breach-email-leak/",
-      "published": 1793197723.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793225997.5878506
-    },
-    {
-      "title": "Swimlane connects custom detections to AI-led investigation and response",
-      "summary": "Swimlane Turbine now lets teams run custom detection logic and forward alerts to Swimlane AI SOC for investigation. The release adds Model Context Protocol support and a Hero AI agent that builds applications via natural‑language prompts.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/28/swimlane-turbine-platform-capabilities/",
-      "published": 1793197584.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793225997.5878506
-    },
-    {
-      "title": "AI Is Turning CISOs Into Business-Risk Translators, Says Nvidia’s Head of Cyber",
-      "summary": "Nvidia’s Mark Weatherford notes that CISOs must translate AI cybersecurity risks into business priorities, clarify ownership, and balance innovation with controls.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/ai-is-turning-cisos-into/",
-      "published": 1793196600.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793225997.5878506
-    },
-    {
-      "title": "VikingCloud gives businesses a scorecard for AI governance readiness",
-      "summary": "VikingCloud launched AI Governance Services, offering compliance and risk assessments to map AI tool usage, identify control gaps, and provide remediation plans for multi‑location brands and shadow AI.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/28/vikingcloud-ai-governance-services/",
-      "published": 1793196373.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793225997.5878506
-    },
-    {
-      "title": "Energy Giant Engie Notifies Customers of Supply Chain Breach",
-      "summary": "Energy company Engie notified customers that a supply‑chain incident compromised an undisclosed number of customer data records; details of affected data remain unspecified.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/energy-giant-engie-supply-chain/",
-      "published": 1793196300.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793225997.5878506
-    },
-    {
-      "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
-      "summary": "InfraTrust warns that attackers exploit vulnerabilities in critical network infrastructure, including PHP2Shell flaws in firewall, VPN, and application delivery controller web interfaces.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
-      "published": 1793196000.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793225997.5878506
     },
     {
       "title": "Upwind Security Raises $400 Million at $3.8 Billion Valuation",
@@ -2207,50 +1815,6 @@
       "ai": true,
       "status": "queued",
       "ts": 1793277016.6411653
-    },
-    {
-      "title": "Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers",
-      "summary": "A 16‑year‑old vulnerability in EDK II allows attackers to execute code before Secure Boot on network‑booting servers. The flaw can be exploited only when the machine boots over the network.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html",
-      "published": 1793188200.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793362933.5260088
-    },
-    {
-      "title": "Wazuh and AI for Enhanced SOC Workflows",
-      "summary": "Wazuh integrates AI to automate security operations center tasks, uncover patterns, and accelerate decision‑making. The solution helps organizations adapt to AI‑driven threats.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html",
-      "published": 1793187000.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793362933.5260088
-    },
-    {
-      "title": "Lessons from Cybersecurity Black Week",
-      "summary": "Cybersecurity Black Week highlighted a critical PHP flaw, leaked Linux kernel reports, a poisoned LiteLLM release, and more. The event illustrated which threats required immediate action versus those that were largely noise.",
-      "source": "WeLiveSecurity",
-      "link": "https://www.welivesecurity.com/en/business-security/lessons-cybersecurity-black-week/",
-      "published": 1793183631.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793362933.5260088
-    },
-    {
-      "title": "ESET APT Activity Report Q2 2026–Q3 2026",
-      "summary": "ESET released a report detailing the activities of selected APT groups during Q2 and Q3 2026. The overview covers threat behaviors and emerging tactics.",
-      "source": "WeLiveSecurity",
-      "link": "https://www.welivesecurity.com/en/eset-research/eset-apt-activity-report-q2-2026-q3-2026/",
-      "published": 1793180700.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793362933.5260088
     }
   ]
 }
