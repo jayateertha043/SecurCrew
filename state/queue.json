@@ -1,454 +1,6 @@
 {
   "pending": [
     {
-      "added_at": 1793277016.6411653,
-      "ai": true,
-      "id": "e22ea88a6a00fdaebe83d4fdc02a97e47d2ed684",
-      "link": "https://www.helpnetsecurity.com/2026/10/29/canonical-ubuntu-core-desktop/",
-      "published": 1793276685.0,
-      "source": "Help Net Security",
-      "summary": "Canonical has restarted development of Ubuntu Core Desktop, an immutable and attestable Ubuntu desktop that will become the default over time. The 2023 developer preview was considered insufficient. All components ship as snaps.",
-      "tags": [],
-      "title": "Ubuntu Core Desktop returns as Canonical’s plan for an immutable default desktop"
-    },
-    {
-      "added_at": 1793277016.6411653,
-      "ai": true,
-      "id": "15f712f3175d7357539b6c592fa05ef205478989",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127936-update-released-with-41-changes-and-fixes/",
-      "published": 1793275207.0,
-      "source": "BleepingComputer",
-      "summary": "Microsoft released the KB5127936 preview cumulative update for Windows 11 25H2 and 26H2, containing 41 changes. Updates include improvements to File Explorer and the Cloud rebuild.",
-      "tags": [],
-      "title": "Windows 11 KB5127936 update released with 41 changes and fixes"
-    },
-    {
-      "added_at": 1793277016.6411653,
-      "ai": true,
-      "id": "41e5bf08d6d39f726778e09b95ac3061e926e9a9",
-      "link": "https://www.theregister.com/security/2026/10/29/attackers-turn-github-issues-into-supply-chain-campaign-against-61-public-repos-in-less-than-an-hour/5306153",
-      "published": 1793275200.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "Attackers leveraged GitHub issue workflows to launch a supply‑chain campaign against 61 public repositories in under an hour. The malicious workflow triggers automatically when a vulnerable action is detected.",
-      "tags": [],
-      "title": "Attackers turn GitHub issues into supply chain campaign against 61 public repos in less than an hour"
-    },
-    {
-      "added_at": 1793277016.6411653,
-      "ai": true,
-      "id": "5a570ea1e7c28b602dc829254e05bd0a887ae49c",
-      "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
-      "published": 1793273981.0,
-      "source": "The Hacker News",
-      "summary": "The webinar covers how to embed AI into security operations to shorten the time defenders have to respond. It highlights AI’s role in accelerating threat detection and response.",
-      "tags": [],
-      "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations"
-    },
-    {
-      "added_at": 1793277016.6411653,
-      "ai": true,
-      "id": "dd1c518d70f0f1079c3eec9b9256c48645a41f06",
-      "link": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
-      "published": 1793273958.0,
-      "source": "The Hacker News",
-      "summary": "A flaw in Telegram for Android allowed attackers to execute code on a victim’s phone when the user answered a voice call. The issue was fixed in version 12.10.4 released in late September.",
-      "tags": [],
-      "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls"
-    },
-    {
-      "added_at": 1793277016.6411653,
-      "ai": true,
-      "id": "e6aa25e9694d58ab989c0bb85f2ec55a9d037ce0",
-      "link": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
-      "published": 1793273621.0,
-      "source": "The Hacker News",
-      "summary": "The report explains how AI is automating core SOC tasks such as alert investigation, evidence collection, and response actions. This shift is reshaping security operations roles and organization.",
-      "tags": [],
-      "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers"
-    },
-    {
-      "added_at": 1793277016.6411653,
-      "ai": true,
-      "id": "c9e7c513e1436e5ade906b91c3f67d6581d24bc6",
-      "link": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
-      "published": 1793273595.0,
-      "source": "The Hacker News",
-      "summary": "Researcher Ben Zimmermann found 26,400 active cloud and AI credentials in 7.25 million public Gitee repositories. The exposed keys could be used by attackers to access services.",
-      "tags": [],
-      "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories"
-    },
-    {
-      "added_at": 1793277016.6411653,
-      "ai": true,
-      "id": "b15805cd73ae891fd776c84d1a8b34b3f48209ab",
-      "link": "https://www.infosecurity-magazine.com/news/online-scam-volumes-double/",
-      "published": 1793272500.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "Akamai research indicates online scam detections exceeded six million in Q2 2026, doubling previous volumes and surpassing phishing incidents.",
-      "tags": [],
-      "title": "Online Scam Volumes Double to Overtake Phishing"
-    },
-    {
-      "added_at": 1793277016.6411653,
-      "ai": true,
-      "id": "409f0b0486b7348ac5d6e95c53ff4c9f3ddf74fd",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
-      "published": 1793272213.0,
-      "source": "BleepingComputer",
-      "summary": "Cisco issued patches for a denial‑of‑service zero‑day in ASA and FTD software that attackers exploit to crash SSL VPN devices remotely.",
-      "tags": [],
-      "title": "New Cisco firewall zero-day exploited to crash SSL VPN devices"
-    },
-    {
-      "added_at": 1793277016.6411653,
-      "ai": true,
-      "id": "dac38c3621393f159668730db73e0c5b301fd3ac",
-      "link": "https://www.securityweek.com/hackers-steal-2-6-million-records-from-sonys-japanese-isp-so-net/",
-      "published": 1793271600.0,
-      "source": "SecurityWeek",
-      "summary": "Hackers exposed 2.6 million records from Sony’s Japanese ISP So‑net, including 54,401 email passwords and 16 bank account records.",
-      "tags": [],
-      "title": "Hackers Steal 2.6 Million Records From Sony’s Japanese ISP So-net"
-    },
-    {
-      "added_at": 1793277016.6411653,
-      "ai": true,
-      "id": "083a1ea7d205dcd0ee26de4c0408cc98f6c997c6",
-      "link": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
-      "published": 1793270686.0,
-      "source": "The Hacker News",
-      "summary": "Cisco released patches for the high‑severity CVE‑2026‑76418 vulnerability in ASA and FTD software. The flaw, rated 8.6 on CVSS, could allow unauthenticated remote attackers to crash firewalls. Patches are now available.",
-      "tags": [],
-      "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls"
-    },
-    {
-      "added_at": 1793277016.6411653,
-      "ai": true,
-      "id": "bb75bd85059e4eae3fd27b05b545dd0cd93b3b2c",
-      "link": "https://www.infosecurity-magazine.com/news/ico-reprimand-staffordshire-police/",
-      "published": 1793269800.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "The UK Information Commissioner’s Office reprimanded Staffordshire Police for a serious breach of personal data. The incident involved the mishandling of domestic abuse victim information. The regulator cited non‑compliance with privacy standards.",
-      "tags": [],
-      "title": "ICO Reprimands Staffordshire Police After Domestic Abuse Breach"
-    },
-    {
-      "added_at": 1793277016.6411653,
-      "ai": true,
-      "id": "13fcb92830692bfd14d639d7f52ac075aba62406",
-      "link": "https://www.securityweek.com/cisco-sd-wan-zero-day-exploitation-tied-to-volt-typhoons-silent-train-network/",
-      "published": 1793269765.0,
-      "source": "SecurityWeek",
-      "summary": "Cisco Talos linked a key‑stealing SD‑WAN malware to infrastructure overlapping Volt Typhoon’s Silent Train network. The attack vector exploits Cisco SD‑WAN components. The analysis was published by SecurityWeek.",
-      "tags": [],
-      "title": "Cisco SD-WAN Zero-Day Exploitation Tied to Volt Typhoon’s ‘Silent Train’ Network"
-    },
-    {
-      "added_at": 1793277016.6411653,
-      "ai": true,
-      "id": "cf3544e85171cc16ca973871833ce35b604ebdab",
-      "link": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
-      "published": 1793269593.0,
-      "source": "The Hacker News",
-      "summary": "GitHub announced a preview of its npm firewall, designed to block malicious packages during installation. The firewall inspects metadata requests and downloads for malicious activity. It is currently available in public preview for npm only.",
-      "tags": [],
-      "title": "GitHub Launches npm Firewall to Block Malicious Packages Before Installation"
-    },
-    {
-      "added_at": 1793277016.6411653,
-      "ai": true,
-      "id": "196b1e60527b22e411e7bbb8a5dd9e3090f4789f",
-      "link": "https://www.darkreading.com/threat-intelligence/ai-relay-service-openai-codex-claude-code-sandboxes",
-      "published": 1793268000.0,
-      "source": "darkreading",
-      "summary": "A covert AI relay service supplies OpenAI Codex and Anthropic Claude code sandboxes to mainland China and other restricted regions. The service disables key security features, exposing users to risk. The relay operates without official authorization.",
-      "tags": [],
-      "title": "Shadowy AI Relay Disables OpenAI Codex, Claude Code Sandboxes"
-    },
-    {
-      "added_at": 1793277016.6411653,
-      "ai": true,
-      "id": "4faa48c4d2141f7b0d0f386fe6b08fbb421a7b8e",
-      "link": "https://blog.talosintelligence.com/nik-c2-new-ai-enabled-framework/",
-      "published": 1793268000.0,
-      "source": "Cisco Talos Blog",
-      "summary": "Cisco Talos identified a new AI‑enabled command‑and‑control framework named NIK C2 circulating in the wild. The framework integrates machine learning for command execution. It represents an emerging threat vector.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "NIK C2: The new AI-enabled command-and-control framework"
-    },
-    {
-      "added_at": 1793277016.6411653,
-      "ai": true,
-      "id": "77d976efa8e038791409be4489a263c75b77385b",
-      "link": "https://www.securityweek.com/attackers-exploit-second-cisco-firewall-vpn-zero-day-since-august/",
-      "published": 1793267230.0,
-      "source": "SecurityWeek",
-      "summary": "An exploited flaw in Cisco’s Remote Access SSL VPN forces ASA and FTD firewalls to reload, enabling unauthenticated attackers to trigger a reboot. This is the second zero‑day discovered since August. The vulnerability is actively used in the wild.",
-      "tags": [],
-      "title": "Attackers Exploit Second Cisco Firewall VPN Zero-Day Since August"
-    },
-    {
-      "added_at": 1793277016.6411653,
-      "ai": true,
-      "id": "2fdd5645c5cffdee9cacfb36d5db8c670135d416",
-      "link": "https://www.infosecurity-magazine.com/news/nist-guidance-post-quantum/",
-      "published": 1793267100.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "NIST released guidance to help federal agencies prioritize post‑quantum cryptography adoption for sensitive systems. The guidance aims to meet the 2031 transition deadline. It outlines a phased implementation roadmap.",
-      "tags": [],
-      "title": "NIST Publishes Guidance to Meet Federal Post-Quantum Deadlines"
-    },
-    {
-      "added_at": 1793277016.6411653,
-      "ai": true,
-      "id": "9ac8296dadd769b28e5246e5d18338a6094d02df",
-      "link": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
-      "published": 1793264739.0,
-      "source": "The Hacker News",
-      "summary": "An attacker attempted to exploit the critical GitLab CVE‑2026‑97229 vulnerability on Alpine Linux’s own GitLab server. The flaw, with a CVSS score of 10.0, could allow code execution via a crafted CI configuration. No successful exploitation was reported.",
-      "tags": [],
-      "title": "Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open"
-    },
-    {
-      "added_at": 1793277016.6411653,
-      "ai": true,
-      "id": "58a8bbb3b7a1caf4923c67a16013fed434f7f339",
-      "link": "https://www.infosecurity-magazine.com/news/robot-malware-indian-bank-customers/",
-      "published": 1793264400.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "MR ROBOT, an Android malware‑as‑a‑service platform, rents banking trojans that steal one‑time passwords and card data. The malware targets customers of Indian banks. It operates by compromising mobile devices.",
-      "tags": [],
-      "title": "MR ROBOT Malware-as-a-Service Targets Indian Bank Customers"
-    },
-    {
-      "added_at": 1793277016.6411653,
-      "ai": true,
-      "id": "3974020733a46558a4580f6bbc048f0537815314",
-      "link": "https://www.theregister.com/security/2026/10/29/admin-dropped-the-f-bomb-in-a-password-to-show-hackers-who-was-really-1337/5306139",
-      "published": 1793264400.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "Admin used profanity in a password to deter hackers, but overall security controls were inadequate.",
-      "tags": [],
-      "title": "Admin dropped the F-bomb in a password to show hackers who was really 1337"
-    },
-    {
-      "added_at": 1793277016.6411653,
-      "ai": true,
-      "id": "b3306983de0025efdaf0da0338bc7141a818f936",
-      "link": "https://www.securityweek.com/hhs-filing-puts-irhythm-data-breach-toll-at-8-2-million/",
-      "published": 1793262436.0,
-      "source": "SecurityWeek",
-      "summary": "iRhythm data breach exposed personal and device information; HHS estimates 8.2 million victims.",
-      "tags": [],
-      "title": "HHS Filing Puts iRhythm Data Breach Toll at 8.2 Million"
-    },
-    {
-      "added_at": 1793277016.6411653,
-      "ai": true,
-      "id": "aabd8e14b2705c022ec387202e5323b42017afb9",
-      "link": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
-      "published": 1793262262.0,
-      "source": "The Hacker News",
-      "summary": "Attackers exploited a Cisco SD‑WAN flaw to deploy KeyDrift malware that copies encryption keys; the vulnerability was fixed in February.",
-      "tags": [],
-      "title": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys"
-    },
-    {
-      "added_at": 1793277016.6411653,
-      "ai": true,
-      "id": "ef44306c2f44aa10e474356feae6bc4532bb73cf",
-      "link": "https://www.securityweek.com/chinese-hackers-quietly-used-low-severity-esxi-logging-flaw-as-zero-day/",
-      "published": 1793260865.0,
-      "source": "SecurityWeek",
-      "summary": "CVE‑2026‑41709 allowed privileged attackers to perform actions without logging; Chinese threat actors used it as a zero‑day.",
-      "tags": [],
-      "title": "Chinese Hackers Quietly Used Low-Severity ESXi Logging Flaw as Zero-Day"
-    },
-    {
-      "added_at": 1793277016.6411653,
-      "ai": true,
-      "id": "7db6fdf963feec19c82b14935164cb033bb4e2bd",
-      "link": "https://securelist.com/netamloader/121676/",
-      "published": 1793260815.0,
-      "source": "Securelist",
-      "summary": "Kaspersky identified a targeted campaign using NetamLoader against a government‑specific Windows 10 build in Asia.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Unknown APT uses NetamLoader to attack a Win10 OS customized for governments in Asia"
-    },
-    {
-      "added_at": 1793277016.6411653,
-      "ai": true,
-      "id": "75699bb6148a5fef90888f584275755447764aa4",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy",
-      "published": 1793260800.0,
-      "source": "darkreading",
-      "summary": "Researchers note that Italy’s cyber threat landscape differs markedly from global patterns, with unclear reasons.",
-      "tags": [],
-      "title": "Cyber Vulnerabilities Besiege Italy, Absent Clear Cause"
-    },
-    {
-      "added_at": 1793277016.6411653,
-      "ai": true,
-      "id": "e417a2d85675ac476a7fcdabdd18a77d9d4535d2",
-      "link": "https://www.helpnetsecurity.com/2026/10/29/nathan-smolenski-qualys-ai-vulnerability-management/",
-      "published": 1793255404.0,
-      "source": "Help Net Security",
-      "summary": "Qualys CISO advises teams to focus on exposure windows, prioritize high‑risk flaws, and build trust amid rising AI‑discovered vulnerabilities.",
-      "tags": [],
-      "title": "Qualys CISO on what security teams can do as exploit campaigns grow"
-    },
-    {
-      "added_at": 1793277016.6411653,
-      "ai": true,
-      "id": "e91f33b06ca8a97a1f9adc4b4a4f9023c4bf0e32",
-      "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
-      "published": 1793254953.0,
-      "source": "The Hacker News",
-      "summary": "CISA added CVE‑2026‑41709 to KEV after CrowdStrike confirmed China‑linked Warp Panda used it to hide activity in VMware ESX.",
-      "tags": [],
-      "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility"
-    },
-    {
-      "added_at": 1793277016.6411653,
-      "ai": true,
-      "id": "5168ee6bd7a18b93eb9693b61bfce84455abefbd",
-      "link": "https://www.helpnetsecurity.com/2026/10/29/tls-certificate-automation-report/",
-      "published": 1793253606.0,
-      "source": "Help Net Security",
-      "summary": "Survey shows 40 % of senior IT leaders feel prepared for TLS renewals, but only 4 % have fully automated certificate management; 61 % experienced outages.",
-      "tags": [],
-      "title": "IT bosses are confident they’ve found the certificates they don’t know about"
-    },
-    {
-      "added_at": 1793277016.6411653,
-      "ai": true,
-      "id": "f4eff089be53135d55f7b4112e917368e7820a0c",
-      "link": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
-      "published": 1793253017.0,
-      "source": "The Hacker News",
-      "summary": "Palo Alto warned that threat actors are exploiting patched PHP2Shell vulnerabilities on publicly exposed management interfaces; active exploitation observed.",
-      "tags": [],
-      "title": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces"
-    },
-    {
-      "added_at": 1793277016.6411653,
-      "ai": true,
-      "id": "e3cac517c3960fde776bcc82250af0c5f6f072d7",
-      "link": "https://www.helpnetsecurity.com/2026/10/29/itrc-identity-theft-recovery-report/",
-      "published": 1793251822.0,
-      "source": "Help Net Security",
-      "summary": "The 2026 ITRC Consumer Impact Report found that scam victims often suffer shame and self‑blame, while identity theft victims spend weeks repairing damage. The study surveyed 1,111 U.S. respondents.",
-      "tags": [],
-      "title": "Shame and sleepless nights haunt scam victims long after the money is gone"
-    },
-    {
-      "added_at": 1793277016.6411653,
-      "ai": true,
-      "id": "63cfb127a349200ced498d862187718345fcc2f0",
-      "link": "https://www.helpnetsecurity.com/2026/10/29/cis-k-12-cybersecurity/",
-      "published": 1793250001.0,
-      "source": "Help Net Security",
-      "summary": "808 K‑12 districts had staff credentials sold on dark‑web marketplaces, enabling attackers to move between schools. This represents 13% of the 6,116 MS‑ISAC members.",
-      "tags": [],
-      "title": "Stolen staff logins are spreading attacks between K-12 school districts"
-    },
-    {
-      "added_at": 1793277016.6411653,
-      "ai": true,
-      "id": "3669b5926a42efa19ccc6d631525662d2aeea4e4",
-      "link": "https://cyberscoop.com/virtualine-bulletproof-hosting-provider-seized/",
-      "published": 1793234299.0,
-      "source": "CyberScoop",
-      "summary": "Authorities seized the domain of Virtualine, a Russian‑speaking bullet‑proof hosting provider that accounted for nearly 20% of illicit inflow tracked by researchers.",
-      "tags": [],
-      "title": "Officials seize domain of top bulletproof hosting provider Virtualine"
-    },
-    {
-      "added_at": 1793277016.6411653,
-      "ai": true,
-      "id": "99e7d99b0dd331dc2a529085f7dcb606f443f3c0",
-      "link": "https://grahamcluley.com/smashing-security-podcast-490/",
-      "published": 1793233016.0,
-      "source": "GRAHAM CLULEY",
-      "summary": "The Smashing Security podcast discussed claims that Jared Kushner’s iPhone was hacked twice by Dutch spies and Russian hackers, highlighting concerns about phone security. It also examined weak security keys used by trusted devices.",
-      "tags": [],
-      "title": "Smashing Security podcast #490: How Jared Kushner’s iPhone was allegedly hacked twice"
-    },
-    {
-      "added_at": 1793277016.6411653,
-      "ai": true,
-      "id": "943e231b105b7cd36ebff9c5e0992e25af4828c2",
-      "link": "https://www.securityweek.com/upwind-security-raises-400-million-at-3-8-billion-valuation/",
-      "published": 1793195810.0,
-      "source": "SecurityWeek",
-      "summary": "Upwind Security raised $400 million in a funding round, valuing the company at $3.8 billion. The round followed acquisition interest from firms such as Datadog.",
-      "tags": [],
-      "title": "Upwind Security Raises $400 Million at $3.8 Billion Valuation"
-    },
-    {
-      "added_at": 1793277016.6411653,
-      "ai": true,
-      "id": "219f99ac76bfe58137b465cc20372739f2386e00",
-      "link": "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/",
-      "published": 1793195459.0,
-      "source": "BleepingComputer",
-      "summary": "PHP2Shell shows attackers can exploit critical vulnerabilities before patches are applied, emphasizing that blast radius matters more than CVSS scores. Limiting access for service accounts, API keys, and AI agents is as important as patching.",
-      "tags": [],
-      "title": "Even after PHP2Shell, blast radius matters more than a CVSS score"
-    },
-    {
-      "added_at": 1793277016.6411653,
-      "ai": true,
-      "id": "04dad7bd605d46ca79dd821cc2c77e4f35b8f831",
-      "link": "https://www.securityweek.com/chrome-and-firefox-updates-patch-over-200-vulnerabilities/",
-      "published": 1793194775.0,
-      "source": "SecurityWeek",
-      "summary": "Chrome 156 fixed 52 bugs, while Firefox 159 released with 167 security patches, together addressing over 200 vulnerabilities.",
-      "tags": [],
-      "title": "Chrome and Firefox Updates Patch Over 200 Vulnerabilities"
-    },
-    {
-      "added_at": 1793277016.6411653,
-      "ai": true,
-      "id": "1e20ad9d24a5312aad007ae09b29613d970da8a3",
-      "link": "https://www.rapid7.com/blog/post/pt-insightgovcloud-supports-bod-22-01-compliance",
-      "published": 1793193399.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "Rapid7 InsightGovCloud supports BOD 22‑01 compliance by cataloguing exploited vulnerabilities and ensuring timely remediation for public and private sector organizations.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "How Rapid7 InsightGovCloud Supports BOD 22-01 Compliance"
-    },
-    {
-      "added_at": 1793277016.6411653,
-      "ai": true,
-      "id": "84fd85017893251248b6187d9c9b540b59ae65b0",
-      "link": "https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/",
-      "published": 1793193034.0,
-      "source": "SecurityWeek",
-      "summary": "FoxIO disclosed three TLS bugs in the GoAhead web server that allow revoked certificates or expose encrypted sessions, affecting hundreds of millions of devices.",
-      "tags": [],
-      "title": "TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices"
-    },
-    {
-      "added_at": 1793277016.6411653,
-      "ai": true,
-      "id": "29d08fa787d95cda98bc924cbc078268fbe4923c",
-      "link": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
-      "published": 1793191683.0,
-      "source": "The Hacker News",
-      "summary": "Threat actors are probing the newly patched CVE‑2026‑101767, a critical RCE flaw in Oracle E‑Business Suite, after Oracle released a security patch last week.",
-      "tags": [],
-      "title": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch"
-    },
-    {
       "added_at": 1793313196.7375028,
       "ai": true,
       "id": "a6d0e88b749ca24bbcc6e89cf35c90492c49be81",
@@ -2277,6 +1829,492 @@
       "summary": "Microsoft reported that a Chinese state‑affiliated actor used the ARTEX agentic AI platform to compromise multiple ConnectWise tenant environments.",
       "tags": [],
       "title": "Microsoft: Chinese State Actor Used AI to Compromise ConnectWise Tenants"
+    },
+    {
+      "added_at": 1793481015.4266088,
+      "ai": true,
+      "id": "ba55b05e53eaee48de7b6384a3750f1b305c9cca",
+      "link": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
+      "published": 1793469672.0,
+      "source": "BleepingComputer",
+      "summary": "Northflank experienced a breach that exposed customers' AI API keys. The platform is urging all users to rotate credentials and secrets stored on its service.",
+      "tags": [],
+      "title": "Northflank security breach leads to abuse of customers' AI API keys"
+    },
+    {
+      "added_at": 1793481015.4266088,
+      "ai": true,
+      "id": "845cf24b8961170f2c02854330017f3fa7d94174",
+      "link": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
+      "published": 1793460911.0,
+      "source": "BleepingComputer",
+      "summary": "A researcher released a proof‑of‑concept for the Android CVE‑2026‑58882 “SMS of Death” exploit. It can crash unpatched phones or disrupt cellular service via a crafted text message.",
+      "tags": [],
+      "title": "New Android SMS of Death exploit can remotely crash unpatched phones"
+    },
+    {
+      "added_at": 1793481015.4266088,
+      "ai": true,
+      "id": "b35f9e575d4ba90396d180a1d7d99a0ca311e205",
+      "link": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
+      "published": 1793455515.0,
+      "source": "BleepingComputer",
+      "summary": "Reddit will transition to a logged‑in‑only model, restricting access to content for visitors without accounts. The change will gradually phase out public browsing.",
+      "tags": [],
+      "title": "Reddit to lock content behind logins to fight scrapers"
+    },
+    {
+      "added_at": 1793481015.4266088,
+      "ai": true,
+      "id": "4e3b797fd4a7ce3d9640e65cf6ad7c2f555a9ad3",
+      "link": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
+      "published": 1793452219.0,
+      "source": "BleepingComputer",
+      "summary": "TryHackMe explains how AI‑generated vulnerability reports complicate bug bounty participation. It offers guidance for beginners to develop practical skills, responsibly use AI, and produce reproducible findings.",
+      "tags": [],
+      "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era."
+    },
+    {
+      "added_at": 1793481015.4266088,
+      "ai": true,
+      "id": "a291b7051796cec42f6299d8ea23ca120fac38ba",
+      "link": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
+      "published": 1793451009.0,
+      "source": "BleepingComputer",
+      "summary": "Chainalysis revealed a breach where attackers used offensive agentic techniques to access internal systems. The incident exposed customer names, emails, user IDs, and roles.",
+      "tags": [],
+      "title": "Chainalysis discloses data breach from \"offensive agentic techniques\""
+    },
+    {
+      "added_at": 1793481015.4266088,
+      "ai": true,
+      "id": "1f2870fb86dff659ccea1bae779e011811bea42a",
+      "link": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
+      "published": 1793448116.0,
+      "source": "The Hacker News",
+      "summary": "Chainalysis confirmed an intrusion that accessed non‑sensitive customer data but did not compromise investigation content, credentials, or session tokens.",
+      "tags": [],
+      "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data"
+    },
+    {
+      "added_at": 1793481015.4266088,
+      "ai": true,
+      "id": "5be14df72cefaec084b390b06d38baa6a84ee51e",
+      "link": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+      "published": 1793448000.0,
+      "source": "Cisco Talos Blog",
+      "summary": "The VOLTA infostealer deletes itself after collecting credentials, sessions, and crypto wallets. It then uses LLMs to profile victims and rank their most valuable assets.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "Appraisal by AI: Model-driven victim prioritization in the VOLTA infostealer"
+    },
+    {
+      "added_at": 1793481015.4266088,
+      "ai": true,
+      "id": "1afcb21b97fb0a5d5c141faf7be7cdc645e253fc",
+      "link": "https://www.theregister.com/security/2026/10/24/autonomous-attack-agent-in-skynet-mode-hijacks-other-models-to-carry-out-its-evil-deeds/5305215",
+      "published": 1792846920.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "A new autonomous attack agent can hijack other AI models to execute malicious tasks without human approval, performing up to 100,000 steps.",
+      "tags": [],
+      "title": "Autonomous attack agent in 'Skynet mode' hijacks other models to carry out its evil deeds"
+    },
+    {
+      "added_at": 1793481015.4266088,
+      "ai": true,
+      "id": "bbcc8b755f8a7d6036ec236c80a1e5b23668de9d",
+      "link": "https://www.infosecurity-magazine.com/news/php2shell-exploitation-attempt/",
+      "published": 1792663800.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "Amazon detected large‑scale exploitation attempts of two critical PHP vulnerabilities, PHP2Shell, four days before the public disclosure of the flaws.",
+      "tags": [],
+      "title": "PHP2Shell Exploitation Attempt Detected by Amazon Four Days Before Vulnerability Disclosure"
+    },
+    {
+      "added_at": 1793481015.4266088,
+      "ai": true,
+      "id": "4eda8a69789bd7de99fbe55b3abc668ca124b44c",
+      "link": "https://www.welivesecurity.com/en/eset-research/mythicratatoskr-yggdrasil-enabled-backdoor-deployed-uac0099-sandworm-collaboration/",
+      "published": 1792658700.0,
+      "source": "WeLiveSecurity",
+      "summary": "ESET identified MythicRatatoskr, a Go‑based backdoor that embeds its C&C server in the Yggdrasil mesh network, used in a destructive attack on a Ukrainian grain firm.",
+      "tags": [],
+      "title": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration"
+    },
+    {
+      "added_at": 1793481015.4266088,
+      "ai": true,
+      "id": "118eddf189096471b1e114626a8ab33a48abbaa0",
+      "link": "https://www.infosecurity-magazine.com/news/cloud-security-maturity-lags-sans/",
+      "published": 1792657200.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "SANS survey shows that while nearly all organizations run workloads in the cloud, most have not yet achieved mature cloud security programs.",
+      "tags": [],
+      "title": "Cloud Security Maturity Lags Despite Widespread Adoption, SANS Warns"
+    },
+    {
+      "added_at": 1793481015.4266088,
+      "ai": true,
+      "id": "0b85f8ae4b7ce69d94912280f730d6ac7e8af0a1",
+      "link": "https://securelist.com/uefi-bootkit-blackx/121539/",
+      "published": 1792648848.0,
+      "source": "Securelist",
+      "summary": "Kaspersky discovered a new UEFI bootkit, BlackX, that exploits the Baton Drop vulnerability (CVE-2022-21894) and is similar to the BlackLotus bootkit used by APT41 against diplomatic organizations in Central Asia.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "How APT41 revived the BlackLotus bootkit to attack diplomatic organizations in Central Asia"
+    },
+    {
+      "added_at": 1793481015.4266088,
+      "ai": true,
+      "id": "a734856ab1edb46538ab05527e494d8a77ef905b",
+      "link": "https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai",
+      "published": 1792645200.0,
+      "source": "darkreading",
+      "summary": "The United Arab Emirates is transitioning 50 % of its government services to agentic AI, establishing a foundation of security and safety for the transformation.",
+      "tags": [],
+      "title": "UAE Transitions 50% of Government Services to Agentic AI"
+    },
+    {
+      "added_at": 1793481015.4266088,
+      "ai": true,
+      "id": "70746d6279dbb67e6df6964c6904bbe70a45e046",
+      "link": "https://www.intigriti.com/blog/news/php2shell",
+      "published": 1792627200.0,
+      "source": "Intigriti",
+      "summary": "PHP core engine vulnerabilities CVE-2026-109618 and CVE-2026-109619 affect roughly 70 % of websites, posing a significant risk to a wide range of online services.",
+      "tags": [
+        "#bugbounty"
+      ],
+      "title": "Understanding PHP2Shell: Everything you need to know about CVE-2026-109618 & CVE-2026-109619"
+    },
+    {
+      "added_at": 1793481015.4266088,
+      "ai": true,
+      "id": "7682e78b06954e1f781ff8ffee07b349268d8673",
+      "link": "https://grahamcluley.com/smashing-security-podcast-489/",
+      "published": 1792624340.0,
+      "source": "GRAHAM CLULEY",
+      "summary": "The Smashing Security podcast discusses security concerns with new hardware wallets, malicious ads targeting journalists, and AI agents operating on employee laptops.",
+      "tags": [],
+      "title": "Smashing Security podcast #489: How a brand new crypto wallet came with a spy inside"
+    },
+    {
+      "added_at": 1793481015.4266088,
+      "ai": true,
+      "id": "7bcbd743c3f71fbeb2e5c215d639c8c03941281e",
+      "link": "https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security",
+      "published": 1792617339.0,
+      "source": "darkreading",
+      "summary": "A TiDB breach revealed that cloud providers may store sensitive customer data without either party’s knowledge, exposing hidden information when a provider is compromised.",
+      "tags": [],
+      "title": "TiDB Breach Exposes Flawed Cloud Security Assumptions"
+    },
+    {
+      "added_at": 1793481015.4266088,
+      "ai": true,
+      "id": "52e40e7e7ea6b259f03f6be7d517275998784d2a",
+      "link": "https://blog.talosintelligence.com/compromised-intermediate-certificates/",
+      "published": 1792615409.0,
+      "source": "Cisco Talos Blog",
+      "summary": "Cisco Talos identified eight compromised intermediate certificates belonging to the eMudhra certificate authority.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "Compromised eMudhra intermediate certificates"
+    },
+    {
+      "added_at": 1793481015.4266088,
+      "ai": true,
+      "id": "f6f763b9dab26a6f2319545abdbf70d79082cc5e",
+      "link": "https://www.darkreading.com/cloud-security/marvell-microsoft-oracle-standardize-data-center-hardware-security",
+      "published": 1792613682.0,
+      "source": "darkreading",
+      "summary": "Marvell, Microsoft, and Oracle are collaborating to standardize a NIST FIPS 140‑3 Level 3 integrated HSM for cloud and hyperscale data center infrastructure.",
+      "tags": [],
+      "title": "Marvell, Microsoft & Oracle Work to Standardize Data Center Hardware Security"
+    },
+    {
+      "added_at": 1793481015.4266088,
+      "ai": true,
+      "id": "24755a352d3db0870291b01911ace38663240799",
+      "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
+      "published": 1792596367.0,
+      "source": "Krebs on Security",
+      "summary": "Critical PHP vulnerabilities could cause widespread site outages; about 70 % of websites need updates, and exploits are already active in the wild.",
+      "tags": [],
+      "title": "Widespread PHP Flaw May Cause Many Site Outages Today"
+    },
+    {
+      "added_at": 1793481015.4266088,
+      "ai": true,
+      "id": "bb6dba2465a6fa419babc51ca4f7ea5ef9164811",
+      "link": "https://securelist.com/tr/php2shell-critical-vulnerabilities-in-php/121596/",
+      "published": 1792595884.0,
+      "source": "Securelist",
+      "summary": "The leak of PHP RCE vulnerabilities CVE-2026-109618 and CVE-2026-109619 is discussed, with Kaspersky solutions detecting the PHP2Shell exploit and examples using KEDR, KATA, and KES.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "Critical RCE vulnerabilities in PHP (CVE-2026-109618, CVE-2026-109619)"
+    },
+    {
+      "added_at": 1793481015.4266088,
+      "ai": true,
+      "id": "95210f1a65abdba3c79cb6150562760a86e61bfe",
+      "link": "https://blog.talosintelligence.com/two-critical-rces-in-php-core/",
+      "published": 1792595453.0,
+      "source": "Cisco Talos Blog",
+      "summary": "Two critical remote code execution vulnerabilities were discovered in PHP core, potentially affecting the broader PHP ecosystem. Talos has released a blog detailing the vulnerabilities and Snort rule coverage.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "Two critical RCEs in PHP core"
+    },
+    {
+      "added_at": 1793481015.4266088,
+      "ai": true,
+      "id": "39c22ce6b5e8da340e7220793c2b1fadca614e06",
+      "link": "https://www.infosecurity-magazine.com/news/new-phaas-uses-ai-phishing-lures/",
+      "published": 1792594800.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "Athena StealthRoute, a phishing-as-a-service platform, uses an AI Studio to generate phishing lures and decoy content that masks malicious activity.",
+      "tags": [],
+      "title": "New PhaaS Platform Uses AI to Craft Phishing Lures and Mask Malicious Activity"
+    },
+    {
+      "added_at": 1793481015.4266088,
+      "ai": true,
+      "id": "b96c0a11c50af1f6bd0115906d7bd38b497de19f",
+      "link": "https://unit42.paloaltonetworks.com/ai-assisted-cybercrime-analysis/",
+      "published": 1792591224.0,
+      "source": "Unit 42",
+      "summary": "A threat actor used AI to bypass safety controls and coordinate credential theft, VoIP fraud, and database exfiltration, as detailed in Unit 42's investigation.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "“Next Exploit Opportunities”: How a Threat Actor Used AI to Help Plan and Execute Multiple Types of Cybercrime Activities"
+    },
+    {
+      "added_at": 1793481015.4266088,
+      "ai": true,
+      "id": "2414dca819ad256636e293739b4c12e5a717965e",
+      "link": "https://www.infosecurity-magazine.com/news/symantec-ai-agent-llmjacking/",
+      "published": 1792591200.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "Symantec researchers identified an AI agent capable of autonomously executing full cyber-attacks without human intervention.",
+      "tags": [],
+      "title": "Symantec Uncovers AI Agent Hijacking Models for Autonomous Cyber-Attacks"
+    },
+    {
+      "added_at": 1793481015.4266088,
+      "ai": true,
+      "id": "9f5f211eabb4d317151196882057d9f1a3bdb07b",
+      "link": "https://www.rapid7.com/blog/post/tr-q3-2026-threat-update-attackers-exploiting-vulnerabilities-within-3-days",
+      "published": 1792587600.0,
+      "source": "Rapid7 Cybersecurity Blog",
+      "summary": "Rapid7's Q3 2026 Threat Landscape Report shows an average of three days from vulnerability disclosure to exploitation, with 71% of incidents occurring within the first week.",
+      "tags": [
+        "#vulnerability"
+      ],
+      "title": "Q3 2026 Threat Update: Attackers Are Exploiting Vulnerabilities Within 3 Days"
+    },
+    {
+      "added_at": 1793481015.4266088,
+      "ai": true,
+      "id": "c24ca7c42eb6b473dd24d2bc6b610b8e5da8492d",
+      "link": "https://www.infosecurity-magazine.com/news/rival-gangs-vie-for-market/",
+      "published": 1792584000.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "Ransomware groups The Gentlemen and Qilin are intensifying attacks and evolving tactics to outdo each other, driving an increase in ransomware incidents.",
+      "tags": [],
+      "title": "Ransomware Attacks Rise as Rival Gangs Vie For Market Supremacy"
+    },
+    {
+      "added_at": 1793481015.4266088,
+      "ai": true,
+      "id": "8e7d8bc5cf3125364d7cb9bcf931d27e2b52ff64",
+      "link": "https://www.schneier.com/blog/archives/2026/10/workshop-on-economics-and-information-security-weis-archive.html",
+      "published": 1792580542.0,
+      "source": "Schneier on Security",
+      "summary": "A new archive now contains all papers from 25 years of the Workshop on Economics and Information Security, providing a valuable resource for researchers.",
+      "tags": [
+        "#opinion"
+      ],
+      "title": "Workshop on Economics and Information Security (WEIS) Archive"
+    },
+    {
+      "added_at": 1793481015.4266088,
+      "ai": true,
+      "id": "eee29200b0c94216719028b5ef6260329d7fa2b6",
+      "link": "https://www.infosecurity-magazine.com/news/safepay-compromised-critical/",
+      "published": 1792580400.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "CISA issued an advisory warning that SafePay has compromised 600 critical infrastructure victims globally and urged defenders to mitigate the group's tactics.",
+      "tags": [],
+      "title": "SafePay Has Compromised 600 Critical Infrastructure Victims Worldwide, CISA Warns"
+    },
+    {
+      "added_at": 1793481015.4266088,
+      "ai": true,
+      "id": "1208df3b3557942f6d14e942e2d8071f40ae781f",
+      "link": "https://www.infosecurity-magazine.com/news/critical-php-vulnerabilities-leaked/",
+      "published": 1792578000.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "Two critical PHP vulnerabilities were leaked one day before their scheduled disclosure and patch release, potentially exposing systems early.",
+      "tags": [],
+      "title": "Critical PHP Vulnerabilities Leaked Ahead of Scheduled Security Patches"
+    },
+    {
+      "added_at": 1793481015.4266088,
+      "ai": true,
+      "id": "5cdc0ab0264aec106ff82b169121cc5b20e69c57",
+      "link": "https://blog.talosintelligence.com/parasitizing-trust-how-legitimate-infrastructure-becomes-a-delivery-pipeline-for-attackers/",
+      "published": 1792576800.0,
+      "source": "Cisco Talos Blog",
+      "summary": "Cisco Talos observed that attackers abused more than 25 trusted platforms, using collaboration, file-sharing, and payment services to deliver malicious activity.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "Parasitizing trust: How legitimate infrastructure becomes a delivery pipeline for attackers"
+    },
+    {
+      "added_at": 1793481015.4266088,
+      "ai": true,
+      "id": "a72ec2f2944e7e53436239c7bbf6224c4f336f90",
+      "link": "https://securelist.com/lazarus-operation-flashhole/121541/",
+      "published": 1792548449.0,
+      "source": "Securelist",
+      "summary": "Kaspersky researchers detail Operation FlashHole, a complex Lazarus attack that employed sophisticated malware, a watering‑hole technique, and exploitation of CrossWeb EX financial security software.\nThe operation demonstrates advanced persistence and evasion tactics.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "Operation FlashHole: Lazarus breaks security, defies control"
+    },
+    {
+      "added_at": 1793481015.4266088,
+      "ai": true,
+      "id": "82627ad424902f8a418092d1e5d7be4912ef7677",
+      "link": "https://www.intigriti.com/blog/business-insights/ai-raised-the-floor-the-hacker-crowd-keeps-raising-the-ceiling",
+      "published": 1792540800.0,
+      "source": "Intigriti",
+      "summary": "Intigriti platform data shows AI raises the baseline for vulnerability discovery while the human crowd expands the upper limit.\nResearchers are moving from single prompts to multi‑agent, always‑on workflows to improve coverage.",
+      "tags": [
+        "#bugbounty"
+      ],
+      "title": "AI raised the floor. The hacker crowd keeps raising the ceiling."
+    },
+    {
+      "added_at": 1793481015.4266088,
+      "ai": true,
+      "id": "79b4014f667cba1b1a55f9fad342f8874e4954bb",
+      "link": "https://blog.talosintelligence.com/theres-only-so-much-code-the-rise-in-vulnerability-numbers/",
+      "published": 1792510282.0,
+      "source": "Cisco Talos Blog",
+      "summary": "Microsoft Patch Tuesday released 975 vulnerability advisories; this month 1,415 vulnerabilities were reported, far above the pre‑June average of 100 per month.\nThe article examines the sources of this surge and its implications for the future.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "There's only so much code: the rise in vulnerability numbers"
+    },
+    {
+      "added_at": 1793481015.4266088,
+      "ai": true,
+      "id": "ce48c7fb264138d8526b6009cee06bae56ced506",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/qilin-ransomware-arrested-synnovis-patient-death",
+      "published": 1792489309.0,
+      "source": "GRAHAM CLULEY",
+      "summary": "German police arrested a 28‑year‑old Russian man suspected of leading the Qilin ransomware gang.\nInvestigators link him to the Synnovis attack that disrupted London hospitals and contributed to a patient’s death.",
+      "tags": [],
+      "title": "Police arrest Qilin ransomware suspect on holiday, as links made to Synnovis hack that contributed to patient’s death"
+    },
+    {
+      "added_at": 1793481015.4266088,
+      "ai": true,
+      "id": "b892b9f7a4b76dc037e3fae8a7d341e5c52c957a",
+      "link": "https://www.welivesecurity.com/en/social-media/is-ad-scam-how-tell-before-click/",
+      "published": 1792486800.0,
+      "source": "WeLiveSecurity",
+      "summary": "Even trusted social media platforms can host scam ads.\nThe article explains how to identify fraudulent advertisements before clicking.",
+      "tags": [],
+      "title": "Is the ad a scam? How to tell before you click"
+    },
+    {
+      "added_at": 1793481015.4266088,
+      "ai": true,
+      "id": "0ddc2ba2b197e1d513580ae3874888ecfa2613f2",
+      "link": "https://securelist.com/paper-unicorn-warehouse-security/121537/",
+      "published": 1792479645.0,
+      "source": "Securelist",
+      "summary": "Kaspersky experts analyze security challenges in modern warehouse environments.\nThey detail initial access vectors and the potential impact of a compromise.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "The journey of a paper unicorn: adventures inside a modern warehouse"
+    },
+    {
+      "added_at": 1793481015.4266088,
+      "ai": true,
+      "id": "71965359535822fcfe9719d5f2b91dc6c692ed96",
+      "link": "https://www.rapid7.com/blog/post/ai-inhuman-insider-threats-securing-agents",
+      "published": 1792427683.0,
+      "source": "Rapid7 Cybersecurity Blog",
+      "summary": "The article argues that AI agents require external controls to mitigate insider threats.\nSecurity teams should implement and maintain controls outside the agent, following proven privileged‑user playbooks.",
+      "tags": [
+        "#vulnerability"
+      ],
+      "title": "Your Next Insider Threat Won’t be Human: Securing AI Agents From the Outside in"
+    },
+    {
+      "added_at": 1793481015.4266088,
+      "ai": true,
+      "id": "d43c265cb0a39bedec0c60a6c00354ed18bbaa72",
+      "link": "https://www.rapid7.com/blog/post/ve-authentication-bypass-remote-code-execution-and-database-read-in-eptura-archibus-fixed",
+      "published": 1792425463.0,
+      "source": "Rapid7 Cybersecurity Blog",
+      "summary": "Rapid7 discovered three vulnerabilities in Eptura Archibus: authentication bypass, remote code execution, and full database read via a legacy API endpoint.\nAll carry high CVSS scores (8.5–8.6).",
+      "tags": [
+        "#vulnerability"
+      ],
+      "title": "Authentication Bypass, Remote Code Execution, and Database Read in Eptura Archibus (FIXED)"
+    },
+    {
+      "added_at": 1793481015.4266088,
+      "ai": true,
+      "id": "1984747c4f33937c6fad5c977948fdc3d876f924",
+      "link": "https://www.rapid7.com/blog/post/ra-netscaler-intrusions-chaining-cve-2026-88771-and-cve-2026-88779",
+      "published": 1792422717.0,
+      "source": "Rapid7 Cybersecurity Blog",
+      "summary": "Rapid7 investigated a Citrix NetScaler ADC compromise using CVE‑2026‑88771 and CVE‑2026‑88779.\nThe intrusion achieved root code execution, persistence mechanisms, PHP web shells, and outbound command‑and‑control.",
+      "tags": [
+        "#vulnerability"
+      ],
+      "title": "Rapid7 Analysis: NetScaler intrusions chaining CVE-2026-88771 and CVE-2026-88779"
+    },
+    {
+      "added_at": 1793481015.4266088,
+      "ai": true,
+      "id": "c7fd768c926c2c12696739ed099de0efa802eb0e",
+      "link": "https://www.rapid7.com/blog/post/etr-cve-2026-102764-critical-beyondtrust-remote-support-authentication-bypass-exploited-in-the-wild",
+      "published": 1792420444.0,
+      "source": "Rapid7 Cybersecurity Blog",
+      "summary": "BeyondTrust disclosed CVE‑2026‑102764, a critical authentication bypass in Remote Support that allows unauthenticated attackers to perform file operations.\nThe vulnerability has a CVSSv4 score of 9.3.",
+      "tags": [
+        "#vulnerability"
+      ],
+      "title": "CVE-2026-102764: Critical BeyondTrust Remote Support Authentication Bypass Exploited in the Wild"
     }
   ],
   "posted": []
