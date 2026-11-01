@@ -1,7 +1,73 @@
 {
-  "generated_at": 1793481015.4349985,
-  "count": 126,
+  "generated_at": 1793537491.3758154,
+  "count": 57,
   "items": [
+    {
+      "title": "Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations",
+      "summary": "Northstar Security raised $7 million to exit stealth and launch a platform that maps identities, assets, and vulnerabilities, using AI agents to identify and remediate toxic risk combinations.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/",
+      "published": 1793531700.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793537491.3697815
+    },
+    {
+      "title": "Week in review: Binance hit by $6.3 billion theft, impact of Brotli vulnerability",
+      "summary": "The week’s review covers the Binance $6.3 billion theft, the impact of the Brotli compression vulnerability, and the r/opensource community’s decision to ban AI‑related projects.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/11/01/week-in-review-binance-hit-by-6-3-billion-theft-impact-of-brotli-vulnerability/",
+      "published": 1793523600.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793537491.3697815
+    },
+    {
+      "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
+      "summary": "A critical flaw in Canonical’s LXD and MicroCloud lets attackers impersonate trusted clients by accessing the HTTPS API with a public certificate, granting them cluster and VM access without a private key.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
+      "published": 1793523091.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793537491.3697815
+    },
+    {
+      "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
+      "summary": "Polymarket’s site was compromised by a hijacked DebugBear script that stole traders’ positions and transferred about $2.7 million to attackers; the company is refunding affected wallets.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
+      "published": 1793517940.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793537491.3697815
+    },
+    {
+      "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
+      "summary": "The FBI attributes the record $6.43 billion Binance crypto heist to the North Korea‑aligned group TraderTraitor, also known as Jade Sleet and other aliases, with support from the USSS and IRS‑CI.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
+      "published": 1793516580.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793537491.3697815
+    },
+    {
+      "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
+      "summary": "Kaspersky uncovered NetamLoader, a sophisticated malware chain that targets custom Windows 10 builds used by Asian governments, deploying an undocumented .NET assembly‑loading framework.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
+      "published": 1793516578.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793537491.3697815
+    },
     {
       "title": "Northflank security breach leads to abuse of customers' AI API keys",
       "summary": "Northflank experienced a breach that exposed customers' AI API keys. The platform is urging all users to rotate credentials and secrets stored on its service.",
@@ -561,28 +627,6 @@
       "ts": 1793397723.8547568
     },
     {
-      "title": "Fresh WordPress Vulnerability in Attackers’ Crosshairs",
-      "summary": "Threat actors target a high‑severity unauthenticated race condition in WordPress that can lead to remote code execution.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/fresh-wordpress-vulnerability-in-attackers-crosshairs/",
-      "published": 1793361853.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793362933.5260088
-    },
-    {
-      "title": "Chinese Actor Compromises US Government Network Via Chained PHP2Shell Exploit",
-      "summary": "A suspected Chinese‑nexus actor gained root access to Palo Alto Network firewall servers and used the intrusion to target U.S. government organizations.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/chinese-us-government-chained-php2/",
-      "published": 1793361600.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793362933.5260088
-    },
-    {
       "title": "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
       "summary": "The article explains why urgent security patches often remain unimplemented. It highlights the need for observable proof that changes will not disrupt services, balancing security with availability. It calls for a structured approach to patch deployment.",
       "source": "The Hacker News",
@@ -592,312 +636,6 @@
       "ai": true,
       "status": "queued",
       "ts": 1793397723.8547568
-    },
-    {
-      "title": "British intelligence agency misplaced 'thousands' of storage devices, years later still can't say how many",
-      "summary": "A British intelligence agency lost thousands of storage devices and remains uncertain of the exact count; the incident also involved an unchecked software bug linked to Terrorism Act detentions.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/security/2026/10/30/british-intelligence-agency-misplaced-thousands-of-storage-devices-years-later-still-cant-say-how-many/5306605",
-      "published": 1793360700.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793362933.5260088
-    },
-    {
-      "title": "Polymarket confirms cyberattack on third-party provider after outages",
-      "summary": "Polymarket experienced outages starting at 2 pm EST after a compromise of an unnamed third‑party provider; the downtime was caused by the provider’s breach.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/polymarket-confirms-cyberattack-third-party",
-      "published": 1793359980.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793362933.5260088
-    },
-    {
-      "title": "Russian popular home goods chain faces days of disruption following cyberattack",
-      "summary": "Poryadok, a Russian home‑goods chain with 48 stores, reported technical problems that made its website, mobile app and physical stores unavailable; the disruptions began on Sunday.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/russian-home-goods-chain-faces-disruptions",
-      "published": 1793359800.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793362933.5260088
-    },
-    {
-      "title": "Binance Hit by Record-Breaking $6.3bn Hack in Largest Cryptocurrency Heist in History",
-      "summary": "Binance suffered a $6.3 bn theft, the largest crypto heist recorded; analysts attribute the attack to a North Korean elite hacking unit.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/binance-record-hack-crypto-heist/",
-      "published": 1793359500.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793362933.5260088
-    },
-    {
-      "title": "Microsoft finally fixes VPN issues caused by September updates",
-      "summary": "Microsoft resolved Always On VPN connection failures triggered by the September 2026 Windows 11 security updates, restoring VPN functionality.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/",
-      "published": 1793359226.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793362933.5260088
-    },
-    {
-      "title": "Claude Code extension poisoned with persistent SSH backdoor",
-      "summary": "Researchers found a tampered build of Anthropic’s Claude Code extension that installed a persistent SSH backdoor on developers’ machines; the malicious package was version 2.1.313 on Open VSX.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/30/claude-code-extension-ssh-backdoor/",
-      "published": 1793358926.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793362933.5260088
-    },
-    {
-      "title": "Drupal Commerce Core Vulnerability Exploited Against Online Stores",
-      "summary": "Drupal reports a highly critical Commerce Core access bypass being exploited in the wild; store owners are urged to audit orders for potential compromise.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/drupal-commerce-core-vulnerability-exploited-against-online-stores/",
-      "published": 1793358431.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793362933.5260088
-    },
-    {
-      "title": "Hackers leak personnel data of 41,000+ Homeland Security staff, including ICE and border agents",
-      "summary": "Hackers published personal data of over 41,000 U.S. Homeland Security staff, including ICE and CBP agents, exposing sensitive personnel information.",
-      "source": "GRAHAM CLULEY",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/hackers-leak-41-000-dhs-staff-data",
-      "published": 1793356430.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793362933.5260088
-    },
-    {
-      "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
-      "summary": "Drupal has issued a patch advisory for a critical access bypass in its Commerce Core module. The flaw is actively exploited in the wild. Administrators should update immediately.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
-      "published": 1793355367.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793362933.5260088
-    },
-    {
-      "title": "Filter generation in practice: from algorithms to LLMs",
-      "summary": "Researchers automated security alert filter creation using an algorithm, a large language model, and a team of LLM agents. The approach streamlines threat detection.",
-      "source": "Securelist",
-      "link": "https://securelist.com/practical-filter-generation/121697/",
-      "published": 1793354444.0,
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793362933.5260088
-    },
-    {
-      "title": "$2 Million+ Drained From Polymarket Traders in New Supply Chain Attack",
-      "summary": "A supply‑chain attack targeting Polymarket used malicious code in a website‑monitoring tool to hijack user sessions. Over $2 million was drained from traders.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/2-million-drained-from-polymarket-traders-in-new-supply-chain-attack/",
-      "published": 1793353296.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793362933.5260088
-    },
-    {
-      "title": "Max-Severity GitLab Vulnerability Exploited Against Alpine Linux",
-      "summary": "CVE‑2026‑97229 in GitLab allows unauthenticated attackers to run arbitrary code on Alpine Linux servers. The vulnerability was exploited in recent incidents.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/max-severity-gitlab-vulnerability-exploited-against-alpine-linux/",
-      "published": 1793352747.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793362933.5260088
-    },
-    {
-      "title": "Open-weight AI model GLM-5.3 cheated its way to correct answers",
-      "summary": "Zhipu AI’s open‑weight model GLM‑5.3 was evaluated on 13 offensive cyber scenarios. It completed multiple multi‑stage attacks in the CyScenarioBench framework.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/30/irregular-glm-5-3-cyber-capabilities-evaluation/",
-      "published": 1793352205.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793362933.5260088
-    },
-    {
-      "title": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
-      "summary": "Binance traced a $6.3 billion cryptocurrency theft to a compromised DevOps engineer’s laptop. The incident highlights internal security risks.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
-      "published": 1793351893.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793362933.5260088
-    },
-    {
-      "title": "Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor",
-      "summary": "The official Anthropic Claude Code VS Code extension was compromised via the Open VSX registry, installing a persistent SSH backdoor. The breach was linked to the Cursor Marketplace.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
-      "published": 1793350547.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793362933.5260088
-    },
-    {
-      "title": "TeamViewer Flaw Could Let Malicious Hosts Take Over Support Technicians’ Machines",
-      "summary": "TeamViewer’s CVE‑2026‑111585 integer overflow flaw can enable malicious hosts to execute arbitrary code on the viewer’s machine. The vulnerability requires remediation.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/teamviewer-flaw-could-let-malicious-hosts-take-over-support-technicians-machines/",
-      "published": 1793349889.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793362933.5260088
-    },
-    {
-      "title": "$6 Billion Binance Hack Bears Hallmarks of North Korea’s TraderTraitor",
-      "summary": "Blockchain analysis links Binance’s $6 billion theft to the North Korean TraderTraitor group. Binance is investigating a potentially compromised engineer laptop.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/6-billion-binance-hack-bears-hallmarks-of-north-koreas-tradertraitor/",
-      "published": 1793348186.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793362933.5260088
-    },
-    {
-      "title": "As Russia's Cyberwar Evolves, Belarus Steps Forward",
-      "summary": "Belarusian APT “FrostyNeighbor” launched a destructive attack in Ukraine, raising concerns about deeper alignment with Russian cyber objectives.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward",
-      "published": 1793347200.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793362933.5260088
-    },
-    {
-      "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
-      "summary": "Drupal warns that threat actors are exploiting a critical authorization bypass in Commerce Core (CVE‑2026‑118539). The flaw affects versions 0.0.0‑2.41 and 3.0.0‑3.3.13. Users should apply the latest patch immediately.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
-      "published": 1793346330.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793362933.5260088
-    },
-    {
-      "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
-      "summary": "CISA added two actively exploited vulnerabilities to its KEV list: GitLab RCE (CVE‑2026‑97229, CVSS 10.0) and a Cisco firewall DoS. Organizations should patch or mitigate these issues promptly.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
-      "published": 1793345225.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793362933.5260088
-    },
-    {
-      "title": "Fake IT help desk callers got by on little more than names and email addresses",
-      "summary": "Attackers posing as IT help desk staff used only names and email addresses to gain remote access, resulting in ransomware in some cases. Employees should verify caller identity before granting access.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/30/cisco-talos-it-help-desk-vishing/",
-      "published": 1793341826.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793362933.5260088
-    },
-    {
-      "title": "What exactly is ISOC? And what does it mean for you?",
-      "summary": "Gartner introduced the Integrated Security Operations Center (ISOC) category, reflecting a shift from traditional SIEM to more comprehensive security operations. ISOC emphasizes real‑time threat detection and response.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/30/stellar-cyber-integrated-security-operations-center/",
-      "published": 1793340014.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793362933.5260088
-    },
-    {
-      "title": "Scammers rebuild fake shopping sites within hours of a takedown",
-      "summary": "Scammers rebuilt fake .shop domains within hours of takedown, sharing a single IP and identical HTML/JS to harvest payment data. Users should verify domain authenticity before purchasing.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/30/akamai-fake-account-abuse-report/",
-      "published": 1793338226.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793362933.5260088
-    },
-    {
-      "title": "Smart TVs can harbor unpatched security flaws and track what you watch",
-      "summary": "Bitdefender’s 2026 IoT Security Landscape Report found smart TVs accounted for 22.7% of vulnerability observations, many unpatched flaws enabling tracking of viewing habits. Users should keep firmware updated.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/30/bitdefender-smart-tvs-vulnerabilities-report/",
-      "published": 1793336427.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793362933.5260088
-    },
-    {
-      "title": "In the year AI re-wrote the infosec rulebook, it’s comforting to know crypto exchanges still have bad security",
-      "summary": "Binance froze $6.3 billion of assets after a security breach linked to an engineer’s compromised laptop. The incident highlighted ongoing security challenges for crypto exchanges.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/security/2026/10/30/in-the-year-ai-re-wrote-the-infosec-rulebook-its-comforting-to-know-crypto-exchanges-still-have-bad-security/5306539",
-      "published": 1793334132.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793362933.5260088
-    },
-    {
-      "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
-      "summary": "Binance reported a security incident that impacted approximately $6.3 billion in assets, with nearly $3 billion frozen on‑chain. The exchange is working to mitigate the breach.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
-      "published": 1793333699.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793362933.5260088
-    },
-    {
-      "title": "Binance hit by record $6.3 billion crypto hack, scrambles to freeze funds",
-      "summary": "Binance confirmed a $6.3 billion cyber heist, with investigators pointing to North Korean actors. The exchange is scrambling to freeze stolen funds.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/binance-hit-by-record-6-billion-crypto-hack",
-      "published": 1793318400.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793362933.5260088
     },
     {
       "title": "Intigriti Bug Bytes #241 - October 2026 🚀",
@@ -911,531 +649,6 @@
       "ai": true,
       "status": "queued",
       "ts": 1793397723.8547568
-    },
-    {
-      "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
-      "summary": "OpenAI reversed a planned 50% cut and doubled usage limits for ChatGPT Pro plans, maintaining separate limits for Dots usage. The change follows user backlash.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
-      "published": 1793316952.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793362933.5260088
-    },
-    {
-      "title": "Researchers find bugs in 5 AI developer tools, with OpenAI and Microsoft flaws still unpatched",
-      "summary": "Researchers discovered vulnerabilities in five AI development tools, including unpatched flaws in OpenAI and Microsoft products. The issues stem from embedded browser components.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/security/2026/10/29/researchers-find-bugs-in-5-ai-developer-tools-with-openai-and-microsoft-flaws-still-unpatched/5306508",
-      "published": 1793315546.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793362933.5260088
-    },
-    {
-      "title": "Binance probes potential $5.8 billion crypto-theft hack",
-      "summary": "Binance is investigating a possible security breach that could involve up to $5.8 billion in digital assets. The incident may become the largest cryptocurrency hack in history.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
-      "published": 1793313923.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793362933.5260088
-    },
-    {
-      "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
-      "summary": "A crypto‑mining campaign using Hugging Face models returned after takedown, hijacking GPU servers and planting backdoors.\nThe malicious model was downloaded over 28,000 times.\nA separate fake Solana starter kit on GitHub aims to trick AI coding agents into installing a NetSupport RAT.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
-      "published": 1793311764.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793313196.7375028
-    },
-    {
-      "title": "Japan Airlines suffers third-party data breach exposing passenger info",
-      "summary": "Japan Airlines disclosed a data breach at Amadeus Passenger Service System that exposed personal data of approximately 92,000 customers.\nThe breach involved a third‑party service provider, Amadeus.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
-      "published": 1793311684.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793313196.7375028
-    },
-    {
-      "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
-      "summary": "Polymarket temporarily suspended trading after hackers compromised a third‑party service to distribute a cryptocurrency‑draining JavaScript.\nAbout $2.5 million in assets were traced to a suspected attacker wallet.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
-      "published": 1793310445.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793313196.7375028
-    },
-    {
-      "title": "Anthropic-Themed Phishing Emails Bypass Top Security Tools",
-      "summary": "Phishing emails themed around Anthropic bypassed several leading secure email gateway products despite containing multiple red flags.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools",
-      "published": 1793308916.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793313196.7375028
-    },
-    {
-      "title": "Leaked DHS employee archive, Icepick, faces challenges to stay online",
-      "summary": "The DHS employee archive 'Icepick' was removed by a contractor and blocked by a social media site, but later found a new hosting location.",
-      "source": "CyberScoop",
-      "link": "https://cyberscoop.com/dhs-employee-breach-icepick-database-takedown/",
-      "published": 1793307508.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793313196.7375028
-    },
-    {
-      "title": "Rethinking Cybersecurity Awareness in the AI Era",
-      "summary": "The Reporters' Notebook series discusses trends from Cybersecurity Awareness Month, focusing on AI‑driven training and educating next‑generation workforces on modern risks.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/cyber-risk/rethinking-cybersecurity-awareness-ai-era",
-      "published": 1793304937.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793313196.7375028
-    },
-    {
-      "title": "Limited reports of PHP bug exploitation emerge",
-      "summary": "Only a handful of PHP2Shell bug exploitations have been reported, with one campaign targeting U.S. government‑affiliated servers suspected to be Chinese.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/php2shell-successful-exploitation-reports-emerge",
-      "published": 1793304085.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793313196.7375028
-    },
-    {
-      "title": "Why CTF Competitions May Be More Important Than Ever",
-      "summary": "Capture‑the‑flag contests help develop cybersecurity skills that are increasingly hard to acquire due to AI. They provide practical learning opportunities for early‑career professionals.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/cybersecurity-operations/why-ctf-more-important-than-ever",
-      "published": 1793303804.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793362933.5260088
-    },
-    {
-      "title": "GM settles with 36 states for selling driver data, agrees to $220 million fine and reforms",
-      "summary": "General Motors agreed to pay $220 million to settle a lawsuit by 36 state attorneys general alleging unlawful sale of driver behavior data.\nThe company also agreed to implement data‑privacy reforms.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/general-motors-lawsuit-privacy",
-      "published": 1793303100.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793313196.7375028
-    },
-    {
-      "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
-      "summary": "A counterfeit cryptocurrency trading app, 'Padre Terminal', was removed from the Apple App Store and linked to theft of about $23,000 from 27 Solana wallets.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
-      "published": 1793301821.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793313196.7375028
-    },
-    {
-      "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
-      "summary": "ThreatsDay highlighted a range of attacks, including exposed firewall flaws, rented banking trojans, weaponized PDFs, and token theft, illustrating both sophisticated tactics and careless security gaps.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
-      "published": 1793301118.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793313196.7375028
-    },
-    {
-      "title": "Suspected Chinese attackers built a custom PHP2Shell exploit and rooted 25 servers",
-      "summary": "Suspected Chinese threat actors used a custom PHP2Shell exploit to compromise 25 servers.\nThe attackers likely maintain access to a U.S. government-affiliated network.\nNo data exfiltration confirmed.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/security/2026/10/29/suspected-chinese-attackers-built-a-custom-php2shell-exploit-and-rooted-25-servers/5306456",
-      "published": 1793300717.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793313196.7375028
-    },
-    {
-      "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
-      "summary": "APT group UAT-11473 exploited CVE-2026-20127 in Cisco Catalyst SD‑WAN Controllers to deploy KeyDrift malware.\nThe flaw allows authentication bypass.\nThe attack demonstrates continued use of Cisco SD‑WAN vulnerabilities.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
-      "published": 1793299106.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793313196.7375028
-    },
-    {
-      "title": "Claude Model Builds Exploits Across Major Browsers & OSes",
-      "summary": "Anthropic reports an unreleased Claude model discovered and chained vulnerabilities in Chrome, Safari, Android, Windows, and Linux.\nThe model identified multiple zero‑day exploits across major browsers and operating systems.\nNo public release of the findings yet.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses",
-      "published": 1793297759.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793313196.7375028
-    },
-    {
-      "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 29)",
-      "summary": "CVE-2026-109618 and CVE-2026-109619 are critical PHP vulnerabilities affecting web servers and CMS platforms.\nThe flaws allow remote code execution and could compromise PHP installations worldwide.\nPatching is recommended immediately.",
-      "source": "Unit 42",
-      "link": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
-      "published": 1793296834.0,
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793313196.7375028
-    },
-    {
-      "title": "A quiet week in infosec <.<",
-      "summary": "The Threat Source newsletter highlights PHP and Node.js as dominant topics in recent discussions.\nIt also notes ongoing community efforts to address security challenges.\nNo major incidents were reported this week.",
-      "source": "Cisco Talos Blog",
-      "link": "https://blog.talosintelligence.com/a-quiet-week-in-infosec/",
-      "published": 1793296800.0,
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793313196.7375028
-    },
-    {
-      "title": "BYOD cyberattack diverts ambulances and cancels classes at University of New Mexico health center",
-      "summary": "A ransomware attack on the University of New Mexico Health Sciences Center disrupted ambulance services, canceled surgeries, and forced medical students to leave classes.\nThe incident was caused by a BYOD-related breach.\nThe university is investigating the attack.",
-      "source": "GRAHAM CLULEY",
-      "link": "https://www.fortra.com/blog/byod-cyberattack-diverts-ambulances-and-cancels-classes-university-new-mexico-health-center",
-      "published": 1793293284.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793313196.7375028
-    },
-    {
-      "title": "When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis",
-      "summary": "The article discusses how risk management principles apply to personal health crises.\nIt highlights the importance of early detection, contingency planning, and decision-making under uncertainty.\nThe piece offers insights for security leaders.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/when-risk-becomes-personal-what-security-leaders-can-learn-from-a-cancer-diagnosis/",
-      "published": 1793291400.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793313196.7375028
-    },
-    {
-      "title": "Chinese hackers used VMware ESX zero-day; PHP2Shell and Fragnesia chained to root firewalls",
-      "summary": "Chinese threat actors exploited a VMware ESX zero‑day to conceal activity and chained PHP2Shell with the Fragnesia Linux kernel bug to compromise servers and firewalls.\nCisco confirmed a new firewall crash vulnerability.\nThe attack demonstrates multi‑stage exploitation.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/29/php2shell-fragnesia-vmware-esx-zero-day/",
-      "published": 1793291110.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793313196.7375028
-    },
-    {
-      "title": "Federal bankruptcy courts contractor says no data stolen during cyber intrusion",
-      "summary": "BAE Systems, a federal contractor, reported that no data was extracted during a cyber intrusion targeting its systems for federal bankruptcy courts.\nThe company is conducting a full investigation.\nNo breach of sensitive information was confirmed.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/us-bankruptcy-courts-it-contractor-says-no-data-stolen-cyberattack",
-      "published": 1793290380.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793313196.7375028
-    },
-    {
-      "title": "Chrome extensions with 13.4 million installs caught hijacking searches",
-      "summary": "A search‑hijacking campaign involved 319 Chrome extensions with 13.4 million installs.\nThe extensions redirected users’ searches to tracking servers, generating revenue from Bing and Yahoo.\nThe campaign was discovered by security researchers.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
-      "published": 1793290231.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793313196.7375028
-    },
-    {
-      "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
-      "summary": "CVE-2026-98432 is a critical TCP flaw in the Linux kernel, rated 9.8 CVSS. It affects Ubuntu, RHEL, and other distributions. Anthropic’s AI model produced an exploit that allows unauthenticated remote attackers to execute commands as root.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
-      "published": 1793289425.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793313196.7375028
-    },
-    {
-      "title": "Threat Modeling With 4 Simple Questions on a White Board",
-      "summary": "CISOs can use a four‑question whiteboard exercise to build effective threat models. The approach focuses on clarity and cost‑efficiency, avoiding large budgets.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/cyber-risk/threat-modeling-4-simple-questions",
-      "published": 1793288644.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793313196.7375028
-    },
-    {
-      "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
-      "summary": "Threat actors distribute malware disguised as AI desktop apps for Claude and ChatGPT. Fake GitHub projects deliver a loader that installs cryptocurrency miners under the Yoba campaign.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
-      "published": 1793287229.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793313196.7375028
-    },
-    {
-      "title": "Google Touts Powerful Cybersecurity Capabilities in Gemini 4 Carbon Model",
-      "summary": "Google’s Gemini 4 Carbon model achieved 88.2% on the SEC‑bench Pro test. The model is being rolled out to vetted cyber defenders through the Fairwind Program.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/google-says-gemini-4-carbon-leads-in-finding-exploiting-and-fixing-vulnerabilities/",
-      "published": 1793286060.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793313196.7375028
-    },
-    {
-      "title": "How Secure Are US Elections? Voting Machine Risks and the Growing Threat of AI",
-      "summary": "Unpatched voting machines, QR‑coded ballots, and AI‑driven influence campaigns expose vulnerabilities in US elections. The article highlights the need for stronger security measures.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/how-secure-are-us-elections-voting-machine-risks-and-the-growing-threat-of-ai/",
-      "published": 1793286000.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793313196.7375028
-    },
-    {
-      "title": "NIK C2 Malware Can Use Victims’ OpenAI Keys for AI Queries",
-      "summary": "NIK C2 malware can leverage victims’ OpenAI API keys to perform AI queries, enabling advanced malicious capabilities.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/nik-c2-malware-victims-openai-keys/",
-      "published": 1793286000.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793313196.7375028
-    },
-    {
-      "title": "Yoba malware hides in fake desktop versions of ChatGPT and Claude",
-      "summary": "The Yoba campaign uses fake GitHub repositories for apps like GPT‑5.6 Sol and Claude Opus to deliver a malware chain that culminates in a cryptocurrency miner.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/29/fake-chatgpt-claude-apps-github-yoba-malware-cryptominer/",
-      "published": 1793285351.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793313196.7375028
-    },
-    {
-      "title": "Belgium's tax agency confirms cyberattack, pulls services offline",
-      "summary": "Belgium’s tax authority experienced a cyberattack that forced it to take services offline and extend tax deadlines to November.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/security/2026/10/29/belgiums-tax-agency-confirms-cyberattack-pulls-services-offline/5306409",
-      "published": 1793285260.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793313196.7375028
-    },
-    {
-      "title": "Microsoft fixes Remote Desktop failures caused by recent Windows updates",
-      "summary": "Microsoft resolved an issue where non‑admin users could not connect via Remote Desktop when the Administrator protection feature was enabled after recent updates.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/",
-      "published": 1793284540.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793313196.7375028
-    },
-    {
-      "title": "Cisco Open Sources Quarry to Catch AI Agent Attacks Hidden in Harmless Steps",
-      "summary": "Cisco released Project Quarry, a rule language that detects AI agent attacks that emerge only across sequences of benign actions. The tool is open sourced for broader use.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/cisco-open-sources-quarry-to-catch-ai-agent-attacks-hidden-in-harmless-steps/",
-      "published": 1793283483.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793313196.7375028
-    },
-    {
-      "title": "Researchers broke the browsers built into VS Code, Cursor, Copilot, Codex and Claude Desktop",
-      "summary": "Researchers bypassed built‑in browsers in five AI coding assistants, allowing local files or web pages to access the host system. The exploits enabled code execution, spoofed addresses, and full file system read.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/29/research-ai-assistant-browser-vulnerabilities/",
-      "published": 1793283049.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793313196.7375028
-    },
-    {
-      "title": "3 Ways AI Agents Already Operate in Your Browser",
-      "summary": "AI agents can control authenticated browsers, interact with corporate apps, and access sensitive data while appearing as legitimate employees. Traditional security tools may struggle to differentiate their activity from human users.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser/",
-      "published": 1793282410.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793313196.7375028
-    },
-    {
-      "title": "CREST Urges Whole-Ecosystem Approach to Financial Cyber Resilience",
-      "summary": "CREST released a framework advocating a whole‑ecosystem approach to strengthen cyber resilience across financial services.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/crest-financial-cyber-resilience/",
-      "published": 1793282400.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793313196.7375028
-    },
-    {
-      "title": "IR trends Q3 2026: Actors impersonate IT help desks in vishing attacks as ransomware activity increases",
-      "summary": "Q3 2026 IR trends show increased ransomware activity; actors impersonate IT help desks in vishing attacks. Finance and public administration are top‑targeted industries.",
-      "source": "Cisco Talos Blog",
-      "link": "https://blog.talosintelligence.com/ir-trends-q3-2026/",
-      "published": 1793282400.0,
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793313196.7375028
-    },
-    {
-      "title": "CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks",
-      "summary": "CISA warned federal agencies to patch a high‑severity Linux kernel privilege escalation flaw that is being chained with PHP2Shell attacks.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/",
-      "published": 1793282388.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793313196.7375028
-    },
-    {
-      "title": "FTC to probe major companies over personalized pricing and pay",
-      "summary": "FTC ordered nine major companies to provide detailed data on how they use personal data for individualized pricing and employee compensation.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/ftc-rideshare-airlines-data",
-      "published": 1793281500.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793313196.7375028
-    },
-    {
-      "title": "Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities",
-      "summary": "Adobe, Veeam, and Juniper Networks released patches for critical vulnerabilities that could lead to arbitrary code execution, authorization bypass, and privilege escalation.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/adobe-veeam-juniper-networks-patch-critical-vulnerabilities/",
-      "published": 1793281372.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793313196.7375028
-    },
-    {
-      "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
-      "summary": "Google announced Gemini 4 Carbon, a model that leads benchmarks for finding, exploiting, and patching vulnerabilities, achieving high scores on SEC‑bench Pro and ExploitGym.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
-      "published": 1793281360.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793313196.7375028
-    },
-    {
-      "title": "Volt Typhoon targeted enterprise control planes via ever-changing “Silent Train” relay network",
-      "summary": "Volt Typhoon, a Chinese state‑sponsored APT, used a rotating relay network called Silent Train, built from compromised SOHO and IoT devices, to target enterprise control planes.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/29/volt-typhoon-silent-train-relay-network/",
-      "published": 1793281333.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793313196.7375028
-    },
-    {
-      "title": "Cyberattack disrupts Belgian tax services before filing deadline",
-      "summary": "A cyberattack disrupted Belgium’s MyMinfin tax platform before the filing deadline, prompting the Federal Public Service Finance to suspend access and investigate the breach.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/cyberattack-disrupts-belgian-tax-services-before-deadline",
-      "published": 1793280660.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793313196.7375028
-    },
-    {
-      "title": "Shortlist of age checks for the UK's under-16 social media ban is out, 'some' adults will need verifying",
-      "summary": "The UK government released a shortlist of age‑verification methods for the under‑16 social media ban. Some adults will be required to prove their age, while others may not.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/security/2026/10/29/shortlist-of-age-checks-for-the-uks-under-16-social-media-ban-is-out-some-adults-will-need-verifying/5306282",
-      "published": 1793277180.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793362933.5260088
-    },
-    {
-      "title": "Amatera: How the prolific infostealer works and spreads",
-      "summary": "Amatera is a malware infostealer that topped ESET’s detections in Latin America in H1 2026. It demonstrates the professionalization of cybercrime through sophisticated distribution techniques.",
-      "source": "WeLiveSecurity",
-      "link": "https://www.welivesecurity.com/en/malware/amatera-how-prolific-infostealer-works-spreads/",
-      "published": 1793260800.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793362933.5260088
     }
   ]
 }
