@@ -1,7 +1,458 @@
 {
-  "generated_at": 1793569751.6625495,
-  "count": 60,
+  "generated_at": 1793631765.4051816,
+  "count": 56,
   "items": [
+    {
+      "title": "Microsoft's AI Risk Report Misses This Key Detail",
+      "summary": "Microsoft's Digital Defense Report highlights government agencies as primary AI attack targets. It omits that many attacks exploit Microsoft software vulnerabilities.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-ai-cyber-risk-report-miss",
+      "published": 1793631600.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793631765.3969579
+    },
+    {
+      "title": "AI-powered infostealer picks out the most profitable parts of your stolen data",
+      "summary": "A Windows infostealer named VOLTA-AUTODOXER forwards stolen data to an AI model. The model ranks victim assets by potential revenue, guiding attackers to the most valuable information.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/11/02/ai-powered-infostealer-volta-victim-profiling/",
+      "published": 1793630877.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793631765.3969579
+    },
+    {
+      "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
+      "summary": "The DarkBlinders campaign, linked to an Iran‑aligned threat actor, targeted Israel and the Kurdistan Region of Iraq. It compromised a high‑profile Israeli individual and a government cloud environment between August and October 2026.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
+      "published": 1793630765.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793631765.3969579
+    },
+    {
+      "title": "Armadin Tests Find 88% of Severe Flaws Outside Vendor Advisories",
+      "summary": "Armadin's testing found 88% of critical and high severity findings in client environments were not covered by vendor advisories. This indicates a gap between vendor disclosures and real-world vulnerabilities.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/armadin-severe-exposures-missed/",
+      "published": 1793630700.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793631765.3969579
+    },
+    {
+      "title": "Nuclear threats and street brawls: Russia, Ukraine report attacks on their emergency alert apps",
+      "summary": "After the ceasefire in Kherson lifted, Ukrainian citizens received threatening notifications on emergency alert apps. The attacks targeted the system's integrity and user trust.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/11/02/nuclear-threats-and-street-brawls-russia-ukraine-report-attacks-on-their-emergency-alert-apps/5306901",
+      "published": 1793630700.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793631765.3969579
+    },
+    {
+      "title": "Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk",
+      "summary": "A breach of Florida's student aid website exposed personal data, including SSNs, of about 4.9 million people. The Florida Department of Education confirmed the potential exposure.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/florida-student-aid-website-hack-puts-data-of-4-9-million-people-at-risk/",
+      "published": 1793630658.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793631765.3969579
+    },
+    {
+      "title": "Apple warns users in 99 countries of mercenary spyware",
+      "summary": "Apple warned users in 99 countries about mercenary spyware. The company noted the attacks' extreme sophistication and worldwide nature.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/apple-warns-users-99-countries-mercenary-spyware",
+      "published": 1793630520.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793631765.3969579
+    },
+    {
+      "title": "Russian and Ukrainian hackers hijack emergency apps to spread fake nuclear attack warnings",
+      "summary": "Hackers hijacked a Ukrainian air‑raid alert system and then breached a similar Russian emergency app. They spread false nuclear attack warnings through both platforms.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/ukraine-hackers-russia-alert-system",
+      "published": 1793629800.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793631765.3969579
+    },
+    {
+      "title": "Hackers disrupt refrigeration systems at European supermarkets",
+      "summary": "Cyberattacks remotely altered refrigeration unit temperatures, disrupting supermarket chains in several European countries. The attacks caused spoilage and operational downtime.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/",
+      "published": 1793629719.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793631765.3969579
+    },
+    {
+      "title": "Second wave of refrigeration cyberattacks hits European supermarkets",
+      "summary": "A second wave of refrigeration attacks hit supermarkets in Belgium, Luxembourg, and Sweden. The attackers remotely switched temperature controls, spoiling refrigerated food.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/11/02/european-supermarkets-refrigeration-units-cyberattacks/",
+      "published": 1793629705.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793631765.3969579
+    },
+    {
+      "title": "PapRAT Cyber Espionage Campaign Leaves a 'BITTER' Taste in South Asia",
+      "summary": "PapRAT, linked to an India-based threat group, targeted organizations in South Asia.\nThe campaign used three distinct attack chains that leveraged legitimate Windows functionality.\nThe attacks caused significant disruption.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/paprat-cyberespionage-campaign-bitter-south-asia",
+      "published": 1793628000.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793631765.3969579
+    },
+    {
+      "title": "Bitter Deploys PapRAT in Asian Cyber-Espionage Campaign",
+      "summary": "Bitter deployed PapRAT across South and Southeast Asia.\nThe operation employed three infection chains, including one that did not use a malware executable.\nThe campaign aimed at espionage.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/paprat-bitter-cyberespionage/",
+      "published": 1793628000.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793631765.3969579
+    },
+    {
+      "title": "Microsoft fixes Smart App Control broken by October Windows update",
+      "summary": "Microsoft fixed a bug that blocked Smart App Control activation on Windows 11 after the October 2026 KB5127648 update.\nThe issue affected users unable to enable the security feature.\nThe fix is now available.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/",
+      "published": 1793627849.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793631765.3969579
+    },
+    {
+      "title": "Revolve Data Breach Impacts at Least 180,000 People",
+      "summary": "Revolve suffered a data breach exposing personal and payment card data of at least 180,000 customers.\nHackers accessed the company's online shopping platform.\nThe incident was reported by SecurityWeek.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/revolve-data-breach-impacts-at-least-180000-people/",
+      "published": 1793626521.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793631765.3969579
+    },
+    {
+      "title": "Google Introduces $250,000 Root-in-Cloud Bug Bounty Reward",
+      "summary": "Google announced a $250,000 bounty for discovering root-in-cloud vulnerabilities.\nThe reward targets high-impact findings that grant full administrative control.\nThe announcement was published on SecurityWeek.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/google-introduces-250000-root-in-cloud-bug-bounty-reward/",
+      "published": 1793625911.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793631765.3969579
+    },
+    {
+      "title": "Frozen part II: Hackers remotely defrost produce in Euro supermarkets ... again",
+      "summary": "Hackers remotely defrost produce in European supermarkets, causing significant food waste.\nMultiple stores reported large puddles of melted produce at the start of the week.\nThe incident is a repeat of a previous attack.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/cyber-crime/2026/11/02/frozen-part-ii-hackers-remotely-defrost-produce-in-euro-supermarkets-again/5306924",
+      "published": 1793625300.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793631765.3969579
+    },
+    {
+      "title": "Second wave of suspected cyberattacks hits supermarket freezers across Europe",
+      "summary": "A second wave of attacks targeted supermarket freezers across Europe, manipulating temperature controls.\nThe incidents caused spoilage of stock.\nThey followed a similar attack earlier in the month.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/cyberattack-grocery-freezers-europe",
+      "published": 1793624400.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793631765.3969579
+    },
+    {
+      "title": "Trezor warns some of its wallets may hide a seed-stealing implant",
+      "summary": "Trezor warned that some Safe 5 wallets sold by CryptoBilis could contain a seed-stealing implant.\nThe implant could steal the recovery phrase from owners.\nThe company advises users to verify their devices.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/11/02/trezor-hardware-wallet-implant-cryptobilis/",
+      "published": 1793623684.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793631765.3969579
+    },
+    {
+      "title": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks",
+      "summary": "More than 1,000 publicly exposed GitLab servers remain vulnerable to a critical remote code execution flaw.\nThe vulnerability is actively exploited in the wild.\nThe issue remains unpatched.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/",
+      "published": 1793623620.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793631765.3969579
+    },
+    {
+      "title": "AI Vulnerability Finding",
+      "summary": "Recent analysis shows 3% of critical software bugs were discovered in the past month.\nThis pace could lead to an additional 100,000 bugs identified this year.\nThe trend highlights growing vulnerability discovery.",
+      "source": "Schneier on Security",
+      "link": "https://www.schneier.com/blog/archives/2026/11/ai-vulnerability-finding-2.html",
+      "published": 1793620954.0,
+      "tags": [
+        "#opinion"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793631765.3969579
+    },
+    {
+      "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
+      "summary": "Two critical vulnerabilities in Langflow allow unauthenticated attackers to bypass authentication or execute arbitrary code. All releases from 1.0.0 to 1.12.8 are affected, and the only fix is version 1.13.0. IBM reported the issue.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
+      "published": 1793620200.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793631765.3969579
+    },
+    {
+      "title": "FBI pins $6.3B Binance crypto heist on North Korean hackers",
+      "summary": "The FBI attributes a $6.3 billion Binance cryptocurrency theft to North Korean hackers. Binance is working to replace stolen funds as customers withdraw billions and the hackers continue laundering the proceeds.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/11/02/fbi-pins-63b-binance-crypto-heist-on-north-korean-hackers/5306889",
+      "published": 1793619900.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793631765.3969579
+    },
+    {
+      "title": "Chainalysis breached using “offensive agentic techniques”",
+      "summary": "Chainalysis suffered a data breach when external attackers used offensive agentic techniques to access its systems and internal tools. The incident is unrelated to the recent Binance hack and the specific data accessed was not disclosed.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/11/02/chainalysis-breached-using-offensive-agentic-techniques/",
+      "published": 1793619619.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793631765.3969579
+    },
+    {
+      "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy",
+      "summary": "A 2026 survey shows 40% of security teams use AI daily and 56% are testing it, while only 4% have no plans to adopt it. SOC readiness for AI deployment requires evaluating existing capabilities before implementation.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html",
+      "published": 1793619000.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793631765.3969579
+    },
+    {
+      "title": "Malicious Claude Code Extension Served in Cursor Supply Chain Attack",
+      "summary": "A malicious Claude Code extension was delivered through a Cursor supply‑chain attack. The extension performed host reconnaissance and attempted to create a reverse SSH tunnel.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/malicious-claude-code-extension-served-in-cursor-supply-chain-attack/",
+      "published": 1793618979.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793631765.3969579
+    },
+    {
+      "title": "Synology warns of C3RB3R ransomware attacks targeting NAS devices",
+      "summary": "Synology warns customers of a surge in C3RB3R ransomware attacks targeting NAS devices. The company urges immediate device updates to mitigate the threat.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/",
+      "published": 1793618922.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793631765.3969579
+    },
+    {
+      "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
+      "summary": "Attackers impersonated IT support on Microsoft Teams, tricking employees into granting remote control. They then exploited insecure AD CS settings to obtain login certificates for privileged accounts, including a domain controller.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
+      "published": 1793617725.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793631765.3969579
+    },
+    {
+      "title": "Could Nick Andersen’s leadership outlast the clock on his acting role?",
+      "summary": "Nick Andersen has received praise for his leadership of CISA as acting director. With no permanent nominee yet, there is discussion of extending his acting role beyond the current deadline.",
+      "source": "CyberScoop",
+      "link": "https://cyberscoop.com/nick-andersen-cisa-acting-director-nomination/",
+      "published": 1793617200.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793631765.3969579
+    },
+    {
+      "title": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
+      "summary": "Cybersecurity researchers identified a campaign targeting government Linux infrastructure using SysGoRAT and suspected AI‑generated scripts. The activity, observed from October 2025 to April 2026, is catalogued as CL‑UNK‑1211.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
+      "published": 1793616599.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793631765.3969579
+    },
+    {
+      "title": "Chainalysis Discloses Data Breach Following AI-Driven Cyberattack",
+      "summary": "Chainalysis disclosed a data breach following an AI‑driven cyberattack. Attackers used offensive agentic techniques to access the company’s systems and internal tools, mirroring the earlier breach.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/chainalysis-discloses-data-breach-following-ai-driven-cyberattack/",
+      "published": 1793615269.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793631765.3969579
+    },
+    {
+      "title": "FBI Attributes Binance Heist to North Korea’s TraderTraitor",
+      "summary": "The FBI has identified North Korean APT group TraderTraitor as responsible for the largest cryptocurrency theft. The group allegedly stole over $6 billion from Binance.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/fbi-attributes-binance-north/",
+      "published": 1793614500.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793631765.3969579
+    },
+    {
+      "title": "FBI pins $6.3 billion Binance crypto heist on North Korea while scammers circle anxious users",
+      "summary": "The FBI confirmed that North Korea was behind the theft of more than $6 billion in cryptocurrency from Binance. The incident occurred on or about October 29, 2026.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/11/02/fbi-north-korea-binance-hack/",
+      "published": 1793614371.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793631765.3969579
+    },
+    {
+      "title": "Ivanti patches two more Connect Secure zero-days chained in attacks",
+      "summary": "Ivanti released security updates for two additional Connect Secure remote access gateway vulnerabilities. These flaws were part of a zero-day attack chain active since at least October 1.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/",
+      "published": 1793612006.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793631765.3969579
+    },
+    {
+      "title": "Polymarket Returns $3.9 Million to Traders as DebugBear Cites DNS Hijack",
+      "summary": "Polymarket refunded $3.9 million to traders after a DNS hijack incident involving DebugBear. The hijack was traced to compromised DNS records at the domain registrar.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/polymarket-returns-3-9-million-to-traders-as-debugbear-cites-dns-hijack/",
+      "published": 1793611995.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793631765.3969579
+    },
+    {
+      "title": "Chainalysis Warns Customers After “Offensive Agentic” Security Incident",
+      "summary": "Chainalysis disclosed an AI-driven attack that caused unauthorized activity on its platform. The incident prompted a warning to customers about potential security risks.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/chainalysis-customers-offensive/",
+      "published": 1793611800.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793631765.3969579
+    },
+    {
+      "title": "FBI Flags Over 600 Addresses Tied to North Korea’s Binance Heist",
+      "summary": "The FBI identified more than 600 addresses linked to the Binance hack attributed to North Korea’s TraderTraitor. These addresses were used to launder the stolen cryptocurrency.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/fbi-flags-over-600-addresses-tied-to-north-koreas-binance-heist/",
+      "published": 1793608836.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793631765.3969579
+    },
+    {
+      "title": "CyberStrikeAI in the wild: the use of AI in real-world attacks on organizations",
+      "summary": "Researchers analyzed attacks on educational institutions that employed CyberStrikeAI for fully automated post-exploitation. The framework demonstrated AI-driven capabilities in real-world scenarios.",
+      "source": "Securelist",
+      "link": "https://securelist.com/tr/cyberstrikeai-attacks/121715/",
+      "published": 1793606424.0,
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793631765.3969579
+    },
+    {
+      "title": "Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain",
+      "summary": "CISA added CVE-2026-111357 and CVE-2026-118527 to its KEV catalog after Ivanti VPN flaws were chained in zero-day attacks. Ivanti issued patches for these vulnerabilities.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/ivanti-patches-two-more-zero-days-exploited-in-connect-secure-attack-chain/",
+      "published": 1793606269.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793631765.3969579
+    },
+    {
+      "title": "DeepSeek open-sources Super-Agent, a coding agent that watches team chats for work",
+      "summary": "DeepSeek released a prototype coding agent that monitors team chats and can perform work on GitHub repositories. The agent operates when an allowed user requests work or a team rule permits it.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/11/02/deepseek-dsh-superagent/",
+      "published": 1793603395.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793631765.3969579
+    },
+    {
+      "title": "The first ten lines of a command policy for AI coding agents",
+      "summary": "KloudStax CTO Vinay Thakker discussed setting identity, credentials, and network limits for AI agents. He emphasized that agents should run under their own identity and only act on behalf of a user when explicitly authorized.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/11/02/vinay-thakker-kloudstax-ai-agent-access-control/",
+      "published": 1793601036.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1793631765.3969579
+    },
     {
       "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
       "summary": "FBI confirms North Korean state-sponsored group TraderTraitor behind the $6.3 billion Binance crypto theft, the largest recorded heist.",
@@ -180,508 +631,6 @@
       "ai": true,
       "status": "queued",
       "ts": 1793481015.4266088
-    },
-    {
-      "title": "Syrian Hacker Gets Prison Time in US After Over a Decade on the Run",
-      "summary": "US court sentenced Syrian hacker Ahmad Umar Agha to 42 months in prison for pro‑Assad attacks on media, businesses, and government entities. He had been on the run for over a decade.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/syrian-hacker-gets-prison-time-in-us-after-over-a-decade-on-the-run/",
-      "published": 1793444400.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793447556.4727983
-    },
-    {
-      "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
-      "summary": "CISA added two Ivanti Connect Secure vulnerabilities to its KEV catalog after active exploitation. CVE‑2026‑111357 allows unauthenticated root access due to missing authentication.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
-      "published": 1793435263.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793447556.4727983
-    },
-    {
-      "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
-      "summary": "Researchers discovered a flaw in shared ChatGPT links that could run attacker code in a logged‑in user's session and read private chats. OpenAI fixed the issue within eight days.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
-      "published": 1793424821.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793447556.4727983
-    },
-    {
-      "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
-      "summary": "Cloudflare mitigated 18.2 million network‑layer DDoS attacks and 14.4 trillion HTTP requests in Q3 2026, averaging 197,400 attacks per day.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
-      "published": 1793422572.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793447556.4727983
-    },
-    {
-      "title": "China-backed threat group used agentic AI pentesting tool to compromise 140 sensitive targets in 11 days",
-      "summary": "China-backed threat group used an AI pentesting tool to compromise 140 sensitive targets across 14 countries in 11 days, affecting more than 200 organizations.",
-      "source": "CyberScoop",
-      "link": "https://cyberscoop.com/china-vapor-panda-agentic-ai-artex-campaign-crowdstrike/",
-      "published": 1793395800.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793397723.8547568
-    },
-    {
-      "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
-      "summary": "A critical Linux kernel vulnerability allows unauthenticated attackers to execute commands as root on servers running Multipath TCP listeners.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
-      "published": 1793394586.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793397723.8547568
-    },
-    {
-      "title": "Friday Squid Blogging: Bigfin Squid Off California Coast",
-      "summary": "A video captured the first live sighting of a bigfin squid (Magnapinna) off the California coast, marking a new record for the species in the northeastern Pacific.",
-      "source": "Schneier on Security",
-      "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-bigfin-squid-off-california-coast.html",
-      "published": 1793394276.0,
-      "tags": [
-        "#opinion"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793397723.8547568
-    },
-    {
-      "title": "DOJ raises privacy concerns over potential sale of Character.AI chats",
-      "summary": "The DOJ’s Executive Office for U.S. Trustees called for a consumer privacy ombudsman to advise on regulating the sale of Character.AI chat data and its terms.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/doj-raises-privacy-concerns-over-character-ai-sale",
-      "published": 1793393100.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793397723.8547568
-    },
-    {
-      "title": "Devs Hit by Trojanized Claude Code Extension for Cursor",
-      "summary": "Cursor IDE experienced two serious security incidents on the same day, highlighting risks associated with AI‑powered integrated development environments.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor",
-      "published": 1793390758.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793397723.8547568
-    },
-    {
-      "title": "Behind the Scenes of How Operation Blackout Went Down",
-      "summary": "A law‑enforcement operation dismantled harmful scam centers, with a threat‑intelligence expert detailing tactics and calling for more initiatives.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down",
-      "published": 1793389568.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793447556.4727983
-    },
-    {
-      "title": "Crim spent $7K+ on AI services in extortion attacks, then left evidence for all to see",
-      "summary": "An attacker spent over $7,000 on AI services for extortion campaigns but inadvertently left evidence that exposed the operation.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/security/2026/10/30/crim-spent-7k-on-ai-services-in-extortion-attacks-then-left-evidence-for-all-to-see/5306754",
-      "published": 1793389032.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793397723.8547568
-    },
-    {
-      "title": "Fashion retailer Resolve says hackers stole payment card information",
-      "summary": "Fashion retailer Resolve confirmed a hack that exposed customer payment card numbers, affecting its Millennial and Gen Z customer base.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/resolve-fashion-retailer-data-breach-payment-cards",
-      "published": 1793386800.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793397723.8547568
-    },
-    {
-      "title": "Apple notifications alert victims in 99 countries about mercenary spyware infections",
-      "summary": "Apple issued notifications to victims in 99 countries about mercenary spyware infections, coinciding with final negotiations on guidelines for commercial hacking tools.",
-      "source": "CyberScoop",
-      "link": "https://cyberscoop.com/apple-spyware-notifications-pall-mall-process/",
-      "published": 1793380025.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793397723.8547568
-    },
-    {
-      "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
-      "summary": "Chinese state‑sponsored actors used the AI‑powered ARTEX penetration testing framework to target more than 200 organizations worldwide, attributed to Vapor Panda.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
-      "published": 1793379524.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793397723.8547568
-    },
-    {
-      "title": "GM cracks the petty cash box for multistate driver tracking settlement",
-      "summary": "GM secured a $220 million settlement for a multistate driver‑tracking lawsuit, with details available upon request.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/security/2026/10/30/gm-cracks-the-petty-cash-box-for-multistate-driver-tracking-settlement/5306721",
-      "published": 1793378917.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793397723.8547568
-    },
-    {
-      "title": "Anthropic: That Claude Code extension compromise… couldn't be us",
-      "summary": "Anthropic's Claude Code extension was targeted in a supply‑chain attack on Cursor. Claudeshop attributes the compromise to a malicious actor, not the company.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/cyber-crime/2026/10/30/anthropic-that-claude-code-extension-compromise-couldnt-be-us/5306682",
-      "published": 1793377620.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793397723.8547568
-    },
-    {
-      "title": "Rapid7 Analysis: Unauthenticated File Upload to RCE in BeyondTrust Remote Support (CVE-2026-102764)",
-      "summary": "BeyondTrust Remote Support has an unauthenticated file‑upload flaw that allows attackers to write files and execute code as the appliance OS user. The vulnerability is triggered via the public customer connection without credentials.",
-      "source": "Rapid7 Cybersecurity Blog",
-      "link": "https://www.rapid7.com/blog/post/ra-rapid7-analysis-unauthenticated-file-upload-to-rce-in-beyondtrust-remote-support-cve-2026-102764",
-      "published": 1793376113.0,
-      "tags": [
-        "#vulnerability"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793397723.8547568
-    },
-    {
-      "title": "California officials confirm grand jury subpoenas as states, civil groups brace to protect elections from federal encroachment",
-      "summary": "California officials received multiple grand jury subpoenas investigating alleged election fraud. State and civil groups view the subpoenas as a federal power play aimed at protecting elections.",
-      "source": "CyberScoop",
-      "link": "https://cyberscoop.com/california-election-subpoenas-doj-voter-rolls/",
-      "published": 1793375915.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793397723.8547568
-    },
-    {
-      "title": "Trezor warns of suspected crypto-theft implant in hardware wallet",
-      "summary": "Trezor reports a suspected crypto‑theft implant in a Trezor Safe 5 sold by reseller CryptoBilis in Southeast Asia. The company is investigating the credible reports.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/",
-      "published": 1793375900.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793397723.8547568
-    },
-    {
-      "title": "Florida warns that 4.9 million people had Social Security numbers leaked in financial aid site breach",
-      "summary": "Florida Department of Education disclosed a breach of the Student Financial Aid website that exposed Social Security numbers of 4.9 million residents. The breach was detected on October 19.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/florida-warns-5-million-affected-financial-aid-site-breach",
-      "published": 1793375640.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793397723.8547568
-    },
-    {
-      "title": "New Framework Puts Ransomware Resilience for AI Systems in Focus",
-      "summary": "RAID‑AI framework helps organizations assess ransomware readiness for AI systems. It provides tools to evaluate and improve protection against AI‑targeted attacks.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/framework-ransomware-resilience-ai/",
-      "published": 1793375580.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793397723.8547568
-    },
-    {
-      "title": "L’Italia è afflitta da vulnerabilità informatiche, senza una causa chiara",
-      "summary": "Researchers note that Italy experiences a wide range of cyber threats that differ from other countries, but the underlying causes remain unclear.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy-italian",
-      "published": 1793374794.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793397723.8547568
-    },
-    {
-      "title": "Bloatware in Aftermarket Auto Parts",
-      "summary": "An aftermarket Civic head unit installed with pre‑loaded bloatware, including a voice assistant using WebView, was discovered. The device may pose privacy and security risks.",
-      "source": "Schneier on Security",
-      "link": "https://www.schneier.com/blog/archives/2026/10/bloatware-in-aftermarket-auto-parts.html",
-      "published": 1793373602.0,
-      "tags": [
-        "#opinion"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793397723.8547568
-    },
-    {
-      "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
-      "summary": "A flaw in TeamViewer allows a compromised host to attack the viewer’s computer during a remote session, potentially crashing or executing code. The issue has been fixed by the vendor.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
-      "published": 1793373448.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793397723.8547568
-    },
-    {
-      "title": "Defense contractor pleads guilty to aiding North Korean remote worker scheme",
-      "summary": "A 62‑year‑old defense contractor pleaded guilty to helping North Korean operatives use his identity and security clearance to apply for nearly 100 jobs. The scheme had limited success.",
-      "source": "CyberScoop",
-      "link": "https://cyberscoop.com/defense-contractor-guilty-north-korea-scheme-facilitator/",
-      "published": 1793373269.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793397723.8547568
-    },
-    {
-      "title": "PHP2Shell Attacks Root Palo Alto Firewalls but Fail Against WordPress",
-      "summary": "PHP2Shell exploits critical PHP flaws, affecting over 22.6 million exposed instances. The attack bypassed Palo Alto firewalls but did not succeed against WordPress sites.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/php2shell-attacks-root-palo-alto-firewalls-but-fail-against-wordpress/",
-      "published": 1793372965.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793397723.8547568
-    },
-    {
-      "title": "This month in security with Tony Anscombe – October 2026 edition",
-      "summary": "The October 2026 security roundup highlighted the PHP2Shell disclosure and other major events, underscoring the need for robust cyber‑readiness plans.",
-      "source": "WeLiveSecurity",
-      "link": "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-october-2026/",
-      "published": 1793372594.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793447556.4727983
-    },
-    {
-      "title": "In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak",
-      "summary": "Highlights include a dispute over an Anthropic breach, a UEFI flaw affecting the majority of servers, and a Cloudflare AI data leak.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/in-other-news-anthropic-breach-dispute-uefi-flaw-hits-most-servers-cloudflare-ai-data-leak/",
-      "published": 1793371295.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793397723.8547568
-    },
-    {
-      "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
-      "summary": "A malicious version of Anthropic's Claude Code VS Code extension was distributed via Cursor's marketplace for ~11 hours, exposing up to 5,000 developers to malware that installed persistent SSH backdoors.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
-      "published": 1793371014.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793397723.8547568
-    },
-    {
-      "title": "Syrian hacker who served Assad regime gets 42 months in US prison",
-      "summary": "Ahmad Umar Agha, known for a fake AP tweet, was sentenced to 42 months in U.S. federal prison for his role in cyberattacks linked to the Assad regime.",
-      "source": "CyberScoop",
-      "link": "https://cyberscoop.com/syrian-hacker-ahmad-umar-agha-sentenced/",
-      "published": 1793370802.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793397723.8547568
-    },
-    {
-      "title": "Syrian Electronic Army hacker gets prison time for attacks on Western targets",
-      "summary": "Ahmad Umar Agha, alias “Th3Pr0,” received a 42‑month sentence in Virginia for conspiracy to conduct cyberattacks on Western targets organized by advisers to former Syrian President Bashar al‑Assad.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/syrian-electronic-army-hacker-sentenced-three-years",
-      "published": 1793370240.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793397723.8547568
-    },
-    {
-      "title": "Undead Software Projects Continue to Raise Security Risks",
-      "summary": "A security firm patched a decade‑old application to prevent takeover of millions of machines, underscoring that abandoned software and domains remain attractive to attackers.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/application-security/undead-software-projects-raise-security-risks",
-      "published": 1793369437.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793397723.8547568
-    },
-    {
-      "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
-      "summary": "A high‑severity WordPress Core RCE flaw triggered almost 63,000 attack attempts within 24 hours of patch release, affecting versions 4.7 through 7.1.3.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
-      "published": 1793369294.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793397723.8547568
-    },
-    {
-      "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
-      "summary": "Flaws in SS7 and Diameter protocols enable attackers to track phone locations, intercept communications, and impersonate subscribers without compromising devices.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
-      "published": 1793368810.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793397723.8547568
-    },
-    {
-      "title": "Passkeys Are Better Than Passwords. But They Are Not Enough.",
-      "summary": "While passkeys replace passwords, attackers will shift focus to surrounding systems, indicating that passkeys alone are insufficient for security.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/passkeys-are-better-than-passwords-but-they-are-not-enough/",
-      "published": 1793368800.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793397723.8547568
-    },
-    {
-      "title": "Bulletproof Host Virtualine Loses Its Domain to FBI Seizure",
-      "summary": "Bulletproof Host Virtualine, a platform for hack‑for‑hire services and ransomware operators, lost its domain to an FBI seizure.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/bulletproof-host-virtualine-loses-its-domain-to-fbi-seizure/",
-      "published": 1793367372.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793397723.8547568
-    },
-    {
-      "title": "Assad regime hacker who caused $136 billion market drop sentenced to 42 months",
-      "summary": "Syrian hacker Ahmad Umar Agha, known as “Th3Pr0”, used a hijacked news agency Twitter account to spread a fake White House explosion report. He was sentenced to 42 months in prison by a federal court in the Eastern District of Virginia. The case was part of a larger hacking conspiracy linked to the Assad regime.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/30/syrian-hacker-sentenced-42-months-prison/",
-      "published": 1793365240.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793397723.8547568
-    },
-    {
-      "title": "CISA says max severity GitLab flaw now exploited in the wild",
-      "summary": "CISA reports that a maximum‑severity GitLab vulnerability, patched earlier this month, is now being exploited in the wild. Attackers are actively targeting the flaw. The agency urges users to verify patch status.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
-      "published": 1793365232.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793397723.8547568
-    },
-    {
-      "title": "Shufti ties AI agent actions to verified owners and permissions",
-      "summary": "Shufti launched Know Your Agent (KYA), a solution that verifies autonomous AI agents and ties their actions to verified owners and permissions. The tool helps businesses confirm the authenticity and accountability of AI‑driven transactions. It is designed for agentic commerce scenarios.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/30/shufti-know-your-agent-kya/",
-      "published": 1793364813.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793397723.8547568
-    },
-    {
-      "title": "British spy agency cannot account for thousands of data storage devices, watchdog says",
-      "summary": "The IPCO annual report for 2025 expressed concern over GCHQ’s inability to account for thousands of data storage devices. The watchdog noted delays in the agency’s investigation. It called for improved oversight.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/gchq-cannot-account-for-thousands-of-data-devices",
-      "published": 1793364720.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793397723.8547568
-    },
-    {
-      "title": "Bedrock Data routes data exposure fixes to owners and verifies results",
-      "summary": "Bedrock Data introduced AI‑assisted remediation that assigns data‑exposure tickets to owners via Jira or ServiceNow. The platform discovers dataset owners, opens tickets, and validates fixes when tickets are closed. It streamlines enterprise data‑security workflows.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/10/30/bedrock-data-ai-assisted-remediation/",
-      "published": 1793363949.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793397723.8547568
-    },
-    {
-      "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
-      "summary": "Trezor identified an extra circuit board in Safe 5 wallets sold by CryptoBilis that transmits recovery phrases over a mobile network. The company advises affected users to move funds to a new wallet with a new recovery phrase. Trezor has not yet examined the device.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
-      "published": 1793362916.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793397723.8547568
-    },
-    {
-      "title": "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
-      "summary": "The article explains why urgent security patches often remain unimplemented. It highlights the need for observable proof that changes will not disrupt services, balancing security with availability. It calls for a structured approach to patch deployment.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
-      "published": 1793361533.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793397723.8547568
-    },
-    {
-      "title": "Intigriti Bug Bytes #241 - October 2026 🚀",
-      "summary": "Bug Bytes #241 (October 2026) showcases multiple high‑value exploits: a Microsoft Edge logic‑bug chain, a 1‑click RCE in Discord via Twitch embed, a $250K Chrome RCE bounty, a Cloudflare SVG sanitizer bypass, and a Google Flask session pickle RCE. The issue details several other findings.",
-      "source": "Intigriti",
-      "link": "https://www.intigriti.com/researchers/blog/bug-bytes/intigriti-bug-bytes-241-october-2026",
-      "published": 1793318400.0,
-      "tags": [
-        "#bugbounty"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793397723.8547568
     }
   ]
 }
