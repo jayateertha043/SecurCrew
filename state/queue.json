@@ -1,500 +1,6 @@
 {
   "pending": [
     {
-      "added_at": 1793537491.3697815,
-      "ai": true,
-      "id": "1d293ae9cead23d3b9a8078196aedb7dbb2a4a99",
-      "link": "https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/",
-      "published": 1793531700.0,
-      "source": "SecurityWeek",
-      "summary": "Northstar Security raised $7 million to exit stealth and launch a platform that maps identities, assets, and vulnerabilities, using AI agents to identify and remediate toxic risk combinations.",
-      "tags": [],
-      "title": "Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations"
-    },
-    {
-      "added_at": 1793537491.3697815,
-      "ai": true,
-      "id": "bfe2619cba6bd3b35a8216e1c6ddfcf3af96082a",
-      "link": "https://www.helpnetsecurity.com/2026/11/01/week-in-review-binance-hit-by-6-3-billion-theft-impact-of-brotli-vulnerability/",
-      "published": 1793523600.0,
-      "source": "Help Net Security",
-      "summary": "The week’s review covers the Binance $6.3 billion theft, the impact of the Brotli compression vulnerability, and the r/opensource community’s decision to ban AI‑related projects.",
-      "tags": [],
-      "title": "Week in review: Binance hit by $6.3 billion theft, impact of Brotli vulnerability"
-    },
-    {
-      "added_at": 1793537491.3697815,
-      "ai": true,
-      "id": "c1c20131973afc74d9155033015ca721652a242f",
-      "link": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
-      "published": 1793523091.0,
-      "source": "The Hacker News",
-      "summary": "A critical flaw in Canonical’s LXD and MicroCloud lets attackers impersonate trusted clients by accessing the HTTPS API with a public certificate, granting them cluster and VM access without a private key.",
-      "tags": [],
-      "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key"
-    },
-    {
-      "added_at": 1793537491.3697815,
-      "ai": true,
-      "id": "2a3e4a8e199c95ac0ed526fdcc91184c147ce0fc",
-      "link": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
-      "published": 1793517940.0,
-      "source": "The Hacker News",
-      "summary": "Polymarket’s site was compromised by a hijacked DebugBear script that stole traders’ positions and transferred about $2.7 million to attackers; the company is refunding affected wallets.",
-      "tags": [],
-      "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script"
-    },
-    {
-      "added_at": 1793537491.3697815,
-      "ai": true,
-      "id": "6e20a9798345e8f54e783555f0808eb9ce6ced66",
-      "link": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
-      "published": 1793516580.0,
-      "source": "The Hacker News",
-      "summary": "The FBI attributes the record $6.43 billion Binance crypto heist to the North Korea‑aligned group TraderTraitor, also known as Jade Sleet and other aliases, with support from the USSS and IRS‑CI.",
-      "tags": [],
-      "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist"
-    },
-    {
-      "added_at": 1793537491.3697815,
-      "ai": true,
-      "id": "be08e34bf976a574988dd41b7621ed96ea387101",
-      "link": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
-      "published": 1793516578.0,
-      "source": "The Hacker News",
-      "summary": "Kaspersky uncovered NetamLoader, a sophisticated malware chain that targets custom Windows 10 builds used by Asian governments, deploying an undocumented .NET assembly‑loading framework.",
-      "tags": [],
-      "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection"
-    },
-    {
-      "added_at": 1793537491.3697815,
-      "ai": true,
-      "id": "5f2037864b2f69b178914b0d63c953678c9f5531",
-      "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-      "published": 1792417736.0,
-      "source": "Krebs on Security",
-      "summary": "Federal investigators suspect executives of two ransomware negotiation firms maintained close ties to the ShinyHunters group, which recently stole sensitive FBI data.",
-      "tags": [],
-      "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site"
-    },
-    {
-      "added_at": 1793537491.3697815,
-      "ai": true,
-      "id": "a273e26d1615cc31307428ecbcd32614b63a9211",
-      "link": "https://unit42.paloaltonetworks.com/top-5-initial-access-vectors-september-2026/",
-      "published": 1792172874.0,
-      "source": "Unit 42",
-      "summary": "Unit 42 identified the top initial access vectors for September 2026, highlighting edge exploits, credential abuse, and phishing as the most common methods used by adversaries.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Top 5 Initial Access Threat Vectors Observed by Unit 42 in September 2026"
-    },
-    {
-      "added_at": 1793537491.3697815,
-      "ai": true,
-      "id": "348862c34884fced08a7201efabbbf640df39203",
-      "link": "https://www.rapid7.com/blog/post/ra-gitlab-ci-cd-regex-integer-overflow-technical-analysis-cve-2026-97229",
-      "published": 1792157516.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "GitLab released patches for CVE‑2026‑97229, an integer overflow in its CI/CD regex handling that could allow unauthenticated code execution; the vulnerability has a CVSS score of 10.0.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "Rapid7 Analysis: GitLab CI/CD Regex Integer Overflow (CVE-2026-97229)"
-    },
-    {
-      "added_at": 1793537491.3697815,
-      "ai": true,
-      "id": "b57bb39ad9a33abf0103a6719fe4127e517b099c",
-      "link": "https://www.rapid7.com/blog/post/tr-rapid7-intelligence-wins-2026-peter-szor-award-outstanding-research",
-      "published": 1792155600.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "Rapid7 Intelligence received the 2026 Péter Szőr Award at Virus Bulletin for its research on BPFdoor in telecom networks, recognizing outstanding technical security work.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "Rapid7 Intelligence Wins the 2026 Péter Szőr Award for Outstanding Research"
-    },
-    {
-      "added_at": 1793537491.3697815,
-      "ai": true,
-      "id": "f2639c17d104783566e0a11caa78e83a95203518",
-      "link": "https://www.welivesecurity.com/en/cybersecurity/inbox-flooded-signup-messages-email-bombing/",
-      "published": 1792141200.0,
-      "source": "WeLiveSecurity",
-      "summary": "Email bombing can flood inboxes with sign‑up messages, often signaling malicious activity. It is a form of denial‑of‑service attack that overwhelms users with unwanted emails.",
-      "tags": [],
-      "title": "Inbox flooded with sign-up messages? Email bombing explained"
-    },
-    {
-      "added_at": 1793537491.3697815,
-      "ai": true,
-      "id": "7b5a8b8caa1d77dfe3fc060e450beb977cfd8976",
-      "link": "https://unit42.paloaltonetworks.com/ai-campaign-targets-linux-infrastructure/",
-      "published": 1792101609.0,
-      "source": "Unit 42",
-      "summary": "An AI‑driven espionage campaign targets government Linux infrastructure. The attackers use custom malware, web shells, and advanced credential‑theft techniques.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "AI-Powered Espionage Campaign Targets Government Linux Infrastructure"
-    },
-    {
-      "added_at": 1793537491.3697815,
-      "ai": true,
-      "id": "166c2152940e0692c93f2deb2370523d07bd4693",
-      "link": "https://www.rapid7.com/blog/post/it-multi-campus-universities-building-more-connected-security-programs",
-      "published": 1792092059.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "Higher‑education security teams face more frequent attacks across distributed campuses. Compliance requirements overlap across FERPA, GLBA, HIPAA, making intelligence sharing and coordinated response essential.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "How Multi-Campus Universities can Build a more Connected Security Program"
-    },
-    {
-      "added_at": 1793537491.3697815,
-      "ai": true,
-      "id": "c993d0f62b81a9c46e0f456163b7d6346df9262c",
-      "link": "https://blog.talosintelligence.com/the-q3-vulnerability-pulse-discovery-exploitation/",
-      "published": 1792087200.0,
-      "source": "Cisco Talos Blog",
-      "summary": "The Q3 Vulnerability Pulse shows many discovered CVEs are not exploited. Current trends highlight a gap between vulnerability discovery and real‑world exploitation.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "The Q3 Vulnerability Pulse: Discovery ≠ Exploitation"
-    },
-    {
-      "added_at": 1793537491.3697815,
-      "ai": true,
-      "id": "542b70b8a5d0bee51f11b7e61d0fdf16cdc6fc6a",
-      "link": "https://portswigger.net/blog/burp-at-whats-new-since-black-hat",
-      "published": 1792058981.0,
-      "source": "PortSwigger Blog",
-      "summary": "Burp AT was launched at Black Hat USA and has since received updates. The tool now includes new features and improvements for web application testing.",
-      "tags": [
-        "#appsec"
-      ],
-      "title": "Burp AT: What's new since Black Hat"
-    },
-    {
-      "added_at": 1793537491.3697815,
-      "ai": true,
-      "id": "8cc5ccfba0addfc92f2cd97ac599b2973d93fb4c",
-      "link": "https://www.intigriti.com/blog/business-insights/what-id-verification-changes-mean-for-public-bug-bounty-programs-at-intigriti",
-      "published": 1792022400.0,
-      "source": "Intigriti",
-      "summary": "Bug bounty platforms now require ID verification earlier in the researcher journey. Verified researchers tend to produce a higher signal ratio and more valuable findings.",
-      "tags": [
-        "#bugbounty"
-      ],
-      "title": "What ID verification changes mean for public bug bounty programs at Intigriti"
-    },
-    {
-      "added_at": 1793537491.3697815,
-      "ai": true,
-      "id": "4f678ae197795f077ce3bb070ece653b2a9be521",
-      "link": "https://grahamcluley.com/smashing-security-podcast-488/",
-      "published": 1792019202.0,
-      "source": "GRAHAM CLULEY",
-      "summary": "A ransomware negotiator was arrested by the FBI during a cybersecurity conference. The episode also covers hackers accessing ASOS's app and messaging customers.",
-      "tags": [],
-      "title": "Smashing Security podcast #488: How a ransomware negotiator ended up arrested at his own conference"
-    },
-    {
-      "added_at": 1793537491.3697815,
-      "ai": true,
-      "id": "f92c56fe800f3f5c376892e426466fa3eb639991",
-      "link": "https://unit42.paloaltonetworks.com/fortimanager-cve-2024-47575-peerstitch-malware/",
-      "published": 1792015244.0,
-      "source": "Unit 42",
-      "summary": "Attackers exploited CVE‑2024‑47575 to compromise over 500 FortiGate firewalls. They deployed PEERSTITCH, a memory‑resident ARM64 malware implant.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant"
-    },
-    {
-      "added_at": 1793537491.3697815,
-      "ai": true,
-      "id": "78394b2e6b36c2856a85b2231c39ddee2611e7f0",
-      "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
-      "published": 1791987769.0,
-      "source": "Krebs on Security",
-      "summary": "The UK imposed sanctions on Cryptomus, a cryptocurrency platform used for ransomware, narcotics, darknet, and fraud payments. The platform helps Russia circumvent financial restrictions.",
-      "tags": [],
-      "title": "U.K. Sanctions Cryptomus for RU Money Laundering"
-    },
-    {
-      "added_at": 1793537491.3697815,
-      "ai": true,
-      "id": "f25ecccf706526b1875c1fff0719428078073c7a",
-      "link": "https://blog.talosintelligence.com/break-the-silence-kazakhstan-nexus-uat-6275-targets-cis-government-organizations/",
-      "published": 1791986400.0,
-      "source": "Cisco Talos Blog",
-      "summary": "Talos and Recorded Future identified UAT‑6275 activity targeting CIS government organizations. The threat actors also show interest in water resources and energy sectors.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Break the silence: Kazakhstan-nexus UAT-6275 targets CIS government organizations"
-    },
-    {
-      "added_at": 1793537491.3697815,
-      "ai": true,
-      "id": "a2de7043bd5e42261a0a63dd1ae3a3e238323356",
-      "link": "https://www.rapid7.com/blog/post/ve-breaking-zimbra-identity-boundaries-part-1",
-      "published": 1791982800.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "Rapid7 identified more than 80 vulnerabilities in Zimbra Collaboration Suite, affecting authentication, data storage, and email delivery.\nCompromise could expose email communications and related workflows.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "From One Account to Every Mailbox: Breaking Zimbra's Identity Boundaries (Part 1)"
-    },
-    {
-      "added_at": 1793537491.3697815,
-      "ai": true,
-      "id": "96569fe71628d69f4bf7196d0a86103ddf80f83c",
-      "link": "https://www.rapid7.com/blog/post/ve-unauthenticated-sql-injection-in-channel-software-weballiance-ecommerce",
-      "published": 1791982025.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "Rapid7 discovered CVE-2026-108065, an unauthenticated SQL injection in Channel Software WebAlliance eCommerce.\nThe flaw allows reading sensitive database data or executing system commands if the database user has high privileges.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "Unauthenticated SQL Injection In Channel Software WebAlliance eCommerce"
-    },
-    {
-      "added_at": 1793537491.3697815,
-      "ai": true,
-      "id": "cb8d7c0fa36772afd0b83af001e68a5b45eaf311",
-      "link": "https://www.welivesecurity.com/en/scams/medicare-open-enrollment-season-scams/",
-      "published": 1791968400.0,
-      "source": "WeLiveSecurity",
-      "summary": "During Medicare Open Enrollment, fraudsters use scam calls, texts, and ads.\nGuidance helps users distinguish legitimate outreach from fakes and protect personal information.",
-      "tags": [],
-      "title": "Medicare scam calls, texts and ads: What to watch for this Open Enrollment"
-    },
-    {
-      "added_at": 1793537491.3697815,
-      "ai": true,
-      "id": "83d130e7ba9f7dd16780b5aa051506c65599588d",
-      "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
-      "published": 1791933893.0,
-      "source": "Krebs on Security",
-      "summary": "Microsoft released updates that fix over 1,400 security vulnerabilities across Windows and other products, surpassing the previous record of nearly 1,000 fixes.",
-      "tags": [],
-      "title": "Microsoft Patches More Than 1,400 Security Flaws"
-    },
-    {
-      "added_at": 1793537491.3697815,
-      "ai": true,
-      "id": "53bfae4a0cf33888db047c3ab9070d0d05c3f216",
-      "link": "https://unit42.paloaltonetworks.com/noise-inside-network-third-party-risk/",
-      "published": 1791928804.0,
-      "source": "Unit 42",
-      "summary": "Unit 42 analyzed a cyberattack on a European bank that exposed third‑party risk.\nThe post offers concrete defense strategies to detect and counter similar threats.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "The Noise Inside the Network: How an Unsophisticated Attack Exposed a Third-Party Risk"
-    },
-    {
-      "added_at": 1793537491.3697815,
-      "ai": true,
-      "id": "89da19b51c108909add2bf9e27d94a365cc55903",
-      "link": "https://www.rapid7.com/blog/post/em-patch-tuesday-october-2026",
-      "published": 1791927627.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "On Patch Tuesday October 2026, Microsoft published 1,413 own‑product vulnerabilities, including 1,102 in Windows, marking the largest volume yet for the year.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "Patch Tuesday - October 2026"
-    },
-    {
-      "added_at": 1793537491.3697815,
-      "ai": true,
-      "id": "a24af62903adae24a8df1e704ac187ab2a47de21",
-      "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-october-2026/",
-      "published": 1791923878.0,
-      "source": "Cisco Talos Blog",
-      "summary": "Microsoft's October 2026 Patch Tuesday includes 1,415 vulnerabilities, with 85 classified as critical, and provides updated Snort rules for detection.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Microsoft Patch Tuesday for October 2026 — Snort rules and prominent vulnerabilities"
-    },
-    {
-      "added_at": 1793537491.3697815,
-      "ai": true,
-      "id": "22c6ef693aeebfce960b14687d6e683965a8a918",
-      "link": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
-      "published": 1791914193.0,
-      "source": "Security Archives - The GitHub Blog",
-      "summary": "GitHub introduced a context‑aware secret classifier that raises weighted acceptance by 11.5% and cuts median scan time by 86%, improving secret detection quality.",
-      "tags": [
-        "#appsec"
-      ],
-      "title": "GitHub’s model for secret detection: Finding more secrets with less noise"
-    },
-    {
-      "added_at": 1793537491.3697815,
-      "ai": true,
-      "id": "05b41d1861c0bce38027d49692866ddcf2e1e25d",
-      "link": "https://www.rapid7.com/blog/post/etr-ivanti-connect-secure-zero-day-exploited-in-the-wild-cve-2026-104935",
-      "published": 1791911165.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "CVE-2026-104935 is an authentication bypass in Ivanti Connect Secure with a CVSS score of 8.6.\nIt allows remote, unauthenticated attackers to execute arbitrary commands, and exploitation was reported in the wild before disclosure.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "Ivanti Connect Secure zero-day exploited in the wild (CVE-2026-104935)"
-    },
-    {
-      "added_at": 1793537491.3697815,
-      "ai": true,
-      "id": "1e643864d18e2f3fc1c19b927a334bfb5b852315",
-      "link": "https://www.rapid7.com/blog/post/etr-cve-2026-97229-critical-unauthenticated-remote-code-execution-in-gitlab",
-      "published": 1791890943.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "GitLab CVE-2026-97229 is a critical integer overflow in the CI/CD regex compiler, scoring 10.0 on CVSS.\nIt enables unauthenticated remote code execution under certain conditions.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "CVE-2026-97229: Critical Unauthenticated Remote Code Execution in GitLab"
-    },
-    {
-      "added_at": 1793537491.3697815,
-      "ai": true,
-      "id": "8bb6776490a4ecf863f52580c474280fb52ded78",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/gta-6-leaker-threatens-release-full-game",
-      "published": 1791879656.0,
-      "source": "GRAHAM CLULEY",
-      "summary": "GTA 6 leaker threatens to release a full playable build before launch. The hacker has previously leaked game assets. More details on Hot for Security blog.",
-      "tags": [],
-      "title": "GTA 6 leaker threatens to release full playable version of game ahead of official launch"
-    },
-    {
-      "added_at": 1793537491.3697815,
-      "ai": true,
-      "id": "57d7ee05b83fd99b83a2b542f9deff0faf7ff559",
-      "link": "https://www.welivesecurity.com/en/how-to/what-to-do-when-a-data-breach-notice-tells-you-almost-nothing/",
-      "published": 1791795600.0,
-      "source": "WeLiveSecurity",
-      "summary": "Data breach notifications are increasingly sparse. What companies omit can influence victim response. Guidance on next steps.",
-      "tags": [],
-      "title": "What to do when a data breach notice doesn't say much"
-    },
-    {
-      "added_at": 1793537491.3697815,
-      "ai": true,
-      "id": "7f5dd566b2dd8d8cd689f202d357bb36a03a2891",
-      "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
-      "published": 1791591462.0,
-      "source": "Krebs on Security",
-      "summary": "FBI arrested co‑founder of Canadian cybersecurity firm linked to ShinyHunters. Investigation follows data leak of thousands of FBI agents. Details reported by KrebsOnSecurity.",
-      "tags": [],
-      "title": "FBI Arrests Executive at Ransomware Negotiation Firm"
-    },
-    {
-      "added_at": 1793537491.3697815,
-      "ai": true,
-      "id": "cb35de36512f22d00f23660a40f9eb5c55a532e9",
-      "link": "https://labs.watchtowr.com/death-by-a-thousand-papercuts-papercut-pre-auth-rce-chain-and-patch-bypasses-wt-2026-0141-0144-cve-2026-82077-cve-2026-82078-cve-2026-81578/",
-      "published": 1791567074.0,
-      "source": "watchTowr Labs",
-      "summary": "PaperCut vulnerabilities include multiple CVEs and patch bypasses. The blog explains bundled vulnerabilities and patch bypass IDs. The issue remains active.",
-      "tags": [
-        "#research",
-        "#exploit"
-      ],
-      "title": "Death By A Thousand PaperCuts (PaperCut Pre-Auth RCE Chain and Patch Bypasses WT-2026-0141-0144/CVE-2026-82077/CVE-2026-82078/CVE-2026-81578)"
-    },
-    {
-      "added_at": 1793537491.3697815,
-      "ai": true,
-      "id": "fc2044be7bdce9dc37040a2e31e7b4d3b1efd1c8",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/10-million-bounty-chinese-hafnium-hacker-microsoft-exchange-server-mega-attack",
-      "published": 1791556504.0,
-      "source": "GRAHAM CLULEY",
-      "summary": "US State Department offers up to $10 million for info on Zhang Yu, linked to Hafnium. Zhang is a 44‑year‑old Chinese national. Details on Hot for Security blog.",
-      "tags": [],
-      "title": "$10 million bounty offered for Chinese Hafnium hacker accused of Microsoft Exchange Server mega-attack"
-    },
-    {
-      "added_at": 1793537491.3697815,
-      "ai": true,
-      "id": "ca6c0dcc6d3a157221627977af96a5bfcb9bc767",
-      "link": "https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-a-collection-of-what-can-only-be-called-eclectic-modules",
-      "published": 1791543652.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "Metasploit Wrap Up covers a range of eclectic modules. The article provides an overview of recent additions. No further details provided.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "Metasploit Wrap Up: A Collection of What Can Only Be Called Eclectic Modules"
-    },
-    {
-      "added_at": 1793537491.3697815,
-      "ai": true,
-      "id": "7a914e084e89304d31db23e56dcc2a8ce3aae22b",
-      "link": "https://blog.talosintelligence.com/making-sure-the-checks-get-printed/",
-      "published": 1791482429.0,
-      "source": "Cisco Talos Blog",
-      "summary": "Newsletter explores real‑world risk management challenges. Focuses on maintaining critical systems when patches are unavailable. Highlights practical strategies.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Making sure the checks get printed"
-    },
-    {
-      "added_at": 1793537491.3697815,
-      "ai": true,
-      "id": "233ec4004daf4cede73908b93fadaa5851cc0c80",
-      "link": "https://www.welivesecurity.com/en/eset-research/matchboil-new-tricks-same-old-evil-intentions/",
-      "published": 1791449100.0,
-      "source": "WeLiveSecurity",
-      "summary": "ESET Research documents changes to UAC‑0099’s MATCHBOIL downloader from 2024 to 2026. The malware continues to use similar malicious tactics. The report details evolution of downloader.",
-      "tags": [],
-      "title": "MATCHBOIL: New tricks, same old evil intentions"
-    },
-    {
-      "added_at": 1793537491.3697815,
-      "ai": true,
-      "id": "3916e202dcf27a80148fc6f27af4355ae8198084",
-      "link": "https://grahamcluley.com/smashing-security-podcast-487/",
-      "published": 1791414649.0,
-      "source": "GRAHAM CLULEY",
-      "summary": "Podcast discusses Microsoft Twitter hijack by a paperclip. No ransomware or data theft, just a crypto coin and a corporate apology. UK losses from hacked accounts rose 417%.",
-      "tags": [],
-      "title": "Smashing Security podcast #487: Clippy’s crypto comeback"
-    },
-    {
-      "added_at": 1793537491.3697815,
-      "ai": true,
-      "id": "79a8a7bd139829526fce12afae717f3bb660d110",
-      "link": "https://unit42.paloaltonetworks.com/web3-cloud-supply-chain-attacks/",
-      "published": 1791410416.0,
-      "source": "Unit 42",
-      "summary": "Unit 42 explains how threat actors use Web3 infrastructure in supply chain attacks. The post details breaches of enterprise cloud environments. The article highlights new attack vectors.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Evolution of Web3 in Cloud Supply Chain Attacks"
-    },
-    {
       "added_at": 1793569751.652247,
       "ai": true,
       "id": "8cfea8890b08c2e2484017c3f2c684b9b831b251",
@@ -1887,6 +1393,457 @@
       "summary": "Six Linux vulnerabilities were publicly disclosed before fixes, including one with a working root exploit and no merged patch. The exposure highlights the need for timely vulnerability management.",
       "tags": [],
       "title": "Linux Flaws Exposed Before Fixes as Root Exploit Goes Public"
+    },
+    {
+      "added_at": 1793713771.7339478,
+      "ai": false,
+      "id": "f141bf6c3c9d2f6a143d06dabe041d2c64efae49",
+      "link": "https://www.infosecurity-magazine.com/news/cyber-refrigeration-supermarkets/",
+      "published": 1793713500.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "The incident has reportedly resulted in temperatures being changed on supermarket refrigerators, reminiscent of an attack that affected French retailers last month",
+      "tags": [],
+      "title": "Cyber-Attack on Refrigeration Systems Hits Supermarkets Across Europe"
+    },
+    {
+      "added_at": 1793713771.7339478,
+      "ai": false,
+      "id": "266dc1112be23cfd2f8f2f3eb792f8e99db5c887",
+      "link": "https://therecord.media/russia-linked-cyber-spies-target-ukraine-war-support",
+      "published": 1793713140.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "The hackers use relatively simple malware to steal sensitive documents, login credentials and other information from Ukrainian organizations, particularly those near the front line and the Russian border.",
+      "tags": [
+        "#news"
+      ],
+      "title": "Russia-linked cyber spies target Ukraine's war crimes investigations, military aid routes"
+    },
+    {
+      "added_at": 1793713771.7339478,
+      "ai": false,
+      "id": "06b26e44f1d69d72028ced4f0f13ea5bbd65b1dd",
+      "link": "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/",
+      "published": 1793712829.0,
+      "source": "BleepingComputer",
+      "summary": "European law enforcement authorities arrested seven suspects and seized more than 100 servers in a joint action targeting an unnamed company suspected of providing fraudulent trading websites to criminal gangs. [...]",
+      "tags": [],
+      "title": "Police seizes over 100 servers in investment scam crackdown"
+    },
+    {
+      "added_at": 1793713771.7339478,
+      "ai": false,
+      "id": "da8fdaf8d50c78951c3444ff3acd15b0edc683d0",
+      "link": "https://www.helpnetsecurity.com/2026/11/03/node-red-cve-2026-58115-exploitation/",
+      "published": 1793710791.0,
+      "source": "Help Net Security",
+      "summary": "<p>Attackers are exploiting an authentication flaw (CVE-2026-58115) in Node-RED, a programming tool built into some industrial control products, to install a Linux bot and backdoors on unprotected servers, VulnCheck has…",
+      "tags": [],
+      "title": "Attackers exploit critical Node-RED flaw to deploy Linux bot and backdoors (CVE-2026-58115)"
+    },
+    {
+      "added_at": 1793713771.7339478,
+      "ai": false,
+      "id": "68779352afb433582ffb1d9f437924f3a031ba4a",
+      "link": "https://www.theregister.com/security/2026/11/03/britain-on-notice-ai-powered-ransomware-attacks-to-arrive-by-2028/5307200",
+      "published": 1793709565.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "Cyber agency warns critical infrastructure is a likely target as chief urges bosses to stop doing 'tech on the cheap'",
+      "tags": [],
+      "title": "Britain on notice: AI-powered ransomware attacks to arrive by 2028"
+    },
+    {
+      "added_at": 1793713771.7339478,
+      "ai": false,
+      "id": "d7cae2dc8087518a475df770312de02ac0b9d7a8",
+      "link": "https://www.helpnetsecurity.com/2026/11/03/ai-powered-cyberattacks-artex-cyberstrikeai/",
+      "published": 1793709119.0,
+      "source": "Help Net Security",
+      "summary": "<p>A China-nexus espionage group used AI agents to attack more than 200 organizations in 11 days, CrowdStrike said last week. On Monday, Kaspersky published details of a separate campaign against educational…",
+      "tags": [],
+      "title": "AI agents scale and speed up Chinese-linked attacks"
+    },
+    {
+      "added_at": 1793713771.7339478,
+      "ai": false,
+      "id": "14152597814e822e921c3e029adf2255255b22bf",
+      "link": "https://www.securityweek.com/androids-november-2026-updates-patch-over-200-vulnerabilities/",
+      "published": 1793708509.0,
+      "source": "SecurityWeek",
+      "summary": "<p>The most severe is a critical flaw in Framework leading to remote code execution without user interaction.</p> <p>The post <a…",
+      "tags": [],
+      "title": "Android’s November 2026 Updates Patch Over 200 Vulnerabilities"
+    },
+    {
+      "added_at": 1793713771.7339478,
+      "ai": false,
+      "id": "5c6c31b6a9d34bf455a8e5e8ff7c5c90cd9deb1b",
+      "link": "https://www.securityweek.com/critical-node-red-flaw-exploited-in-attacks/",
+      "published": 1793707819.0,
+      "source": "SecurityWeek",
+      "summary": "<p>Multiple attacks from the same IP address attempted to deploy various payloads, including a Linux bot and webshells.</p> <p>The post <a…",
+      "tags": [],
+      "title": "Critical Node-RED Flaw Exploited in Attacks"
+    },
+    {
+      "added_at": 1793713771.7339478,
+      "ai": false,
+      "id": "8ede56d402c1a1b915beb1449ab6de57d7624926",
+      "link": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
+      "published": 1793707552.0,
+      "source": "BleepingComputer",
+      "summary": "Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]",
+      "tags": [],
+      "title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs"
+    },
+    {
+      "added_at": 1793713771.7339478,
+      "ai": false,
+      "id": "dcae8bed3d42d0e1eda3befa92ba893c0c1857c3",
+      "link": "https://www.schneier.com/blog/archives/2026/11/ais-hacking-the-law.html",
+      "published": 1793707260.0,
+      "source": "Schneier on Security",
+      "summary": "<p>In both a 2021 <a href=\"https://www.belfercenter.org/publication/coming-ai-hackers\">essay</a> and my 2022 book, <i><a href=\"https://www.schneier.com/books/a-hackers-mind/\">A Hacker’s Mind</a></i>, I talk about AIs…",
+      "tags": [
+        "#opinion"
+      ],
+      "title": "AIs Hacking the Law"
+    },
+    {
+      "added_at": 1793713771.7339478,
+      "ai": false,
+      "id": "983bb324e38de86890c69572423ab063f6f01ed1",
+      "link": "https://www.infosecurity-magazine.com/news/ncsc-ai-ransomware-threat-uk-cni/",
+      "published": 1793706300.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "The UK’s cyber chief has warned that AI-powered malware is highly likely to feature in ransomware attacks targeting British critical infrastructure by 2028",
+      "tags": [],
+      "title": "NCSC Chief Warns of Imminent AI Ransomware Threat to UK Critical Infrastructure"
+    },
+    {
+      "added_at": 1793713771.7339478,
+      "ai": false,
+      "id": "77f64f32faf59d1040ce92da841272e32b7d3536",
+      "link": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
+      "published": 1793705033.0,
+      "source": "The Hacker News",
+      "summary": "Fixed kernels for a use-after-free vulnerability in the Linux kernel's IPv4 TCP code are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newest long-term-support releases…",
+      "tags": [],
+      "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing"
+    },
+    {
+      "added_at": 1793713771.7339478,
+      "ai": false,
+      "id": "20c9c9965d29956a8489f0014f93000aa167276a",
+      "link": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
+      "published": 1793704700.0,
+      "source": "The Hacker News",
+      "summary": "Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You’re spending too much time and effort on exposures attackers may never exploit, while higher-risk exposures sit,…",
+      "tags": [],
+      "title": "The 4 Elements of Exposure Prioritization and How to Operationalize Them"
+    },
+    {
+      "added_at": 1793713771.7339478,
+      "ai": false,
+      "id": "3ce297811edf1174a45cacaf03927160f94c9195",
+      "link": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
+      "published": 1793703645.0,
+      "source": "The Hacker News",
+      "summary": "A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks targeting Ukrainian organizations. \"Active since at least February 2025, the group has focused…",
+      "tags": [],
+      "title": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware"
+    },
+    {
+      "added_at": 1793713771.7339478,
+      "ai": false,
+      "id": "96743687ed5f9f340b9246154f5a89046652b542",
+      "link": "https://cyberscoop.com/cisa-2030-strategy-operational-technology-blind-trust-op-ed/",
+      "published": 1793703600.0,
+      "source": "CyberScoop",
+      "summary": "<p>Persistent credentials and forgotten software approvals leave essential operational networks vulnerable under CISA’s latest cybersecurity roadmap.</p> <p>The post <a…",
+      "tags": [],
+      "title": "CISA’s new strategy runs into America’s blind trust problem"
+    },
+    {
+      "added_at": 1793713771.7339478,
+      "ai": false,
+      "id": "8491f2b2e05466df7f82fc3c60d041dbf1f902b9",
+      "link": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
+      "published": 1793703205.0,
+      "source": "BleepingComputer",
+      "summary": "Hackers who breached Harvard University's Alumni Affairs and Development systems in November 2025 stole data linked to more than 850,000 unique email addresses, according to breach notification service Have I Been…",
+      "tags": [],
+      "title": "Harvard University data breach exposed info of 851,000 accounts"
+    },
+    {
+      "added_at": 1793713771.7339478,
+      "ai": false,
+      "id": "7231c1d578cddb92aa3f0bc5b160d34dc0c925c8",
+      "link": "https://www.infosecurity-magazine.com/news/llmjacking-cost-business-1m-warns/",
+      "published": 1793702700.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "Google Mandiant has warned of the high cost of hijacked access to large language models, or LLMJacking",
+      "tags": [],
+      "title": "LLMJacking is Costing Some Businesses Up to $1m, Warns Google"
+    },
+    {
+      "added_at": 1793713771.7339478,
+      "ai": false,
+      "id": "dc3fd7a48983b8b9ab8acc251b8b05aea1702ae1",
+      "link": "https://www.helpnetsecurity.com/2026/11/03/gorbag-apt-group-malware/",
+      "published": 1793700014.0,
+      "source": "Help Net Security",
+      "summary": "<p>ESET has been tracking a Russia-aligned group it calls Gorbag, which has been breaking into Ukrainian organizations since at least February 2025 using spearphishing attachments and a stealer that erases itself once…",
+      "tags": [],
+      "title": "Gorbag APT group hits Ukrainian courts and city councils with self-deleting malware"
+    },
+    {
+      "added_at": 1793713771.7339478,
+      "ai": false,
+      "id": "face46920f5fd2a791e91f569d8f9977b488f87b",
+      "link": "https://securelist.com/tr/machine-learning-event-processor-in-kics-for-networks/121794/",
+      "published": 1793700007.0,
+      "source": "Securelist",
+      "summary": "We explain how Kaspersky Industrial CyberSecurity for Networks uses Machine Learning Event Processor (MLEP) technology to help take inventory of assets and detect anomalies in industrial networks.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "MLEP in KICS for Networks 5.0: how machine learning helps track network behavior of OT devices"
+    },
+    {
+      "added_at": 1793713771.7339478,
+      "ai": false,
+      "id": "5e74da19f3eb83760201a571b16bb8e26c8b01bd",
+      "link": "https://www.securityweek.com/uk-cyber-chief-says-the-uk-will-face-ai-cyberattacks-on-critical-infrastructure-by-2028/",
+      "published": 1793699352.0,
+      "source": "SecurityWeek",
+      "summary": "<p>The U.K. will likely face AI cyberattacks on its critical infrastructure by 2028 as criminals and states, including China and Russia, increasingly use AI in their cyber activity.</p> <p>The post <a…",
+      "tags": [],
+      "title": "UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028"
+    },
+    {
+      "added_at": 1793713771.7339478,
+      "ai": false,
+      "id": "1355a9e6b552c55e6ffafa88076aa11cbfd668a4",
+      "link": "https://www.helpnetsecurity.com/2026/11/03/llmjacking-stolen-ai-access-cloud-bills/",
+      "published": 1793698745.0,
+      "source": "Help Net Security",
+      "summary": "<p>Criminals who break into corporate cloud accounts are using the stolen access to run AI models at the victim’s expense, in some cases racking up more than $100,000 in charges in a single day, Google Threat…",
+      "tags": [],
+      "title": "Stolen AI access leaves companies with cloud bills of up to $1 million"
+    },
+    {
+      "added_at": 1793713771.7339478,
+      "ai": false,
+      "id": "ce2337fbf393754da6c139534f4f08e8e31e5a48",
+      "link": "https://www.infosecurity-magazine.com/news/police-tech-firms-team-up-to/",
+      "published": 1793698500.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "Google and partners have taken down the XCPE botnet attributed to Chinese device maker Videostrong",
+      "tags": [],
+      "title": "Police and Tech Firms Team Up to Dismantle XCPE Botnet"
+    },
+    {
+      "added_at": 1793713771.7339478,
+      "ai": false,
+      "id": "402458e4dacc5a5a14fc7810be8e464056aff04b",
+      "link": "https://www.securityweek.com/google-dismantles-xcpe-botnet-of-1-3-million-android-devices/",
+      "published": 1793697729.0,
+      "source": "SecurityWeek",
+      "summary": "<p>The botnet was created and operated for financial gain by Android OEM/ODM Videostrong Technology.</p> <p>The post <a…",
+      "tags": [],
+      "title": "Google Dismantles XCPE Botnet of 1.3 Million Android Devices"
+    },
+    {
+      "added_at": 1793713771.7339478,
+      "ai": false,
+      "id": "fc8359768f09e6a9fcfced315af5b7175d1f4805",
+      "link": "https://www.helpnetsecurity.com/2026/11/03/openai-bigger-bug-bounty-rewards/",
+      "published": 1793696339.0,
+      "source": "Help Net Security",
+      "summary": "<p>OpenAI increased its security bug bounties to encourage independent researchers to find vulnerabilities in its software. The program now offers bonuses for high-quality reports. The program encourages researchers to…",
+      "tags": [],
+      "title": "OpenAI raises top bug bounty payout to $172,000 with bonuses"
+    },
+    {
+      "added_at": 1793713771.7339478,
+      "ai": false,
+      "id": "c1b0c87aa6ca51cc81538f97efa5ef3a0888d985",
+      "link": "https://www.helpnetsecurity.com/2026/11/03/opal-security-agent-id-virtual-event/",
+      "published": 1793696107.0,
+      "source": "Help Net Security",
+      "summary": "<p>Opal Security will host agent.ID, a free virtual event focused on adapting identity and access management (IAM) to AI agents, on November 5, 2026. The event will bring together CISOs and identity leaders from…",
+      "tags": [],
+      "title": "Opal’s agent.ID virtual event: Top security leaders on governing Al agents"
+    },
+    {
+      "added_at": 1793713771.7339478,
+      "ai": false,
+      "id": "0658f100b664de2a98959befaac351d7f6615aa1",
+      "link": "https://www.securityweek.com/natos-crossed-swords-exercise-brings-ai-agents-into-cyber-operations-training/",
+      "published": 1793695743.0,
+      "source": "SecurityWeek",
+      "summary": "<p>The NATO CCDCOE exercise in Estonia introduces AI agents and OpenAI Daybreak into joint cyber and kinetic operations training.</p> <p>The post <a…",
+      "tags": [],
+      "title": "NATO’s Crossed Swords Exercise Brings AI Agents Into Cyber Operations Training"
+    },
+    {
+      "added_at": 1793713771.7339478,
+      "ai": false,
+      "id": "07d9937fab38293a27e70d5d2562041d39117cea",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
+      "published": 1793694708.0,
+      "source": "The Hacker News",
+      "summary": "BTCPay Server, a self-hosted, open-source cryptocurrency payment processor, has urged users to install the latest version of its software in response to reports of Bitcoin and Litecoin being stolen from hot wallets on…",
+      "tags": [],
+      "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets"
+    },
+    {
+      "added_at": 1793713771.7339478,
+      "ai": false,
+      "id": "f9c39fb133ac3831ca0443623056e523a72c0ce4",
+      "link": "https://www.securityweek.com/over-100-european-stores-hit-as-supermarket-fridge-attacks-resume/",
+      "published": 1793691804.0,
+      "source": "SecurityWeek",
+      "summary": "<p>Attackers again tampered with internet-exposed refrigeration controllers, this time at stores in Belgium, Sweden, Ireland and beyond.</p> <p>The post <a…",
+      "tags": [],
+      "title": "Over 100 European Stores Hit as Supermarket Fridge Attacks Return"
+    },
+    {
+      "added_at": 1793713771.7339478,
+      "ai": false,
+      "id": "d108c8cad61e3a765e9438a0a97427e9ca6f1a1c",
+      "link": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
+      "published": 1793691787.0,
+      "source": "The Hacker News",
+      "summary": "Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks. The Taiwanese vendor said it observed threat actors…",
+      "tags": [],
+      "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw"
+    },
+    {
+      "added_at": 1793713771.7339478,
+      "ai": false,
+      "id": "36d509a3e525d356344be60e0dbdcfd55e23cac3",
+      "link": "https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html",
+      "published": 1793690827.0,
+      "source": "The Hacker News",
+      "summary": "Attackers remotely changed the settings on refrigeration controls at supermarkets in Belgium, Sweden, Estonia and other European countries overnight into Monday, November 2, warming fridges and freezers. No chain…",
+      "tags": [],
+      "title": "New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food"
+    },
+    {
+      "added_at": 1793713771.7339478,
+      "ai": false,
+      "id": "67037c411986fcc088582fc790367c47ebad7114",
+      "link": "https://www.helpnetsecurity.com/2026/11/03/kara-sprague-hackerone-ai-bug-bounty/",
+      "published": 1793687436.0,
+      "source": "Help Net Security",
+      "summary": "<p>AI can find vulnerabilities in minutes, but people still hold the edge in judging what a flaw means for a business. In this Help Net Security interview, Kara Sprague, CEO of HackerOne, talks about business logic…",
+      "tags": [],
+      "title": "What human hackers still do better than AI, according to HackerOne’s CEO"
+    },
+    {
+      "added_at": 1793713771.7339478,
+      "ai": false,
+      "id": "8734344034be35c3892a277c91c7fe13615db17d",
+      "link": "https://www.helpnetsecurity.com/2026/11/03/product-showcase-sweet-security-virtual-patching/",
+      "published": 1793685618.0,
+      "source": "Help Net Security",
+      "summary": "<p>HTTP2Shell (CVE-2026-111497), the critical Brotli bug first known as Node2Shell, is a remote code execution flaw in the compression library inside Node.js, Bun, Envoy, Python and more. AI found it: OpenAI’s agents…",
+      "tags": [],
+      "title": "Product showcase: Sweet Virtual Patching stops HTTP2Shell while fixes catch up"
+    },
+    {
+      "added_at": 1793713771.7339478,
+      "ai": false,
+      "id": "16de9d4744f85e8ab23caa6edc9d44ce7fa52c2e",
+      "link": "https://www.helpnetsecurity.com/2026/11/03/mcphantom-deprecated-mcp-servers/",
+      "published": 1793684753.0,
+      "source": "Help Net Security",
+      "summary": "<p>When a developer tells an AI coding agent to “set up a GitHub MCP,” the agent has to pick a package. New research from Glow Labs documents sessions where it picked one out of an archived repository that will never be…",
+      "tags": [],
+      "title": "AI coding agents are installing MCP servers that will never be patched"
+    },
+    {
+      "added_at": 1793713771.7339478,
+      "ai": false,
+      "id": "3e6bc640da57c0d47ade2a5738166b32bc8a27a6",
+      "link": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
+      "published": 1793684081.0,
+      "source": "The Hacker News",
+      "summary": "A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed. The vulnerability, tracked as CVE-2026-58115 (CVSS score: 10.0), is a case…",
+      "tags": [],
+      "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors"
+    },
+    {
+      "added_at": 1793713771.7339478,
+      "ai": false,
+      "id": "d4042f8de11d05d65af93a6c12f1fca6aafce58d",
+      "link": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
+      "published": 1793684077.0,
+      "source": "The Hacker News",
+      "summary": "Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber. The vulnerability in question is…",
+      "tags": [],
+      "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials"
+    },
+    {
+      "added_at": 1793713771.7339478,
+      "ai": false,
+      "id": "9a67e075f7eb31866f53c64c64d7897f9aae8f90",
+      "link": "https://www.helpnetsecurity.com/2026/11/03/fireperf-open-source-network-testing-tool/",
+      "published": 1793683859.0,
+      "source": "Help Net Security",
+      "summary": "<p>The IPFire project has released fireperf, an open-source measurement tool that opens connections at a fixed rate and reports what the device in the middle did with each one. It is free software aimed at…",
+      "tags": [],
+      "title": "Fireperf: Open-source network testing tool for firewalls and routers"
+    },
+    {
+      "added_at": 1793713771.7339478,
+      "ai": false,
+      "id": "3b6a51103bfae25be68d30f23111518e435ce9ed",
+      "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
+      "published": 1793672671.0,
+      "source": "Krebs on Security",
+      "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection…",
+      "tags": [],
+      "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies"
+    },
+    {
+      "added_at": 1793713771.7339478,
+      "ai": false,
+      "id": "662466985d9efc929e758ac381203d7f3704b1c5",
+      "link": "https://www.welivesecurity.com/en/business-security/when-confusion-reigns-trusted-vendors-guide-smb-customers/",
+      "published": 1793613300.0,
+      "source": "WeLiveSecurity",
+      "summary": "SMBs need guided onboarding and supervised protection to optimize their investments",
+      "tags": [],
+      "title": "When confusion reigns, trusted vendors must guide their SMB customers"
+    },
+    {
+      "added_at": 1793713771.7339478,
+      "ai": false,
+      "id": "f2444df018d924bc0af531fbd7b0048d1f345052",
+      "link": "https://www.intigriti.com/blog/news/php2shell-revisited-real-world-risk",
+      "published": 1793577600.0,
+      "source": "Intigriti",
+      "summary": "PHP2Shell made organizations from all over the world scramble to inventory all their PHP assets, and the advice was consistent: patch your instances. But its severity score of 9.2 only tells you how bad PHP2Shell could…",
+      "tags": [
+        "#bugbounty"
+      ],
+      "title": "PHP2Shell revisited: What Intigriti’s insights tell us about real-world risk"
+    },
+    {
+      "added_at": 1793713771.7339478,
+      "ai": false,
+      "id": "6c05e107bb76f251f525616cba1b6c327f800cce",
+      "link": "https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html",
+      "published": 1793098886.0,
+      "source": "Schneier on Security",
+      "summary": "<p>Interesting research: “<a href=\"https://arxiv.org/abs/2610.13928\">AI Models Can Provably Hide Arbitrary Capabilities</a>”</p> <blockquote><p><b>Abstract:</b> Capability evaluations aim to surface dangerous model…",
+      "tags": [
+        "#opinion"
+      ],
+      "title": "Hiding Capabilities in AI Models"
     }
   ],
   "posted": []
