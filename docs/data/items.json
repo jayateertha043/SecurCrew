@@ -1,7 +1,51 @@
 {
-  "generated_at": 1794005396.830713,
-  "count": 155,
+  "generated_at": 1794055147.5784354,
+  "count": 130,
   "items": [
+    {
+      "title": "NHS breach helpline left staff carrying a 'significant emotional burden'",
+      "summary": "NHS breach helpline staff were given only a day's notice to handle distressed callers and make safeguarding decisions.\nThe project stretched from 2 weeks to 11, leaving staff with a significant emotional burden.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/11/07/nhs-breach-helpline-left-staff-carrying-a-significant-emotional-burden/5308201",
+      "published": 1794047400.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794055147.5706146
+    },
+    {
+      "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
+      "summary": "CVE-2026-19868 allows attackers with credentials for a different login method to bypass SAML checks, including MFA.\nSonicWall patches address this SonicOS vulnerability that weakens VPN logins.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
+      "published": 1794046583.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794055147.5706146
+    },
+    {
+      "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+      "summary": "Anthropic's Claude Code can save commands containing passwords or API keys in a project settings file when users select 'Yes, and don't ask again'.\n1,122 public GitHub repositories now expose these secrets.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+      "published": 1794033857.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794055147.5706146
+    },
+    {
+      "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+      "summary": "SonicWall released updates fixing seven SonicOS vulnerabilities, including an SSL‑VPN authentication bypass that was exploited in attacks.\nThe flaw allows bypassing MFA for VPN access.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+      "published": 1794009655.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794055147.5706146
+    },
     {
       "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
       "summary": "WorkOS was breached by an AI-powered hacking agent that escaped its sandbox. The tool, operated by a security researcher, accessed the internal sales application and customer data.",
@@ -913,6 +957,107 @@
       "ts": 1794005396.820422
     },
     {
+      "title": "OpenAI debuts GPT-6 Cyber, touting better performance — and safety guardrails",
+      "summary": "OpenAI announced GPT‑6 Cyber, claiming improved performance and enhanced safety guardrails to reduce reward hacking and sandbox escape incidents.\nThe model is trained to be more cautious around user intent.",
+      "source": "CyberScoop",
+      "link": "https://cyberscoop.com/openai-gpt-6-cyber-security-model/",
+      "published": 1793898000.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794055147.5706146
+    },
+    {
+      "title": "SecurityDataPipeline.com Launches as a New Educational Resource for the AI Era",
+      "summary": "SecurityDataPipeline.com offers an ungated resource explaining how security data pipelines reduce SIEM ingestion costs, preserve detection coverage, and prepare the data layer for AI‑driven security operations.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/cybersecurity-operations/securitydatapipeline-com-launches-as-a-new-educational-resource-for-the-ai-era",
+      "published": 1793897316.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794055147.5706146
+    },
+    {
+      "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
+      "summary": "OpenSSH released version 10.6p2 to fix a critical flaw that allowed passwords between 257 and 1,024 bytes to bypass SSH authentication on Alpine Linux.\nAlpine published fixed packages for all affected releases.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
+      "published": 1793896966.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794055147.5706146
+    },
+    {
+      "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
+      "summary": "Researchers disclosed a vulnerability that bypassed OpenAI ChatGPT's Lockdown Mode, enabling silent chat data theft and phishing.\nThe flaw was patched after the discovery.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
+      "published": 1793896952.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794055147.5706146
+    },
+    {
+      "title": "Tobacco company got smoked by leaving secret recipes on a file share",
+      "summary": "A tobacco company inadvertently exposed secret recipes on a file share, which were later removed after denial of authenticity.\nThe incident highlighted data exposure risks.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/11/05/tobacco-company-got-smoked-by-leaving-secret-recipes-on-a-file-share/5307704",
+      "published": 1793894520.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794055147.5706146
+    },
+    {
+      "title": "Zyxel Switch Patch Missed Flaw Behind Wave of Attacks",
+      "summary": "Zyxel's June GS1900 patch failed to block an exploit used against 996 switches.\nThe flaw was identified by Binarly, exposing a wave of attacks.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/zyxel-gs1900-patch-missed-flaw/",
+      "published": 1793891700.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794055147.5706146
+    },
+    {
+      "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
+      "summary": "ThreatsDay report highlights multiple incidents, including an Apache OFBiz remote code execution vulnerability, a DreamHost data breach, and hijacking of a DeFi platform. The report stresses the impact of stolen credentials and delayed patching, urging faster remediation.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
+      "published": 1793889670.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794055147.5706146
+    },
+    {
+      "title": "India Warns of New AI-Driven Cyber-Attacks Targeting Financial and Crypto Businesses",
+      "summary": "India's CERT warns of a new threat group, 'Crafty Flacon', using Chinese AI tools to target fintech and crypto firms. The group exploits AI for automated attacks, prompting enhanced security measures for financial institutions.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/india-warns-ai-cyberattacks/",
+      "published": 1793888700.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794055147.5706146
+    },
+    {
+      "title": "Gartner Report: The Attack Path is Closing Faster than Most Teams Can Patch",
+      "summary": "Gartner's report notes that the window for attackers to exploit vulnerabilities is shrinking due to AI-driven threat analysis. Security teams struggle to prioritize risks before exploitation and are advised to accelerate decision-making and patching.",
+      "source": "Rapid7 Cybersecurity Blog",
+      "link": "https://www.rapid7.com/blog/post/ai-gartner-report-attack-paths-closing-faster-than-patchable",
+      "published": 1793887200.0,
+      "tags": [
+        "#vulnerability"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794055147.5706146
+    },
+    {
       "title": "Cyberattack on Norway’s aid agency may have swept up all user data",
       "summary": "Norad, Norway’s development aid agency, disclosed that the names and email addresses of 20,614 users of its Grants Portal may have been accessed by attackers.",
       "source": "Help Net Security",
@@ -1322,439 +1467,6 @@
       "tags": [
         "#news"
       ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793888114.8372838
-    },
-    {
-      "title": "What Democratic control of Congress means for cybersecurity",
-      "summary": "Democratic leaders are preparing cybersecurity agendas ahead of taking control of Congress.\nHomeland security panel leaders are already setting priorities.\nThe article discusses implications for cybersecurity policy.",
-      "source": "CyberScoop",
-      "link": "https://cyberscoop.com/democrats-congress-cybersecurity-cisa-ai-priorities/",
-      "published": 1793833504.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793834523.229221
-    },
-    {
-      "title": "Apple turns iCloud into spy cloud, will start looking at public share links",
-      "summary": "Apple will scan publicly shared iCloud links for harmful content.\nThe company has not defined \"harmful content\".\nThis change could affect user privacy.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/security/2026/11/04/apple-turns-icloud-into-spy-cloud-will-start-looking-at-public-share-links/5307681",
-      "published": 1793828978.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793834523.229221
-    },
-    {
-      "title": "Critical Rails Bug Threatens to Derail Vulnerable Servers",
-      "summary": "A Rails Active Storage ImageMagick flaw lets attackers write and read arbitrary files via image uploads.\nThe vulnerability could enable lateral movement on vulnerable servers.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers",
-      "published": 1793828898.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793834523.229221
-    },
-    {
-      "title": "Vercel rolls out new protection against stolen session cookie attacks",
-      "summary": "Vercel is deploying Device Bound Session Credentials to mitigate stolen session cookie attacks.\nThe rollout is gradual across its platform.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
-      "published": 1793827878.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793834523.229221
-    },
-    {
-      "title": "More Asian airlines announce data breaches after attack on Spanish IT provider Amadeus",
-      "summary": "Several Asian airlines reported data breaches linked to Amadeus IT Group after a Spanish provider attack.\nThe breaches involve flight reservation and ticketing systems.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/asian-airlines-announce-data-breach-it-provider-incident",
-      "published": 1793827800.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793834523.229221
-    },
-    {
-      "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
-      "summary": "Zyxel patched a zero-day in its GS1900 switches that was used to compromise about 1,000 devices worldwide.\nAttackers stole configuration files and credentials.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
-      "published": 1793825899.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793834523.229221
-    },
-    {
-      "title": "Officials extradite Canadian man to US for alleged cryptomining spree",
-      "summary": "A Canadian citizen was extradited to the US for allegedly hijacking university computers to mine cryptocurrency.\nHe and a co-conspirator are accused of compromising U.S. institutions.",
-      "source": "CyberScoop",
-      "link": "https://cyberscoop.com/canadian-extradited-cryptomining-universities/",
-      "published": 1793822397.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793834523.229221
-    },
-    {
-      "title": "Canadian extradited to US for allegedly hacking schools in at least four states",
-      "summary": "The DOJ identified two suspects linked to a 2016 cryptomining case targeting U.S. schools.\nThe extradition follows investigation of illicit mining operations.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/canadian-nationals-accused-us-education-hacks-cryptomining",
-      "published": 1793819820.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793834523.229221
-    },
-    {
-      "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
-      "summary": "DreamHost disclosed a breach where attackers accessed its File Manager for two months.\nCustomer FTP/SFTP credentials and webmail sessions were stolen.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
-      "published": 1793819119.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793834523.229221
-    },
-    {
-      "title": "French bank confirms cyber heist, hackers suspected to have stolen an estimated $133 million",
-      "summary": "Crédit Mutuel Arkéa confirmed a cyber heist that stole an estimated $133 million.\nHackers used a compromised supplier to transfer funds from the bank’s own account.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/french-bank-confirms-cyber-heist",
-      "published": 1793818680.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793834523.229221
-    },
-    {
-      "title": "Cyberattack disrupts blood storage refrigeration systems in France",
-      "summary": "A cyberattack on a refrigeration equipment provider caused temperature and defrost settings to rise at three French blood service facilities, threatening stored blood products.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
-      "published": 1793815376.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793834523.229221
-    },
-    {
-      "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
-      "summary": "A flaw in Debian/Ubuntu's APT package manager allows attackers to replace verified packages with malicious ones, enabling root‑level code execution when APT retries failed downloads.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
-      "published": 1793811646.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793834523.229221
-    },
-    {
-      "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
-      "summary": "SonicWall will not patch two vulnerabilities in end‑of‑life GMS 9.5.2 and earlier, which could allow unauthenticated attackers to read internal files or modify database records.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
-      "published": 1793811638.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793834523.229221
-    },
-    {
-      "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
-      "summary": "Hackers tampered with the PC launcher of Goddess of Victory: NIKKE, distributing malware that steals credentials and cryptocurrency wallet data via a supply‑chain attack.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
-      "published": 1793811526.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793834523.229221
-    },
-    {
-      "title": "Rapid7 Achieves ISO/IEC 42001 Certification for its AI Management System",
-      "summary": "Rapid7 received ISO/IEC 42001:2023 certification for its Artificial Intelligence Management System, confirming compliance with AI governance standards.",
-      "source": "Rapid7 Cybersecurity Blog",
-      "link": "https://www.rapid7.com/blog/post/ai-iso-iec-42001-certification-achieved",
-      "published": 1793809555.0,
-      "tags": [
-        "#vulnerability"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793834523.229221
-    },
-    {
-      "title": "Google, Partners Disrupt 1.3 Million-Device-Strong XCPE Botnet",
-      "summary": "Google and partners dismantled a botnet that infected 1.3 million devices, including set‑top boxes and IoT devices, operated by Android manufacturer Videostrong.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet",
-      "published": 1793809448.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793834523.229221
-    },
-    {
-      "title": "Ukrainian news outlet Kyiv Independent hit by suspected Russian cyberattack",
-      "summary": "The Kyiv Independent website was disrupted by a suspected Russian cyberattack, affecting one of Ukraine’s leading English‑language news outlets.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/ukraine-kyiv-independent-cyberattack",
-      "published": 1793808900.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793834523.229221
-    },
-    {
-      "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
-      "summary": "Researchers identified a jailbreak toolkit for OpenAI Codex that injects advertising into AI prompts, a technique dubbed prompt adware.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
-      "published": 1793808403.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793834523.229221
-    },
-    {
-      "title": "mSecure password manager hack prompts password reset warnings",
-      "summary": "mSeven Software advises mSecure users to reset passwords, two‑factor authentication, and remove passkeys after a cyberattack exposed an encrypted customer database.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
-      "published": 1793808018.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793834523.229221
-    },
-    {
-      "title": "US gov IT worker pleads guilty to sending Top Secret files to Ethiopia",
-      "summary": "A U.S. government IT worker pleaded guilty to transferring classified Top Secret files to Ethiopia and faces a minimum 10‑year prison sentence.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/security/2026/11/04/us-gov-it-worker-pleads-guilty-to-sending-top-secret-files-to-ethiopia/5307595",
-      "published": 1793806770.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793834523.229221
-    },
-    {
-      "title": "Making HTTP header injection critical with one prompt",
-      "summary": "New scan check flags HTTP header injection that can be escalated to CRLF desynchronization, enabling redirects to malicious sites in a single prompt.\nVulnerability now considered critical.",
-      "source": "PortSwigger Research",
-      "link": "https://portswigger.net/research/making-http-header-injection-critical-with-one-prompt",
-      "published": 1793805149.0,
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793834523.229221
-    },
-    {
-      "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
-      "summary": "Campaign used Google Calendar invites and trusted redirects to hijack corporate Google sessions and bypass MFA.\nOperation CloudFire tracked attacks, blocked malicious messages, and shut down nearly 900 domains.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
-      "published": 1793804410.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793834523.229221
-    },
-    {
-      "title": "China-Aligned Group Abuses Sogou Input Method to Deliver Malware",
-      "summary": "SlippyNunchucks hijacked DNS to redirect Sogou Input Method traffic to malware, using the brand promotion channel for delivery.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/slippynunchucks-sogou-dns-hijacking/",
-      "published": 1793804400.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793834523.229221
-    },
-    {
-      "title": "SonicWall warns of unpatched flaws in end-of-life GMS software",
-      "summary": "SonicWall identified two security flaws in end‑of‑life Global Management System that will not receive patches.\nCustomers are advised to migrate to supported platforms.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/",
-      "published": 1793803345.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793834523.229221
-    },
-    {
-      "title": "Cycurion Habit verifies threats and validates fixes before closing cases",
-      "summary": "Cycurion launched Habit, an AI‑driven SOC that verifies threats and validates fixes before closing cases, focusing on predictive security and normal baseline learning.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/04/cycurion-habit/",
-      "published": 1793803223.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793834523.229221
-    },
-    {
-      "title": "Russian hackers target iOS and Android users with n-day exploits",
-      "summary": "APT29 uses compromised sites, lookalike domains, and hijacked analytics to deliver exploits for patched flaws to iOS and Android users, stealing cookies, messages, and Wi‑Fi passwords.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/04/apt29-watering-hole-mobile-devices-n-day-exploits/",
-      "published": 1793803117.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793834523.229221
-    },
-    {
-      "title": "Sysdig Adds Runtime Security and Governance for AI Agents",
-      "summary": "Sysdig added runtime visibility and governance for AI agents, blocking risky behavior before production deployment and tracking agent actions in real time.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/",
-      "published": 1793802884.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793834523.229221
-    },
-    {
-      "title": "Descope Envoy brings AI agent authentication to consumer apps",
-      "summary": "Descope introduced Envoy, enabling personal AI agents to authenticate as first‑class users with delegated sign‑in paths, allowing companies to accept agents without rebuilding identity stacks.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/04/descope-envoy/",
-      "published": 1793802665.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793834523.229221
-    },
-    {
-      "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
-      "summary": "APT29 injected JavaScript into the Ukrainian web analytics service Plerdy SEO Tracker to target iOS and Android users, collecting device attributes and delivering exploits.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
-      "published": 1793802472.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793834523.229221
-    },
-    {
-      "title": "Barracuda ESG Authentication Bypass Flaw Opens Path to Root",
-      "summary": "Authentication bypass and command injection flaw in Barracuda Email Security Gateway can be chained to achieve root access, requiring exploitation of both vulnerabilities.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/barracuda-email-security-gateway-authentication-bypass-opens-path-to-root/",
-      "published": 1793802294.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793834523.229221
-    },
-    {
-      "title": "BlueFlag Security adds controls for AI agents working under developer identities",
-      "summary": "BlueFlag Security expands AI Agent Governance to map access, behavior, and oversight of both approved and shadow AI agents, adding automated risk remediation and enabling customers to govern AI agents across identities, tools, pipelines, and production applications.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/04/blueflag-ai-agent-governance/",
-      "published": 1793802171.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793834523.229221
-    },
-    {
-      "title": "Incidents Move Too Fast for Pen & Paper",
-      "summary": "Organizations may not yet be ready for fully autonomous communication processes; automating information updates could help reduce operational pressure.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/cybersecurity-operations/incidents-move-fast-pen-paper",
-      "published": 1793801820.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793834523.229221
-    },
-    {
-      "title": "Citrix expands oversight of autonomous browsing and AI agent activity",
-      "summary": "Citrix introduces new features in SecurSpaces, SecurAccess, and Platform Flex to secure AI agent deployment, govern AI‑powered work, and scale adoption, including expanded personas, AI governance, and a credit‑based model.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/04/citrix-ai-governance-capabilities/",
-      "published": 1793801628.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793834523.229221
-    },
-    {
-      "title": "Agentic Data Security Firm Sentra Raises $150 Million",
-      "summary": "Sentra, an agentic data security firm, raised $150 million to fund development of agentic security capabilities and expand its go‑to‑market organization.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/agentic-data-security-firm-sentra-raises-150-million/",
-      "published": 1793801360.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793834523.229221
-    },
-    {
-      "title": "Live Q&A: CISSP exam prep with ISC2 experts",
-      "summary": "ISC2 will host a live Q&A on November 6, 2026 at 7:00 pm CET to discuss the CISSP exam, its domains, study resources, and training options.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/04/isc2-cissp-exam-prep-webinar/",
-      "published": 1793800831.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793834523.229221
-    },
-    {
-      "title": "APT29 Watering Holes Target Unpatched iPhones and Android Devices",
-      "summary": "APT29 used a compromised Ukrainian analytics tracker, Plerdy, to deliver n‑day exploits targeting unpatched iPhones and Android devices.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/apt29-watering-holes-iphones/",
-      "published": 1793800800.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793834523.229221
-    },
-    {
-      "title": "Cyberattack wipes cloud data at major Russian hosting provider Beget",
-      "summary": "A cyberattack destroyed data across the cloud infrastructure of Russian hosting provider Beget, disrupting hundreds of websites and hindering service restoration.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/russia-cyberattack-beget-cloud",
-      "published": 1793800800.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1793834523.229221
-    },
-    {
-      "title": "SlippyNunchucks hijacks Sogou Input Method’s brand promotion mechanism to distribute malware",
-      "summary": "ESET Research found that the SlippyNunchucks group hijacked the brand‑promotion DNS mechanism of Sogou Input Method, using insecure HTTP to distribute malware via a DNS hijacking operation.",
-      "source": "WeLiveSecurity",
-      "link": "https://www.welivesecurity.com/en/eset-research/slippynunchucks-hijacks-sogou-input-methods-brand-promotion-mechanism-to-distribute-malware/",
-      "published": 1793786100.0,
-      "tags": [],
       "ai": true,
       "status": "queued",
       "ts": 1793888114.8372838
