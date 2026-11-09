@@ -2,170 +2,6 @@
   "counts": {},
   "history": [
     {
-      "norm": "additional ivanti connect secure zero days exploited wild cve 2026 111357 cve 2026 118527 h2 style direction ltr overview h2 p style direction ltr span style font size undefined october 29 2026 ivanti span href style font size undefined updated security advisory span span style font size undefined ivanti connect secure ics include two additional vulnerabilities released fixes both ivanti rates span href style font size undefined cve 2026 111357 span span style font size undefined missing authentication critical function vulnerability span href style font size undefined cwe 306 span span style font size undefined cvssv3 1 score span href style font size undefined 8 8 span span style font size undefined allows local authenticated attacker escalate privileges span href style font size undefined cve 2026 118527 span span style font size undefined classified generation predictable numbers identifiers span href style font size undefined cwe 340 span span style font size undefined ivanti assigned cvssv3 0 score span href style font size undefined 4 3 span span style font size undefined according span href style font size undefined cisa s kev entry span span style font size undefined allows remote authenticated attacker upload attacker controlled content known location disk span p p style direction ltr span style font size undefined per ivanti exploitation wild already occurred prior disclosure affecting limited number customers when these flaws chained span href style font size undefined cve 2026 104935 span span style font size undefined authentication bypass spoofing span href style font size undefined cwe 290 span span style font size undefined rapid7 span href style font size undefined covered original disclosure october 13 2026 span span style font size undefined when fix cve 2026 104935 available but privilege escalation component remained unpatched fixes now available all three vulnerabilities span p p style direction ltr span style font size undefined october 30 2026 cve 2026 111357 cve 2026 118527 added u s cybersecurity infrastructure security agency s cisa list span href style font size undefined known exploited vulnerabilities span span style font size undefined kev based evidence active exploitation span p p style direction ltr span style font size undefined following scores classifications ivanti s updated advisory span p table thead tr th p style direction ltr span style font size undefined strong cve strong span p th th p style direction ltr span style font size undefined strong ivanti cvss score strong span p th th p style direction ltr span style font size undefined strong cwe strong span p th th p style direction ltr span style font size undefined strong impact strong span p th tr thead tbody tr td p style direction ltr span style font size undefined cve 2026 104935 span p td td p style direction ltr span style font size undefined 8 6 high cvssv3 0 span p td td p style direction ltr span style font size undefined cwe 290 span p td td p style direction ltr span style font size undefined remote unauthenticated command execution span p td tr tr td p style direction ltr span style font size undefined cve 2026 111357 span p td td p style direction ltr span style font size undefined 8 8 high cvssv3 1 span p td td p style direction ltr span style font size undefined cwe 306 cwe 862 cwe 345 span p td td p style direction ltr span style font size undefined local authenticated privilege escalation span p td tr tr td p style direction ltr span style font size undefined cve 2026 118527 span p td td p style direction ltr span style font size undefined 4 3 medium cvssv3 0 span p td td p style direction ltr span style font size undefined cwe 340 span p td td p style direction ltr span style font size undefined remote authenticated file upload known path span p td tr tbody table p p p style direction ltr span style font size undefined note span href style font size undefined cve record span span style font size undefined rapid7 s vulnerability database rate cve 2026 111357 span href style font size undefined 7 0 span span style font size undefined using high attack complexity unchanged scope ivanti assesses low attack complexity changed scope resulting score 8 8 table follows ivanti s scores classifications span p p style direction ltr span style font size undefined span href style font size undefined investigation span span style font size undefined volexity reports uta0576 used exploit chain gain unauthenticated root access appliance running span span style color rgb 24 128 56 font size undefined 22 8r2 4 span span style font size undefined beginning october 3 2026 write up identifies cve 2026 104935 cve 2026 111357 ivanti s updated advisory identifies cve 2026 118527 additional component chain volexity observed credential theft active directory queries windows laps passwords bitlocker recovery keys span p p style direction ltr span style font size undefined combined impact warrants emergency remediation despite individual cvss ratings ivanti connect secure enterprise vpn solution deployed network edge history zero day exploitation including span href style font size undefined 2024 span span style font size undefined span href style font size undefined 2025 span span style font size undefined span p h2 style direction ltr mitigation guidance h2 p style direction ltr span style font size undefined rapid7 recommends applying available updates emergency basis outside normal patching cycles october 13 fixes span span style color rgb 24 128 56 font size undefined 25 1 1 2 span span style font size undefined span span style color rgb 24 128 56 font size undefined 22 8r2 5 span span style font size undefined do not remediate cve 2026 111357 cve 2026 118527 span p table thead tr th p style direction ltr span style font size undefined strong cve s strong span p th th p style direction ltr span style font size undefined strong affected versions strong span p th th p style direction ltr span style font size undefined strong fixed version s strong span p th tr thead tbody tr td p style direction ltr span style font size undefined cve 2026 111357 cve 2026 118527 span p td td p style direction ltr span style color rgb 24 128 56 font size undefined 25 1 1 2 span span style font size undefined prior span p td td p style direction ltr span style color rgb 24 128 56 font size undefined 25 1 1 3 span p td tr tr td p style direction ltr span style font size undefined cve 2026 111357 cve 2026 118527 span p td td p style direction ltr span style color rgb 24 128 56 font size undefined 22 8r2 5 span span style font size undefined prior span p td td p style direction ltr span style color rgb 24 128 56 font size undefined 22 8r2 6 span p td tr tr td p style direction ltr span style font size undefined cve 2026 104935 span p td td p style direction ltr span style color rgb 24 128 56 font size undefined 25 1 1 1 span span style font size undefined prior span p td td p style direction ltr span style color rgb 24 128 56 font size undefined 25 1 1 2 span p td tr tr td p style direction ltr span style font size undefined cve 2026 104935 span p td td p style direction ltr span style color rgb 24 128 56 font size undefined 25 1 2 2 span span style font size undefined prior span p td td p style direction ltr span style color rgb 24 128 56 font size undefined 25 1 3 0 span span style font size undefined span span style color rgb 24 128 56 font size undefined 25 1 3 1 span p td tr tr td p style direction ltr span style font size undefined cve 2026 104935 span p td td p style direction ltr span style color rgb 24 128 56 font size undefined 22 8r2 4 span span style font size undefined prior span p td td p style direction ltr span style color rgb 24 128 56 font size undefined 22 8r2 5 span p td tr tbody table p p p style direction ltr span style font size undefined ivanti recommends moving span span style color rgb 24 128 56 font size undefined 22 8 x span span style font size undefined span span style color rgb 24 128 56 font size undefined 25 1 1 3 span span style font size undefined later applying span span style color rgb 24 128 56 font size undefined 22 8r2 6 span span style font size undefined if migration not immediately possible ivanti lists span span style color rgb 24 128 56 font size undefined 25 1 3 0 span span style font size undefined later isa4500 isa6500 isa8500 unaffected span p p style direction ltr span style font size undefined rapid7 also recommends investigating compromise after patching volexity reports observed activity evades ivanti s integrity checker tool so clean result does not rule out compromise preserve memory logs before rebooting resetting where feasible if compromise suspected follow ivanti s span href style font size undefined recovery steps span span style font size undefined rotate potentially exposed credentials span p p style direction ltr span style font size undefined current fixed versions mitigation guidance refer ivanti s span href style font size undefined security advisory span span style font size undefined linked recovery procedure includes older release references span p h3 style direction ltr span style color rgb 67 67 67 artifacts evidence sources iocs span h3 p style direction ltr span style font size undefined following guidance artifacts volexity s investigation span p p style direction ltr span style font size undefined strong hunting guidance strong span p ul li style direction ltr p style direction ltr span style font size undefined review requests span span style color rgb 24 128 56 font size undefined dana na auth url default welcome cgi span span style font size undefined especially url header mismatches involving span span style color rgb 24 128 56 font size undefined x dscgi path span span style font size undefined observed values include span p li ul pre x dscgi path home webserver htdocs dana fb smb wu cgi x dscgi path home runtime tmp md5 filename pre p p p style direction ltr span style font size undefined strong evidence sources appliance strong span p ul li style direction ltr p style direction ltr span style color rgb 24 128 56 font size undefined tmp span span style font size undefined span span style color rgb 24 128 56 font size undefined ml py span span style font size undefined span span style color rgb 24 128 56 font size undefined rq5 py span span style font size undefined span span style color rgb 24 128 56 font size undefined mk py span span style font size undefined span span style color rgb 24 128 56 font size undefined rr py span span style font size undefined span span style color rgb 24 128 56 font size undefined pu txt span span style font size undefined span span style color rgb 24 128 56 font size undefined sp out txt span span style font size undefined span span style color rgb 24 128 56 font size undefined spray hits json span span style font size undefined span p li li style direction ltr p style direction ltr span style color rgb 24 128 56 font size undefined data icscap span span style font size undefined span span style color rgb 24 128 56 font size undefined dsstatmond span span style font size undefined span span style color rgb 24 128 56 font size undefined cap span span style font size undefined span span style color rgb 24 128 56 font size undefined h py span span style font size undefined span p li li style direction ltr p style direction ltr span style color rgb 24 128 56 font size undefined home runtime tmp span span style font size undefined span span style color rgb 24 128 56 font size undefined ics root run inband pl span span style font size undefined span span style color rgb 24 128 56 font size undefined ics root result inband span span style font size undefined span p li li style direction ltr p style direction ltr span style color rgb 24 128 56 font size undefined home runtime dlogs debuglog span span style font size undefined span span style color rgb 24 128 56 font size undefined var log audit audit log span span style font size undefined investigate evidence selective deletion span p li ul p p p style direction ltr span style font size undefined strong network iocs strong span p ul li style direction ltr p style direction ltr span style color rgb 24 128 56 font size undefined 108 165 147 64 span span style font size undefined uta0576 exploitation ip per volexity s span href style font size undefined ioc list span span style font size undefined span p li ul p style direction ltr span style font size undefined volexity also provides span href style font size undefined yara rules span span style font size undefined request header evidence privilege escalation payload memory span p h2 style direction ltr rapid7 customers h2 h3 style direction ltr span style color rgb 67 67 67 exposure command vulnerability management nexpose span h3 p style direction ltr span style font size undefined exposure command vulnerability management nexpose customers can assess exposure cve 2026 111357 cve 2026 118527 authenticated vulnerability checks available since 2026 10 30 content release span p h2 style direction ltr updates h2 ul li style direction ltr p style direction ltr span style font size undefined strong november 2 2026 strong span span style font size undefined initial publication span p li ul",
-      "ts": 1793631755.8272371
-    },
-    {
-      "norm": "microsoft s ai risk report misses this key detail latest digital defense report identifies government agencies prime targets ai attacks but doesn t mention they broadly being targeted through microsoft bugs",
-      "ts": 1793631765.3969653
-    },
-    {
-      "norm": "ai powered infostealer picks out most profitable parts your stolen data p windows infostealer sends data steals ai model asks rank victim s assets much money they could bring cisco talos found there idea cybercrime world cast wide net steal everything let ai sort out specifics said ryan fetterman security researcher cisco malware calls itself volta autodoxer turned up through talos cairn href rel nofollow more span class meta nav span p p post href infostealer picks out most profitable parts your stolen data appeared first href net security p",
-      "ts": 1793631765.3969824
-    },
-    {
-      "norm": "darkblinders compromises israeli target iraqi kurdish government cloud environment cybersecurity researchers disclosed details cyber espionage campaign targeting israel kurdistan region iraq iran state aligned threat actor between august october 2026 according report published dream research labs campaign led compromise high profile individual israel along additional compromises affecting government cloud",
-      "ts": 1793631765.396986
-    },
-    {
-      "norm": "armadin tests find 88 severe flaws outside vendor advisories armadin found 88 critical high findings client tests fell outside vendor advisories",
-      "ts": 1793631765.3969889
-    },
-    {
-      "norm": "nuclear threats street brawls russia ukraine report attacks their emergency alert apps within minutes ceasefire lifting kherson ukraine s citizens pummelled threatening notifications",
-      "ts": 1793631765.3969913
-    },
-    {
-      "norm": "florida student aid website hack puts data 4 9 million people risk p florida department education says ssns other personal data may been exposed breach financial aid website p p post href student aid website hack puts data 4 9 million people risk appeared first href",
-      "ts": 1793631765.3969939
-    },
-    {
-      "norm": "apple warns users 99 countries mercenary spyware apple does not attribute attacks notices specific malicious actors geographical regions notification said due extreme cost sophistication worldwide nature mercenary spyware attacks which make them some most advanced digital threats existence today",
-      "ts": 1793631765.3969963
-    },
-    {
-      "norm": "russian ukrainian hackers hijack emergency apps spread fake nuclear attack warnings popular ukrainian air raid alert system hacked over weekend prompting cyber group breach similar russian system retaliation",
-      "ts": 1793631765.3969986
-    },
-    {
-      "norm": "hackers disrupt refrigeration systems european supermarkets cyberattack refrigeration systems disrupted stores run multiple supermarket chains across several european countries after hackers remotely changed temperature settings freezers cooling systems",
-      "ts": 1793631765.3970017
-    },
-    {
-      "norm": "second wave refrigeration cyberattacks hits european supermarkets p three weeks after attack turned refrigeration units french supermarkets into ovens overnight similar cyberattacks hit shops other european countries again caused refrigerated food spoiled belgium luxembourg sweden affected belgium fridges freezers been affected delhaize carrefour spar among others attackers remotely switched units evaporators defrost mode causing fridges warm up belgian news agency belga reported today href rel nofollow more span class meta nav span p p post href wave refrigeration cyberattacks hits european supermarkets appeared first href net security p",
-      "ts": 1793631765.3970044
-    },
-    {
-      "norm": "paprat cyber espionage campaign leaves bitter taste south asia organizations region face attacks known india linked threat group which leverages legitimate windows functionality three distinct attack chains",
-      "ts": 1793631765.3970063
-    },
-    {
-      "norm": "bitter deploys paprat asian cyber espionage campaign bitter used three infection chains against south southeast asian targets one no malware executable",
-      "ts": 1793631765.3970084
-    },
-    {
-      "norm": "microsoft fixes smart app control broken october windows update microsoft resolved known issue prevented some users activating smart app control security feature after installing october 2026 kb5127648 windows 11 security update",
-      "ts": 1793631765.397011
-    },
-    {
-      "norm": "revolve data breach impacts least 180 000 people p hackers accessed online shopping platform stole customers personal payment card information p p post href data breach impacts least 180 000 people appeared first href",
-      "ts": 1793631765.3970134
-    },
-    {
-      "norm": "google introduces 250 000 root cloud bug bounty reward p top payout high impact architectural research demonstrating full administrative control p p post href introduces 250 000 root cloud bug bounty reward appeared first href",
-      "ts": 1793631765.3970165
-    },
-    {
-      "norm": "frozen part ii hackers remotely defrost produce euro supermarkets again let go bad dozens stores report mass food wastage managers start their week puddles",
-      "ts": 1793631765.3970187
-    },
-    {
-      "norm": "second wave suspected cyberattacks hits supermarket freezers across europe supermarket grocery store refrigerators across europe appear been hacked early monday second such incident recent weeks where attackers manipulated temperature controls caused stock spoil",
-      "ts": 1793631765.3970213
-    },
-    {
-      "norm": "trezor warns some wallets may hide seed stealing implant p trezor safe 5 sold cryptobilis reseller linked recent ledger wallet drains may contain hidden implant steals owner s recovery phrase trezor warned trezor czech company part satoshilabs group made hardware wallets since 2014 current models safe 3 safe 5 safe 7 if you bought trezor cryptobilis march 2026 onwards using href rel nofollow more span class meta nav span p p post href warns some wallets may hide seed stealing implant appeared first href net security p",
-      "ts": 1793631765.3970234
-    },
-    {
-      "norm": "over 1 000 gitlab servers vulnerable ongoing rce attacks over 1 000 internet exposed gitlab servers still unpatched against maximum severity flaw actively exploited remote code execution attacks",
-      "ts": 1793631765.3970256
-    },
-    {
-      "norm": "ai vulnerability finding p href blockquote p 3 critical software security bugs all recorded history been found last month this pace find another 100 000 bugs this year alone adding 26 more vulnerabilities all time total do you realize fucking insane p blockquote p yes world out there p",
-      "ts": 1793631765.3970282
-    },
-    {
-      "norm": "critical langflow flaws could let unauthenticated attackers run code servers two critical flaws langflow could let remote attacker no account bypass authentication run arbitrary code ibm said last week langflow open source tool building ai agents workflows vulnerability reports go ibm every release 1 0 0 through 1 12 8 flaws only fix version 1 13 0 neither flaw cisa s known",
-      "ts": 1793631765.3970304
-    },
-    {
-      "norm": "fbi pins 6 3b binance crypto heist north korean hackers exchange scrambles replace stolen funds customers withdraw billions hackers get busy laundering their haul",
-      "ts": 1793631765.397033
-    },
-    {
-      "norm": "chainalysis breached using offensive agentic techniques p blockchain analytics firm chainalysis suffered cybersecurity incident led data breach according company s friday announcement incident unrelated recent binance hack accessed october company detected external attackers using offensive agentic techniques gain access chainalysis systems internal tools based evidence available date we found no indication these incidents resulted unauthorized access investigation href rel nofollow more span class meta nav span p p post href breached using offensive agentic techniques appeared first href net security p",
-      "ts": 1793631765.3970363
-    },
-    {
-      "norm": "your soc ready ai agents maturity check before you deploy forty percent security teams now use ai every day another 56 testing only 4 no plans adopt according prophet security s state ai security operations 2026 survey more than 250 cisos soc leaders practitioners teams still testing next decision whether their own soc ready ai soc readiness two parts whether soc",
-      "ts": 1793631765.3970428
-    },
-    {
-      "norm": "malicious claude code extension served cursor supply chain attack p extension performed host reconnaissance attempted create reverse ssh tunnel p p post href claude code extension served cursor supply chain attack appeared first href",
-      "ts": 1793631765.397047
-    },
-    {
-      "norm": "synology warns c3rb3r ransomware attacks targeting nas devices taiwanese network attached storage nas appliance maker synology warned customers update their devices immediately due surge c3rb3r ransomware attacks",
-      "ts": 1793631765.3970504
-    },
-    {
-      "norm": "attackers pose support microsoft teams abuse ad cs steal company data attackers posing support microsoft teams talked employees into giving them remote control their pcs they then used insecure active directory certificate services ad cs settings obtain login certificates privileged accounts including one domain controller microsoft said report investigated two such intrusions one which resulted company",
-      "ts": 1793631765.3970535
-    },
-    {
-      "norm": "could nick andersen s leadership outlast clock his acting role p he won praise his leadership cisa acting director there s talk keeping him role beyond his current deadline no nominee yet sight he might white house s best option p p post href nick andersen s leadership outlast clock his acting role appeared first href",
-      "ts": 1793631765.3970575
-    },
-    {
-      "norm": "government linux servers targeted sysgorat suspected ai generated scripts cybersecurity researchers disclosed details cyber espionage campaign specifically targeting linux infrastructure associated government entities state affiliated infrastructure activity observed palo alto networks unit 42 between october 2025 april 2026 been tracked under moniker cl unk 1211 where cl refers cluster unk stands unknown",
-      "ts": 1793631765.3970613
-    },
-    {
-      "norm": "chainalysis discloses data breach following ai driven cyberattack p attackers used offensive agentic techniques access company s systems internal tools p p post href discloses data breach following ai driven cyberattack appeared first href",
-      "ts": 1793631765.3970647
-    },
-    {
-      "norm": "fbi attributes binance heist north korea s tradertraitor fbi blamed north korean apt group tradertraitor world s biggest cyber heist",
-      "ts": 1793631765.3970683
-    },
-    {
-      "norm": "fbi pins 6 3 billion binance crypto heist north korea while scammers circle anxious users p north korea behind theft more than 6 billion cryptocurrency binance fbi confirmed federal bureau investigation fbi releasing information advising democratic people s republic korea north korea responsible theft more than 6 billion usd virtual assets cryptocurrency exchange binance about october 29 2026 bureau said alert published october 31 fbi tied href rel nofollow more span class meta nav span p p post href pins 6 3 billion binance crypto heist north korea while scammers circle anxious users appeared first href net security p",
-      "ts": 1793631765.3970714
-    },
-    {
-      "norm": "ivanti patches two more connect secure zero days chained attacks ivanti released security updates patch two more connect secure ics remote access gateway flaws been chained zero day attacks since least october 1",
-      "ts": 1793631765.3970742
-    },
-    {
-      "norm": "polymarket returns 3 9 million traders debugbear cites dns hijack p debugbear says dns records compromised via domain registrar early findings show single customer targeted p p post href returns 3 9 million traders debugbear cites dns hijack appeared first href",
-      "ts": 1793631765.3970773
-    },
-    {
-      "norm": "chainalysis warns customers after offensive agentic security incident chainalysis reveals ai driven attack led unauthorized activity",
-      "ts": 1793631765.3970802
-    },
-    {
-      "norm": "fbi flags over 600 addresses tied north korea s binance heist p fbi officially pinned 6 billion binance hack north korea s tradertraitor attackers launder stolen crypto p p post href flags over 600 addresses tied north korea s binance heist appeared first href",
-      "ts": 1793631765.397083
-    },
-    {
-      "norm": "cyberstrikeai wild use ai real world attacks organizations we analyze series attacks educational institutions fully automated during post exploitation phase using cyberstrikeai penetration testing framework",
-      "ts": 1793631765.3970861
-    },
-    {
-      "norm": "ivanti patches two more zero days exploited connect secure attack chain p cisa added cve 2026 111357 cve 2026 118527 kev catalog after ivanti vpn flaws chained zero day attacks p p post href patches two more zero days exploited connect secure attack chain appeared first href",
-      "ts": 1793631765.3970892
-    },
-    {
-      "norm": "deepseek open sources super agent coding agent watches team chats work p deepseek released research prototype dsh superagent coding agent does work github repository you who can ask work agent gets work two situations allowed user asks something rule your team wrote covers you can also open up chat github scope then anyone can request work just mentioning agent message comment quoted document href rel nofollow more span class meta nav span p p post href open sources super agent coding agent watches team chats work appeared first href net security p",
-      "ts": 1793631765.3970926
-    },
-    {
-      "norm": "first ten lines command policy ai coding agents p this help net security interview vinay thakker cto kloudstax explains set identity credentials network limits ai agents he argues agents should run under their own identity person s identity attached when acting someone s behalf he covers where credential proxies go wrong first ten lines command policy coding agent should say stop data leaving through package installs href rel nofollow more span class meta nav span p p post href first ten lines command policy ai coding agents appeared first href net security p",
-      "ts": 1793631765.3970964
-    },
-    {
       "norm": "uk faces unprecedented rise cyberattacks coming months warns cyber chief v ulnerabilities been tolerated far too long can now discovered exploited scale once unimaginable ncsc s chief warn releasing agency s annual report",
       "ts": 1793666567.0104332
     },
@@ -2096,13 +1932,176 @@
     {
       "norm": "this month security tony anscombe september 2026 edition autonomous ai agents go hacking spree microsoft ships used year s worth security patches one go here s keep pace",
       "ts": 1794174590.241697
+    },
+    {
+      "norm": "biggest threat your grc job isn t ai s ignoring ai ai agents taking over routine governance risk compliance tasks forcing grc professionals rethink skills needed stay relevant anecdotes examines three essential skills ai driven grc workplace data literacy agent governance communication",
+      "ts": 1794238378.9070616
+    },
+    {
+      "norm": "microsoft s azure linux gets 470 plus security fixes one almighty patching session mountain cves certificate cleanup yet more work microsoft s patching teams",
+      "ts": 1794238378.9070828
+    },
+    {
+      "norm": "artex goes pentesting tool attacker staple three months p security researcher s ai agent breached internal sales application used workos s go market teams developer platform provider confirmed friday researcher conducting cybersecurity benchmark evaluations using artex when their agent escaped isolated testing environment interaction workos unintended workos said researcher confirmed they deleted did not further share customer data agent obtained workos s systems company acknowledged security failings href rel nofollow more span class meta nav span p p post href goes pentesting tool attacker staple three months appeared first href net security p",
+      "ts": 1794238378.907119
+    },
+    {
+      "norm": "hackers abuse refrigeration controllers send spam route proxy traffic p internet exposed refrigeration controllers used supermarkets cold storage facilities being hijacked turned into infrastructure suspected spam botnet proxy services securityscorecard found report follows string attacks against european refrigeration systems which help net security started covering october when hundreds french supermarkets had throw out spoiled stock after attackers took over systems running their fridges freezers overnight switched them heating href rel nofollow more span class meta nav span p p post href abuse refrigeration controllers send spam route proxy traffic appeared first href net security p",
+      "ts": 1794238378.9071445
+    },
+    {
+      "norm": "fbi agent stole 2 5 million crypto hackers under investigation former fbi agent pleaded guilty stealing nearly 2 5 million wallets fraud victims nation state hackers under investigation",
+      "ts": 1794238378.9071527
+    },
+    {
+      "norm": "bitter hackers deploy paprat backdoor cyberespionage campaign targeting south asia south asian cyber espionage group known bitter aka apt c 08 apt q 37 hazy tiger orange yali t apt 17 ta397 been observed targeting south asian organizations previously unreported remote access trojan called paprat paprat both c rust implementations fortinet fortiguard labs researcher cara lin said capabilities include command execution file",
+      "ts": 1794238378.9071658
+    },
+    {
+      "norm": "supply chain attack compromises tens thousands github repositories security researchers detected malicious workflow affecting tens thousands github repositories including uber owned ones",
+      "ts": 1794238378.9071732
+    },
+    {
+      "norm": "who gives crap hackers apparently after toilet paper maker s customer data exposed uk shoppers caught up third party security mess nobody knows whether data flushed away",
+      "ts": 1794238378.907179
+    },
+    {
+      "norm": "alleged ai aided cyberattack exploits assistant interface breach german web host hackers allegedly assisted ai breached german web hosting company through tool designed allow customers connect ai assistants their accounts company disclosed",
+      "ts": 1794238378.9071882
+    },
+    {
+      "norm": "revolve puts data breach victim count 1 5 million p online fashion retailer revolve told regulators september cyberattack affected more than 1 5 million individuals p p post href puts data breach victim count 1 5 million appeared first href",
+      "ts": 1794238378.9071982
+    },
+    {
+      "norm": "email addresses 2 2 million sega customers leaked vendor breach gaming company sega warned customers vigilant suspicious emails after hackers compromised japanese email delivery provider arara",
+      "ts": 1794238378.9072049
+    },
+    {
+      "norm": "outlook com bounces legit emails microsoft s authentication crackdown goes sideways missing dmarc wobbly spf means your mail may treated suspicious",
+      "ts": 1794238378.9072251
+    },
+    {
+      "norm": "us bans mexc crypto exchange over sanctions evasion cybercrime links us department treasury cut off mexc global crypto exchange us financial system over sanctions evasion links cybercrime gangs",
+      "ts": 1794238378.907232
+    },
+    {
+      "norm": "weekly recap sshole exploited apt root rce robot takeovers 15k hacked sites more system doesn t always need complicated bug let someone sometimes blank password enough s one bigger stories this week gets worse when tools meant keep systems updated running safely become part attack elsewhere attackers hiding inside normal web traffic stealing credentials network devices finding uses exposed",
+      "ts": 1794238378.9072433
+    },
+    {
+      "norm": "pypi makes release attestations easier find security tab p python package index pypi added security tab project pages giving developers place check where individual release files came pypi shows where release files came security tab shows whether release files digital attestations which provide verifiable information about file published built release full provenance when every file least one attestation pypi publish attestation identifies href rel nofollow more span class meta nav span p p post href makes release attestations easier find security tab appeared first href net security p",
+      "ts": 1794238378.9072661
+    },
+    {
+      "norm": "pro russian hackers target european officials offer rewards personal information pro russian hackers published personal information italian foreign minister antonio tajani other senior european officials dark web offering cryptocurrency rewards additional details about them their families",
+      "ts": 1794238378.9072747
+    },
+    {
+      "norm": "plex2shell exploited against qnap nas users p threat actors exploiting four flaw chain hack plex media server application qnap nas devices p p post href exploited against qnap nas users appeared first href",
+      "ts": 1794238378.9072828
+    },
+    {
+      "norm": "japanese homeware giant pulls online store after cloud breach puts 7 7m records risk no reopening date orders face delays some customers told refuse deliveries cancel purchases",
+      "ts": 1794238378.9072893
+    },
+    {
+      "norm": "iris plaza breach may exposed data 7 7 million customers p hackers compromised external cloud service used shopping platform may stolen personal information p p post href plaza breach may exposed data 7 7 million customers appeared first href",
+      "ts": 1794238378.9072983
+    },
+    {
+      "norm": "italy s meloni blames pro russian hackers leak foreign minister s data dark web p italian foreign minister antonio tajani said saturday his personal data had been disseminated dark web p p post href meloni blames pro russian hackers leak foreign minister s data dark web appeared first href",
+      "ts": 1794238378.9073105
+    },
+    {
+      "norm": "ukraine dismantles crypto scam network stole 4 3 million ukrainian law enforcement arrested four suspects case involving theft more than 4 3 million using network cryptocurrency investment scam call centers",
+      "ts": 1794238378.90732
+    },
+    {
+      "norm": "hackers exploiting sshole authentication bypass openssh p initial exploitation attempts attributed botnets crypto miners but other threat actors expected follow suit p p post href exploiting sshole authentication bypass openssh appeared first href",
+      "ts": 1794238378.9073288
+    },
+    {
+      "norm": "ai security p two weeks ago i attended href ai security conference san francisco excellent event three days very dense talks about all aspects ai security my talk about integrous ai i post when online p p ai security can divided into three broad topics s important researchers understand which one they working s important us community work them all they security ai security ai security ai un prompted had good talks about all three p",
+      "ts": 1794238378.9073427
+    },
+    {
+      "norm": "trio accused using deepfake ceos bogus lawyers scam businesses out 129 million p three men allegedly used deepfakes company ceos law firm attorneys trick employees into wiring more than 129 million accounts group controlled justice department said indictment names three jacob soall 41 sharon hazan 54 guy sheetrit 42 soall used alias rocky balboa hazan went superman cash impossible mission fat boy among others scheme ran 2024 2026 usually opened href rel nofollow more span class meta nav span p p post href accused using deepfake ceos bogus lawyers scam businesses out 129 million appeared first href net security p",
+      "ts": 1794238378.9073577
+    },
+    {
+      "norm": "default admin admin server password helps researchers hack two automakers unlock start cars login systems behind two car brands mobile apps could taken over completely two security researchers found allowing them access any customer s account owner connected car unlock doors start engine both apps signed customers through forgerock identity platform now part ping identity those servers researchers reached",
+      "ts": 1794238378.907366
+    },
+    {
+      "norm": "amplifon americas data breach impacts 1 3 million p hackers stole personal health insurance information including social security numbers company s internal systems p p post href americas data breach impacts 1 3 million appeared first href",
+      "ts": 1794238378.9073744
+    },
+    {
+      "norm": "ai doesn t go rogue break world p ai systems learning exploit loopholes everything software tax law biggest threat may not malicious intent but machines doing exactly we ask p p post href doesn t go rogue break world appeared first href",
+      "ts": 1794238378.907384
+    },
+    {
+      "norm": "web3auth flaw exploited steal keplr crypto provider empties other wallets safety some people who set up keplr crypto wallet their google apple account had money stolen attacker keplr uses company called web3auth run google apple sign attacker used security flaw company reach wallets both companies said late last week web3auth then used attacker s own route empty other risk wallets before attacker",
+      "ts": 1794238378.9073925
+    },
+    {
+      "norm": "exploited sonicwall ssl vpn flaw lets attackers bypass saml enforced mfa cve 2026 19868 p sonicwall fixed exploited sonicos ssl vpn vulnerability cve 2026 19868 may allow attackers valid credentials bypass saml enforced multi factor authentication no workarounds listed company urged admins patch quickly about cve 2026 19868 cve 2026 19868 authentication enforcement flaw sonicos ssl vpn service exploitable only if saml enabled ssl vpn logins according sonicwall user valid credentials alternate authentication method may able bypass href rel nofollow more span class meta nav span p p post href sonicwall ssl vpn flaw lets attackers bypass saml enforced mfa cve 2026 19868 appeared first href net security p",
+      "ts": 1794238378.9074085
+    },
+    {
+      "norm": "cr dit mutuel ark targeted reported 133m heist french co operative bank cr dit mutuel ark reported cyber attack enabling fraudulent transactions",
+      "ts": 1794238378.9074137
+    },
+    {
+      "norm": "over 3 million people hit frontline education data breach p frontline education told indiana regulators august data breach affected over 3 million school district staff students p p post href 3 million people hit frontline education data breach appeared first href",
+      "ts": 1794238378.9074209
+    },
+    {
+      "norm": "133 million stolen french bank via exploited service provider p attackers siphoned estimated 133 million cr dit mutuel ark using bank s own account wire money other banks where possibly converted into cryptocurrency french cooperative banking group which 211 5 billion total assets more than 5 8 million customers confirmed attack days after blockchain investigator zachxbt began tracking over 100 million suspected stolen funds moving out centralized exchange accounts bank disclosed href rel nofollow more span class meta nav span p p post href million stolen french bank via exploited service provider appeared first href net security p",
+      "ts": 1794238378.9074366
+    },
+    {
+      "norm": "lnbits urges all operators shut down their bitcoin lightning wallet servers amid attacks everyone running lnbits free open source bitcoin lightning wallet system should shut down their servers now because wave attacks project said yesterday several security fixes release asked operators careful until they out one operator said accounts used exploit withdraw 2 285 545 satoshis about 0 023 bitcoin his server before he could",
+      "ts": 1794238378.9074442
+    },
+    {
+      "norm": "product showcase malwarebytes claude connector reveals about unexpected texts p malwarebytes connector claude checks suspicious links phone numbers email addresses without leaving chat you can paste link upload screenshot message then ask claude check details against malwarebytes threat database connector works free paid claude plans requires no separate malwarebytes account setting permissions each tool connector six tools including options look up domain registration details scan several href rel nofollow more span class meta nav span p p post href showcase malwarebytes claude connector reveals about unexpected texts appeared first href net security p",
+      "ts": 1794238378.9074593
+    },
+    {
+      "norm": "anti money laundering watchdog fatf targets scam compounds aml body financial action task force suggested ways disrupt scam compounds",
+      "ts": 1794238378.9074638
+    },
+    {
+      "norm": "taiwan based hacker used bossai ai agents steal taipei emergency dispatch records single attacker using ai agents pulled emergency dispatch records covering seven taipei districts researchers acronis s threat research unit said last week agents also found taipei fire department platform exposing patient data 2018 including ecg readings ambulance video footage without login researchers highly confident attacker single person",
+      "ts": 1794238378.9074712
+    },
+    {
+      "norm": "google deepmind s ai agents make 1024 bit rsa keys cheaper attack p working cryptographers deepmind s ai agents cut cost forging rsa 1024 signatures found cheaper way factor keys p p post href deepmind s ai agents make 1024 bit rsa keys cheaper attack appeared first href",
+      "ts": 1794238378.9074795
+    },
+    {
+      "norm": "former openai engineer pleads not guilty planting covert device executive meeting room openai engineer who arrested charged last month planting covert audio recording device company s office pleaded not guilty according reports bloomberg cnbc saudi national abdulrahman alfozan made appearance san francisco federal court friday where he entered plea his next hearing scheduled november 17 2026 if proven guilty",
+      "ts": 1794238378.9074872
+    },
+    {
+      "norm": "u s agencies warn refrigeration controller attacks could cause fires inventory losses u s government agencies warned threat actors actively targeting industrial refrigeration cold chain monitoring systems globally aim cause service disruptions fire hazards loss inventory actors may exploit vulnerabilities weaknesses unpatched internet accessible controllers remotely alter settings force units into continuous heating",
+      "ts": 1794238378.9074953
+    },
+    {
+      "norm": "cisa flags sonicwall sonicos mfa bypass flaw amid reports possible exploitation u s cybersecurity infrastructure security agency cisa added high severity vulnerability impacting sonicwall sonicos known exploited vulnerabilities kev catalog following reports said may been exploited real world attacks vulnerability tracked cve 2026 19868 cvss score 7 1 7 5 been described authentication reinforcement",
+      "ts": 1794238378.9075022
     }
   ],
   "seen": {
-    "00a3b1e54d1b614fa4ceab60a4dafc4b51196e1f": 1793631765.3970213,
     "017857ede41446c26e0a09f6d53cb70a16a85785": 1793888114.8373585,
+    "01d67ad2f6601792462b09e2a1249103f67b1da2": 1794238378.9074593,
     "04183963b9d8e8822fd6f1495d95c2716c6e5a15": 1794174590.2416863,
+    "0447c78989cb1cbf98449cd35ee64450a3d9d586": 1794238378.9074638,
     "0484546ab1e68e9aaf733dcb6cc46a2bebcec69f": 1793666567.0105247,
+    "05d80485eb9b43c1c04a45533bcaab2ff390b2f0": 1794238378.9073577,
+    "05eaa43bda77a8333283d199dfeb1362af99552d": 1794238378.9074137,
     "064692977b9f759f2e83049346467d3f1d94de35": 1794174590.241695,
     "0658f100b664de2a98959befaac351d7f6615aa1": 1793713771.7342439,
     "06b26e44f1d69d72028ced4f0f13ea5bbd65b1dd": 1793713771.7340012,
@@ -2110,7 +2109,6 @@
     "09be57be38cc6ef0df6167bbfc72c641daca307d": 1794142591.3688323,
     "0a89691e7bed3ebc5f082c6ec4f260dc53c334d8": 1794055147.5706847,
     "0b85f8ae4b7ce69d94912280f730d6ac7e8af0a1": 1794142591.3688476,
-    "0bc09b42359cb3d6011fe3cd3827271ebd1f67bc": 1793631765.3970892,
     "0bf3f82ddf079606bc4406aeb2e01b27747d28c4": 1793973279.388775,
     "0d46526f733bfcef7fbe287dda6e970d79563bc9": 1794174590.2416692,
     "0d99ee2b282857bf5a8f9a03ad4c7ab90154297c": 1793666567.0105288,
@@ -2120,6 +2118,7 @@
     "1355a9e6b552c55e6ffafa88076aa11cbfd668a4": 1793713771.7341936,
     "1413af0079f42d2d49e1d67c53f13be9c86f9a60": 1793834523.22927,
     "14152597814e822e921c3e029adf2255255b22bf": 1793713771.7340581,
+    "156a0344f3303140c023823db7083ec162896048": 1794238378.9073744,
     "15d8931249241012cd4db75027f84225f923bc8f": 1794174590.2416627,
     "160d641e4f4b870492a545d4808e8334e01c17fc": 1793834523.2293365,
     "163b6c2cf9aabd41112e9eb62937d5ebc4588fc7": 1794174590.241679,
@@ -2139,7 +2138,7 @@
     "1b4641ca37283c440ea450678b65d0c2300beb9c": 1793834523.2292526,
     "1b6528cb525ca35ccfe4c6de278bdda1b74f925a": 1794055147.5707493,
     "1b9b96d402ef45a531441c82aed28f03ea33096a": 1793834523.2292824,
-    "1befc30403b6d20cdf7edf1f3169069ee3551b05": 1793631765.397083,
+    "1c6a443e39e42db33580e3116db8fb77e97134a9": 1794238378.9071732,
     "1cb3088dd861e77594cd75dd3f381ba9150db042": 1793834523.2293446,
     "1d721fa902295cc1323e6b897f6a88f97bec8dd8": 1794142591.3688028,
     "1e20ad9d24a5312aad007ae09b29613d970da8a3": 1794087317.8077304,
@@ -2156,7 +2155,6 @@
     "23d39a3a36f431c036a4aa6a8132d6665d985db5": 1793973279.3887815,
     "24755a352d3db0870291b01911ace38663240799": 1794142591.3688614,
     "25c3eda20cfedcbc9b6b0c094160d09c60017f6a": 1793888114.8373475,
-    "25d58d631aa5deb0e77f785afe234d166e4592c7": 1793631765.3970964,
     "260025e601bbcf9ce366f4a611b93f782bd5644b": 1793888114.8374548,
     "2649de53cd92a5de56bc25ec27c78a1bab1f195e": 1794174590.2416928,
     "266b3df3272b7461d48dd3da0de397ef55cab7d7": 1793666567.0104332,
@@ -2171,12 +2169,13 @@
     "2961a509d6e3cf619eccb27caaa141aa4f4f683c": 1793666567.0104804,
     "2a3856813d54ce94400ed20b278afec26e1455be": 1794005396.820587,
     "2a5b7d5a686a585dee3d6eaf42b2eae9a26f81b7": 1793888114.8374429,
+    "2bf3346c67e6baa47c47fef01ccd331d65f6cc2a": 1794238378.9072251,
     "2c3bc9054593866dde8eacbe153a45fd9e9372ae": 1794055147.570768,
+    "2c42fb617031415936705ed17ab309e2756299ea": 1794238378.9072433,
     "2dabc341b4b992862be211d4fd543f8a8627d8d8": 1793666567.0104995,
     "2dacffdc48c87d16f6dcc3396574da05abfb7133": 1793888114.8373263,
     "2db299f6a19064cf5c46d2d279c81e1818ccd7d0": 1793746782.1860633,
     "2e0cdd810e4ad8805dbadd930dca01c173926259": 1793800616.7117786,
-    "2e0eed2511257ee22d2107a3f5231e585db6fc01": 1793631765.3970647,
     "2f52955775c1bf95ac04f20864e0ad96a12b5a97": 1794087317.8077135,
     "2f5877591bfda5a4cf60b0633f07fb9d554935ba": 1793800616.7117102,
     "2fdd5645c5cffdee9cacfb36d5db8c670135d416": 1794087317.8076785,
@@ -2185,26 +2184,23 @@
     "307efccb5031c1750fb68c5c89ca1b39547d3eee": 1794055147.5707102,
     "31063f2ef695ea4e325c501d7bc1a2a14e6c92ba": 1793888114.8374486,
     "310fe7a6e4c306a275108a1d251fa8bbcb800430": 1793746782.1860158,
-    "31148243e5467d0503b16fcffa9c8cb3ea4bd070": 1793631765.3970714,
     "317e8557e095955ceaf7416c75379629c3519cd6": 1793746782.1859536,
     "3189ce2b4e22a207a2962ebead99ab88d9f1afae": 1793973279.3889053,
     "32c90d2f095832b7d91072993ec93fa7a9aedcf4": 1793800616.7117758,
     "32fa756444deb29c5386d8abda8b3850ccb059fa": 1793973279.3888133,
     "33ab60e6dabf7cdf26b93827294296d32e31faff": 1793973279.38888,
+    "33c824e207021f77dbd88cb8bf40b3dfdb7d0f32": 1794238378.9074795,
     "3450626e318011d30cf74c79d21f85e88de40c87": 1793973279.3887787,
     "348862c34884fced08a7201efabbbf640df39203": 1794142591.3689127,
     "349817163ae57bfba607f2ea8e1e2103fbccac2c": 1793800616.7117941,
     "350327fdd7cd3bdb7f61bc0e699a9eb52f5fbfbb": 1793888114.8374517,
-    "357136bfe66d6a92d40e864567053340c57fd39b": 1793631765.3970742,
     "35de059a0596c25246bb268c0d5df0fdfd292e68": 1794055147.5706995,
     "3632eace057e58a0a3399e21aa2060dd09f76a60": 1793834523.2292783,
     "3647bbef0072cccd6bfbaba7d2effa5f2a71a0af": 1794005396.820528,
     "36b3d0baf9aaf1486a0da47da98fa311400fc5d3": 1793746782.186031,
-    "36bb83401e5a2118a086e8f828c48004066cbdbe": 1793631765.3969939,
     "36d509a3e525d356344be60e0dbdcfd55e23cac3": 1793713771.7342749,
     "3819f670736191aca1dc1604f686c04c03b8a5fd": 1794005396.820537,
     "3916e202dcf27a80148fc6f27af4355ae8198084": 1794174590.24165,
-    "39749d757eb1e130a2a5ad3115062d59247f5693": 1793631765.396986,
     "39f07fa6d531f4e0d677190ca2a7fc9916e2aa0d": 1794087317.8076916,
     "39fdf0945f5febab2eea89071eeb50933b27a30c": 1794087317.8077064,
     "3a73b8fccf35ecebfd48c4dcedfee782a772759e": 1793973279.3888333,
@@ -2212,13 +2208,15 @@
     "3ae40aec285b06a4d87e221cee0dfb5c962798b6": 1793973279.388757,
     "3b6a51103bfae25be68d30f23111518e435ce9ed": 1793713771.7343547,
     "3b8939cd6e35c1ec377db330038c1bc291ca7eb2": 1794174590.2415717,
-    "3c338909633812a9d84fc79cae0dd473fc5a570d": 1793631765.3969889,
+    "3c0c651efea81480c521f0e920e54e9108e9e771": 1794238378.9074209,
     "3c3dad9eec40e4f3f37ee9299e805e6051b53ea8": 1794005396.8204982,
     "3cd95951a6a6df652a4f241c527afedddf3e1c48": 1793666567.010527,
     "3ce297811edf1174a45cacaf03927160f94c9195": 1793713771.7341232,
     "3d23258051aa044c5a0fb246a666b01d96436d23": 1793800616.711679,
+    "3d5dfb277e1d458f425b45361454fd65e5b1fa2d": 1794238378.9075022,
     "3e5b06d3cd3d7dbe571f79418bccdd1b6fe1599a": 1794055147.57074,
     "3e6bc640da57c0d47ade2a5738166b32bc8a27a6": 1793713771.734324,
+    "3f1364bdf6a8ff26c5bd826f8c97fc506c11ed28": 1794238378.9072661,
     "3f709e0cf539c4e5c16815505369db25bfffc454": 1793834523.2293475,
     "3f8b89d0633c5e44c07fc70ffa0e44a27698d415": 1794055147.5707064,
     "3fe484f436f5a81567267175998567d98d02ff1f": 1794055147.5706544,
@@ -2231,7 +2229,6 @@
     "431a63bf22695cc75fbee66e94a73eb264db9073": 1794005396.820569,
     "4400201e3866f7fb5783368136d99534f990b031": 1794087317.8077395,
     "4448a4360ec1be655d50ccb32e3e451610941c8b": 1793834523.2293525,
-    "45cd3130c86e22f3c2cda8fbfaf7963d7dc306e7": 1793631765.3970234,
     "460b0d6e00938ba84e9acb6e7939ef2d89bcec62": 1793800616.711707,
     "462ec96575dae404989a87868ed898033dafd735": 1793834523.2292724,
     "465e04828551d8233c29cb2cf33999ecb5a6b2a0": 1793746782.1860409,
@@ -2239,6 +2236,7 @@
     "4720393fd82f906b9ab37585f54ceb9d2b7adbd9": 1793973279.3888834,
     "47887f1443ada123b667ed8756a48848cdd19b04": 1793746782.1860187,
     "47e04300a373117432b88a7fdc9099847000cf8a": 1794055147.5707133,
+    "47fb58a628fdcfe25e0e4bee00458995e4792633": 1794238378.9071527,
     "493913be8a0574e620e856d9800567f3d4e73a29": 1793800616.711747,
     "49bf8b366c47018c1d1bdf4296ebe734f0161304": 1793888114.8374457,
     "49c1ab7af418cae2a7ec64105f879dfc82a25347": 1794142591.3688288,
@@ -2262,6 +2260,7 @@
     "50e8cd6d193c992701de7871b019d9e7a1a79190": 1794055147.570765,
     "50f45dab6d6aa26bc1872152db8b4f3054bd24f3": 1794087317.80775,
     "52e40e7e7ea6b259f03f6be7d517275998784d2a": 1794142591.3688576,
+    "53877e7ba1bfab36045d091a7dff4a89987016c3": 1794238378.90732,
     "53bfae4a0cf33888db047c3ab9070d0d05c3f216": 1794174590.2416208,
     "542b70b8a5d0bee51f11b7e61d0fdf16cdc6fc6a": 1794174590.2415879,
     "5553b245af75f973f59aac912c9bfdc77b6eaf56": 1794055147.5707614,
@@ -2282,23 +2281,22 @@
     "5a765cf499c2e69479ee53af602bbaa17a249396": 1794087317.8076448,
     "5ad5314f8c50f86619a6d9fa43cce77139c572ef": 1793800616.7118247,
     "5be14df72cefaec084b390b06d38baa6a84ee51e": 1794087317.8076487,
+    "5c31e462e85502ed9b23c9255f06ab0d67b69ff6": 1794238378.9072747,
     "5c5efd627a9393fb780a45c4e1f2c4c393de1be8": 1793888114.837402,
     "5c6c31b6a9d34bf455a8e5e8ff7c5c90cd9deb1b": 1793713771.7340648,
     "5c794c08b581ac273345c27df064514918f98978": 1794005396.8205497,
     "5cdc0ab0264aec106ff82b169121cc5b20e69c57": 1794142591.3688781,
     "5ce5c8d2c37fde75a594fb560ca294de02897a13": 1793800616.7118082,
-    "5d2dccd9a445213c1a9b496a0230f8c7be442fd0": 1793631765.3970363,
     "5d4d032693916d5df771deb1c65c0eaf8f630ee8": 1793888114.83734,
     "5d6c647af36336afaa3fef829b7fe6735d658555": 1793666567.0105042,
     "5d7c1511e0dda8d0429213b6ae07c555234c0311": 1793973279.3888874,
-    "5e44eebabf29955357c941710f6ebb3b88585340": 1793631765.397011,
     "5e74da19f3eb83760201a571b16bb8e26c8b01bd": 1793713771.734175,
     "5e99d13bfbb2b68f427254756ffdd2f12b25646b": 1793834523.229331,
     "5ea1d647d005648052baa76a068c56ad5d0cb1e8": 1793666567.0104902,
     "5ea362755af2142be73789f3582510ebbfc03b4b": 1793666567.0104582,
     "5f2037864b2f69b178914b0d63c953678c9f5531": 1794142591.3689075,
-    "62404d68f9da627b29ac4a46ca3d4dcf558bd331": 1793631765.3969913,
     "62ad9c2a6bdda1cc08de2827ba172b545ee3f1ff": 1793800616.7117145,
+    "62af4291e17cf20f5bde5ba430c2e504e3eca2f3": 1794238378.9074442,
     "630ebea780297c07ee0508fe4d3e3b2a582d99a6": 1793834523.229262,
     "63adad31a1b5f8c448b8cabbe4ec54b1d4e5eac6": 1793973279.3888905,
     "63b84b48fd3c5f6c48ee30c27d7d54e9dd86da2c": 1794087317.8076541,
@@ -2327,10 +2325,8 @@
     "6b9c4b3e9dc911f9c52f61e7d2b8530622fd2662": 1794174590.2416887,
     "6bd6585835c425692b6a5223c7f2e3b29b588bb0": 1794142591.3688855,
     "6c05e107bb76f251f525616cba1b6c327f800cce": 1793713771.734397,
-    "6c5cf422a94bb03cf139f0790ed17f9602e50ec6": 1793631765.3969653,
     "6d4404d5b00edf5d7e1329b64451e46aa043a7cf": 1793666567.010478,
     "6daaae1d1812db5813a5d65795cffb282860898b": 1793973279.3888032,
-    "6dbb8a03c745147b5bd428cb0e079a785eda6b25": 1793631765.3970044,
     "6e318dd1d1a3dce67eb7f97ce5d6f9f83f367857": 1793666567.010502,
     "6e9532f013a7f4effcdb81be5141c86d0c195ac5": 1793800616.7117908,
     "6f65f6a04824f4305a27767a57be946cef71acf9": 1793834523.2293499,
@@ -2340,8 +2336,6 @@
     "71965359535822fcfe9719d5f2b91dc6c692ed96": 1794142591.3688984,
     "71b12d48491a67a5de9e8af4cf8e8cb69fa6dde7": 1793834523.229258,
     "7231c1d578cddb92aa3f0bc5b160d34dc0c925c8": 1793713771.7341435,
-    "7398c8fe0a0b90c3478db797442f1197ebae4121": 1793631765.3970256,
-    "749ada6f14739046d5bbd629b60d9dd5d4ff8530": 1793631765.3970861,
     "75699bb6148a5fef90888f584275755447764aa4": 1794087317.807685,
     "7682e78b06954e1f781ff8ffee07b349268d8673": 1794142591.3688543,
     "76cbbd24b030b9c86ca7347051a4416f193db906": 1793888114.8373177,
@@ -2358,15 +2352,18 @@
     "7a35ffe5727f21b8812a706c8dd7d1872b8a68c6": 1794087317.8076644,
     "7b310c119f825d9515230fd1df605577fc70f026": 1794055147.5707169,
     "7b5a8b8caa1d77dfe3fc060e450beb977cfd8976": 1794142591.3689206,
-    "7bca49cdf4ec7acf6475c2febd02fc868f3b3ab8": 1793631765.3969986,
+    "7bdf0c6dc5dcaaf065a0b5122b24b5ba4fad63ab": 1794238378.9071658,
     "7bee44827e17e9d78ac1e31d81d7981ae88c54f1": 1794005396.8205557,
     "7c611a8beb173d8150755c717ce1ded258388279": 1793746782.1860044,
-    "7c6236b32acd9ca1654e3f104aa070daddd24832": 1793631765.3970084,
     "7c97a1bda29bbdc20fc0272e7c92bf938de47cae": 1793888114.8373685,
     "7cabac9649662d58676d10771a0d253b0e0b008c": 1793888114.8373618,
+    "7cf7e23f889027d09e9697b0b567a06b6d5a5816": 1794238378.9071982,
     "7db6fdf963feec19c82b14935164cb033bb4e2bd": 1794087317.8076823,
     "7dec2b66b380edcdd3fea295b4fca574d246c830": 1793973279.3888185,
+    "7e4159a7da09c17ecfc5f832fe24b3dc4f8267e2": 1794238378.9074085,
     "7e637a2f9fd70ec85951e26d64cc6d323fa42e9e": 1794005396.8205783,
+    "7e866765ce9cf39f9ca5b8cf60dec4d205d69d04": 1794238378.907119,
+    "7ef80ee6e03abb638ab931642b6c1b15cfc3656f": 1794238378.907232,
     "7f5dd566b2dd8d8cd689f202d357bb36a03a2891": 1794174590.2416375,
     "7f80142f2f1d30ef876000591220b9765f3d4368": 1793746782.1859403,
     "801b944f5621a71ce8f5bcd3c18f9700083a9cec": 1793834523.2292752,
@@ -2374,6 +2371,7 @@
     "806a92e4d68ba1a653fb3df2138d074ae0aee879": 1793888114.8373961,
     "8158b1dc74164a8a8f0b61bdd8a37352df0ea2d7": 1793666567.0104516,
     "82627ad424902f8a418092d1e5d7be4912ef7677": 1794142591.3688817,
+    "82ab336fed5a0b358cde50d351c92cc338e7a494": 1794238378.9070616,
     "8342145f99f090abe8d78f7a8bdadb69b941882a": 1793666567.0104737,
     "8384bfde04a0d7fee57b8957001c7398e5d02eed": 1793888114.8373334,
     "8384c224e801ca2012eaf6fd8dd6b8714228a22b": 1793800616.711732,
@@ -2387,7 +2385,6 @@
     "8582547f17a7bc42843db8777c669feaad657be3": 1793834523.2292302,
     "8694430c3bcd51145710fb2c34680045f2f92f32": 1793973279.3887868,
     "8734344034be35c3892a277c91c7fe13615db17d": 1793713771.7343035,
-    "87a25e1b557ba2781d26e955841fcbbfa2babfba": 1793631765.3970613,
     "88525575b645fabc912006b65a484bada9f50cb3": 1794005396.8205109,
     "886e9406677fab2131fcdb8edeafbafa764269b2": 1794005396.8205585,
     "89379326868d89690b65de58cddd549c445446a9": 1793834523.2293613,
@@ -2403,7 +2400,6 @@
     "8d7305202070d0ebc798f72a8212599adddc7d12": 1793666567.0105197,
     "8da90d79db748e752ff79e03df72a30b62aba233": 1794087317.807747,
     "8ede56d402c1a1b915beb1449ab6de57d7624926": 1793713771.7340705,
-    "8f51d84a4d078f97f171b7ded3fca52d6df9a679": 1793631765.3970926,
     "9068a344a0358a1973064d800b2d3e54d89bf8bb": 1793666567.010497,
     "907479fa3fc767abeb405d84458b8e1713774cd3": 1793888114.8372917,
     "90ea146aa6b0476a4627687e1d72945cde14d871": 1793834523.2293136,
@@ -2417,7 +2413,6 @@
     "95338b4eedb1dc7ad6433080f9a6519e7ba32968": 1793888114.8373547,
     "955f969e9daedf25555e085c996bffa014a614b7": 1793800616.711758,
     "95b826d0e3a379749f79453c57675f92284a9961": 1794055147.5707295,
-    "96515b09df3bdba0235cfebc02bf1a0e62429dff": 1793631765.3970063,
     "96743687ed5f9f340b9246154f5a89046652b542": 1793713771.734132,
     "967a6a914dcf3b177071647af43573947c7fd18b": 1793800616.7118113,
     "96a1ace9f58c677e42dd42204a269784363f6af3": 1793888114.8374207,
@@ -2428,13 +2423,11 @@
     "983cd7433fe6494bd284238213acb22e48e86c76": 1794055147.5706913,
     "986e0b7b7db00c83152e756d62271fdeea937b43": 1794174590.2416728,
     "986edfc864db12c69169ad7615f7d446b3069384": 1794055147.5706391,
-    "995515088b04080970127b2fdf68deeed2be1149": 1793631765.3970683,
     "999ceca9b1cf268ba9bd51e5b1940a001840c38a": 1794174590.2416599,
     "99e7d99b0dd331dc2a529085f7dcb606f443f3c0": 1794087317.8076963,
     "99f6b8af600a59ae0967bb7adf6067f37fd0c9ec": 1793834523.2292924,
     "9a67e075f7eb31866f53c64c64d7897f9aae8f90": 1793713771.7343454,
     "9ad258b4d177e9059b89055b1522f8ecd337f6bb": 1793888114.8374119,
-    "9b847cec7f357ed3b1e647f238a9b0854623e299": 1793631765.3969963,
     "9c037607d0d59f318ad6e9121119b841bba2c568": 1794142591.3687735,
     "9c2441032957c5c46300b99c1f3548cf35bab01b": 1793800616.7117124,
     "9c8bdd95a7d55ce742a4ee85bdd9c4397e6f5099": 1793834523.2292855,
@@ -2443,13 +2436,17 @@
     "9e0aea37a06b6dfd709f89a956e01624a1286c7a": 1793973279.3888445,
     "9f03b9c501b63676eb87bac46d9306e44efb18b0": 1794087317.8077335,
     "9f5f211eabb4d317151196882057d9f1a3bdb07b": 1794142591.3688722,
-    "9fb19f3000286cd206417956215086c2d1120068": 1793631765.3970802,
     "9fe769e3c933c11ecca9a9d693426ceacc7deeb2": 1794005396.820516,
+    "a02fb0af291601b97e00426e489d0e282c213a51": 1794238378.9073925,
+    "a18ce332976ade3aabb46d8997b0618a2e38d5aa": 1794238378.907179,
     "a190c692796eb0827a06a89ff52f6224b08f693c": 1793888114.8373926,
     "a1f01e3becb7c18b42058097eccccdc004ac2033": 1794055147.570703,
     "a24af62903adae24a8df1e704ac187ab2a47de21": 1794174590.2416248,
     "a273e26d1615cc31307428ecbcd32614b63a9211": 1794142591.36891,
+    "a278123ac0f5b1d451daaf9ddd95e14940a9b694": 1794238378.9072983,
+    "a2c922a06d73cc0003e5d2fe2a616146160d76e8": 1794238378.9074872,
     "a2de7043bd5e42261a0a63dd1ae3a3e238323356": 1794174590.2416093,
+    "a3066db4d12bc7699bd51802d4bafbc4d5f6fd64": 1794238378.9073105,
     "a32b51d8e11896293e3aa91aa787dd6ec42d564d": 1793746782.1860216,
     "a382c3d13c65e93110c39b8960faaf095e85c73b": 1793973279.388874,
     "a3acbf2f249047358cc4fa59512cf20ec7ba919e": 1794142591.3688648,
@@ -2467,18 +2464,17 @@
     "aa36d77dd524cea8975ac47b7c7f61471405d188": 1794142591.3687928,
     "ac7367a35b670f9165f15be74c385141fd1631cb": 1794055147.570688,
     "acbef9b6b6f9e7d58c753c732166795db68b73ee": 1793666567.010476,
-    "ad2df65419af347171ab37abc09ef9f52b81bd20": 1793631765.3970304,
-    "adcc13fa97b855a3ae8eef57fd68c746714b7de3": 1793631765.3970134,
     "ae18d1e09dcde0e8741af903d55c68283f3d46e2": 1793666567.0105226,
     "af157714ac71e6ee57728677fbbaa53107a1e3d1": 1794142591.3688252,
     "af20a6eef9a285d5326fbe2b3509b0aa4a36ec7c": 1793666567.010495,
     "af6d1b8b9d253e74c0360d068646c9b11bec099e": 1794005396.8205202,
-    "afbf726098306952f1d52d4ace74f12dbf64904b": 1793631765.3970165,
     "affb73a9e26e207e7b889d6c0ce7ecc706fbac81": 1793973279.3888261,
     "b01b1ea281284cc621c245e5a0ccf12235ce59f5": 1794174590.2416756,
     "b0a8ea5b69867de6d8deaaf5ba2270975b9c5967": 1793746782.1859133,
     "b15805cd73ae891fd776c84d1a8b34b3f48209ab": 1793888114.837465,
+    "b202d7e30a6ff64a8e315f647cc57324713d7dd9": 1794238378.9071445,
     "b22118a1e1e0d91e7442c572bbc2556002618671": 1793666567.0104673,
+    "b2c42f8507782b4fec26ede086b8e0e662141232": 1794238378.9074366,
     "b386a6e2ddbf7e47a1f98e5ac92da6d1b512eb86": 1793834523.229322,
     "b57bb39ad9a33abf0103a6719fe4127e517b099c": 1794142591.3689158,
     "b63212099f3b82aab4bf186197dd01fc5fa82cbc": 1794005396.8204648,
@@ -2510,9 +2506,9 @@
     "c2f30e6dabc6ef586f0f51109b1bebe3ba4ea8e4": 1793973279.3888407,
     "c3f08dfc88f266722c10fb37d2f2403a238c89c8": 1793746782.1859825,
     "c3fcaf6abe58273999c941ed8eb8673b461e0ab3": 1793800616.7116961,
-    "c477f18125888d9ec75e0dbb473b69893ede5310": 1793631765.3970428,
     "c4daeac5c98ce27b55f9e6d395d50be04e6239a4": 1794005396.8205066,
     "c4f34d13716f64940630cbf662951cb3b28485d0": 1793800616.711787,
+    "c5154d08fadfed61475a43d3423e903ce449990e": 1794238378.907366,
     "c5532d0fb1f05c44212155853402e3483bd5ee9e": 1794005396.8204834,
     "c5cb56f9b754b3af48830e1eb526e42e5c184eae": 1794087317.80771,
     "c5d4f7a3fa549cfa37139abb4f2bded1448dc904": 1794055147.570723,
@@ -2525,13 +2521,12 @@
     "ca1a9396bb6596eafd41988441b58ab39869c1f2": 1794055147.570646,
     "ca5fc9dc16b17ee4d2a386e10dc5bad24a2df793": 1794142591.3688407,
     "ca6faf2faa2116ebdc4b01a884d2ef1fa47bfd4d": 1793666567.0105069,
-    "cab04cab3c6673df966ba4425ea85b60681e3e02": 1793631765.3970017,
+    "ca8912a2e710a7bf3ece958fad045619969b42ed": 1794238378.9072828,
     "cb35de36512f22d00f23660a40f9eb5c55a532e9": 1794174590.241641,
     "cb81392ce890c5e6d0f90898ad5df3d368e878d2": 1793666567.0104833,
     "cb8d7c0fa36772afd0b83af001e68a5b45eaf311": 1794174590.241614,
     "cbb96e663e0c964deab9a08be2a3e6604aed0272": 1793746782.1860497,
     "cbcc5cbaf6f622fa2458905d1f65600e4b062df2": 1794055147.5707552,
-    "cc016daaddd414769a3c33ea056d19b9e36f8b60": 1793631765.3970187,
     "cc34a33e2ccb8b22bcf7b4e31ec90ea5ccc3475b": 1793888114.8373508,
     "cc8d32ac462dd7fa65ed819e6075b70a519ae63d": 1793973279.3887913,
     "ccddb3cec5c858d323534ae6e46c0beacb8aa432": 1793746782.1860557,
@@ -2543,17 +2538,16 @@
     "d013e25bf4065f18fbf17448a788b1cacf17d351": 1793800616.711717,
     "d08bfa2bc66a20c6e9dfb4c1ac4a05a7cd445e0c": 1793746782.1859636,
     "d0b8b49f25cecdbcb3fb59837da3af993959bc1a": 1793973279.3887892,
-    "d0fa42b264a11ddcddc145f4ee823aca31b022f3": 1793631755.8272371,
     "d108c8cad61e3a765e9438a0a97427e9ca6f1a1c": 1793713771.7342649,
     "d155a865c64c4002cc1b6ab402f61d66ec48cc7b": 1794055147.5706215,
     "d1d6e819b34189c04bc4fb198b7c8c4ba4037baf": 1793800616.7118177,
     "d229882219e53534ecafb85c07363a9e8c684d62": 1793834523.229289,
+    "d24a7d11fb57da59d39ba0e2f2f15aed15f23fff": 1794238378.9072893,
     "d327652e7d3ebea62fb756f4caab19f7dea73f52": 1793746782.185948,
     "d32892baf1f533f74056e5eaa33cfdc69bb7145a": 1793666567.0104544,
     "d4042f8de11d05d65af93a6c12f1fca6aafce58d": 1793713771.7343314,
     "d40f262688b107800e592607e4f06b83ab47d3eb": 1793800616.7117193,
     "d43c265cb0a39bedec0c60a6c00354ed18bbaa72": 1794142591.3689005,
-    "d596e3f2baced4c06791e413b8f8b78e2f598b6e": 1793631765.3970535,
     "d5adbe76452f97590a21395364870f95e829e9f2": 1794055147.5706522,
     "d6dd46466a93ebf84ffa398d533dd02ff2b5dc10": 1793834523.2293103,
     "d7cae2dc8087518a475df770312de02ac0b9d7a8": 1793713771.734049,
@@ -2568,24 +2562,27 @@
     "dc3fd7a48983b8b9ab8acc251b8b05aea1702ae1": 1793713771.734161,
     "dc955d2a85c483583da2de597337685dbb1008f6": 1793973279.3888595,
     "dcae8bed3d42d0e1eda3befa92ba893c0c1857c3": 1793713771.7340865,
-    "dd66adcd623337a4291d103d298dfbbf1dcd76f5": 1793631765.397033,
     "dda9773dd3c9647ba417b1e668ece45550decda0": 1793800616.711821,
-    "de117707f477f6cc6c94dbe48ddc742d7f6c247d": 1793631765.3970575,
     "de259e1043ce5d21c99828556f32b9979a6b7181": 1793973279.3887842,
     "de7887560061326923876253071065f1f4761602": 1793834523.2292554,
     "de8bbdd0e39a7667c70d75c765cb60faa3d6ca76": 1793800616.7117255,
+    "de971951183972625dca6e267183fb16d4ea8b81": 1794238378.9073288,
     "ded94754be202b299b594e986872e10a934d10fd": 1794087317.807628,
+    "df6a1e5a88d8a5b7c8b6961a23cc0ac7569f7911": 1794238378.9074953,
     "df7c4721e4f5e937dd2cf6eb036ed02399b7e0da": 1793746782.1859353,
+    "e0f360ec1ac868f0d2a79a6951c7d7d5979e36aa": 1794238378.9073427,
     "e16fac9bbbbd758a720e741130353b08b887d9f9": 1794174590.2415762,
     "e17a54acdaac397a6d1cb68c611ffab7605bb1e0": 1793834523.229334,
     "e23d4711bfca2ff166a27ebb137c03cb42d732b3": 1793800616.7117035,
     "e293edf88b4e665582e4e4d2e4dbbbf16acc1837": 1794055147.5707202,
     "e34ca10a5a26ddf31b064f9c43dc093530f7513b": 1794005396.82054,
     "e3b02af5858936aaa2b8e19661f1748f7df99f34": 1794055147.5706491,
+    "e40c7784dd9cbffb1251c497edf2c727f8721f82": 1794238378.907384,
     "e4cb67814f09b55bf5ae257d19cbb95891d26a0c": 1793834523.2293284,
-    "e52f7534557dbc272218221746a054077b474ae0": 1793631765.3970504,
     "e6cb24183d2e85646fd330d58e27aa26c8729fff": 1793666567.010513,
     "e7767410559634bd76ccf9d97163ef03a10baeb6": 1793746782.1860657,
+    "e8082cc54dfbdb4b117921a0a474d35eff9048fa": 1794238378.9074712,
+    "e9e255b0822004258c75100843c38b25a565ece4": 1794238378.9071882,
     "ea6b9d64cfe5f3ca31b08281cd68cc16f7dd3b46": 1794005396.820479,
     "ecf2013fdfbbaac4500dcb8b84c1249fafb99bb0": 1793800616.711729,
     "ed421e39d30bdf9723363a360c12f38edbb48078": 1793800616.711805,
@@ -2594,6 +2591,7 @@
     "ede1220cf0eb096b6e67b6827c65b2af83c3b3ba": 1793834523.2292645,
     "eee28578f735a273be8f225716e5c5c003326ce9": 1794055147.5707526,
     "eeeae62d983b8e62a1fcfdef87e4274e13be8b1e": 1793888114.8374395,
+    "ef5dd19c2bcc8cf8949f2a4713119c55d05677a3": 1794238378.9072049,
     "ef82702ede34d14751dc3e34691d6db5a2f19e3e": 1794055147.5707328,
     "efbb1c68eb20dd3a98bd4010b1eb6a474772493a": 1794087317.8076568,
     "f141bf6c3c9d2f6a143d06dabe041d2c64efae49": 1793713771.7339647,
@@ -2602,7 +2600,6 @@
     "f25ecccf706526b1875c1fff0719428078073c7a": 1794174590.2416048,
     "f2639c17d104783566e0a11caa78e83a95203518": 1794142591.368918,
     "f34bbdcb95197b7c079f8bb3b3a729e1767cb439": 1794087317.807659,
-    "f3672c9c72a360c3220d97c180cc83d031c722c3": 1793631765.3969824,
     "f3853cb9c418fc795c5cbd9242599a6c05d6f744": 1793746782.186058,
     "f61ea71b3c46a1c4f3559c97eb9bd09ba8020b1c": 1793888114.8374145,
     "f6282e8c323a6b532e0bec5057ba9c752d141b98": 1793746782.1860342,
@@ -2616,12 +2613,10 @@
     "face46920f5fd2a791e91f569d8f9977b488f87b": 1793713771.734167,
     "fbad828f4421a1fc4702eb44c598872ad5901b13": 1794174590.2416837,
     "fc2044be7bdce9dc37040a2e31e7b4d3b1efd1c8": 1794174590.2416444,
+    "fc813b911c0a9ac488e4a3b984bd258d0c16e04d": 1794238378.9070828,
     "fc8359768f09e6a9fcfced315af5b7175d1f4805": 1793713771.7342238,
-    "fd515affb5396e7d0ad20aee5fff3df4bf9025f7": 1793631765.3970282,
     "fd607345118f3399caa2c3f40ae76f463a3ee0d7": 1794055147.570746,
     "fde042953d304e7118e3be920f65a0aa8f1bb1de": 1794087317.8077643,
-    "fe787079c468ac4e910a2fbf63e6b88bff635881": 1793631765.397047,
-    "ff9c9693b43df7e522f21251411e76506576ede2": 1793631765.3970773,
     "ffb49bed17e62c7fb422c3e350a2617cc7b49dbe": 1794142591.3688173
   }
 }
