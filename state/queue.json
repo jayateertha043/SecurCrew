@@ -1,497 +1,6 @@
 {
   "pending": [
     {
-      "added_at": 1794174590.2415335,
-      "ai": true,
-      "id": "840fc9184c6833271c476a5915c6aa8824b91674",
-      "link": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
-      "published": 1794152588.0,
-      "source": "BleepingComputer",
-      "summary": "Iris Ohyama disclosed that personal information of about 7.7 million customers may have been exposed after unauthorized access to a third‑party cloud service.",
-      "tags": [],
-      "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers"
-    },
-    {
-      "added_at": 1794174590.2415335,
-      "ai": true,
-      "id": "3b8939cd6e35c1ec377db330038c1bc291ca7eb2",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/irish-police-twitter-hacked-crypto-scam",
-      "published": 1792173650.0,
-      "source": "GRAHAM CLULEY",
-      "summary": "Irish police force’s Twitter accounts were hacked as part of a cryptocurrency scam, impacting the department’s social media presence.",
-      "tags": [],
-      "title": "Irish police force has its Twitter hacked in cryptocurrency scam"
-    },
-    {
-      "added_at": 1794174590.2415335,
-      "ai": true,
-      "id": "e16fac9bbbbd758a720e741130353b08b887d9f9",
-      "link": "https://www.fortra.com/blog/krybit-ransomware-what-you-need-know",
-      "published": 1792146312.0,
-      "source": "GRAHAM CLULEY",
-      "summary": "Krybit ransomware gang, after being hacked by a rival, continues to extort victims; organizations should review defenses and incident response plans.",
-      "tags": [],
-      "title": "Krybit ransomware: what you need to know"
-    },
-    {
-      "added_at": 1794174590.2415335,
-      "ai": true,
-      "id": "166c2152940e0692c93f2deb2370523d07bd4693",
-      "link": "https://www.rapid7.com/blog/post/it-multi-campus-universities-building-more-connected-security-programs",
-      "published": 1792092059.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "Multi‑campus universities face increased attack frequency and compliance burdens; coordinated security programs can improve intelligence sharing and response.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "How Multi-Campus Universities can Build a more Connected Security Program"
-    },
-    {
-      "added_at": 1794174590.2415335,
-      "ai": true,
-      "id": "c993d0f62b81a9c46e0f456163b7d6346df9262c",
-      "link": "https://blog.talosintelligence.com/the-q3-vulnerability-pulse-discovery-exploitation/",
-      "published": 1792087200.0,
-      "source": "Cisco Talos Blog",
-      "summary": "The Q3 Vulnerability Pulse report highlights that discovery of vulnerabilities does not equal exploitation, countering the notion of a \"Bugmageddon\".",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "The Q3 Vulnerability Pulse: Discovery ≠ Exploitation"
-    },
-    {
-      "added_at": 1794174590.2415335,
-      "ai": true,
-      "id": "542b70b8a5d0bee51f11b7e61d0fdf16cdc6fc6a",
-      "link": "https://portswigger.net/blog/burp-at-whats-new-since-black-hat",
-      "published": 1792058981.0,
-      "source": "PortSwigger Blog",
-      "summary": "Burp AT has released new features since Black Hat USA, expanding its capabilities for web application security testing.",
-      "tags": [
-        "#appsec"
-      ],
-      "title": "Burp AT: What's new since Black Hat"
-    },
-    {
-      "added_at": 1794174590.2415335,
-      "ai": true,
-      "id": "8cc5ccfba0addfc92f2cd97ac599b2973d93fb4c",
-      "link": "https://www.intigriti.com/blog/business-insights/what-id-verification-changes-mean-for-public-bug-bounty-programs-at-intigriti",
-      "published": 1792022400.0,
-      "source": "Intigriti",
-      "summary": "Intigriti’s shift to early ID verification for bug bounty researchers aims to improve signal quality and reduce fraud in public programs.",
-      "tags": [
-        "#bugbounty"
-      ],
-      "title": "What ID verification changes mean for public bug bounty programs at Intigriti"
-    },
-    {
-      "added_at": 1794174590.2415335,
-      "ai": true,
-      "id": "4f678ae197795f077ce3bb070ece653b2a9be521",
-      "link": "https://grahamcluley.com/smashing-security-podcast-488/",
-      "published": 1792019202.0,
-      "source": "GRAHAM CLULEY",
-      "summary": "A ransomware negotiator was arrested at a cybersecurity conference by the FBI while investigating the ShinyHunters gang, as discussed in Smashing Security podcast #488.",
-      "tags": [],
-      "title": "Smashing Security podcast #488: How a ransomware negotiator ended up arrested at his own conference"
-    },
-    {
-      "added_at": 1794174590.2415335,
-      "ai": true,
-      "id": "f92c56fe800f3f5c376892e426466fa3eb639991",
-      "link": "https://unit42.paloaltonetworks.com/fortimanager-cve-2024-47575-peerstitch-malware/",
-      "published": 1792015244.0,
-      "source": "Unit 42",
-      "summary": "Unit 42 uncovered PEERSTITCH, a stealthy FortiGate implant exploiting CVE‑2024‑47575 to target over 500 firewalls with memory‑resident ARM64 malware.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant"
-    },
-    {
-      "added_at": 1794174590.2415335,
-      "ai": true,
-      "id": "78394b2e6b36c2856a85b2231c39ddee2611e7f0",
-      "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
-      "published": 1791987769.0,
-      "source": "Krebs on Security",
-      "summary": "The UK imposed sanctions on Cryptomus, a cryptocurrency platform linked to Russian money laundering and cybercrime, to curb its role in facilitating illicit payments.",
-      "tags": [],
-      "title": "U.K. Sanctions Cryptomus for RU Money Laundering"
-    },
-    {
-      "added_at": 1794174590.2415335,
-      "ai": true,
-      "id": "f25ecccf706526b1875c1fff0719428078073c7a",
-      "link": "https://blog.talosintelligence.com/break-the-silence-kazakhstan-nexus-uat-6275-targets-cis-government-organizations/",
-      "published": 1791986400.0,
-      "source": "Cisco Talos Blog",
-      "summary": "Talos and Recorded Future identified UAT-6275 activity targeting government organizations across the Commonwealth of Independent States, with additional interest in water resources and energy.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Break the silence: Kazakhstan-nexus UAT-6275 targets CIS government organizations"
-    },
-    {
-      "added_at": 1794174590.2415335,
-      "ai": true,
-      "id": "a2de7043bd5e42261a0a63dd1ae3a3e238323356",
-      "link": "https://www.rapid7.com/blog/post/ve-breaking-zimbra-identity-boundaries-part-1",
-      "published": 1791982800.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "Rapid7 assessed Zimbra Collaboration Suite and found over 80 vulnerabilities affecting authentication, private communications, recovery links, calendars, and mail delivery, potentially exposing email and identity workflows.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "From One Account to Every Mailbox: Breaking Zimbra's Identity Boundaries (Part 1)"
-    },
-    {
-      "added_at": 1794174590.2415335,
-      "ai": true,
-      "id": "cb8d7c0fa36772afd0b83af001e68a5b45eaf311",
-      "link": "https://www.welivesecurity.com/en/scams/medicare-open-enrollment-season-scams/",
-      "published": 1791968400.0,
-      "source": "WeLiveSecurity",
-      "summary": "Medicare fraud peaks during Open Enrollment; the article explains how to distinguish legitimate outreach from scams and protect personal information.",
-      "tags": [],
-      "title": "Medicare scam calls, texts and ads: What to watch for this Open Enrollment"
-    },
-    {
-      "added_at": 1794174590.2415335,
-      "ai": true,
-      "id": "83d130e7ba9f7dd16780b5aa051506c65599588d",
-      "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
-      "published": 1791933893.0,
-      "source": "Krebs on Security",
-      "summary": "Microsoft released a patch update fixing more than 1,400 security vulnerabilities across Windows and other software, surpassing the September record of nearly 1,000 fixes.",
-      "tags": [],
-      "title": "Microsoft Patches More Than 1,400 Security Flaws"
-    },
-    {
-      "added_at": 1794174590.2415335,
-      "ai": true,
-      "id": "53bfae4a0cf33888db047c3ab9070d0d05c3f216",
-      "link": "https://unit42.paloaltonetworks.com/noise-inside-network-third-party-risk/",
-      "published": 1791928804.0,
-      "source": "Unit 42",
-      "summary": "Unit 42 analyzed a cyberattack on a European bank's IT infrastructure, highlighting how a simple attack exposed third‑party risk and offering defense strategies.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "The Noise Inside the Network: How an Unsophisticated Attack Exposed a Third-Party Risk"
-    },
-    {
-      "added_at": 1794174590.2415335,
-      "ai": true,
-      "id": "a24af62903adae24a8df1e704ac187ab2a47de21",
-      "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-october-2026/",
-      "published": 1791923878.0,
-      "source": "Cisco Talos Blog",
-      "summary": "Microsoft's October 2026 Patch Tuesday includes 1,415 vulnerabilities, 85 of which are marked critical, affecting a range of products.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Microsoft Patch Tuesday for October 2026 — Snort rules and prominent vulnerabilities"
-    },
-    {
-      "added_at": 1794174590.2415335,
-      "ai": true,
-      "id": "22c6ef693aeebfce960b14687d6e683965a8a918",
-      "link": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
-      "published": 1791914193.0,
-      "source": "Security Archives - The GitHub Blog",
-      "summary": "GitHub introduced a context‑aware secret classifier that improves detection quality, increases weighted acceptance by 11.5%, and cuts median scan time by 86%.",
-      "tags": [
-        "#appsec"
-      ],
-      "title": "GitHub’s model for secret detection: Finding more secrets with less noise"
-    },
-    {
-      "added_at": 1794174590.2415335,
-      "ai": true,
-      "id": "8bb6776490a4ecf863f52580c474280fb52ded78",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/gta-6-leaker-threatens-release-full-game",
-      "published": 1791879656.0,
-      "source": "GRAHAM CLULEY",
-      "summary": "A hacker who leaked GTA 6 threatens to release a full playable build before the official launch, according to a Hot for Security blog article.",
-      "tags": [],
-      "title": "GTA 6 leaker threatens to release full playable version of game ahead of official launch"
-    },
-    {
-      "added_at": 1794174590.2415335,
-      "ai": true,
-      "id": "57d7ee05b83fd99b83a2b542f9deff0faf7ff559",
-      "link": "https://www.welivesecurity.com/en/how-to/what-to-do-when-a-data-breach-notice-tells-you-almost-nothing/",
-      "published": 1791795600.0,
-      "source": "WeLiveSecurity",
-      "summary": "The article discusses how limited information in data breach notifications can still influence victim actions and what to do when notices are vague.",
-      "tags": [],
-      "title": "What to do when a data breach notice doesn't say much"
-    },
-    {
-      "added_at": 1794174590.2415335,
-      "ai": true,
-      "id": "7f5dd566b2dd8d8cd689f202d357bb36a03a2891",
-      "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
-      "published": 1791591462.0,
-      "source": "Krebs on Security",
-      "summary": "The FBI arrested the co‑founder of a Canadian cybersecurity firm linked to the ShinyHunters hacking group, which recently exfiltrated sensitive data from thousands of FBI agents.",
-      "tags": [],
-      "title": "FBI Arrests Executive at Ransomware Negotiation Firm"
-    },
-    {
-      "added_at": 1794174590.2415335,
-      "ai": true,
-      "id": "cb35de36512f22d00f23660a40f9eb5c55a532e9",
-      "link": "https://labs.watchtowr.com/death-by-a-thousand-papercuts-papercut-pre-auth-rce-chain-and-patch-bypasses-wt-2026-0141-0144-cve-2026-82077-cve-2026-82078-cve-2026-81578/",
-      "published": 1791567074.0,
-      "source": "watchTowr Labs",
-      "summary": "PaperCut disclosed multiple pre‑authentication remote code execution vulnerabilities and associated patch bypasses, grouped under CVE‑2026‑82077, CVE‑2026‑82078, and CVE‑2026‑81578, and clarified that the issues remain present.",
-      "tags": [
-        "#research",
-        "#exploit"
-      ],
-      "title": "Death By A Thousand PaperCuts (PaperCut Pre-Auth RCE Chain and Patch Bypasses WT-2026-0141-0144/CVE-2026-82077/CVE-2026-82078/CVE-2026-81578)"
-    },
-    {
-      "added_at": 1794174590.2415335,
-      "ai": true,
-      "id": "fc2044be7bdce9dc37040a2e31e7b4d3b1efd1c8",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/10-million-bounty-chinese-hafnium-hacker-microsoft-exchange-server-mega-attack",
-      "published": 1791556504.0,
-      "source": "GRAHAM CLULEY",
-      "summary": "The U.S. State Department is offering up to $10 million for information on Zhang Yu, a Chinese national accused of leading Hafnium’s Microsoft Exchange attacks, seeking his location and evidence.",
-      "tags": [],
-      "title": "$10 million bounty offered for Chinese Hafnium hacker accused of Microsoft Exchange Server mega-attack"
-    },
-    {
-      "added_at": 1794174590.2415335,
-      "ai": true,
-      "id": "233ec4004daf4cede73908b93fadaa5851cc0c80",
-      "link": "https://www.welivesecurity.com/en/eset-research/matchboil-new-tricks-same-old-evil-intentions/",
-      "published": 1791449100.0,
-      "source": "WeLiveSecurity",
-      "summary": "ESET Research documented the evolution of the MATCHBOIL downloader (UAC‑0099) from 2024 to 2026, noting new techniques but unchanged malicious intent.",
-      "tags": [],
-      "title": "MATCHBOIL: New tricks, same old evil intentions"
-    },
-    {
-      "added_at": 1794174590.2415335,
-      "ai": true,
-      "id": "3916e202dcf27a80148fc6f27af4355ae8198084",
-      "link": "https://grahamcluley.com/smashing-security-podcast-487/",
-      "published": 1791414649.0,
-      "source": "GRAHAM CLULEY",
-      "summary": "The Smashing Security podcast highlighted a Microsoft Twitter hijack involving a paperclip and a Clippy crypto coin, and reported a 417 % rise in UK losses from hacked email and social media accounts used to sell fake event tickets.",
-      "tags": [],
-      "title": "Smashing Security podcast #487: Clippy’s crypto comeback"
-    },
-    {
-      "added_at": 1794174590.2415335,
-      "ai": true,
-      "id": "79a8a7bd139829526fce12afae717f3bb660d110",
-      "link": "https://unit42.paloaltonetworks.com/web3-cloud-supply-chain-attacks/",
-      "published": 1791410416.0,
-      "source": "Unit 42",
-      "summary": "Unit 42 reported that threat actors are leveraging Web3 infrastructure and open‑source supply‑chain attacks to breach enterprise cloud environments, introducing new attack vectors.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Evolution of Web3 in Cloud Supply Chain Attacks"
-    },
-    {
-      "added_at": 1794174590.2415335,
-      "ai": true,
-      "id": "4d0ab1e7dd5973407505c68437b8c46024786737",
-      "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
-      "published": 1791380925.0,
-      "source": "Krebs on Security",
-      "summary": "A teenager from Amman, Jordan, suspected of leading the ShinyHunters extortion group, was detained and is cooperating with the FBI; the group was extorting a recently divested Boeing business unit.",
-      "tags": [],
-      "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests"
-    },
-    {
-      "added_at": 1794174590.2415335,
-      "ai": true,
-      "id": "999ceca9b1cf268ba9bd51e5b1940a001840c38a",
-      "link": "https://www.welivesecurity.com/en/social-media/brand-deal-scam-targeting-youtube-creators/",
-      "published": 1791363600.0,
-      "source": "WeLiveSecurity",
-      "summary": "The article warns YouTube creators that seemingly legitimate sponsorship offers can be used to compromise their Google accounts, urging verification of authenticity.",
-      "tags": [],
-      "title": "Inside a brand deal scam targeting YouTube creators"
-    },
-    {
-      "added_at": 1794174590.2415335,
-      "ai": true,
-      "id": "15d8931249241012cd4db75027f84225f923bc8f",
-      "link": "https://www.intigriti.com/blog/business-insights/beyond-asset-discovery-real-life-crowdrecon-use-case-explored",
-      "published": 1791331200.0,
-      "source": "Intigriti",
-      "summary": "The post explores how security teams use CrowdRecon to map assets, scan infrastructure, and track vulnerabilities, emphasizing the importance of understanding exposure paths and relationships.",
-      "tags": [
-        "#bugbounty"
-      ],
-      "title": "Beyond asset discovery. Real-life CrowdRecon use case explored"
-    },
-    {
-      "added_at": 1794174590.2415335,
-      "ai": true,
-      "id": "55d6c9d3c5f8106a88c132355fff30d812bd37c0",
-      "link": "https://portswigger.net/research/the-model-isnt-cooperating",
-      "published": 1791306893.0,
-      "source": "PortSwigger Research",
-      "summary": "The article examines why AI models sometimes fail to follow user instructions, exploring potential causes and implications for AI reliability.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "The model isn't cooperating"
-    },
-    {
-      "added_at": 1794174590.2415335,
-      "ai": true,
-      "id": "0d46526f733bfcef7fbe287dda6e970d79563bc9",
-      "link": "https://labs.watchtowr.com/you-wont-hear-about-these-even-in-myths-atlassian-jira-confluence-and-more-pre-auth-arbitrary-file-read-cve-2026-21589/",
-      "published": 1791306096.0,
-      "source": "watchTowr Labs",
-      "summary": "The post discusses a pre‑authentication arbitrary file read vulnerability in Atlassian Jira and Confluence (CVE‑2026‑21589), noting limited awareness and the need for secure design practices.",
-      "tags": [
-        "#research",
-        "#exploit"
-      ],
-      "title": "You Won’t Hear About These, Even In Myths (Atlassian Jira, Confluence (and more) Pre-Auth Arbitrary File Read CVE-2026-21589)"
-    },
-    {
-      "added_at": 1794174590.2415335,
-      "ai": true,
-      "id": "986e0b7b7db00c83152e756d62271fdeea937b43",
-      "link": "https://unit42.paloaltonetworks.com/blinder-tunnel-targets-critical-infrastructure/",
-      "published": 1791280833.0,
-      "source": "Unit 42",
-      "summary": "Blinder Tunnel is an Iran‑linked campaign that used fake Dubai Airports recruitment pages and GitHub‑based command‑and‑control malware to target critical infrastructure in Iraq.\nThe operation was first reported by Unit 42.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Blinder Tunnel Campaign Targets Iraqi Infrastructure"
-    },
-    {
-      "added_at": 1794174590.2415335,
-      "ai": true,
-      "id": "b01b1ea281284cc621c245e5a0ccf12235ce59f5",
-      "link": "https://www.welivesecurity.com/en/business-security/quest-simplicity-why-smbs-want-advanced-protection-without-complexity/",
-      "published": 1791277200.0,
-      "source": "WeLiveSecurity",
-      "summary": "SMBs face increasing difficulty securing their environments as cybersecurity solutions grow more complex.\nThe market trend makes it harder to keep threats at bay.",
-      "tags": [],
-      "title": "The quest for simplicity: Why SMBs want advanced protection without the complexity"
-    },
-    {
-      "added_at": 1794174590.2415335,
-      "ai": true,
-      "id": "163b6c2cf9aabd41112e9eb62937d5ebc4588fc7",
-      "link": "https://projectzero.google/2026/10/emergency-patching.html",
-      "published": 1791270000.0,
-      "source": "Project Zero",
-      "summary": "Project Zero collaborates with vendors to patch reported vulnerabilities.\nSome vendors worry that their patch delivery systems cannot address immediate user harm.",
-      "tags": [
-        "#vulnerability",
-        "#0day"
-      ],
-      "title": "How to fix a bug in a fix"
-    },
-    {
-      "added_at": 1794174590.2415335,
-      "ai": true,
-      "id": "a877d9e96dc90632a7e672e9b952089c7269f592",
-      "link": "https://portswigger.net/research/smashing-the-token-limit",
-      "published": 1791212695.0,
-      "source": "PortSwigger Research",
-      "summary": "A collaboration with Alex demonstrates that larger tokens can be exfiltrated using overlapping fragments.\nThe technique was showcased with tools like DOM Invader.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "Smashing the token limit with overlapping fragments"
-    },
-    {
-      "added_at": 1794174590.2415335,
-      "ai": true,
-      "id": "fbad828f4421a1fc4702eb44c598872ad5901b13",
-      "link": "https://www.fortra.com/blog/n0n-ransomware-what-you-need-know",
-      "published": 1791016194.0,
-      "source": "GRAHAM CLULEY",
-      "summary": "N0n is a newly emerged ransomware gang first spotted in September 2026.\nIt has claimed dozens of victims and continues to expand its operations.",
-      "tags": [],
-      "title": "N0n ransomware: what you need to know"
-    },
-    {
-      "added_at": 1794174590.2415335,
-      "ai": true,
-      "id": "04183963b9d8e8822fd6f1495d95c2716c6e5a15",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/fbi-shinyhunters-turn-themselves-in-arrest-leader",
-      "published": 1790852018.0,
-      "source": "GRAHAM CLULEY",
-      "summary": "The FBI urged ShinyHunters members to surrender after arresting an alleged leader.\nBrett Leatherman thanked Dutch police and noted the suspect's link to murder attempts.",
-      "tags": [],
-      "title": "FBI tells ShinyHunters members to turn themselves in, after arrest of alleged leader"
-    },
-    {
-      "added_at": 1794174590.2415335,
-      "ai": true,
-      "id": "6b9c4b3e9dc911f9c52f61e7d2b8530622fd2662",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/shinyhunters-suspect-arrested-now-investigated-alleged-murder-plots",
-      "published": 1790851923.0,
-      "source": "GRAHAM CLULEY",
-      "summary": "A 24‑year‑old suspect in the Netherlands, identified as a key ShinyHunters figure, was arrested.\nHe is now investigated for attempting to arrange two murders.",
-      "tags": [],
-      "title": "ShinyHunters suspect arrested, and is now investigated over alleged murder plots"
-    },
-    {
-      "added_at": 1794174590.2415335,
-      "ai": true,
-      "id": "2649de53cd92a5de56bc25ec27c78a1bab1f195e",
-      "link": "https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/",
-      "published": 1790798404.0,
-      "source": "Unit 42",
-      "summary": "Citrix reported that CVE‑2026‑88771 and CVE‑2026‑88772, two NetScaler zero‑day vulnerabilities, have been exploited in the wild.\nUnit 42 notes possible ongoing activity.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild (Updated September 30)"
-    },
-    {
-      "added_at": 1794174590.2415335,
-      "ai": true,
-      "id": "064692977b9f759f2e83049346467d3f1d94de35",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/pentagon-personnel-database-breach-personal-data-millions",
-      "published": 1790763637.0,
-      "source": "GRAHAM CLULEY",
-      "summary": "A Pentagon personnel database was breached for nine months without detection.\nOver three million individuals' personal data were exposed.",
-      "tags": [],
-      "title": "Pentagon personnel database breach exposes personal data of millions"
-    },
-    {
-      "added_at": 1794174590.2415335,
-      "ai": true,
-      "id": "56700f399dd97d1fb8e58efd09a746f99b929316",
-      "link": "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-september-2026/",
-      "published": 1790755200.0,
-      "source": "WeLiveSecurity",
-      "summary": "Autonomous AI agents are conducting hacking campaigns, and Microsoft released a large batch of security patches.\nThe article offers guidance on keeping pace with these developments.",
-      "tags": [],
-      "title": "This month in security with Tony Anscombe – September 2026 edition"
-    },
-    {
       "added_at": 1794238378.907044,
       "ai": false,
       "id": "82ab336fed5a0b358cde50d351c92cc338e7a494",
@@ -1837,6 +1346,454 @@
       "summary": "N‑able pulled its N‑central Hosted environment offline and urged on‑premises customers to shut down servers after a researcher disclosed 33 zero‑day vulnerabilities with PoC exploits.\nThe company is working to secure affected systems.",
       "tags": [],
       "title": "N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits"
+    },
+    {
+      "added_at": 1794351450.6489174,
+      "ai": true,
+      "id": "e8b3d61b18016995307cff2379320984dfc85693",
+      "link": "https://cyberscoop.com/michael-losapio-cisa-director-nomination-palantir-scrutiny/",
+      "published": 1794350296.0,
+      "source": "CyberScoop",
+      "summary": "CISA director selection of Michael LoSapio raises concerns among Hill Democrats due to his Palantir ties.\nLoSapio previously served as CISO at Palantir.\nThe appointment has sparked debate over potential conflicts of interest.",
+      "tags": [],
+      "title": "CISA director pick already drawing concern from Hill Dems over Palantir connection"
+    },
+    {
+      "added_at": 1794351450.6489174,
+      "ai": true,
+      "id": "2a555df5f60aca593ee60be759445cb9d42dc33c",
+      "link": "https://www.theregister.com/security/2026/11/10/november-patch-tuesday-boasts-over-1000-bugs-but-only-one-zero-day-so-far/5308946",
+      "published": 1794350221.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "Microsoft released a Patch Tuesday update addressing more than 1,000 vulnerabilities.\nOnly one zero‑day was identified to date.\nAdministrators are urged to apply patches promptly.",
+      "tags": [],
+      "title": "November Patch Tuesday boasts over 1,000 bugs but only one zero-day so far"
+    },
+    {
+      "added_at": 1794351450.6489174,
+      "ai": true,
+      "id": "95f883361cdc02d1f19a2665835200ff4200bf21",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves",
+      "published": 1794349611.0,
+      "source": "darkreading",
+      "summary": "The update includes an actively exploited Outlook zero‑day and numerous critical bugs in Exchange, SharePoint, Windows Search, and LDAP.\nDefenders must prioritize these fixes.\nThe patch covers over 1,000 CVEs.",
+      "tags": [],
+      "title": "November Patch Tuesday: An Overflowing Cornucopia of CVEs"
+    },
+    {
+      "added_at": 1794351450.6489174,
+      "ai": true,
+      "id": "16367edd00b63500b4b986e45048877a71a88a3e",
+      "link": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
+      "published": 1794349219.0,
+      "source": "BleepingComputer",
+      "summary": "Railway, a cloud hosting provider, suffered a breach that allowed attackers to steal authentication secrets.\nThe attackers generated about $740,000 in fraudulent AI usage.\nUp to 100,000 workspaces may have been exposed.",
+      "tags": [],
+      "title": "Railway breach leads to $740,000 in fraudulent AI charges"
+    },
+    {
+      "added_at": 1794351450.6489174,
+      "ai": true,
+      "id": "9364f9baac682a403f1c97475f193825c3bbc7d9",
+      "link": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
+      "published": 1794347703.0,
+      "source": "Krebs on Security",
+      "summary": "Microsoft released a patch fixing almost 1,100 vulnerabilities across Windows and supported software.\nThe update includes 63 critical flaws, including a zero‑day in Outlook.\nOther vendors also released security updates.",
+      "tags": [],
+      "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities"
+    },
+    {
+      "added_at": 1794351450.6489174,
+      "ai": true,
+      "id": "7824da2660082e5d9fde7ec43a11d2582dd6e38c",
+      "link": "https://cyberscoop.com/us-quantum-computing-industry-manufacturing-push/",
+      "published": 1794347446.0,
+      "source": "CyberScoop",
+      "summary": "Bipartisan lawmakers support increased investment in the U.S. quantum industry.\nConcerns exist that domestic manufacturing capacity may lag behind demand.\nThe focus is on translating research into production.",
+      "tags": [],
+      "title": "The US wants its quantum lead to turn into factories and supply chains"
+    },
+    {
+      "added_at": 1794351450.6489174,
+      "ai": true,
+      "id": "605ee75e7e51ba59082a975c5e11de37ff7ae88a",
+      "link": "https://cyberscoop.com/microsoft-patch-tuesday-november-2026/",
+      "published": 1794347221.0,
+      "source": "CyberScoop",
+      "summary": "Microsoft’s November update addressed roughly 1,090 vulnerabilities across Windows, Office, Azure, and other products.\nWindows accounted for 726 CVEs, Office 174.\nThe release is the second consecutive month to exceed all previous years combined.",
+      "tags": [],
+      "title": "Microsoft fixes over 1,000 vulnerabilities in November Patch Tuesday"
+    },
+    {
+      "added_at": 1794351450.6489174,
+      "ai": true,
+      "id": "cd42927ef69a79ec8cd837b859d99564a2c5fead",
+      "link": "https://www.theregister.com/offbeat/2026/11/10/ring-robots-ready-to-patrol-paranoids-pads/5308932",
+      "published": 1794347145.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "Amazon introduced a home security drone and business patrol bot called \"proactive protection\".\nThe devices are designed for continuous monitoring.\nThe announcement highlights the company's expansion into autonomous security.",
+      "tags": [],
+      "title": "Ring robots ready to patrol paranoids’ pads"
+    },
+    {
+      "added_at": 1794351450.6489174,
+      "ai": true,
+      "id": "15da1f8e31d6aed92b94238af53e2fe0467f4aec",
+      "link": "https://therecord.media/us-army-member-arrested-in-uk-spying-for-russia",
+      "published": 1794345180.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "A U.S. Army soldier was arrested in the United Kingdom on suspicion of spying for Russia.\nBritish counterterrorism police worked with U.S. authorities, including the FBI.\nThe soldier’s identity remains undisclosed.",
+      "tags": [
+        "#news"
+      ],
+      "title": "US Army member arrested in UK over allegations of spying for Russia"
+    },
+    {
+      "added_at": 1794351450.6489174,
+      "ai": true,
+      "id": "c9d200a425c209932be345ac27734b47a7087e52",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/artex-ai-pen-test-tool-hackers-weapon",
+      "published": 1794344474.0,
+      "source": "darkreading",
+      "summary": "Open‑source Artex framework forks and 45 similar pen‑testing tools can execute credential attacks and cloud breaches at machine speed.\nThe tools are used across multiple industries.\nThe vulnerability highlights the need for stricter access controls.",
+      "tags": [],
+      "title": "Artex: The AI Pen-Test Tool Hackers Turned Into a Weapon"
+    },
+    {
+      "added_at": 1794351450.6489174,
+      "ai": true,
+      "id": "612ae5f08dba0aa08e69f1c915f9c2ecd81112db",
+      "link": "https://therecord.media/patch-tuesday-microsoft-1000-bugs-again",
+      "published": 1794344100.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "Microsoft's Patch Tuesday listed 1,093 fixes, surpassing 1,000 bugs for the second consecutive month. The most highlighted issue was an exploited Outlook vulnerability.",
+      "tags": [
+        "#news"
+      ],
+      "title": "Microsoft’s Patch Tuesday surpasses 1,000 bugs for second month in a row"
+    },
+    {
+      "added_at": 1794351450.6489174,
+      "ai": true,
+      "id": "230bcad0faf39354ff7aa668c90ef0b9d3b88ee1",
+      "link": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
+      "published": 1794344095.0,
+      "source": "BleepingComputer",
+      "summary": "Japanese retailer Nitori confirmed a breach that may have exposed 37.62 million customer records after an attacker accessed a network system. The company is investigating the extent of the data loss.",
+      "tags": [],
+      "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records"
+    },
+    {
+      "added_at": 1794351450.6489174,
+      "ai": true,
+      "id": "6922144e7a8d86cdb96b040ea52b3fa64d92edaf",
+      "link": "https://www.darkreading.com/application-security/f-secure-26-ways-ai-harm-consumers-where-to-stop-them",
+      "published": 1794343305.0,
+      "source": "darkreading",
+      "summary": "F-Secure released a taxonomy identifying 26 ways AI can harm consumers, mapping harm pathways from misleading chatbot answers to compromised autonomous agents, and outlining defensive interventions.",
+      "tags": [],
+      "title": "F-Secure Identifies 26 Ways AI Can Harm Consumers, and Where to Stop Them"
+    },
+    {
+      "added_at": 1794351450.6489174,
+      "ai": true,
+      "id": "8ec6ef10a10ae8e738875de718b6fae86e67d94a",
+      "link": "https://www.darkreading.com/cybersecurity-careers/checkmarx-appoints-kobi-sivilya-chief-information-security-officer",
+      "published": 1794342934.0,
+      "source": "darkreading",
+      "summary": "Checkmarx announced Kobi Sivilya as its new Chief Information Security Officer, bringing extensive cybersecurity and technology leadership as AI reshapes software development.",
+      "tags": [],
+      "title": "Checkmarx Appoints Kobi Sivilya as Chief Information Security Officer"
+    },
+    {
+      "added_at": 1794351450.6489174,
+      "ai": true,
+      "id": "d6fe2bb7d3316c8fd4bf912fd55063500add6133",
+      "link": "https://www.darkreading.com/ics-ot-security/assess-ot-incident-response-preparedness",
+      "published": 1794341923.0,
+      "source": "darkreading",
+      "summary": "Cloud Range offers a free 28-question OT Cyber Readiness Assessment to help organizations identify gaps in operational technology incident response.",
+      "tags": [],
+      "title": "How to Assess OT Incident Response Preparedness"
+    },
+    {
+      "added_at": 1794351450.6489174,
+      "ai": true,
+      "id": "9814f0299437ed94f968444686da06c4e17d02c8",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/",
+      "published": 1794341076.0,
+      "source": "BleepingComputer",
+      "summary": "Microsoft released the Windows 10 KB5131096 extended security update, incorporating November 2026 Patch Tuesday fixes along with additional bug fixes and changes.",
+      "tags": [],
+      "title": "Microsoft releases Windows 10 KB5131096 extended security update"
+    },
+    {
+      "added_at": 1794351450.6489174,
+      "ai": true,
+      "id": "09de80ae0aa44cee575a5933154c16ca931ca048",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
+      "published": 1794339071.0,
+      "source": "BleepingComputer",
+      "summary": "Threat actors used compromised IAM credentials in a Qubole AWS account to access and exfiltrate data from multiple customers' cloud environments.",
+      "tags": [],
+      "title": "Hackers exploit trusted AWS access to breach multiple cloud environments"
+    },
+    {
+      "added_at": 1794351450.6489174,
+      "ai": true,
+      "id": "b86930e18372a4deefde767b5b13fe4303d9e1bb",
+      "link": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
+      "published": 1794338590.0,
+      "source": "The Hacker News",
+      "summary": "A Git integer truncation flaw (CVE-2026-111760) allowed malicious repositories to execute code during recursive clones; the issue was fixed in Git 2.56.1 and earlier series patches.",
+      "tags": [],
+      "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones"
+    },
+    {
+      "added_at": 1794351450.6489174,
+      "ai": true,
+      "id": "008f66d06450b9b0ac27aab63dbd7d2ec39c30bc",
+      "link": "https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/",
+      "published": 1794338386.0,
+      "source": "SecurityWeek",
+      "summary": "Microsoft patched 1,094 vulnerabilities, including the actively exploited Outlook zero-day CVE-2026-124194.",
+      "tags": [],
+      "title": "Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft"
+    },
+    {
+      "added_at": 1794351450.6489174,
+      "ai": true,
+      "id": "b958c227209529b5aa9fb013152ff1205e0ca76c",
+      "link": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
+      "published": 1794338379.0,
+      "source": "The Hacker News",
+      "summary": "An attacker exploited a remote code execution flaw in SGLang, compromising a NEAR AI inference server and potentially accessing data from 18 agents and about 100 users.",
+      "tags": [],
+      "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users"
+    },
+    {
+      "added_at": 1794351450.6489174,
+      "ai": true,
+      "id": "50eb1dccf495275b1cbc7b33abf624e7216232ec",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
+      "published": 1794337656.0,
+      "source": "BleepingComputer",
+      "summary": "Microsoft released its November 2026 Patch Tuesday, addressing 1,235 security flaws. The update includes a fix for an actively exploited Outlook zero‑day vulnerability.",
+      "tags": [],
+      "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day"
+    },
+    {
+      "added_at": 1794351450.6489174,
+      "ai": true,
+      "id": "12fdc093b1073eb3000de8e479e5dc8049d6d1e9",
+      "link": "https://www.theregister.com/security/2026/11/10/barracudas-email-security-gateways-bitten-by-make-me-root-vulns/5308883",
+      "published": 1794336695.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "Barracuda’s email security gateways were compromised by make‑me‑root vulnerabilities. The flaws allow attackers to gain elevated privileges on exposed devices.",
+      "tags": [],
+      "title": "Barracuda’s email security gateways bitten by make-me-root vulns"
+    },
+    {
+      "added_at": 1794351450.6489174,
+      "ai": true,
+      "id": "80496ac2144fe73b12393964566d173f0d952aa4",
+      "link": "https://www.darkreading.com/cyber-risk/ai-coding-agents-leak-secrets-github",
+      "published": 1794336382.0,
+      "source": "darkreading",
+      "summary": "An AI coding agent using Claude Code inadvertently committed files containing credentials to public GitHub repositories. The incident exposed sensitive data for multiple organizations.",
+      "tags": [],
+      "title": "AI Coding Agents Leak Thousands of Secrets to GitHub"
+    },
+    {
+      "added_at": 1794351450.6489174,
+      "ai": true,
+      "id": "33bc3cf0f92e3e703e61a372f848f8aafcb38675",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/",
+      "published": 1794335606.0,
+      "source": "BleepingComputer",
+      "summary": "Microsoft published Windows 11 cumulative updates KB5132061 and KB5131087 for versions 26H2, 25H2, 24H2, and 23H2. The patches fix security vulnerabilities and bugs while adding new features.",
+      "tags": [],
+      "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released"
+    },
+    {
+      "added_at": 1794351450.6489174,
+      "ai": true,
+      "id": "9398616ade4dc7e103d9205c83fa25b0ec70fef6",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
+      "published": 1794334341.0,
+      "source": "The Hacker News",
+      "summary": "Xen Orchestra suffered a critical authentication bypass flaw, tracked as VSA‑2026‑062, that is actively exploited in the wild. The vulnerability allows attackers to gain administrative access without valid credentials.",
+      "tags": [],
+      "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access"
+    },
+    {
+      "added_at": 1794351450.6489174,
+      "ai": true,
+      "id": "4893b7f6453d5166b2e8cb76ab7a15474353cbbf",
+      "link": "https://www.securityweek.com/adobe-patches-110-vulnerabilities-across-9-products/",
+      "published": 1794334314.0,
+      "source": "SecurityWeek",
+      "summary": "Adobe released patches for 110 vulnerabilities across nine products, including AEM, Premiere, Photoshop, After Effects, Connect, Audition, Dimension, Content Credentials SDK, and Media Encoder. The updates address security weaknesses in each application.",
+      "tags": [],
+      "title": "Adobe Patches 110 Vulnerabilities Across 9 Products"
+    },
+    {
+      "added_at": 1794351450.6489174,
+      "ai": true,
+      "id": "fb96488cbcbea3df157dda11f4d60118386816d8",
+      "link": "https://www.helpnetsecurity.com/2026/11/10/firefox-free-vpn-data/",
+      "published": 1794333938.0,
+      "source": "Help Net Security",
+      "summary": "Mozilla removed the 50 GB monthly data cap from the free VPN bundled with Firefox 149. Users with a Mozilla account in supported regions now enjoy unlimited browsing on desktop and Android.",
+      "tags": [],
+      "title": "Firefox free VPN drops its 50GB launch cap until January 31"
+    },
+    {
+      "added_at": 1794351450.6489174,
+      "ai": true,
+      "id": "7bd6d5785093a8de947788c77ad467a7c685264c",
+      "link": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
+      "published": 1794333600.0,
+      "source": "Security Archives - The GitHub Blog",
+      "summary": "Git announced updates that fix six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. The patches prevent potential exploitation during repository operations.",
+      "tags": [
+        "#appsec"
+      ],
+      "title": "Git security vulnerabilities announced"
+    },
+    {
+      "added_at": 1794351450.6489174,
+      "ai": true,
+      "id": "e47939741c61f50986caafd148d398264a2c0554",
+      "link": "https://cyberscoop.com/vanderbilt-university-ransomware-attack-byod/",
+      "published": 1794332789.0,
+      "source": "CyberScoop",
+      "summary": "Vanderbilt University suffered a ransomware attack claimed by a BYOD group. Services began returning online after the incident, but the university is still assessing the impact.",
+      "tags": [],
+      "title": "Vanderbilt University reels following ransomware attack claimed by BYOD group"
+    },
+    {
+      "added_at": 1794351450.6489174,
+      "ai": true,
+      "id": "3ac35ff647369fb991a4dc1836d50a1acb37a735",
+      "link": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
+      "published": 1794332603.0,
+      "source": "The Hacker News",
+      "summary": "Three espionage campaigns linked through the Sparrow malware ecosystem target telecommunications, government, military, research, and critical infrastructure across Latin America, Asia, and Europe. Check Point Research tracks the clusters under the name SilentDelivery.",
+      "tags": [],
+      "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem"
+    },
+    {
+      "added_at": 1794351450.6489174,
+      "ai": true,
+      "id": "32607ebddcd79d5cf0add47dc71393f80829ae05",
+      "link": "https://www.infosecurity-magazine.com/news/cisa-incident-reporting-form-circia/",
+      "published": 1794330000.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "CISA expands incident reporting form to include MITRE ATT&CK detail.\nCIRCIA rule remains under White House review.",
+      "tags": [],
+      "title": "CISA Expands Incident Reporting Form While CIRCIA Mandate Waits"
+    },
+    {
+      "added_at": 1794351450.6489174,
+      "ai": true,
+      "id": "cc845d87e8133a6092165f263477b578ca48c7ab",
+      "link": "https://www.securityweek.com/software-transparency-is-changing-allan-friedman-on-sbom-ai-boms-and-what-comes-next/",
+      "published": 1794329100.0,
+      "source": "SecurityWeek",
+      "summary": "Allan Friedman discusses SBOM, AI BOMs, and next steps on SecurityWeek Podcast.\nHighlights the need to move beyond simply knowing software contents.",
+      "tags": [],
+      "title": "Software Transparency Is Changing: Allan Friedman on SBOM, AI BOMs and What Comes Next"
+    },
+    {
+      "added_at": 1794351450.6489174,
+      "ai": true,
+      "id": "38532208b5afd569e5faddc94079ade925d01f6d",
+      "link": "https://www.securityweek.com/google-widens-gemini-4-carbon-access-after-ai-agents-verify-signal-code/",
+      "published": 1794328922.0,
+      "source": "SecurityWeek",
+      "summary": "Google opens Gemini 4 Carbon to paying developers after DeepMind agents verified Signal code security.\nExpands access following successful verification.",
+      "tags": [],
+      "title": "Google Widens Gemini 4 Carbon Access After AI Agents Verify Signal Code"
+    },
+    {
+      "added_at": 1794351450.6489174,
+      "ai": true,
+      "id": "82b5e1a648c0d2482c1992f5f975ccefb36df36d",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
+      "published": 1794327436.0,
+      "source": "BleepingComputer",
+      "summary": "Xen Orchestra authentication bypass vulnerability is actively exploited.\nAttackers gain admin rights and hijack XCP‑ng virtualization hosts.",
+      "tags": [],
+      "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers"
+    },
+    {
+      "added_at": 1794351450.6489174,
+      "ai": true,
+      "id": "be01413d076184b4ef8ba07d4f3d340ca8e78162",
+      "link": "https://www.helpnetsecurity.com/2026/11/10/x-org-server-vulnerabilities-november-2026/",
+      "published": 1794327336.0,
+      "source": "Help Net Security",
+      "summary": "X.Org patches eight vulnerabilities in X server and Xwayland.\nIncludes a memory corruption flaw in Xorg server; updates released in 21.1.26 and 24.1.15.",
+      "tags": [],
+      "title": "X.Org patches eight server vulnerabilities a month after fixing 12 others"
+    },
+    {
+      "added_at": 1794351450.6489174,
+      "ai": true,
+      "id": "16d2c7e6b39edd783037ecfe8b77144a327dbabd",
+      "link": "https://www.theregister.com/security/2026/11/10/trump-taps-palantir-security-chief-to-run-battered-us-cyber-defense-agency/5308763",
+      "published": 1794327300.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "Trump appoints Palantir security chief Michael LoSapio to lead US Cybersecurity and Infrastructure Security Agency.\nHe faces a depleted workforce and political challenges.",
+      "tags": [],
+      "title": "Trump taps Palantir security chief to run battered US cyber defense agency"
+    },
+    {
+      "added_at": 1794351450.6489174,
+      "ai": true,
+      "id": "4a9230aea75f4a0d3b115c61f80ff9eff3a12458",
+      "link": "https://therecord.media/ai-company-fireworks-says-hackers-stole-data-in-oct-attacks",
+      "published": 1794326880.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "Fireworks reports data and billing information theft during October breaches.\nAffected a limited number of customer accounts, which were notified.",
+      "tags": [
+        "#news"
+      ],
+      "title": "AI company Fireworks says hackers stole data, billing info during October breaches"
+    },
+    {
+      "added_at": 1794351450.6489174,
+      "ai": true,
+      "id": "a726f2ce6dd2d51bdda4071abe0e503c03568e7b",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/iranian-hackers-supermarket-freezers-france",
+      "published": 1794326750.0,
+      "source": "GRAHAM CLULEY",
+      "summary": "France attributes recent supermarket freezer attacks to Iranian hackers.\nClaims they caused fires by tampering with freezers.",
+      "tags": [],
+      "title": "Iranian hackers turned up the heat on French supermarket freezers, says France"
+    },
+    {
+      "added_at": 1794351450.6489174,
+      "ai": true,
+      "id": "0eb55bf1598eb50a18c540e878957e8656a07994",
+      "link": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
+      "published": 1794326455.0,
+      "source": "The Hacker News",
+      "summary": "Attackers exploited patched AhsayCBS vulnerabilities CVE-2026-105133 and CVE-2026-105134.\nDelivered a sandbox‑evading Python backdoor, as reported by Huntress.",
+      "tags": [],
+      "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor"
+    },
+    {
+      "added_at": 1794351450.6489174,
+      "ai": true,
+      "id": "89d6f6254d42deea4c69ee643a1de6078e49b9b6",
+      "link": "https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/",
+      "published": 1794326359.0,
+      "source": "BleepingComputer",
+      "summary": "Binance warns of an iOS flaw that lets third‑party apps read private files of other apps.\nCould expose crypto wallet secrets and credentials.",
+      "tags": [],
+      "title": "Binance warns of iOS flaw that could leak crypto wallet secrets"
     }
   ],
   "posted": []
