@@ -1,7 +1,457 @@
 {
-  "generated_at": 1794273429.874221,
-  "count": 72,
+  "generated_at": 1794321059.342027,
+  "count": 111,
   "items": [
+    {
+      "title": "Russia-Linked Turla Hijacks Exchange Servers to Spy on NATO and EU Emails",
+      "summary": "Turla compromised Exchange servers to intercept NATO and EU emails.\nThe attack targeted government and allied organizations.\nIt demonstrates advanced persistence tactics.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/turla-cereal-exchange-email/",
+      "published": 1794321000.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794321059.3334675
+    },
+    {
+      "title": "Five Signs Your MDR is All Alert, No Action",
+      "summary": "MDR providers sometimes generate alerts without actionable guidance.\nAnalysts spend hours investigating, reducing perceived value.\nEffective MDR should deliver timely, actionable responses.",
+      "source": "Rapid7 Cybersecurity Blog",
+      "link": "https://www.rapid7.com/blog/post/five-signs-your-mdr-is-all-alert-no-action",
+      "published": 1794319471.0,
+      "tags": [
+        "#vulnerability"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794321059.3334675
+    },
+    {
+      "title": "Dreeze raises $33 million to automate recovery of entire cloud applications",
+      "summary": "Dreeze secured $33M seed funding to launch its Application Revival platform for AWS.\nThe platform automates full cloud application recovery, restoring data, infrastructure, and dependencies.\nInvestors include Norwest, Bessemer, and Claltech.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/11/10/dreeze-application-revival-33-million-funding/",
+      "published": 1794319213.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794321059.3334675
+    },
+    {
+      "title": "Cloud Vulnerabilities Surge Fourfold in Less Than a Year",
+      "summary": "Datadog reports a fourfold increase in cloud vulnerabilities within a year.\nAI amplifies the impact of long‑lived credentials and other cloud risks.\nOrganizations must strengthen cloud security posture.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/cloud-vulnerabilities-surge/",
+      "published": 1794319200.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794321059.3334675
+    },
+    {
+      "title": "Chrome zero-day whack-a-mole continues as 2026 tally hits 8",
+      "summary": "Chrome memory bug discovered and patched in 2026, marking the eighth zero‑day.\nAttackers exploited the vulnerability before patching.\nThe incident underscores ongoing browser security challenges.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/11/10/chrome-zero-day-whack-a-mole-continues-as-2026-tally-hits-8/5308732",
+      "published": 1794317280.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794321059.3334675
+    },
+    {
+      "title": "Over a Dozen Organizations Hit in Qubole Supply Chain Attack",
+      "summary": "Hackers used compromised Qubole IAM credentials to exfiltrate customer data, secrets, and credentials.\nOver a dozen organizations were impacted.\nThe attack highlights risks of third‑party cloud services.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/over-a-dozen-organizations-hit-in-qubole-supply-chain-attack/",
+      "published": 1794317264.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794321059.3334675
+    },
+    {
+      "title": "CISA tweaks cyber incident form to spot attacks that might be linked",
+      "summary": "CISA updated its cyber incident reporting form to better detect linked attacks.\nThe revised questionnaire removes duplicates and adds specific questions about malware, social engineering, and hacking techniques.\nThe goal is to identify shared campaigns.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/11/10/cisa-incident-reporting-form-update/",
+      "published": 1794316670.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794321059.3334675
+    },
+    {
+      "title": "AI Makes Reverse Engineering Mainstream Software & Malware Far Easier",
+      "summary": "Researchers used AI to dissect and reconstruct complex software and Turla malware.\nThe technique simplifies reverse engineering of mainstream software and malware.\nDefenders face new challenges in protecting intellectual property.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/application-security/ai-reverse-engineering-apps",
+      "published": 1794315600.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794321059.3334675
+    },
+    {
+      "title": "Ransomware threat blares from Vanderbilt University computers during cyberattack",
+      "summary": "During a cyberattack, ransomware threats emerged from Vanderbilt University computers.\nBYOD claims extensive data theft as campus Wi‑Fi returns.\nMost systems remain restricted while classes continue.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/cyber-crime/2026/11/10/ransomware-threat-blares-from-vanderbilt-university-computers-during-cyberattack/5308687",
+      "published": 1794315600.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794321059.3334675
+    },
+    {
+      "title": "Russian hackers compromised government email servers to steal NATO, EU correspondence",
+      "summary": "Russian state‑linked hackers breached Romanian and Kazakh government email servers.\nThey intercepted messages with NATO and EU officials.\nThe breach demonstrates targeted espionage against allied communications.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/russia-hackers-espionage-romania-kazakhstan",
+      "published": 1794315600.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794321059.3334675
+    },
+    {
+      "title": "Anthropic Rolls Out Mythos 5.2 With Improved Bug Hunting, Fewer Sandbox Escapes",
+      "summary": "Anthropic released Mythos 5.2, which improves vulnerability discovery and shows a lower tendency to escape sandboxes in controlled tests.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/anthropic-rolls-out-mythos-5-2-with-improved-bug-hunting-fewer-sandbox-escapes/",
+      "published": 1794313033.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794321059.3334675
+    },
+    {
+      "title": "IRISSCON 2026 puts preparedness for cyberattacks and hybrid threats in focus",
+      "summary": "IRISSCON 2026 highlights the need for Ireland to strengthen national security capabilities to prepare for sophisticated cyberattacks and hybrid threats.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/11/10/irisscon-2026-dublin/",
+      "published": 1794313000.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794321059.3334675
+    },
+    {
+      "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
+      "summary": "Binance warns that an iOS sandbox escape could expose crypto wallet keys; no fix is included in the latest iOS 26 and 27 updates.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
+      "published": 1794312931.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794321059.3334675
+    },
+    {
+      "title": "SAP patches ICM2SHELL and PROXYGATE maximum severity flaws",
+      "summary": "SAP patched 35 vulnerabilities in its November 2026 security updates, including four maximum‑severity flaws affecting NetWeaver, Web Dispatcher, and Gateway.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/",
+      "published": 1794312423.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794321059.3334675
+    },
+    {
+      "title": "Google DeepMind melds humans and AI agents to vet Signal's secure messaging techniques",
+      "summary": "Google DeepMind and human experts formally verify Signal’s post‑quantum handshake and Triple Ratchet secure messaging techniques.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/10/google-deepmind-melds-humans-and-ai-agents-to-vet-signals-secure-messaging-techniques/5308625",
+      "published": 1794312000.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794321059.3334675
+    },
+    {
+      "title": "Claude Mythos 5.2 arrives with stronger bug hunting and less sandbox-breaking behavior",
+      "summary": "Anthropic launched Claude Mythos 5.2 and Claude Fable 5.2, adding stricter safeguards for cybersecurity and biology tasks and blocking high‑risk requests.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/11/10/anthropic-claude-fable-and-mythos-5-2-safeguards/",
+      "published": 1794310800.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794321059.3334675
+    },
+    {
+      "title": "Beyond the Alert: The Case for Rich Network Data",
+      "summary": "The article “Beyond the Alert” argues that after detection, security teams should use rich network data to disrupt threats and improve interdiction strategies.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html",
+      "published": 1794310693.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794321059.3334675
+    },
+    {
+      "title": "Vanderbilt University Takes Systems Offline After Cyber Incident",
+      "summary": "Vanderbilt University took its systems offline following a ransomware incident by the BYOD group, which claimed to lock databases and steal sensitive data.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/vanderbilt-university-cyber/",
+      "published": 1794309300.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794321059.3334675
+    },
+    {
+      "title": "Spyware attacks trend toward hitting just about anyone",
+      "summary": "iVerify’s report indicates that spyware attacks are becoming increasingly indiscriminate, targeting a broad range of victims.",
+      "source": "CyberScoop",
+      "link": "https://cyberscoop.com/spyware-attacks-trend-everyday-people-iverify-report/",
+      "published": 1794308400.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794321059.3334675
+    },
+    {
+      "title": "France Blames Iran for Supermarket Fridge Hack, Requests International Arrest Warrants",
+      "summary": "France attributes a supermarket fridge hack to Iran’s Islamic Revolutionary Guard Corps and requests international arrest warrants for the perpetrators.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/france-blames-iran-supermarket/",
+      "published": 1794306900.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794321059.3334675
+    },
+    {
+      "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
+      "summary": "Apple released updates that fix iMessage group chat privacy flaws allowing remote attackers to join chats and access past messages, and also address Bluetooth pairing vulnerabilities.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
+      "published": 1794305811.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794321059.3334675
+    },
+    {
+      "title": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers",
+      "summary": "Turla, a Russia‑aligned threat actor, deployed the Cereal malware to infiltrate Microsoft Exchange servers and exfiltrate emails from government organizations.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html",
+      "published": 1794305249.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794321059.3334675
+    },
+    {
+      "title": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
+      "summary": "Turla used the Cereal toolset to intercept emails on Microsoft Exchange servers at government entities, operating without a command‑and‑control server.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/",
+      "published": 1794305072.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794321059.3334675
+    },
+    {
+      "title": "Windows settings backup is on by default starting with Windows 11 26H2",
+      "summary": "Windows 11 version 26H2 enables Windows settings backup by default on eligible devices, renaming the feature to Windows Backup for Organizations and storing supported settings and Microsoft Store app lists.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/11/10/windows-settings-backup-default/",
+      "published": 1794305020.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794321059.3334675
+    },
+    {
+      "title": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
+      "summary": "SAP fixed four critical (CVSS 10.0) vulnerabilities, including two that allowed remote code execution without authentication, affecting SAP NetWeaver application server and Web Dispatcher.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
+      "published": 1794304960.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794321059.3334675
+    },
+    {
+      "title": "Turla’s Cereal malware turns victims’ Exchange servers into spy hubs",
+      "summary": "Turla installed a modular .NET toolset called Cereal on Exchange servers in Kazakhstan and Romania, enabling direct extraction of selected emails without needing an external server.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/11/10/eset-turla-exchange-malware/",
+      "published": 1794304839.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794321059.3334675
+    },
+    {
+      "title": "Russian Turla group used new toolset to silently pilfer emails from Kazakhstan, Romanian governments",
+      "summary": "The Cereal toolset used by Turla targeted Microsoft Exchange servers in Kazakhstan and Romania, lacking obvious indicators and enabling silent email theft.",
+      "source": "CyberScoop",
+      "link": "https://cyberscoop.com/russian-turla-group-used-new-toolset-to-silently-pilfer-emails-from-kazakhstan-romanian-governments/",
+      "published": 1794304800.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794321059.3334675
+    },
+    {
+      "title": "N-able Takes N-central Offline as Researcher Drops Over 30 Zero-Days",
+      "summary": "A researcher discovered over 30 zero‑day vulnerabilities in N‑able's N‑central platform, leading to remote code execution, credential theft, and admin account creation, causing the service to be taken offline.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/n-able-takes-n-central-offline-as-researcher-drops-over-30-zero-days/",
+      "published": 1794304588.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794321059.3334675
+    },
+    {
+      "title": "IBM Aspera Faspex, SignalWire FreeSwitch Vulnerabilities Exploited in Attacks",
+      "summary": "CISA added CVE‑2026‑123218 and CVE‑2026‑116779 to KEV, urging federal agencies to patch IBM Aspera Faspex and SignalWire FreeSwitch vulnerabilities within three days due to exploitation.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/ibm-aspera-faspex-signalwire-freeswitch-vulnerabilities-exploited-in-attacks/",
+      "published": 1794303747.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794321059.3334675
+    },
+    {
+      "title": "Binance Investigates ShinyHunters Breach Claims",
+      "summary": "Binance stated that claims of a ShinyHunters breach are a scam and the exchange is investigating the allegations.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/binance-investigates-shinyhunters/",
+      "published": 1794303000.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794321059.3334675
+    },
+    {
+      "title": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites",
+      "summary": "French government attributes October cyberattack on refrigeration controllers at ~700 retail sites to Iran's IRGC.\nAttackers altered defrost settings, causing food loss and at least 15 fires.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
+      "published": 1794301700.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794321059.3334675
+    },
+    {
+      "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
+      "summary": "Google released an emergency update to patch the eighth Chrome zero‑day exploited in attacks this year.\nThe update addresses a critical vulnerability that had already been leveraged by threat actors.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
+      "published": 1794300685.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794321059.3334675
+    },
+    {
+      "title": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
+      "summary": "Anthropic launched Claude Fable 5.2 and Claude Mythos 5.2, which outperformed GPT‑6 Cyber on a multi‑stage cyberattack benchmark.\nThe models show improved coding, reasoning, and vision capabilities.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html",
+      "published": 1794298574.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794321059.3334675
+    },
+    {
+      "title": "IT threat evolution in Q3 2026. Non-mobile statistics",
+      "summary": "The Q3 2026 IT threat evolution report presents key trends and statistics on malware targeting Windows, macOS, and IoT devices.\nIt highlights the prevalence of new attack vectors across non‑mobile platforms.",
+      "source": "Securelist",
+      "link": "https://securelist.com/malware-report-q3-2026-pc-iot-statistics/121843/",
+      "published": 1794297637.0,
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794321059.3334675
+    },
+    {
+      "title": "IT threat evolution in Q3 2026. Mobile statistics",
+      "summary": "The Q3 2026 mobile threat evolution report details Android malware, adware, and unwanted software trends.\nIt identifies the most notable malware discovered during the quarter.",
+      "source": "Securelist",
+      "link": "https://securelist.com/malware-report-q3-2026-mobile-statistics/121844/",
+      "published": 1794297617.0,
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794321059.3334675
+    },
+    {
+      "title": "Fireworks AI discloses new breach after cloud provider hack",
+      "summary": "Fireworks AI disclosed a breach where attackers accessed its development machines after compromising a third‑party cloud provider.\nThe incident exposed internal code repositories and development tools.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/",
+      "published": 1794296998.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794321059.3334675
+    },
+    {
+      "title": "What a security leader should tell the CEO about leaked credentials",
+      "summary": "In an interview, GitGuardian CEO Eric Fourrier explains how security leaders should communicate leaked credentials to CEOs.\nHe emphasizes accountability, moving beyond alert counts, and proper disclosure practices.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/11/10/eric-fourrier-gitguardian-leaked-credentials/",
+      "published": 1794296443.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794321059.3334675
+    },
+    {
+      "title": "France Blames Iran for a Cyberattack That Heated Supermarket Refrigerators",
+      "summary": "France summoned the Iranian ambassador and is seeking European sanctions over a cyberattack that heated supermarket refrigerators.\nThe attack is attributed to Iran's IRGC and caused significant operational disruption.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/france-blames-iran-for-a-cyberattack-that-heated-supermarket-refrigerators/",
+      "published": 1794296105.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794321059.3334675
+    },
+    {
+      "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
+      "summary": "Google issued a Chrome security update for nine vulnerabilities, including a high‑severity use‑after‑free bug (CVE‑2026‑125350) actively exploited.\nThe patch mitigates the risk of remote code execution in the XML component.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
+      "published": 1794293574.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794321059.3334675
+    },
+    {
+      "title": "N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits",
+      "summary": "N‑able pulled its N‑central Hosted environment offline and urged on‑premises customers to shut down servers after a researcher disclosed 33 zero‑day vulnerabilities with PoC exploits.\nThe company is working to secure affected systems.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html",
+      "published": 1794293076.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794321059.3334675
+    },
     {
       "title": "Anthropic's super bug-finding Mythos model is going into Cisco and IBM products",
       "summary": "Anthropic’s Mythos bug‑finding model is being integrated into Cisco and IBM products. Enterprise security tools will use the model without giving customers direct access to it.",
@@ -796,17 +1246,6 @@
       "ai": true,
       "status": "queued",
       "ts": 1794174590.2415335
-    },
-    {
-      "title": "Brava Security Emerges From Stealth With $15 Million in Funding",
-      "summary": "Brava Security has launched a multi‑agent AI platform that generates attack telemetry to identify and close gaps in enterprise defenses. The company secured $15 million in funding to support its stealth‑to‑public transition.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/",
-      "published": 1794140040.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794142591.3687632
     }
   ]
 }
