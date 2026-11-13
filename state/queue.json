@@ -1,457 +1,6 @@
 {
   "pending": [
     {
-      "added_at": 1794404749.4150276,
-      "ai": true,
-      "id": "60ccd3ca4d451df2f3a6108f41cd34652e451483",
-      "link": "https://www.securityweek.com/citrix-ivanti-patch-critical-and-high-severity-vulnerabilities/",
-      "published": 1794404239.0,
-      "source": "SecurityWeek",
-      "summary": "Citrix and Ivanti released patches for critical and high‑severity vulnerabilities that could allow attackers to tamper with certificate entries, execute code remotely, and compromise hosts.",
-      "tags": [],
-      "title": "Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities"
-    },
-    {
-      "added_at": 1794404749.4150276,
-      "ai": true,
-      "id": "2b63f8aad1bf2186c2b57cc095f4b476b2603b54",
-      "link": "https://therecord.media/poland-shuts-down-government-services-platform-cyberattack",
-      "published": 1794403080.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "Poland shut down the nationwide ePUAP platform, used for submitting official documents and communicating with government agencies, after a cyberattack.",
-      "tags": [
-        "#news"
-      ],
-      "title": "Poland shuts down government services platform ePUAP following cyberattack"
-    },
-    {
-      "added_at": 1794404749.4150276,
-      "ai": true,
-      "id": "424f8e5ef5ac7fc48b7f8f12986357b2fb6a9114",
-      "link": "https://therecord.media/britain-france-set-out-guidelines-for-commercial-hacking-firms",
-      "published": 1794402660.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "Britain and France issued guidelines for commercial hacking firms, requiring customer vetting, technical safeguards, and monitoring/reporting of misuse.",
-      "tags": [
-        "#news"
-      ],
-      "title": "Britain, France set out first guidelines for commercial hacking firms"
-    },
-    {
-      "added_at": 1794404749.4150276,
-      "ai": true,
-      "id": "693679885746ae3dbc3e6fbbf617eafa194346de",
-      "link": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
-      "published": 1794400347.0,
-      "source": "BleepingComputer",
-      "summary": "N‑able issued hotfixes for zero‑day bugs in its N‑central RMM platform, which were publicly disclosed and forced the company to take vulnerable hosted environments offline.",
-      "tags": [],
-      "title": "N-able releases security hotfixes for zero-day vulnerabilities"
-    },
-    {
-      "added_at": 1794404749.4150276,
-      "ai": true,
-      "id": "6ef677aa3015bbd7afb1240252bf162b9ea78dd2",
-      "link": "https://www.securityweek.com/finite-state-raises-27-million-to-secure-software-and-firmware-in-connected-devices/",
-      "published": 1794399873.0,
-      "source": "SecurityWeek",
-      "summary": "Finite State raised $27 million in a Series C round to fund international expansion and the development of autonomous features for its device security platform.",
-      "tags": [],
-      "title": "Finite State Raises $27 Million to Secure Software and Firmware in Connected Devices"
-    },
-    {
-      "added_at": 1794404749.4150276,
-      "ai": true,
-      "id": "14caa111eec698f5fcdaec3088d4555c96b69d56",
-      "link": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
-      "published": 1794399580.0,
-      "source": "The Hacker News",
-      "summary": "Claroc discovered 35,578 of 37,571 Grok‑built apps were publicly accessible, with about 10 % containing internal business or confidential data.",
-      "tags": [],
-      "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords"
-    },
-    {
-      "added_at": 1794404749.4150276,
-      "ai": true,
-      "id": "6efa2d9b4d0b7c36c866e6186869b6e46a43e56d",
-      "link": "https://www.securityweek.com/fortinet-patches-nearly-100-vulnerabilities/",
-      "published": 1794399014.0,
-      "source": "SecurityWeek",
-      "summary": "Fortinet released patches for nearly 100 vulnerabilities after integrating frontier AI models into its product security testing.",
-      "tags": [],
-      "title": "Fortinet Patches Nearly 100 Vulnerabilities"
-    },
-    {
-      "added_at": 1794404749.4150276,
-      "ai": true,
-      "id": "faa87692094434ec4aa5913e2dbb65b623875888",
-      "link": "https://www.theregister.com/security/2026/11/11/shipping-giant-maersk-probes-it-security-incident-data-theft/5309096",
-      "published": 1794398734.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "Maersk is investigating an IT security incident, believes it was limited to a legacy system, and reports no sensitive data was at risk.",
-      "tags": [],
-      "title": "Shipping giant Maersk probes 'IT security incident,' data theft"
-    },
-    {
-      "added_at": 1794404749.4150276,
-      "ai": true,
-      "id": "38d7075a79680d244781d1175a4305e42cde82fc",
-      "link": "https://www.schneier.com/blog/archives/2026/11/three-people-arrested-for-ai-enhanced-impersonation-fraud.html",
-      "published": 1794398734.0,
-      "source": "Schneier on Security",
-      "summary": "Three men were arrested for using AI to alter voices and images of executives to defraud employees into sending large payments.",
-      "tags": [
-        "#opinion"
-      ],
-      "title": "Three People Arrested for AI-Enhanced Impersonation Fraud"
-    },
-    {
-      "added_at": 1794404749.4150276,
-      "ai": true,
-      "id": "de18400249b3b3480315de857b875d95c92f9ab9",
-      "link": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
-      "published": 1794398519.0,
-      "source": "The Hacker News",
-      "summary": "A team built an AI agent that violated identity, access, and traceability rules, leading to insights on how to defend such agents.",
-      "tags": [],
-      "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned."
-    },
-    {
-      "added_at": 1794404749.4150276,
-      "ai": true,
-      "id": "966ea0ff4e5cfecfc1f0670e6c1a1defd473dd2d",
-      "link": "https://www.helpnetsecurity.com/2026/11/11/rubrik-devops-protection/",
-      "published": 1794398513.0,
-      "source": "Help Net Security",
-      "summary": "Rubrik introduces cyber recovery for Azure DevOps and GitHub, adding anomaly detection, blast radius investigation, and surgical recovery from immutable backups. The solution allows organizations to detect suspicious code activity without disrupting legitimate work.",
-      "tags": [],
-      "title": "Rubrik enhances DevOps Protection to preserve legitimate work during recovery"
-    },
-    {
-      "added_at": 1794404749.4150276,
-      "ai": true,
-      "id": "b80a24c89312068e02c33d224a537a7ad662646a",
-      "link": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
-      "published": 1794398453.0,
-      "source": "The Hacker News",
-      "summary": "eMudhra revoked eight additional intermediate certificate authorities after an October key compromise caused by a single line error in an in‑house Python script. The private keys of the affected CAs were not weakened.",
-      "tags": [],
-      "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise"
-    },
-    {
-      "added_at": 1794404749.4150276,
-      "ai": true,
-      "id": "21b7ddf6e1b0ae0875eeede17729d2348a6d613c",
-      "link": "https://www.securityweek.com/bay-raises-50-million-to-control-what-enterprise-ai-agents-can-do/",
-      "published": 1794396600.0,
-      "source": "SecurityWeek",
-      "summary": "Bay, founded by former IDF Unit 8200 officers, raised $50 million to build a control plane for enterprise AI agents, aiming to regulate AI agent behavior within organizations.",
-      "tags": [],
-      "title": "Bay Raises $50 Million to Control What Enterprise AI Agents Can Do"
-    },
-    {
-      "added_at": 1794404749.4150276,
-      "ai": true,
-      "id": "15c0b59087ed2dd0d045017445cc71525192bc68",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/",
-      "published": 1794395916.0,
-      "source": "BleepingComputer",
-      "summary": "Microsoft released November 2026 cumulative updates that fix USB audio problems caused by September security patches, resolving issues for Windows users who installed those updates.",
-      "tags": [],
-      "title": "Microsoft fixes audio issues caused by September security updates"
-    },
-    {
-      "added_at": 1794404749.4150276,
-      "ai": true,
-      "id": "3d74aba68f12efedd636966a9353865f6ed1ea59",
-      "link": "https://www.securityweek.com/dreeze-emerges-from-stealth-with-33m-to-rebuild-cloud-apps-after-cyberattacks/",
-      "published": 1794395800.0,
-      "source": "SecurityWeek",
-      "summary": "Dreeze, founded by Zerto and Kashya veterans, raised $33 million to launch a platform for recovering entire cloud applications after cyberattacks, focusing on post‑attack restoration.",
-      "tags": [],
-      "title": "Dreeze Emerges From Stealth With $33M to Rebuild Cloud Apps After Cyberattacks"
-    },
-    {
-      "added_at": 1794404749.4150276,
-      "ai": true,
-      "id": "ba698932dee348612a8a029ab1b5689bf8362859",
-      "link": "https://www.helpnetsecurity.com/2026/11/11/microsoft-hidden-ai-backdoors-lazarus/",
-      "published": 1794394554.0,
-      "source": "Help Net Security",
-      "summary": "Microsoft researchers demonstrated a hidden backdoor technique, Lazarus, that can implant a trigger in AI models without retraining. The backdoor activates on a specific trigger while passing safety evaluations, and no weaponization has been observed.",
-      "tags": [],
-      "title": "Microsoft researchers demonstrate hidden backdoor technique for AI agents"
-    },
-    {
-      "added_at": 1794404749.4150276,
-      "ai": true,
-      "id": "3dfcf9840f4ad2171697e1f40c240ca6523d7753",
-      "link": "https://www.securityweek.com/ics-patch-tuesday-siemens-flags-high-severity-flaws-node2shell-exposure/",
-      "published": 1794393315.0,
-      "source": "SecurityWeek",
-      "summary": "ICS Patch Tuesday highlighted high‑severity flaws in Siemens and Node2Shell exposure, with advisories issued by VDE CERT, Phoenix Contact, Johnson Controls, and Hitachi Energy.",
-      "tags": [],
-      "title": "ICS Patch Tuesday: Siemens Flags High-Severity Flaws, Node2Shell Exposure"
-    },
-    {
-      "added_at": 1794404749.4150276,
-      "ai": true,
-      "id": "4e594d410ebb9bad601dd75910c51e3772a745ff",
-      "link": "https://securelist.com/citrus-ransomware/121879/",
-      "published": 1794391225.0,
-      "source": "Securelist",
-      "summary": "Citrus ransomware employs VLESS tunneling for traffic, Sn00py for encryption, and leverages large language models. The group is linked to the Toy Ghouls gang.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Citrus Ransomware: VLESS for traffic, Sn00py for encryption, and LLMs lending a hand"
-    },
-    {
-      "added_at": 1794404749.4150276,
-      "ai": true,
-      "id": "01482f865beae0e36bb6362a1d730eeb2235a15b",
-      "link": "https://www.infosecurity-magazine.com/news/ot-incidents-third-industrial/",
-      "published": 1794391200.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "SANS reports a 33% increase in industrial OT incidents, the largest single‑year jump recorded, underscoring growing cyber threats to operational technology.",
-      "tags": [],
-      "title": "OT Incidents Hit a Third of Industrial Organizations, SANS Finds"
-    },
-    {
-      "added_at": 1794404749.4150276,
-      "ai": true,
-      "id": "1092fa4c108d9566f3ee3468cd4e17bcefa60f23",
-      "link": "https://www.helpnetsecurity.com/2026/11/11/ubuntu-certificate-revocation-curl-openssl/",
-      "published": 1794390383.0,
-      "source": "Help Net Security",
-      "summary": "Ubuntu 26.10 ships curl with built‑in certificate revocation checks via upki, preventing connections to revoked certificates, unlike 26.04. OpenSSL is expected to add similar checks next.",
-      "tags": [],
-      "title": "Ubuntu certificate revocation checks arrive in curl, OpenSSL is next"
-    },
-    {
-      "added_at": 1794404749.4150276,
-      "ai": true,
-      "id": "79dab6d1859a67dc3795b63a95c71ef3a60bfc2b",
-      "link": "https://www.helpnetsecurity.com/2026/11/11/red-hat-openshift-5/",
-      "published": 1794389460.0,
-      "source": "Help Net Security",
-      "summary": "Red Hat OpenShift 5 is now generally available, adding autonomous troubleshooting, operational intelligence, and zero‑trust security to its hybrid‑cloud Kubernetes platform.\nThe release extends the platform’s lifecycle and supports complex operations across data centers, cloud, and disconnected environments.",
-      "tags": [],
-      "title": "Red Hat OpenShift 5 brings autonomous troubleshooting to hybrid clouds"
-    },
-    {
-      "added_at": 1794404749.4150276,
-      "ai": true,
-      "id": "22100d80fca305b5033a3bd26a5531130d432bca",
-      "link": "https://www.helpnetsecurity.com/2026/11/11/druva-agent-recovery/",
-      "published": 1794388984.0,
-      "source": "Help Net Security",
-      "summary": "Druva launches Agent Recovery, an AI resilience feature that restores deleted or altered AI agents without rolling back entire environments.\nThe capability initially supports Microsoft Copilot Studio and expands to Microsoft Power Platform, including Power Apps and Power Automate.",
-      "tags": [],
-      "title": "Druva helps restore AI agents without rolling back entire environments"
-    },
-    {
-      "added_at": 1794404749.4150276,
-      "ai": true,
-      "id": "8bbf06293ad7dd5de7e5743173366b06794fd6fe",
-      "link": "https://www.infosecurity-magazine.com/news/microsoft-fixes-1235-flaws-record/",
-      "published": 1794388500.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "Microsoft patched 1,235 CVEs in November’s Patch Tuesday, setting a new record for the number of vulnerabilities addressed in a single update cycle.",
-      "tags": [],
-      "title": "Microsoft Fixes 1235 Flaws in Another Record Patch Tuesday"
-    },
-    {
-      "added_at": 1794404749.4150276,
-      "ai": true,
-      "id": "040cd554e123de8697d93097ea83da320f189883",
-      "link": "https://www.helpnetsecurity.com/2026/11/11/fingerprint-fraud-score/",
-      "published": 1794388377.0,
-      "source": "Help Net Security",
-      "summary": "Fingerprint introduces Fraud Score, a predictive fraud signal trained on customers’ own fraud outcomes using device intelligence and machine learning.\nThe model learns organization‑specific fraud types to improve detection accuracy without requiring customers to build their own models.",
-      "tags": [],
-      "title": "Fingerprint trains specialized models to detect distinct fraud types"
-    },
-    {
-      "added_at": 1794404749.4150276,
-      "ai": true,
-      "id": "6cc65111539402d1c7bdb430191c479bd1bcff17",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/",
-      "published": 1794388047.0,
-      "source": "BleepingComputer",
-      "summary": "Microsoft resolved Outlook sign‑in and mail delivery issues on Exchange Server caused by the October 2026 Windows Server security updates.\nThe fix restores normal authentication and email flow for affected Exchange environments.",
-      "tags": [],
-      "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates"
-    },
-    {
-      "added_at": 1794404749.4150276,
-      "ai": true,
-      "id": "d4e4627c5bb323b827cb29673e95c02ddb1486fb",
-      "link": "https://www.helpnetsecurity.com/2026/11/11/orca-security-ai-security/",
-      "published": 1794387946.0,
-      "source": "Help Net Security",
-      "summary": "Orca Security expands its AI Security offering with new tools that discover and secure AI‑generated applications and autonomous agents across cloud environments.\nThe update provides visibility into AI code and assesses risks associated with autonomous agents.",
-      "tags": [],
-      "title": "Orca Security adds visibility into AI-generated code and agent risks"
-    },
-    {
-      "added_at": 1794404749.4150276,
-      "ai": true,
-      "id": "c5080c64e3d85c4f83d19015189721463f8d911d",
-      "link": "https://www.securityweek.com/threat-actors-exploit-openwave-cisco-broadworks-vulnerabilities/",
-      "published": 1794387667.0,
-      "source": "SecurityWeek",
-      "summary": "Threat actors exploited Openwave and Cisco BroadWorks vulnerabilities (CVE‑2026‑111793 and CVE‑2026‑20320) to leak sensitive configuration data.\nThe flaws allow attackers to access and exfiltrate confidential information.",
-      "tags": [],
-      "title": "Threat Actors Exploit Openwave, Cisco BroadWorks Vulnerabilities"
-    },
-    {
-      "added_at": 1794404749.4150276,
-      "ai": true,
-      "id": "496a173714ef24d366368e94d54598826012fd0e",
-      "link": "https://www.helpnetsecurity.com/2026/11/11/obsidian-security-runtime-policy-decision-engine/",
-      "published": 1794386690.0,
-      "source": "Help Net Security",
-      "summary": "Obsidian Security releases a Runtime Policy Decision Engine that lets security teams enforce policies on AI agent actions before execution.\nThe engine evaluates the agent’s owner, access level, and third‑party integrations to allow, block, or require human approval.",
-      "tags": [],
-      "title": "Obsidian expands AI agent security with runtime policy enforcement"
-    },
-    {
-      "added_at": 1794404749.4150276,
-      "ai": true,
-      "id": "6c321513c19ed4742d3096fe397cefd1e23ef635",
-      "link": "https://www.securityweek.com/chipmaker-patch-tuesday-over-200-vulnerabilities-addressed-by-intel-amd/",
-      "published": 1794386564.0,
-      "source": "SecurityWeek",
-      "summary": "Intel and AMD disclosed more than 200 vulnerabilities in their latest Patch Tuesday, including critical flaws in Intel TDX software and multiple AMD graphics bugs.\nThe updates address a wide range of security issues across both chipmakers’ product lines.",
-      "tags": [],
-      "title": "Chipmaker Patch Tuesday: Over 200 Vulnerabilities Addressed by Intel, AMD"
-    },
-    {
-      "added_at": 1794404749.4150276,
-      "ai": true,
-      "id": "44096b209ce3f9975082bb36d0a9f79116bad255",
-      "link": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
-      "published": 1794385073.0,
-      "source": "The Hacker News",
-      "summary": "Microsoft released patches for 1,259 vulnerabilities across its software portfolio, including 726 in Windows, 174 in Office, and 61 in Developer Tools.\nThe update also addresses an exploited Outlook bug that could expose NTLMv2 hashes.",
-      "tags": [],
-      "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes"
-    },
-    {
-      "added_at": 1794404749.4150276,
-      "ai": true,
-      "id": "34f63dbdf4168e237cf07ecd6431831137b9e22c",
-      "link": "https://www.securityweek.com/recently-patched-barracuda-vulnerabilities-exploited-in-attacks/",
-      "published": 1794383631.0,
-      "source": "SecurityWeek",
-      "summary": "Recently patched Barracuda vulnerabilities were exploited to bypass authorization and gain root access on devices. Attackers used these flaws to elevate privileges. SecurityWeek reported the incidents.",
-      "tags": [],
-      "title": "Recently Patched Barracuda Vulnerabilities Exploited in Attacks"
-    },
-    {
-      "added_at": 1794404749.4150276,
-      "ai": true,
-      "id": "890bd5d68a0ae55bf5e69453ab9296756aa6207e",
-      "link": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
-      "published": 1794383344.0,
-      "source": "The Hacker News",
-      "summary": "Railway stored customers' AI provider keys, which were stolen in an October breach. The stolen keys were used to generate about $740,000 in unauthorized AI usage charges. Railway will cover the costs.",
-      "tags": [],
-      "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges"
-    },
-    {
-      "added_at": 1794404749.4150276,
-      "ai": true,
-      "id": "e23f07d99f928138a0d8e7f0eed966309ad1b094",
-      "link": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
-      "published": 1794381665.0,
-      "source": "The Hacker News",
-      "summary": "Microsoft researchers demonstrated that editing fewer than 10 rarely used neurons in an AI model can embed a hidden backdoor without retraining. A trigger causes the model to output attacker commands, which agents then execute. The method requires weight modification.",
-      "tags": [],
-      "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons"
-    },
-    {
-      "added_at": 1794404749.4150276,
-      "ai": true,
-      "id": "b093a8f172339b2ea39a9416492e7bb0605b91c9",
-      "link": "https://www.helpnetsecurity.com/2026/11/11/aurimas-bakas-copla-cra-vulnerability-reporting/",
-      "published": 1794380454.0,
-      "source": "Help Net Security",
-      "summary": "The EU Cyber Resilience Act imposes reporting duties that continue through weekends. Manufacturers must register every product version still in use and report exploited flaws. Copla CEO explains the obligations and timing.",
-      "tags": [],
-      "title": "The Cyber Resilience Act clock doesn’t stop for weekends"
-    },
-    {
-      "added_at": 1794404749.4150276,
-      "ai": true,
-      "id": "ddf3562d4ef5b3688c0e6a8487ff6bc6f8d35c5e",
-      "link": "https://www.securityweek.com/bluetooth-airplay-pairing-vulnerabilities-patched-across-apple-platforms/",
-      "published": 1794380417.0,
-      "source": "SecurityWeek",
-      "summary": "Apple patched Bluetooth and AirPlay pairing vulnerabilities, iMessage issues, and a Brotli bug across its platforms. The fixes address potential exploitation of pairing flaws. SecurityWeek covered the updates.",
-      "tags": [],
-      "title": "Bluetooth, AirPlay Pairing Vulnerabilities Patched Across Apple Platforms"
-    },
-    {
-      "added_at": 1794404749.4150276,
-      "ai": true,
-      "id": "cdd8a2af5e68fe7742cfac642f7f92842a1f0d8b",
-      "link": "https://www.helpnetsecurity.com/2026/11/11/flat-security-budget-video/",
-      "published": 1794378610.0,
-      "source": "Help Net Security",
-      "summary": "CISO Ken Leeser advises trimming waste from a flat security budget by inventorying tools and costs, then mapping them to attacker techniques. The approach encourages simplification and cost efficiency. Help Net Security featured the video.",
-      "tags": [],
-      "title": "A CISO’s guide to trimming waste from a flat security budget"
-    },
-    {
-      "added_at": 1794404749.4150276,
-      "ai": true,
-      "id": "cd6455aacef58794e46919a19fb0534df42e3a3d",
-      "link": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
-      "published": 1794377042.0,
-      "source": "The Hacker News",
-      "summary": "CISA added two vulnerabilities affecting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities catalog. Exploitation is active despite available patches. CVE-2026-20320 has a CVSS score of 7.5.",
-      "tags": [],
-      "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches"
-    },
-    {
-      "added_at": 1794404749.4150276,
-      "ai": true,
-      "id": "763a80de58139461ac3ee8cdf85c24144152a842",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/11/openai-builds-a-kill-switch-for-its-research-models/5309006",
-      "published": 1794374456.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "OpenAI has built a kill switch for its research models to shut down rogue agents quickly. The switch can terminate an agent in about 35 seconds. The feature aims to limit potential damage.",
-      "tags": [],
-      "title": "OpenAI builds a kill switch for its research models"
-    },
-    {
-      "added_at": 1794404749.4150276,
-      "ai": true,
-      "id": "d58e1f007a51618c210e5719fc74128b045bcd55",
-      "link": "https://www.rapid7.com/blog/post/em-patch-tuesday-november-2026",
-      "published": 1794347737.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "Microsoft released 1,092 vulnerabilities for Patch Tuesday, including 1,102 in Windows. The volume is high but may represent a slight reprieve. The impact on security outcomes remains uncertain.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "Patch Tuesday - November 2026"
-    },
-    {
-      "added_at": 1794404749.4150276,
-      "ai": true,
-      "id": "7e413807cc2f111eddf4e9b7c08afc99b9c50457",
-      "link": "https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html",
-      "published": 1794326324.0,
-      "source": "The Hacker News",
-      "summary": "Blind Eagle resurfaced with a campaign targeting Latin America using court‑themed phishing to deliver a remote access trojan similar to AsyncRAT and DCRat. The lures are in Portuguese and Spanish. The RAT provides remote access to compromised systems.",
-      "tags": [],
-      "title": "Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America"
-    },
-    {
       "added_at": 1794442422.9986532,
       "ai": true,
       "id": "09ebecc42123bff9aa68ffc51d767e4695491e9d",
@@ -1814,6 +1363,455 @@
       "summary": "A critical flaw in Apache HTTP Server's HTTP/2 module (CVE-2026-119618) allows unauthenticated remote code execution on affected versions.",
       "tags": [],
       "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely"
+    },
+    {
+      "added_at": 1794578975.6506643,
+      "ai": true,
+      "id": "70883ad509251f33980fa14296b4529e72204307",
+      "link": "https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/",
+      "published": 1794577662.0,
+      "source": "SecurityWeek",
+      "summary": "Microsoft is working to restore email and other services after a global outage, using a measured approach to identify and repair affected infrastructure.",
+      "tags": [],
+      "title": "Microsoft Struggles to Restore Email and Other Services in a Global Outage"
+    },
+    {
+      "added_at": 1794578975.6506643,
+      "ai": true,
+      "id": "8e464b1ec50065d3e77c48513662dc10e471d18a",
+      "link": "https://www.infosecurity-magazine.com/news/hackers-ai-weaker-cyber-attacks/",
+      "published": 1794577500.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "Proofpoint researcher notes that threat actors’ reliance on AI has introduced many mistakes, with no evidence of increased sophistication.",
+      "tags": [],
+      "title": "Hackers' Overreliance on AI Can Result in Weaker Cyber-Attacks, Proofpoint Researcher Says"
+    },
+    {
+      "added_at": 1794578975.6506643,
+      "ai": true,
+      "id": "56543c033de6d448c6644bef461d22da4d8eeabd",
+      "link": "https://www.theregister.com/security/2026/11/13/quantum-systems-drones-back-in-the-air-after-malware-scare/5309658",
+      "published": 1794575640.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "Germany’s Bundeswehr has lifted the precautionary grounding of Quantum Systems drones after a malicious update reached military servers.",
+      "tags": [],
+      "title": "Quantum Systems drones back in the air after malware scare"
+    },
+    {
+      "added_at": 1794578975.6506643,
+      "ai": true,
+      "id": "fff233faf327955c5b8d41a18894e145252e75dd",
+      "link": "https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls",
+      "published": 1794574800.0,
+      "source": "darkreading",
+      "summary": "Attackers in the Binance breach exploited a known weakness and missing controls, with blockchain sweepers hindering security measures.",
+      "tags": [],
+      "title": "Attackers in Binance Breach Targeted Known Weakness, Missing Controls"
+    },
+    {
+      "added_at": 1794578975.6506643,
+      "ai": true,
+      "id": "f88082b89135d1a8c0d629be790bcc355f58b69e",
+      "link": "https://therecord.media/record-number-of-cyber-incidents-reported-to-uk-regulator",
+      "published": 1794574020.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "The UK privacy regulator recorded a record number of cyber incidents this year, with data extortion and AI cited as key drivers.",
+      "tags": [
+        "#news"
+      ],
+      "title": "Record number of cyber incidents reported to UK privacy regulator"
+    },
+    {
+      "added_at": 1794578975.6506643,
+      "ai": true,
+      "id": "4084f96e5a59e12877813556e6205ae94e39cb26",
+      "link": "https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack/",
+      "published": 1794573661.0,
+      "source": "SecurityWeek",
+      "summary": "Apify confirmed that an intruder accessed customer accounts and personal information during a cyberattack.",
+      "tags": [],
+      "title": "Apify Confirms Customer Data Accessed in Cyberattack"
+    },
+    {
+      "added_at": 1794578975.6506643,
+      "ai": true,
+      "id": "da110ad0aa4a88e186a7c9d11ed3f294c5579ad0",
+      "link": "https://www.infosecurity-magazine.com/news/microsoft-365-outage-security/",
+      "published": 1794572940.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "While Microsoft resolves the M365 and Outlook outage, cybersecurity teams warn that the incident could heighten security risks as attackers may exploit the chaos.",
+      "tags": [],
+      "title": "Microsoft 365 Outage Set to Ramp up Security Risks to Organizations"
+    },
+    {
+      "added_at": 1794578975.6506643,
+      "ai": true,
+      "id": "293c69c9ee5ba956b9240d86e81cc8609a2fdc4e",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/",
+      "published": 1794572860.0,
+      "source": "BleepingComputer",
+      "summary": "Microsoft warned that its November 2026 security updates could cause printing failures for documents with complex formatting.",
+      "tags": [],
+      "title": "Microsoft says November security updates cause printing issues"
+    },
+    {
+      "added_at": 1794578975.6506643,
+      "ai": true,
+      "id": "527326996071aa8d075954b534990ac254abfc9f",
+      "link": "https://www.securityweek.com/silentair-hackers-intercept-calls-sms-from-inside-mobile-networks/",
+      "published": 1794572428.0,
+      "source": "SecurityWeek",
+      "summary": "Enea reported that SilentAir hijacked mobile network nodes to intercept calls and SMS, targeting primarily Taiwanese subscribers.",
+      "tags": [],
+      "title": "SilentAir Hackers Intercept Calls, SMS From Inside Mobile Networks"
+    },
+    {
+      "added_at": 1794578975.6506643,
+      "ai": true,
+      "id": "f5b71ee6de0ecf005e1d3c3a24abb1586c57f1da",
+      "link": "https://www.schneier.com/blog/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html",
+      "published": 1794571410.0,
+      "source": "Schneier on Security",
+      "summary": "An essay from DEF CON 34 discusses AI hacking, including people hacking AI, using AI to hack other systems, and AI systems hacking independently.",
+      "tags": [
+        "#opinion"
+      ],
+      "title": "AI Doesn’t Have to Go Rogue to Break the World"
+    },
+    {
+      "added_at": 1794578975.6506643,
+      "ai": true,
+      "id": "fe3ab0485c825bd2cc3ced463f16f7f996da14ba",
+      "link": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html",
+      "published": 1794570751.0,
+      "source": "The Hacker News",
+      "summary": "An AI agent tasked with sorting support tickets can export records to an unfamiliar destination because it has the necessary access and tools. The scenario highlights uncertainty around how to halt an autonomous agent. The incident underscores the need for clear control mechanisms.",
+      "tags": [],
+      "title": "When an AI Agent Goes Wrong, Can You Stop It?"
+    },
+    {
+      "added_at": 1794578975.6506643,
+      "ai": true,
+      "id": "f9c805ed76036b95eb9f97ce99c4cc0d18f6b7af",
+      "link": "https://www.helpnetsecurity.com/2026/11/13/apple-secure-exclaves-security-architecture/",
+      "published": 1794569276.0,
+      "source": "Help Net Security",
+      "summary": "Apple unveiled Secure Exclaves, a security architecture that isolates camera and microphone data during background processing. Data processed within the enclaves is inaccessible to the main OS, apps, or Apple itself. The feature powers person recognition on HomeView, Siri Recap, and Live Rewind.",
+      "tags": [],
+      "title": "Apple details Secure Exclaves, isolated runtimes for camera and microphone data"
+    },
+    {
+      "added_at": 1794578975.6506643,
+      "ai": true,
+      "id": "364305a76537f9aa2a2a16ceeee9c626a8ae959f",
+      "link": "https://www.infosecurity-magazine.com/news/phishing-rises-faster-europe/",
+      "published": 1794568500.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "Proofpoint research indicates phishing incidents in Europe increased 4.5 times year over year, compared to a 1.5 times rise globally. The data suggests a growing threat landscape in the region.",
+      "tags": [],
+      "title": "Phishing Rises Three Times Faster in Europe Than Globally, Proofpoint Finds"
+    },
+    {
+      "added_at": 1794578975.6506643,
+      "ai": true,
+      "id": "d030547d1ad319e1be60b0b610578a4836330417",
+      "link": "https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html",
+      "published": 1794568240.0,
+      "source": "The Hacker News",
+      "summary": "The SilentAir group hijacked telecom equipment in several Asian operators to intercept calls and SMS, targeting Taiwanese users. Enea traced the attack sources to at least six countries and identified the group as a likely state-sponsored actor.",
+      "tags": [],
+      "title": "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users"
+    },
+    {
+      "added_at": 1794578975.6506643,
+      "ai": true,
+      "id": "1160767539d88597098f168e983244c8c11c14e1",
+      "link": "https://www.helpnetsecurity.com/2026/11/13/europol-dark-web-arrests-cybercrime/",
+      "published": 1794567989.0,
+      "source": "Help Net Security",
+      "summary": "Operation TorNado saw 354 dark‑web vendors and buyers arrested across 14 countries, following investigations of five defunct marketplaces. Europol and national police seized assets and disrupted ongoing trade.",
+      "tags": [],
+      "title": "354 dark web vendors and buyers arrested in Operation TorNado"
+    },
+    {
+      "added_at": 1794578975.6506643,
+      "ai": true,
+      "id": "9de821d4818bec455c86a1cdfaacaa29260f837f",
+      "link": "https://www.theregister.com/security/2026/11/13/crackdown-on-uk-medical-record-snooping-after-staff-reported-sneaking-300-times-this-year/5309421",
+      "published": 1794567720.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "A watchdog has requested assurances from 200 UK healthcare executives that employees are not inappropriately accessing patient records. The inquiry follows reports of staff snooping on files over 300 times this year.",
+      "tags": [],
+      "title": "Crackdown on UK medical record snooping after staff reported sneaking 300+ times this year"
+    },
+    {
+      "added_at": 1794578975.6506643,
+      "ai": true,
+      "id": "5df4bf07aed5b496f0abefa15d48eb411855500b",
+      "link": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
+      "published": 1794567303.0,
+      "source": "The Hacker News",
+      "summary": "Operation Endgame dismantled servers used by Gootloader, CastleRAT, and StealC malware, and seized 6.4 million stolen credentials belonging to more than 40,000 victims.",
+      "tags": [],
+      "title": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins"
+    },
+    {
+      "added_at": 1794578975.6506643,
+      "ai": true,
+      "id": "2be753d1df50db76e8e5aca78c3d8c0ced269f6e",
+      "link": "https://therecord.media/nato-issues-and-withdraws-guidance-over-russian-taxi-app",
+      "published": 1794567120.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "NATO initially advised conference attendees to use the Russian‑owned Yandex Go app for travel, but later retracted the recommendation amid concerns over Kremlin data access.",
+      "tags": [
+        "#news"
+      ],
+      "title": "NATO issues and then withdraws Russian taxi app travel advice for defense industry conference"
+    },
+    {
+      "added_at": 1794578975.6506643,
+      "ai": true,
+      "id": "e4df5d0ce341c2b5c50296576358b77b62e34ba1",
+      "link": "https://www.securityweek.com/law-enforcement-disrupts-gootloader-castlerat-and-stealc-infrastructure/",
+      "published": 1794566920.0,
+      "source": "SecurityWeek",
+      "summary": "Law enforcement seized 235 servers and 257 domains linked to Gootloader, CastleRAT, and StealC, and recovered 6.4 million victim credentials during Operation Endgame.",
+      "tags": [],
+      "title": "Law Enforcement Disrupts Gootloader, CastleRAT, and StealC Infrastructure"
+    },
+    {
+      "added_at": 1794578975.6506643,
+      "ai": true,
+      "id": "e49e186a5eabd302143b40d06bee1029ffc2d6ab",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
+      "published": 1794566662.0,
+      "source": "BleepingComputer",
+      "summary": "Check Point issued emergency hotfixes for a high‑severity zero‑day flaw that has been exploited to gain root access and establish persistence on vulnerable devices since late October.",
+      "tags": [],
+      "title": "Check Point warns of zero-day flaw exploited for root access"
+    },
+    {
+      "added_at": 1794578975.6506643,
+      "ai": true,
+      "id": "c1c74e2579b4b1d21d45c7885ce49391c66399e5",
+      "link": "https://www.theregister.com/security/2026/11/13/brit-police-watchdog-says-cops-use-of-facial-recog-risks-wrongful-arrests/5309379",
+      "published": 1794564900.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "UK police watchdog warns that facial‑recognition use by police can lead to wrongful arrests due to governance gaps and officers’ misunderstanding of the technology’s limits.",
+      "tags": [],
+      "title": "Brit police watchdog says cops' use of facial recog risks wrongful arrests"
+    },
+    {
+      "added_at": 1794578975.6506643,
+      "ai": true,
+      "id": "d20b2da13e92f664c5ec39ee44d534e633fab005",
+      "link": "https://www.securityweek.com/citrix-patches-10-critical-netscaler-vulnerabilities/",
+      "published": 1794562616.0,
+      "source": "SecurityWeek",
+      "summary": "Citrix released patches for ten critical NetScaler vulnerabilities that could allow exploitation resulting in unexpected behavior or denial‑of‑service conditions.",
+      "tags": [],
+      "title": "Citrix Patches 10 Critical NetScaler Vulnerabilities"
+    },
+    {
+      "added_at": 1794578975.6506643,
+      "ai": true,
+      "id": "8762a201a24f4db2336ed9af0283562206b348b7",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
+      "published": 1794562578.0,
+      "source": "BleepingComputer",
+      "summary": "Microsoft confirmed that its November Patch Tuesday updates are causing Windows activation and licensing failures, producing error code 0x80041008.",
+      "tags": [],
+      "title": "Microsoft confirms Windows activation failures after November updates"
+    },
+    {
+      "added_at": 1794578975.6506643,
+      "ai": true,
+      "id": "404b30e4ac881c5dc1ddfb49878f1c088fcb7933",
+      "link": "https://www.helpnetsecurity.com/2026/11/13/openai-daybreak-vulnerability-remediation-red-team-defense-factory-agents/",
+      "published": 1794562267.0,
+      "source": "Help Net Security",
+      "summary": "OpenAI launched Daybreak, AI agents that perform web‑application penetration testing and help investigate vulnerabilities and develop fixes through its Red Team and Defense Factory modules.",
+      "tags": [],
+      "title": "OpenAI’s Daybreak brings AI agents to security testing and vulnerability fixes"
+    },
+    {
+      "added_at": 1794578975.6506643,
+      "ai": true,
+      "id": "e4b47e3b9b3e94f4c971d3c3251b0633d9eabc87",
+      "link": "https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/",
+      "published": 1794561661.0,
+      "source": "SecurityWeek",
+      "summary": "Daybreak Red Team uses AI agents to pentest web applications, while Defense Factory analyzes findings and prepares patches for remediation.",
+      "tags": [],
+      "title": "OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools"
+    },
+    {
+      "added_at": 1794578975.6506643,
+      "ai": true,
+      "id": "89dc6600ed61326666b5a3c390aa0d4f506a5e38",
+      "link": "https://www.infosecurity-magazine.com/news/ai-revolutionize-ransomware/",
+      "published": 1794561300.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "TrendAI analyst Bob McArdle predicts ransomware techniques will evolve significantly in the next year, with AI making attacks more dangerous and profitable.",
+      "tags": [],
+      "title": "AI Set to Revolutionize Ransomware Following “Stagnant” Few Years"
+    },
+    {
+      "added_at": 1794578975.6506643,
+      "ai": true,
+      "id": "b955104ed90db8b9dc43fb60016d50787be45659",
+      "link": "https://securelist.com/esxi-ransomware/121959/",
+      "published": 1794560443.0,
+      "source": "Securelist",
+      "summary": "Kaspersky experts explain how ransomware targets VMware ESXi and vCenter, noting the hypervisor layer is hard to monitor and outlining common access paths and protection strategies.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "Ransomware at the hypervisor layer: how attackers use ESXi and vCenter features for malicious purposes"
+    },
+    {
+      "added_at": 1794578975.6506643,
+      "ai": true,
+      "id": "0b5efb819342c6c9fef58652d9a019c1a82fd57c",
+      "link": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/",
+      "published": 1794559836.0,
+      "source": "SecurityWeek",
+      "summary": "Nightmare Eclipse released the SignDrop zero‑day exploit that abuses CLFS and Windows Defender to create arbitrary files in the context of the antimalware process.",
+      "tags": [],
+      "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignDrop’"
+    },
+    {
+      "added_at": 1794578975.6506643,
+      "ai": true,
+      "id": "3ff055feac947c372a03170ace281fc947841f06",
+      "link": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
+      "published": 1794558860.0,
+      "source": "BleepingComputer",
+      "summary": "International law enforcement arrested 354 suspects linked to vendors and buyers on several dark‑web marketplaces, including Archetyp, Nemesis, Tor2Door, Bohemia, and Kingdom.",
+      "tags": [],
+      "title": "Police arrest 354 suspects in dark web cybercrime crackdown"
+    },
+    {
+      "added_at": 1794578975.6506643,
+      "ai": true,
+      "id": "c0eea237828e0534521abdc4b2050efa73d78fe5",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
+      "published": 1794557149.0,
+      "source": "The Hacker News",
+      "summary": "Threat actors used PHP2Shell vulnerabilities in Check Point Gateways and a local privilege escalation flaw in Gaia OS to install the TSGA backdoor and delete ESXi files, targeting Israeli organizations since October 30, 2026.",
+      "tags": [],
+      "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files"
+    },
+    {
+      "added_at": 1794578975.6506643,
+      "ai": true,
+      "id": "d9f7469060c3fa0da50a4d616d9a1d4f5c7f0341",
+      "link": "https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/",
+      "published": 1794555544.0,
+      "source": "SecurityWeek",
+      "summary": "PHP2Shell was used for initial compromise of Check Point gateways. CVE-2026-123039 allowed attackers to elevate privileges to root, leading to destructive attacks.",
+      "tags": [],
+      "title": "PHP2Shell Exploited in Destructive Check Point Gateway Attacks"
+    },
+    {
+      "added_at": 1794578975.6506643,
+      "ai": true,
+      "id": "c36e90f8a1e3f20e6b7f701221c4dab94b383475",
+      "link": "https://www.theregister.com/devops/2026/11/13/c26-stumbles-at-finish-line-over-contracts-dispute/5309526",
+      "published": 1794555060.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "ISO working group is debating C++26 contracts. The dispute centers on runtime checks, complexity, and the release timetable.",
+      "tags": [],
+      "title": "C++26 stumbles at finish line over Contracts dispute"
+    },
+    {
+      "added_at": 1794578975.6506643,
+      "ai": true,
+      "id": "f1ba5df7cf65c4dec07c2bb3f9d5e5e9adf9b799",
+      "link": "https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/",
+      "published": 1794554450.0,
+      "source": "SecurityWeek",
+      "summary": "4EverAble2Shell flaw allows remote, unauthenticated code execution with root privileges. Exploited within hours of PoC release.",
+      "tags": [],
+      "title": "Hackers Exploit New N-central Zero-Day Hours After PoC Publication"
+    },
+    {
+      "added_at": 1794578975.6506643,
+      "ai": true,
+      "id": "474c0fc5bba6c2b28d0b69c99a351e02195edbf8",
+      "link": "https://www.helpnetsecurity.com/2026/11/13/fbi-north-korean-fake-zoom-calls/",
+      "published": 1794551430.0,
+      "source": "Help Net Security",
+      "summary": "North Korean hackers use stolen webcam footage to lure victims into fake Zoom/Teams calls, stealing over $400M in crypto. FBI calls scheme FaceStealer and has seized 900+ recordings.",
+      "tags": [],
+      "title": "Stolen webcam clips of 900+ victims feed North Korea’s $400 million fake Zoom scheme"
+    },
+    {
+      "added_at": 1794578975.6506643,
+      "ai": true,
+      "id": "536dea6e3a45f0f6e76e0233a5e1debe7415f891",
+      "link": "https://www.helpnetsecurity.com/2026/11/13/microsoft-teams-device-code-phishing/",
+      "published": 1794550548.0,
+      "source": "Help Net Security",
+      "summary": "Attackers used fake Teams meeting scheduler to trick employee into approving device code sign‑in, obtaining session token. Huntress identified incident after token acquisition.",
+      "tags": [],
+      "title": "How attackers turned a Teams meeting booking into a device code phishing trap"
+    },
+    {
+      "added_at": 1794578975.6506643,
+      "ai": true,
+      "id": "355dbfe4711532dcda190563b47541139cf0bf57",
+      "link": "https://www.helpnetsecurity.com/2026/11/13/north-korean-it-workers-onboarding/",
+      "published": 1794549622.0,
+      "source": "Help Net Security",
+      "summary": "Material Security traced 27 fabricated North Korean IT personas to onboarding in monitored organizations. One company exposed 277,000 SSNs via shared files.",
+      "tags": [],
+      "title": "Suspected North Korean IT workers reached onboarding at companies with open data"
+    },
+    {
+      "added_at": 1794578975.6506643,
+      "ai": true,
+      "id": "9e0cc84d062dbe41585a6b1f5b93e2794019ca66",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html",
+      "published": 1794548608.0,
+      "source": "The Hacker News",
+      "summary": "N-able disclosed new 4EverAble2Shell and Agent2Shell flaws. 21 servers infected, 19 running Hotfix 2; company restricted features while remediating.",
+      "tags": [],
+      "title": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2"
+    },
+    {
+      "added_at": 1794578975.6506643,
+      "ai": true,
+      "id": "121956c94603ba79d7f2a01822eb7162e80db624",
+      "link": "https://www.helpnetsecurity.com/2026/11/13/corelight-mcp-server-supply-chain/",
+      "published": 1794547822.0,
+      "source": "Help Net Security",
+      "summary": "MCP server ran 15 different dependency sets over five weeks despite fixed release configuration. 23 of 69 packages changed, including cryptography and JWT libraries.",
+      "tags": [],
+      "title": "Your pinned MCP server may not be as pinned as you think"
+    },
+    {
+      "added_at": 1794578975.6506643,
+      "ai": true,
+      "id": "c5e6afb8b0c12500a31d856993c332b02e5c4fd1",
+      "link": "https://www.helpnetsecurity.com/2026/11/13/ibm-digital-sovereignty-challenges-report/",
+      "published": 1794546054.0,
+      "source": "Help Net Security",
+      "summary": "IBM survey shows 94% of enterprises faced digital sovereignty challenges in past three years. 91% had to prove control during events, 81% provided formal evidence to regulators.",
+      "tags": [],
+      "title": "Digital sovereignty leaves enterprises chasing their own audit trails"
+    },
+    {
+      "added_at": 1794578975.6506643,
+      "ai": true,
+      "id": "589fccee67c25799cb504186d07134bc8f0f99e1",
+      "link": "https://www.securityweek.com/fbi-says-us-seized-1-2-billion-worth-of-cryptocurrency-stolen-from-binance/",
+      "published": 1794536901.0,
+      "source": "SecurityWeek",
+      "summary": "FBI seized $1.2B in crypto stolen from Binance. North Korean hackers also blamed for $400M theft via social engineering.",
+      "tags": [],
+      "title": "FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance"
     }
   ],
   "posted": []
