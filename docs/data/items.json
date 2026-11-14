@@ -1,7 +1,51 @@
 {
-  "generated_at": 1794612124.7968924,
-  "count": 179,
+  "generated_at": 1794661792.8844662,
+  "count": 156,
   "items": [
+    {
+      "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+      "summary": "CISA added the high‑severity flaw CVE-2026-114713 to its Known Exploited Vulnerabilities catalog. The vulnerability in UnrealIRCd allows server‑level command injection due to improper neutralization of delimiters, and active exploitation has been reported.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+      "published": 1794659915.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794661792.8737333
+    },
+    {
+      "title": "Apple Reveals How Secure Exclaves Shield Camera and Microphone Data",
+      "summary": "Apple disclosed the architecture that isolates ambient sensor data from the main operating system on HomeView and new iPhones. Secure enclaves protect camera and microphone data from potential compromise.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/",
+      "published": 1794654000.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794661792.8737333
+    },
+    {
+      "title": "No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update",
+      "summary": "The FAA outage was attributed to a software update rather than a cyberattack. The FBI is investigating the update, and no evidence of hacking has been found.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/",
+      "published": 1794645622.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794661792.8737333
+    },
+    {
+      "title": "Big Tech takes a beating as online safety experts accuse companies of doing bare minimum",
+      "summary": "Online safety experts criticize major tech companies for providing only minimal safeguards against banned content. Parliament's committee notes that users can easily access such content using alternative terminology.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/11/14/big-tech-takes-a-beating-as-online-safety-experts-accuse-companies-of-doing-bare-minimum/5309302",
+      "published": 1794644280.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794661792.8737333
+    },
     {
       "title": "Friday Squid Blogging: Pacific Flying Squid Populations Dropping in Korean Waters",
       "summary": "Study reports decline in Pacific flying squid populations in Korean waters, attributed to climate change. The post also references broader security topics.",
@@ -519,6 +563,17 @@
       "ai": true,
       "status": "queued",
       "ts": 1794578975.6506643
+    },
+    {
+      "title": "GTA VI isn’t out yet – and the scams are already in full swing",
+      "summary": "Cybercriminals are exploiting the hype around GTA VI with malware‑laden downloads and fake early‑access offers, even though the game has not yet been released.",
+      "source": "WeLiveSecurity",
+      "link": "https://www.welivesecurity.com/en/cybersecurity/gta-vi-isnt-out-yet-scams-full-swing/",
+      "published": 1794564000.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794661792.8737333
     },
     {
       "title": "Citrix Patches 10 Critical NetScaler Vulnerabilities",
@@ -1718,325 +1773,6 @@
       "ai": true,
       "status": "queued",
       "ts": 1794612124.7884405
-    },
-    {
-      "title": "Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise",
-      "summary": "Japan pushes emergency funding for cybersecurity, adding public‑private responders, an AI‑focused team, and expanded use of active cyber‑defense powers.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches",
-      "published": 1794441600.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794442422.9986532
-    },
-    {
-      "title": "Baker Tilly notifies clients of data breach at third-party provider",
-      "summary": "Baker Tilly Advisory Group informs clients of a data breach that compromised personal information of clients and their dependents.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
-      "published": 1794438091.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794442422.9986532
-    },
-    {
-      "title": "ARTEX and AI-Powered Red Teaming Tools: What Defenders Need to Know",
-      "summary": "Unit 42 reports on attacker use of AI‑powered red team tools (ARTEX) and offers mitigation guidance for defenders.",
-      "source": "Unit 42",
-      "link": "https://unit42.paloaltonetworks.com/artex-and-ai-powered-red-teaming-tools/",
-      "published": 1794438053.0,
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794442422.9986532
-    },
-    {
-      "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
-      "summary": "ConnectWise investigates a malware campaign targeting MSPs via compromised ScreenConnect environments to deploy rogue remote‑access clients.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
-      "published": 1794437781.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794442422.9986532
-    },
-    {
-      "title": "Attackers Say 'Hello' to a Different Scale of Cloud Attack",
-      "summary": "Researchers identify a cloud attack chain dubbed \"Greeter\" where attackers leave \"hello\" messages in logs to obscure their trail.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/cloud-security/attackers-hello-scale-cloud-attack",
-      "published": 1794433444.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794442422.9986532
-    },
-    {
-      "title": "eMudhra revokes 8 more CA certificates after private key mishap",
-      "summary": "eMudhra revokes eight additional intermediate CA certificates after discovering improper private key handling during certificate generation.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
-      "published": 1794432460.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794442422.9986532
-    },
-    {
-      "title": "AI Raises the Stakes for Cyber Resilience",
-      "summary": "AI‑driven threats increase the importance of rapid business disruption recovery as a competitive advantage.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/cyber-risk/ai-raises-stakes-cyber-resilience",
-      "published": 1794432041.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794442422.9986532
-    },
-    {
-      "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
-      "summary": "Notion disclosed that a breach at AI provider Fireworks AI exposed Notion AI chat transcripts in a limited number of workspaces.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
-      "published": 1794430460.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794442422.9986532
-    },
-    {
-      "title": "N-able Takes N-central Platform Offline After Discovery of 33 Flaws",
-      "summary": "N‑able takes its N‑central platform offline after finding 33 flaws, releasing a hotfix to mitigate public exploits.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/endpoint-security/n-able-n-central-offline-33-flaws",
-      "published": 1794427518.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794442422.9986532
-    },
-    {
-      "title": "Who Runs the Ransomware Group Qilin?",
-      "summary": "Investigation points to a 36‑year‑old man in St. Petersburg as the administrator of ransomware group Qilin, which has claimed at least 365 victims in three months.",
-      "source": "Krebs on Security",
-      "link": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
-      "published": 1794420361.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794442422.9986532
-    },
-    {
-      "title": "N-able Rushes Out N-central Fixes After 33 Zero-Days Go Public",
-      "summary": "N‑able released seven fixes for N‑central after 33 zero‑day vulnerabilities were publicly disclosed, addressing the identified CVEs to secure the platform.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/n-able-n-central-able2shell-0day/",
-      "published": 1794417300.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794442422.9986532
-    },
-    {
-      "title": "Iran-backed network directed London attacks over FaceTime, US prosecutors say",
-      "summary": "U.S. prosecutors allege an Iran‑backed group directed attacks via FaceTime against Jewish and U.S. sites, including synagogues in Belgium, the Netherlands and London, and U.S. bank buildings in Amsterdam and Paris.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/iran-backed-network-directed-london-attacks-over-facetime",
-      "published": 1794416220.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794442422.9986532
-    },
-    {
-      "title": "Anthropic's Glasswing Finds Many Vulnerabilities Yet Delivers Few Fixes, Researcher Says",
-      "summary": "Patrick Garrity reports that Anthropic’s Glasswing program has resulted in only 217 of the thousands of vulnerabilities reported being fixed after seven months.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/anthropic-glasswing/",
-      "published": 1794414600.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794442422.9986532
-    },
-    {
-      "title": "Today: CISO Forum Virtual Summit 2026 Day 2 – Join Cybersecurity Leaders Online",
-      "summary": "The CISO Forum Virtual Summit 2026 Day 2 invites cybersecurity leaders to discuss risk management and defense strategies in a two‑day online event.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/",
-      "published": 1794414582.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794442422.9986532
-    },
-    {
-      "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
-      "summary": "Maersk confirmed a data breach after a threat actor accessed a legacy system inherited from an acquisition and extracted data, with WhiteArmor ransomware demanding a $5 million payment.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
-      "published": 1794414258.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794442422.9986532
-    },
-    {
-      "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
-      "summary": "Zoom released updates for Zoom Workplace for Windows to fix two critical flaws, including CVE‑2026‑108186, which could allow unauthenticated privilege escalation.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
-      "published": 1794413566.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794442422.9986532
-    },
-    {
-      "title": "Suspected Chinese Malware Supplier Tied to Three Hacking Campaigns",
-      "summary": "Check Point identified a China‑based malware supplier linked to three hacking campaigns that share the Sparrow malware framework.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/chinese-malware-tied-three-hacking/",
-      "published": 1794412800.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794442422.9986532
-    },
-    {
-      "title": "Critical Xen Orchestra Flaws Exploited in Attacks",
-      "summary": "Critical authentication bypasses in Xen Orchestra allow attackers to execute arbitrary code as admin and take over XCP‑ng nodes, and these vulnerabilities have been actively exploited.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/critical-xen-orchestra-flaws-exploited-in-attacks/",
-      "published": 1794411767.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794442422.9986532
-    },
-    {
-      "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
-      "summary": "Researchers found that the AntiFox AI penetration testing platform was used to steal AWS credentials and pivot laterally, with attacks originating from Alibaba Cloud systems hosting AntiFox interfaces.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
-      "published": 1794411267.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794442422.9986532
-    },
-    {
-      "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
-      "summary": "Attackers are hosting self‑managed AntiFox instances on Alibaba Cloud to target web services and AWS environments, facilitating credential theft.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
-      "published": 1794409979.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794442422.9986532
-    },
-    {
-      "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
-      "summary": "Linux eBPF rootkits enable malicious activity to hide without loading kernel modules. Flare reports that underground forums share rootkit source code, tutorials, and exploits targeting Linux systems.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
-      "published": 1794409271.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794442422.9986532
-    },
-    {
-      "title": "The XG Files: Falcon C2 Flying Under The (Browser) Radar",
-      "summary": "Falcon C2 is a browser-based threat framework that targets governments through malicious scripts, extensions, and the Antino implant.",
-      "source": "Unit 42",
-      "link": "https://unit42.paloaltonetworks.com/falcon-c2-browser-compromise/",
-      "published": 1794409223.0,
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794442422.9986532
-    },
-    {
-      "title": "Kai extends Autonomous Defense Platform visibility to internet-facing assets",
-      "summary": "Kai announced External Attack Surface Management (EASM) on its Autonomous Defense Platform and launched Kai Labs to research AI‑driven security challenges, unifying internal and external exposure visibility.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/11/kai-autonomous-defense-platform/",
-      "published": 1794408927.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794442422.9986532
-    },
-    {
-      "title": "Git fixes six vulnerabilities, including code execution during recursive clones",
-      "summary": "Git released security updates for six vulnerabilities that could allow code execution, unintended file writes, or memory corruption when processing malicious repositories.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/11/git-project-security-updates/",
-      "published": 1794407172.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794442422.9986532
-    },
-    {
-      "title": "Blind trust: stealing credentials through CSP",
-      "summary": "Content Security Policy can fail to prevent XSS when a policy allows‑lists a domain, enabling attackers to steal credentials via HTML injection.",
-      "source": "PortSwigger Research",
-      "link": "https://portswigger.net/research/blind-trust-stealing-credentials-through-csp",
-      "published": 1794407161.0,
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794442422.9986532
-    },
-    {
-      "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
-      "summary": "Threat actors targeted Qlik Sense servers, attempting PowerShell reverse shells and exploiting ActiveMQ and Veeam vulnerabilities across EU customers.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
-      "published": 1794405660.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794442422.9986532
-    },
-    {
-      "title": "Asus, Zoom Release Security Patches",
-      "summary": "Asus and Zoom issued security patches for vulnerabilities that could lead to command execution, memory overwrites, and privilege escalation.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/asus-zoom-release-security-patches/",
-      "published": 1794405518.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794442422.9986532
-    },
-    {
-      "title": "Embed Security lets analysts teach its AI SOC Platform how to investigate",
-      "summary": "Embed Security added features that let teams train its AI SOC platform with custom investigation steps, expanded memory, and detection engineering.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/11/embed-security-expands-ai-soc-platform/",
-      "published": 1794405252.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794442422.9986532
     }
   ]
 }
