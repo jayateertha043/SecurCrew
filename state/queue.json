@@ -1,462 +1,6 @@
 {
   "pending": [
     {
-      "added_at": 1794525548.2279558,
-      "ai": true,
-      "id": "faa5ecf22a84a9e7b0fec066290cc6003b51773d",
-      "link": "https://www.helpnetsecurity.com/2026/11/13/fake-zillow-clickfix-netsupport-rat/",
-      "published": 1794525323.0,
-      "source": "Help Net Security",
-      "summary": "Fake Zillow apartment review pages were used to deliver ClickFix NetSupport RAT to visitors, prompting them to copy and run a PowerShell command that installed remote‑control software on Windows machines.",
-      "tags": [],
-      "title": "Fake Zillow pages use ClickFix NetSupport RAT to target apartment hunters"
-    },
-    {
-      "added_at": 1794525548.2279558,
-      "ai": true,
-      "id": "dea6b10489f59242554db0b1e417cf4747bba136",
-      "link": "https://www.helpnetsecurity.com/2026/11/13/postgresql-security-update-november-2026/",
-      "published": 1794524733.0,
-      "source": "Help Net Security",
-      "summary": "PostgreSQL released versions 18.7, 17.12, 16.16, 15.20, and 14.25, addressing 52 security bugs and ending support for PostgreSQL 14; the fixes target memory errors and type‑confusion vulnerabilities in PL/Perl, PL/Tcl, and text‑search functions.",
-      "tags": [],
-      "title": "PostgreSQL security update fixes 52 vulnerabilities, ends support for PostgreSQL 14"
-    },
-    {
-      "added_at": 1794525548.2279558,
-      "ai": true,
-      "id": "3b8d7732462b67616a3c2a4ee7dd3771b112b4e0",
-      "link": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
-      "published": 1794523990.0,
-      "source": "BleepingComputer",
-      "summary": "SCKit, a worm‑like toolkit, was deployed in recent ScreenConnect attacks against managed service providers, spreading from infected customer devices to MSP technicians’ computers and compromising additional managed networks.",
-      "tags": [],
-      "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks"
-    },
-    {
-      "added_at": 1794525548.2279558,
-      "ai": true,
-      "id": "674c4b85088a00cec1d782ea873d587cbb99cb76",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
-      "published": 1794522330.0,
-      "source": "BleepingComputer",
-      "summary": "The 'wfx-loot' campaign used 4,837 compromised GitHub accounts to scan 61,764 repositories, open pull requests, and push malware that steals cloud credentials.",
-      "tags": [],
-      "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials"
-    },
-    {
-      "added_at": 1794525548.2279558,
-      "ai": true,
-      "id": "e52fb1952d02967ae54f0ba0607418181fed3df6",
-      "link": "https://therecord.media/stolen-binance-crypto-recovered-doj-facestealer-disrupted",
-      "published": 1794519720.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "The DOJ and FBI seized $1.2 billion linked to a North Korea‑related cryptocurrency theft operation and dismantled the FaceStealer credential‑stealing tools.",
-      "tags": [
-        "#news"
-      ],
-      "title": "Feds announce seizure of $1.2 billion from Binance theft; also takedown of ‘FaceStealer’ tools"
-    },
-    {
-      "added_at": 1794525548.2279558,
-      "ai": true,
-      "id": "39360acccba04a845bafd0df1361d18c6db36aa9",
-      "link": "https://www.darkreading.com/cybersecurity-operations/cyber-experts-fight-artex-antifox",
-      "published": 1794518332.0,
-      "source": "darkreading",
-      "summary": "Cybersecurity experts recommend immediate defense planning to counter Artex and AntiFox, which use agentic pen‑testing tools to compromise systems.",
-      "tags": [],
-      "title": "Cyber Experts Weigh In: How to Fight Artex & AntiFox"
-    },
-    {
-      "added_at": 1794525548.2279558,
-      "ai": true,
-      "id": "65ba8076fc80bba4b29b751af8393502ac709c93",
-      "link": "https://cyberscoop.com/connectwise-screenconnect-sckit-attack/",
-      "published": 1794517097.0,
-      "source": "CyberScoop",
-      "summary": "Researchers traced a worm‑like toolkit to a ScreenConnect add‑on, prompting ConnectWise to disable five third‑party extensions across 400 partner environments.",
-      "tags": [],
-      "title": "Rogue remote-access campaign spread through ScreenConnect add-on, researchers say"
-    },
-    {
-      "added_at": 1794525548.2279558,
-      "ai": true,
-      "id": "f394da5f2166ea82f30e0c1eeb1cd5bc3ef16644",
-      "link": "https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/",
-      "published": 1794516930.0,
-      "source": "SecurityWeek",
-      "summary": "A Microsoft 365 outage caused by failed server health checks disrupted Outlook, Exchange Online, and Teams; Microsoft is investigating the cause and has found no evidence of a cyberattack.",
-      "tags": [],
-      "title": "Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams"
-    },
-    {
-      "added_at": 1794525548.2279558,
-      "ai": true,
-      "id": "73823819d236140178d9848057a16c0571f26944",
-      "link": "https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500",
-      "published": 1794516525.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "OpenAI introduced new security products and warned organizations that failure to adopt them could leave them vulnerable to AI‑driven cyberattacks.",
-      "tags": [],
-      "title": "OpenAI launches security products, tells orgs they’re doomed if they don’t use them"
-    },
-    {
-      "added_at": 1794525548.2279558,
-      "ai": true,
-      "id": "fd416d58448acaf00c168c19a891bd2bd898b158",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
-      "published": 1794514516.0,
-      "source": "BleepingComputer",
-      "summary": "A widespread Microsoft 365 outage affected Outlook, Teams, and Copilot globally, with Microsoft investigating the issue and users reporting connectivity problems.",
-      "tags": [],
-      "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide"
-    },
-    {
-      "added_at": 1794525548.2279558,
-      "ai": true,
-      "id": "43b2bb31ce77af5008857ecb6e0c515787e1eafe",
-      "link": "https://www.darkreading.com/data-privacy/extortion-luna-moth-law-firms-second-time",
-      "published": 1794514181.0,
-      "source": "darkreading",
-      "summary": "Extortion group Luna Moth targets law firms that did not pay the first ransom. The attack uses social engineering to steal Microsoft access tokens.",
-      "tags": [],
-      "title": "Extortion Group Luna Moth Flits Into Law Firms a Second Time"
-    },
-    {
-      "added_at": 1794525548.2279558,
-      "ai": true,
-      "id": "30fb76b04d2262420c18e36b731ac3872ec53838",
-      "link": "https://www.theregister.com/security/2026/11/12/lego-marketplace-bricklink-in-pieces-after-unusual-activity-takes-it-offline-for-almost-a-week/5309425",
-      "published": 1794514088.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "Lego marketplace BrickLink has been offline for almost a week after unusual activity. No confirmed cause has been announced.",
-      "tags": [],
-      "title": "Lego marketplace BrickLink in pieces after 'unusual activity' takes it offline for almost a week"
-    },
-    {
-      "added_at": 1794525548.2279558,
-      "ai": true,
-      "id": "5e7c3d53ea7379372eaeb553f8086df3a162a879",
-      "link": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
-      "published": 1794513076.0,
-      "source": "BleepingComputer",
-      "summary": "N‑able zero‑day \"4EverAble2Shell\" was exploited within hours of the PoC release. At least 21 systems were affected, including 19 with the latest security update, and attackers deployed cryptocurrency miners.",
-      "tags": [],
-      "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released"
-    },
-    {
-      "added_at": 1794525548.2279558,
-      "ai": true,
-      "id": "bb48d6f8868d0053f20ee36adcf4fce2a6aa0192",
-      "link": "https://therecord.media/united-airlines-to-block-customers-using-ai-agents",
-      "published": 1794511200.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "United Airlines has blocked customers from using AI agents. The airline cites risks of credential sharing and unintended purchases.",
-      "tags": [
-        "#news"
-      ],
-      "title": "United to block customers from using AI agents, citing cyber threats"
-    },
-    {
-      "added_at": 1794525548.2279558,
-      "ai": true,
-      "id": "4b0b066cf2183599c19dbe010231e0d77ef3f9f0",
-      "link": "https://blog.talosintelligence.com/never-be-afraid-to-ask-questions/",
-      "published": 1794510000.0,
-      "source": "Cisco Talos Blog",
-      "summary": "Amy reflects on an anthropology course that taught the importance of asking questions to bridge cultural gaps.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Never be afraid to ask questions"
-    },
-    {
-      "added_at": 1794525548.2279558,
-      "ai": true,
-      "id": "2559f20953506e5d69eea719f5cf82c970ee37bc",
-      "link": "https://therecord.media/shipping-giant-maersk-says-recent-incident-affected-legacy-system",
-      "published": 1794508080.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "Maersk reports a cyber incident that affected its legacy system. The incident is part of a series of attacks on shipping ports, following ransomware on Brazil’s largest port.",
-      "tags": [
-        "#news"
-      ],
-      "title": "Shipping giant Maersk says recent cyber incident affected legacy system"
-    },
-    {
-      "added_at": 1794525548.2279558,
-      "ai": true,
-      "id": "37fe5be896856cf38299b303de78c34bb88bd1e9",
-      "link": "https://www.helpnetsecurity.com/2026/11/12/anthropic-self-hosted-claude-managed-agents/",
-      "published": 1794506820.0,
-      "source": "Help Net Security",
-      "summary": "Anthropic released a self‑hosted version of Claude Managed Agents. Companies can run the agent harness, sandboxes, credentials, and session history in their own environment; the private beta began on November 12.",
-      "tags": [],
-      "title": "Self-hosted Claude Managed Agents keeps agent credentials in your environment"
-    },
-    {
-      "added_at": 1794525548.2279558,
-      "ai": true,
-      "id": "b0ab29dcda10dff5aa5b6dd2a27fd69ab454708e",
-      "link": "https://www.theregister.com/security/2026/11/12/software-samaritan-revamps-borked-indian-certs-to-block-smart-tv-ads/5309467",
-      "published": 1794506575.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "Software Samaritan altered Indian certificates to block Samsung TV ads and tracking. A firmware fix later removed the effect.",
-      "tags": [],
-      "title": "Software Samaritan revamps borked Indian certs to block smart TV ads"
-    },
-    {
-      "added_at": 1794525548.2279558,
-      "ai": true,
-      "id": "0215fb6873aed2b71ad66634eef8200ce9a0de67",
-      "link": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html",
-      "published": 1794506571.0,
-      "source": "The Hacker News",
-      "summary": "ThreatsDay highlighted 59 Linux kernel bugs, Falcon spyware, GSocket backdoors, and other stories. The report notes attackers using fake sites, stolen access, and trusted tools, with AI accelerating attacks.",
-      "tags": [],
-      "title": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories"
-    },
-    {
-      "added_at": 1794525548.2279558,
-      "ai": true,
-      "id": "1acaa8e77a2e585411761b5baac4eda90993dafa",
-      "link": "https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html",
-      "published": 1794505827.0,
-      "source": "The Hacker News",
-      "summary": "The new SignDrop zero‑day exploits the Windows CLFS driver to give local users SYSTEM privileges. It abuses path redirection to control privileged processes.",
-      "tags": [],
-      "title": "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access"
-    },
-    {
-      "added_at": 1794525548.2279558,
-      "ai": true,
-      "id": "84d2c357214b27d6d769e1f1d1f9c7341d1cc02c",
-      "link": "https://cyberscoop.com/section-702-reauthorization-ndaa-debate/",
-      "published": 1794502800.0,
-      "source": "CyberScoop",
-      "summary": "Civil liberties groups urged lawmakers to exclude Section 702 renewal from the defense bill. They argue the law expands U.S. surveillance powers. The letter was sent to congressional leaders.",
-      "tags": [],
-      "title": "Don’t put Section 702 spying law renewal in defense bill, groups urge Hill leaders"
-    },
-    {
-      "added_at": 1794525548.2279558,
-      "ai": true,
-      "id": "eae739ae6c0783d7b434e86b978d06cfa682e656",
-      "link": "https://cyberscoop.com/operation-endgame-malware-takedown-gootloader-stealc-europol/",
-      "published": 1794502534.0,
-      "source": "CyberScoop",
-      "summary": "Operation Endgame dismantled ransomware supply‑chain malware, including loaders and remote‑access trojans. The action exposed 6.4 million stolen credentials. The operation was a joint international effort.",
-      "tags": [],
-      "title": "International operation dismantles malware networks, exposes 6.4 million stolen credentials"
-    },
-    {
-      "added_at": 1794525548.2279558,
-      "ai": true,
-      "id": "093b008afb96e6958d218838725ef3922e4a2f61",
-      "link": "https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
-      "published": 1794500821.0,
-      "source": "The Hacker News",
-      "summary": "A critical vulnerability in Red Hat Quay allows attackers to read and overwrite private container images. The flaw works even with anonymous access enabled or with a valid account. Red Hat released fixed builds for eight Quay versions.",
-      "tags": [],
-      "title": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry"
-    },
-    {
-      "added_at": 1794525548.2279558,
-      "ai": true,
-      "id": "023264eb01e1c2b61cb01884b746ebfae15ca143",
-      "link": "https://therecord.media/european-authorities-take-down-stealic-malware-second-time",
-      "published": 1794500460.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "German authorities seized SteaIC malware servers linked to the Virtualine hosting provider. The takedown was the second time the servers were targeted this year. The operation involved cooperation with Dutch police and the FBI.",
-      "tags": [
-        "#news"
-      ],
-      "title": "European authorities take down SteaIC malware servers for second time this year"
-    },
-    {
-      "added_at": 1794525548.2279558,
-      "ai": true,
-      "id": "7968b43f44c2e8e1d27b3c816c2efe7a8fe4092c",
-      "link": "https://therecord.media/connectwise-screenconnect-breaches-third-party-tool",
-      "published": 1794500160.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "ConnectWise confirmed breaches of its ScreenConnect tool affecting almost 50 organizations. The incidents were caused by abuse of a third‑party tool. The company is investigating the incidents.",
-      "tags": [
-        "#news"
-      ],
-      "title": "ConnectWise investigates ScreenConnect breaches after reports of incidents at nearly 50 organizations"
-    },
-    {
-      "added_at": 1794525548.2279558,
-      "ai": true,
-      "id": "ad9757975fce9e1bcb3375939fae67c6d6c29e82",
-      "link": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
-      "published": 1794499440.0,
-      "source": "BleepingComputer",
-      "summary": "A new Windows zero‑day exploit, SignDrop, can grant attackers SYSTEM privileges. The vulnerability was discovered by researcher Abdelhamid Naceri. It allows privilege escalation on affected systems.",
-      "tags": [],
-      "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges"
-    },
-    {
-      "added_at": 1794525548.2279558,
-      "ai": true,
-      "id": "3d701704b07c7f9dc483ad4444d95b1559a9dc85",
-      "link": "https://www.infosecurity-magazine.com/news/fortinet-sql-server-cryptominer/",
-      "published": 1794499200.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "Fortinet identified weak passwords on SQL Server instances that enabled delivery of a cryptominer and the Gh0st RAT. The vulnerability allows attackers to install malicious software via compromised credentials.",
-      "tags": [],
-      "title": "Weak Passwords Expose SQL Servers to Cryptominer and Gh0st RAT"
-    },
-    {
-      "added_at": 1794525548.2279558,
-      "ai": true,
-      "id": "c398aa3e92265ca6e4c3d73fa009aedda023fe8e",
-      "link": "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
-      "published": 1794497929.0,
-      "source": "The Hacker News",
-      "summary": "Citrix released patches for 12 critical flaws in NetScaler ADC, NetScaler Gateway, and Secure Access Client. Vulnerabilities could lead to denial‑of‑service or authentication bypass. CVE‑2026‑120868 has a CVSS score of 9.3.",
-      "tags": [],
-      "title": "Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass"
-    },
-    {
-      "added_at": 1794525548.2279558,
-      "ai": true,
-      "id": "16b72427cf58165bf4ed63cdc04205d7e799ca2e",
-      "link": "https://www.securityweek.com/apache-patches-critical-http-server-rce-found-by-anthropic-google/",
-      "published": 1794497911.0,
-      "source": "SecurityWeek",
-      "summary": "Apache fixed a critical remote‑code‑execution flaw, CVE‑2026‑119618, in the mod_http2 module. The race condition allows unauthenticated attackers to execute code on servers with HTTP/2 enabled. The patch was released after discovery by Anthropic and Google.",
-      "tags": [],
-      "title": "Apache Patches Critical HTTP Server RCE Found by Anthropic, Google"
-    },
-    {
-      "added_at": 1794525548.2279558,
-      "ai": true,
-      "id": "50b7d482cfd778eecc5dedb184f4d2eca1ccd5db",
-      "link": "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html",
-      "published": 1794496540.0,
-      "source": "The Hacker News",
-      "summary": "Researchers found 186 fake AI‑tool domains that redirect users to ClickFix lures, browser‑hijacking malware, and search‑hijacking extensions. The campaign, called TypoPrompting, exploits users’ trust in familiar AI names.",
-      "tags": [],
-      "title": "186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers"
-    },
-    {
-      "added_at": 1794525548.2279558,
-      "ai": true,
-      "id": "b6cd1d92c2adabec4272eca987e16b3ad7120051",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/whitearmor-gang-cyberattack-maersk",
-      "published": 1794496349.0,
-      "source": "GRAHAM CLULEY",
-      "summary": "WhiteArmor gang claims responsibility for a cyber attack that compromised a Maersk system and stole data.",
-      "tags": [],
-      "title": "WhiteArmor gang claims responsibility for latest cyber attack on shipping giant Maersk"
-    },
-    {
-      "added_at": 1794525548.2279558,
-      "ai": true,
-      "id": "62ff99ae778bcb02aa845d271438059cc132ae13",
-      "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
-      "published": 1794496040.0,
-      "source": "BleepingComputer",
-      "summary": "Europol and partners seized hundreds of servers and domains used by Gootloader, CastleRAT, and StealC malware operations.",
-      "tags": [],
-      "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure"
-    },
-    {
-      "added_at": 1794525548.2279558,
-      "ai": true,
-      "id": "74218da71f9d70bb02a296101e2540fb90431598",
-      "link": "https://www.helpnetsecurity.com/2026/11/12/picus-autonomous-penetration-testing/",
-      "published": 1794495902.0,
-      "source": "Help Net Security",
-      "summary": "Picus Security launched autonomous penetration testing agents that simulate attacker behavior to identify vulnerabilities under governance controls.",
-      "tags": [],
-      "title": "Picus puts AI agents on the offensive with autonomous pentesting"
-    },
-    {
-      "added_at": 1794525548.2279558,
-      "ai": true,
-      "id": "1857708e01dda10ef98346efa7797561d7757f56",
-      "link": "https://unit42.paloaltonetworks.com/cairn-framework-ai-autonomous-attacks/",
-      "published": 1794495631.0,
-      "source": "Unit 42",
-      "summary": "Unit 42 reported attackers used the open-source Cairn AI framework to autonomously breach semiconductor, defense, and civic targets.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Attackers Use Autonomous AI to Target Semiconductor, Defense and Civil Society Sectors"
-    },
-    {
-      "added_at": 1794525548.2279558,
-      "ai": true,
-      "id": "4864a8622c3d8c3b52b1bc214aa1d997e0fb3261",
-      "link": "https://www.helpnetsecurity.com/2026/11/12/cairn-autonomous-ai-cyberattacks/",
-      "published": 1794495629.0,
-      "source": "Help Net Security",
-      "summary": "Chinese-speaking attackers used the Cairn AI framework to conduct 25 operations, breaching 10 organizations with minimal input.",
-      "tags": [],
-      "title": "Attackers breached 10 organizations with an open-source AI pentest framework"
-    },
-    {
-      "added_at": 1794525548.2279558,
-      "ai": true,
-      "id": "28ab9a11f8377371260ce0abd45914a57663bd57",
-      "link": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
-      "published": 1794495610.0,
-      "source": "BleepingComputer",
-      "summary": "Compromised endpoint management platforms can become powerful attack tools; customer-controlled cryptographic authorization can mitigate this risk.",
-      "tags": [],
-      "title": "Your Endpoint Management Platform Could Be Your Biggest Security Risk"
-    },
-    {
-      "added_at": 1794525548.2279558,
-      "ai": true,
-      "id": "2a38c65665076c7fc2b017627a841a4c6b8f1e9e",
-      "link": "https://www.theregister.com/saas/2026/11/12/microsoft-exchange-server-2016-and-2019-enter-their-permanently-vulnerable-era/5309401",
-      "published": 1794495300.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "Microsoft Exchange Server 2016 and 2019 are permanently vulnerable, urging immediate upgrade or migration.",
-      "tags": [],
-      "title": "Microsoft Exchange Server 2016 and 2019 enter their 'permanently vulnerable' era"
-    },
-    {
-      "added_at": 1794525548.2279558,
-      "ai": true,
-      "id": "daa356fef18a497bb09abedce682d93ee0520097",
-      "link": "https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html",
-      "published": 1794488908.0,
-      "source": "The Hacker News",
-      "summary": "SCKit malware exploits CVE-2026-84869 in ScreenConnect to turn remote support sessions into attack vectors.",
-      "tags": [],
-      "title": "SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths"
-    },
-    {
-      "added_at": 1794525548.2279558,
-      "ai": true,
-      "id": "417b99b8248b9848ddd65700af0d9868ea2cb5a0",
-      "link": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html",
-      "published": 1794465767.0,
-      "source": "The Hacker News",
-      "summary": "An attacker used 4,837 stolen GitHub accounts to deploy a CI secret stealer in over 1,800 repositories, harvesting credentials.",
-      "tags": [],
-      "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories"
-    },
-    {
-      "added_at": 1794525548.2279558,
-      "ai": true,
-      "id": "8b748363b7cc622cd7fd66e9eef98fce7b3e6fdf",
-      "link": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
-      "published": 1794460346.0,
-      "source": "The Hacker News",
-      "summary": "A critical flaw in Apache HTTP Server's HTTP/2 module (CVE-2026-119618) allows unauthenticated remote code execution on affected versions.",
-      "tags": [],
-      "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely"
-    },
-    {
       "added_at": 1794578975.6506643,
       "ai": true,
       "id": "70883ad509251f33980fa14296b4529e72204307",
@@ -2348,6 +1892,517 @@
         "#research"
       ],
       "title": "CSS:the bomb inside your inbox"
+    },
+    {
+      "added_at": 1794749915.231558,
+      "ai": true,
+      "id": "c8b26857299e57fb92ec477e4921816134d7b17f",
+      "link": "https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/",
+      "published": 1794747093.0,
+      "source": "SecurityWeek",
+      "summary": "The Pentagon renamed its Chief Data and Analytics Office to the Super Intelligence Office following a directive to replace 'artificial intelligence' with 'super intelligence' in executive branch communications.",
+      "tags": [],
+      "title": "Pentagon Renames CDAO ‘Super Intelligence Office’"
+    },
+    {
+      "added_at": 1794749915.231558,
+      "ai": true,
+      "id": "04c1c102f5a737e863b3d0475db6c3146c906743",
+      "link": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
+      "published": 1794742051.0,
+      "source": "The Hacker News",
+      "summary": "Meta was fined €805 million in Italy for a Facebook Android feature that accessed users' photos and videos without explicit consent, with the feature enabled by default.",
+      "tags": [],
+      "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent"
+    },
+    {
+      "added_at": 1794749915.231558,
+      "ai": true,
+      "id": "8e707f9e30b1d6b6cf4c99fd96c91981df6713cd",
+      "link": "https://www.helpnetsecurity.com/2026/11/15/week-in-review-secret-stealer-hits-github-repos-claude-code-turned-into-remote-controlled-implant/",
+      "published": 1794733237.0,
+      "source": "Help Net Security",
+      "summary": "A weekly security review highlighted a secret stealer targeting GitHub repositories, the transformation of Claude Code into a remote‑controlled implant, and guidance on handling leaked credentials.",
+      "tags": [],
+      "title": "Week in review: Secret stealer hits GitHub repos, Claude Code turned into remote-controlled implant"
+    },
+    {
+      "added_at": 1794749915.231558,
+      "ai": true,
+      "id": "f316d41a09fed9d0b5bf15ff81dcda59a140919a",
+      "link": "https://www.securityweek.com/meta-fined-887-million-in-italy-over-android-gallery-photos-and-videos-on-facebook/",
+      "published": 1794682800.0,
+      "source": "SecurityWeek",
+      "summary": "Meta faced a $887 million fine in Italy for accessing Android gallery photos and videos on Facebook without obtaining free and informed consent from users.",
+      "tags": [],
+      "title": "Meta Fined $887 Million in Italy Over Android Gallery Photos and Videos on Facebook"
+    },
+    {
+      "added_at": 1794749915.231558,
+      "ai": true,
+      "id": "aa36d77dd524cea8975ac47b7c7f61471405d188",
+      "link": "https://blog.talosintelligence.com/from-federal-socs-to-talos-ryan-fetterman-on-practical-security-research/",
+      "published": 1793095221.0,
+      "source": "Cisco Talos Blog",
+      "summary": "Ryan Fetterman discussed the realities of detection engineering, the concept of a 'blue collar' blue team, and strategies for building a sustainable security career without burnout.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "From federal SOCs to Talos: Ryan Fetterman on practical security research"
+    },
+    {
+      "added_at": 1794749915.231558,
+      "ai": true,
+      "id": "1d721fa902295cc1323e6b897f6a88f97bec8dd8",
+      "link": "https://www.welivesecurity.com/en/videos/php2shell-what-know-two-critical-php-flaws/",
+      "published": 1793021100.0,
+      "source": "WeLiveSecurity",
+      "summary": "An overview of CVE‑2026‑109618 and CVE‑2026‑109619, known as PHP2Shell, explains the vulnerabilities and provides mitigation steps for website owners and IT teams.",
+      "tags": [],
+      "title": "PHP2Shell: What to know about two critical PHP flaws"
+    },
+    {
+      "added_at": 1794749915.231558,
+      "ai": true,
+      "id": "914614ea47461908b4a841a861ffdcb01d5484eb",
+      "link": "https://portswigger.net/blog/php2shell-x-burp-suite-detection-in-your-hands-within-a-day-of-disclosure",
+      "published": 1792763451.0,
+      "source": "PortSwigger Blog",
+      "summary": "Burp Suite can detect PHP2Shell vulnerabilities within a day of disclosure, emphasizing that up to 70 % of websites run PHP and may be at risk.",
+      "tags": [
+        "#appsec"
+      ],
+      "title": "PHP2Shell x Burp Suite: Detection in your hands within a day of disclosure"
+    },
+    {
+      "added_at": 1794749915.231558,
+      "ai": true,
+      "id": "49c1ab7af418cae2a7ec64105f879dfc82a25347",
+      "link": "https://blog.talosintelligence.com/i-had-plans-for-that-second/",
+      "published": 1792692272.0,
+      "source": "Cisco Talos Blog",
+      "summary": "An article notes that the Earth is speeding up, the leap second is being abolished, and critical PHP vulnerabilities are emerging.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "I had plans for that second"
+    },
+    {
+      "added_at": 1794749915.231558,
+      "ai": true,
+      "id": "09be57be38cc6ef0df6167bbfc72c641daca307d",
+      "link": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
+      "published": 1792689690.0,
+      "source": "Security Archives - The GitHub Blog",
+      "summary": "GitHub Bug Bounty highlighted researcher r31n, detailing their research approach, preferred bug classes, and advice for aspiring hackers during Cybersecurity Awareness Month.",
+      "tags": [
+        "#appsec"
+      ],
+      "title": "How bug bounty sharpens one researcher’s security skills"
+    },
+    {
+      "added_at": 1794749915.231558,
+      "ai": true,
+      "id": "101af1ca8d1b00b2de05fe470e2e6abaf310f360",
+      "link": "https://unit42.paloaltonetworks.com/emudhra-certificate-compromise/",
+      "published": 1792689332.0,
+      "source": "Unit 42",
+      "summary": "Eight compromised eMudhra intermediate CA private keys pose a risk of unauthorized TLS signing and MITM interception; an analysis and containment guide has been released.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "EMudhra Intermediate CA Certificates Compromised"
+    },
+    {
+      "added_at": 1794749915.231558,
+      "ai": true,
+      "id": "ca5fc9dc16b17ee4d2a386e10dc5bad24a2df793",
+      "link": "https://unit42.paloaltonetworks.com/current-landscape-oauth-attacks/",
+      "published": 1792688425.0,
+      "source": "Unit 42",
+      "summary": "Unit 42 examines current OAuth attack trends and provides actionable mitigation steps for organizations.\nThe post outlines modern threat vectors and recommended defenses.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "The Current Landscape of OAuth Attacks"
+    },
+    {
+      "added_at": 1794749915.231558,
+      "ai": true,
+      "id": "4eda8a69789bd7de99fbe55b3abc668ca124b44c",
+      "link": "https://www.welivesecurity.com/en/eset-research/mythicratatoskr-yggdrasil-enabled-backdoor-deployed-uac0099-sandworm-collaboration/",
+      "published": 1792658700.0,
+      "source": "WeLiveSecurity",
+      "summary": "ESET discovered MythicRatatoskr, a Go-based backdoor that embeds its command‑and‑control server in the Yggdrasil mesh network, used in a destructive attack on a Ukrainian grain company.\nThe backdoor was deployed through a UAC‑0099‑Sandworm collaboration.",
+      "tags": [],
+      "title": "MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration"
+    },
+    {
+      "added_at": 1794749915.231558,
+      "ai": true,
+      "id": "70746d6279dbb67e6df6964c6904bbe70a45e046",
+      "link": "https://www.intigriti.com/blog/news/php2shell",
+      "published": 1792627200.0,
+      "source": "Intigriti",
+      "summary": "PHP core contains two critical vulnerabilities (CVE‑2026‑109618 & CVE‑2026‑109619) that could allow remote code execution, affecting up to 70% of websites.\nThe flaws were disclosed on October 21, 2026, and require immediate patching.",
+      "tags": [
+        "#bugbounty"
+      ],
+      "title": "Understanding PHP2Shell: Everything you need to know about CVE-2026-109618 & CVE-2026-109619"
+    },
+    {
+      "added_at": 1794749915.231558,
+      "ai": true,
+      "id": "52e40e7e7ea6b259f03f6be7d517275998784d2a",
+      "link": "https://blog.talosintelligence.com/compromised-intermediate-certificates/",
+      "published": 1792615409.0,
+      "source": "Cisco Talos Blog",
+      "summary": "Cisco Talos identified eight compromised intermediate certificates issued by eMudhra, a certificate authority.\nThese certificates could be used to forge trusted connections.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "Compromised eMudhra intermediate certificates"
+    },
+    {
+      "added_at": 1794749915.231558,
+      "ai": true,
+      "id": "24755a352d3db0870291b01911ace38663240799",
+      "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
+      "published": 1792596367.0,
+      "source": "Krebs on Security",
+      "summary": "A widespread PHP flaw has caused many websites to return 404 errors; nearly 70% of sites require an update, and active exploits are in use.\nThe vulnerabilities allow attackers to seize full control over affected servers.",
+      "tags": [],
+      "title": "Widespread PHP Flaw May Cause Many Site Outages Today"
+    },
+    {
+      "added_at": 1794749915.231558,
+      "ai": true,
+      "id": "95210f1a65abdba3c79cb6150562760a86e61bfe",
+      "link": "https://blog.talosintelligence.com/two-critical-rces-in-php-core/",
+      "published": 1792595453.0,
+      "source": "Cisco Talos Blog",
+      "summary": "Talos reports two critical remote code execution vulnerabilities in PHP core that could impact the broader PHP ecosystem.\nSnort rules are available in the Community Ruleset to detect exploitation attempts.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "Two critical RCEs in PHP core"
+    },
+    {
+      "added_at": 1794749915.231558,
+      "ai": true,
+      "id": "5cdc0ab0264aec106ff82b169121cc5b20e69c57",
+      "link": "https://blog.talosintelligence.com/parasitizing-trust-how-legitimate-infrastructure-becomes-a-delivery-pipeline-for-attackers/",
+      "published": 1792576800.0,
+      "source": "Cisco Talos Blog",
+      "summary": "Adversaries are abusing more than 25 trusted platforms—such as collaboration, file‑sharing, and payment services—to deliver malicious activity, exploiting built‑in trust.\nThe abuse spans across multiple industries and increases attack surface.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "Parasitizing trust: How legitimate infrastructure becomes a delivery pipeline for attackers"
+    },
+    {
+      "added_at": 1794749915.231558,
+      "ai": true,
+      "id": "6bd6585835c425692b6a5223c7f2e3b29b588bb0",
+      "link": "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/",
+      "published": 1792528242.0,
+      "source": "Unit 42",
+      "summary": "Ransomware groups Spikey Scorpius and Tarnished Scorpius are actively exploiting PAN‑OS CVE‑2026‑0257, as reported by Unit 42.\nThe vulnerability is being leveraged to deploy ransomware payloads on affected devices.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "Active Exploitation of May 2026 PAN-OS CVE-2026-0257 (Updated October 20)"
+    },
+    {
+      "added_at": 1794749915.231558,
+      "ai": true,
+      "id": "79b4014f667cba1b1a55f9fad342f8874e4954bb",
+      "link": "https://blog.talosintelligence.com/theres-only-so-much-code-the-rise-in-vulnerability-numbers/",
+      "published": 1792510282.0,
+      "source": "Cisco Talos Blog",
+      "summary": "Vulnerability reports have surged, with 1,415 advisories released this month compared to a pre‑June average of 100, highlighting a dramatic increase.\nThe September Patch Tuesday included 975 advisories, indicating a steep rise in discovered flaws.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "There's only so much code: the rise in vulnerability numbers"
+    },
+    {
+      "added_at": 1794749915.231558,
+      "ai": true,
+      "id": "ce48c7fb264138d8526b6009cee06bae56ced506",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/qilin-ransomware-arrested-synnovis-patient-death",
+      "published": 1792489309.0,
+      "source": "GRAHAM CLULEY",
+      "summary": "German police arrested a 28‑year‑old Russian suspect linked to the Qilin ransomware gang and the Synnovis hack that disrupted London hospitals and contributed to a patient’s death.\nThe suspect was apprehended while on holiday, underscoring the global reach of ransomware operations.",
+      "tags": [],
+      "title": "Police arrest Qilin ransomware suspect on holiday, as links made to Synnovis hack that contributed to patient’s death"
+    },
+    {
+      "added_at": 1794749915.231558,
+      "ai": true,
+      "id": "b892b9f7a4b76dc037e3fae8a7d341e5c52c957a",
+      "link": "https://www.welivesecurity.com/en/social-media/is-ad-scam-how-tell-before-click/",
+      "published": 1792486800.0,
+      "source": "WeLiveSecurity",
+      "summary": "Social media users can still be scammed by ads.\nRed flags include mismatched URLs, urgent language, and suspicious payment requests.\nVerify the ad source before clicking.",
+      "tags": [],
+      "title": "Is the ad a scam? How to tell before you click"
+    },
+    {
+      "added_at": 1794749915.231558,
+      "ai": true,
+      "id": "d43c265cb0a39bedec0c60a6c00354ed18bbaa72",
+      "link": "https://www.rapid7.com/blog/post/ve-authentication-bypass-remote-code-execution-and-database-read-in-eptura-archibus-fixed",
+      "published": 1792425463.0,
+      "source": "Rapid7 Cybersecurity Blog",
+      "summary": "Rapid7 discovered three high‑severity vulnerabilities in Eptura Archibus.\nA legacy API allows authentication bypass, full database read, and insecure file upload.\nVendor has released a patch.",
+      "tags": [
+        "#vulnerability"
+      ],
+      "title": "Authentication Bypass, Remote Code Execution, and Database Read in Eptura Archibus (FIXED)"
+    },
+    {
+      "added_at": 1794749915.231558,
+      "ai": true,
+      "id": "1984747c4f33937c6fad5c977948fdc3d876f924",
+      "link": "https://www.rapid7.com/blog/post/ra-netscaler-intrusions-chaining-cve-2026-88771-and-cve-2026-88779",
+      "published": 1792422717.0,
+      "source": "Rapid7 Cybersecurity Blog",
+      "summary": "Citrix NetScaler ADC 14.1 was compromised via chained CVEs 2026‑88771 and 2026‑88779.\nAttackers achieved root code execution, installed PHP shells, and maintained persistence.\nUpdate to the latest build to mitigate.",
+      "tags": [
+        "#vulnerability"
+      ],
+      "title": "Rapid7 Analysis: NetScaler intrusions chaining CVE-2026-88771 and CVE-2026-88779"
+    },
+    {
+      "added_at": 1794749915.231558,
+      "ai": true,
+      "id": "c7fd768c926c2c12696739ed099de0efa802eb0e",
+      "link": "https://www.rapid7.com/blog/post/etr-cve-2026-102764-critical-beyondtrust-remote-support-authentication-bypass-exploited-in-the-wild",
+      "published": 1792420444.0,
+      "source": "Rapid7 Cybersecurity Blog",
+      "summary": "BeyondTrust Remote Support suffered a CVE‑2026‑102764 authentication bypass.\nUnauthenticated attackers can perform file operations on affected appliances.\nVersions 26.2.3 and earlier are vulnerable; patching is required.",
+      "tags": [
+        "#vulnerability"
+      ],
+      "title": "CVE-2026-102764: Critical BeyondTrust Remote Support Authentication Bypass Exploited in the Wild"
+    },
+    {
+      "added_at": 1794749915.231558,
+      "ai": true,
+      "id": "5f2037864b2f69b178914b0d63c953678c9f5531",
+      "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "published": 1792417736.0,
+      "source": "Krebs on Security",
+      "summary": "Federal investigators link a ransomware negotiation firm to the ShinyHunters group that stole FBI data.\nAn executive in the U.S. allegedly facilitated the extortion site.\nInvestigation continues.",
+      "tags": [],
+      "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site"
+    },
+    {
+      "added_at": 1794749915.231558,
+      "ai": true,
+      "id": "a273e26d1615cc31307428ecbcd32614b63a9211",
+      "link": "https://unit42.paloaltonetworks.com/top-5-initial-access-vectors-september-2026/",
+      "published": 1792172874.0,
+      "source": "Unit 42",
+      "summary": "Unit 42 identified the leading initial access methods in September 2026: edge exploits, credential abuse, phishing, and others.\nThe report highlights the most common attack paths used by adversaries.\nAdvises organizations to monitor these vectors.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "Top 5 Initial Access Threat Vectors Observed by Unit 42 in September 2026"
+    },
+    {
+      "added_at": 1794749915.231558,
+      "ai": true,
+      "id": "f2639c17d104783566e0a11caa78e83a95203518",
+      "link": "https://www.welivesecurity.com/en/cybersecurity/inbox-flooded-signup-messages-email-bombing/",
+      "published": 1792141200.0,
+      "source": "WeLiveSecurity",
+      "summary": "An influx of sign‑up emails can indicate an email bombing attack.\nAttackers flood inboxes to overwhelm users or probe for valid addresses.\nMonitoring and filtering can mitigate the impact.",
+      "tags": [],
+      "title": "Inbox flooded with sign-up messages? Email bombing explained"
+    },
+    {
+      "added_at": 1794749915.231558,
+      "ai": true,
+      "id": "04e7535e61e612e78ea250399339944f742d819c",
+      "link": "https://portswigger.net/research/crlf-powered-desync-attacks",
+      "published": 1785972600.0,
+      "source": "PortSwigger Research",
+      "summary": "CRLF injection can create desynchronization attacks that truncate HTTP streams.\nSecurity scanners may flag header injection; Burp AT can exploit the issue to demonstrate the vulnerability.\nProper input validation is required.",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "CRLF-Powered Desync Attacks: Beheading HTTP Streams"
+    },
+    {
+      "added_at": 1794749915.231558,
+      "ai": true,
+      "id": "79e897c47e9dbb7f2389b63cd0849329f8036a3c",
+      "link": "https://portswigger.net/blog/how-burp-at-helped-expose-whistleblower-reports-via-a-critical-vulnerability-that-was-overlooked-for-years",
+      "published": 1785854731.0,
+      "source": "PortSwigger Blog",
+      "summary": "Security analyst Ray Huygen used Burp AT to uncover a long‑overlooked vulnerability that exposed whistleblower reports.\nThe tool automated exploitation, revealing sensitive data that had been at risk.\nThe findings prompted a patch.",
+      "tags": [
+        "#appsec"
+      ],
+      "title": "How Burp AT helped expose whistleblower reports via a critical vulnerability that was overlooked for years"
+    },
+    {
+      "added_at": 1794749915.231558,
+      "ai": true,
+      "id": "5bce29cf9ae1d537ae04a14dcdc2b0f4564ae14d",
+      "link": "https://www.welivesecurity.com/en/cybersecurity/beyond-screenshot-why-verify-you-see/",
+      "published": 1785401400.0,
+      "source": "WeLiveSecurity",
+      "summary": "Screenshots can be fabricated.\nVerifying the authenticity of visual evidence is essential to confirm payments, bookings, or conversations.\nRely on additional confirmation methods.",
+      "tags": [],
+      "title": "Beyond the screenshot: Why you should verify what you see"
+    },
+    {
+      "added_at": 1794749915.231558,
+      "ai": true,
+      "id": "37c0e3e1926b305e1a0576eb03ab4118406f6e94",
+      "link": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
+      "published": 1785254400.0,
+      "source": "Security Archives - The GitHub Blog",
+      "summary": "GitHub has released new features for npm and GitHub Actions designed to disrupt supply‑chain attack techniques and reduce their impact.",
+      "tags": [
+        "#appsec"
+      ],
+      "title": "Disrupting supply chain attacks on npm and GitHub Actions"
+    },
+    {
+      "added_at": 1794749915.231558,
+      "ai": true,
+      "id": "d2fa6f8b0d0492be90aaf377ba299666ebf61e03",
+      "link": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
+      "published": 1784736000.0,
+      "source": "Security Archives - The GitHub Blog",
+      "summary": "GitHub is overhauling its bug bounty program to improve the experience for researchers and streamline collaboration with the GitHub team.",
+      "tags": [
+        "#appsec"
+      ],
+      "title": "Next chapter: Restructuring GitHub’s bug bounty program"
+    },
+    {
+      "added_at": 1794749915.231558,
+      "ai": true,
+      "id": "9b7a0cbc311dee811f3caed8e923b009f4e82509",
+      "link": "https://portswigger.net/blog/burps-new-ambassadors-learn-from-the-people-who-use-burp-suite-everyday",
+      "published": 1784295325.0,
+      "source": "PortSwigger Blog",
+      "summary": "PortSwigger has added new members to its Burp Ambassador community, showcasing everyday users of Burp Suite and inviting further participation.",
+      "tags": [
+        "#appsec"
+      ],
+      "title": "Burp's new Ambassadors: learn from the people who use Burp Suite everyday"
+    },
+    {
+      "added_at": 1794749915.231558,
+      "ai": true,
+      "id": "d4db2aefae0632f5227e2eb7b7c19dab2640ddd9",
+      "link": "https://portswigger.net/blog/heading-to-vegas-meet-portswigger-at-black-hat-bsides-and-def-con-34",
+      "published": 1783588806.0,
+      "source": "PortSwigger Blog",
+      "summary": "PortSwigger will attend Black Hat, BSides, and DEF CON 34, offering workshops, talks, and booth presentations on Burp Suite.",
+      "tags": [
+        "#appsec"
+      ],
+      "title": "Heading to Vegas? Meet PortSwigger at Black Hat, BSides, and DEF CON 34."
+    },
+    {
+      "added_at": 1794749915.231558,
+      "ai": true,
+      "id": "67114ad22bf7c88cb55fe0bb18ad732accfa685f",
+      "link": "https://labs.watchtowr.com/its-37oc-and-all-we-can-think-about-is-coldfusion-adobe-coldfusion-security-bulletin-apsb26-68-cve-bonanza/",
+      "published": 1783010308.0,
+      "source": "watchTowr Labs",
+      "summary": "Adobe issued a security bulletin (APSB26‑68) addressing multiple ColdFusion vulnerabilities, including several CVEs.",
+      "tags": [
+        "#research",
+        "#exploit"
+      ],
+      "title": "It’s 37oC, And All We Can Think About Is ColdFusion (Adobe ColdFusion Security Bulletin APSB26-68 CVE Bonanza)"
+    },
+    {
+      "added_at": 1794749915.231558,
+      "ai": true,
+      "id": "b577802c68fd64b5428b8659131d3d447b046d06",
+      "link": "https://labs.watchtowr.com/citrixbleed-to-infinity-and-beyond-citrix-netscaler-pre-auth-memory-overread-cve-2026-8451/",
+      "published": 1782848158.0,
+      "source": "watchTowr Labs",
+      "summary": "Citrix NetScaler has a pre‑authentication memory overread vulnerability (CVE‑2026‑8451) that could allow attackers to read sensitive data.",
+      "tags": [
+        "#research",
+        "#exploit"
+      ],
+      "title": "CitrixBleed To Infinity And Beyond (Citrix NetScaler Pre-Auth Memory Overread CVE-2026-8451)"
+    },
+    {
+      "added_at": 1794749915.231558,
+      "ai": true,
+      "id": "4cb02bd8a6c62d99066577301c301bde1435f276",
+      "link": "https://labs.watchtowr.com/enterprise-tech-in-shell-out-progress-kemp-loadmaster-uninitialized-heap-to-pre-auth-rce-cve-2026-8037/",
+      "published": 1782761094.0,
+      "source": "watchTowr Labs",
+      "summary": "Progress Kemp LoadMaster contains a pre‑authentication remote code execution flaw (CVE‑2026‑8037) caused by an uninitialized heap.",
+      "tags": [
+        "#research",
+        "#exploit"
+      ],
+      "title": "Enterprise Tech In, Shell Out (Progress Kemp LoadMaster Uninitialized Heap to Pre-Auth RCE CVE-2026-8037)"
+    },
+    {
+      "added_at": 1794749915.231558,
+      "ai": true,
+      "id": "9961abc5c67f2804998390c7f69c0246e5985513",
+      "link": "https://github.blog/security/supply-chain-security/inside-the-advisory-database-and-what-happens-when-vulnerability-volume-breaks-records/",
+      "published": 1782749420.0,
+      "source": "Security Archives - The GitHub Blog",
+      "summary": "GitHub’s Advisory Database is processing record‑breaking numbers of vulnerability reports, explaining the drivers, response measures, and community roles.",
+      "tags": [
+        "#appsec"
+      ],
+      "title": "Inside the Advisory Database and what happens when vulnerability volume breaks records"
+    },
+    {
+      "added_at": 1794749915.231558,
+      "ai": true,
+      "id": "0eab1f6043c37736df99ad90dce3ae154c455025",
+      "link": "https://portswigger.net/blog/burp-extensibility-2026-awards-talks-and-highlights",
+      "published": 1781871494.0,
+      "source": "PortSwigger Blog",
+      "summary": "The 2026 Burp Suite Extension Awards highlighted top extensions across categories and featured talks and highlights from the community.",
+      "tags": [
+        "#appsec"
+      ],
+      "title": "Burp Extensibility 2026: Awards, Talks, and Highlights"
+    },
+    {
+      "added_at": 1794749915.231558,
+      "ai": true,
+      "id": "b1f8c189922ad99d22f819efa7f6dd2b2b50f7a2",
+      "link": "https://labs.watchtowr.com/why-use-app-level-auth-when-every-database-has-auth-splunk-enterprise-cve-2026-20253-pre-auth-rce/",
+      "published": 1781296513.0,
+      "source": "watchTowr Labs",
+      "summary": "Splunk Enterprise disclosed a pre‑authentication remote code execution vulnerability (CVE‑2026‑20253) affecting its authentication mechanism.",
+      "tags": [
+        "#research",
+        "#exploit"
+      ],
+      "title": "Why Use App-Level Auth When Every Database Has Auth? (Splunk Enterprise CVE-2026-20253 Pre-Auth RCE)"
     }
   ],
   "posted": []

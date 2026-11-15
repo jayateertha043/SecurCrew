@@ -1,7 +1,51 @@
 {
-  "generated_at": 1794693944.158332,
-  "count": 118,
+  "generated_at": 1794749915.2429023,
+  "count": 78,
   "items": [
+    {
+      "title": "Pentagon Renames CDAO ‘Super Intelligence Office’",
+      "summary": "The Pentagon renamed its Chief Data and Analytics Office to the Super Intelligence Office following a directive to replace 'artificial intelligence' with 'super intelligence' in executive branch communications.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/",
+      "published": 1794747093.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794749915.231558
+    },
+    {
+      "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
+      "summary": "Meta was fined €805 million in Italy for a Facebook Android feature that accessed users' photos and videos without explicit consent, with the feature enabled by default.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
+      "published": 1794742051.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794749915.231558
+    },
+    {
+      "title": "Week in review: Secret stealer hits GitHub repos, Claude Code turned into remote-controlled implant",
+      "summary": "A weekly security review highlighted a secret stealer targeting GitHub repositories, the transformation of Claude Code into a remote‑controlled implant, and guidance on handling leaked credentials.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/11/15/week-in-review-secret-stealer-hits-github-repos-claude-code-turned-into-remote-controlled-implant/",
+      "published": 1794733237.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794749915.231558
+    },
+    {
+      "title": "Meta Fined $887 Million in Italy Over Android Gallery Photos and Videos on Facebook",
+      "summary": "Meta faced a $887 million fine in Italy for accessing Android gallery photos and videos on Facebook without obtaining free and informed consent from users.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/meta-fined-887-million-in-italy-over-android-gallery-photos-and-videos-on-facebook/",
+      "published": 1794682800.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794749915.231558
+    },
     {
       "title": "Upcoming Speaking Engagements",
       "summary": "Speaker will present at the Catalyst Summit in Brampton, Ontario on November 18, 2026, and at QT Qonference 2026 in Toronto on November 19, 2026. Updated schedule is available on the page.",
@@ -837,511 +881,11 @@
       "ts": 1794612124.7884405
     },
     {
-      "title": "Fake Zillow pages use ClickFix NetSupport RAT to target apartment hunters",
-      "summary": "Fake Zillow apartment review pages were used to deliver ClickFix NetSupport RAT to visitors, prompting them to copy and run a PowerShell command that installed remote‑control software on Windows machines.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/13/fake-zillow-clickfix-netsupport-rat/",
-      "published": 1794525323.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794525548.2279558
-    },
-    {
-      "title": "PostgreSQL security update fixes 52 vulnerabilities, ends support for PostgreSQL 14",
-      "summary": "PostgreSQL released versions 18.7, 17.12, 16.16, 15.20, and 14.25, addressing 52 security bugs and ending support for PostgreSQL 14; the fixes target memory errors and type‑confusion vulnerabilities in PL/Perl, PL/Tcl, and text‑search functions.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/13/postgresql-security-update-november-2026/",
-      "published": 1794524733.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794525548.2279558
-    },
-    {
-      "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
-      "summary": "SCKit, a worm‑like toolkit, was deployed in recent ScreenConnect attacks against managed service providers, spreading from infected customer devices to MSP technicians’ computers and compromising additional managed networks.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
-      "published": 1794523990.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794525548.2279558
-    },
-    {
       "title": "Getting Past the Post-Quantum Cryptography Discovery Phase",
       "summary": "Many organizations lack visibility into their cryptographic assets, making it difficult to determine where to begin transitioning to post‑quantum cryptography.",
       "source": "darkreading",
       "link": "https://www.darkreading.com/cybersecurity-operations/getting-past-post-quantum-cryptography-discovery",
       "published": 1794523565.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794612124.7884405
-    },
-    {
-      "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
-      "summary": "The 'wfx-loot' campaign used 4,837 compromised GitHub accounts to scan 61,764 repositories, open pull requests, and push malware that steals cloud credentials.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
-      "published": 1794522330.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794525548.2279558
-    },
-    {
-      "title": "Feds announce seizure of $1.2 billion from Binance theft; also takedown of ‘FaceStealer’ tools",
-      "summary": "The DOJ and FBI seized $1.2 billion linked to a North Korea‑related cryptocurrency theft operation and dismantled the FaceStealer credential‑stealing tools.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/stolen-binance-crypto-recovered-doj-facestealer-disrupted",
-      "published": 1794519720.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794525548.2279558
-    },
-    {
-      "title": "Cyber Experts Weigh In: How to Fight Artex & AntiFox",
-      "summary": "Cybersecurity experts recommend immediate defense planning to counter Artex and AntiFox, which use agentic pen‑testing tools to compromise systems.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/cybersecurity-operations/cyber-experts-fight-artex-antifox",
-      "published": 1794518332.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794525548.2279558
-    },
-    {
-      "title": "Rogue remote-access campaign spread through ScreenConnect add-on, researchers say",
-      "summary": "Researchers traced a worm‑like toolkit to a ScreenConnect add‑on, prompting ConnectWise to disable five third‑party extensions across 400 partner environments.",
-      "source": "CyberScoop",
-      "link": "https://cyberscoop.com/connectwise-screenconnect-sckit-attack/",
-      "published": 1794517097.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794525548.2279558
-    },
-    {
-      "title": "Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams",
-      "summary": "A Microsoft 365 outage caused by failed server health checks disrupted Outlook, Exchange Online, and Teams; Microsoft is investigating the cause and has found no evidence of a cyberattack.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/",
-      "published": 1794516930.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794525548.2279558
-    },
-    {
-      "title": "OpenAI launches security products, tells orgs they’re doomed if they don’t use them",
-      "summary": "OpenAI introduced new security products and warned organizations that failure to adopt them could leave them vulnerable to AI‑driven cyberattacks.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500",
-      "published": 1794516525.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794525548.2279558
-    },
-    {
-      "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
-      "summary": "A widespread Microsoft 365 outage affected Outlook, Teams, and Copilot globally, with Microsoft investigating the issue and users reporting connectivity problems.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
-      "published": 1794514516.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794525548.2279558
-    },
-    {
-      "title": "Extortion Group Luna Moth Flits Into Law Firms a Second Time",
-      "summary": "Extortion group Luna Moth targets law firms that did not pay the first ransom. The attack uses social engineering to steal Microsoft access tokens.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/data-privacy/extortion-luna-moth-law-firms-second-time",
-      "published": 1794514181.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794525548.2279558
-    },
-    {
-      "title": "Lego marketplace BrickLink in pieces after 'unusual activity' takes it offline for almost a week",
-      "summary": "Lego marketplace BrickLink has been offline for almost a week after unusual activity. No confirmed cause has been announced.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/security/2026/11/12/lego-marketplace-bricklink-in-pieces-after-unusual-activity-takes-it-offline-for-almost-a-week/5309425",
-      "published": 1794514088.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794525548.2279558
-    },
-    {
-      "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
-      "summary": "N‑able zero‑day \"4EverAble2Shell\" was exploited within hours of the PoC release. At least 21 systems were affected, including 19 with the latest security update, and attackers deployed cryptocurrency miners.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
-      "published": 1794513076.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794525548.2279558
-    },
-    {
-      "title": "United to block customers from using AI agents, citing cyber threats",
-      "summary": "United Airlines has blocked customers from using AI agents. The airline cites risks of credential sharing and unintended purchases.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/united-airlines-to-block-customers-using-ai-agents",
-      "published": 1794511200.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794525548.2279558
-    },
-    {
-      "title": "Never be afraid to ask questions",
-      "summary": "Amy reflects on an anthropology course that taught the importance of asking questions to bridge cultural gaps.",
-      "source": "Cisco Talos Blog",
-      "link": "https://blog.talosintelligence.com/never-be-afraid-to-ask-questions/",
-      "published": 1794510000.0,
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794525548.2279558
-    },
-    {
-      "title": "Shipping giant Maersk says recent cyber incident affected legacy system",
-      "summary": "Maersk reports a cyber incident that affected its legacy system. The incident is part of a series of attacks on shipping ports, following ransomware on Brazil’s largest port.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/shipping-giant-maersk-says-recent-incident-affected-legacy-system",
-      "published": 1794508080.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794525548.2279558
-    },
-    {
-      "title": "Self-hosted Claude Managed Agents keeps agent credentials in your environment",
-      "summary": "Anthropic released a self‑hosted version of Claude Managed Agents. Companies can run the agent harness, sandboxes, credentials, and session history in their own environment; the private beta began on November 12.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/12/anthropic-self-hosted-claude-managed-agents/",
-      "published": 1794506820.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794525548.2279558
-    },
-    {
-      "title": "Software Samaritan revamps borked Indian certs to block smart TV ads",
-      "summary": "Software Samaritan altered Indian certificates to block Samsung TV ads and tracking. A firmware fix later removed the effect.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/security/2026/11/12/software-samaritan-revamps-borked-indian-certs-to-block-smart-tv-ads/5309467",
-      "published": 1794506575.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794525548.2279558
-    },
-    {
-      "title": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories",
-      "summary": "ThreatsDay highlighted 59 Linux kernel bugs, Falcon spyware, GSocket backdoors, and other stories. The report notes attackers using fake sites, stolen access, and trusted tools, with AI accelerating attacks.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html",
-      "published": 1794506571.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794525548.2279558
-    },
-    {
-      "title": "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access",
-      "summary": "The new SignDrop zero‑day exploits the Windows CLFS driver to give local users SYSTEM privileges. It abuses path redirection to control privileged processes.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html",
-      "published": 1794505827.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794525548.2279558
-    },
-    {
-      "title": "Don’t put Section 702 spying law renewal in defense bill, groups urge Hill leaders",
-      "summary": "Civil liberties groups urged lawmakers to exclude Section 702 renewal from the defense bill. They argue the law expands U.S. surveillance powers. The letter was sent to congressional leaders.",
-      "source": "CyberScoop",
-      "link": "https://cyberscoop.com/section-702-reauthorization-ndaa-debate/",
-      "published": 1794502800.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794525548.2279558
-    },
-    {
-      "title": "International operation dismantles malware networks, exposes 6.4 million stolen credentials",
-      "summary": "Operation Endgame dismantled ransomware supply‑chain malware, including loaders and remote‑access trojans. The action exposed 6.4 million stolen credentials. The operation was a joint international effort.",
-      "source": "CyberScoop",
-      "link": "https://cyberscoop.com/operation-endgame-malware-takedown-gootloader-stealc-europol/",
-      "published": 1794502534.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794525548.2279558
-    },
-    {
-      "title": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry",
-      "summary": "A critical vulnerability in Red Hat Quay allows attackers to read and overwrite private container images. The flaw works even with anonymous access enabled or with a valid account. Red Hat released fixed builds for eight Quay versions.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
-      "published": 1794500821.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794525548.2279558
-    },
-    {
-      "title": "European authorities take down SteaIC malware servers for second time this year",
-      "summary": "German authorities seized SteaIC malware servers linked to the Virtualine hosting provider. The takedown was the second time the servers were targeted this year. The operation involved cooperation with Dutch police and the FBI.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/european-authorities-take-down-stealic-malware-second-time",
-      "published": 1794500460.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794525548.2279558
-    },
-    {
-      "title": "ConnectWise investigates ScreenConnect breaches after reports of incidents at nearly 50 organizations",
-      "summary": "ConnectWise confirmed breaches of its ScreenConnect tool affecting almost 50 organizations. The incidents were caused by abuse of a third‑party tool. The company is investigating the incidents.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/connectwise-screenconnect-breaches-third-party-tool",
-      "published": 1794500160.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794525548.2279558
-    },
-    {
-      "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
-      "summary": "A new Windows zero‑day exploit, SignDrop, can grant attackers SYSTEM privileges. The vulnerability was discovered by researcher Abdelhamid Naceri. It allows privilege escalation on affected systems.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
-      "published": 1794499440.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794525548.2279558
-    },
-    {
-      "title": "Weak Passwords Expose SQL Servers to Cryptominer and Gh0st RAT",
-      "summary": "Fortinet identified weak passwords on SQL Server instances that enabled delivery of a cryptominer and the Gh0st RAT. The vulnerability allows attackers to install malicious software via compromised credentials.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/fortinet-sql-server-cryptominer/",
-      "published": 1794499200.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794525548.2279558
-    },
-    {
-      "title": "Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass",
-      "summary": "Citrix released patches for 12 critical flaws in NetScaler ADC, NetScaler Gateway, and Secure Access Client. Vulnerabilities could lead to denial‑of‑service or authentication bypass. CVE‑2026‑120868 has a CVSS score of 9.3.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
-      "published": 1794497929.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794525548.2279558
-    },
-    {
-      "title": "Apache Patches Critical HTTP Server RCE Found by Anthropic, Google",
-      "summary": "Apache fixed a critical remote‑code‑execution flaw, CVE‑2026‑119618, in the mod_http2 module. The race condition allows unauthenticated attackers to execute code on servers with HTTP/2 enabled. The patch was released after discovery by Anthropic and Google.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/apache-patches-critical-http-server-rce-found-by-anthropic-google/",
-      "published": 1794497911.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794525548.2279558
-    },
-    {
-      "title": "186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers",
-      "summary": "Researchers found 186 fake AI‑tool domains that redirect users to ClickFix lures, browser‑hijacking malware, and search‑hijacking extensions. The campaign, called TypoPrompting, exploits users’ trust in familiar AI names.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html",
-      "published": 1794496540.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794525548.2279558
-    },
-    {
-      "title": "WhiteArmor gang claims responsibility for latest cyber attack on shipping giant Maersk",
-      "summary": "WhiteArmor gang claims responsibility for a cyber attack that compromised a Maersk system and stole data.",
-      "source": "GRAHAM CLULEY",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/whitearmor-gang-cyberattack-maersk",
-      "published": 1794496349.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794525548.2279558
-    },
-    {
-      "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
-      "summary": "Europol and partners seized hundreds of servers and domains used by Gootloader, CastleRAT, and StealC malware operations.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
-      "published": 1794496040.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794525548.2279558
-    },
-    {
-      "title": "Picus puts AI agents on the offensive with autonomous pentesting",
-      "summary": "Picus Security launched autonomous penetration testing agents that simulate attacker behavior to identify vulnerabilities under governance controls.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/12/picus-autonomous-penetration-testing/",
-      "published": 1794495902.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794525548.2279558
-    },
-    {
-      "title": "Attackers Use Autonomous AI to Target Semiconductor, Defense and Civil Society Sectors",
-      "summary": "Unit 42 reported attackers used the open-source Cairn AI framework to autonomously breach semiconductor, defense, and civic targets.",
-      "source": "Unit 42",
-      "link": "https://unit42.paloaltonetworks.com/cairn-framework-ai-autonomous-attacks/",
-      "published": 1794495631.0,
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794525548.2279558
-    },
-    {
-      "title": "Attackers breached 10 organizations with an open-source AI pentest framework",
-      "summary": "Chinese-speaking attackers used the Cairn AI framework to conduct 25 operations, breaching 10 organizations with minimal input.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/12/cairn-autonomous-ai-cyberattacks/",
-      "published": 1794495629.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794525548.2279558
-    },
-    {
-      "title": "Your Endpoint Management Platform Could Be Your Biggest Security Risk",
-      "summary": "Compromised endpoint management platforms can become powerful attack tools; customer-controlled cryptographic authorization can mitigate this risk.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
-      "published": 1794495610.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794525548.2279558
-    },
-    {
-      "title": "Microsoft Exchange Server 2016 and 2019 enter their 'permanently vulnerable' era",
-      "summary": "Microsoft Exchange Server 2016 and 2019 are permanently vulnerable, urging immediate upgrade or migration.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/saas/2026/11/12/microsoft-exchange-server-2016-and-2019-enter-their-permanently-vulnerable-era/5309401",
-      "published": 1794495300.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794525548.2279558
-    },
-    {
-      "title": "SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths",
-      "summary": "SCKit malware exploits CVE-2026-84869 in ScreenConnect to turn remote support sessions into attack vectors.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html",
-      "published": 1794488908.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794525548.2279558
-    },
-    {
-      "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
-      "summary": "An attacker used 4,837 stolen GitHub accounts to deploy a CI secret stealer in over 1,800 repositories, harvesting credentials.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html",
-      "published": 1794465767.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794525548.2279558
-    },
-    {
-      "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
-      "summary": "A critical flaw in Apache HTTP Server's HTTP/2 module (CVE-2026-119618) allows unauthenticated remote code execution on affected versions.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
-      "published": 1794460346.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794525548.2279558
-    },
-    {
-      "title": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
-      "summary": "ConnectWise disabled five third‑party extensions after reports of unauthorized access via rogue ScreenConnect clients; no evidence of infrastructure compromise was found.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
-      "published": 1794458388.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794612124.7884405
-    },
-    {
-      "title": "Disgraced former CA eMudhra blames buggy script for hopelessly weak certificates",
-      "summary": "eMudhra's former chief attributes weak certificates to a faulty script, citing hardware shortages that forced a workaround.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/security/2026/11/12/disgraced-former-ca-emudhra-blames-buggy-script-for-hopelessly-weak-certificates/5309244",
-      "published": 1794457338.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794612124.7884405
-    },
-    {
-      "title": "Chinese AI Project Scouts Spies in Taiwan Chip Industry",
-      "summary": "The Chinese Communist Party built a big‑data system to gather information on Taiwanese chip industry personnel, potentially to target and exploit them.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/threat-intelligence/chinese-ai-project-scouts-spies-taiwan-chip-industry",
-      "published": 1794445200.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794612124.7884405
-    },
-    {
-      "title": "Smashing Security podcast #492: How hackers turned Russian cars into pumpkins",
-      "summary": "Podcast discusses car hacking via digital keys, a $550 ransom. \nAlso covers deepfake scheme that stole $130M. \nHighlights human factor vulnerabilities.",
-      "source": "GRAHAM CLULEY",
-      "link": "https://grahamcluley.com/smashing-security-podcast-492/",
-      "published": 1794443575.0,
       "tags": [],
       "ai": true,
       "status": "queued",
