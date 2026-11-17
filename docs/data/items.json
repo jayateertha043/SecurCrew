@@ -1,7 +1,389 @@
 {
-  "generated_at": 1794879811.6114624,
-  "count": 51,
+  "generated_at": 1794930016.7723002,
+  "count": 83,
   "items": [
+    {
+      "title": "Windows 11 previews remote padlock only IT can open",
+      "summary": "Windows 11 preview introduces an Intune feature that blocks normal sign‑ins unless IT unlocks the device, preserving data. A separate test build removes Offline Maps settings.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/os-platforms/2026/11/17/windows-11-previews-remote-padlock-only-it-can-open/5310402",
+      "published": 1794929340.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794930016.761272
+    },
+    {
+      "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
+      "summary": "Huntress researchers dissect EvilTokens, Knight Office, and Kali365 phishing kits that capture and replay Microsoft 365 session tokens, and outline detection and containment steps.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
+      "published": 1794927671.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794930016.761272
+    },
+    {
+      "title": "Market Research Giant Ipsos Investigating Breach of Internal System",
+      "summary": "Ipsos publicly disclosed a breach of its internal system on Nov. 16, five days after filing a complaint with authorities, and is investigating the incident.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/",
+      "published": 1794927330.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794930016.761272
+    },
+    {
+      "title": "Envoy Visitors Critical turns visitor policies into approval workflows",
+      "summary": "Envoy launched Visitors Critical, a visitor security solution that combines identity verification, screening, and approval workflows on a shared architecture for high‑consequence environments.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/11/17/envoy-visitors-critical/",
+      "published": 1794925729.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794930016.761272
+    },
+    {
+      "title": "Fandango Warns Ticket Buyers of Payment Card Data Exposure",
+      "summary": "Fandango warned customers that card numbers, CVVs, expiration dates, and email addresses used during checkout over four days in October may have been exposed.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/fandango-warns-ticket-buyers-of-payment-card-data-exposure/",
+      "published": 1794924864.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794930016.761272
+    },
+    {
+      "title": "Autistic teen hacker pleads guilty to leak of Grand Theft Auto VI footage",
+      "summary": "21‑year‑old Artion Kurtaj pleaded guilty to leaking Grand Theft Auto VI footage in 2022 before the game's release.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/autistic-teen-hacker-guilty-plea-britain-gta6-leak",
+      "published": 1794924540.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794930016.761272
+    },
+    {
+      "title": "AppGate Optimizer helps teams narrow access without disrupting users",
+      "summary": "AppGate released AppGate Optimizer GA to help organizations reduce over‑provisioned access, streamline reviews, and demonstrate least privilege to auditors by analyzing user access and recommending precise changes.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/11/17/appgate-optimizer/",
+      "published": 1794924196.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794930016.761272
+    },
+    {
+      "title": "Pakistani hackers are spying on defense workers with fake job sites",
+      "summary": "Pakistani hackers used fake job sites to target Indian job seekers, potentially aiming at defense contractors and military personnel.",
+      "source": "CyberScoop",
+      "link": "https://cyberscoop.com/pakistani-hackers-defense-workers-fake-job-sites/",
+      "published": 1794924000.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794930016.761272
+    },
+    {
+      "title": "Optimizely Flaw Exploited to Serve Malicious Code to Visitors of 178 Organizations",
+      "summary": "An attacker exploited an Optimizely vulnerability to inject malicious code into the websites of 178 organizations, delivering malware to visitors.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/optimizely-hack-malware-178-orgs/",
+      "published": 1794923100.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794930016.761272
+    },
+    {
+      "title": "Suspected ransomware affiliate extradited to US over $500 million in extortion demands",
+      "summary": "A 43‑year‑old Kazakh national, alleged to be part of the 8‑Digits Team linked to INC and Lynx ransomware, was extradited from Italy to the US for involvement in data theft from hospitals and schools and extortion demands totaling $500 million.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/11/17/8-digits-team-ransomware-suspect-extradited-us-italy/",
+      "published": 1794922924.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794930016.761272
+    },
+    {
+      "title": "'Not rocket surgery' claims researcher who found six Danfoss fridge controller zero-days in under an hour",
+      "summary": "Researchers identified six zero‑day vulnerabilities in Danfoss refrigerator controllers, including a flaw in strict authentication and missing basic exploit defenses.\nThe exploits were discovered in under an hour.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/11/17/not-rocket-surgery-claims-researcher-who-found-six-danfoss-fridge-controller-zero-days-in-under-an-hour/5310197",
+      "published": 1794922320.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794930016.761272
+    },
+    {
+      "title": "MSP ScreenConnect Servers Targeted in Month-Long Campaign",
+      "summary": "A month‑long campaign targeted MSP ScreenConnect servers, sending over 688,000 exploit requests for CVE‑2026‑84869 to run guest‑pushed files on more than 40 servers.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/msp-screenconnect-servers-targeted-in-month-long-campaign/",
+      "published": 1794921883.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794930016.761272
+    },
+    {
+      "title": "Alleged ransomware group member extradited from Italy to face US charges in hospital, school extortion case",
+      "summary": "A Kazakh national was extradited from Italy to the United States to face charges for a ransomware and extortion plot against hospitals and schools, including violations of the TAKE IT DOWN Act.",
+      "source": "CyberScoop",
+      "link": "https://cyberscoop.com/roman-khlynovskiy-ransomware-extradition/",
+      "published": 1794920639.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794930016.761272
+    },
+    {
+      "title": "Microsoft Warns of Coordinated Phishing Campaign Leveraging M365 Service Outage",
+      "summary": "Microsoft warned of a coordinated phishing campaign exploiting a Microsoft 365 service outage to harvest credentials, urging organizations to check for compromise.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/microsoft-phishing-service-outage/",
+      "published": 1794920400.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794930016.761272
+    },
+    {
+      "title": "Access Dental Management Data Breach Impacts Over 340,000",
+      "summary": "Access Dental Management suffered a data breach that exposed personal, health, and insurance data of more than 340,000 patients after a network intrusion.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/access-dental-management-data-breach-impacts-over-340000/",
+      "published": 1794920344.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794930016.761272
+    },
+    {
+      "title": "Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity",
+      "summary": "Corma raised $125 million in funding, led by NEA, to develop foundation models for defensive cybersecurity, valuing the company at $1 billion.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/corma-receives-125-million-to-train-foundation-models-for-defensive-cybersecurity/",
+      "published": 1794919914.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794930016.761272
+    },
+    {
+      "title": "N-able Kills Legacy APIs, Patches 17 N-central Zero-Days",
+      "summary": "N‑able released patches for 17 N‑central zero‑days and removed legacy APIs, addressing both newly disclosed and already exploited vulnerabilities.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/",
+      "published": 1794918525.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794930016.761272
+    },
+    {
+      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+      "summary": "Hackers bypassed GitHub SHA pinning by injecting malicious code into the Trivy security scanner, demonstrating a gap in supply‑chain defenses.\nA webinar explains remediation steps.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
+      "published": 1794918306.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794930016.761272
+    },
+    {
+      "title": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission",
+      "summary": "Apple patched an audio service flaw that allowed apps to record audio on iOS devices even after microphone permission was denied.\nThe vulnerability was disclosed by Meta researchers and fixed in August.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html",
+      "published": 1794917676.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794930016.761272
+    },
+    {
+      "title": "Opinion pollster Ipsos 'fesses up to 'cybersecurity incident'",
+      "summary": "Ipsos admitted a cybersecurity incident and hired external specialists to investigate its cause and scope.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/11/17/opinion-pollster-ipsos-fesses-up-to-cybersecurity-incident/5310405",
+      "published": 1794915840.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794930016.761272
+    },
+    {
+      "title": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
+      "summary": "Operation ShadowCloud, identified by Kaspersky, targets government sectors in Asia and Africa.\nThe campaign installs GitDoor and GraphDoor backdoors that use GitHub and SharePoint as covert command‑and‑control channels.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html",
+      "published": 1794914418.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794930016.761272
+    },
+    {
+      "title": "Microsoft testing Remote Lock for lost or stolen Windows devices",
+      "summary": "Microsoft is testing a Remote Lock feature that allows enterprise IT administrators to lock lost or stolen Windows devices without wiping them.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
+      "published": 1794914391.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794930016.761272
+    },
+    {
+      "title": "The Super Intelligence Task Force should open the door to defenders",
+      "summary": "AI models are finding software vulnerabilities faster than organizations can remediate them.\nHackerOne data shows a 131% increase in valid report backlog and rising critical findings, while remediation lags.",
+      "source": "CyberScoop",
+      "link": "https://cyberscoop.com/super-intelligence-task-force-cybersecurity-defenders-op-ed/",
+      "published": 1794913200.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794930016.761272
+    },
+    {
+      "title": "Optimizely Vulnerability Exploited to Serve Malware on Major Websites",
+      "summary": "An Optimizely vulnerability was exploited to deliver malware to major websites, including BBC, CNN, Zoom, GitLab, Salesforce, Equifax, HSBC, and IKEA.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/optimizely-vulnerability-exploited-to-serve-malware-on-major-websites/",
+      "published": 1794910940.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794930016.761272
+    },
+    {
+      "title": "ICO Issues GTA 6 Scam Warning as Release Date Nears",
+      "summary": "The UK Information Commissioner’s Office has issued a warning about Grand Theft Auto 6‑related cyber‑attacks as the game’s release date approaches.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/ico-gta-6-scam-warning-release/",
+      "published": 1794910500.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794930016.761272
+    },
+    {
+      "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
+      "summary": "A US District Judge acquitted two brothers of a $25 million Ethereum crypto‑heist, which involved exploiting a bug in the Ethereum blockchain.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
+      "published": 1794908662.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794930016.761272
+    },
+    {
+      "title": "Fully Autonomous Agentic Attacks Are Three Months Away, Google Warns",
+      "summary": "Google Threat Intelligence Group warns that fully autonomous agentic attacks could emerge in three months, signaling a shift in penetration‑testing frameworks.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/fully-autonomous-agentic-attacks/",
+      "published": 1794907800.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794930016.761272
+    },
+    {
+      "title": "Operation ShadowCloud: cloud service–based backdoors targeting government networks in Asia and Africa. Part 2",
+      "summary": "Part 2 of the Operation ShadowCloud analysis details the GraphDoor backdoor, additional plug‑ins, and technical attribution of the campaign.",
+      "source": "Securelist",
+      "link": "https://securelist.com/operation-shadowcloud-graphdoor/122005/",
+      "published": 1794902443.0,
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794930016.761272
+    },
+    {
+      "title": "Operation ShadowCloud: cloud service–based backdoors targeting government networks in Asia and Africa. Part 1",
+      "summary": "Part 1 of the Operation ShadowCloud analysis covers the initial infection stage, the GitDoor backdoor using GitHub as C2, and the shellcode families it loads.",
+      "source": "Securelist",
+      "link": "https://securelist.com/operation-shadowcloud-gitdoor/122004/",
+      "published": 1794902437.0,
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794930016.761272
+    },
+    {
+      "title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
+      "summary": "A Kazakh national extradited from Italy faces 27 years in prison in the US for ransomware attacks targeting schools, hospitals, and healthcare entities.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/",
+      "published": 1794900344.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794930016.761272
+    },
+    {
+      "title": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
+      "summary": "ConnectWise investigated unauthorized access to ScreenConnect partner environments. Customers are advised to use technician client version 26.6.5 or newer. On‑premises activity continues when third‑party extensions remain enabled.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
+      "published": 1794896967.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794930016.761272
+    },
+    {
+      "title": "Japan's Fugaku supercomputer has decidedly un-super security",
+      "summary": "Attackers attempted to log into Japan’s Fugaku supercomputer after credentials were exposed on its status page.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/11/17/japans-fugaku-supercomputer-has-decidedly-un-super-security/5310333",
+      "published": 1794893224.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794930016.761272
+    },
+    {
+      "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
+      "summary": "N‑able released a security update that patches 17 critical N‑central flaws, enhancing the Remote Monitoring and Management and Unified Endpoint Management platform.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html",
+      "published": 1794891634.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794930016.761272
+    },
+    {
+      "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+      "summary": "A supply‑chain attack on Optimizely injected malicious JavaScript into sites such as CNN, Fox News, BBC, and Salesforce, targeting cryptocurrency and payment data and exploiting iOS vulnerabilities.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
+      "published": 1794881537.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794930016.761272
+    },
     {
       "title": "QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments",
       "summary": "Unit 42 uncovered a cyberespionage campaign targeting Southeast Asian governments.\nThe attackers used PerfectPioneer RAT, modular KUKURAT, and stealth HTTP/3 C2 channels.",
@@ -216,6 +598,17 @@
       "ts": 1794841799.5446131
     },
     {
+      "title": "NIST Finalizes Post-Quantum Cryptography Guidance, GAO Offers a Reality Check",
+      "summary": "NIST finalized guidance on post‑quantum cryptography, while a GAO report notes that many agencies are behind in building defenses against the technology.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/cyber-risk/nist-finalizes-post-quantum-cryptography-guidance-gao-offers-a-reality-check",
+      "published": 1794838935.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794930016.761272
+    },
+    {
       "title": "British government ‘complacent’ on cyber threats from hostile states, peers warn",
       "summary": "A National Resilience Committee report warns that the UK Cyber Security and Resilience Bill falls short of necessary security standards. The report was released before a key vote on the legislation.",
       "source": "The Record from Recorded Future News",
@@ -411,6 +804,17 @@
       "ts": 1794841799.5446131
     },
     {
+      "title": "Is it safe to upload my passport or ID online?",
+      "summary": "The article explains how to reduce risk when uploading passports or ID documents online to third‑party services.",
+      "source": "WeLiveSecurity",
+      "link": "https://www.welivesecurity.com/en/privacy/is-it-safe-upload-passport-id-online/",
+      "published": 1794822900.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794930016.761272
+    },
+    {
       "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
       "summary": "Linux cryptomining malware SANSAR uses a modified NVIDIA library to mask GPU activity, operates via TOR, and is part of threat cluster REF3364.",
       "source": "The Hacker News",
@@ -544,50 +948,6 @@
       "ai": true,
       "status": "queued",
       "ts": 1794782165.9941583
-    },
-    {
-      "title": "Pentagon Renames CDAO ‘Super Intelligence Office’",
-      "summary": "The Pentagon renamed its Chief Data and Analytics Office to the Super Intelligence Office following a directive to replace 'artificial intelligence' with 'super intelligence' in executive branch communications.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/",
-      "published": 1794747093.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794749915.231558
-    },
-    {
-      "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
-      "summary": "Meta was fined €805 million in Italy for a Facebook Android feature that accessed users' photos and videos without explicit consent, with the feature enabled by default.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
-      "published": 1794742051.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794749915.231558
-    },
-    {
-      "title": "Week in review: Secret stealer hits GitHub repos, Claude Code turned into remote-controlled implant",
-      "summary": "A weekly security review highlighted a secret stealer targeting GitHub repositories, the transformation of Claude Code into a remote‑controlled implant, and guidance on handling leaked credentials.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/15/week-in-review-secret-stealer-hits-github-repos-claude-code-turned-into-remote-controlled-implant/",
-      "published": 1794733237.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794749915.231558
-    },
-    {
-      "title": "Meta Fined $887 Million in Italy Over Android Gallery Photos and Videos on Facebook",
-      "summary": "Meta faced a $887 million fine in Italy for accessing Android gallery photos and videos on Facebook without obtaining free and informed consent from users.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/meta-fined-887-million-in-italy-over-android-gallery-photos-and-videos-on-facebook/",
-      "published": 1794682800.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794749915.231558
     }
   ]
 }
