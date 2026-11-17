@@ -1,7 +1,209 @@
 {
-  "generated_at": 1794841799.5536547,
-  "count": 36,
+  "generated_at": 1794879811.6114624,
+  "count": 51,
   "items": [
+    {
+      "title": "QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments",
+      "summary": "Unit 42 uncovered a cyberespionage campaign targeting Southeast Asian governments.\nThe attackers used PerfectPioneer RAT, modular KUKURAT, and stealth HTTP/3 C2 channels.",
+      "source": "Unit 42",
+      "link": "https://unit42.paloaltonetworks.com/custom-rats-target-southeast-asia-governments/",
+      "published": 1794870055.0,
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794879811.600294
+    },
+    {
+      "title": "Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts",
+      "summary": "Google Project Zero announced it will shorten public disclosure timelines for vendors from 120 days to 30 days.\nThe change will roll out over the next 14 months.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/google-project-zero-bug-disclosure-deadlines",
+      "published": 1794866900.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794879811.600294
+    },
+    {
+      "title": "Infoblox customer and staff data exposed in Sharepoint breach",
+      "summary": "Infoblox is investigating a SharePoint breach that exposed customer and staff data.\nDetails of the breach remain limited.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/11/16/infoblox-customer-and-staff-data-exposed-in-sharepoint-breach/5310280",
+      "published": 1794866008.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794879811.600294
+    },
+    {
+      "title": "California sues OpenAI for Hugging Face and other incidents, alleging deception and recklessness",
+      "summary": "California filed a lawsuit against OpenAI, alleging deception and recklessness.\nThe state claims OpenAI withheld incident details from the Attorney General.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/california-sues-openai-hugging-face",
+      "published": 1794865200.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794879811.600294
+    },
+    {
+      "title": "Match fined $10 million for alleged Tinder privacy violations",
+      "summary": "Ireland’s data protection regulator fined Match Group $10 million for Tinder’s failure to provide users with their personal data upon request.\nThe fine addresses privacy violations.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/ireland-tinder-privacy-fine",
+      "published": 1794860100.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794879811.600294
+    },
+    {
+      "title": "‘123456’ has been the world’s most popular password for 7 out of the last 8 years",
+      "summary": "The password \"123456\" remains the most commonly used worldwide, dominating for 7 of the past 8 years.\nSecurity experts warn against using simple passwords.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/11/16/123456-has-been-the-worlds-most-popular-password-for-7-out-of-the-last-8-years/5310189",
+      "published": 1794853983.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794879811.600294
+    },
+    {
+      "title": "NoisyTCP bug gives Linux servers a remote crash problem 11 years in the making",
+      "summary": "A long‑standing NoisyTCP flaw can cause remote crashes on Linux servers.\nThe vulnerability affects services even when running inside a container.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/11/16/noisytcp-bug-gives-linux-servers-a-remote-crash-problem-11-years-in-the-making/5310144",
+      "published": 1794853680.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794879811.600294
+    },
+    {
+      "title": "Rapid7 Detected Exploitation of CVE-2026-90436 against Atlassian Confluence Data Center, N-able N-central also Exploited",
+      "summary": "Rapid7 identified exploitation of CVE-2026-90436, a critical unsafe reflection vulnerability in Apache Axis.\nThe flaw affected Atlassian Confluence and N‑able N‑central.",
+      "source": "Rapid7 Cybersecurity Blog",
+      "link": "https://www.rapid7.com/blog/post/etr-rapid7-detected-exploitation-of-cve-2026-90436-against-atlassian-confluence-data-center-n-able-n-central-also-exploited",
+      "published": 1794852854.0,
+      "tags": [
+        "#vulnerability"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794879811.600294
+    },
+    {
+      "title": "Italian regulator fines Meta $886 million for violating data privacy law",
+      "summary": "Italy’s data regulator fined Meta $886 million for alleged misuse of Android users’ photo galleries to recommend content.\nThe fine cites violations of privacy laws.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/italian-regulator-fines-meta-886-million-privacy",
+      "published": 1794852300.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794879811.600294
+    },
+    {
+      "title": "King Charles opens new HQ for National Cyber Force, UK’s offensive hacking unit",
+      "summary": "UK's National Cyber Force opens a new headquarters in Samlesbury, Lancashire, housing the country's offensive cyber operations team.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/uk-national-cyber-force-headquarters-opens",
+      "published": 1794849720.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794879811.600294
+    },
+    {
+      "title": "Crook turns free trials into phishing factory, as LearnWorlds sends 13,000 fake YouTube copyright notices",
+      "summary": "LearnWorlds sent 13,000 fake YouTube copyright notices to free‑trial users, created 570 bogus accounts and a fake YouTube page, but the CEO denies a breach.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/11/16/crook-turns-free-trials-into-phishing-factory-as-learnworlds-sends-13000-fake-youtube-copyright-notices/5310122",
+      "published": 1794848580.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794879811.600294
+    },
+    {
+      "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
+      "summary": "Microsoft attributes last week's global Microsoft 365 outage to a software bug introduced in July, which caused cascading failures that left over 80% of gateway servers unresponsive.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
+      "published": 1794847404.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794879811.600294
+    },
+    {
+      "title": "From view-only access to container root: five vulnerabilities in ONLYOFFICE Docs (FIXED)",
+      "summary": "Rapid7 identified five vulnerabilities in ONLYOFFICE Docs that allow an attacker with view‑only access to chain exploits and execute arbitrary OS commands as root within the DocumentServer container, also exposing hidden server files and document data.",
+      "source": "Rapid7 Cybersecurity Blog",
+      "link": "https://www.rapid7.com/blog/post/ve-from-view-only-access-to-container-root-five-vulnerabilities-in-onlyoffice-docs-fixed",
+      "published": 1794846278.0,
+      "tags": [
+        "#vulnerability"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794879811.600294
+    },
+    {
+      "title": "Typosquatters Target New Brand Domains Within 24 Hours of Registration",
+      "summary": "Symantec reports attackers target newly registered domains that mimic well‑known brands within 24 hours, using lookalike sites to facilitate malicious follow‑on activity.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/typosquatters-target-new-brand/",
+      "published": 1794844800.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794879811.600294
+    },
+    {
+      "title": "Fandango says hackers stole payment card details from checkout pages",
+      "summary": "Fandango Media confirms a data breach that exposed payment card details entered on its checkout pages and advises customers to monitor accounts.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
+      "published": 1794843861.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794879811.600294
+    },
+    {
+      "title": "Google Project Zero Sets Course for 30-Day Disclosure Deadline",
+      "summary": "Google Project Zero will adopt a 30‑day vulnerability disclosure window starting January 2028, moving from a 60‑day window in February 2027 to accelerate responsible disclosure.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/google-project-zero-sets-course-for-30-day-disclosure-deadline/",
+      "published": 1794843085.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794879811.600294
+    },
+    {
+      "title": "La Poste Subsidiary Maileva Breach Exposes 22 Million People",
+      "summary": "Maileva, a La Poste subsidiary, suffered a breach that exposed names and postal addresses of 22 million individuals.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/maileva-docaposte-22-million-breach/",
+      "published": 1794842700.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794879811.600294
+    },
     {
       "title": "7 Tips For Complying with CJIS Password and MFA Requirements",
       "summary": "The FBI’s CJIS Security Policy now requires stronger passwords and MFA for all accounts. Specops Software outlines seven steps to meet these requirements, block compromised passwords, and maintain compliance.",
@@ -386,30 +588,6 @@
       "ai": true,
       "status": "queued",
       "ts": 1794749915.231558
-    },
-    {
-      "title": "Upcoming Speaking Engagements",
-      "summary": "Speaker will present at the Catalyst Summit in Brampton, Ontario on November 18, 2026, and at QT Qonference 2026 in Toronto on November 19, 2026. Updated schedule is available on the page.",
-      "source": "Schneier on Security",
-      "link": "https://www.schneier.com/blog/archives/2026/11/upcoming-speaking-engagements-62.html",
-      "published": 1794675759.0,
-      "tags": [
-        "#opinion"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794693944.1492834
-    },
-    {
-      "title": "US disrupts North Korean campaign behind $400 million crypto theft",
-      "summary": "The U.S. government disrupted the North Korean social engineering campaign 'FaceStealer', which stole more than $400 million in cryptocurrency.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
-      "published": 1794669349.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794693944.1492834
     }
   ]
 }
