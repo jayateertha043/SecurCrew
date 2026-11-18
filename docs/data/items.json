@@ -1,7 +1,482 @@
 {
-  "generated_at": 1794962578.4056845,
-  "count": 99,
+  "generated_at": 1795015129.9187872,
+  "count": 111,
   "items": [
+    {
+      "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
+      "summary": "Attackers use deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access. Specops Software examines real attacks and recommends stronger identity verification to counter social engineering.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
+      "published": 1795014010.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795015129.9096267
+    },
+    {
+      "title": "British hacker gets 6 year sentence for $11.6M crypto theft scheme",
+      "summary": "Tyler Robert Buchanan, 24, of Dundee, Scotland, received a six‑year sentence for leading a hacking collective that stole $11.6 million in cryptocurrency. Microsoft described the group as one of the most dangerous financial criminal groups.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/british-hacker-gets-six-year-sentence-scattered-spider",
+      "published": 1795013280.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795015129.9096267
+    },
+    {
+      "title": "Achieving the impossible: XSS in innerHTML without equals",
+      "summary": "Researcher Masato Kinugawa discusses a novel XSS vulnerability that exploits innerHTML without equality checks, revealing new web security risks.",
+      "source": "PortSwigger Research",
+      "link": "https://portswigger.net/research/achieving-the-impossible-xss-in-innerhtml-without-equals",
+      "published": 1795012785.0,
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795015129.9096267
+    },
+    {
+      "title": "Open by Default, Already Occupied: Threat Actors are Renting your Compute",
+      "summary": "Threat actors are renting cloud compute resources, taking advantage of default open configurations to host malicious workloads.",
+      "source": "Rapid7 Cybersecurity Blog",
+      "link": "https://www.rapid7.com/blog/post/tr-self-hosted-ai-renting-compute-exposed-servers",
+      "published": 1795012735.0,
+      "tags": [
+        "#vulnerability"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795015129.9096267
+    },
+    {
+      "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
+      "summary": "A Chinese APT group rebuilt the EggStreme malware to evade detection, targeting Philippine government organizations with silent variants that avoid security tools.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
+      "published": 1795011088.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795015129.9096267
+    },
+    {
+      "title": "Major Brazilian Signature Apps Enable RCE & Fraud",
+      "summary": "Brazilian government‑sanctioned authentication middleware contains remote code execution bugs, enabling fraud in critical legal documents.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/major-brazilian-signature-app-rce-fraud",
+      "published": 1795010400.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795015129.9096267
+    },
+    {
+      "title": "Suspected Chinese APT Rebuilds EggStreme Malware After Exposure",
+      "summary": "After exposure, a suspected Chinese APT reassembled EggStreme malware and its infrastructure to continue operations.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/eggstreme-malware-rebuilt-after/",
+      "published": 1795010400.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795015129.9096267
+    },
+    {
+      "title": "Ice hockey governing body website defaced amid dispute over Russia's exclusion",
+      "summary": "The International Ice Hockey Federation website was defaced with a pro‑Russian message amid disputes over Russia’s exclusion from competitions.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/russia-hockey-cyberattack-championships",
+      "published": 1795009500.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795015129.9096267
+    },
+    {
+      "title": "Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization",
+      "summary": "A Russian APT used stolen identities from a hacked firm to phish a U.S. organization, demonstrating advanced social engineering tactics.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/",
+      "published": 1795008827.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795015129.9096267
+    },
+    {
+      "title": "Cyberattack hits Norwegian energy giant Equinor, disrupting internal services",
+      "summary": "Equinor is addressing a cyberattack on its IT systems that disrupted internal services, but the company reports no impact on oil and gas production.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/norway-equinor-cyberattack-energy",
+      "published": 1795008600.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795015129.9096267
+    },
+    {
+      "title": "Last of Five Defendants Sentenced in US Scattered Spider Hacking Case",
+      "summary": "British national Tyler Robert Buchanan sentenced to six years in U.S. federal prison for his role in the Scattered Spider hacking case. The Department of Justice announced the sentence. This is the final defendant to be sentenced in the case.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/last-of-five-defendants-sentenced-in-us-scattered-spider-hacking-case/",
+      "published": 1795007972.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795015129.9096267
+    },
+    {
+      "title": "Java4Shell Vulnerability Allows Remote Attacks on Major Java Apps",
+      "summary": "A critical OpenJDK flaw, known as Java4Shell, enables remote code execution on major Java applications. The U.S. Cybersecurity and Infrastructure Security Agency has urged organizations to apply mitigations. The vulnerability affects widely used Java apps.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/java4shell-vulnerability-remote/",
+      "published": 1795005300.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795015129.9096267
+    },
+    {
+      "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
+      "summary": "Researchers demonstrated that opening the PC case can reset the TPM lockout for Windows Hello and BitLocker PINs on AMD and some Intel systems. This allows attackers to guess short PINs within days. The study tested a four-digit Hello PIN and a six-digit BitLocker PIN.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
+      "published": 1795004910.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795015129.9096267
+    },
+    {
+      "title": "Microsoft Takes Perception Agentic Security Platform Out of Preview",
+      "summary": "Microsoft has moved its Perception Agentic Security Platform out of preview. Four blue team agents and the Recon Agent are now generally available. Integrations and vulnerability shielding remain in preview.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/microsoft-takes-perception-agentic-security-platform-out-of-preview/",
+      "published": 1795004063.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795015129.9096267
+    },
+    {
+      "title": "France Is Blaming Iran for the Fridge Cyberattack",
+      "summary": "France attributes a recent fridge cyberattack to Iran, citing U.S. intelligence assessments. The assessment is low confidence, indicating fragmented evidence. The attribution remains unconfirmed.",
+      "source": "Schneier on Security",
+      "link": "https://www.schneier.com/blog/archives/2026/11/france-is-blaming-iran-for-the-fridge-cyberattack.html",
+      "published": 1795003535.0,
+      "tags": [
+        "#opinion"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795015129.9096267
+    },
+    {
+      "title": "CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do",
+      "summary": "Patti Degnan, whose identity was stolen in 2006, eventually became CISO at endpoint security firm Glow. The incident shaped her career path. She discusses decision-making in security roles.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/ciso-conversations-patti-degnan-part-of-the-job-is-deciding-what-not-to-do/",
+      "published": 1795003200.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795015129.9096267
+    },
+    {
+      "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
+      "summary": "The Java4Shell vulnerability (CVE-2026-114938) permits unauthenticated remote code execution on Jira, Jenkins, Keycloak, and other applications. It exists in Java 17.0.6 and later on x86-64 CPUs with AVX-512 VBMI support. The flaw was disclosed by Calif.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
+      "published": 1795002949.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795015129.9096267
+    },
+    {
+      "title": "Dizigom illegal streaming service with 21M monthly visits shuts down",
+      "summary": "The Alliance for Creativity and Entertainment announced the shutdown of Dizigom, a Turkish piracy site with 21 million monthly visits. The closure followed a settlement agreement with the operators. The site was one of Turkey's largest illegal streaming services.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
+      "published": 1795002625.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795015129.9096267
+    },
+    {
+      "title": "Russian Espionage Actor Star Blizzard Focuses on Cloud Identities for Mass Data Theft",
+      "summary": "Google analysis indicates that the Russian espionage group Star Blizzard, also known as Cold Relic, is increasingly targeting cloud identities. The group aims to steal data and facilitate further attacks. The focus represents a shift toward cloud-based threats.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/russian-star-blizzard-cloud-data/",
+      "published": 1795002300.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795015129.9096267
+    },
+    {
+      "title": "Chrome 158 Patches 204 Vulnerabilities",
+      "summary": "Google released Chrome 158, which addresses 204 vulnerabilities. The company awarded $11,000 for five externally reported bugs and is determining payouts for 36 additional issues. The update improves browser security.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/chrome-158-patches-204-vulnerabilities/",
+      "published": 1795002202.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795015129.9096267
+    },
+    {
+      "title": "Java4Shell OpenJDK flaw: Exploitation is tricky and hinges on specific CPUs (CVE-2026-114938)",
+      "summary": "Oracle and OpenJDK fixed CVE-2026-114938, a memory corruption flaw in the Base64 decoder that could allow unauthenticated code execution on Java servers. No successful attacks have been reported.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/11/18/java4shell-openjdk-vulnerability-cve-2026-114938/",
+      "published": 1795000332.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795015129.9096267
+    },
+    {
+      "title": "Microsoft Agent Framework Releases Poisoned With Credential Stealer",
+      "summary": "Versions 1.26.1 and 1.26.2 of the agent-framework package on PyPI contain a credential stealer that captures Azure, Azure DevOps, and GitHub Actions credentials when Python starts.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/microsoft-agent-framework-releases-poisoned-with-credential-stealer/",
+      "published": 1794999939.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795015129.9096267
+    },
+    {
+      "title": "The challenge of defending against bulletproof dead drops on public blockchains",
+      "summary": "Malware command-and-control infrastructure is shifting from centralized servers to decentralized blockchain networks, creating resilient dead drops that eliminate single points of failure.",
+      "source": "Cisco Talos Blog",
+      "link": "https://blog.talosintelligence.com/the-challenge-of-defending-against-bulletproof-dead-drops-on-public-blockchains/",
+      "published": 1794999600.0,
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795015129.9096267
+    },
+    {
+      "title": "UAT-12643: Suspected North Korea-aligned actor blends blockchain resilience with targeted infostealing",
+      "summary": "Cisco Talos identified malicious infrastructure linked to a financially motivated threat group, designated UAT-12643, that uses blockchain resilience for targeted information theft.",
+      "source": "Cisco Talos Blog",
+      "link": "https://blog.talosintelligence.com/uat-12643-suspected-north-korea-aligned-actor-blends-blockchain-resilience-with-targeted-infostealing/",
+      "published": 1794999600.0,
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795015129.9096267
+    },
+    {
+      "title": "Critical Perforce Puppet RCE Exploited in Attacks",
+      "summary": "CVE-2026-115731 allows a client with any CA‑signed agent certificate to execute code on a Perforce Puppet server, and the flaw has been actively exploited in attacks.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/",
+      "published": 1794998228.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795015129.9096267
+    },
+    {
+      "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
+      "summary": "Apache released security updates for a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
+      "published": 1794998105.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795015129.9096267
+    },
+    {
+      "title": "Watchdog Warns UK Government Is Falling Short on Risk Management",
+      "summary": "A National Audit Office report indicates that the UK government’s risk management practices are inadequate, leading to poor decision making.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/watchdog-government-risk/",
+      "published": 1794994200.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795015129.9096267
+    },
+    {
+      "title": "Microsoft announces Windows Server 2028 with hardened security",
+      "summary": "Microsoft unveiled Windows Server 2028 at Ignite 2026, highlighting enhanced security features for the next major server OS release.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
+      "published": 1794993871.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795015129.9096267
+    },
+    {
+      "title": "Oracle Patches 950 Vulnerabilities With November 2026 CSPU",
+      "summary": "Oracle’s November 2026 CSPU includes over 300 patches for unauthenticated remote exploits and 62 critical‑severity fixes, addressing 950 vulnerabilities.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/oracle-patches-640-vulnerabilities-with-november-2026-cspu/",
+      "published": 1794991638.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795015129.9096267
+    },
+    {
+      "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
+      "summary": "CISA added CVE-2026-115731 to its Known Exploited Vulnerabilities catalog after reports of active exploitation of a critical Perforce Puppet RCE affecting enterprise management servers.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
+      "published": 1794990271.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795015129.9096267
+    },
+    {
+      "title": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution",
+      "summary": "CISA urges immediate patching of Oracle Java CVE-2026-114938, a critical out‑of‑bounds write that can lead to denial‑of‑service or remote code execution.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html",
+      "published": 1794990263.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795015129.9096267
+    },
+    {
+      "title": "British Scattered Spider hacker sentenced to 6 years in prison",
+      "summary": "A leader of the Scattered Spider cybercrime collective was sentenced to six years in U.S. prison for cryptocurrency theft and conspiracy to hack multiple companies.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
+      "published": 1794990258.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795015129.9096267
+    },
+    {
+      "title": "Java4Shell Vulnerability Puts Many Enterprise Applications at Risk of Takeover",
+      "summary": "Java4Shell allows remote code execution in applications such as Jira, Jenkins, and Keycloak; real‑world exploitation requires target‑specific work.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/",
+      "published": 1794987814.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795015129.9096267
+    },
+    {
+      "title": "Deutsche Telekom IoT’s CEO on securing devices that run for 20 years",
+      "summary": "Deutsche Telekom IoT CEO Christian Schwalbe discusses risks of devices that remain in service for 15–20 years and how the EU Cyber Resilience Act and traffic‑pattern analysis can help secure them.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/11/18/christian-schwalbe-deutsche-telekom-iot-security/",
+      "published": 1794987025.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795015129.9096267
+    },
+    {
+      "title": "Once a scam ends the victim blaming begins",
+      "summary": "Cyberpsychologist Dr. Nicola Fox Hamilton highlights how blaming scam victims deepens harm and discourages future reporting, emphasizing the psychological impact of phishing.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/11/18/nicola-fox-hamilton-victim-blaming-scams-phishing/",
+      "published": 1794985233.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795015129.9096267
+    },
+    {
+      "title": "The forced audit: how AuditTeam’s OpsAgent framework masks ransomware as consulting",
+      "summary": "AuditTeam’s OpsAgent ransomware uses a forced audit model, demanding consulting fees to delete stolen data, and is distributed via a Rust rewrite of the implant.",
+      "source": "Securelist",
+      "link": "https://securelist.com/auditteam-opsagent-forced-audit/122031/",
+      "published": 1794985207.0,
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795015129.9096267
+    },
+    {
+      "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
+      "summary": "Threat actors released malicious versions of Microsoft’s agent‑framework PyPI package (1.26.1 and 1.26.2) that install a credential stealer on every Python startup, targeting cloud credentials.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
+      "published": 1794984326.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795015129.9096267
+    },
+    {
+      "title": "TapMap: Free, open-source network map",
+      "summary": "TapMap is a free desktop application that visualizes a computer’s active network connections on an interactive world map using local GeoIP data.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/11/18/tapmap-network-map-open-source/",
+      "published": 1794983424.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795015129.9096267
+    },
+    {
+      "title": "BubbleLoader malware turns copies of WinRAR and Windows Media Player into carriers",
+      "summary": "BubbleLoader modifies the entry point of legitimate Windows programs, such as WinRAR and Windows Media Player, embedding hidden code and PNG images to act as carriers for additional malware.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/11/18/winrar-bubbleloader-malware/",
+      "published": 1794981603.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795015129.9096267
+    },
+    {
+      "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
+      "summary": "Cold Relic leveraged stolen Google Workspace data to compromise a second U.S. organization, using a single cloud breach as a launchpad for linked intrusions.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html",
+      "published": 1794981484.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795015129.9096267
+    },
+    {
+      "title": "Uber says nearly 150,000 impacted by third-party breach",
+      "summary": "Uber notified that a third‑party service provider stole internal credentials and accessed Uber’s account, affecting about 150,000 users.\nThe breach was discovered on October 9.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/uber-says-150000-impacted-third-party-breach",
+      "published": 1794964800.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794879811.600294
+    },
     {
       "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
       "summary": "Java4Shell vulnerability in OpenJDK allows unauthenticated remote code execution on popular enterprise Java applications such as Jenkins, Atlassian Jira, Confluence, and Keycloak.",
@@ -787,17 +1262,6 @@
       "ts": 1794879811.600294
     },
     {
-      "title": "7 Tips For Complying with CJIS Password and MFA Requirements",
-      "summary": "The FBI’s CJIS Security Policy now requires stronger passwords and MFA for all accounts. Specops Software outlines seven steps to meet these requirements, block compromised passwords, and maintain compliance.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/",
-      "published": 1794841271.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794841799.5446131
-    },
-    {
       "title": "NIST Finalizes Post-Quantum Cryptography Guidance, GAO Offers a Reality Check",
       "summary": "NIST finalized guidance on post‑quantum cryptography, while a GAO report notes that many agencies are behind in building defenses against the technology.",
       "source": "darkreading",
@@ -809,201 +1273,6 @@
       "ts": 1794930016.761272
     },
     {
-      "title": "British government ‘complacent’ on cyber threats from hostile states, peers warn",
-      "summary": "A National Resilience Committee report warns that the UK Cyber Security and Resilience Bill falls short of necessary security standards. The report was released before a key vote on the legislation.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/british-government-complacent-foreign-cyber-threats",
-      "published": 1794838860.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794841799.5446131
-    },
-    {
-      "title": "EU sanctions pro-Russia hackers, two dozen staff at Kremlin disinformation contractor",
-      "summary": "The EU sanctioned a pro‑Russian hacktivist group and about 24 employees of the Moscow firm behind the Doppelgänger disinformation campaign.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/russia-europe-sanctions-doppelganger",
-      "published": 1794838500.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794841799.5446131
-    },
-    {
-      "title": "Lithuanian customs agency restores services after cyberattack, possible data breach",
-      "summary": "Lithuanian Customs shut down its main user‑management portal after a November 10 attack. Services were restored over the weekend, but a potential data breach remains possible.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/lithuania-customs-agency-cyberattack",
-      "published": 1794837960.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794841799.5446131
-    },
-    {
-      "title": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
-      "summary": "Microsoft announced that Windows Server 2016 will reach end of support in 60 days and will no longer receive security updates. Customers are urged to migrate to supported versions.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/",
-      "published": 1794833598.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794841799.5446131
-    },
-    {
-      "title": "Telegram Widgets Hit by RCE Demos, Malware Warning Days After Launch",
-      "summary": "Kaspersky reports that Telegram’s new widgets may be exploitable to deliver WebRAT. Researchers demonstrated remote code execution, while Telegram founder disputes the claims.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/telegram-widgets-hit-by-rce-demos-malware-warning-days-after-launch/",
-      "published": 1794833283.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794841799.5446131
-    },
-    {
-      "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
-      "summary": "Six vulnerabilities in Danfoss AK‑SM800A refrigeration controllers allow remote takeover without authentication. No patch is available, and firmware 5.4.0 does not fix the flaws.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
-      "published": 1794832461.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794841799.5446131
-    },
-    {
-      "title": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware",
-      "summary": "A new variant of the CoffeeLoader malware was discovered. The installer drops a patched '7z.dll' into a temporary folder and runs it via rundll32.exe to deliver additional payloads.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html",
-      "published": 1794832398.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794841799.5446131
-    },
-    {
-      "title": "Google Project Zero to Cut Disclosure Deadline to 30 Days by 2028",
-      "summary": "Google Project Zero will publish bug details within 30 days of reporting, regardless of whether the issue is fixed, by 2028.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/project-zero-disclosure-deadline/",
-      "published": 1794831300.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794841799.5446131
-    },
-    {
-      "title": "Usable Security at Luxury Hotels",
-      "summary": "Attackers used fake booking emails to access a hotel reservations inbox, copy legitimate refund requests, and approve fraudulent ones. The incident shows that simple 'don’t click links' advice is insufficient in hospitality settings.",
-      "source": "Schneier on Security",
-      "link": "https://www.schneier.com/blog/archives/2026/11/usable-security-at-luxury-hotels.html",
-      "published": 1794830682.0,
-      "tags": [
-        "#opinion"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794841799.5446131
-    },
-    {
-      "title": "Microsoft previews remote lock for lost or stolen Windows devices",
-      "summary": "Microsoft previewing Remote Lock for Windows 10/11 and Windows Server 2016‑2022 via Intune. The feature locks a device without wiping, signs out sessions, hides sign‑in options, and displays a lock screen.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/16/microsoft-remote-lock-feature-preview/",
-      "published": 1794830274.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794841799.5446131
-    },
-    {
-      "title": "Australian retail giant Coles investigates cybersecurity incident",
-      "summary": "Coles Group is investigating a cybersecurity incident that did not affect its stores. The investigation is ongoing.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/",
-      "published": 1794827889.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794841799.5446131
-    },
-    {
-      "title": "Recent UnrealIRCd Vulnerability Exploited in Attacks",
-      "summary": "CVE‑2026‑114713 is a high‑severity flaw in UnrealIRCd that lets attackers execute commands with server/IRCOp privileges. It has been exploited in recent attacks.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/recent-unrealircd-vulnerability-exploited-in-attacks/",
-      "published": 1794827748.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794841799.5446131
-    },
-    {
-      "title": "Hackers Probe Newly Disclosed Flaws in Copeland Refrigeration Controllers",
-      "summary": "Vulncheck disclosed 14 vulnerabilities in Copeland XWEB EVO refrigeration controllers; two were quickly targeted by threat actors.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/hackers-probe-newly-disclosed-flaws-in-copeland-refrigeration-controllers/",
-      "published": 1794827142.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794841799.5446131
-    },
-    {
-      "title": "Uber Data Breach Impacts 150,000 People",
-      "summary": "A third‑party services provider was compromised, exposing names, addresses, and driver’s license numbers of 150,000 Uber drivers.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/uber-data-breach-impacts-150000-people/",
-      "published": 1794826968.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794841799.5446131
-    },
-    {
-      "title": "Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs",
-      "summary": "Anthropic released Claude Mythos 5.2 and Fable 5.2 with coding and reasoning improvements. Security task handling and bug detection performance were noted.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/",
-      "published": 1794826800.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794841799.5446131
-    },
-    {
-      "title": "Unpatched GeoVision camera software gave cryptojackers a side door into 13 organizations",
-      "summary": "Unpatched GeoVision camera management software was used by attackers to access Windows machines in 13 organizations, turning them into cryptocurrency miners between Nov 8‑10.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/16/geovision-camera-software-vulnerabilities/",
-      "published": 1794823677.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794841799.5446131
-    },
-    {
-      "title": "Information Commissioner’s Office Receives 300+ Reports of Medical Snooping",
-      "summary": "The UK Information Commissioner’s Office received over 300 reports of unauthorized insider access to medical files in 2024.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/ico-300-reports-of-medical-snooping/",
-      "published": 1794823200.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794841799.5446131
-    },
-    {
       "title": "Is it safe to upload my passport or ID online?",
       "summary": "The article explains how to reduce risk when uploading passports or ID documents online to third‑party services.",
       "source": "WeLiveSecurity",
@@ -1013,130 +1282,6 @@
       "ai": true,
       "status": "queued",
       "ts": 1794930016.761272
-    },
-    {
-      "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
-      "summary": "Linux cryptomining malware SANSAR uses a modified NVIDIA library to mask GPU activity, operates via TOR, and is part of threat cluster REF3364.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
-      "published": 1794821577.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794841799.5446131
-    },
-    {
-      "title": "New NoisyTCP vulnerability lets attackers crash Linux servers",
-      "summary": "NoisyTCP, an 11‑year‑old Linux kernel flaw, affects most distributions and can crash Nginx, Apache, and SSH servers with default configurations.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/",
-      "published": 1794821404.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794841799.5446131
-    },
-    {
-      "title": "Rspamd 4.3.0 stops forwarded mail from softening DMARC rejects",
-      "summary": "Rspamd 4.3.0 fixes bugs that let unauthenticated attackers crash workers or bypass authentication. The update also prevents forwarded mail from softening DMARC rejects.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/16/rspamd-4-3-0-released/",
-      "published": 1794821244.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794841799.5446131
-    },
-    {
-      "title": "Tor Updates DoS Defenses Again as Relay Attacks Continue",
-      "summary": "Tor 0.4.9.17 patches multiple security issues, including a flaw in IPv6 DoS protection, to counter ongoing relay attacks.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/tor-updates-dos-defenses-again-as-relay-attacks-continue/",
-      "published": 1794819332.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794841799.5446131
-    },
-    {
-      "title": "Microsoft pushes Windows emergency updates to fix activation failures",
-      "summary": "Microsoft released emergency out‑of‑band updates to correct Windows activation and licensing failures caused by recent security patches.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/",
-      "published": 1794817612.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794841799.5446131
-    },
-    {
-      "title": "Microsoft Rules Out Cyberattack in Outage, Warns of Phishing Campaign",
-      "summary": "Microsoft stated the outage was not caused by a cyberattack and warned of phishing emails that impersonated Microsoft 365 notices referencing the incident.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/microsoft-rules-out-cyberattack-in-outage-warns-of-phishing-campaign/",
-      "published": 1794816912.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794841799.5446131
-    },
-    {
-      "title": "A USB worm’s second life: Retadup spreading CoffeeLoader",
-      "summary": "The old USB worm Retadup, previously seized, is now being used to distribute a new version of the CoffeeLoader malware.",
-      "source": "Securelist",
-      "link": "https://securelist.com/retadup-delivers-coffeeloader/121908/",
-      "published": 1794812437.0,
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794841799.5446131
-    },
-    {
-      "title": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
-      "summary": "Kaspersky found that the BO Team exploited Log4Shell to compromise a Russian developer’s VMware vCenter and code‑signing server over several months.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
-      "published": 1794812014.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794841799.5446131
-    },
-    {
-      "title": "Google Project Zero will disclose bugs after 90 days, fixed or not",
-      "summary": "Google’s Project Zero will publish discovered vulnerabilities 90 days after reporting them, regardless of vendor fixes, with shorter deadlines in 2027 and 2028.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/16/google-project-zero-disclosure-policy/",
-      "published": 1794810602.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794841799.5446131
-    },
-    {
-      "title": "Ory Hydra: Open-source OAuth 2.0 server and OpenID Connect provider",
-      "summary": "Ory Hydra is an open‑source OAuth 2.0 and OpenID Connect server that issues and validates tokens without storing usernames or passwords, relying on external identity systems.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/16/ory-hydra-oauth-server-open-source/",
-      "published": 1794808829.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794841799.5446131
-    },
-    {
-      "title": "Product showcase: ESET Mobile Security brings phishing protection and security checks to iOS",
-      "summary": "ESET Mobile Security for iOS provides link verification, device security scans, and Wi‑Fi assessment on iOS 18.0+, free to use without an account.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/16/product-showcase-eset-mobile-security-ios/",
-      "published": 1794807019.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794841799.5446131
     }
   ]
 }
