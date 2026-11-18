@@ -1,7 +1,196 @@
 {
-  "generated_at": 1794930016.7723002,
-  "count": 83,
+  "generated_at": 1794962578.4056845,
+  "count": 99,
   "items": [
+    {
+      "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
+      "summary": "Java4Shell vulnerability in OpenJDK allows unauthenticated remote code execution on popular enterprise Java applications such as Jenkins, Atlassian Jira, Confluence, and Keycloak.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
+      "published": 1794956661.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794962578.396877
+    },
+    {
+      "title": "Optimizely Malware Attacks Highlight Third-Party Vendor Risks",
+      "summary": "At least 178 organizations were exposed to hydra‑like malware through a third‑party platform, highlighting risks from external vendors.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks",
+      "published": 1794954862.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794962578.396877
+    },
+    {
+      "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
+      "summary": "Credentials and secrets published in public Docker Hub images are being extracted and exploited within as little as eight seconds of release.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
+      "published": 1794950837.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794962578.396877
+    },
+    {
+      "title": "Website management platform Optimizely confirms hackers put malicious code into customer sites",
+      "summary": "Optimizely confirmed that malicious JavaScript was injected into 178 customer websites via its Web experimentation platform.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/optimizely-malicious-code-customer-sites",
+      "published": 1794950400.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794962578.396877
+    },
+    {
+      "title": "GSA says post-quantum work on PIV cards shows new encryption can work on old tech",
+      "summary": "The GSA reports that post‑quantum encryption can be implemented on legacy PIV smart cards, addressing compatibility and visibility gaps.",
+      "source": "CyberScoop",
+      "link": "https://cyberscoop.com/gsa-post-quantum-encryption-piv-cards/",
+      "published": 1794950385.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794962578.396877
+    },
+    {
+      "title": "How CISA is prioritizing companies for talks about security improvements",
+      "summary": "CISA is prioritizing outreach to companies to discuss security improvements, as highlighted in a recent FedTalks presentation.",
+      "source": "CyberScoop",
+      "link": "https://cyberscoop.com/cisa-100-critical-infrastructure-companies-fed-talks/",
+      "published": 1794948779.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794962578.396877
+    },
+    {
+      "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
+      "summary": "Japan's RIKEN Center has taken the Fugaku supercomputer offline following a security breach.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
+      "published": 1794948681.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794962578.396877
+    },
+    {
+      "title": "Borrowed Code, Real Consequences: What OPTIMJACK Teaches Us",
+      "summary": "The OPTIMJACK supply‑chain attack shows how a compromised vendor script can expose websites, emphasizing the need for strict segmentation.",
+      "source": "Unit 42",
+      "link": "https://unit42.paloaltonetworks.com/optimjack-supply-chain-attack/",
+      "published": 1794948194.0,
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794962578.396877
+    },
+    {
+      "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
+      "summary": "Researchers demonstrated two remote code execution exploits that bypass Telegram's recent Android security filter via malicious widgets.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
+      "published": 1794944060.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794962578.396877
+    },
+    {
+      "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
+      "summary": "Apple reported service disruptions affecting iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
+      "published": 1794943447.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794962578.396877
+    },
+    {
+      "title": "Kazakh ransomware hacking suspect extradited from Italy",
+      "summary": "Roman Khlynovskiy, accused of ransomware attacks on healthcare, schools, and businesses, was extradited from Italy to the U.S. He is linked to the \"8 Digits Team\" and associated with INC and Lynx.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/kazakh-suspected-extradited-charges-8-digits-team-inc-lynx",
+      "published": 1794942540.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794962578.396877
+    },
+    {
+      "title": "CVE-2026-114938: Reported Critical Pre-authentication Remote Code Execution in Java 17",
+      "summary": "CVE-2026-114938 is a memory corruption vulnerability in Java 17+ that could allow unauthenticated remote code execution. The vulnerability has a preliminary CVSSv4 score of 9.2 and is under investigation by Oracle and OpenJDK.",
+      "source": "Rapid7 Cybersecurity Blog",
+      "link": "https://www.rapid7.com/blog/post/etr-cve-2026-114938-reported-critical-pre-authentication-remote-code-execution-java-17",
+      "published": 1794940015.0,
+      "tags": [
+        "#vulnerability"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794962578.396877
+    },
+    {
+      "title": "Tor releases emergency update amid ongoing DDoS attack",
+      "summary": "The Tor Project issued a security update for its relay software to mitigate an ongoing distributed denial‑of‑service attack. The update aims to protect relays and operators from the attack’s impact.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
+      "published": 1794938655.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794962578.396877
+    },
+    {
+      "title": "California fines Hertz $1.5 million for breaking state data privacy law",
+      "summary": "Hertz agreed to a $1.5 million fine imposed by the California Privacy Protection Agency for violating state data privacy regulations. The company will adjust its business practices to comply with the law.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/california-fines-hertz-state-data-privacy-law",
+      "published": 1794935580.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794962578.396877
+    },
+    {
+      "title": "NSA Net, agency’s classified internal network, faces unspecified disruptions",
+      "summary": "The NSA’s classified internal network, NSA Net, experienced disruptions, prompting staggered arrivals at Fort Meade headquarters. Technicians are working to restore full network functionality.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/nsa-net-disruptions",
+      "published": 1794932460.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794962578.396877
+    },
+    {
+      "title": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool",
+      "summary": "Flipper Devices launched a crowdfunding campaign for the Flipper One, a $399 portable Linux computer and networking multi‑tool. The device builds on the company’s popular Flipper Zero pentesting hardware.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
+      "published": 1794931200.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794962578.396877
+    },
     {
       "title": "Windows 11 previews remote padlock only IT can open",
       "summary": "Windows 11 preview introduces an Intune feature that blocks normal sign‑ins unless IT unlocks the device, preserving data. A separate test build removes Offline Maps settings.",
@@ -12,6 +201,17 @@
       "ai": true,
       "status": "queued",
       "ts": 1794930016.761272
+    },
+    {
+      "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
+      "summary": "Oracle will release patches for 11 Java SE vulnerabilities that may allow unauthenticated remote code execution. The flaws carry a maximum CVSS 3.1 score of 8.1 and include the critical CVE-2026-114938.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
+      "published": 1794928656.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1794962578.396877
     },
     {
       "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
@@ -937,17 +1137,6 @@
       "ai": true,
       "status": "queued",
       "ts": 1794841799.5446131
-    },
-    {
-      "title": "TSMC employee data breach linked to cloud provider",
-      "summary": "TSMC confirmed a breach of employee data. A threat actor uploaded 6.9 GB of personal information to an online auction. The leak involved sensitive employee records.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
-      "published": 1794756228.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794782165.9941583
     }
   ]
 }
