@@ -1,479 +1,6 @@
 {
   "pending": [
     {
-      "added_at": 1794879811.600294,
-      "ai": true,
-      "id": "9409189d8358b1c8624b7b0426e47a17ec28c61d",
-      "link": "https://therecord.media/uber-says-150000-impacted-third-party-breach",
-      "published": 1794964800.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "Uber notified that a third‑party service provider stole internal credentials and accessed Uber’s account, affecting about 150,000 users.\nThe breach was discovered on October 9.",
-      "tags": [
-        "#news"
-      ],
-      "title": "Uber says nearly 150,000 impacted by third-party breach"
-    },
-    {
-      "added_at": 1794879811.600294,
-      "ai": true,
-      "id": "ccf02002c5acae853deadfdce22d458c3079c17a",
-      "link": "https://unit42.paloaltonetworks.com/custom-rats-target-southeast-asia-governments/",
-      "published": 1794870055.0,
-      "source": "Unit 42",
-      "summary": "Unit 42 uncovered a cyberespionage campaign targeting Southeast Asian governments.\nThe attackers used PerfectPioneer RAT, modular KUKURAT, and stealth HTTP/3 C2 channels.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments"
-    },
-    {
-      "added_at": 1794879811.600294,
-      "ai": true,
-      "id": "99636bab8a5ad1d969c0e55cdf3c954cfea143cc",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/google-project-zero-bug-disclosure-deadlines",
-      "published": 1794866900.0,
-      "source": "darkreading",
-      "summary": "Google Project Zero announced it will shorten public disclosure timelines for vendors from 120 days to 30 days.\nThe change will roll out over the next 14 months.",
-      "tags": [],
-      "title": "Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts"
-    },
-    {
-      "added_at": 1794879811.600294,
-      "ai": true,
-      "id": "59d64c7e0e97e0c87db17830836a42ba025f5665",
-      "link": "https://www.theregister.com/security/2026/11/16/infoblox-customer-and-staff-data-exposed-in-sharepoint-breach/5310280",
-      "published": 1794866008.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "Infoblox is investigating a SharePoint breach that exposed customer and staff data.\nDetails of the breach remain limited.",
-      "tags": [],
-      "title": "Infoblox customer and staff data exposed in Sharepoint breach"
-    },
-    {
-      "added_at": 1794879811.600294,
-      "ai": true,
-      "id": "a9e37544436369566a699087728dba68914ac62c",
-      "link": "https://therecord.media/california-sues-openai-hugging-face",
-      "published": 1794865200.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "California filed a lawsuit against OpenAI, alleging deception and recklessness.\nThe state claims OpenAI withheld incident details from the Attorney General.",
-      "tags": [
-        "#news"
-      ],
-      "title": "California sues OpenAI for Hugging Face and other incidents, alleging deception and recklessness"
-    },
-    {
-      "added_at": 1794879811.600294,
-      "ai": true,
-      "id": "460686b6b1c6fef030b2cfbb2c6f58d47ee7656a",
-      "link": "https://therecord.media/ireland-tinder-privacy-fine",
-      "published": 1794860100.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "Ireland’s data protection regulator fined Match Group $10 million for Tinder’s failure to provide users with their personal data upon request.\nThe fine addresses privacy violations.",
-      "tags": [
-        "#news"
-      ],
-      "title": "Match fined $10 million for alleged Tinder privacy violations"
-    },
-    {
-      "added_at": 1794879811.600294,
-      "ai": true,
-      "id": "74efbb3ec88cfd29306f17882cc2f1c367acc32f",
-      "link": "https://www.theregister.com/security/2026/11/16/123456-has-been-the-worlds-most-popular-password-for-7-out-of-the-last-8-years/5310189",
-      "published": 1794853983.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "The password \"123456\" remains the most commonly used worldwide, dominating for 7 of the past 8 years.\nSecurity experts warn against using simple passwords.",
-      "tags": [],
-      "title": "‘123456’ has been the world’s most popular password for 7 out of the last 8 years"
-    },
-    {
-      "added_at": 1794879811.600294,
-      "ai": true,
-      "id": "37fc6c082fdbd9f0d698426a261acf9cff082a25",
-      "link": "https://www.theregister.com/security/2026/11/16/noisytcp-bug-gives-linux-servers-a-remote-crash-problem-11-years-in-the-making/5310144",
-      "published": 1794853680.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "A long‑standing NoisyTCP flaw can cause remote crashes on Linux servers.\nThe vulnerability affects services even when running inside a container.",
-      "tags": [],
-      "title": "NoisyTCP bug gives Linux servers a remote crash problem 11 years in the making"
-    },
-    {
-      "added_at": 1794879811.600294,
-      "ai": true,
-      "id": "1928c420c5ba3015d9164f49ba7c1e0d60b9b3a6",
-      "link": "https://www.rapid7.com/blog/post/etr-rapid7-detected-exploitation-of-cve-2026-90436-against-atlassian-confluence-data-center-n-able-n-central-also-exploited",
-      "published": 1794852854.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "Rapid7 identified exploitation of CVE-2026-90436, a critical unsafe reflection vulnerability in Apache Axis.\nThe flaw affected Atlassian Confluence and N‑able N‑central.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "Rapid7 Detected Exploitation of CVE-2026-90436 against Atlassian Confluence Data Center, N-able N-central also Exploited"
-    },
-    {
-      "added_at": 1794879811.600294,
-      "ai": true,
-      "id": "4b4b8357bb6643a1febd2fbc0198828ed2aa78fa",
-      "link": "https://therecord.media/italian-regulator-fines-meta-886-million-privacy",
-      "published": 1794852300.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "Italy’s data regulator fined Meta $886 million for alleged misuse of Android users’ photo galleries to recommend content.\nThe fine cites violations of privacy laws.",
-      "tags": [
-        "#news"
-      ],
-      "title": "Italian regulator fines Meta $886 million for violating data privacy law"
-    },
-    {
-      "added_at": 1794879811.600294,
-      "ai": true,
-      "id": "2ebc983e1e5fe4b4298c84e442dd7af7ba297bb6",
-      "link": "https://therecord.media/uk-national-cyber-force-headquarters-opens",
-      "published": 1794849720.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "UK's National Cyber Force opens a new headquarters in Samlesbury, Lancashire, housing the country's offensive cyber operations team.",
-      "tags": [
-        "#news"
-      ],
-      "title": "King Charles opens new HQ for National Cyber Force, UK’s offensive hacking unit"
-    },
-    {
-      "added_at": 1794879811.600294,
-      "ai": true,
-      "id": "0a957c945abfc8fe59ed4b25d85b3d85256d469d",
-      "link": "https://www.theregister.com/security/2026/11/16/crook-turns-free-trials-into-phishing-factory-as-learnworlds-sends-13000-fake-youtube-copyright-notices/5310122",
-      "published": 1794848580.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "LearnWorlds sent 13,000 fake YouTube copyright notices to free‑trial users, created 570 bogus accounts and a fake YouTube page, but the CEO denies a breach.",
-      "tags": [],
-      "title": "Crook turns free trials into phishing factory, as LearnWorlds sends 13,000 fake YouTube copyright notices"
-    },
-    {
-      "added_at": 1794879811.600294,
-      "ai": true,
-      "id": "18b00fe2b40c75f5775251690dd3cb31f76bbebd",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
-      "published": 1794847404.0,
-      "source": "BleepingComputer",
-      "summary": "Microsoft attributes last week's global Microsoft 365 outage to a software bug introduced in July, which caused cascading failures that left over 80% of gateway servers unresponsive.",
-      "tags": [],
-      "title": "Microsoft says months-old bug caused global Microsoft 365 outage"
-    },
-    {
-      "added_at": 1794879811.600294,
-      "ai": true,
-      "id": "77db028e3603c6c9d17f8799751ba031071fb53a",
-      "link": "https://www.rapid7.com/blog/post/ve-from-view-only-access-to-container-root-five-vulnerabilities-in-onlyoffice-docs-fixed",
-      "published": 1794846278.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "Rapid7 identified five vulnerabilities in ONLYOFFICE Docs that allow an attacker with view‑only access to chain exploits and execute arbitrary OS commands as root within the DocumentServer container, also exposing hidden server files and document data.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "From view-only access to container root: five vulnerabilities in ONLYOFFICE Docs (FIXED)"
-    },
-    {
-      "added_at": 1794879811.600294,
-      "ai": true,
-      "id": "f50b797c968d423ec7d8a1c16deffc2f32ec2cca",
-      "link": "https://www.infosecurity-magazine.com/news/typosquatters-target-new-brand/",
-      "published": 1794844800.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "Symantec reports attackers target newly registered domains that mimic well‑known brands within 24 hours, using lookalike sites to facilitate malicious follow‑on activity.",
-      "tags": [],
-      "title": "Typosquatters Target New Brand Domains Within 24 Hours of Registration"
-    },
-    {
-      "added_at": 1794879811.600294,
-      "ai": true,
-      "id": "d29e040f404457ab5b7327c8c63a55cda7e6972c",
-      "link": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
-      "published": 1794843861.0,
-      "source": "BleepingComputer",
-      "summary": "Fandango Media confirms a data breach that exposed payment card details entered on its checkout pages and advises customers to monitor accounts.",
-      "tags": [],
-      "title": "Fandango says hackers stole payment card details from checkout pages"
-    },
-    {
-      "added_at": 1794879811.600294,
-      "ai": true,
-      "id": "eea617c7ce17874575f20cb1994802d6fa59f9ca",
-      "link": "https://www.securityweek.com/google-project-zero-sets-course-for-30-day-disclosure-deadline/",
-      "published": 1794843085.0,
-      "source": "SecurityWeek",
-      "summary": "Google Project Zero will adopt a 30‑day vulnerability disclosure window starting January 2028, moving from a 60‑day window in February 2027 to accelerate responsible disclosure.",
-      "tags": [],
-      "title": "Google Project Zero Sets Course for 30-Day Disclosure Deadline"
-    },
-    {
-      "added_at": 1794879811.600294,
-      "ai": true,
-      "id": "dcfc43b1ba46a48d89a5a0a61184caa0b5c83464",
-      "link": "https://www.infosecurity-magazine.com/news/maileva-docaposte-22-million-breach/",
-      "published": 1794842700.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "Maileva, a La Poste subsidiary, suffered a breach that exposed names and postal addresses of 22 million individuals.",
-      "tags": [],
-      "title": "La Poste Subsidiary Maileva Breach Exposes 22 Million People"
-    },
-    {
-      "added_at": 1794879811.600294,
-      "ai": true,
-      "id": "d3f5f59ecb3bcdf47b4a71865e74d29e4ac26ee3",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/10/anthropics-super-bug-finding-mythos-model-is-going-into-cisco-and-ibm-products/5308616",
-      "published": 1794268820.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "Anthropic's Mythos model, a powerful bug‑finding AI, will be integrated into Cisco and IBM security products, providing the capability without direct access to the model.",
-      "tags": [],
-      "title": "Anthropic's super bug-finding Mythos model is going into Cisco and IBM products"
-    },
-    {
-      "added_at": 1794879811.600294,
-      "ai": true,
-      "id": "47defdd6921fad58dc6bf3d3ec5107cdc100fda5",
-      "link": "https://www.theregister.com/security/2026/11/09/france-blames-iran-for-supermarket-hack-meltdowns/5308591",
-      "published": 1794264321.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "France attributes a series of supermarket hacking incidents to Iran, describing the attacks as the first purely sabotage‑oriented cyber offensive campaign on national territory.",
-      "tags": [],
-      "title": "France blames Iran for supermarket hack meltdowns"
-    },
-    {
-      "added_at": 1794879811.600294,
-      "ai": true,
-      "id": "907718f8d43040ed6de66bcc2c09bb4e02589be0",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/cisa-announces-enhanced-reporting-form-cyber-incidents",
-      "published": 1794260300.0,
-      "source": "darkreading",
-      "summary": "CISA releases a new incident reporting form. It captures critical data to improve assessment, trend identification, and response prioritization.",
-      "tags": [],
-      "title": "CISA Announces Enhanced Reporting Form for Cyber Incidents"
-    },
-    {
-      "added_at": 1794879811.600294,
-      "ai": true,
-      "id": "eae4ff98ab3e26a3143b64dd671c0712cfc7f21b",
-      "link": "https://www.darkreading.com/application-security/microsoft-rce-bug-windows-paint-confusion",
-      "published": 1794258744.0,
-      "source": "darkreading",
-      "summary": "Microsoft issues a patch for an RCE vulnerability in Windows Paint. Earlier patch messaging was unclear, causing confusion.",
-      "tags": [],
-      "title": "Microsoft Fixes RCE Bug in Windows Paint After Weeks of Confusion"
-    },
-    {
-      "added_at": 1794879811.600294,
-      "ai": true,
-      "id": "527a69512361fba29b35107c2ff3dbe33ef12783",
-      "link": "https://www.darkreading.com/cybersecurity-operations/black-hat-india-2026-landmark-debut",
-      "published": 1794255596.0,
-      "source": "darkreading",
-      "summary": "Black Hat India 2026 debuts in Bengaluru, hosted by Informa Markets. The four‑day event brings researchers, practitioners, and decision makers for research and dialogue.",
-      "tags": [],
-      "title": "Black Hat India 2026 Makes a Landmark Debut in Bengaluru, Bringing the Global Cybersecurity Community to India"
-    },
-    {
-      "added_at": 1794879811.600294,
-      "ai": true,
-      "id": "0afd008ab7c4a36b53050da20d57ee33f9b74141",
-      "link": "https://www.theregister.com/security/2026/11/09/attackers-backdoor-trusted-aws-integrations-to-steal-secrets/5308553",
-      "published": 1794254390.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "Wiz researchers find attackers backdoored trusted AWS integrations to exfiltrate secrets. The attack uses a supply‑chain compromise.",
-      "tags": [],
-      "title": "Attackers backdoor trusted AWS integrations to steal secrets"
-    },
-    {
-      "added_at": 1794879811.600294,
-      "ai": true,
-      "id": "ea9844bbee9e34009114f60e32ea1e36fbf11c6a",
-      "link": "https://www.theregister.com/security/2026/11/09/researchers-pwn-automakers-android-apps-to-remotely-unlock-cars-honk-horns/5308483",
-      "published": 1794245460.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "Researchers exploit WAF bypasses and default logins to remotely unlock cars and honk horns in Australia and the US. The target is automaker Android apps.",
-      "tags": [],
-      "title": "Researchers pwn automakers’ Android apps to remotely unlock cars, honk horns"
-    },
-    {
-      "added_at": 1794879811.600294,
-      "ai": true,
-      "id": "32fa2d4c90f6eab75e8bdfc875b08d0cefc0688f",
-      "link": "https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure",
-      "published": 1794239170.0,
-      "source": "darkreading",
-      "summary": "NIST releases guidance for solo business owners. The framework aims to help non‑technical owners secure technology but may overlook non‑human oversight needs.",
-      "tags": [],
-      "title": "NIST: Solo Shouldn't Mean Less Secure"
-    },
-    {
-      "added_at": 1794879811.600294,
-      "ai": true,
-      "id": "fc813b911c0a9ac488e4a3b984bd258d0c16e04d",
-      "link": "https://www.theregister.com/security/2026/11/09/microsofts-azure-linux-gets-470-plus-security-fixes-in-one-almighty-patching-session/5308434",
-      "published": 1794236520.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "Microsoft releases 470+ security fixes for Azure Linux. The patch addresses numerous CVEs and performs certificate cleanup.",
-      "tags": [],
-      "title": "Microsoft's Azure Linux gets 470-plus security fixes in one almighty patching session"
-    },
-    {
-      "added_at": 1794879811.600294,
-      "ai": true,
-      "id": "1c6a443e39e42db33580e3116db8fb77e97134a9",
-      "link": "https://www.infosecurity-magazine.com/news/supply-chain-attack-thousands/",
-      "published": 1794234600.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "Security researchers uncover a malicious workflow compromising tens of thousands of GitHub repositories, including Uber‑owned ones.",
-      "tags": [],
-      "title": "New Supply Chain Attack Compromises Tens of Thousands of GitHub Repositories"
-    },
-    {
-      "added_at": 1794879811.600294,
-      "ai": true,
-      "id": "a18ce332976ade3aabb46d8997b0618a2e38d5aa",
-      "link": "https://www.theregister.com/security/2026/11/09/who-gives-a-crap-hackers-apparently-after-toilet-paper-makers-customer-data-exposed/5308419",
-      "published": 1794234600.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "Hackers target UK customers after a toilet paper maker’s customer data was exposed. The third‑party security breach leaves data status unclear.",
-      "tags": [],
-      "title": "Who Gives A Crap? Hackers, apparently, after toilet paper maker's customer data exposed"
-    },
-    {
-      "added_at": 1794879811.600294,
-      "ai": true,
-      "id": "ef5dd19c2bcc8cf8949f2a4713119c55d05677a3",
-      "link": "https://www.infosecurity-magazine.com/news/email-sega-customers-vendor-breach/",
-      "published": 1794231060.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "Sega warns 2.2 million customers after a vendor breach. The email delivery provider Arara was compromised; customers are advised to watch for phishing.",
-      "tags": [],
-      "title": "Email Addresses of 2.2 Million Sega Customers Leaked in Vendor Breach"
-    },
-    {
-      "added_at": 1794879811.600294,
-      "ai": true,
-      "id": "2bf3346c67e6baa47c47fef01ccd331d65f6cc2a",
-      "link": "https://www.theregister.com/applications/2026/11/09/outlookcom-bounces-legit-emails-as-microsofts-authentication-crackdown-goes-sideways/5308428",
-      "published": 1794231000.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "Outlook.com is rejecting legitimate emails due to missing DMARC or weak SPF records. The issue arises from Microsoft's authentication crackdown. Legitimate messages are treated as suspicious.",
-      "tags": [],
-      "title": "Outlook.com bounces legit emails as Microsoft's authentication crackdown goes sideways"
-    },
-    {
-      "added_at": 1794879811.600294,
-      "ai": true,
-      "id": "05eaa43bda77a8333283d199dfeb1362af99552d",
-      "link": "https://www.infosecurity-magazine.com/news/crdit-mutuel-arka-targeted/",
-      "published": 1794220200.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "French cooperative bank Crédit Mutuel Arkéa reported a cyber‑attack that enabled fraudulent transactions. The breach is estimated to cost $133 million. The bank is investigating the incident.",
-      "tags": [],
-      "title": "Crédit Mutuel Arkéa Targeted in Reported $133m Heist"
-    },
-    {
-      "added_at": 1794879811.600294,
-      "ai": true,
-      "id": "0447c78989cb1cbf98449cd35ee64450a3d9d586",
-      "link": "https://www.infosecurity-magazine.com/news/aml-watchdog-fatf-scam-compounds/",
-      "published": 1794215760.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "The Financial Action Task Force (FATF) has proposed new measures to disrupt scam compounds. The recommendations aim to strengthen anti‑money laundering enforcement. The focus is on preventing complex fraud schemes.",
-      "tags": [],
-      "title": "Anti-Money Laundering Watchdog FATF Targets Scam Compounds"
-    },
-    {
-      "added_at": 1794879811.600294,
-      "ai": true,
-      "id": "eb5289ea1f808c40297d57f14d02d163820a1096",
-      "link": "https://portswigger.net/blog/burp-suite-dast-winter-update-2025",
-      "published": 1765458570.0,
-      "source": "PortSwigger Blog",
-      "summary": "Burp Suite released its 2025 winter update for dynamic application security testing. The update emphasizes continuous testing without disrupting development. It addresses scanning windows, fragile authentication, and large API estates.",
-      "tags": [
-        "#appsec"
-      ],
-      "title": "DAST without disruption: Burp Suite DAST winter update 2025"
-    },
-    {
-      "added_at": 1794879811.600294,
-      "ai": true,
-      "id": "f259c3b304af3721daaae71ddf22395e483bf90e",
-      "link": "https://portswigger.net/research/the-fragile-lock",
-      "published": 1765369920.0,
-      "source": "PortSwigger Research",
-      "summary": "New research demonstrates authentication bypass in Ruby and PHP SAML ecosystems. The attack exploits parser‑level inconsistencies such as attribute pollution and namespace confusion. The bypass allows full authentication compromise.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "The Fragile Lock: Novel Bypasses For SAML Authentication"
-    },
-    {
-      "added_at": 1794879811.600294,
-      "ai": true,
-      "id": "0f1b844ebd5d9e8cda5ede75a20dbf231220e590",
-      "link": "https://portswigger.net/blog/how-to-detect-react2shell-with-burp-suite",
-      "published": 1764942810.0,
-      "source": "PortSwigger Blog",
-      "summary": "Burp Suite can detect the React2Shell vulnerabilities CVE‑2025‑55182 and CVE‑2025‑66478. These flaws enable attackers to gain shell access through React applications. Detection involves scanning for specific response patterns.",
-      "tags": [
-        "#appsec"
-      ],
-      "title": "How to detect React2Shell with Burp Suite"
-    },
-    {
-      "added_at": 1794879811.600294,
-      "ai": true,
-      "id": "77bb84635f2dc81f11408536933d7d06d3fa4af0",
-      "link": "https://portswigger.net/blog/portswigger-x-tryhackme-supporting-advent-of-cyber",
-      "published": 1764579600.0,
-      "source": "PortSwigger Blog",
-      "summary": "TryHackMe’s Advent of Cyber event partners with PortSwigger each December. The collaboration offers daily beginner‑friendly cybersecurity challenges. Participants learn hands‑on skills during the festive season.",
-      "tags": [
-        "#appsec"
-      ],
-      "title": "PortSwigger x TryHackMe: Supporting Advent of Cyber"
-    },
-    {
-      "added_at": 1794879811.600294,
-      "ai": true,
-      "id": "8a8c85f07fb323844a6aec62f5ba1df27af7b2bb",
-      "link": "https://portswigger.net/research/introducing-http-anomaly-rank",
-      "published": 1762872113.0,
-      "source": "PortSwigger Research",
-      "summary": "HTTP Anomaly Rank is a Burp tool that automatically ranks HTTP responses by anomaly. It reduces manual analysis of large response sets. The tool integrates with Burp Intruder and Turbo Intruder.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "Introducing HTTP Anomaly Rank"
-    },
-    {
-      "added_at": 1794879811.600294,
-      "ai": true,
-      "id": "cfebabe2a4b92843c8de50eb8460b515b22f7d57",
-      "link": "https://portswigger.net/blog/http-1-1-must-die-dafydd-stuttard-on-what-this-means-for-enterprise-security",
-      "published": 1760018800.0,
-      "source": "PortSwigger Blog",
-      "summary": "Dafydd Stuttard argues that HTTP/1.1 is fundamentally broken. He cites new desynchronization techniques that threaten enterprise security. The claim suggests a need to move beyond HTTP/1.1.",
-      "tags": [
-        "#appsec"
-      ],
-      "title": "HTTP/1.1 must die: Dafydd Stuttard on what this means for enterprise security"
-    },
-    {
-      "added_at": 1794879811.600294,
-      "ai": true,
-      "id": "b553306139f1bb9de110142c86a5faa6e6bcf857",
-      "link": "https://portswigger.net/blog/how-to-join-the-desync-endgame-practical-tips-from-pentester-tom-stacey",
-      "published": 1758210699.0,
-      "source": "PortSwigger Blog",
-      "summary": "Pentester Tom Stacey provides practical guidance on exploiting HTTP request smuggling and desynchronization vulnerabilities. He highlights the persistence of these attacks despite their long discovery. The post offers actionable tips for security teams.",
-      "tags": [
-        "#appsec"
-      ],
-      "title": "How to join the desync endgame: Practical tips from pentester Tom Stacey"
-    },
-    {
       "added_at": 1794930016.761272,
       "ai": true,
       "id": "63617dc37e283c3f9dc1e82657e061502987b56b",
@@ -2349,6 +1876,450 @@
         "#research"
       ],
       "title": "Bypassing WAFs with the phantom $Version cookie"
+    },
+    {
+      "added_at": 1795101945.0709615,
+      "ai": true,
+      "id": "5b228a0fb7f06b0d3134c0dd8ebaf00a52188aa4",
+      "link": "https://www.helpnetsecurity.com/2026/11/19/php-8-6-released/",
+      "published": 1795101756.0,
+      "source": "Help Net Security",
+      "summary": "PHP 8.6 introduces partial function application, a Time\\Duration class, a polling API for event loops, and a clamp() function. It also changes session defaults to enable strict mode, HTTP-only cookies, and Lax same-site policy, requiring custom handlers to implement both creation and destruction methods.",
+      "tags": [],
+      "title": "PHP 8.6 is out, and here’s what changes for your code"
+    },
+    {
+      "added_at": 1795101945.0709615,
+      "ai": true,
+      "id": "7008c485fa38b4e8777c37916ebd8c7a4bd2bd04",
+      "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
+      "published": 1795101066.0,
+      "source": "The Hacker News",
+      "summary": "A critical VMware vCenter vulnerability (CVSS 9.8) allows network attackers to bypass authentication and gain unauthorized access. Fixed versions are available for all supported branches, and no workaround is provided.",
+      "tags": [],
+      "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication"
+    },
+    {
+      "added_at": 1795101945.0709615,
+      "ai": true,
+      "id": "75044bab3e7303d3a5f852df48cfbfa9457e190c",
+      "link": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
+      "published": 1795100410.0,
+      "source": "BleepingComputer",
+      "summary": "Ransomware attacks often begin with credential theft, lateral movement, and disabling security controls before encryption. Acronis identifies five warning signs to help defenders detect and contain intrusions early.",
+      "tags": [],
+      "title": "Five warning signs of ransomware breach before encryption or data theft"
+    },
+    {
+      "added_at": 1795101945.0709615,
+      "ai": true,
+      "id": "7cc3b724b66a2eb45be7dfc83d87f865262ce350",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
+      "published": 1795100244.0,
+      "source": "BleepingComputer",
+      "summary": "Two critical NGINX vulnerabilities, dubbed \"nginx2root\", enable unauthenticated attackers to execute code remotely. Researchers demonstrated chaining these flaws with a Linux kernel bug to achieve root access.",
+      "tags": [],
+      "title": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers"
+    },
+    {
+      "added_at": 1795101945.0709615,
+      "ai": true,
+      "id": "f92f66411a812200d7b04bd94c68398e90b367a9",
+      "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
+      "published": 1795099506.0,
+      "source": "The Hacker News",
+      "summary": "The PHP Foundation released security updates addressing seven critical flaws that could lead to remote code execution, including CVE-2026-115560 with a CVSS score of 9.2.",
+      "tags": [],
+      "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution"
+    },
+    {
+      "added_at": 1795101945.0709615,
+      "ai": true,
+      "id": "dcf0c6422c7ca607a28d42fe3434c0bfba6f2308",
+      "link": "https://www.helpnetsecurity.com/2026/11/19/russian-spies-impersonation-cloud-breach/",
+      "published": 1795099340.0,
+      "source": "Help Net Security",
+      "summary": "A Russian cyberespionage group, known as COLD RELIC, impersonates employees of previously breached organizations to phish new targets, focusing on government, defense, and critical infrastructure.",
+      "tags": [],
+      "title": "Russian spies turn one cloud breach into a stepping stone for the next"
+    },
+    {
+      "added_at": 1795101945.0709615,
+      "ai": true,
+      "id": "6e1cc48f217d3df0c795cde48bbc418657841006",
+      "link": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
+      "published": 1795098786.0,
+      "source": "The Hacker News",
+      "summary": "Drupal core contains a critical installer flaw that lets unauthenticated attackers use the installer to reinstall a site, potentially leading to takeover or remote code execution. Fixed releases are available for all supported branches.",
+      "tags": [],
+      "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites"
+    },
+    {
+      "added_at": 1795101945.0709615,
+      "ai": true,
+      "id": "abef5657ebf43b0ef833f6261b1a60ad98925507",
+      "link": "https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/",
+      "published": 1795097852.0,
+      "source": "SecurityWeek",
+      "summary": "Nvidia stated it found no evidence of compromise after the Gentlemen ransomware group listed the company as a victim.",
+      "tags": [],
+      "title": "Nvidia Responds to Gentlemen Ransomware Claim"
+    },
+    {
+      "added_at": 1795101945.0709615,
+      "ai": true,
+      "id": "4f4f9e0dd0e068bbfd8c027fa747f380926f16e0",
+      "link": "https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday",
+      "published": 1795096800.0,
+      "source": "darkreading",
+      "summary": "Bot-driven fraud and holiday social engineering attacks extend across many weeks, straining security teams and small businesses during the holiday season.",
+      "tags": [],
+      "title": "Why Holiday Security Can't Wait for Black Friday"
+    },
+    {
+      "added_at": 1795101945.0709615,
+      "ai": true,
+      "id": "049017878e9b91ce592fe3636465dd6b1516b6bd",
+      "link": "https://therecord.media/ukraine-ransomware-arrests-cyber",
+      "published": 1795095000.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "Ukrainian authorities arrested four suspects linked to an international ransomware network that extorted more than $40 million from U.S. oil and healthcare firms.",
+      "tags": [
+        "#news"
+      ],
+      "title": "Ukraine exposes ransomware network extorting US oil, healthcare firms"
+    },
+    {
+      "added_at": 1795101945.0709615,
+      "ai": true,
+      "id": "5e668a30271b8ef2a0febce4affc60ba4c514c83",
+      "link": "https://www.securityweek.com/hackers-exploit-cisco-expressway-vulnerability-soon-after-poc-release/",
+      "published": 1795093940.0,
+      "source": "SecurityWeek",
+      "summary": "Hackers exploited a Cisco Expressway vulnerability shortly after a proof‑of‑concept was released. They targeted clustered devices at a Russian organization and prepared tooling for lateral movement.",
+      "tags": [],
+      "title": "Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release"
+    },
+    {
+      "added_at": 1795101945.0709615,
+      "ai": true,
+      "id": "df5a560c1b8f6ae7b1a44c53d7e6466579139fd2",
+      "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
+      "published": 1795093688.0,
+      "source": "BleepingComputer",
+      "summary": "Drupal patched a critical remote code execution flaw that could allow attackers to take over vulnerable sites. The security team warned that exploits may surface quickly.",
+      "tags": [],
+      "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly"
+    },
+    {
+      "added_at": 1795101945.0709615,
+      "ai": true,
+      "id": "bd53d182e5b7fd912e100900d5012f88ada5d4df",
+      "link": "https://www.helpnetsecurity.com/2026/11/19/puppet-enterprise-vulnerability-cve-2026-115731-exploited/",
+      "published": 1795093661.0,
+      "source": "Help Net Security",
+      "summary": "CVE‑2026‑115731, a critical RCE in Perforce Puppet Enterprise, is being exploited in the wild. The US CISA has added the flaw to its Known Exploited Vulnerabilities list.",
+      "tags": [],
+      "title": "Exploited Puppet flaw puts the server that configures your endpoint fleet at risk (CVE-2026-115731)"
+    },
+    {
+      "added_at": 1795101945.0709615,
+      "ai": true,
+      "id": "b7f6d70bce9069e8780d7539a41897d4efb2fd5f",
+      "link": "https://www.securityweek.com/stepsecurity-secures-20-million-to-expand-supply-chain-protection/",
+      "published": 1795091014.0,
+      "source": "SecurityWeek",
+      "summary": "StepSecurity raised $20 million to expand its supply‑chain protection platform. The funding will accelerate development and distribution of its security solutions.",
+      "tags": [],
+      "title": "StepSecurity Secures $20 Million to Expand Supply Chain Protection"
+    },
+    {
+      "added_at": 1795101945.0709615,
+      "ai": true,
+      "id": "d02f8572d5f1ee4ddac08c41a6eaf703d22ec217",
+      "link": "https://www.securityweek.com/critical-apache-roller-axis-vulnerabilities-exploited-in-attacks/",
+      "published": 1795090404.0,
+      "source": "SecurityWeek",
+      "summary": "Attackers are exploiting critical Apache Roller and Axis vulnerabilities. Confluence Data Center is targeted via an Axis flaw, while Apache warns of attacks against Roller.",
+      "tags": [],
+      "title": "Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks"
+    },
+    {
+      "added_at": 1795101945.0709615,
+      "ai": true,
+      "id": "193208e89084b673f3e04580a7a68cc56a667033",
+      "link": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
+      "published": 1795089143.0,
+      "source": "The Hacker News",
+      "summary": "Palo Alto Networks confirmed attackers exploited two PHP vulnerabilities (CVE‑2026‑109618 and CVE‑2026‑109619) against PAN‑OS management interfaces. The flaws allow unauthenticated code execution.",
+      "tags": [],
+      "title": "Everything Is a Web Application, Including Your Firewall"
+    },
+    {
+      "added_at": 1795101945.0709615,
+      "ai": true,
+      "id": "937f390d6b182cf83f7a0ed74aa81328dcfbf94b",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
+      "published": 1795088760.0,
+      "source": "BleepingComputer",
+      "summary": "Microsoft is testing a new Edge Lockdown Mode that disables WebGL, WebGL2, and WebGPU APIs to reduce the browser’s attack surface.",
+      "tags": [],
+      "title": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs"
+    },
+    {
+      "added_at": 1795101945.0709615,
+      "ai": true,
+      "id": "796c0101f860286d3645861aa2df208b2728257c",
+      "link": "https://www.theregister.com/security/2026/11/19/cyberattack-on-service-provider-exposes-payee-data-at-40-irish-credit-unions/5310979",
+      "published": 1795088700.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "A cyberattack on Wellington IT exposed payee data at 40 Irish credit unions. The minister called the notification delay \"not acceptable.\"",
+      "tags": [],
+      "title": "Cyberattack on service provider exposes payee data at 40 Irish credit unions"
+    },
+    {
+      "added_at": 1795101945.0709615,
+      "ai": true,
+      "id": "3d382cf2ec8f53747a0aac1b653fb2f53aa00bc0",
+      "link": "https://www.infosecurity-magazine.com/news/tfl-customers-personal-data-exposed/",
+      "published": 1795088100.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "TfL warned that 265,000 Oyster Photocard customers may have had personal data exposed after emails were sent from its system.",
+      "tags": [],
+      "title": "TfL Warns 265,000 Photocard Customers May Have Had Personal Data Exposed"
+    },
+    {
+      "added_at": 1795101945.0709615,
+      "ai": true,
+      "id": "bef0b390eb37d347f4051937f257a6cf311ffd01",
+      "link": "https://www.helpnetsecurity.com/2026/11/19/backbox-linux-10-penetration-testing/",
+      "published": 1795086072.0,
+      "source": "Help Net Security",
+      "summary": "BackBox Linux 10, codenamed Resolute Raccoon, was released with new hacking tools and support for Ubuntu 26.04 LTS. It ships with Linux 7.0 kernel, Xfce 4.20 desktop, and updated anonymous mode.",
+      "tags": [],
+      "title": "BackBox Linux 10 brings new hacking tools and Ubuntu 26.04 support"
+    },
+    {
+      "added_at": 1795101945.0709615,
+      "ai": true,
+      "id": "bc96eaf0dd4b1af9a3d8789b3d6ff1500db2d429",
+      "link": "https://www.theregister.com/security/2026/11/19/tfl-takes-oyster-photocard-website-offline-after-attackers-compromise-customer-accounts/5310985",
+      "published": 1795086060.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "TfL shut down the Oyster photocard website after attackers accessed approximately 265,000 customer accounts. The service remains offline pending a security fix.",
+      "tags": [],
+      "title": "TfL takes Oyster photocard website offline after attackers compromise customer accounts"
+    },
+    {
+      "added_at": 1795101945.0709615,
+      "ai": true,
+      "id": "be4e4f6ef6a7fab3a33a05344e95cb5f2698645b",
+      "link": "https://www.helpnetsecurity.com/2026/11/19/rubrik-configuration-resilience-for-microsoft-365/",
+      "published": 1795085804.0,
+      "source": "Help Net Security",
+      "summary": "Rubrik introduced Configuration Resilience for Microsoft 365, allowing a single action to roll back unauthorized changes to key Microsoft settings and continuously protect configurations.",
+      "tags": [],
+      "title": "Rubrik Configuration Resilience rolls back unauthorized Microsoft 365 changes"
+    },
+    {
+      "added_at": 1795101945.0709615,
+      "ai": true,
+      "id": "4c56a06821c6e7ed12f2dbb427b5df1877149a3f",
+      "link": "https://www.helpnetsecurity.com/2026/11/19/sonicwall-gen-6-firewalls-reach-end-of-support/",
+      "published": 1795085069.0,
+      "source": "Help Net Security",
+      "summary": "SonicWall urged customers to replace Gen 6 and Gen 6.5 firewalls immediately, as SonicOS 6.x has reached end of support and will no longer receive firmware updates or patches.",
+      "tags": [],
+      "title": "SonicWall urges customers to replace Gen 6 firewalls now"
+    },
+    {
+      "added_at": 1795101945.0709615,
+      "ai": true,
+      "id": "2aa6fa29c77afd23f77f80c80d4775106f27c38d",
+      "link": "https://www.securityweek.com/splunk-patches-nearly-140-flaws-across-three-core-products/",
+      "published": 1795084865.0,
+      "source": "SecurityWeek",
+      "summary": "Splunk released updates for three core products, fixing nearly 140 critical and high‑severity vulnerabilities that could enable authentication bypass, remote code execution, and privilege escalation.",
+      "tags": [],
+      "title": "Splunk Patches Nearly 140 Flaws Across Three Core Products"
+    },
+    {
+      "added_at": 1795101945.0709615,
+      "ai": true,
+      "id": "5f82a4128e79e2738d3b7a569ba41383e7b07a6f",
+      "link": "https://www.helpnetsecurity.com/2026/11/19/bitwarden-windows-macos-passkeys-integration/",
+      "published": 1795084773.0,
+      "source": "Help Net Security",
+      "summary": "Bitwarden added passkey integration for Windows Hello and Apple Touch ID, enabling users to unlock their vaults via native OS authentication on Windows 11 and macOS.",
+      "tags": [],
+      "title": "Bitwarden expands passkey support with new Windows and macOS integrations"
+    },
+    {
+      "added_at": 1795101945.0709615,
+      "ai": true,
+      "id": "1fc34cf6486a0e116e20907ff33dc24145e9fdf5",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/",
+      "published": 1795084505.0,
+      "source": "BleepingComputer",
+      "summary": "Microsoft provided a workaround for installation and launch issues affecting Office and third‑party applications caused by the latest Windows 11 hotpatch.",
+      "tags": [],
+      "title": "Microsoft confirms app installation, launch issues after hotpatch"
+    },
+    {
+      "added_at": 1795101945.0709615,
+      "ai": true,
+      "id": "e45c5124b0ac0b4043c1a469e3e4d240b858ac81",
+      "link": "https://www.securityweek.com/f5-patches-critical-nginx2root-flaws-as-poc-exploits-go-public/",
+      "published": 1795084011.0,
+      "source": "SecurityWeek",
+      "summary": "F5 Networks patched five NGINX2Root vulnerabilities that could allow unauthenticated remote code execution; proof‑of‑concept exploits were publicly released.",
+      "tags": [],
+      "title": "F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go Public"
+    },
+    {
+      "added_at": 1795101945.0709615,
+      "ai": true,
+      "id": "98f0b311b20295105bbfdf91eaf5756a0ed8f86a",
+      "link": "https://www.theregister.com/security/2026/11/19/sticky-note-on-monitor-provided-keys-to-the-companys-kingdom/5310908",
+      "published": 1795083300.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "A sticky note left on a monitor exposed company credentials, demonstrating the risk of leaving sensitive information in public view.",
+      "tags": [],
+      "title": "Sticky note on monitor provided keys to the company’s kingdom"
+    },
+    {
+      "added_at": 1795101945.0709615,
+      "ai": true,
+      "id": "ef1efe3fe2fb70c62a514fae3de7549d972f71fb",
+      "link": "https://www.helpnetsecurity.com/2026/11/19/gta-6-scams-threats/",
+      "published": 1795082971.0,
+      "source": "Help Net Security",
+      "summary": "Scammers targeting the GTA 6 launch are phishing for Google passwords, selling fake game keys, and requesting crypto wallet connections to steal funds.",
+      "tags": [],
+      "title": "GTA 6 scams are after your Google password, money, and crypto wallet"
+    },
+    {
+      "added_at": 1795101945.0709615,
+      "ai": true,
+      "id": "67401cc888fc28c21cb1753d708678ff4095ecae",
+      "link": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
+      "published": 1795080686.0,
+      "source": "The Hacker News",
+      "summary": "N‑able disclosed that attackers accessed a server in its Mail Assure and Spam Experts hosted cloud, disabling management interfaces and APIs across three regions; the company is mitigating the threat and hardening services.",
+      "tags": [],
+      "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions"
+    },
+    {
+      "added_at": 1795101945.0709615,
+      "ai": true,
+      "id": "7aba46b2e297d42b9d6cc37604972f962cdb2a46",
+      "link": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
+      "published": 1795080201.0,
+      "source": "BleepingComputer",
+      "summary": "NVIDIA is investigating claims that the Gentlemen ransomware group has listed the company on a dark‑web data‑leak site. The investigation follows reports of a potential security breach. No further details have been released.",
+      "tags": [],
+      "title": "NVIDIA investigating Gentlemen ransomware breach claims"
+    },
+    {
+      "added_at": 1795101945.0709615,
+      "ai": true,
+      "id": "c31168ebf53521e3d88c7d9463756ce0f8ee4aeb",
+      "link": "https://www.infosecurity-magazine.com/news/rakuten-securities-breach-15/",
+      "published": 1795080000.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "Japanese broker Rakuten Securities disclosed a data breach that exposed account details of 15 million customers. The breach could affect a large portion of the company's client base. No additional information has been provided.",
+      "tags": [],
+      "title": "Rakuten Securities Breach Could Impact 15 Million Customers"
+    },
+    {
+      "added_at": 1795101945.0709615,
+      "ai": true,
+      "id": "ce554e89b40499730abb9e053c67051d78c03ad4",
+      "link": "https://www.securityweek.com/java4shell-exploitation-attempts-begin-as-vendors-rush-out-advisories/",
+      "published": 1795079458.0,
+      "source": "SecurityWeek",
+      "summary": "Multiple vendors released advisories on the Java4Shell vulnerability. GreyNoise, WatchTowr, and Cloudflare reported probing and exploit attempts. Cisco, Elastic, Red Hat, and Siemens detailed the impact of the flaw.",
+      "tags": [],
+      "title": "Java4Shell Exploitation Attempts Begin as Vendors Rush Out Advisories"
+    },
+    {
+      "added_at": 1795101945.0709615,
+      "ai": true,
+      "id": "ef3cecb6fd503aee213dc1f9e2424694ed1c3727",
+      "link": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
+      "published": 1795077731.0,
+      "source": "The Hacker News",
+      "summary": "Ruby released patches for seven memory‑safety flaws in its regex engine and string conversion code. Maintainers warned that five of these flaws have proof‑of‑concept remote code execution exploits. The fixes are now available.",
+      "tags": [],
+      "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE"
+    },
+    {
+      "added_at": 1795101945.0709615,
+      "ai": true,
+      "id": "3d3c58459056e381a2dc130ecd7fad595f4e6388",
+      "link": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
+      "published": 1795076040.0,
+      "source": "The Hacker News",
+      "summary": "A researcher demonstrated that low‑privilege database accounts can trigger code execution on PostgreSQL, MySQL, ClickHouse, and Oracle. The exploits exploit memory‑corruption bugs in the database engines. Proof‑of‑concepts were published.",
+      "tags": [],
+      "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle"
+    },
+    {
+      "added_at": 1795101945.0709615,
+      "ai": true,
+      "id": "7b2c191d75301f2a6433dee19dd598d8949b7bbd",
+      "link": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
+      "published": 1795075200.0,
+      "source": "The Hacker News",
+      "summary": "CISA added four vulnerabilities to its Known Exploited Vulnerabilities catalog. The flaws affect Synology DSM, BerriAI LiteLLM, Apache Axis, and REDCap. Evidence of active exploitation was cited.",
+      "tags": [],
+      "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks"
+    },
+    {
+      "added_at": 1795101945.0709615,
+      "ai": true,
+      "id": "59d3b792db4808309500ec4bf219261dbb8146d5",
+      "link": "https://www.darkreading.com/threat-intelligence/africa-top-spot-most-attacked-region-nigeria-surge",
+      "published": 1795075200.0,
+      "source": "darkreading",
+      "summary": "Africa reclaimed the top spot as the most attacked region, driven by a surge in cyber threats in Nigeria. Angola and Kenya also ranked in the top five most‑attacked countries worldwide. The trend reflects a growing regional threat landscape.",
+      "tags": [],
+      "title": "Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge"
+    },
+    {
+      "added_at": 1795101945.0709615,
+      "ai": true,
+      "id": "e2e32d524f45d0987a76fab034d264e5658bb30a",
+      "link": "https://www.securityweek.com/php-readies-critical-security-updates-to-patch-another-rce-flaw/",
+      "published": 1795074317.0,
+      "source": "SecurityWeek",
+      "summary": "PHP announced critical security updates to patch CVE‑2026‑115560, which affected session upload progress. The release follows the PHP2Shell patches. The update addresses a remote code execution flaw.",
+      "tags": [],
+      "title": "PHP Readies Critical Security Updates to Patch Another RCE Flaw"
+    },
+    {
+      "added_at": 1795101945.0709615,
+      "ai": true,
+      "id": "d1202d3392a4ec40cc7eacffba5a7574d07d85e8",
+      "link": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
+      "published": 1795062826.0,
+      "source": "The Hacker News",
+      "summary": "PHP maintainers issued an advisory for an upcoming release on November 19, 2026, that will address critical vulnerabilities across all supported versions. The release is scheduled between 2:00 and 2:30 p.m. UTC. The update follows the regular four‑week release cycle.",
+      "tags": [],
+      "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19"
+    },
+    {
+      "added_at": 1795101945.0709615,
+      "ai": true,
+      "id": "4811bbf2d34d89f44fcc7c28aa50da5f4baf70f3",
+      "link": "https://therecord.media/russian-charged-with-spying-on-palantir-for-moscow",
+      "published": 1795046400.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "A Russian national, Igor Andreevich D’iu, was charged in the United States with acting as a Moscow agent spying on employees of Palantir Technologies. The individual was recruited through Telegram. The charges relate to a surveillance campaign targeting Palantir staff.",
+      "tags": [
+        "#news"
+      ],
+      "title": "Russian charged with spying on Palantir employees for Moscow"
     }
   ],
   "posted": []
