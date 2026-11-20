@@ -1,7 +1,334 @@
 {
-  "generated_at": 1795134210.8556964,
-  "count": 148,
+  "generated_at": 1795186913.9401562,
+  "count": 162,
   "items": [
+    {
+      "title": "Cyber Director Cairncross out as White House resets cyber leadership",
+      "summary": "Sean Cairncross is leaving the White House; Kirsten Davies, the Pentagon’s CIO, has been named acting cyber czar.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/sean-cairncross-out-as-national-cyber-director",
+      "published": 1795185000.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795186913.9296277
+    },
+    {
+      "title": "Dozens of credit unions hit by supplier breach that went unnoticed for six weeks",
+      "summary": "Ireland’s Data Protection Commission received over 40 breach notifications from credit unions that used a Belfast-based data processor; the breach went unnoticed for six weeks.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/dozens-of-credit-unions-hit-by-supplier-breach",
+      "published": 1795184640.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795186913.9296277
+    },
+    {
+      "title": "Ransomware Recovery Takes 20 Days for the Typical Victim, Report Finds",
+      "summary": "A Rubrik report shows ransomware victims recover in a median of 20 days; 28% of cases take longer than six weeks.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/ransomware-recovery-20-days/",
+      "published": 1795184100.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795186913.9296277
+    },
+    {
+      "title": "N-able says recent security breach led to major service outage",
+      "summary": "N‑able reported that attackers breached one of its servers, causing a major outage of Mail Assure and SpamExperts Hosted Cloud services worldwide.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
+      "published": 1795180716.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795186913.9296277
+    },
+    {
+      "title": "VMware vCenter zero-day exploited for months before patch (CVE-2026-123890)",
+      "summary": "A China‑linked group, Armory Castle, exploited VMware vCenter zero‑day CVE‑2026‑123890 from September until a patch was released; the vulnerability has a CVSS score of 9.8.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/11/20/vmware-vcenter-zero-day-cve-2026-123890-exploited/",
+      "published": 1795177819.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795186913.9296277
+    },
+    {
+      "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
+      "summary": "CVE‑2026‑99312 allows a KVM guest on AMD hosts to read up to 127 GB of host memory, potentially exposing other customers; the flaw is fixed in newer kernels.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
+      "published": 1795177200.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795186913.9296277
+    },
+    {
+      "title": "UK government can't keep its encryption-busting order to Apple a secret, tribunal rules",
+      "summary": "A UK tribunal ruled that the government cannot keep its encryption‑busting order to Apple secret; the notice can be acknowledged but the demands remain confidential.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/11/20/uk-government-cant-keep-its-encryption-busting-order-to-apple-a-secret-tribunal-rules/5311292",
+      "published": 1795177099.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795186913.9296277
+    },
+    {
+      "title": "Microsoft now automatically installs Windows 11 26H2 on unmanaged devices",
+      "summary": "Microsoft is automatically upgrading eligible unmanaged devices to Windows 11 26H2 without IT management.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/",
+      "published": 1795176868.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795186913.9296277
+    },
+    {
+      "title": "Opening a 400-Year-Old Cryptex",
+      "summary": "Researchers used CT scanning to recover the code of a 400‑year‑old cryptex padlock; a commercial USB‑drive cryptex is now available for purchase.",
+      "source": "Schneier on Security",
+      "link": "https://www.schneier.com/blog/archives/2026/11/opening-a-400-year-old-cryptex.html",
+      "published": 1795176286.0,
+      "tags": [
+        "#opinion"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795186913.9296277
+    },
+    {
+      "title": "Mail Bombing Attacks Fuel IT Helpdesk Impersonation Scams",
+      "summary": "Researchers uncovered a large‑scale campaign where attackers flood inboxes with emails and then impersonate IT helpdesk staff to gain account access.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/mail-bombing-attacks-it-helpdesk/",
+      "published": 1795175700.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795186913.9296277
+    },
+    {
+      "title": "SBC Medical Group Data Breach Impacts Over 2 Million",
+      "summary": "Threat actors accessed databases containing customer information from SBC Medical Group clinics in Japan. Over 2 million individuals were affected.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/",
+      "published": 1795174611.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795186913.9296277
+    },
+    {
+      "title": "JPMorgan Confirms Customer Data Breach Following Third-Party Compromise",
+      "summary": "JPMorgan confirmed a customer data breach after a third‑party compromise. Ransomware actor N0n claimed attacks on JPMorgan, Visa, and Mastercard, leaking data on its dark‑web site.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/jpmorgan-data-breach-third-party/",
+      "published": 1795173300.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795186913.9296277
+    },
+    {
+      "title": "Windows 11 passkey bug cries failure after successful sign-in",
+      "summary": "A Windows 11 passkey bug caused misleading Android error messages after successful sign‑in. An optional update for versions 25H2 and 26H2 addresses the issue.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/11/20/windows-11-passkey-bug-cries-failure-after-successful-sign-in/5311263",
+      "published": 1795172984.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795186913.9296277
+    },
+    {
+      "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
+      "summary": "F5 issued emergency patches for five critical BIG‑IP vulnerabilities that could enable denial‑of‑service or remote code execution. Customers are urged to apply the fixes.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
+      "published": 1795172263.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795186913.9296277
+    },
+    {
+      "title": "Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE",
+      "summary": "Ruby patched CVE‑2026‑132825, a heap‑based buffer overflow known as Ruby2Shell that could lead to remote code execution. The update resolves the RCE risk.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/",
+      "published": 1795170850.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795186913.9296277
+    },
+    {
+      "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
+      "summary": "Threat actors exploited Cisco Expressway CVE‑2026‑76466 (CVSS 9.8) to breach a Russian organization. The flaw allows unauthenticated remote attackers to access the device and internal network.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html",
+      "published": 1795170770.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795186913.9296277
+    },
+    {
+      "title": "Metasploit Wrap Up: Breaking Zimbra's Identity Boundaries",
+      "summary": "Metasploit added a new shared mixin, Msf::Exploit::Remote::HTTP::Zimbra, to its Zimbra modules. The change provides a common foundation for account/admin SOAP authentication and identity resolution.",
+      "source": "Rapid7 Cybersecurity Blog",
+      "link": "https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-breaking-zimbra-s-identity-boundaries",
+      "published": 1795170636.0,
+      "tags": [
+        "#vulnerability"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795186913.9296277
+    },
+    {
+      "title": "265,000 Oyster photocard customers’ data exposed in Transport for London breach",
+      "summary": "Transport for London warned that account details of approximately 265,000 Oyster photocard holders may have been exposed. The breach was detected on 16 November and the photocard system was taken offline.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/11/20/transport-for-london-oyster-photocard-data-breach/",
+      "published": 1795170101.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795186913.9296277
+    },
+    {
+      "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
+      "summary": "Armory Castle, a China‑linked group, exploited VMware vCenter Server CVE‑2026‑123890 (CVSS 9.8) to bypass authentication and gain administrative access, enabling data theft.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
+      "published": 1795167495.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795186913.9296277
+    },
+    {
+      "title": "Windows 11 KB5132057 update released with 28 changes and fixes",
+      "summary": "Microsoft released the Windows 11 KB5132057 preview update, which includes 28 changes. Improvements cover Windows Search, Windows Hello, and the Run dialog.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/",
+      "published": 1795166735.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795186913.9296277
+    },
+    {
+      "title": "N-able Blames Service Disruption on Cyberattack",
+      "summary": "N‑Able attributes a service outage affecting Mail Assure and SpamExperts Hosted Cloud to a cyberattack that could have led to credential theft.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/",
+      "published": 1795165715.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795186913.9296277
+    },
+    {
+      "title": "Suspected North Korea-Aligned Group Hides C2 on Solana Blockchain",
+      "summary": "Cisco Talos links a RAT that uses the Solana blockchain for command and control and can survive Windows resets to the UAT‑12643 threat group.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/overlord-rat-solana-blockchain-c2/",
+      "published": 1795165200.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795186913.9296277
+    },
+    {
+      "title": "JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak",
+      "summary": "JPMorgan, Visa and Mastercard blame a data leak on third‑party providers after the N0n extortion group released customer data.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak/",
+      "published": 1795160146.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795186913.9296277
+    },
+    {
+      "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
+      "summary": "Threat actors use ROMULUS ClickFix to deliver a remote access trojan similar to CNCMachineRMS, enabling spying and remote control of PCs.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
+      "published": 1795158699.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795186913.9296277
+    },
+    {
+      "title": "It’s time to retire vanity security dashboards",
+      "summary": "Estée Lauder’s OT Security Architect argues that vanity dashboards generate repetitive alerts that waste analyst time and mask underlying problems in manufacturing environments.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/11/20/security-dashboards-tips-video/",
+      "published": 1795154421.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795186913.9296277
+    },
+    {
+      "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
+      "summary": "FastUnlock is a zero‑day that lets physical attackers run programs on a locked Windows PC without signing in, granting only limited account access.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
+      "published": 1795152601.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795186913.9296277
+    },
+    {
+      "title": "Most CIOs and CISOs expect to contain attacks, though few can reach their gear right away",
+      "summary": "A survey of 514 CIOs and CISOs shows most cannot quickly access critical network infrastructure during outages, creating a gap during ransomware or update incidents.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/11/20/network-outage-recovery-resilience/",
+      "published": 1795150827.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795186913.9296277
+    },
+    {
+      "title": "Flaws in VMware and KVM need attention, if you have time while fixing Java, PHP, and everything else",
+      "summary": "Critical Virtzilla bugs in VMware and KVM allow authentication bypass, prompting Digital Ocean to address the issue amid other security fixes.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/11/20/flaws-in-vmware-and-kvm-need-attention-if-you-have-time-while-fixing-java-php-and-everything-else/5311193",
+      "published": 1795136265.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795186913.9296277
+    },
+    {
+      "title": "VMware patches vCenter zero-day exploited in attacks since September",
+      "summary": "Broadcom released security updates for a VMware vCenter Server authentication bypass that Chinese‑linked hackers have used in zero‑day attacks since September 2026.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+      "published": 1795134385.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795186913.9296277
+    },
     {
       "title": "Germ Network infects Android, but in a good way",
       "summary": "Bluesky’s encrypted messaging app for Android supports multiple identities without requiring a phone number, allowing users to create separate profiles.",
@@ -689,6 +1016,17 @@
       "ts": 1795101945.0709615
     },
     {
+      "title": "My IoT devices are no longer supported – is my smart home safe?",
+      "summary": "End‑of‑life smart devices pose security risks if unmanaged; users should secure or replace them to protect their smart homes.",
+      "source": "WeLiveSecurity",
+      "link": "https://www.welivesecurity.com/en/internet-of-things/iot-devices-no-longer-supported-smart-home-safe/",
+      "published": 1795075200.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795186913.9296277
+    },
+    {
       "title": "PHP Readies Critical Security Updates to Patch Another RCE Flaw",
       "summary": "PHP announced critical security updates to patch CVE‑2026‑115560, which affected session upload progress. The release follows the PHP2Shell patches. The update addresses a remote code execution flaw.",
       "source": "SecurityWeek",
@@ -1268,6 +1606,17 @@
       "ts": 1795015129.9096267
     },
     {
+      "title": "Who was that trying to phone me just now? How one-ring phone scams work",
+      "summary": "One-ring phone scams, known as 'wangiri', lure victims after a single ring. The article explains how to recognize and avoid these scams.",
+      "source": "WeLiveSecurity",
+      "link": "https://www.welivesecurity.com/en/scams/who-was-trying-phone-how-one-ring-phone-scams-work/",
+      "published": 1794996000.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795186913.9296277
+    },
+    {
       "title": "Watchdog Warns UK Government Is Falling Short on Risk Management",
       "summary": "A National Audit Office report indicates that the UK government’s risk management practices are inadequate, leading to poor decision making.",
       "source": "infosecurity-magazine.com",
@@ -1492,206 +1841,6 @@
       "ai": true,
       "status": "queued",
       "ts": 1795046424.3704307
-    },
-    {
-      "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
-      "summary": "Java4Shell vulnerability in OpenJDK allows unauthenticated remote code execution on popular enterprise Java applications such as Jenkins, Atlassian Jira, Confluence, and Keycloak.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
-      "published": 1794956661.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794962578.396877
-    },
-    {
-      "title": "Optimizely Malware Attacks Highlight Third-Party Vendor Risks",
-      "summary": "At least 178 organizations were exposed to hydra‑like malware through a third‑party platform, highlighting risks from external vendors.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks",
-      "published": 1794954862.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794962578.396877
-    },
-    {
-      "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
-      "summary": "Credentials and secrets published in public Docker Hub images are being extracted and exploited within as little as eight seconds of release.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
-      "published": 1794950837.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794962578.396877
-    },
-    {
-      "title": "Website management platform Optimizely confirms hackers put malicious code into customer sites",
-      "summary": "Optimizely confirmed that malicious JavaScript was injected into 178 customer websites via its Web experimentation platform.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/optimizely-malicious-code-customer-sites",
-      "published": 1794950400.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794962578.396877
-    },
-    {
-      "title": "GSA says post-quantum work on PIV cards shows new encryption can work on old tech",
-      "summary": "The GSA reports that post‑quantum encryption can be implemented on legacy PIV smart cards, addressing compatibility and visibility gaps.",
-      "source": "CyberScoop",
-      "link": "https://cyberscoop.com/gsa-post-quantum-encryption-piv-cards/",
-      "published": 1794950385.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794962578.396877
-    },
-    {
-      "title": "How CISA is prioritizing companies for talks about security improvements",
-      "summary": "CISA is prioritizing outreach to companies to discuss security improvements, as highlighted in a recent FedTalks presentation.",
-      "source": "CyberScoop",
-      "link": "https://cyberscoop.com/cisa-100-critical-infrastructure-companies-fed-talks/",
-      "published": 1794948779.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794962578.396877
-    },
-    {
-      "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
-      "summary": "Japan's RIKEN Center has taken the Fugaku supercomputer offline following a security breach.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
-      "published": 1794948681.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794962578.396877
-    },
-    {
-      "title": "Borrowed Code, Real Consequences: What OPTIMJACK Teaches Us",
-      "summary": "The OPTIMJACK supply‑chain attack shows how a compromised vendor script can expose websites, emphasizing the need for strict segmentation.",
-      "source": "Unit 42",
-      "link": "https://unit42.paloaltonetworks.com/optimjack-supply-chain-attack/",
-      "published": 1794948194.0,
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794962578.396877
-    },
-    {
-      "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
-      "summary": "Researchers demonstrated two remote code execution exploits that bypass Telegram's recent Android security filter via malicious widgets.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
-      "published": 1794944060.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794962578.396877
-    },
-    {
-      "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
-      "summary": "Apple reported service disruptions affecting iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
-      "published": 1794943447.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794962578.396877
-    },
-    {
-      "title": "Kazakh ransomware hacking suspect extradited from Italy",
-      "summary": "Roman Khlynovskiy, accused of ransomware attacks on healthcare, schools, and businesses, was extradited from Italy to the U.S. He is linked to the \"8 Digits Team\" and associated with INC and Lynx.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/kazakh-suspected-extradited-charges-8-digits-team-inc-lynx",
-      "published": 1794942540.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794962578.396877
-    },
-    {
-      "title": "CVE-2026-114938: Reported Critical Pre-authentication Remote Code Execution in Java 17",
-      "summary": "CVE-2026-114938 is a memory corruption vulnerability in Java 17+ that could allow unauthenticated remote code execution. The vulnerability has a preliminary CVSSv4 score of 9.2 and is under investigation by Oracle and OpenJDK.",
-      "source": "Rapid7 Cybersecurity Blog",
-      "link": "https://www.rapid7.com/blog/post/etr-cve-2026-114938-reported-critical-pre-authentication-remote-code-execution-java-17",
-      "published": 1794940015.0,
-      "tags": [
-        "#vulnerability"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794962578.396877
-    },
-    {
-      "title": "Tor releases emergency update amid ongoing DDoS attack",
-      "summary": "The Tor Project issued a security update for its relay software to mitigate an ongoing distributed denial‑of‑service attack. The update aims to protect relays and operators from the attack’s impact.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
-      "published": 1794938655.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794962578.396877
-    },
-    {
-      "title": "California fines Hertz $1.5 million for breaking state data privacy law",
-      "summary": "Hertz agreed to a $1.5 million fine imposed by the California Privacy Protection Agency for violating state data privacy regulations. The company will adjust its business practices to comply with the law.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/california-fines-hertz-state-data-privacy-law",
-      "published": 1794935580.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794962578.396877
-    },
-    {
-      "title": "NSA Net, agency’s classified internal network, faces unspecified disruptions",
-      "summary": "The NSA’s classified internal network, NSA Net, experienced disruptions, prompting staggered arrivals at Fort Meade headquarters. Technicians are working to restore full network functionality.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/nsa-net-disruptions",
-      "published": 1794932460.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794962578.396877
-    },
-    {
-      "title": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool",
-      "summary": "Flipper Devices launched a crowdfunding campaign for the Flipper One, a $399 portable Linux computer and networking multi‑tool. The device builds on the company’s popular Flipper Zero pentesting hardware.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
-      "published": 1794931200.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794962578.396877
-    },
-    {
-      "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
-      "summary": "Oracle will release patches for 11 Java SE vulnerabilities that may allow unauthenticated remote code execution. The flaws carry a maximum CVSS 3.1 score of 8.1 and include the critical CVE-2026-114938.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
-      "published": 1794928656.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1794962578.396877
     }
   ]
 }
