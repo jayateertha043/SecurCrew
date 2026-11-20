@@ -1,468 +1,6 @@
 {
   "pending": [
     {
-      "added_at": 1795015129.9096267,
-      "ai": true,
-      "id": "8e8debc4b233d46025c7030aa5c4629020317c63",
-      "link": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
-      "published": 1795014010.0,
-      "source": "BleepingComputer",
-      "summary": "Attackers use deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access. Specops Software examines real attacks and recommends stronger identity verification to counter social engineering.",
-      "tags": [],
-      "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters"
-    },
-    {
-      "added_at": 1795015129.9096267,
-      "ai": true,
-      "id": "69958fa42ac429e6ceba37bbeab08caf19441f0c",
-      "link": "https://therecord.media/british-hacker-gets-six-year-sentence-scattered-spider",
-      "published": 1795013280.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "Tyler Robert Buchanan, 24, of Dundee, Scotland, received a six‑year sentence for leading a hacking collective that stole $11.6 million in cryptocurrency. Microsoft described the group as one of the most dangerous financial criminal groups.",
-      "tags": [
-        "#news"
-      ],
-      "title": "British hacker gets 6 year sentence for $11.6M crypto theft scheme"
-    },
-    {
-      "added_at": 1795015129.9096267,
-      "ai": true,
-      "id": "0ab00b40e01f0da8ee78bceb0ea35d82e8c537da",
-      "link": "https://portswigger.net/research/achieving-the-impossible-xss-in-innerhtml-without-equals",
-      "published": 1795012785.0,
-      "source": "PortSwigger Research",
-      "summary": "Researcher Masato Kinugawa discusses a novel XSS vulnerability that exploits innerHTML without equality checks, revealing new web security risks.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "Achieving the impossible: XSS in innerHTML without equals"
-    },
-    {
-      "added_at": 1795015129.9096267,
-      "ai": true,
-      "id": "e2a24e43ecaa9dbdf8e674dbc18a2c6638192f9f",
-      "link": "https://www.rapid7.com/blog/post/tr-self-hosted-ai-renting-compute-exposed-servers",
-      "published": 1795012735.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "Threat actors are renting cloud compute resources, taking advantage of default open configurations to host malicious workloads.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "Open by Default, Already Occupied: Threat Actors are Renting your Compute"
-    },
-    {
-      "added_at": 1795015129.9096267,
-      "ai": true,
-      "id": "55016e2da81bf79ecafbd57661e0aab4ba2eb2f0",
-      "link": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
-      "published": 1795011088.0,
-      "source": "The Hacker News",
-      "summary": "A Chinese APT group rebuilt the EggStreme malware to evade detection, targeting Philippine government organizations with silent variants that avoid security tools.",
-      "tags": [],
-      "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks"
-    },
-    {
-      "added_at": 1795015129.9096267,
-      "ai": true,
-      "id": "8368f9805644f450674f566d2bd5b16dbebcc80a",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/major-brazilian-signature-app-rce-fraud",
-      "published": 1795010400.0,
-      "source": "darkreading",
-      "summary": "Brazilian government‑sanctioned authentication middleware contains remote code execution bugs, enabling fraud in critical legal documents.",
-      "tags": [],
-      "title": "Major Brazilian Signature Apps Enable RCE & Fraud"
-    },
-    {
-      "added_at": 1795015129.9096267,
-      "ai": true,
-      "id": "cbfae604540527224b37841e9d4e127bf2a7ac69",
-      "link": "https://www.infosecurity-magazine.com/news/eggstreme-malware-rebuilt-after/",
-      "published": 1795010400.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "After exposure, a suspected Chinese APT reassembled EggStreme malware and its infrastructure to continue operations.",
-      "tags": [],
-      "title": "Suspected Chinese APT Rebuilds EggStreme Malware After Exposure"
-    },
-    {
-      "added_at": 1795015129.9096267,
-      "ai": true,
-      "id": "959698f1939d3a92b553b94c35efe7e61a3c5901",
-      "link": "https://therecord.media/russia-hockey-cyberattack-championships",
-      "published": 1795009500.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "The International Ice Hockey Federation website was defaced with a pro‑Russian message amid disputes over Russia’s exclusion from competitions.",
-      "tags": [
-        "#news"
-      ],
-      "title": "Ice hockey governing body website defaced amid dispute over Russia's exclusion"
-    },
-    {
-      "added_at": 1795015129.9096267,
-      "ai": true,
-      "id": "dfcd48a830ee25559bfe3b42af256179694b1a57",
-      "link": "https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/",
-      "published": 1795008827.0,
-      "source": "SecurityWeek",
-      "summary": "A Russian APT used stolen identities from a hacked firm to phish a U.S. organization, demonstrating advanced social engineering tactics.",
-      "tags": [],
-      "title": "Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization"
-    },
-    {
-      "added_at": 1795015129.9096267,
-      "ai": true,
-      "id": "58112a1964c673a46fe8f56599a0a56b664032ff",
-      "link": "https://therecord.media/norway-equinor-cyberattack-energy",
-      "published": 1795008600.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "Equinor is addressing a cyberattack on its IT systems that disrupted internal services, but the company reports no impact on oil and gas production.",
-      "tags": [
-        "#news"
-      ],
-      "title": "Cyberattack hits Norwegian energy giant Equinor, disrupting internal services"
-    },
-    {
-      "added_at": 1795015129.9096267,
-      "ai": true,
-      "id": "2c1ddb51a4dc89a3f4f238f4d60c17f147d91088",
-      "link": "https://www.securityweek.com/last-of-five-defendants-sentenced-in-us-scattered-spider-hacking-case/",
-      "published": 1795007972.0,
-      "source": "SecurityWeek",
-      "summary": "British national Tyler Robert Buchanan sentenced to six years in U.S. federal prison for his role in the Scattered Spider hacking case. The Department of Justice announced the sentence. This is the final defendant to be sentenced in the case.",
-      "tags": [],
-      "title": "Last of Five Defendants Sentenced in US Scattered Spider Hacking Case"
-    },
-    {
-      "added_at": 1795015129.9096267,
-      "ai": true,
-      "id": "7aa694effe302302adfd73613259cfc0cf9181f8",
-      "link": "https://www.infosecurity-magazine.com/news/java4shell-vulnerability-remote/",
-      "published": 1795005300.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "A critical OpenJDK flaw, known as Java4Shell, enables remote code execution on major Java applications. The U.S. Cybersecurity and Infrastructure Security Agency has urged organizations to apply mitigations. The vulnerability affects widely used Java apps.",
-      "tags": [],
-      "title": "Java4Shell Vulnerability Allows Remote Attacks on Major Java Apps"
-    },
-    {
-      "added_at": 1795015129.9096267,
-      "ai": true,
-      "id": "74d12e4423207d9d1100017aae33f87bd34b5d85",
-      "link": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
-      "published": 1795004910.0,
-      "source": "The Hacker News",
-      "summary": "Researchers demonstrated that opening the PC case can reset the TPM lockout for Windows Hello and BitLocker PINs on AMD and some Intel systems. This allows attackers to guess short PINs within days. The study tested a four-digit Hello PIN and a six-digit BitLocker PIN.",
-      "tags": [],
-      "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years"
-    },
-    {
-      "added_at": 1795015129.9096267,
-      "ai": true,
-      "id": "ddb3ea43dd74220f75d649ae2f73803b5df8a263",
-      "link": "https://www.securityweek.com/microsoft-takes-perception-agentic-security-platform-out-of-preview/",
-      "published": 1795004063.0,
-      "source": "SecurityWeek",
-      "summary": "Microsoft has moved its Perception Agentic Security Platform out of preview. Four blue team agents and the Recon Agent are now generally available. Integrations and vulnerability shielding remain in preview.",
-      "tags": [],
-      "title": "Microsoft Takes Perception Agentic Security Platform Out of Preview"
-    },
-    {
-      "added_at": 1795015129.9096267,
-      "ai": true,
-      "id": "6352ff872275d62b72050e9358a3446ffaa78f48",
-      "link": "https://www.schneier.com/blog/archives/2026/11/france-is-blaming-iran-for-the-fridge-cyberattack.html",
-      "published": 1795003535.0,
-      "source": "Schneier on Security",
-      "summary": "France attributes a recent fridge cyberattack to Iran, citing U.S. intelligence assessments. The assessment is low confidence, indicating fragmented evidence. The attribution remains unconfirmed.",
-      "tags": [
-        "#opinion"
-      ],
-      "title": "France Is Blaming Iran for the Fridge Cyberattack"
-    },
-    {
-      "added_at": 1795015129.9096267,
-      "ai": true,
-      "id": "2df0fcea5ad6b106ee01f1fb4f013fda33932fd5",
-      "link": "https://www.securityweek.com/ciso-conversations-patti-degnan-part-of-the-job-is-deciding-what-not-to-do/",
-      "published": 1795003200.0,
-      "source": "SecurityWeek",
-      "summary": "Patti Degnan, whose identity was stolen in 2006, eventually became CISO at endpoint security firm Glow. The incident shaped her career path. She discusses decision-making in security roles.",
-      "tags": [],
-      "title": "CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do"
-    },
-    {
-      "added_at": 1795015129.9096267,
-      "ai": true,
-      "id": "223101d5735005162874ab1da73ce929275d0916",
-      "link": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
-      "published": 1795002949.0,
-      "source": "The Hacker News",
-      "summary": "The Java4Shell vulnerability (CVE-2026-114938) permits unauthenticated remote code execution on Jira, Jenkins, Keycloak, and other applications. It exists in Java 17.0.6 and later on x86-64 CPUs with AVX-512 VBMI support. The flaw was disclosed by Calif.",
-      "tags": [],
-      "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More"
-    },
-    {
-      "added_at": 1795015129.9096267,
-      "ai": true,
-      "id": "57cf485fa9212e04a8775b7224ceebd65c7b9052",
-      "link": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
-      "published": 1795002625.0,
-      "source": "BleepingComputer",
-      "summary": "The Alliance for Creativity and Entertainment announced the shutdown of Dizigom, a Turkish piracy site with 21 million monthly visits. The closure followed a settlement agreement with the operators. The site was one of Turkey's largest illegal streaming services.",
-      "tags": [],
-      "title": "Dizigom illegal streaming service with 21M monthly visits shuts down"
-    },
-    {
-      "added_at": 1795015129.9096267,
-      "ai": true,
-      "id": "787f32d48daf3d015521afd5c894ba81508f2cd6",
-      "link": "https://www.infosecurity-magazine.com/news/russian-star-blizzard-cloud-data/",
-      "published": 1795002300.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "Google analysis indicates that the Russian espionage group Star Blizzard, also known as Cold Relic, is increasingly targeting cloud identities. The group aims to steal data and facilitate further attacks. The focus represents a shift toward cloud-based threats.",
-      "tags": [],
-      "title": "Russian Espionage Actor Star Blizzard Focuses on Cloud Identities for Mass Data Theft"
-    },
-    {
-      "added_at": 1795015129.9096267,
-      "ai": true,
-      "id": "ac7a12437b591221a99c3ea4bf5ef7a9dbefb854",
-      "link": "https://www.securityweek.com/chrome-158-patches-204-vulnerabilities/",
-      "published": 1795002202.0,
-      "source": "SecurityWeek",
-      "summary": "Google released Chrome 158, which addresses 204 vulnerabilities. The company awarded $11,000 for five externally reported bugs and is determining payouts for 36 additional issues. The update improves browser security.",
-      "tags": [],
-      "title": "Chrome 158 Patches 204 Vulnerabilities"
-    },
-    {
-      "added_at": 1795015129.9096267,
-      "ai": true,
-      "id": "594fa93fd955408071ad4d89a59e8a19a3455ddb",
-      "link": "https://www.helpnetsecurity.com/2026/11/18/java4shell-openjdk-vulnerability-cve-2026-114938/",
-      "published": 1795000332.0,
-      "source": "Help Net Security",
-      "summary": "Oracle and OpenJDK fixed CVE-2026-114938, a memory corruption flaw in the Base64 decoder that could allow unauthenticated code execution on Java servers. No successful attacks have been reported.",
-      "tags": [],
-      "title": "Java4Shell OpenJDK flaw: Exploitation is tricky and hinges on specific CPUs (CVE-2026-114938)"
-    },
-    {
-      "added_at": 1795015129.9096267,
-      "ai": true,
-      "id": "aa9ca93e66e2e06b0c356bf65ca4c68b20a54cb4",
-      "link": "https://www.securityweek.com/microsoft-agent-framework-releases-poisoned-with-credential-stealer/",
-      "published": 1794999939.0,
-      "source": "SecurityWeek",
-      "summary": "Versions 1.26.1 and 1.26.2 of the agent-framework package on PyPI contain a credential stealer that captures Azure, Azure DevOps, and GitHub Actions credentials when Python starts.",
-      "tags": [],
-      "title": "Microsoft Agent Framework Releases Poisoned With Credential Stealer"
-    },
-    {
-      "added_at": 1795015129.9096267,
-      "ai": true,
-      "id": "e3a24527dd73e527c85c15bc3991429e598484d3",
-      "link": "https://blog.talosintelligence.com/the-challenge-of-defending-against-bulletproof-dead-drops-on-public-blockchains/",
-      "published": 1794999600.0,
-      "source": "Cisco Talos Blog",
-      "summary": "Malware command-and-control infrastructure is shifting from centralized servers to decentralized blockchain networks, creating resilient dead drops that eliminate single points of failure.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "The challenge of defending against bulletproof dead drops on public blockchains"
-    },
-    {
-      "added_at": 1795015129.9096267,
-      "ai": true,
-      "id": "a3cef9df02f8e3a4a83e0ac88f494493e90ea7b1",
-      "link": "https://blog.talosintelligence.com/uat-12643-suspected-north-korea-aligned-actor-blends-blockchain-resilience-with-targeted-infostealing/",
-      "published": 1794999600.0,
-      "source": "Cisco Talos Blog",
-      "summary": "Cisco Talos identified malicious infrastructure linked to a financially motivated threat group, designated UAT-12643, that uses blockchain resilience for targeted information theft.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "UAT-12643: Suspected North Korea-aligned actor blends blockchain resilience with targeted infostealing"
-    },
-    {
-      "added_at": 1795015129.9096267,
-      "ai": true,
-      "id": "94321d4b37d655bf734a78182e2ecdd1a76be2ec",
-      "link": "https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/",
-      "published": 1794998228.0,
-      "source": "SecurityWeek",
-      "summary": "CVE-2026-115731 allows a client with any CA‑signed agent certificate to execute code on a Perforce Puppet server, and the flaw has been actively exploited in attacks.",
-      "tags": [],
-      "title": "Critical Perforce Puppet RCE Exploited in Attacks"
-    },
-    {
-      "added_at": 1795015129.9096267,
-      "ai": true,
-      "id": "4f4cc6f190747ed0d5170f58bfdee1a5c5037bcb",
-      "link": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
-      "published": 1794998105.0,
-      "source": "BleepingComputer",
-      "summary": "Apache released security updates for a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers.",
-      "tags": [],
-      "title": "Apache warns of Roller RCE vulnerability exploited in attacks"
-    },
-    {
-      "added_at": 1795015129.9096267,
-      "ai": true,
-      "id": "9f62b2f4e8a2aa0bb138fa0eba41e87440ccf9a9",
-      "link": "https://www.infosecurity-magazine.com/news/watchdog-government-risk/",
-      "published": 1794994200.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "A National Audit Office report indicates that the UK government’s risk management practices are inadequate, leading to poor decision making.",
-      "tags": [],
-      "title": "Watchdog Warns UK Government Is Falling Short on Risk Management"
-    },
-    {
-      "added_at": 1795015129.9096267,
-      "ai": true,
-      "id": "4ccf67b96d4a380e765672321191344bda66f989",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
-      "published": 1794993871.0,
-      "source": "BleepingComputer",
-      "summary": "Microsoft unveiled Windows Server 2028 at Ignite 2026, highlighting enhanced security features for the next major server OS release.",
-      "tags": [],
-      "title": "Microsoft announces Windows Server 2028 with hardened security"
-    },
-    {
-      "added_at": 1795015129.9096267,
-      "ai": true,
-      "id": "0dd01d7b39139cc5efe212d03ac7431418a9ba82",
-      "link": "https://www.securityweek.com/oracle-patches-640-vulnerabilities-with-november-2026-cspu/",
-      "published": 1794991638.0,
-      "source": "SecurityWeek",
-      "summary": "Oracle’s November 2026 CSPU includes over 300 patches for unauthenticated remote exploits and 62 critical‑severity fixes, addressing 950 vulnerabilities.",
-      "tags": [],
-      "title": "Oracle Patches 950 Vulnerabilities With November 2026 CSPU"
-    },
-    {
-      "added_at": 1795015129.9096267,
-      "ai": true,
-      "id": "25f152a1b586a7e769d31bc4f7b74eab1528a401",
-      "link": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
-      "published": 1794990271.0,
-      "source": "The Hacker News",
-      "summary": "CISA added CVE-2026-115731 to its Known Exploited Vulnerabilities catalog after reports of active exploitation of a critical Perforce Puppet RCE affecting enterprise management servers.",
-      "tags": [],
-      "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers"
-    },
-    {
-      "added_at": 1795015129.9096267,
-      "ai": true,
-      "id": "1db641aaef4490d348704c14ec4fe509ef2c1ad2",
-      "link": "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html",
-      "published": 1794990263.0,
-      "source": "The Hacker News",
-      "summary": "CISA urges immediate patching of Oracle Java CVE-2026-114938, a critical out‑of‑bounds write that can lead to denial‑of‑service or remote code execution.",
-      "tags": [],
-      "title": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution"
-    },
-    {
-      "added_at": 1795015129.9096267,
-      "ai": true,
-      "id": "0ad69605a84900f72e560156ae22f11a73993ada",
-      "link": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
-      "published": 1794990258.0,
-      "source": "BleepingComputer",
-      "summary": "A leader of the Scattered Spider cybercrime collective was sentenced to six years in U.S. prison for cryptocurrency theft and conspiracy to hack multiple companies.",
-      "tags": [],
-      "title": "British Scattered Spider hacker sentenced to 6 years in prison"
-    },
-    {
-      "added_at": 1795015129.9096267,
-      "ai": true,
-      "id": "c5f6c87fa0f7f38639d21427bd6fe085128049f7",
-      "link": "https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/",
-      "published": 1794987814.0,
-      "source": "SecurityWeek",
-      "summary": "Java4Shell allows remote code execution in applications such as Jira, Jenkins, and Keycloak; real‑world exploitation requires target‑specific work.",
-      "tags": [],
-      "title": "Java4Shell Vulnerability Puts Many Enterprise Applications at Risk of Takeover"
-    },
-    {
-      "added_at": 1795015129.9096267,
-      "ai": true,
-      "id": "0cbe3d559dbca97f8a59a89be1d5639e49191fd1",
-      "link": "https://www.helpnetsecurity.com/2026/11/18/christian-schwalbe-deutsche-telekom-iot-security/",
-      "published": 1794987025.0,
-      "source": "Help Net Security",
-      "summary": "Deutsche Telekom IoT CEO Christian Schwalbe discusses risks of devices that remain in service for 15–20 years and how the EU Cyber Resilience Act and traffic‑pattern analysis can help secure them.",
-      "tags": [],
-      "title": "Deutsche Telekom IoT’s CEO on securing devices that run for 20 years"
-    },
-    {
-      "added_at": 1795015129.9096267,
-      "ai": true,
-      "id": "65d624000bfcf52ae98f29ed357ba3fe54b8db7c",
-      "link": "https://www.helpnetsecurity.com/2026/11/18/nicola-fox-hamilton-victim-blaming-scams-phishing/",
-      "published": 1794985233.0,
-      "source": "Help Net Security",
-      "summary": "Cyberpsychologist Dr. Nicola Fox Hamilton highlights how blaming scam victims deepens harm and discourages future reporting, emphasizing the psychological impact of phishing.",
-      "tags": [],
-      "title": "Once a scam ends the victim blaming begins"
-    },
-    {
-      "added_at": 1795015129.9096267,
-      "ai": true,
-      "id": "510cee7774af189cbeb0de9b466e148ee4dd5f8b",
-      "link": "https://securelist.com/auditteam-opsagent-forced-audit/122031/",
-      "published": 1794985207.0,
-      "source": "Securelist",
-      "summary": "AuditTeam’s OpsAgent ransomware uses a forced audit model, demanding consulting fees to delete stolen data, and is distributed via a Rust rewrite of the implant.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "The forced audit: how AuditTeam’s OpsAgent framework masks ransomware as consulting"
-    },
-    {
-      "added_at": 1795015129.9096267,
-      "ai": true,
-      "id": "1df53018af16af504526646979144ea084c6b860",
-      "link": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
-      "published": 1794984326.0,
-      "source": "The Hacker News",
-      "summary": "Threat actors released malicious versions of Microsoft’s agent‑framework PyPI package (1.26.1 and 1.26.2) that install a credential stealer on every Python startup, targeting cloud credentials.",
-      "tags": [],
-      "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials"
-    },
-    {
-      "added_at": 1795015129.9096267,
-      "ai": true,
-      "id": "73f99f24243eacdcdd0457456c6413d806e0922d",
-      "link": "https://www.helpnetsecurity.com/2026/11/18/tapmap-network-map-open-source/",
-      "published": 1794983424.0,
-      "source": "Help Net Security",
-      "summary": "TapMap is a free desktop application that visualizes a computer’s active network connections on an interactive world map using local GeoIP data.",
-      "tags": [],
-      "title": "TapMap: Free, open-source network map"
-    },
-    {
-      "added_at": 1795015129.9096267,
-      "ai": true,
-      "id": "c1286bf528ca48d545f69c932fdee55d7040ce20",
-      "link": "https://www.helpnetsecurity.com/2026/11/18/winrar-bubbleloader-malware/",
-      "published": 1794981603.0,
-      "source": "Help Net Security",
-      "summary": "BubbleLoader modifies the entry point of legitimate Windows programs, such as WinRAR and Windows Media Player, embedding hidden code and PNG images to act as carriers for additional malware.",
-      "tags": [],
-      "title": "BubbleLoader malware turns copies of WinRAR and Windows Media Player into carriers"
-    },
-    {
-      "added_at": 1795015129.9096267,
-      "ai": true,
-      "id": "ee9a23761ba06bf059073accba0e3ee37023049f",
-      "link": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html",
-      "published": 1794981484.0,
-      "source": "The Hacker News",
-      "summary": "Cold Relic leveraged stolen Google Workspace data to compromise a second U.S. organization, using a single cloud breach as a launchpad for linked intrusions.",
-      "tags": [],
-      "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization"
-    },
-    {
       "added_at": 1795046424.3704307,
       "ai": true,
       "id": "6e6d50da419523091a4ca197c4ed4a9da7abde76",
@@ -2294,6 +1832,482 @@
       "summary": "N-able released fixes for seven N-central CVEs after 33 zero-day vulnerabilities were disclosed. The update aims to close security gaps in the platform.",
       "tags": [],
       "title": "N-able Rushes Out N-central Fixes After 33 Zero-Days Go Public"
+    },
+    {
+      "added_at": 1795218382.704868,
+      "ai": true,
+      "id": "9b2dca1639f78a8aa66d231c4d5e5f6434d3f27d",
+      "link": "https://www.theregister.com/devops/2026/11/20/php-86-things-are-gonna-get-a-lot-more-strict-around-here/5311486",
+      "published": 1795217327.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "PHP 8.6 introduces stricter default behaviors to reduce potential attack vectors. The update removes permissive settings that previously allowed unsafe code execution.",
+      "tags": [],
+      "title": "PHP 8.6: Things are gonna get a lot more strict around here"
+    },
+    {
+      "added_at": 1795218382.704868,
+      "ai": true,
+      "id": "d20cb913632d0a35f0e5d077baa71ad3b191ead5",
+      "link": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-the-largest-squid-ever-filmed.html",
+      "published": 1795212252.0,
+      "source": "Schneier on Security",
+      "summary": "The article documents the filming of the largest squid ever captured near Japan’s Ogasawara Islands in December 2006. It also references unrelated security stories and blog moderation policy.",
+      "tags": [
+        "#opinion"
+      ],
+      "title": "Friday Squid Blogging: The Largest Squid Ever Filmed"
+    },
+    {
+      "added_at": 1795218382.704868,
+      "ai": true,
+      "id": "ec3643e6e571f139f492aaeef4ed8e9301134ba1",
+      "link": "https://unit42.paloaltonetworks.com/com-affiliate-vishing-attacks/",
+      "published": 1795212025.0,
+      "source": "Unit 42",
+      "summary": "Unit 42 analyzes Com affiliate vishing attacks targeting healthcare and finance. The post offers actionable defense guidance against cloud data theft and extortion campaigns.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "Dialing for Data: Inside the Com’s High-Profile Heists"
+    },
+    {
+      "added_at": 1795218382.704868,
+      "ai": true,
+      "id": "f0b8696c25c4c4a7795d4fd121dacf3e418eeb4a",
+      "link": "https://therecord.media/west-virginia-legislature-cyberattack",
+      "published": 1795210476.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "A cybersecurity incident disrupted IT systems at the West Virginia Legislature starting Thursday. The disruption was contained and did not spread to other government entities.",
+      "tags": [
+        "#news"
+      ],
+      "title": "West Virginia Legislature hit with cyber incident affecting IT systems"
+    },
+    {
+      "added_at": 1795218382.704868,
+      "ai": true,
+      "id": "1d4b67e404ea5230e0df44c12e73e8f97f6140b3",
+      "link": "https://www.theregister.com/cyber-crime/2026/11/20/visa-mastercard-theft-included-info-useful-for-phishing-but-not-draining-bank-accounts-say-researchers/5311478",
+      "published": 1795210076.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "Researchers found that stolen Visa and Mastercard data included information useful for phishing but did not contain financial details. The data could aid attackers in credential harvesting.",
+      "tags": [],
+      "title": "Visa, Mastercard theft included info useful for phishing, but not draining bank accounts, say researchers"
+    },
+    {
+      "added_at": 1795218382.704868,
+      "ai": true,
+      "id": "a9aa37ceddf16814c33589d65029bbf5bd1bb0b3",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day",
+      "published": 1795208607.0,
+      "source": "darkreading",
+      "summary": "A China‑nexus threat group likely had a VMware vCenter zero‑day ready during the latest major update cycle. The group targeted VMware vCenter to exploit known vulnerabilities.",
+      "tags": [],
+      "title": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day"
+    },
+    {
+      "added_at": 1795218382.704868,
+      "ai": true,
+      "id": "273c692ec6e6b04d20171f7a5dfd62ba812ccb64",
+      "link": "https://www.theregister.com/security/2026/11/20/signal-slams-door-on-prying-ai-agents-to-protect-privacy/5311466",
+      "published": 1795207324.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "Signal criticized Apple, Google, and Microsoft for not providing adequate AI agent controls. The company emphasized protecting user privacy against intrusive AI features.",
+      "tags": [],
+      "title": "Signal slams door on prying AI agents to protect privacy"
+    },
+    {
+      "added_at": 1795218382.704868,
+      "ai": true,
+      "id": "e010061a1eb7f0ca2916ad58651c04b26cfec7ae",
+      "link": "https://therecord.media/chinese-open-weight-AI-use-by-US-companies-house-investigation",
+      "published": 1795206300.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "House Homeland Security Committee investigated U.S. companies using low‑cost open‑weight AI models. The inquiry highlighted potential security risks associated with these models.",
+      "tags": [
+        "#news"
+      ],
+      "title": "US companies’ use of Chinese open weight AI draws rebuke from House chairmen"
+    },
+    {
+      "added_at": 1795218382.704868,
+      "ai": true,
+      "id": "0a863e6f7d52efa1318c7843f1911ec8a41cdc04",
+      "link": "https://cyberscoop.com/signal-blocks-apple-google-ai-screenshots/",
+      "published": 1795204465.0,
+      "source": "CyberScoop",
+      "summary": "Signal now blocks screenshots by Apple, Google, and Microsoft AI agents to protect user privacy. The move follows a similar block implemented for Microsoft last year.",
+      "tags": [],
+      "title": "Signal blocks Apple, Google AI screenshotting in response to ‘existential threat’ to privacy app"
+    },
+    {
+      "added_at": 1795218382.704868,
+      "ai": true,
+      "id": "edfeced150c6a6c3fa7c66876012ed16a8d958ba",
+      "link": "https://therecord.media/container-store-restores-systems-cyberattack",
+      "published": 1795203120.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "The Container Store’s parent company, Neighborhood Intelligence, announced that the retailer restored its website and systems after a weekend cyberattack. The incident was contained with no reported data loss.",
+      "tags": [
+        "#news"
+      ],
+      "title": "Container Store restores systems after cyberattack"
+    },
+    {
+      "added_at": 1795218382.704868,
+      "ai": true,
+      "id": "688d34085c16818f44f54f4fcb2ced49ab68f449",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/n0n-extortion-leaks-data-jpmorgan-chase-visa-mastercard",
+      "published": 1795201058.0,
+      "source": "GRAHAM CLULEY",
+      "summary": "The extortion group n0n breached third‑party service providers for JPMorgan Chase, Visa, and Mastercard, leaking customer data online. The leak includes personal and financial information of customers of the three major financial firms. The incident highlights the risk of third‑party vulnerabilities.",
+      "tags": [],
+      "title": "n0n extortion gang leaks data of JPMorgan Chase, Visa, and Mastercard customers"
+    },
+    {
+      "added_at": 1795218382.704868,
+      "ai": true,
+      "id": "6c623452a14a6d231ad59fba2e65f23ed355f3b0",
+      "link": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
+      "published": 1795200703.0,
+      "source": "BleepingComputer",
+      "summary": "Bell Canada confirmed a breach on November 17, 2026 by an 'agentic' threat actor that stole enterprise customer data, including information from a system used to order and provision telecom circuits. The attack targeted internal systems and exposed sensitive customer details. Bell is investigating the scope of the data loss.",
+      "tags": [],
+      "title": "Bell Canada says 'agentic' hacker stole enterprise customer data"
+    },
+    {
+      "added_at": 1795218382.704868,
+      "ai": true,
+      "id": "95e1986b820d2a3404c1e1596549fd8d6659dd46",
+      "link": "https://www.darkreading.com/cybersecurity-operations/security-words-matter",
+      "published": 1795199740.0,
+      "source": "darkreading",
+      "summary": "Cyber leaders emphasize that clear, disciplined communication is a frontline defense in cloud security and AI adoption. The article argues that effective messaging can mitigate risks as much as technical controls. It calls for better communication practices across enterprises.",
+      "tags": [],
+      "title": "In Security, Words Matter as Much as Tools, Maybe More"
+    },
+    {
+      "added_at": 1795218382.704868,
+      "ai": true,
+      "id": "6cc616c5c6e76f971a0e2bcbe54a9b1f6084cddf",
+      "link": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
+      "published": 1795197440.0,
+      "source": "The Hacker News",
+      "summary": "Meta’s WhatsApp fixed three security vulnerabilities, one affecting Android that may have been used in scam messages. The CVE‑2026‑23871 flaw involved incomplete validation of external ad‑reply URLs. The patch addresses the issue in WhatsApp and WhatsApp Business for Android.",
+      "tags": [],
+      "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams"
+    },
+    {
+      "added_at": 1795218382.704868,
+      "ai": true,
+      "id": "0abe4221510a96d08be27478dc99a4d5c36969bb",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+      "published": 1795195800.0,
+      "source": "BleepingComputer",
+      "summary": "Threat actors employed the open‑source AI penetration‑testing framework Cairn to discover a zero‑day vulnerability in a medical imaging application. The vulnerability allowed them to take control of the server. The incident demonstrates the risk of AI tools in adversarial use.",
+      "tags": [],
+      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server"
+    },
+    {
+      "added_at": 1795218382.704868,
+      "ai": true,
+      "id": "82b76084c3aaddba0be3cf30ffb44c2f0c9468ae",
+      "link": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382",
+      "published": 1795195800.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "Chinese threat actors used AI agents that adapted for nearly a full day without human input to locate and exploit a zero‑day in a university server. The attack persisted until the vulnerability was discovered. The case shows autonomous AI capabilities in cyber attacks.",
+      "tags": [],
+      "title": "China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server"
+    },
+    {
+      "added_at": 1795218382.704868,
+      "ai": true,
+      "id": "cd038ca0a29b9504418e113f1e23c09140ccbc7b",
+      "link": "https://therecord.media/amazon-research-cairn-ai-university-attacks-possible-zero-day",
+      "published": 1795195800.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "Amazon reported that a China‑linked threat actor used the open‑source AI tool Cairn to attack two universities, potentially discovering a zero‑day bug. The attackers persisted in the attack, exploiting the vulnerability to gain control. The incident highlights the misuse of AI tools for exploitation.",
+      "tags": [
+        "#news"
+      ],
+      "title": "Amazon says Chinese hackers used Cairn AI tool to discover apparent zero-day during attack on university"
+    },
+    {
+      "added_at": 1795218382.704868,
+      "ai": true,
+      "id": "35aed7f27fbb0710a0b6e764ce2aa825cc104949",
+      "link": "https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry",
+      "published": 1795194244.0,
+      "source": "darkreading",
+      "summary": "The video discusses recent news missed by the publication, including the resignation of Nvidia CEO Jensen Huang and a Microsoft cloud outage. The segment covers industry impacts and reactions. It provides context on recent AI industry developments.",
+      "tags": [],
+      "title": "What We Missed: Nvidia CEO Scandal Rocks AI Industry"
+    },
+    {
+      "added_at": 1795218382.704868,
+      "ai": true,
+      "id": "9dbbebdeb6a3a85df4b204a905c4843344a5a971",
+      "link": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
+      "published": 1795193896.0,
+      "source": "The Hacker News",
+      "summary": "Researchers identified the Bazuka Android malware framework that uses fake screen overlays to conceal credential theft and remote device control. The malware integrates large language models for victim management. It was discovered during an investigation of an NFC‑relay banking Trojan.",
+      "tags": [],
+      "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control"
+    },
+    {
+      "added_at": 1795218382.704868,
+      "ai": true,
+      "id": "170cd467c630bfa77ba05953b8a786a7c597be35",
+      "link": "https://www.theregister.com/security/2026/11/20/dutch-data-watchdog-highlights-safety-issues-with-ai-glasses/5311345",
+      "published": 1795193040.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "The Dutch data protection authority warned that AI glasses misinterpret medication instructions and other scenarios, posing safety risks. The devices could lead to incorrect usage or harm. The watchdog urges caution and further safety testing.",
+      "tags": [],
+      "title": "Dutch data watchdog highlights safety issues with AI glasses"
+    },
+    {
+      "added_at": 1795218382.704868,
+      "ai": true,
+      "id": "f67114676f5678cecddc1e6a04cb6812426dab80",
+      "link": "https://therecord.media/nsa-resumes-normal-operations-following-internal-disruptions",
+      "published": 1795190760.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "NSA has resumed normal operations after internal network disruptions. Some facilities remain in Code Orange, delaying openings for non‑essential staff. Employees must check in with supervisors.",
+      "tags": [
+        "#news"
+      ],
+      "title": "NSA resumes normal operations following internal network disruptions"
+    },
+    {
+      "added_at": 1795218382.704868,
+      "ai": true,
+      "id": "b3099b7219afcaab9c361fde14bf17394af6dc60",
+      "link": "https://www.securityweek.com/whatsapp-fixes-flaw-uncovered-while-disrupting-scam-campaign/",
+      "published": 1795190462.0,
+      "source": "SecurityWeek",
+      "summary": "WhatsApp discovered and fixed CVE‑2026‑23871, a vulnerability that could have made scam messages more credible. The flaw was identified by WhatsApp’s security team during a scam campaign disruption.",
+      "tags": [],
+      "title": "WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign"
+    },
+    {
+      "added_at": 1795218382.704868,
+      "ai": true,
+      "id": "bbc19bb6f991b9cb21ec42bf5597f5c2a2772d0a",
+      "link": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
+      "published": 1795190286.0,
+      "source": "BleepingComputer",
+      "summary": "J.P. Morgan Chase reported a data breach at a third‑party service provider. The breach exposed personal and marketing data of Chase, Visa, and Mastercard customers.",
+      "tags": [],
+      "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info"
+    },
+    {
+      "added_at": 1795218382.704868,
+      "ai": true,
+      "id": "19cca4f1450a3e9083b1650de3fe32ecbba3a59a",
+      "link": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
+      "published": 1795186810.0,
+      "source": "BleepingComputer",
+      "summary": "Storing passwords in spreadsheets can hide weak, reused, or compromised credentials. Centralized password management improves visibility, identifies risks, and simplifies secure sharing.",
+      "tags": [],
+      "title": "Still tracking company passwords in spreadsheets? You’re flying blind."
+    },
+    {
+      "added_at": 1795218382.704868,
+      "ai": true,
+      "id": "f3d31e5642221177b7956a000bb97b22be58feef",
+      "link": "https://www.theregister.com/security/2026/11/20/spy-court-blasts-uk-secrecy-forces-government-to-admit-apple-backdoor-demand/5311292",
+      "published": 1795177099.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "A UK spy court criticized government secrecy and forced an admission of an Apple backdoor demand. The court noted the notice could be acknowledged without compromising national security, but details remain undisclosed.",
+      "tags": [],
+      "title": "Spy court blasts UK secrecy, forces government to admit Apple ‘backdoor’ demand"
+    },
+    {
+      "added_at": 1795218382.704868,
+      "ai": true,
+      "id": "2cf87a19124d5e799883e6672f53cb01e613fb76",
+      "link": "https://www.darkreading.com/cybersecurity-operations/test-takers-ai-exam-security-catch-up",
+      "published": 1794608820.0,
+      "source": "darkreading",
+      "summary": "AI use in IT certification exams is difficult to detect. New tools and processes are emerging to enhance exam integrity and trust.",
+      "tags": [],
+      "title": "As Test Takers Turn to AI, Exam Security Plays Catch-Up"
+    },
+    {
+      "added_at": 1795218382.704868,
+      "ai": true,
+      "id": "26bc7212e5d9b4f97290702ee1b33d70790e2fa9",
+      "link": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-pacific-flying-squid-populations-dropping-in-korean-waters.html",
+      "published": 1794607246.0,
+      "source": "Schneier on Security",
+      "summary": "Research shows a decline in Pacific flying squid populations in Korean waters, linked to climate change. The article also references other security stories not covered.",
+      "tags": [
+        "#opinion"
+      ],
+      "title": "Friday Squid Blogging: Pacific Flying Squid Populations Dropping in Korean Waters"
+    },
+    {
+      "added_at": 1795218382.704868,
+      "ai": true,
+      "id": "3c3eab5ceb3d840cde407e2b8e8121a1d4565916",
+      "link": "https://blog.talosintelligence.com/artex-and-beyond/",
+      "published": 1794603433.0,
+      "source": "Cisco Talos Blog",
+      "summary": "AI‑enabled penetration testing and red‑team frameworks automate reconnaissance, vulnerability testing, and follow‑on actions. Misuse of these tools can lower the skill threshold for attackers and accelerate intrusions.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "ARTEX and beyond: AI-enabled penetration testing platforms"
+    },
+    {
+      "added_at": 1795218382.704868,
+      "ai": true,
+      "id": "e12779d5806a7d2615d2f1e1fbe3950aafe1b77b",
+      "link": "https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai",
+      "published": 1794601227.0,
+      "source": "darkreading",
+      "summary": "ArcticRAT malware now uses AI to analyze stolen information, expanding beyond cryptocurrency theft to full device control. The gang profiles victim finances to target attacks.",
+      "tags": [],
+      "title": "ArcticRAT Cybercrime Gang Profiles Victim Finances With AI"
+    },
+    {
+      "added_at": 1795218382.704868,
+      "ai": true,
+      "id": "862c3998dd63db20fc587cc4bab2e79caf66eb79",
+      "link": "https://www.rapid7.com/blog/post/dr-mdr-pricing-comparing-asset-ingestion-based-ingestion-costs",
+      "published": 1794587849.0,
+      "source": "Rapid7 Cybersecurity Blog",
+      "summary": "MDR pricing models differ between asset‑based and ingestion‑based approaches. Similar budgets can yield varying evidence access, retention periods, and investigative responsibilities, affecting incident response.",
+      "tags": [
+        "#vulnerability"
+      ],
+      "title": "MDR Pricing: Comparing Asset-Based and Ingestion-Based Costs"
+    },
+    {
+      "added_at": 1795218382.704868,
+      "ai": true,
+      "id": "1838248a60d9044040f647fbae585a096108889a",
+      "link": "https://projectzero.google/2026/11/disclosure-policy.html",
+      "published": 1794556800.0,
+      "source": "Project Zero",
+      "summary": "Project Zero’s 90+30 disclosure policy gives vendors 90 days to patch a vulnerability and an additional 30 days for rollout. The policy aims to accelerate patching and allow time for users to receive updates. AI‑assisted discovery has altered the threat landscape.",
+      "tags": [
+        "#vulnerability",
+        "#0day"
+      ],
+      "title": "Policy and Disclosure: 2026 Edition"
+    },
+    {
+      "added_at": 1795218382.704868,
+      "ai": true,
+      "id": "e9f16b1caffc5770ee0cf81ccc5e9c1337250d08",
+      "link": "https://www.darkreading.com/cybersecurity-operations/getting-past-post-quantum-cryptography-discovery",
+      "published": 1794523565.0,
+      "source": "darkreading",
+      "summary": "Many organizations have not inventoried their cryptographic assets, making it unclear where to start with post‑quantum cryptography. This lack of visibility hampers PQC adoption.",
+      "tags": [],
+      "title": "Getting Past the Post-Quantum Cryptography Discovery Phase"
+    },
+    {
+      "added_at": 1795218382.704868,
+      "ai": true,
+      "id": "d9fc7bca781a0c5021389c6b2de9e6d0ea0125d2",
+      "link": "https://www.darkreading.com/threat-intelligence/chinese-ai-project-scouts-spies-taiwan-chip-industry",
+      "published": 1794445200.0,
+      "source": "darkreading",
+      "summary": "The Chinese Communist Party built a Big Data system to scrape information on overseas individuals. The system could be used to target and exploit those individuals.",
+      "tags": [],
+      "title": "Chinese AI Project Scouts Spies in Taiwan Chip Industry"
+    },
+    {
+      "added_at": 1795218382.704868,
+      "ai": true,
+      "id": "453a571c3295ab4cc781fa4c1a142b5055249570",
+      "link": "https://grahamcluley.com/smashing-security-podcast-492/",
+      "published": 1794443575.0,
+      "source": "GRAHAM CLULEY",
+      "summary": "The Smashing Security podcast covers a scheme that used deepfakes of company bosses to steal $130 million. It also discusses how hackers can hijack digital car keys, turning vehicles into “pumpkins.”",
+      "tags": [],
+      "title": "Smashing Security podcast #492: How hackers turned Russian cars into pumpkins"
+    },
+    {
+      "added_at": 1795218382.704868,
+      "ai": true,
+      "id": "3fe5e276bee2ad65943d176ec6438bd0e03f31f5",
+      "link": "https://www.infosecurity-magazine.com/news/anthropic-glasswing/",
+      "published": 1794414600.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "After seven months, Project Glasswing reported thousands of vulnerabilities but only 217 were fixed. This indicates a gap between discovery and remediation.",
+      "tags": [],
+      "title": "Anthropic's Glasswing Finds Many Vulnerabilities Yet Delivers Few Fixes, Researcher Says"
+    },
+    {
+      "added_at": 1795218382.704868,
+      "ai": true,
+      "id": "ceba7551bef304a7a0e28a70f5711cf19db73799",
+      "link": "https://unit42.paloaltonetworks.com/falcon-c2-browser-compromise/",
+      "published": 1794409223.0,
+      "source": "Unit 42",
+      "summary": "Falcon C2 is a browser‑based threat framework that targets governments through malicious scripts, extensions, and the Antino implant. It operates under the radar of traditional security tools.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "The XG Files: Falcon C2 Flying Under The (Browser) Radar"
+    },
+    {
+      "added_at": 1795218382.704868,
+      "ai": true,
+      "id": "cca2595a4842309021f45cd1622694cd9071760d",
+      "link": "https://portswigger.net/research/blind-trust-stealing-credentials-through-csp",
+      "published": 1794407161.0,
+      "source": "PortSwigger Research",
+      "summary": "Content Security Policy is intended to block HTML injection from becoming XSS. However, when a domain is whitelisted, the policy can fail and allow credential theft.",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Blind trust: stealing credentials through CSP"
+    },
+    {
+      "added_at": 1795218382.704868,
+      "ai": true,
+      "id": "a731319ae302ffd3ffffa01ec066e4adfb6e1621",
+      "link": "https://www.welivesecurity.com/en/eset-research/exchange-for-breakfast-turlas-cereal-tricks-are-not-for-kids/",
+      "published": 1794304620.0,
+      "source": "WeLiveSecurity",
+      "summary": "Turla’s Cereal toolset includes a novel Exchange email collection module, a unique command‑and‑control mechanism, and sophisticated .NET execution tricks.",
+      "tags": [],
+      "title": "Exchange for breakfast: Turla’s Cereal tricks are not for kids"
+    },
+    {
+      "added_at": 1795218382.704868,
+      "ai": true,
+      "id": "9ad18cf8e21e4bbb8cb1d87af789a69a68131b46",
+      "link": "https://www.intigriti.com/blog/business-insights/what-a-live-hacking-event-with-intigriti-can-do",
+      "published": 1794268800.0,
+      "source": "Intigriti",
+      "summary": "Intigriti runs live hacking events where selected ethical hackers hunt for vulnerabilities in a company’s systems. Conference events bring these hackers to industry gatherings, expanding the reach of the program.",
+      "tags": [
+        "#bugbounty"
+      ],
+      "title": "The pinnacle of crowdsourced security. What a live hacking event with Intigriti can do for businesses"
+    },
+    {
+      "added_at": 1795218382.704868,
+      "ai": true,
+      "id": "ce2362fa272a2dc24fb12c5c84b77e345a05a3dc",
+      "link": "https://unit42.paloaltonetworks.com/europes-refrigeration-systems-attacks/",
+      "published": 1793999709.0,
+      "source": "Unit 42",
+      "summary": "Unit 42 examined recent cyberattacks on European refrigeration systems. The report outlines defense and mitigation strategies to protect critical infrastructure.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "Turning Up the Heat: Inside the Attacks on Europe’s Refrigeration Systems"
     }
   ],
   "posted": []

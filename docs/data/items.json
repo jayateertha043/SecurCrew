@@ -1,7 +1,286 @@
 {
-  "generated_at": 1795186913.9401562,
-  "count": 162,
+  "generated_at": 1795218382.7168796,
+  "count": 146,
   "items": [
+    {
+      "title": "PHP 8.6: Things are gonna get a lot more strict around here",
+      "summary": "PHP 8.6 introduces stricter default behaviors to reduce potential attack vectors. The update removes permissive settings that previously allowed unsafe code execution.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/devops/2026/11/20/php-86-things-are-gonna-get-a-lot-more-strict-around-here/5311486",
+      "published": 1795217327.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795218382.704868
+    },
+    {
+      "title": "Friday Squid Blogging: The Largest Squid Ever Filmed",
+      "summary": "The article documents the filming of the largest squid ever captured near Japan’s Ogasawara Islands in December 2006. It also references unrelated security stories and blog moderation policy.",
+      "source": "Schneier on Security",
+      "link": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-the-largest-squid-ever-filmed.html",
+      "published": 1795212252.0,
+      "tags": [
+        "#opinion"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795218382.704868
+    },
+    {
+      "title": "Dialing for Data: Inside the Com’s High-Profile Heists",
+      "summary": "Unit 42 analyzes Com affiliate vishing attacks targeting healthcare and finance. The post offers actionable defense guidance against cloud data theft and extortion campaigns.",
+      "source": "Unit 42",
+      "link": "https://unit42.paloaltonetworks.com/com-affiliate-vishing-attacks/",
+      "published": 1795212025.0,
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795218382.704868
+    },
+    {
+      "title": "West Virginia Legislature hit with cyber incident affecting IT systems",
+      "summary": "A cybersecurity incident disrupted IT systems at the West Virginia Legislature starting Thursday. The disruption was contained and did not spread to other government entities.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/west-virginia-legislature-cyberattack",
+      "published": 1795210476.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795218382.704868
+    },
+    {
+      "title": "Visa, Mastercard theft included info useful for phishing, but not draining bank accounts, say researchers",
+      "summary": "Researchers found that stolen Visa and Mastercard data included information useful for phishing but did not contain financial details. The data could aid attackers in credential harvesting.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/cyber-crime/2026/11/20/visa-mastercard-theft-included-info-useful-for-phishing-but-not-draining-bank-accounts-say-researchers/5311478",
+      "published": 1795210076.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795218382.704868
+    },
+    {
+      "title": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day",
+      "summary": "A China‑nexus threat group likely had a VMware vCenter zero‑day ready during the latest major update cycle. The group targeted VMware vCenter to exploit known vulnerabilities.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day",
+      "published": 1795208607.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795218382.704868
+    },
+    {
+      "title": "Signal slams door on prying AI agents to protect privacy",
+      "summary": "Signal criticized Apple, Google, and Microsoft for not providing adequate AI agent controls. The company emphasized protecting user privacy against intrusive AI features.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/11/20/signal-slams-door-on-prying-ai-agents-to-protect-privacy/5311466",
+      "published": 1795207324.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795218382.704868
+    },
+    {
+      "title": "US companies’ use of Chinese open weight AI draws rebuke from House chairmen",
+      "summary": "House Homeland Security Committee investigated U.S. companies using low‑cost open‑weight AI models. The inquiry highlighted potential security risks associated with these models.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/chinese-open-weight-AI-use-by-US-companies-house-investigation",
+      "published": 1795206300.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795218382.704868
+    },
+    {
+      "title": "Signal blocks Apple, Google AI screenshotting in response to ‘existential threat’ to privacy app",
+      "summary": "Signal now blocks screenshots by Apple, Google, and Microsoft AI agents to protect user privacy. The move follows a similar block implemented for Microsoft last year.",
+      "source": "CyberScoop",
+      "link": "https://cyberscoop.com/signal-blocks-apple-google-ai-screenshots/",
+      "published": 1795204465.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795218382.704868
+    },
+    {
+      "title": "Container Store restores systems after cyberattack",
+      "summary": "The Container Store’s parent company, Neighborhood Intelligence, announced that the retailer restored its website and systems after a weekend cyberattack. The incident was contained with no reported data loss.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/container-store-restores-systems-cyberattack",
+      "published": 1795203120.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795218382.704868
+    },
+    {
+      "title": "n0n extortion gang leaks data of JPMorgan Chase, Visa, and Mastercard customers",
+      "summary": "The extortion group n0n breached third‑party service providers for JPMorgan Chase, Visa, and Mastercard, leaking customer data online. The leak includes personal and financial information of customers of the three major financial firms. The incident highlights the risk of third‑party vulnerabilities.",
+      "source": "GRAHAM CLULEY",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/n0n-extortion-leaks-data-jpmorgan-chase-visa-mastercard",
+      "published": 1795201058.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795218382.704868
+    },
+    {
+      "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
+      "summary": "Bell Canada confirmed a breach on November 17, 2026 by an 'agentic' threat actor that stole enterprise customer data, including information from a system used to order and provision telecom circuits. The attack targeted internal systems and exposed sensitive customer details. Bell is investigating the scope of the data loss.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
+      "published": 1795200703.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795218382.704868
+    },
+    {
+      "title": "In Security, Words Matter as Much as Tools, Maybe More",
+      "summary": "Cyber leaders emphasize that clear, disciplined communication is a frontline defense in cloud security and AI adoption. The article argues that effective messaging can mitigate risks as much as technical controls. It calls for better communication practices across enterprises.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/cybersecurity-operations/security-words-matter",
+      "published": 1795199740.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795218382.704868
+    },
+    {
+      "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
+      "summary": "Meta’s WhatsApp fixed three security vulnerabilities, one affecting Android that may have been used in scam messages. The CVE‑2026‑23871 flaw involved incomplete validation of external ad‑reply URLs. The patch addresses the issue in WhatsApp and WhatsApp Business for Android.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
+      "published": 1795197440.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795218382.704868
+    },
+    {
+      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+      "summary": "Threat actors employed the open‑source AI penetration‑testing framework Cairn to discover a zero‑day vulnerability in a medical imaging application. The vulnerability allowed them to take control of the server. The incident demonstrates the risk of AI tools in adversarial use.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+      "published": 1795195800.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795218382.704868
+    },
+    {
+      "title": "China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server",
+      "summary": "Chinese threat actors used AI agents that adapted for nearly a full day without human input to locate and exploit a zero‑day in a university server. The attack persisted until the vulnerability was discovered. The case shows autonomous AI capabilities in cyber attacks.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382",
+      "published": 1795195800.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795218382.704868
+    },
+    {
+      "title": "Amazon says Chinese hackers used Cairn AI tool to discover apparent zero-day during attack on university",
+      "summary": "Amazon reported that a China‑linked threat actor used the open‑source AI tool Cairn to attack two universities, potentially discovering a zero‑day bug. The attackers persisted in the attack, exploiting the vulnerability to gain control. The incident highlights the misuse of AI tools for exploitation.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/amazon-research-cairn-ai-university-attacks-possible-zero-day",
+      "published": 1795195800.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795218382.704868
+    },
+    {
+      "title": "What We Missed: Nvidia CEO Scandal Rocks AI Industry",
+      "summary": "The video discusses recent news missed by the publication, including the resignation of Nvidia CEO Jensen Huang and a Microsoft cloud outage. The segment covers industry impacts and reactions. It provides context on recent AI industry developments.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry",
+      "published": 1795194244.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795218382.704868
+    },
+    {
+      "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
+      "summary": "Researchers identified the Bazuka Android malware framework that uses fake screen overlays to conceal credential theft and remote device control. The malware integrates large language models for victim management. It was discovered during an investigation of an NFC‑relay banking Trojan.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
+      "published": 1795193896.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795218382.704868
+    },
+    {
+      "title": "Dutch data watchdog highlights safety issues with AI glasses",
+      "summary": "The Dutch data protection authority warned that AI glasses misinterpret medication instructions and other scenarios, posing safety risks. The devices could lead to incorrect usage or harm. The watchdog urges caution and further safety testing.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/11/20/dutch-data-watchdog-highlights-safety-issues-with-ai-glasses/5311345",
+      "published": 1795193040.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795218382.704868
+    },
+    {
+      "title": "NSA resumes normal operations following internal network disruptions",
+      "summary": "NSA has resumed normal operations after internal network disruptions. Some facilities remain in Code Orange, delaying openings for non‑essential staff. Employees must check in with supervisors.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/nsa-resumes-normal-operations-following-internal-disruptions",
+      "published": 1795190760.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795218382.704868
+    },
+    {
+      "title": "WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign",
+      "summary": "WhatsApp discovered and fixed CVE‑2026‑23871, a vulnerability that could have made scam messages more credible. The flaw was identified by WhatsApp’s security team during a scam campaign disruption.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/whatsapp-fixes-flaw-uncovered-while-disrupting-scam-campaign/",
+      "published": 1795190462.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795218382.704868
+    },
+    {
+      "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+      "summary": "J.P. Morgan Chase reported a data breach at a third‑party service provider. The breach exposed personal and marketing data of Chase, Visa, and Mastercard customers.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
+      "published": 1795190286.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795218382.704868
+    },
+    {
+      "title": "Still tracking company passwords in spreadsheets? You’re flying blind.",
+      "summary": "Storing passwords in spreadsheets can hide weak, reused, or compromised credentials. Centralized password management improves visibility, identifies risks, and simplifies secure sharing.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
+      "published": 1795186810.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795218382.704868
+    },
     {
       "title": "Cyber Director Cairncross out as White House resets cyber leadership",
       "summary": "Sean Cairncross is leaving the White House; Kirsten Davies, the Pentagon’s CIO, has been named acting cyber czar.",
@@ -82,6 +361,17 @@
       "ai": true,
       "status": "queued",
       "ts": 1795186913.9296277
+    },
+    {
+      "title": "Spy court blasts UK secrecy, forces government to admit Apple ‘backdoor’ demand",
+      "summary": "A UK spy court criticized government secrecy and forced an admission of an Apple backdoor demand. The court noted the notice could be acknowledged without compromising national security, but details remain undisclosed.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/11/20/spy-court-blasts-uk-secrecy-forces-government-to-admit-apple-backdoor-demand/5311292",
+      "published": 1795177099.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795218382.704868
     },
     {
       "title": "Microsoft now automatically installs Windows 11 26H2 on unmanaged devices",
@@ -1288,90 +1578,6 @@
       "ts": 1795046424.3704307
     },
     {
-      "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
-      "summary": "Attackers use deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access. Specops Software examines real attacks and recommends stronger identity verification to counter social engineering.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
-      "published": 1795014010.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795015129.9096267
-    },
-    {
-      "title": "British hacker gets 6 year sentence for $11.6M crypto theft scheme",
-      "summary": "Tyler Robert Buchanan, 24, of Dundee, Scotland, received a six‑year sentence for leading a hacking collective that stole $11.6 million in cryptocurrency. Microsoft described the group as one of the most dangerous financial criminal groups.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/british-hacker-gets-six-year-sentence-scattered-spider",
-      "published": 1795013280.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795015129.9096267
-    },
-    {
-      "title": "Achieving the impossible: XSS in innerHTML without equals",
-      "summary": "Researcher Masato Kinugawa discusses a novel XSS vulnerability that exploits innerHTML without equality checks, revealing new web security risks.",
-      "source": "PortSwigger Research",
-      "link": "https://portswigger.net/research/achieving-the-impossible-xss-in-innerhtml-without-equals",
-      "published": 1795012785.0,
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795015129.9096267
-    },
-    {
-      "title": "Open by Default, Already Occupied: Threat Actors are Renting your Compute",
-      "summary": "Threat actors are renting cloud compute resources, taking advantage of default open configurations to host malicious workloads.",
-      "source": "Rapid7 Cybersecurity Blog",
-      "link": "https://www.rapid7.com/blog/post/tr-self-hosted-ai-renting-compute-exposed-servers",
-      "published": 1795012735.0,
-      "tags": [
-        "#vulnerability"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795015129.9096267
-    },
-    {
-      "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
-      "summary": "A Chinese APT group rebuilt the EggStreme malware to evade detection, targeting Philippine government organizations with silent variants that avoid security tools.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
-      "published": 1795011088.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795015129.9096267
-    },
-    {
-      "title": "Major Brazilian Signature Apps Enable RCE & Fraud",
-      "summary": "Brazilian government‑sanctioned authentication middleware contains remote code execution bugs, enabling fraud in critical legal documents.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/major-brazilian-signature-app-rce-fraud",
-      "published": 1795010400.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795015129.9096267
-    },
-    {
-      "title": "Suspected Chinese APT Rebuilds EggStreme Malware After Exposure",
-      "summary": "After exposure, a suspected Chinese APT reassembled EggStreme malware and its infrastructure to continue operations.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/eggstreme-malware-rebuilt-after/",
-      "published": 1795010400.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795015129.9096267
-    },
-    {
       "title": "CVE-2026-123007: Critical NGINX HTTP/2 Integer Underflow Leads to RCE (FIXED)",
       "summary": "CVE-2026-123007 is a critical integer underflow in NGINX HTTP/2 that can lead to unauthenticated remote code execution. Rapid7 and F5 have released a patch. The vulnerability is rated CVSS 9.2.",
       "source": "Rapid7 Cybersecurity Blog",
@@ -1385,227 +1591,6 @@
       "ts": 1795046424.3704307
     },
     {
-      "title": "Ice hockey governing body website defaced amid dispute over Russia's exclusion",
-      "summary": "The International Ice Hockey Federation website was defaced with a pro‑Russian message amid disputes over Russia’s exclusion from competitions.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/russia-hockey-cyberattack-championships",
-      "published": 1795009500.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795015129.9096267
-    },
-    {
-      "title": "Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization",
-      "summary": "A Russian APT used stolen identities from a hacked firm to phish a U.S. organization, demonstrating advanced social engineering tactics.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/",
-      "published": 1795008827.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795015129.9096267
-    },
-    {
-      "title": "Cyberattack hits Norwegian energy giant Equinor, disrupting internal services",
-      "summary": "Equinor is addressing a cyberattack on its IT systems that disrupted internal services, but the company reports no impact on oil and gas production.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/norway-equinor-cyberattack-energy",
-      "published": 1795008600.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795015129.9096267
-    },
-    {
-      "title": "Last of Five Defendants Sentenced in US Scattered Spider Hacking Case",
-      "summary": "British national Tyler Robert Buchanan sentenced to six years in U.S. federal prison for his role in the Scattered Spider hacking case. The Department of Justice announced the sentence. This is the final defendant to be sentenced in the case.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/last-of-five-defendants-sentenced-in-us-scattered-spider-hacking-case/",
-      "published": 1795007972.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795015129.9096267
-    },
-    {
-      "title": "Java4Shell Vulnerability Allows Remote Attacks on Major Java Apps",
-      "summary": "A critical OpenJDK flaw, known as Java4Shell, enables remote code execution on major Java applications. The U.S. Cybersecurity and Infrastructure Security Agency has urged organizations to apply mitigations. The vulnerability affects widely used Java apps.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/java4shell-vulnerability-remote/",
-      "published": 1795005300.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795015129.9096267
-    },
-    {
-      "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
-      "summary": "Researchers demonstrated that opening the PC case can reset the TPM lockout for Windows Hello and BitLocker PINs on AMD and some Intel systems. This allows attackers to guess short PINs within days. The study tested a four-digit Hello PIN and a six-digit BitLocker PIN.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
-      "published": 1795004910.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795015129.9096267
-    },
-    {
-      "title": "Microsoft Takes Perception Agentic Security Platform Out of Preview",
-      "summary": "Microsoft has moved its Perception Agentic Security Platform out of preview. Four blue team agents and the Recon Agent are now generally available. Integrations and vulnerability shielding remain in preview.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/microsoft-takes-perception-agentic-security-platform-out-of-preview/",
-      "published": 1795004063.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795015129.9096267
-    },
-    {
-      "title": "France Is Blaming Iran for the Fridge Cyberattack",
-      "summary": "France attributes a recent fridge cyberattack to Iran, citing U.S. intelligence assessments. The assessment is low confidence, indicating fragmented evidence. The attribution remains unconfirmed.",
-      "source": "Schneier on Security",
-      "link": "https://www.schneier.com/blog/archives/2026/11/france-is-blaming-iran-for-the-fridge-cyberattack.html",
-      "published": 1795003535.0,
-      "tags": [
-        "#opinion"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795015129.9096267
-    },
-    {
-      "title": "CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do",
-      "summary": "Patti Degnan, whose identity was stolen in 2006, eventually became CISO at endpoint security firm Glow. The incident shaped her career path. She discusses decision-making in security roles.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/ciso-conversations-patti-degnan-part-of-the-job-is-deciding-what-not-to-do/",
-      "published": 1795003200.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795015129.9096267
-    },
-    {
-      "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
-      "summary": "The Java4Shell vulnerability (CVE-2026-114938) permits unauthenticated remote code execution on Jira, Jenkins, Keycloak, and other applications. It exists in Java 17.0.6 and later on x86-64 CPUs with AVX-512 VBMI support. The flaw was disclosed by Calif.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
-      "published": 1795002949.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795015129.9096267
-    },
-    {
-      "title": "Dizigom illegal streaming service with 21M monthly visits shuts down",
-      "summary": "The Alliance for Creativity and Entertainment announced the shutdown of Dizigom, a Turkish piracy site with 21 million monthly visits. The closure followed a settlement agreement with the operators. The site was one of Turkey's largest illegal streaming services.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
-      "published": 1795002625.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795015129.9096267
-    },
-    {
-      "title": "Russian Espionage Actor Star Blizzard Focuses on Cloud Identities for Mass Data Theft",
-      "summary": "Google analysis indicates that the Russian espionage group Star Blizzard, also known as Cold Relic, is increasingly targeting cloud identities. The group aims to steal data and facilitate further attacks. The focus represents a shift toward cloud-based threats.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/russian-star-blizzard-cloud-data/",
-      "published": 1795002300.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795015129.9096267
-    },
-    {
-      "title": "Chrome 158 Patches 204 Vulnerabilities",
-      "summary": "Google released Chrome 158, which addresses 204 vulnerabilities. The company awarded $11,000 for five externally reported bugs and is determining payouts for 36 additional issues. The update improves browser security.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/chrome-158-patches-204-vulnerabilities/",
-      "published": 1795002202.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795015129.9096267
-    },
-    {
-      "title": "Java4Shell OpenJDK flaw: Exploitation is tricky and hinges on specific CPUs (CVE-2026-114938)",
-      "summary": "Oracle and OpenJDK fixed CVE-2026-114938, a memory corruption flaw in the Base64 decoder that could allow unauthenticated code execution on Java servers. No successful attacks have been reported.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/18/java4shell-openjdk-vulnerability-cve-2026-114938/",
-      "published": 1795000332.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795015129.9096267
-    },
-    {
-      "title": "Microsoft Agent Framework Releases Poisoned With Credential Stealer",
-      "summary": "Versions 1.26.1 and 1.26.2 of the agent-framework package on PyPI contain a credential stealer that captures Azure, Azure DevOps, and GitHub Actions credentials when Python starts.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/microsoft-agent-framework-releases-poisoned-with-credential-stealer/",
-      "published": 1794999939.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795015129.9096267
-    },
-    {
-      "title": "The challenge of defending against bulletproof dead drops on public blockchains",
-      "summary": "Malware command-and-control infrastructure is shifting from centralized servers to decentralized blockchain networks, creating resilient dead drops that eliminate single points of failure.",
-      "source": "Cisco Talos Blog",
-      "link": "https://blog.talosintelligence.com/the-challenge-of-defending-against-bulletproof-dead-drops-on-public-blockchains/",
-      "published": 1794999600.0,
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795015129.9096267
-    },
-    {
-      "title": "UAT-12643: Suspected North Korea-aligned actor blends blockchain resilience with targeted infostealing",
-      "summary": "Cisco Talos identified malicious infrastructure linked to a financially motivated threat group, designated UAT-12643, that uses blockchain resilience for targeted information theft.",
-      "source": "Cisco Talos Blog",
-      "link": "https://blog.talosintelligence.com/uat-12643-suspected-north-korea-aligned-actor-blends-blockchain-resilience-with-targeted-infostealing/",
-      "published": 1794999600.0,
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795015129.9096267
-    },
-    {
-      "title": "Critical Perforce Puppet RCE Exploited in Attacks",
-      "summary": "CVE-2026-115731 allows a client with any CA‑signed agent certificate to execute code on a Perforce Puppet server, and the flaw has been actively exploited in attacks.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/",
-      "published": 1794998228.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795015129.9096267
-    },
-    {
-      "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
-      "summary": "Apache released security updates for a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
-      "published": 1794998105.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795015129.9096267
-    },
-    {
       "title": "Who was that trying to phone me just now? How one-ring phone scams work",
       "summary": "One-ring phone scams, known as 'wangiri', lure victims after a single ring. The article explains how to recognize and avoid these scams.",
       "source": "WeLiveSecurity",
@@ -1615,163 +1600,6 @@
       "ai": true,
       "status": "queued",
       "ts": 1795186913.9296277
-    },
-    {
-      "title": "Watchdog Warns UK Government Is Falling Short on Risk Management",
-      "summary": "A National Audit Office report indicates that the UK government’s risk management practices are inadequate, leading to poor decision making.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/watchdog-government-risk/",
-      "published": 1794994200.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795015129.9096267
-    },
-    {
-      "title": "Microsoft announces Windows Server 2028 with hardened security",
-      "summary": "Microsoft unveiled Windows Server 2028 at Ignite 2026, highlighting enhanced security features for the next major server OS release.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
-      "published": 1794993871.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795015129.9096267
-    },
-    {
-      "title": "Oracle Patches 950 Vulnerabilities With November 2026 CSPU",
-      "summary": "Oracle’s November 2026 CSPU includes over 300 patches for unauthenticated remote exploits and 62 critical‑severity fixes, addressing 950 vulnerabilities.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/oracle-patches-640-vulnerabilities-with-november-2026-cspu/",
-      "published": 1794991638.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795015129.9096267
-    },
-    {
-      "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
-      "summary": "CISA added CVE-2026-115731 to its Known Exploited Vulnerabilities catalog after reports of active exploitation of a critical Perforce Puppet RCE affecting enterprise management servers.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
-      "published": 1794990271.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795015129.9096267
-    },
-    {
-      "title": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution",
-      "summary": "CISA urges immediate patching of Oracle Java CVE-2026-114938, a critical out‑of‑bounds write that can lead to denial‑of‑service or remote code execution.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html",
-      "published": 1794990263.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795015129.9096267
-    },
-    {
-      "title": "British Scattered Spider hacker sentenced to 6 years in prison",
-      "summary": "A leader of the Scattered Spider cybercrime collective was sentenced to six years in U.S. prison for cryptocurrency theft and conspiracy to hack multiple companies.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
-      "published": 1794990258.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795015129.9096267
-    },
-    {
-      "title": "Java4Shell Vulnerability Puts Many Enterprise Applications at Risk of Takeover",
-      "summary": "Java4Shell allows remote code execution in applications such as Jira, Jenkins, and Keycloak; real‑world exploitation requires target‑specific work.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/",
-      "published": 1794987814.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795015129.9096267
-    },
-    {
-      "title": "Deutsche Telekom IoT’s CEO on securing devices that run for 20 years",
-      "summary": "Deutsche Telekom IoT CEO Christian Schwalbe discusses risks of devices that remain in service for 15–20 years and how the EU Cyber Resilience Act and traffic‑pattern analysis can help secure them.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/18/christian-schwalbe-deutsche-telekom-iot-security/",
-      "published": 1794987025.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795015129.9096267
-    },
-    {
-      "title": "Once a scam ends the victim blaming begins",
-      "summary": "Cyberpsychologist Dr. Nicola Fox Hamilton highlights how blaming scam victims deepens harm and discourages future reporting, emphasizing the psychological impact of phishing.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/18/nicola-fox-hamilton-victim-blaming-scams-phishing/",
-      "published": 1794985233.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795015129.9096267
-    },
-    {
-      "title": "The forced audit: how AuditTeam’s OpsAgent framework masks ransomware as consulting",
-      "summary": "AuditTeam’s OpsAgent ransomware uses a forced audit model, demanding consulting fees to delete stolen data, and is distributed via a Rust rewrite of the implant.",
-      "source": "Securelist",
-      "link": "https://securelist.com/auditteam-opsagent-forced-audit/122031/",
-      "published": 1794985207.0,
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795015129.9096267
-    },
-    {
-      "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
-      "summary": "Threat actors released malicious versions of Microsoft’s agent‑framework PyPI package (1.26.1 and 1.26.2) that install a credential stealer on every Python startup, targeting cloud credentials.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
-      "published": 1794984326.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795015129.9096267
-    },
-    {
-      "title": "TapMap: Free, open-source network map",
-      "summary": "TapMap is a free desktop application that visualizes a computer’s active network connections on an interactive world map using local GeoIP data.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/18/tapmap-network-map-open-source/",
-      "published": 1794983424.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795015129.9096267
-    },
-    {
-      "title": "BubbleLoader malware turns copies of WinRAR and Windows Media Player into carriers",
-      "summary": "BubbleLoader modifies the entry point of legitimate Windows programs, such as WinRAR and Windows Media Player, embedding hidden code and PNG images to act as carriers for additional malware.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/18/winrar-bubbleloader-malware/",
-      "published": 1794981603.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795015129.9096267
-    },
-    {
-      "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
-      "summary": "Cold Relic leveraged stolen Google Workspace data to compromise a second U.S. organization, using a single cloud breach as a launchpad for linked intrusions.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html",
-      "published": 1794981484.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795015129.9096267
     },
     {
       "title": "Product showcase: iVerify Basic helps users check device security and improve privacy",
@@ -1827,17 +1655,6 @@
         "#threatintel",
         "#malware"
       ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795046424.3704307
-    },
-    {
-      "title": "Daily disruptive outages that ground planes and halt work – welcome to the new normal",
-      "summary": "Recent network outages affecting NSA, Apple, and other organizations were largely attributed to routine maintenance. The disruptions caused significant operational delays. The incidents highlight the growing frequency of large‑scale outages.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/security/2026/11/17/daily-disruptive-outages-that-ground-planes-and-halt-work-welcome-to-the-new-normal/5310634",
-      "published": 1794958891.0,
-      "tags": [],
       "ai": true,
       "status": "queued",
       "ts": 1795046424.3704307
