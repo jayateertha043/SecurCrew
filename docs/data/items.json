@@ -1,7 +1,40 @@
 {
-  "generated_at": 1795271037.5620186,
-  "count": 123,
+  "generated_at": 1795301614.16307,
+  "count": 86,
   "items": [
+    {
+      "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+      "summary": "Microsoft reported a data breach where attackers exploited a vulnerability in Entra Connect Health, accessing administrator email addresses and tenant configuration data.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+      "published": 1795284118.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795301614.1508574
+    },
+    {
+      "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
+      "summary": "The BADBOX malware, targeting Android TV boxes, has resumed large‑scale ad‑fraud operations, generating an estimated 40 billion ad requests per day.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
+      "published": 1795274247.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795301614.1508574
+    },
+    {
+      "title": "FBI reportedly hacked again, this time targeting nationwide police database",
+      "summary": "The FBI’s National Crime Information Center was reportedly breached, marking a second incident in two months and potentially compromising law‑enforcement data sharing.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
+      "published": 1795271164.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795301614.1508574
+    },
     {
       "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
       "summary": "A malicious webpage can extract Meta Muse private chats and stored memories without triggering an approval prompt, and could also access credentials stored by the assistant. The demonstration was limited to a single user and did not target real accounts.",
@@ -928,28 +961,6 @@
       "ts": 1795134210.843703
     },
     {
-      "title": "PHP 8.6 is out, and here’s what changes for your code",
-      "summary": "PHP 8.6 introduces partial function application, a Time\\Duration class, a polling API for event loops, and a clamp() function. It also changes session defaults to enable strict mode, HTTP-only cookies, and Lax same-site policy, requiring custom handlers to implement both creation and destruction methods.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/19/php-8-6-released/",
-      "published": 1795101756.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795101945.0709615
-    },
-    {
-      "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
-      "summary": "A critical VMware vCenter vulnerability (CVSS 9.8) allows network attackers to bypass authentication and gain unauthorized access. Fixed versions are available for all supported branches, and no workaround is provided.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
-      "published": 1795101066.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795101945.0709615
-    },
-    {
       "title": "Spying on Governments with Zero Lines of Malware: A Custom SoftEther Bridge in Webworm’s Toolkit",
       "summary": "Webworm, a China‑aligned APT, deploys the open‑source SoftEther VPN to infiltrate government networks, providing low‑profile, long‑term access.",
       "source": "Rapid7 Cybersecurity Blog",
@@ -963,393 +974,6 @@
       "ts": 1795134210.843703
     },
     {
-      "title": "Five warning signs of ransomware breach before encryption or data theft",
-      "summary": "Ransomware attacks often begin with credential theft, lateral movement, and disabling security controls before encryption. Acronis identifies five warning signs to help defenders detect and contain intrusions early.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
-      "published": 1795100410.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795101945.0709615
-    },
-    {
-      "title": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
-      "summary": "Two critical NGINX vulnerabilities, dubbed \"nginx2root\", enable unauthenticated attackers to execute code remotely. Researchers demonstrated chaining these flaws with a Linux kernel bug to achieve root access.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
-      "published": 1795100244.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795101945.0709615
-    },
-    {
-      "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
-      "summary": "The PHP Foundation released security updates addressing seven critical flaws that could lead to remote code execution, including CVE-2026-115560 with a CVSS score of 9.2.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
-      "published": 1795099506.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795101945.0709615
-    },
-    {
-      "title": "Russian spies turn one cloud breach into a stepping stone for the next",
-      "summary": "A Russian cyberespionage group, known as COLD RELIC, impersonates employees of previously breached organizations to phish new targets, focusing on government, defense, and critical infrastructure.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/19/russian-spies-impersonation-cloud-breach/",
-      "published": 1795099340.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795101945.0709615
-    },
-    {
-      "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
-      "summary": "Drupal core contains a critical installer flaw that lets unauthenticated attackers use the installer to reinstall a site, potentially leading to takeover or remote code execution. Fixed releases are available for all supported branches.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
-      "published": 1795098786.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795101945.0709615
-    },
-    {
-      "title": "Nvidia Responds to Gentlemen Ransomware Claim",
-      "summary": "Nvidia stated it found no evidence of compromise after the Gentlemen ransomware group listed the company as a victim.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/",
-      "published": 1795097852.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795101945.0709615
-    },
-    {
-      "title": "Why Holiday Security Can't Wait for Black Friday",
-      "summary": "Bot-driven fraud and holiday social engineering attacks extend across many weeks, straining security teams and small businesses during the holiday season.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday",
-      "published": 1795096800.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795101945.0709615
-    },
-    {
-      "title": "Ukraine exposes ransomware network extorting US oil, healthcare firms",
-      "summary": "Ukrainian authorities arrested four suspects linked to an international ransomware network that extorted more than $40 million from U.S. oil and healthcare firms.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/ukraine-ransomware-arrests-cyber",
-      "published": 1795095000.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795101945.0709615
-    },
-    {
-      "title": "Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release",
-      "summary": "Hackers exploited a Cisco Expressway vulnerability shortly after a proof‑of‑concept was released. They targeted clustered devices at a Russian organization and prepared tooling for lateral movement.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/hackers-exploit-cisco-expressway-vulnerability-soon-after-poc-release/",
-      "published": 1795093940.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795101945.0709615
-    },
-    {
-      "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
-      "summary": "Drupal patched a critical remote code execution flaw that could allow attackers to take over vulnerable sites. The security team warned that exploits may surface quickly.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
-      "published": 1795093688.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795101945.0709615
-    },
-    {
-      "title": "Exploited Puppet flaw puts the server that configures your endpoint fleet at risk (CVE-2026-115731)",
-      "summary": "CVE‑2026‑115731, a critical RCE in Perforce Puppet Enterprise, is being exploited in the wild. The US CISA has added the flaw to its Known Exploited Vulnerabilities list.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/19/puppet-enterprise-vulnerability-cve-2026-115731-exploited/",
-      "published": 1795093661.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795101945.0709615
-    },
-    {
-      "title": "StepSecurity Secures $20 Million to Expand Supply Chain Protection",
-      "summary": "StepSecurity raised $20 million to expand its supply‑chain protection platform. The funding will accelerate development and distribution of its security solutions.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/stepsecurity-secures-20-million-to-expand-supply-chain-protection/",
-      "published": 1795091014.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795101945.0709615
-    },
-    {
-      "title": "Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks",
-      "summary": "Attackers are exploiting critical Apache Roller and Axis vulnerabilities. Confluence Data Center is targeted via an Axis flaw, while Apache warns of attacks against Roller.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/critical-apache-roller-axis-vulnerabilities-exploited-in-attacks/",
-      "published": 1795090404.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795101945.0709615
-    },
-    {
-      "title": "Everything Is a Web Application, Including Your Firewall",
-      "summary": "Palo Alto Networks confirmed attackers exploited two PHP vulnerabilities (CVE‑2026‑109618 and CVE‑2026‑109619) against PAN‑OS management interfaces. The flaws allow unauthenticated code execution.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
-      "published": 1795089143.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795101945.0709615
-    },
-    {
-      "title": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
-      "summary": "Microsoft is testing a new Edge Lockdown Mode that disables WebGL, WebGL2, and WebGPU APIs to reduce the browser’s attack surface.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
-      "published": 1795088760.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795101945.0709615
-    },
-    {
-      "title": "Cyberattack on service provider exposes payee data at 40 Irish credit unions",
-      "summary": "A cyberattack on Wellington IT exposed payee data at 40 Irish credit unions. The minister called the notification delay \"not acceptable.\"",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/security/2026/11/19/cyberattack-on-service-provider-exposes-payee-data-at-40-irish-credit-unions/5310979",
-      "published": 1795088700.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795101945.0709615
-    },
-    {
-      "title": "TfL Warns 265,000 Photocard Customers May Have Had Personal Data Exposed",
-      "summary": "TfL warned that 265,000 Oyster Photocard customers may have had personal data exposed after emails were sent from its system.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/tfl-customers-personal-data-exposed/",
-      "published": 1795088100.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795101945.0709615
-    },
-    {
-      "title": "BackBox Linux 10 brings new hacking tools and Ubuntu 26.04 support",
-      "summary": "BackBox Linux 10, codenamed Resolute Raccoon, was released with new hacking tools and support for Ubuntu 26.04 LTS. It ships with Linux 7.0 kernel, Xfce 4.20 desktop, and updated anonymous mode.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/19/backbox-linux-10-penetration-testing/",
-      "published": 1795086072.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795101945.0709615
-    },
-    {
-      "title": "TfL takes Oyster photocard website offline after attackers compromise customer accounts",
-      "summary": "TfL shut down the Oyster photocard website after attackers accessed approximately 265,000 customer accounts. The service remains offline pending a security fix.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/security/2026/11/19/tfl-takes-oyster-photocard-website-offline-after-attackers-compromise-customer-accounts/5310985",
-      "published": 1795086060.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795101945.0709615
-    },
-    {
-      "title": "Rubrik Configuration Resilience rolls back unauthorized Microsoft 365 changes",
-      "summary": "Rubrik introduced Configuration Resilience for Microsoft 365, allowing a single action to roll back unauthorized changes to key Microsoft settings and continuously protect configurations.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/19/rubrik-configuration-resilience-for-microsoft-365/",
-      "published": 1795085804.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795101945.0709615
-    },
-    {
-      "title": "SonicWall urges customers to replace Gen 6 firewalls now",
-      "summary": "SonicWall urged customers to replace Gen 6 and Gen 6.5 firewalls immediately, as SonicOS 6.x has reached end of support and will no longer receive firmware updates or patches.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/19/sonicwall-gen-6-firewalls-reach-end-of-support/",
-      "published": 1795085069.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795101945.0709615
-    },
-    {
-      "title": "Splunk Patches Nearly 140 Flaws Across Three Core Products",
-      "summary": "Splunk released updates for three core products, fixing nearly 140 critical and high‑severity vulnerabilities that could enable authentication bypass, remote code execution, and privilege escalation.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/splunk-patches-nearly-140-flaws-across-three-core-products/",
-      "published": 1795084865.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795101945.0709615
-    },
-    {
-      "title": "Bitwarden expands passkey support with new Windows and macOS integrations",
-      "summary": "Bitwarden added passkey integration for Windows Hello and Apple Touch ID, enabling users to unlock their vaults via native OS authentication on Windows 11 and macOS.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/19/bitwarden-windows-macos-passkeys-integration/",
-      "published": 1795084773.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795101945.0709615
-    },
-    {
-      "title": "Microsoft confirms app installation, launch issues after hotpatch",
-      "summary": "Microsoft provided a workaround for installation and launch issues affecting Office and third‑party applications caused by the latest Windows 11 hotpatch.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/",
-      "published": 1795084505.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795101945.0709615
-    },
-    {
-      "title": "F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go Public",
-      "summary": "F5 Networks patched five NGINX2Root vulnerabilities that could allow unauthenticated remote code execution; proof‑of‑concept exploits were publicly released.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/f5-patches-critical-nginx2root-flaws-as-poc-exploits-go-public/",
-      "published": 1795084011.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795101945.0709615
-    },
-    {
-      "title": "Sticky note on monitor provided keys to the company’s kingdom",
-      "summary": "A sticky note left on a monitor exposed company credentials, demonstrating the risk of leaving sensitive information in public view.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/security/2026/11/19/sticky-note-on-monitor-provided-keys-to-the-companys-kingdom/5310908",
-      "published": 1795083300.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795101945.0709615
-    },
-    {
-      "title": "GTA 6 scams are after your Google password, money, and crypto wallet",
-      "summary": "Scammers targeting the GTA 6 launch are phishing for Google passwords, selling fake game keys, and requesting crypto wallet connections to steal funds.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/19/gta-6-scams-threats/",
-      "published": 1795082971.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795101945.0709615
-    },
-    {
-      "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
-      "summary": "N‑able disclosed that attackers accessed a server in its Mail Assure and Spam Experts hosted cloud, disabling management interfaces and APIs across three regions; the company is mitigating the threat and hardening services.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
-      "published": 1795080686.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795101945.0709615
-    },
-    {
-      "title": "NVIDIA investigating Gentlemen ransomware breach claims",
-      "summary": "NVIDIA is investigating claims that the Gentlemen ransomware group has listed the company on a dark‑web data‑leak site. The investigation follows reports of a potential security breach. No further details have been released.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
-      "published": 1795080201.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795101945.0709615
-    },
-    {
-      "title": "Rakuten Securities Breach Could Impact 15 Million Customers",
-      "summary": "Japanese broker Rakuten Securities disclosed a data breach that exposed account details of 15 million customers. The breach could affect a large portion of the company's client base. No additional information has been provided.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/rakuten-securities-breach-15/",
-      "published": 1795080000.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795101945.0709615
-    },
-    {
-      "title": "Java4Shell Exploitation Attempts Begin as Vendors Rush Out Advisories",
-      "summary": "Multiple vendors released advisories on the Java4Shell vulnerability. GreyNoise, WatchTowr, and Cloudflare reported probing and exploit attempts. Cisco, Elastic, Red Hat, and Siemens detailed the impact of the flaw.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/java4shell-exploitation-attempts-begin-as-vendors-rush-out-advisories/",
-      "published": 1795079458.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795101945.0709615
-    },
-    {
-      "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
-      "summary": "Ruby released patches for seven memory‑safety flaws in its regex engine and string conversion code. Maintainers warned that five of these flaws have proof‑of‑concept remote code execution exploits. The fixes are now available.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
-      "published": 1795077731.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795101945.0709615
-    },
-    {
-      "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
-      "summary": "A researcher demonstrated that low‑privilege database accounts can trigger code execution on PostgreSQL, MySQL, ClickHouse, and Oracle. The exploits exploit memory‑corruption bugs in the database engines. Proof‑of‑concepts were published.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
-      "published": 1795076040.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795101945.0709615
-    },
-    {
-      "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
-      "summary": "CISA added four vulnerabilities to its Known Exploited Vulnerabilities catalog. The flaws affect Synology DSM, BerriAI LiteLLM, Apache Axis, and REDCap. Evidence of active exploitation was cited.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
-      "published": 1795075200.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795101945.0709615
-    },
-    {
-      "title": "Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge",
-      "summary": "Africa reclaimed the top spot as the most attacked region, driven by a surge in cyber threats in Nigeria. Angola and Kenya also ranked in the top five most‑attacked countries worldwide. The trend reflects a growing regional threat landscape.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/threat-intelligence/africa-top-spot-most-attacked-region-nigeria-surge",
-      "published": 1795075200.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795101945.0709615
-    },
-    {
       "title": "My IoT devices are no longer supported – is my smart home safe?",
       "summary": "End‑of‑life smart devices pose security risks if unmanaged; users should secure or replace them to protect their smart homes.",
       "source": "WeLiveSecurity",
@@ -1359,41 +983,6 @@
       "ai": true,
       "status": "queued",
       "ts": 1795186913.9296277
-    },
-    {
-      "title": "PHP Readies Critical Security Updates to Patch Another RCE Flaw",
-      "summary": "PHP announced critical security updates to patch CVE‑2026‑115560, which affected session upload progress. The release follows the PHP2Shell patches. The update addresses a remote code execution flaw.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/php-readies-critical-security-updates-to-patch-another-rce-flaw/",
-      "published": 1795074317.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795101945.0709615
-    },
-    {
-      "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
-      "summary": "PHP maintainers issued an advisory for an upcoming release on November 19, 2026, that will address critical vulnerabilities across all supported versions. The release is scheduled between 2:00 and 2:30 p.m. UTC. The update follows the regular four‑week release cycle.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
-      "published": 1795062826.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795101945.0709615
-    },
-    {
-      "title": "Russian charged with spying on Palantir employees for Moscow",
-      "summary": "A Russian national, Igor Andreevich D’iu, was charged in the United States with acting as a Moscow agent spying on employees of Palantir Technologies. The individual was recruited through Telegram. The charges relate to a surveillance campaign targeting Palantir staff.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/russian-charged-with-spying-on-palantir-for-moscow",
-      "published": 1795046400.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795101945.0709615
     }
   ]
 }
