@@ -1,7 +1,40 @@
 {
-  "generated_at": 1795356967.6700447,
-  "count": 64,
+  "generated_at": 1795389799.4471877,
+  "count": 38,
   "items": [
+    {
+      "title": "Debian 13.8 bundles kernel and Chromium security fixes with a 122-package bugfix list",
+      "summary": "Debian 13.8 has been released, bundling kernel and Chromium security fixes along with a 122‑package bug‑fix list. The update covers Debian Security Advisories DSA‑6408 to DSA‑6629, including patches for Chromium, Firefox ESR, and other components.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/11/23/debian-13-8-released/",
+      "published": 1795388709.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795389799.4381409
+    },
+    {
+      "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
+      "summary": "GL.iNet confirmed that attackers exploited a vulnerability in its cloud remote‑management service to deploy custom malware on customers’ routers and KVM devices. The malware provides backdoors and reverse shells, giving attackers remote access.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
+      "published": 1795373137.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795389799.4381409
+    },
+    {
+      "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
+      "summary": "Cleverbridge announced a data breach in which attackers stole customers’ payment card information, including credit card numbers and CVV codes.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
+      "published": 1795362184.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795389799.4381409
+    },
     {
       "title": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
       "summary": "FBI is investigating an alleged hack of its national criminal justice database. The incident involves a key law enforcement data repository. SecurityWeek reports the investigation is underway.",
@@ -392,87 +425,6 @@
       "ts": 1795218382.704868
     },
     {
-      "title": "Cyber Director Cairncross out as White House resets cyber leadership",
-      "summary": "Sean Cairncross is leaving the White House; Kirsten Davies, the Pentagon’s CIO, has been named acting cyber czar.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/sean-cairncross-out-as-national-cyber-director",
-      "published": 1795185000.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795186913.9296277
-    },
-    {
-      "title": "Dozens of credit unions hit by supplier breach that went unnoticed for six weeks",
-      "summary": "Ireland’s Data Protection Commission received over 40 breach notifications from credit unions that used a Belfast-based data processor; the breach went unnoticed for six weeks.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/dozens-of-credit-unions-hit-by-supplier-breach",
-      "published": 1795184640.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795186913.9296277
-    },
-    {
-      "title": "Ransomware Recovery Takes 20 Days for the Typical Victim, Report Finds",
-      "summary": "A Rubrik report shows ransomware victims recover in a median of 20 days; 28% of cases take longer than six weeks.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/ransomware-recovery-20-days/",
-      "published": 1795184100.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795186913.9296277
-    },
-    {
-      "title": "N-able says recent security breach led to major service outage",
-      "summary": "N‑able reported that attackers breached one of its servers, causing a major outage of Mail Assure and SpamExperts Hosted Cloud services worldwide.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
-      "published": 1795180716.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795186913.9296277
-    },
-    {
-      "title": "VMware vCenter zero-day exploited for months before patch (CVE-2026-123890)",
-      "summary": "A China‑linked group, Armory Castle, exploited VMware vCenter zero‑day CVE‑2026‑123890 from September until a patch was released; the vulnerability has a CVSS score of 9.8.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/20/vmware-vcenter-zero-day-cve-2026-123890-exploited/",
-      "published": 1795177819.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795186913.9296277
-    },
-    {
-      "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
-      "summary": "CVE‑2026‑99312 allows a KVM guest on AMD hosts to read up to 127 GB of host memory, potentially exposing other customers; the flaw is fixed in newer kernels.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
-      "published": 1795177200.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795186913.9296277
-    },
-    {
-      "title": "UK government can't keep its encryption-busting order to Apple a secret, tribunal rules",
-      "summary": "A UK tribunal ruled that the government cannot keep its encryption‑busting order to Apple secret; the notice can be acknowledged but the demands remain confidential.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/security/2026/11/20/uk-government-cant-keep-its-encryption-busting-order-to-apple-a-secret-tribunal-rules/5311292",
-      "published": 1795177099.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795186913.9296277
-    },
-    {
       "title": "Spy court blasts UK secrecy, forces government to admit Apple ‘backdoor’ demand",
       "summary": "A UK spy court criticized government secrecy and forced an admission of an Apple backdoor demand. The court noted the notice could be acknowledged without compromising national security, but details remain undisclosed.",
       "source": "www.theregister.com - Articles",
@@ -482,252 +434,6 @@
       "ai": true,
       "status": "queued",
       "ts": 1795218382.704868
-    },
-    {
-      "title": "Microsoft now automatically installs Windows 11 26H2 on unmanaged devices",
-      "summary": "Microsoft is automatically upgrading eligible unmanaged devices to Windows 11 26H2 without IT management.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/",
-      "published": 1795176868.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795186913.9296277
-    },
-    {
-      "title": "Opening a 400-Year-Old Cryptex",
-      "summary": "Researchers used CT scanning to recover the code of a 400‑year‑old cryptex padlock; a commercial USB‑drive cryptex is now available for purchase.",
-      "source": "Schneier on Security",
-      "link": "https://www.schneier.com/blog/archives/2026/11/opening-a-400-year-old-cryptex.html",
-      "published": 1795176286.0,
-      "tags": [
-        "#opinion"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795186913.9296277
-    },
-    {
-      "title": "Mail Bombing Attacks Fuel IT Helpdesk Impersonation Scams",
-      "summary": "Researchers uncovered a large‑scale campaign where attackers flood inboxes with emails and then impersonate IT helpdesk staff to gain account access.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/mail-bombing-attacks-it-helpdesk/",
-      "published": 1795175700.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795186913.9296277
-    },
-    {
-      "title": "SBC Medical Group Data Breach Impacts Over 2 Million",
-      "summary": "Threat actors accessed databases containing customer information from SBC Medical Group clinics in Japan. Over 2 million individuals were affected.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/",
-      "published": 1795174611.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795186913.9296277
-    },
-    {
-      "title": "JPMorgan Confirms Customer Data Breach Following Third-Party Compromise",
-      "summary": "JPMorgan confirmed a customer data breach after a third‑party compromise. Ransomware actor N0n claimed attacks on JPMorgan, Visa, and Mastercard, leaking data on its dark‑web site.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/jpmorgan-data-breach-third-party/",
-      "published": 1795173300.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795186913.9296277
-    },
-    {
-      "title": "Windows 11 passkey bug cries failure after successful sign-in",
-      "summary": "A Windows 11 passkey bug caused misleading Android error messages after successful sign‑in. An optional update for versions 25H2 and 26H2 addresses the issue.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/security/2026/11/20/windows-11-passkey-bug-cries-failure-after-successful-sign-in/5311263",
-      "published": 1795172984.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795186913.9296277
-    },
-    {
-      "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
-      "summary": "F5 issued emergency patches for five critical BIG‑IP vulnerabilities that could enable denial‑of‑service or remote code execution. Customers are urged to apply the fixes.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
-      "published": 1795172263.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795186913.9296277
-    },
-    {
-      "title": "Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE",
-      "summary": "Ruby patched CVE‑2026‑132825, a heap‑based buffer overflow known as Ruby2Shell that could lead to remote code execution. The update resolves the RCE risk.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/",
-      "published": 1795170850.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795186913.9296277
-    },
-    {
-      "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
-      "summary": "Threat actors exploited Cisco Expressway CVE‑2026‑76466 (CVSS 9.8) to breach a Russian organization. The flaw allows unauthenticated remote attackers to access the device and internal network.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html",
-      "published": 1795170770.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795186913.9296277
-    },
-    {
-      "title": "Metasploit Wrap Up: Breaking Zimbra's Identity Boundaries",
-      "summary": "Metasploit added a new shared mixin, Msf::Exploit::Remote::HTTP::Zimbra, to its Zimbra modules. The change provides a common foundation for account/admin SOAP authentication and identity resolution.",
-      "source": "Rapid7 Cybersecurity Blog",
-      "link": "https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-breaking-zimbra-s-identity-boundaries",
-      "published": 1795170636.0,
-      "tags": [
-        "#vulnerability"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795186913.9296277
-    },
-    {
-      "title": "265,000 Oyster photocard customers’ data exposed in Transport for London breach",
-      "summary": "Transport for London warned that account details of approximately 265,000 Oyster photocard holders may have been exposed. The breach was detected on 16 November and the photocard system was taken offline.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/20/transport-for-london-oyster-photocard-data-breach/",
-      "published": 1795170101.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795186913.9296277
-    },
-    {
-      "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
-      "summary": "Armory Castle, a China‑linked group, exploited VMware vCenter Server CVE‑2026‑123890 (CVSS 9.8) to bypass authentication and gain administrative access, enabling data theft.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
-      "published": 1795167495.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795186913.9296277
-    },
-    {
-      "title": "Windows 11 KB5132057 update released with 28 changes and fixes",
-      "summary": "Microsoft released the Windows 11 KB5132057 preview update, which includes 28 changes. Improvements cover Windows Search, Windows Hello, and the Run dialog.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/",
-      "published": 1795166735.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795186913.9296277
-    },
-    {
-      "title": "N-able Blames Service Disruption on Cyberattack",
-      "summary": "N‑Able attributes a service outage affecting Mail Assure and SpamExperts Hosted Cloud to a cyberattack that could have led to credential theft.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/",
-      "published": 1795165715.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795186913.9296277
-    },
-    {
-      "title": "Suspected North Korea-Aligned Group Hides C2 on Solana Blockchain",
-      "summary": "Cisco Talos links a RAT that uses the Solana blockchain for command and control and can survive Windows resets to the UAT‑12643 threat group.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/overlord-rat-solana-blockchain-c2/",
-      "published": 1795165200.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795186913.9296277
-    },
-    {
-      "title": "JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak",
-      "summary": "JPMorgan, Visa and Mastercard blame a data leak on third‑party providers after the N0n extortion group released customer data.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak/",
-      "published": 1795160146.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795186913.9296277
-    },
-    {
-      "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
-      "summary": "Threat actors use ROMULUS ClickFix to deliver a remote access trojan similar to CNCMachineRMS, enabling spying and remote control of PCs.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
-      "published": 1795158699.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795186913.9296277
-    },
-    {
-      "title": "It’s time to retire vanity security dashboards",
-      "summary": "Estée Lauder’s OT Security Architect argues that vanity dashboards generate repetitive alerts that waste analyst time and mask underlying problems in manufacturing environments.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/20/security-dashboards-tips-video/",
-      "published": 1795154421.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795186913.9296277
-    },
-    {
-      "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
-      "summary": "FastUnlock is a zero‑day that lets physical attackers run programs on a locked Windows PC without signing in, granting only limited account access.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
-      "published": 1795152601.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795186913.9296277
-    },
-    {
-      "title": "Most CIOs and CISOs expect to contain attacks, though few can reach their gear right away",
-      "summary": "A survey of 514 CIOs and CISOs shows most cannot quickly access critical network infrastructure during outages, creating a gap during ransomware or update incidents.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/20/network-outage-recovery-resilience/",
-      "published": 1795150827.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795186913.9296277
-    },
-    {
-      "title": "Flaws in VMware and KVM need attention, if you have time while fixing Java, PHP, and everything else",
-      "summary": "Critical Virtzilla bugs in VMware and KVM allow authentication bypass, prompting Digital Ocean to address the issue amid other security fixes.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/security/2026/11/20/flaws-in-vmware-and-kvm-need-attention-if-you-have-time-while-fixing-java-php-and-everything-else/5311193",
-      "published": 1795136265.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795186913.9296277
-    },
-    {
-      "title": "VMware patches vCenter zero-day exploited in attacks since September",
-      "summary": "Broadcom released security updates for a VMware vCenter Server authentication bypass that Chinese‑linked hackers have used in zero‑day attacks since September 2026.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
-      "published": 1795134385.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795186913.9296277
     }
   ]
 }
