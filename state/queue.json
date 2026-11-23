@@ -1,998 +1,6 @@
 {
   "pending": [
     {
-      "added_at": 1795218382.704868,
-      "ai": true,
-      "id": "9b2dca1639f78a8aa66d231c4d5e5f6434d3f27d",
-      "link": "https://www.theregister.com/devops/2026/11/20/php-86-things-are-gonna-get-a-lot-more-strict-around-here/5311486",
-      "published": 1795217327.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "PHP 8.6 introduces stricter default behaviors to reduce potential attack vectors. The update removes permissive settings that previously allowed unsafe code execution.",
-      "tags": [],
-      "title": "PHP 8.6: Things are gonna get a lot more strict around here"
-    },
-    {
-      "added_at": 1795218382.704868,
-      "ai": true,
-      "id": "d20cb913632d0a35f0e5d077baa71ad3b191ead5",
-      "link": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-the-largest-squid-ever-filmed.html",
-      "published": 1795212252.0,
-      "source": "Schneier on Security",
-      "summary": "The article documents the filming of the largest squid ever captured near Japan’s Ogasawara Islands in December 2006. It also references unrelated security stories and blog moderation policy.",
-      "tags": [
-        "#opinion"
-      ],
-      "title": "Friday Squid Blogging: The Largest Squid Ever Filmed"
-    },
-    {
-      "added_at": 1795218382.704868,
-      "ai": true,
-      "id": "ec3643e6e571f139f492aaeef4ed8e9301134ba1",
-      "link": "https://unit42.paloaltonetworks.com/com-affiliate-vishing-attacks/",
-      "published": 1795212025.0,
-      "source": "Unit 42",
-      "summary": "Unit 42 analyzes Com affiliate vishing attacks targeting healthcare and finance. The post offers actionable defense guidance against cloud data theft and extortion campaigns.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Dialing for Data: Inside the Com’s High-Profile Heists"
-    },
-    {
-      "added_at": 1795218382.704868,
-      "ai": true,
-      "id": "f0b8696c25c4c4a7795d4fd121dacf3e418eeb4a",
-      "link": "https://therecord.media/west-virginia-legislature-cyberattack",
-      "published": 1795210476.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "A cybersecurity incident disrupted IT systems at the West Virginia Legislature starting Thursday. The disruption was contained and did not spread to other government entities.",
-      "tags": [
-        "#news"
-      ],
-      "title": "West Virginia Legislature hit with cyber incident affecting IT systems"
-    },
-    {
-      "added_at": 1795218382.704868,
-      "ai": true,
-      "id": "1d4b67e404ea5230e0df44c12e73e8f97f6140b3",
-      "link": "https://www.theregister.com/cyber-crime/2026/11/20/visa-mastercard-theft-included-info-useful-for-phishing-but-not-draining-bank-accounts-say-researchers/5311478",
-      "published": 1795210076.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "Researchers found that stolen Visa and Mastercard data included information useful for phishing but did not contain financial details. The data could aid attackers in credential harvesting.",
-      "tags": [],
-      "title": "Visa, Mastercard theft included info useful for phishing, but not draining bank accounts, say researchers"
-    },
-    {
-      "added_at": 1795218382.704868,
-      "ai": true,
-      "id": "a9aa37ceddf16814c33589d65029bbf5bd1bb0b3",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day",
-      "published": 1795208607.0,
-      "source": "darkreading",
-      "summary": "A China‑nexus threat group likely had a VMware vCenter zero‑day ready during the latest major update cycle. The group targeted VMware vCenter to exploit known vulnerabilities.",
-      "tags": [],
-      "title": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day"
-    },
-    {
-      "added_at": 1795218382.704868,
-      "ai": true,
-      "id": "273c692ec6e6b04d20171f7a5dfd62ba812ccb64",
-      "link": "https://www.theregister.com/security/2026/11/20/signal-slams-door-on-prying-ai-agents-to-protect-privacy/5311466",
-      "published": 1795207324.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "Signal criticized Apple, Google, and Microsoft for not providing adequate AI agent controls. The company emphasized protecting user privacy against intrusive AI features.",
-      "tags": [],
-      "title": "Signal slams door on prying AI agents to protect privacy"
-    },
-    {
-      "added_at": 1795218382.704868,
-      "ai": true,
-      "id": "e010061a1eb7f0ca2916ad58651c04b26cfec7ae",
-      "link": "https://therecord.media/chinese-open-weight-AI-use-by-US-companies-house-investigation",
-      "published": 1795206300.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "House Homeland Security Committee investigated U.S. companies using low‑cost open‑weight AI models. The inquiry highlighted potential security risks associated with these models.",
-      "tags": [
-        "#news"
-      ],
-      "title": "US companies’ use of Chinese open weight AI draws rebuke from House chairmen"
-    },
-    {
-      "added_at": 1795218382.704868,
-      "ai": true,
-      "id": "0a863e6f7d52efa1318c7843f1911ec8a41cdc04",
-      "link": "https://cyberscoop.com/signal-blocks-apple-google-ai-screenshots/",
-      "published": 1795204465.0,
-      "source": "CyberScoop",
-      "summary": "Signal now blocks screenshots by Apple, Google, and Microsoft AI agents to protect user privacy. The move follows a similar block implemented for Microsoft last year.",
-      "tags": [],
-      "title": "Signal blocks Apple, Google AI screenshotting in response to ‘existential threat’ to privacy app"
-    },
-    {
-      "added_at": 1795218382.704868,
-      "ai": true,
-      "id": "edfeced150c6a6c3fa7c66876012ed16a8d958ba",
-      "link": "https://therecord.media/container-store-restores-systems-cyberattack",
-      "published": 1795203120.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "The Container Store’s parent company, Neighborhood Intelligence, announced that the retailer restored its website and systems after a weekend cyberattack. The incident was contained with no reported data loss.",
-      "tags": [
-        "#news"
-      ],
-      "title": "Container Store restores systems after cyberattack"
-    },
-    {
-      "added_at": 1795218382.704868,
-      "ai": true,
-      "id": "688d34085c16818f44f54f4fcb2ced49ab68f449",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/n0n-extortion-leaks-data-jpmorgan-chase-visa-mastercard",
-      "published": 1795201058.0,
-      "source": "GRAHAM CLULEY",
-      "summary": "The extortion group n0n breached third‑party service providers for JPMorgan Chase, Visa, and Mastercard, leaking customer data online. The leak includes personal and financial information of customers of the three major financial firms. The incident highlights the risk of third‑party vulnerabilities.",
-      "tags": [],
-      "title": "n0n extortion gang leaks data of JPMorgan Chase, Visa, and Mastercard customers"
-    },
-    {
-      "added_at": 1795218382.704868,
-      "ai": true,
-      "id": "6c623452a14a6d231ad59fba2e65f23ed355f3b0",
-      "link": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
-      "published": 1795200703.0,
-      "source": "BleepingComputer",
-      "summary": "Bell Canada confirmed a breach on November 17, 2026 by an 'agentic' threat actor that stole enterprise customer data, including information from a system used to order and provision telecom circuits. The attack targeted internal systems and exposed sensitive customer details. Bell is investigating the scope of the data loss.",
-      "tags": [],
-      "title": "Bell Canada says 'agentic' hacker stole enterprise customer data"
-    },
-    {
-      "added_at": 1795218382.704868,
-      "ai": true,
-      "id": "95e1986b820d2a3404c1e1596549fd8d6659dd46",
-      "link": "https://www.darkreading.com/cybersecurity-operations/security-words-matter",
-      "published": 1795199740.0,
-      "source": "darkreading",
-      "summary": "Cyber leaders emphasize that clear, disciplined communication is a frontline defense in cloud security and AI adoption. The article argues that effective messaging can mitigate risks as much as technical controls. It calls for better communication practices across enterprises.",
-      "tags": [],
-      "title": "In Security, Words Matter as Much as Tools, Maybe More"
-    },
-    {
-      "added_at": 1795218382.704868,
-      "ai": true,
-      "id": "6cc616c5c6e76f971a0e2bcbe54a9b1f6084cddf",
-      "link": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
-      "published": 1795197440.0,
-      "source": "The Hacker News",
-      "summary": "Meta’s WhatsApp fixed three security vulnerabilities, one affecting Android that may have been used in scam messages. The CVE‑2026‑23871 flaw involved incomplete validation of external ad‑reply URLs. The patch addresses the issue in WhatsApp and WhatsApp Business for Android.",
-      "tags": [],
-      "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams"
-    },
-    {
-      "added_at": 1795218382.704868,
-      "ai": true,
-      "id": "0abe4221510a96d08be27478dc99a4d5c36969bb",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
-      "published": 1795195800.0,
-      "source": "BleepingComputer",
-      "summary": "Threat actors employed the open‑source AI penetration‑testing framework Cairn to discover a zero‑day vulnerability in a medical imaging application. The vulnerability allowed them to take control of the server. The incident demonstrates the risk of AI tools in adversarial use.",
-      "tags": [],
-      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server"
-    },
-    {
-      "added_at": 1795218382.704868,
-      "ai": true,
-      "id": "82b76084c3aaddba0be3cf30ffb44c2f0c9468ae",
-      "link": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382",
-      "published": 1795195800.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "Chinese threat actors used AI agents that adapted for nearly a full day without human input to locate and exploit a zero‑day in a university server. The attack persisted until the vulnerability was discovered. The case shows autonomous AI capabilities in cyber attacks.",
-      "tags": [],
-      "title": "China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server"
-    },
-    {
-      "added_at": 1795218382.704868,
-      "ai": true,
-      "id": "cd038ca0a29b9504418e113f1e23c09140ccbc7b",
-      "link": "https://therecord.media/amazon-research-cairn-ai-university-attacks-possible-zero-day",
-      "published": 1795195800.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "Amazon reported that a China‑linked threat actor used the open‑source AI tool Cairn to attack two universities, potentially discovering a zero‑day bug. The attackers persisted in the attack, exploiting the vulnerability to gain control. The incident highlights the misuse of AI tools for exploitation.",
-      "tags": [
-        "#news"
-      ],
-      "title": "Amazon says Chinese hackers used Cairn AI tool to discover apparent zero-day during attack on university"
-    },
-    {
-      "added_at": 1795218382.704868,
-      "ai": true,
-      "id": "35aed7f27fbb0710a0b6e764ce2aa825cc104949",
-      "link": "https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry",
-      "published": 1795194244.0,
-      "source": "darkreading",
-      "summary": "The video discusses recent news missed by the publication, including the resignation of Nvidia CEO Jensen Huang and a Microsoft cloud outage. The segment covers industry impacts and reactions. It provides context on recent AI industry developments.",
-      "tags": [],
-      "title": "What We Missed: Nvidia CEO Scandal Rocks AI Industry"
-    },
-    {
-      "added_at": 1795218382.704868,
-      "ai": true,
-      "id": "9dbbebdeb6a3a85df4b204a905c4843344a5a971",
-      "link": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
-      "published": 1795193896.0,
-      "source": "The Hacker News",
-      "summary": "Researchers identified the Bazuka Android malware framework that uses fake screen overlays to conceal credential theft and remote device control. The malware integrates large language models for victim management. It was discovered during an investigation of an NFC‑relay banking Trojan.",
-      "tags": [],
-      "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control"
-    },
-    {
-      "added_at": 1795218382.704868,
-      "ai": true,
-      "id": "170cd467c630bfa77ba05953b8a786a7c597be35",
-      "link": "https://www.theregister.com/security/2026/11/20/dutch-data-watchdog-highlights-safety-issues-with-ai-glasses/5311345",
-      "published": 1795193040.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "The Dutch data protection authority warned that AI glasses misinterpret medication instructions and other scenarios, posing safety risks. The devices could lead to incorrect usage or harm. The watchdog urges caution and further safety testing.",
-      "tags": [],
-      "title": "Dutch data watchdog highlights safety issues with AI glasses"
-    },
-    {
-      "added_at": 1795218382.704868,
-      "ai": true,
-      "id": "f67114676f5678cecddc1e6a04cb6812426dab80",
-      "link": "https://therecord.media/nsa-resumes-normal-operations-following-internal-disruptions",
-      "published": 1795190760.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "NSA has resumed normal operations after internal network disruptions. Some facilities remain in Code Orange, delaying openings for non‑essential staff. Employees must check in with supervisors.",
-      "tags": [
-        "#news"
-      ],
-      "title": "NSA resumes normal operations following internal network disruptions"
-    },
-    {
-      "added_at": 1795218382.704868,
-      "ai": true,
-      "id": "b3099b7219afcaab9c361fde14bf17394af6dc60",
-      "link": "https://www.securityweek.com/whatsapp-fixes-flaw-uncovered-while-disrupting-scam-campaign/",
-      "published": 1795190462.0,
-      "source": "SecurityWeek",
-      "summary": "WhatsApp discovered and fixed CVE‑2026‑23871, a vulnerability that could have made scam messages more credible. The flaw was identified by WhatsApp’s security team during a scam campaign disruption.",
-      "tags": [],
-      "title": "WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign"
-    },
-    {
-      "added_at": 1795218382.704868,
-      "ai": true,
-      "id": "bbc19bb6f991b9cb21ec42bf5597f5c2a2772d0a",
-      "link": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
-      "published": 1795190286.0,
-      "source": "BleepingComputer",
-      "summary": "J.P. Morgan Chase reported a data breach at a third‑party service provider. The breach exposed personal and marketing data of Chase, Visa, and Mastercard customers.",
-      "tags": [],
-      "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info"
-    },
-    {
-      "added_at": 1795218382.704868,
-      "ai": true,
-      "id": "19cca4f1450a3e9083b1650de3fe32ecbba3a59a",
-      "link": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
-      "published": 1795186810.0,
-      "source": "BleepingComputer",
-      "summary": "Storing passwords in spreadsheets can hide weak, reused, or compromised credentials. Centralized password management improves visibility, identifies risks, and simplifies secure sharing.",
-      "tags": [],
-      "title": "Still tracking company passwords in spreadsheets? You’re flying blind."
-    },
-    {
-      "added_at": 1795218382.704868,
-      "ai": true,
-      "id": "f3d31e5642221177b7956a000bb97b22be58feef",
-      "link": "https://www.theregister.com/security/2026/11/20/spy-court-blasts-uk-secrecy-forces-government-to-admit-apple-backdoor-demand/5311292",
-      "published": 1795177099.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "A UK spy court criticized government secrecy and forced an admission of an Apple backdoor demand. The court noted the notice could be acknowledged without compromising national security, but details remain undisclosed.",
-      "tags": [],
-      "title": "Spy court blasts UK secrecy, forces government to admit Apple ‘backdoor’ demand"
-    },
-    {
-      "added_at": 1795218382.704868,
-      "ai": true,
-      "id": "2cf87a19124d5e799883e6672f53cb01e613fb76",
-      "link": "https://www.darkreading.com/cybersecurity-operations/test-takers-ai-exam-security-catch-up",
-      "published": 1794608820.0,
-      "source": "darkreading",
-      "summary": "AI use in IT certification exams is difficult to detect. New tools and processes are emerging to enhance exam integrity and trust.",
-      "tags": [],
-      "title": "As Test Takers Turn to AI, Exam Security Plays Catch-Up"
-    },
-    {
-      "added_at": 1795218382.704868,
-      "ai": true,
-      "id": "26bc7212e5d9b4f97290702ee1b33d70790e2fa9",
-      "link": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-pacific-flying-squid-populations-dropping-in-korean-waters.html",
-      "published": 1794607246.0,
-      "source": "Schneier on Security",
-      "summary": "Research shows a decline in Pacific flying squid populations in Korean waters, linked to climate change. The article also references other security stories not covered.",
-      "tags": [
-        "#opinion"
-      ],
-      "title": "Friday Squid Blogging: Pacific Flying Squid Populations Dropping in Korean Waters"
-    },
-    {
-      "added_at": 1795218382.704868,
-      "ai": true,
-      "id": "3c3eab5ceb3d840cde407e2b8e8121a1d4565916",
-      "link": "https://blog.talosintelligence.com/artex-and-beyond/",
-      "published": 1794603433.0,
-      "source": "Cisco Talos Blog",
-      "summary": "AI‑enabled penetration testing and red‑team frameworks automate reconnaissance, vulnerability testing, and follow‑on actions. Misuse of these tools can lower the skill threshold for attackers and accelerate intrusions.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "ARTEX and beyond: AI-enabled penetration testing platforms"
-    },
-    {
-      "added_at": 1795218382.704868,
-      "ai": true,
-      "id": "e12779d5806a7d2615d2f1e1fbe3950aafe1b77b",
-      "link": "https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai",
-      "published": 1794601227.0,
-      "source": "darkreading",
-      "summary": "ArcticRAT malware now uses AI to analyze stolen information, expanding beyond cryptocurrency theft to full device control. The gang profiles victim finances to target attacks.",
-      "tags": [],
-      "title": "ArcticRAT Cybercrime Gang Profiles Victim Finances With AI"
-    },
-    {
-      "added_at": 1795218382.704868,
-      "ai": true,
-      "id": "862c3998dd63db20fc587cc4bab2e79caf66eb79",
-      "link": "https://www.rapid7.com/blog/post/dr-mdr-pricing-comparing-asset-ingestion-based-ingestion-costs",
-      "published": 1794587849.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "MDR pricing models differ between asset‑based and ingestion‑based approaches. Similar budgets can yield varying evidence access, retention periods, and investigative responsibilities, affecting incident response.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "MDR Pricing: Comparing Asset-Based and Ingestion-Based Costs"
-    },
-    {
-      "added_at": 1795218382.704868,
-      "ai": true,
-      "id": "1838248a60d9044040f647fbae585a096108889a",
-      "link": "https://projectzero.google/2026/11/disclosure-policy.html",
-      "published": 1794556800.0,
-      "source": "Project Zero",
-      "summary": "Project Zero’s 90+30 disclosure policy gives vendors 90 days to patch a vulnerability and an additional 30 days for rollout. The policy aims to accelerate patching and allow time for users to receive updates. AI‑assisted discovery has altered the threat landscape.",
-      "tags": [
-        "#vulnerability",
-        "#0day"
-      ],
-      "title": "Policy and Disclosure: 2026 Edition"
-    },
-    {
-      "added_at": 1795218382.704868,
-      "ai": true,
-      "id": "e9f16b1caffc5770ee0cf81ccc5e9c1337250d08",
-      "link": "https://www.darkreading.com/cybersecurity-operations/getting-past-post-quantum-cryptography-discovery",
-      "published": 1794523565.0,
-      "source": "darkreading",
-      "summary": "Many organizations have not inventoried their cryptographic assets, making it unclear where to start with post‑quantum cryptography. This lack of visibility hampers PQC adoption.",
-      "tags": [],
-      "title": "Getting Past the Post-Quantum Cryptography Discovery Phase"
-    },
-    {
-      "added_at": 1795218382.704868,
-      "ai": true,
-      "id": "d9fc7bca781a0c5021389c6b2de9e6d0ea0125d2",
-      "link": "https://www.darkreading.com/threat-intelligence/chinese-ai-project-scouts-spies-taiwan-chip-industry",
-      "published": 1794445200.0,
-      "source": "darkreading",
-      "summary": "The Chinese Communist Party built a Big Data system to scrape information on overseas individuals. The system could be used to target and exploit those individuals.",
-      "tags": [],
-      "title": "Chinese AI Project Scouts Spies in Taiwan Chip Industry"
-    },
-    {
-      "added_at": 1795218382.704868,
-      "ai": true,
-      "id": "453a571c3295ab4cc781fa4c1a142b5055249570",
-      "link": "https://grahamcluley.com/smashing-security-podcast-492/",
-      "published": 1794443575.0,
-      "source": "GRAHAM CLULEY",
-      "summary": "The Smashing Security podcast covers a scheme that used deepfakes of company bosses to steal $130 million. It also discusses how hackers can hijack digital car keys, turning vehicles into “pumpkins.”",
-      "tags": [],
-      "title": "Smashing Security podcast #492: How hackers turned Russian cars into pumpkins"
-    },
-    {
-      "added_at": 1795218382.704868,
-      "ai": true,
-      "id": "3fe5e276bee2ad65943d176ec6438bd0e03f31f5",
-      "link": "https://www.infosecurity-magazine.com/news/anthropic-glasswing/",
-      "published": 1794414600.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "After seven months, Project Glasswing reported thousands of vulnerabilities but only 217 were fixed. This indicates a gap between discovery and remediation.",
-      "tags": [],
-      "title": "Anthropic's Glasswing Finds Many Vulnerabilities Yet Delivers Few Fixes, Researcher Says"
-    },
-    {
-      "added_at": 1795218382.704868,
-      "ai": true,
-      "id": "ceba7551bef304a7a0e28a70f5711cf19db73799",
-      "link": "https://unit42.paloaltonetworks.com/falcon-c2-browser-compromise/",
-      "published": 1794409223.0,
-      "source": "Unit 42",
-      "summary": "Falcon C2 is a browser‑based threat framework that targets governments through malicious scripts, extensions, and the Antino implant. It operates under the radar of traditional security tools.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "The XG Files: Falcon C2 Flying Under The (Browser) Radar"
-    },
-    {
-      "added_at": 1795218382.704868,
-      "ai": true,
-      "id": "cca2595a4842309021f45cd1622694cd9071760d",
-      "link": "https://portswigger.net/research/blind-trust-stealing-credentials-through-csp",
-      "published": 1794407161.0,
-      "source": "PortSwigger Research",
-      "summary": "Content Security Policy is intended to block HTML injection from becoming XSS. However, when a domain is whitelisted, the policy can fail and allow credential theft.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "Blind trust: stealing credentials through CSP"
-    },
-    {
-      "added_at": 1795218382.704868,
-      "ai": true,
-      "id": "a731319ae302ffd3ffffa01ec066e4adfb6e1621",
-      "link": "https://www.welivesecurity.com/en/eset-research/exchange-for-breakfast-turlas-cereal-tricks-are-not-for-kids/",
-      "published": 1794304620.0,
-      "source": "WeLiveSecurity",
-      "summary": "Turla’s Cereal toolset includes a novel Exchange email collection module, a unique command‑and‑control mechanism, and sophisticated .NET execution tricks.",
-      "tags": [],
-      "title": "Exchange for breakfast: Turla’s Cereal tricks are not for kids"
-    },
-    {
-      "added_at": 1795218382.704868,
-      "ai": true,
-      "id": "9ad18cf8e21e4bbb8cb1d87af789a69a68131b46",
-      "link": "https://www.intigriti.com/blog/business-insights/what-a-live-hacking-event-with-intigriti-can-do",
-      "published": 1794268800.0,
-      "source": "Intigriti",
-      "summary": "Intigriti runs live hacking events where selected ethical hackers hunt for vulnerabilities in a company’s systems. Conference events bring these hackers to industry gatherings, expanding the reach of the program.",
-      "tags": [
-        "#bugbounty"
-      ],
-      "title": "The pinnacle of crowdsourced security. What a live hacking event with Intigriti can do for businesses"
-    },
-    {
-      "added_at": 1795218382.704868,
-      "ai": true,
-      "id": "ce2362fa272a2dc24fb12c5c84b77e345a05a3dc",
-      "link": "https://unit42.paloaltonetworks.com/europes-refrigeration-systems-attacks/",
-      "published": 1793999709.0,
-      "source": "Unit 42",
-      "summary": "Unit 42 examined recent cyberattacks on European refrigeration systems. The report outlines defense and mitigation strategies to protect critical infrastructure.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Turning Up the Heat: Inside the Attacks on Europe’s Refrigeration Systems"
-    },
-    {
-      "added_at": 1795271037.5493424,
-      "ai": true,
-      "id": "0ad755f2681c37300b1d468669917e8ab4a81c43",
-      "link": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
-      "published": 1795261987.0,
-      "source": "The Hacker News",
-      "summary": "A malicious webpage can extract Meta Muse private chats and stored memories without triggering an approval prompt, and could also access credentials stored by the assistant. The demonstration was limited to a single user and did not target real accounts.",
-      "tags": [],
-      "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats"
-    },
-    {
-      "added_at": 1795271037.5493424,
-      "ai": true,
-      "id": "761885e6c02d655032866997ab7352acf6ae0db8",
-      "link": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
-      "published": 1795259153.0,
-      "source": "The Hacker News",
-      "summary": "GnuPG warns that a long user ID in an OpenPGP key can trigger a critical memory bug in GPGME, potentially exposing application data. Fixed versions are available and the flaw affects all software using GPGME before 2.3.0.",
-      "tags": [],
-      "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys"
-    },
-    {
-      "added_at": 1795271037.5493424,
-      "ai": true,
-      "id": "a3eac34b29cf4ec48f0c0918e0168bc21d98df72",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
-      "published": 1795250953.0,
-      "source": "The Hacker News",
-      "summary": "CISA added four vulnerabilities – Apache Roller, Cisco Expressway, SAP NetWeaver, and VMware vCenter – to its Known Exploited Vulnerabilities list after evidence of active exploitation, including CVE-2026-129448 with a CVSS score of 9.8.",
-      "tags": [],
-      "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge"
-    },
-    {
-      "added_at": 1795271037.5493424,
-      "ai": true,
-      "id": "93138fbb4db250e2f971440df834d5bcb0c62785",
-      "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-      "published": 1795221399.0,
-      "source": "Krebs on Security",
-      "summary": "The CTO and co‑founder of ransomwarehelp.com has been charged with wire fraud after the company was found to pay attackers for decryption keys and charge victims a markup for services that were never performed.",
-      "tags": [],
-      "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud"
-    },
-    {
-      "added_at": 1795271037.5493424,
-      "ai": true,
-      "id": "43803d3c2ee64417485c1abc4223e76d0b05b8fb",
-      "link": "https://www.theregister.com/security/2026/11/14/big-tech-takes-a-beating-as-online-safety-experts-accuse-companies-of-doing-bare-minimum/5309302",
-      "published": 1794644280.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "Online safety experts criticize Big Tech for providing only minimal safeguards, noting that Parliament’s Communications and Digital Committee found banned content remains easily accessible through simple word substitutions.",
-      "tags": [],
-      "title": "Big Tech takes a beating as online safety experts accuse companies of doing bare minimum"
-    },
-    {
-      "added_at": 1795271037.5493424,
-      "ai": true,
-      "id": "e9579899f60ddf7f4f917cc0eae03b289baefaba",
-      "link": "https://www.welivesecurity.com/en/cybersecurity/gta-vi-isnt-out-yet-scams-full-swing/",
-      "published": 1794564000.0,
-      "source": "WeLiveSecurity",
-      "summary": "Cybercriminals are exploiting the hype around GTA VI by offering malware‑laden downloads and nonexistent early‑access packages to lure fans.",
-      "tags": [],
-      "title": "GTA VI isn’t out yet – and the scams are already in full swing"
-    },
-    {
-      "added_at": 1795271037.5493424,
-      "ai": true,
-      "id": "4088b82c9d863903fb40a4711199016ed18337a0",
-      "link": "https://www.rapid7.com/blog/post/pt-metasploit-wrapup-unauth-rce-modules-in-network-perimeter-devices-and-much-more",
-      "published": 1793973131.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "Metasploit’s latest release includes unauthenticated remote code execution modules for network perimeter devices, among other updates.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "Metasploit Wrapup: Unauth RCE modules in Network Perimeter Devices and much more"
-    },
-    {
-      "added_at": 1795271037.5493424,
-      "ai": true,
-      "id": "4c3b7ebdb999ff3dcb3e45928432f5681ce4bc96",
-      "link": "https://securelist.com/virtualization-security-esxi-and-proxmox-ransomware-cases/121819/",
-      "published": 1793959212.0,
-      "source": "Securelist",
-      "summary": "An analysis of virtualization security highlights how misconfigurations in ESXi and Proxmox environments can enable ransomware attacks, detailing the attack layers involved.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Virtualization security: attack layers and misconfiguration impact"
-    },
-    {
-      "added_at": 1795271037.5493424,
-      "ai": true,
-      "id": "16f17e0f718480e7d3328f05399de3da4fce6e90",
-      "link": "https://labs.watchtowr.com/barracuda-networks-is-your-new-best-friend-barracuda-email-security-gateway-pre-auth-remote-root-rce-cve-2026-116606-cve-2026-111560/",
-      "published": 1793913598.0,
-      "source": "watchTowr Labs",
-      "summary": "Barracuda Networks’ Email Security Gateway is affected by pre‑authentication remote root RCE vulnerabilities (CVE-2026-116606 and CVE-2026-111560), as discussed in a recent blog post.",
-      "tags": [
-        "#research",
-        "#exploit"
-      ],
-      "title": "Barracuda Networks is your new best friend (Barracuda Email Security Gateway Pre-Auth Remote Root RCE CVE-2026-116606 / CVE-2026-111560)"
-    },
-    {
-      "added_at": 1795271037.5493424,
-      "ai": true,
-      "id": "235c91400cfbaf46a7a35f37019f6ad6387ff483",
-      "link": "https://blog.talosintelligence.com/bring-a-tent-ive-got-the-coffee-lessons-from-it-sa/",
-      "published": 1793905200.0,
-      "source": "Cisco Talos Blog",
-      "summary": "The it‑sa event in Nuremberg showcased a new formal IT security apprenticeship program in Germany aimed at training thousands of young hackers.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Bring a tent, I've got the coffee: Lessons from it-sa"
-    },
-    {
-      "added_at": 1795271037.5493424,
-      "ai": true,
-      "id": "49bf8b366c47018c1d1bdf4296ebe734f0161304",
-      "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
-      "published": 1793853377.0,
-      "source": "Krebs on Security",
-      "summary": "White House staff use residential proxy services, including a Russian firm linked to 2016 election cyberattacks, making their IP addresses available for rent.",
-      "tags": [],
-      "title": "Want to Rent an Internet Address at the White House?"
-    },
-    {
-      "added_at": 1795271037.5493424,
-      "ai": true,
-      "id": "8c3b50d164d98c781c40f207a1cf560dec425d1d",
-      "link": "https://portswigger.net/research/making-http-header-injection-critical-with-one-prompt",
-      "published": 1793805149.0,
-      "source": "PortSwigger Research",
-      "summary": "A new vulnerability allows attackers to turn HTTP header injection into a CRLF desynchronization attack, enabling malicious redirects with a single prompt.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "Making HTTP header injection critical with one prompt"
-    },
-    {
-      "added_at": 1795271037.5493424,
-      "ai": true,
-      "id": "a9c6a0863b5f39e8291ee2f4e6479c3c87885dbb",
-      "link": "https://www.welivesecurity.com/en/eset-research/slippynunchucks-hijacks-sogou-input-methods-brand-promotion-mechanism-to-distribute-malware/",
-      "published": 1793786100.0,
-      "source": "WeLiveSecurity",
-      "summary": "Malware distributor SlippyNunchucks hijacks Sogou Input Method’s brand promotion mechanism, using DNS hijacking and insecure HTTP to spread malware on Windows.",
-      "tags": [],
-      "title": "SlippyNunchucks hijacks Sogou Input Method’s brand promotion mechanism to distribute malware"
-    },
-    {
-      "added_at": 1795271037.5493424,
-      "ai": true,
-      "id": "9327bd5edc1203684233a98db4101deb0ce7b189",
-      "link": "https://www.welivesecurity.com/en/eset-research/gorbag-orcs-border-harvesting-intelligence-ukraine/",
-      "published": 1793699400.0,
-      "source": "WeLiveSecurity",
-      "summary": "ESET researchers identified Gorbag, a Russia‑aligned group that harvests data from Ukrainian organizations near the front line with simple infostealers.",
-      "tags": [],
-      "title": "Gorbag: Orcs at the border harvesting intelligence from Ukraine"
-    },
-    {
-      "added_at": 1795271037.5493424,
-      "ai": true,
-      "id": "3b6a51103bfae25be68d30f23111518e435ce9ed",
-      "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
-      "published": 1793672671.0,
-      "source": "Krebs on Security",
-      "summary": "Google and partners dismantled a botnet of 1.3 million Android TV boxes that rented users’ connections for advertising fraud, cutting access to over 10 million additional compromised devices.",
-      "tags": [],
-      "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies"
-    },
-    {
-      "added_at": 1795271037.5493424,
-      "ai": true,
-      "id": "d0fa42b264a11ddcddc145f4ee823aca31b022f3",
-      "link": "https://www.rapid7.com/blog/post/etr-additional-ivanti-connect-secure-zero-days-exploited-in-the-wild-cve-2026-111357-cve-2026-118527",
-      "published": 1793617448.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "Ivanti added two new zero‑day vulnerabilities, CVE‑2026‑111357 and CVE‑2026‑118527, to its Connect Secure product, allowing local authenticated privilege escalation and other attacks.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "Additional Ivanti Connect Secure zero-days exploited in the wild (CVE-2026-111357, CVE-2026-118527)"
-    },
-    {
-      "added_at": 1795271037.5493424,
-      "ai": true,
-      "id": "662466985d9efc929e758ac381203d7f3704b1c5",
-      "link": "https://www.welivesecurity.com/en/business-security/when-confusion-reigns-trusted-vendors-guide-smb-customers/",
-      "published": 1793613300.0,
-      "source": "WeLiveSecurity",
-      "summary": "SMBs need guided onboarding and supervised protection to maximize security investments and avoid confusion.",
-      "tags": [],
-      "title": "When confusion reigns, trusted vendors must guide their SMB customers"
-    },
-    {
-      "added_at": 1795271037.5493424,
-      "ai": true,
-      "id": "f2444df018d924bc0af531fbd7b0048d1f345052",
-      "link": "https://www.intigriti.com/blog/news/php2shell-revisited-real-world-risk",
-      "published": 1793577600.0,
-      "source": "Intigriti",
-      "summary": "Intigriti’s analysis of PHP2Shell shows that while the vulnerability has a high severity score, real‑world exploitation depends on patching and inventory practices.",
-      "tags": [
-        "#bugbounty"
-      ],
-      "title": "PHP2Shell revisited: What Intigriti’s insights tell us about real-world risk"
-    },
-    {
-      "added_at": 1795271037.5493424,
-      "ai": true,
-      "id": "3f8b89d0633c5e44c07fc70ffa0e44a27698d415",
-      "link": "https://www.rapid7.com/blog/post/ra-rapid7-analysis-unauthenticated-file-upload-to-rce-in-beyondtrust-remote-support-cve-2026-102764",
-      "published": 1793376113.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "BeyondTrust Remote Support contains an unauthenticated file‑upload flaw that lets attackers write files and execute code via the public support connection without credentials.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "Rapid7 Analysis: Unauthenticated File Upload to RCE in BeyondTrust Remote Support (CVE-2026-102764)"
-    },
-    {
-      "added_at": 1795271037.5493424,
-      "ai": true,
-      "id": "e293edf88b4e665582e4e4d2e4dbbbf16acc1837",
-      "link": "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-october-2026/",
-      "published": 1793372594.0,
-      "source": "WeLiveSecurity",
-      "summary": "The October 2026 security roundup highlights PHP2Shell and other incidents, underscoring the need for comprehensive cyber‑readiness plans.",
-      "tags": [],
-      "title": "This month in security with Tony Anscombe – October 2026 edition"
-    },
-    {
-      "added_at": 1795271037.5493424,
-      "ai": true,
-      "id": "1f8f175397bff05317092523c892fdde31c28a1a",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/hackers-leak-41-000-dhs-staff-data",
-      "published": 1793356430.0,
-      "source": "GRAHAM CLULEY",
-      "summary": "Hackers published personal data of over 41,000 U.S. Homeland Security employees, including ICE and CBP agents, online, exposing sensitive staff information.",
-      "tags": [],
-      "title": "Hackers leak personnel data of 41,000+ Homeland Security staff, including ICE and border agents"
-    },
-    {
-      "added_at": 1795271037.5493424,
-      "ai": true,
-      "id": "1b6528cb525ca35ccfe4c6de278bdda1b74f925a",
-      "link": "https://www.intigriti.com/researchers/blog/bug-bytes/intigriti-bug-bytes-241-october-2026",
-      "published": 1793318400.0,
-      "source": "Intigriti",
-      "summary": "Bug Bytes #241 details recent findings such as a Microsoft Edge logic‑bug exploit chain, a 1‑click RCE in Discord via Twitch embed, a $250K Chrome full‑chain bounty, XSS in Cloudflare’s image endpoint, and a $90K Google RCE via Flask session pickle deserialization.",
-      "tags": [
-        "#bugbounty"
-      ],
-      "title": "Intigriti Bug Bytes #241 - October 2026 🚀"
-    },
-    {
-      "added_at": 1795271037.5493424,
-      "ai": true,
-      "id": "2810027585c5f3b558764b60c6a3d31c978637c2",
-      "link": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
-      "published": 1793296834.0,
-      "source": "Unit 42",
-      "summary": "Unit 42 reports two critical PHP vulnerabilities, CVE‑2026‑109618 and CVE‑2026‑109619, that could allow remote code execution on servers running affected PHP versions.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated November 19)"
-    },
-    {
-      "added_at": 1795271037.5493424,
-      "ai": true,
-      "id": "a4a98e0e7ba86643e9a523ccca03244f93384748",
-      "link": "https://blog.talosintelligence.com/uat-11473-keydrift/",
-      "published": 1793223122.0,
-      "source": "Cisco Talos Blog",
-      "summary": "Talos identified APT group UAT‑11473 exploiting CVE‑2026‑20127, an authentication bypass in Cisco SD‑WAN Catalyst Controller, to gain unauthorized access and deploy the KeyDrift malware.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Inside KeyDrift: Analyzing historical UAT-11473 activity on Cisco SD-WAN"
-    },
-    {
-      "added_at": 1795271037.5493424,
-      "ai": true,
-      "id": "f551d4b4428a649d8a62a4fbcb26f20f0c37b842",
-      "link": "https://portswigger.net/research/new-crazy-payloads-in-the-url-validation-bypass-cheat-sheet",
-      "published": 1730210353.0,
-      "source": "PortSwigger Research",
-      "summary": "The URL Validation Bypass Cheat Sheet has been updated with new payloads demonstrating how ambiguous URLs can bypass validation and trigger security weaknesses.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "New crazy payloads in the URL Validation Bypass Cheat Sheet"
-    },
-    {
-      "added_at": 1795271037.5493424,
-      "ai": true,
-      "id": "35e5f1497c5f1f3fa49e22f83190a2a931cfb682",
-      "link": "https://portswigger.net/research/concealing-payloads-in-url-credentials",
-      "published": 1729688345.0,
-      "source": "PortSwigger Research",
-      "summary": "Research shows payloads can be hidden within the credentials section of a URL, making them invisible in the address bar while still being processed by the target application.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "Concealing payloads in URL credentials"
-    },
-    {
-      "added_at": 1795271037.5493424,
-      "ai": true,
-      "id": "253aae07f4b890d130bc6ef863c4dd3181e3f166",
-      "link": "https://portswigger.net/research/introducing-the-url-validation-bypass-cheat-sheet",
-      "published": 1725375132.0,
-      "source": "PortSwigger Research",
-      "summary": "The cheat sheet explains how URL validation bypasses can lead to SSRF, CORS misconfigurations, and open redirection by exploiting ambiguous URL formats.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "Introducing the URL validation bypass cheat sheet"
-    },
-    {
-      "added_at": 1795271037.5493424,
-      "ai": true,
-      "id": "e13b1aaf2514922af9dc9836b30b5f06b869c430",
-      "link": "https://portswigger.net/research/gotta-cache-em-all",
-      "published": 1723156066.0,
-      "source": "PortSwigger Research",
-      "summary": "The article discusses new techniques for exploiting web caches, including differences between CDN and origin cache behaviors, to hijack data or inject malicious content.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "Gotta cache 'em all: bending the rules of web cache exploitation"
-    },
-    {
-      "added_at": 1795271037.5493424,
-      "ai": true,
-      "id": "b9da9e97a20605cdab6c480e7c6ec597acf88437",
-      "link": "https://portswigger.net/research/splitting-the-email-atom",
-      "published": 1723066367.0,
-      "source": "PortSwigger Research",
-      "summary": "The post highlights how discrepancies in email address parsing can be used to bypass access controls by manipulating domain extraction logic.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "Splitting the email atom: exploiting parsers to bypass access controls"
-    },
-    {
-      "added_at": 1795271037.5493424,
-      "ai": true,
-      "id": "d903612ff256e76603be29b7fa385bf3a2285801",
-      "link": "https://portswigger.net/research/listen-to-the-whispers-web-timing-attacks-that-actually-work",
-      "published": 1723054221.0,
-      "source": "PortSwigger Research",
-      "summary": "The paper presents practical web timing attacks that exploit timing oracles to reveal server secrets, demonstrating the feasibility of such side‑channel attacks.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "Listen to the whispers: web timing attacks that actually work"
-    },
-    {
-      "added_at": 1795271037.5493424,
-      "ai": true,
-      "id": "d6540924f307e1884305eb8e5c4007373e1acd64",
-      "link": "https://portswigger.net/research/fickle-pdfs-exploiting-browser-rendering-discrepancies",
-      "published": 1720529482.0,
-      "source": "PortSwigger Research",
-      "summary": "A PDF invoice displayed a different total in Safari and MacOS Preview compared to the actual amount. The discrepancy was used to mislead the recipient into approving an incorrect payment. The issue highlights rendering inconsistencies across browsers.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "Fickle PDFs: exploiting browser rendering discrepancies"
-    },
-    {
-      "added_at": 1795271037.5493424,
-      "ai": true,
-      "id": "59d2b6c637bd386983d3b94ed46c4dd1a6f639e3",
-      "link": "https://portswigger.net/research/a-hacking-hat-trick-previewing-three-portswigger-research-publications-coming-to-def-con-amp-black-hat-usa",
-      "published": 1719925028.0,
-      "source": "PortSwigger Research",
-      "summary": "PortSwigger Research will present three new research releases at Black Hat USA and DEF CON 32. The post previews each talk's focus and key takeaways. The releases aim to advance web security knowledge.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "A hacking hat-trick: previewing three PortSwigger Research publications coming to DEF CON & Black Hat USA"
-    },
-    {
-      "added_at": 1795271037.5493424,
-      "ai": true,
-      "id": "a1419924eb78745cb5c24942a9e9787611d62f20",
-      "link": "https://portswigger.net/research/new-exotic-events-in-the-xss-cheat-sheet",
-      "published": 1718117909.0,
-      "source": "PortSwigger Research",
-      "summary": "The XSS cheat sheet has been updated with new exotic events, including onwebkitplaybacktargetavailabilitychanged. Contributions from Mozilla helped refine the list and remove obsolete events. The update enhances the cheat sheet's relevance for XSS research.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "onwebkitplaybacktargetavailabilitychanged?! New exotic events in the XSS cheat sheet"
-    },
-    {
-      "added_at": 1795271037.5493424,
-      "ai": true,
-      "id": "02f6355ad4351729891b73acd6b9333a24423c3b",
-      "link": "https://portswigger.net/research/adjusting-your-http-perspective-with-bambdas",
-      "published": 1716989509.0,
-      "source": "PortSwigger Research",
-      "summary": "This article explores how to analyze HTTP messages by examining parameters, CORS headers, and request origins. It introduces bambdas, a tool for simplifying HTTP inspection. The guide helps security analysts spot anomalies more efficiently.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "Refining your HTTP perspective, with bambdas"
-    },
-    {
-      "added_at": 1795271037.5493424,
-      "ai": true,
-      "id": "80364be63be75b7d462c22521767fceb862da6c5",
-      "link": "https://blog.assetnote.io/2024/01/19/ivanti-pulse-connect-secure-auth-bypass-rce/",
-      "published": 1705582800.0,
-      "source": "Assetnote",
-      "summary": "Researchers identified a high‑signal vulnerability in Ivanti Pulse Connect Secure that allows authentication bypass and remote code execution. The flaw can be exploited to gain full system control. Ivanti has issued a patch.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "High Signal Detection and Exploitation of Ivanti's Pulse Connect Secure Auth Bypass & RCE"
-    },
-    {
-      "added_at": 1795271037.5493424,
-      "ai": true,
-      "id": "628a6d7c0f13861d1477647e5478bc7093c3b38a",
-      "link": "https://blog.assetnote.io/2023/10/24/citrixbleed-CVE-2023-4966/",
-      "published": 1698096911.0,
-      "source": "Assetnote",
-      "summary": "CVE‑2023‑4966 in Citrix products enables attackers to leak session tokens. The vulnerability can lead to unauthorized access to user sessions. Citrix has released a fix.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "Citrix Bleed: Leaking Session Tokens with CVE-2023-4966"
-    },
-    {
-      "added_at": 1795271037.5493424,
-      "ai": true,
-      "id": "9fc65d67c866b6acd6b3a108c24f9d23649b1bb4",
-      "link": "https://blog.assetnote.io/2023/10/04/rce-progress-ws-ftp/",
-      "published": 1696368799.0,
-      "source": "Assetnote",
-      "summary": "CVE‑2023‑40044 permits remote code execution in WS_FTP Ad Hoc by exploiting IIS HTTP modules. Attackers can execute arbitrary commands on the target system. A patch is available.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "RCE in Progress WS_FTP Ad Hoc via IIS HTTP Modules (CVE-2023-40044)"
-    },
-    {
-      "added_at": 1795271037.5493424,
-      "ai": true,
-      "id": "f8b8d197f12b086db619ea4feac9aa08ce87734a",
-      "link": "https://blog.assetnote.io/2023/08/28/leaking-file-contents-with-a-blind-file-oracle-in-flarum/",
-      "published": 1693173600.0,
-      "source": "Assetnote",
-      "summary": "A blind file oracle in Flarum allows attackers with a basic user account to read arbitrary local files and perform blind SSRF attacks. Over 1200 exposed installations were identified. The vulnerability is mitigated by updating to the latest version.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "Leaking File Contents with a Blind File Oracle in Flarum"
-    },
-    {
-      "added_at": 1795271037.5493424,
-      "ai": true,
-      "id": "db33cb156dadb0538e6dea46edcb78d44cf56001",
-      "link": "https://blog.assetnote.io/2023/08/28/advisory-flarum-lfi/",
-      "published": 1693170000.0,
-      "source": "Assetnote",
-      "summary": "CVE‑2023‑40033 in Flarum permits local file inclusion through a malicious avatar URL. An attacker can read any local file and conduct blind SSRF. The issue affects multiple Flarum framework versions and is fixed in newer releases.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "Advisory: Flarum LFI - CVE-2023-40033"
-    },
-    {
-      "added_at": 1795271037.5493424,
-      "ai": true,
-      "id": "0557f7261de71d6ca94c8d1de90ed82a8ffa8228",
-      "link": "https://blog.assetnote.io/2023/08/09/exploiting-citrix-netscaler-cve-2023-3519/",
-      "published": 1691532000.0,
-      "source": "Assetnote",
-      "summary": "Part 3 of the series explains the exploitation of the Citrix NetScaler buffer overflow (CVE‑2023‑3519). It covers the full attack chain from initial disclosure to a working exploit. Citrix has addressed the vulnerability in recent patches.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "Finding and Exploiting Citrix NetScaler Buffer Overflow (CVE-2023-3519) (Part 3)"
-    },
-    {
       "added_at": 1795301614.1508574,
       "ai": true,
       "id": "1e1dbef95d66a94a45dd62055b9b3a4101b8d730",
@@ -2357,6 +1365,455 @@
         "#exploit"
       ],
       "title": "You’re Not Supposed To ShareFile With Everyone (Progress ShareFile Pre-Auth RCE Chain CVE-2026-2699 & CVE-2026-2701)"
+    },
+    {
+      "added_at": 1795455512.5846934,
+      "ai": true,
+      "id": "5e4209ae374025b40fc37e043b414e5a4cadee8e",
+      "link": "https://therecord.media/austrian-foreign-ministry-says-website-hacked",
+      "published": 1795478400.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "Hackers accessed the Austrian Foreign Ministry website, retrieving names and official contact information of employees at Vienna headquarters and diplomatic missions abroad.",
+      "tags": [
+        "#news"
+      ],
+      "title": "Hackers breach Austrian Foreign Ministry website, access diplomats' contact details"
+    },
+    {
+      "added_at": 1795455512.5846934,
+      "ai": true,
+      "id": "150147ab1470bb5d0a3578e3771239c4f5c09d9b",
+      "link": "https://www.theregister.com/security/2026/11/23/bulgaria-evicts-cyber-snoops-who-lurked-inside-government-networks-for-5-years/5311629",
+      "published": 1795453260.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "Bulgaria removed intruders who had accessed government networks for five years, during which they downloaded over 130 GB of data amid security lapses.",
+      "tags": [],
+      "title": "Bulgaria evicts cyber snoops who lurked inside government networks for 5 years"
+    },
+    {
+      "added_at": 1795455512.5846934,
+      "ai": true,
+      "id": "4cf6189c290c29f88a9eb975cfc4a0d9ab590c0f",
+      "link": "https://cyberscoop.com/kirsten-davies-jay-clayton-national-cyber-director/",
+      "published": 1795453143.0,
+      "source": "CyberScoop",
+      "summary": "Kirsten Davies has been nominated to become the National Cyber Director, while Jay Clayton will serve as acting director until the appointment is finalized.",
+      "tags": [],
+      "title": "Kirsten Davies to become national cyber director nominee, Jay Clayton takes acting director job"
+    },
+    {
+      "added_at": 1795455512.5846934,
+      "ai": true,
+      "id": "0af9a7510182f44f9a947fe6a7acad6e9cb12986",
+      "link": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
+      "published": 1795452601.0,
+      "source": "BleepingComputer",
+      "summary": "GlobeTopper suffered a cyberattack that disrupted operations, resulting in an estimated $2.5 million loss and the theft of $70 000 in digital gift cards.",
+      "tags": [],
+      "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards"
+    },
+    {
+      "added_at": 1795455512.5846934,
+      "ai": true,
+      "id": "e101d52cda4a15a34f16d29e06b3cc4761df8c21",
+      "link": "https://www.securityweek.com/azure-flaw-exploited-to-target-secrets-at-norwegian-energy-firms/",
+      "published": 1795448860.0,
+      "source": "SecurityWeek",
+      "summary": "A Microsoft Azure API Management flaw was exploited to target secrets at Norwegian energy companies, prompting Microsoft to close the vulnerability.",
+      "tags": [],
+      "title": "Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms"
+    },
+    {
+      "added_at": 1795455512.5846934,
+      "ai": true,
+      "id": "bcc6ff74f523278724c25f76d72a99d3ef120f92",
+      "link": "https://therecord.media/norway-microsoft-cyberattack-equinor",
+      "published": 1795448700.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "Norwegian authorities reported that a Microsoft cloud security vulnerability was used to compromise credentials at Equinor and Skagerak Energi.",
+      "tags": [
+        "#news"
+      ],
+      "title": "Norway says hackers exploited Microsoft security flaw to attack energy firms Equinor, Skagerak Energi"
+    },
+    {
+      "added_at": 1795455512.5846934,
+      "ai": true,
+      "id": "0f976cf9e6b137ed54ac3a5f3c23e48b750dbf2c",
+      "link": "https://www.infosecurity-magazine.com/news/crowdstrike-to-acquire-zscaler/",
+      "published": 1795446900.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "CrowdStrike announced a $43.9 billion acquisition of Zscaler, adding network security capabilities to its portfolio.",
+      "tags": [],
+      "title": "CrowdStrike to Acquire Zscaler in Record $44 Billion Deal"
+    },
+    {
+      "added_at": 1795455512.5846934,
+      "ai": true,
+      "id": "85658b0bc9736face23afb2d6f956ff7b60ed128",
+      "link": "https://therecord.media/kirsten-davies-trump-intends-nominate-national-cyber-director",
+      "published": 1795446840.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "President Trump confirmed Kirsten Davies as the national cyber director after receiving strong support for her nomination.",
+      "tags": [
+        "#news"
+      ],
+      "title": "'Overwhelming' support leads Trump to lock in Davies for national cyber czar"
+    },
+    {
+      "added_at": 1795455512.5846934,
+      "ai": true,
+      "id": "ca0d1bdeb307b96339f8e1892201d44f41c40b7d",
+      "link": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
+      "published": 1795446648.0,
+      "source": "The Hacker News",
+      "summary": "The week highlighted multiple vulnerabilities, including VMware 0‑Day, Java4Shell, NGINX2Root, and Ruby2Shell, illustrating how small openings can lead to larger breaches.",
+      "tags": [],
+      "title": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble"
+    },
+    {
+      "added_at": 1795455512.5846934,
+      "ai": true,
+      "id": "ed11d95a721bf67df9d50a43d861e1b348e2ca04",
+      "link": "https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/",
+      "published": 1795446409.0,
+      "source": "SecurityWeek",
+      "summary": "N‑able released a patch for a critical flaw after a Mail Assure cyberattack, restoring access to affected services and monitoring environments.",
+      "tags": [],
+      "title": "N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack"
+    },
+    {
+      "added_at": 1795455512.5846934,
+      "ai": true,
+      "id": "309b2650e83769d4e329d7953db0acfd4c41426a",
+      "link": "https://www.helpnetsecurity.com/2026/11/23/gl-inet-cloud-compromise-malware-backdoors/",
+      "published": 1795446350.0,
+      "source": "Help Net Security",
+      "summary": "Attackers compromised GL.iNet’s GoodCloud remote‑management service and installed malware on routers and KVM devices.\nInvestigation is ongoing and older backdoors were also discovered.",
+      "tags": [],
+      "title": "GL.iNet cloud compromise hits routers and KVMs, older backdoors also found"
+    },
+    {
+      "added_at": 1795455512.5846934,
+      "ai": true,
+      "id": "f88275a520e7e92ce57caa51ec628a11cc4ae010",
+      "link": "https://www.securityweek.com/phpaftershell-vulnerability-revives-php2shells-attack-path/",
+      "published": 1795442287.0,
+      "source": "SecurityWeek",
+      "summary": "The phpAfterShell vulnerability allows an attacker to trigger data deserialization and remote code execution when a session overwrite is interrupted.\nIt re‑opens the attack path used by PHP2Shell.",
+      "tags": [],
+      "title": "phpAfterShell Vulnerability Revives PHP2Shell’s Attack Path"
+    },
+    {
+      "added_at": 1795455512.5846934,
+      "ai": true,
+      "id": "d8056211c41ea36649894005d0faa42f2799c2ad",
+      "link": "https://www.infosecurity-magazine.com/news/us-lawmakers-bill-cisa-review/",
+      "published": 1795440600.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "Two U.S. congressmen have proposed creating a cyber‑incident review board within the Cybersecurity and Infrastructure Security Agency.\nThe board would evaluate major cyber incidents.",
+      "tags": [],
+      "title": "US Lawmakers Propose CISA Board to Review Major Cyber Incidents"
+    },
+    {
+      "added_at": 1795455512.5846934,
+      "ai": true,
+      "id": "4be13f5936eab78fe8236a5b9b27e908619fa652",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/",
+      "published": 1795440525.0,
+      "source": "BleepingComputer",
+      "summary": "Microsoft is testing a fix for a long‑standing Windows 11 issue that causes significant audio quality drops on Bluetooth headphones.\nThe problem has affected many users.",
+      "tags": [],
+      "title": "Microsoft testing fix for Windows 11 Bluetooth audio quality drops"
+    },
+    {
+      "added_at": 1795455512.5846934,
+      "ai": true,
+      "id": "851d3d22fd3bfffd9d569154afdcb9253d32b866",
+      "link": "https://www.securityweek.com/gl-inet-routers-kvms-compromised-via-remote-management-service-flaw/",
+      "published": 1795440382.0,
+      "source": "SecurityWeek",
+      "summary": "A flaw in GoodCloud enabled attackers to push malware to GL.iNet routers and KVMs.\nRemediation requires installing new firmware.",
+      "tags": [],
+      "title": "GL.iNet Routers, KVMs Compromised via Remote Management Service Flaw"
+    },
+    {
+      "added_at": 1795455512.5846934,
+      "ai": true,
+      "id": "cb673b121b80fca4ab0ce589b6046f4ec43d64bb",
+      "link": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html",
+      "published": 1795440140.0,
+      "source": "The Hacker News",
+      "summary": "CVE‑2026‑134814 is a critical code‑injection flaw in the binary‑parser library.\nIt lets attackers execute arbitrary JavaScript via malicious parser definitions in versions before 2.3.1.",
+      "tags": [],
+      "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions"
+    },
+    {
+      "added_at": 1795455512.5846934,
+      "ai": true,
+      "id": "6fbe0c1fb6dc12e9f336521e9cacf33a4c4d3cee",
+      "link": "https://www.helpnetsecurity.com/2026/11/23/cleverbridge-data-breach-card-numbers-cvv/",
+      "published": 1795438814.0,
+      "source": "Help Net Security",
+      "summary": "Hackers breached Cleverbridge and stole payment card data, including credit‑card numbers and CVV codes.\nThe company has not identified which of its clients were affected.",
+      "tags": [],
+      "title": "Cleverbridge alerts customers that hackers stole their credit card and CVV numbers"
+    },
+    {
+      "added_at": 1795455512.5846934,
+      "ai": true,
+      "id": "6078bd158252748a624c1fe0af3226192cd4e768",
+      "link": "https://www.helpnetsecurity.com/2026/11/23/crowdstrike-zscaler-43-9-billion-acquisition/",
+      "published": 1795437678.0,
+      "source": "Help Net Security",
+      "summary": "CrowdStrike has agreed to acquire Zscaler in an all‑stock deal valued at approximately $43.9 billion.\nZscaler shareholders will receive 1.135 CrowdStrike shares per Zscaler share.",
+      "tags": [],
+      "title": "CrowdStrike to acquire Zscaler for $43.9 billion"
+    },
+    {
+      "added_at": 1795455512.5846934,
+      "ai": true,
+      "id": "33d65726f50ee8a455f9761833d9dfa457242677",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html",
+      "published": 1795437664.0,
+      "source": "The Hacker News",
+      "summary": "Threat actors exploited CVE‑2026‑84869 in ConnectWise ScreenConnect to transfer and execute malicious payloads on MSP technician PCs.\nActivity was observed on November 12.",
+      "tags": [],
+      "title": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning"
+    },
+    {
+      "added_at": 1795455512.5846934,
+      "ai": true,
+      "id": "9d23693381162a5275c39d31de2818c36ad94dbc",
+      "link": "https://www.theregister.com/security/2026/11/23/norway-links-energy-firm-cyberattacks-to-critical-azure-api-management-flaw/5311598",
+      "published": 1795436940.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "Microsoft reports mitigation for a critical Azure API Management flaw.\nNorwegian energy firm attributes recent cyberattacks to this vulnerability and advises administrators to rotate secrets.",
+      "tags": [],
+      "title": "Norway links energy firm cyberattacks to critical Azure API Management flaw"
+    },
+    {
+      "added_at": 1795455512.5846934,
+      "ai": true,
+      "id": "759d50b40080dffe4e747f16653da07ff64c7b0b",
+      "link": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html",
+      "published": 1795436889.0,
+      "source": "The Hacker News",
+      "summary": "N‑Able disclosed a critical SSRF flaw (CVE‑2026‑134624) found while investigating a breach of its Mail Assure and SpamExperts Hosted Cloud services. The vulnerability allowed users with high‑level API access to open connections to internal systems of their choosing.",
+      "tags": [],
+      "title": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation"
+    },
+    {
+      "added_at": 1795455512.5846934,
+      "ai": true,
+      "id": "d77f865b12d3f5349ff2025748e946af32caa2e8",
+      "link": "https://www.helpnetsecurity.com/2026/11/23/cisco-expressway-vulnerability-exploited-cve-2026-76466/",
+      "published": 1795436770.0,
+      "source": "Help Net Security",
+      "summary": "Attackers exploited a critical vulnerability (CVE‑2026‑76466) in Cisco Expressway gateways to breach organizations. The U.S. Cybersecurity and Infrastructure Security Agency added the flaw to its Known Exploited Vulnerabilities catalog.",
+      "tags": [],
+      "title": "Cisco Expressway vulnerability exploited to breach internal networks (CVE-2026-76466)"
+    },
+    {
+      "added_at": 1795455512.5846934,
+      "ai": true,
+      "id": "f8665cc5b1ef467b878a047a21588d542429e702",
+      "link": "https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/",
+      "published": 1795435343.0,
+      "source": "BleepingComputer",
+      "summary": "A Peruvian call‑center operator received an eight‑year prison sentence for facilitating a fraud scheme that stole millions from more than 30,000 Spanish‑speaking U.S. residents.",
+      "tags": [],
+      "title": "Call center operator gets 8 years for helping scam 30,000 Americans"
+    },
+    {
+      "added_at": 1795455512.5846934,
+      "ai": true,
+      "id": "86a9a6a52fe411ac7d5aab1d6907f0d3d3d2a769",
+      "link": "https://www.theregister.com/cyber-crime/2026/11/23/cleverbridge-admits-attackers-stole-customers-credit-card-and-cvv-numbers-yep-you-read-that-right/5311573",
+      "published": 1795434480.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "Cleverbridge confirmed that attackers stole customers’ credit‑card numbers and CVV codes. The company has not disclosed how the data was captured or the scale of the breach.",
+      "tags": [],
+      "title": "Cleverbridge admits attackers stole customers' credit card and CVV numbers. Yep, you read that right"
+    },
+    {
+      "added_at": 1795455512.5846934,
+      "ai": true,
+      "id": "c412b57f8a94b4cfa7f647038e8fa960ca7d5fc4",
+      "link": "https://www.securityweek.com/badbox-3-0-ad-fraud-operation-generating-40-billion-daily-bid-requests-disrupted/",
+      "published": 1795434258.0,
+      "source": "SecurityWeek",
+      "summary": "The BadBox 3.0 ad‑fraud operation, which used backdoors on low‑cost consumer devices, was disrupted after generating 40 billion daily bid requests for ad fraud and residential proxy services.",
+      "tags": [],
+      "title": "BadBox 3.0 Ad Fraud Operation Generating 40 Billion Daily Bid Requests Disrupted"
+    },
+    {
+      "added_at": 1795455512.5846934,
+      "ai": true,
+      "id": "bc11c30f893ab623dd8d179c91a820dfd302315c",
+      "link": "https://www.securityweek.com/sap-netweaver-cisco-expressway-flaws-exploited-in-attacks/",
+      "published": 1795433715.0,
+      "source": "SecurityWeek",
+      "summary": "Threat actors exploited flaws in SAP NetWeaver and Cisco Expressway to leak or modify server information and execute commands with root privileges.",
+      "tags": [],
+      "title": "SAP NetWeaver, Cisco Expressway Flaws Exploited in Attacks"
+    },
+    {
+      "added_at": 1795455512.5846934,
+      "ai": true,
+      "id": "710e26685963f2696367a27ca943fca25eb59872",
+      "link": "https://www.securityweek.com/crowdstrike-to-acquire-zscaler-in-43-9-billion-deal/",
+      "published": 1795433504.0,
+      "source": "SecurityWeek",
+      "summary": "CrowdStrike announced its acquisition of Zscaler for $43.9 billion, with the combined company expected to exceed $10 billion in annual recurring revenue.",
+      "tags": [],
+      "title": "CrowdStrike to Acquire Zscaler in $43.9 Billion Deal"
+    },
+    {
+      "added_at": 1795455512.5846934,
+      "ai": true,
+      "id": "1cfea13344026141f3bf25ad1a41bfeff02fd2e1",
+      "link": "https://cyberscoop.com/wpide-csrf-vulnerability-cve-2026-124251/",
+      "published": 1795431600.0,
+      "source": "CyberScoop",
+      "summary": "WPIDE versions ≤3.6.4 contain a CSRF nonce bypass (CVE‑2026‑124251) that enables unauthenticated remote code execution.",
+      "tags": [],
+      "title": "WPIDE ≤ 3.6.4 — CSRF Nonce Bypass Leading to Unauthenticated RCE (CVE-2026-124251)"
+    },
+    {
+      "added_at": 1795455512.5846934,
+      "ai": true,
+      "id": "e561a4b35863f029980b0a03ac0b992dafbd7afb",
+      "link": "https://www.infosecurity-magazine.com/news/cleverbridge-payment-card-breached/",
+      "published": 1795430700.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "Cleverbridge confirmed that customers’ payment card data, including card numbers and security codes, were breached, posing an immediate fraud risk to affected individuals.",
+      "tags": [],
+      "title": "Cleverbridge Confirms Customers’ Payment Card Data Breached"
+    },
+    {
+      "added_at": 1795455512.5846934,
+      "ai": true,
+      "id": "1e1c6072e5e38b540637a87b0619ba971f8f0a6b",
+      "link": "https://www.helpnetsecurity.com/2026/11/23/microsoft-entra-connect-health-vulnerability-tenant-data/",
+      "published": 1795430041.0,
+      "source": "Help Net Security",
+      "summary": "Attackers exploited a vulnerability in the Microsoft Entra Connect Health API to read technical contact email addresses and configuration details of Entra tenants.",
+      "tags": [],
+      "title": "Attackers exploited Microsoft Entra Connect Health flaw to access tenant data"
+    },
+    {
+      "added_at": 1795455512.5846934,
+      "ai": true,
+      "id": "ca72045b083c31c9009f2276e7c6028722df3aca",
+      "link": "https://securelist.com/black-friday-threat-report-2026/122061/",
+      "published": 1795428043.0,
+      "source": "Securelist",
+      "summary": "Cybercriminals are targeting Black Friday shoppers with phishing, scams, and malware. They focus on fake sales, GTA VI, wellness schemes, and spam campaigns.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "Black Friday, red flags: too-good-to-be-true deals hiding real threats"
+    },
+    {
+      "added_at": 1795455512.5846934,
+      "ai": true,
+      "id": "505be551115bc962f5988f4f2bcaa30bd731bde0",
+      "link": "https://www.infosecurity-magazine.com/news/critical-cisco-expressway-flaw/",
+      "published": 1795428000.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "Cisco Expressway is affected by CVE-2026-76466, a CVSS 9.8 flaw. The vulnerability is actively exploited in attacks.",
+      "tags": [],
+      "title": "Critical Cisco Expressway Flaw Exploited in Attacks"
+    },
+    {
+      "added_at": 1795455512.5846934,
+      "ai": true,
+      "id": "c52ec4f9aa5798e1f4ac1bfd3fe8469b5e22f4a0",
+      "link": "https://www.infosecurity-magazine.com/news/badbox-spread-ad-fraud/",
+      "published": 1795426200.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "Badbox 3.0 is generating 40 billion ad bid requests per day. It spreads ad fraud and proxyjacking payloads.",
+      "tags": [],
+      "title": "Badbox Returns to Spread Ad Fraud and Proxyjacking Payloads"
+    },
+    {
+      "added_at": 1795455512.5846934,
+      "ai": true,
+      "id": "31afdc96e80bb016e02917967bfbdf41b5cdc78c",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html",
+      "published": 1795425116.0,
+      "source": "The Hacker News",
+      "summary": "CVE-2026-131914 allows unauthenticated remote code execution in Idunno.AntiCsrf.dll 0.9.1.0 and 0.9.1 Beta. Users should stop using the library.",
+      "tags": [],
+      "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE"
+    },
+    {
+      "added_at": 1795455512.5846934,
+      "ai": true,
+      "id": "d0dd2916cf583a593ab5e8f54f3b3bc181bfb6f8",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/",
+      "published": 1795425075.0,
+      "source": "BleepingComputer",
+      "summary": "Microsoft confirmed that the KB5132043 Windows 11 hotpatch causes printing issues on systems running Forcepoint DLP software.",
+      "tags": [],
+      "title": "Microsoft confirms Windows printing issues affecting Forcepoint users"
+    },
+    {
+      "added_at": 1795455512.5846934,
+      "ai": true,
+      "id": "791422e9c3235070adeaf879d2dff88e74d31609",
+      "link": "https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html",
+      "published": 1795424648.0,
+      "source": "The Hacker News",
+      "summary": "A flaw in GL.iNet GoodCloud remote management was used to install malware on routers and KVM devices. The company fixed the vulnerability and blocked the attack vector.",
+      "tags": [],
+      "title": "Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices"
+    },
+    {
+      "added_at": 1795455512.5846934,
+      "ai": true,
+      "id": "f8b881f88a84c2530eeec3a91cae612fa9e3233a",
+      "link": "https://www.theregister.com/columnists/2026/11/23/when-microsoft-apple-and-the-faa-cant-keep-it-up-its-a-system-of-a-down/5311363",
+      "published": 1795423320.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "The article examines repeated outages affecting Microsoft, Apple, and the FAA. It calls for radical systemic solutions.",
+      "tags": [],
+      "title": "When Microsoft, Apple, and the FAA can't keep it up, it's a system of a down"
+    },
+    {
+      "added_at": 1795455512.5846934,
+      "ai": true,
+      "id": "e5628202eea687d578260fb11573d572f3f7de79",
+      "link": "https://www.helpnetsecurity.com/2026/11/23/badbox-3-0-ad-fraud-operation/",
+      "published": 1795421178.0,
+      "source": "Help Net Security",
+      "summary": "Infected low‑cost TV boxes operated by BADBOX 3.0 produced 40 billion ad bid requests daily, over 4 % of CTV traffic and triple the volume of VASTFLUX.",
+      "tags": [],
+      "title": "Infected TV boxes in BADBOX 3.0 rent out their owners’ home internet"
+    },
+    {
+      "added_at": 1795455512.5846934,
+      "ai": true,
+      "id": "5d81d8091009c293f1abfd555ff5d65325415880",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
+      "published": 1795419859.0,
+      "source": "BleepingComputer",
+      "summary": "CISA warned that a patched Cisco Expressway RCE vulnerability is being exploited in the wild. Federal agencies are urged to patch immediately.",
+      "tags": [],
+      "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks"
+    },
+    {
+      "added_at": 1795455512.5846934,
+      "ai": true,
+      "id": "f38047c316320734c2a161ef866da8eebd9b0a22",
+      "link": "https://www.helpnetsecurity.com/2026/11/23/rocco-saviano-istituto-nazionale-tumori-int-hospital-microsegmentation/",
+      "published": 1795417233.0,
+      "source": "Help Net Security",
+      "summary": "INT’s Director discusses preventing shadow IT while maintaining operations. The focus is on collaboration with partner hospitals and cyberattack protection.",
+      "tags": [],
+      "title": "Yes, but securely: A cancer institute’s answer to shadow IT in research"
     }
   ],
   "posted": []
