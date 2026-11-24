@@ -1,7 +1,347 @@
 {
-  "generated_at": 1795492405.2438674,
-  "count": 62,
+  "generated_at": 1795540190.9182036,
+  "count": 90,
   "items": [
+    {
+      "title": "VMware Updates Patch Critical ESX, vCenter Vulnerabilities",
+      "summary": "VMware released critical patches for ESX and vCenter vulnerabilities. The fixes address an authentication bypass in vCenter and potential code execution on ESX hosts. The update mitigates high‑risk security flaws.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/",
+      "published": 1795537976.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795540190.9067404
+    },
+    {
+      "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
+      "summary": "ShinyHunters extortion group claims to have returned after FBI arrests. They posted on a new data‑leak site and cited old PGP keys as proof. The claim follows a series of arrests targeting alleged members.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
+      "published": 1795537819.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795540190.9067404
+    },
+    {
+      "title": "New Inception Extortion Brand Tied to SSO Vishing Campaign",
+      "summary": "New Inception extortion brand linked to an SSO vishing campaign. Okta and ReversingLabs identified the threat targeting employee credentials via social engineering. The campaign exploits single sign‑on vulnerabilities.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/inception-extortion-sso-vishing/",
+      "published": 1795537800.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795540190.9067404
+    },
+    {
+      "title": "European Commission confirms data theft in EU Academy breach",
+      "summary": "European Commission confirmed a data theft from its EU Academy online learning hub. Attackers accessed personal data of an undisclosed number of users. The breach highlights the need for stronger security controls.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
+      "published": 1795537364.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795540190.9067404
+    },
+    {
+      "title": "Hackers compromise Check Point Servers in 22 organizations",
+      "summary": "Threat actors compromised 22 Check Point Security management servers across multiple organizations. The attack exploited several vulnerabilities to gain unauthorized access. The incident underscores the importance of patching.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
+      "published": 1795536923.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795540190.9067404
+    },
+    {
+      "title": "Carnegie Endowment for International Peace says third-party breach leaked donation info",
+      "summary": "Carnegie Endowment for International Peace reported a third‑party breach that leaked donor information. The cyberattack targeted vendor Soapbox Engage, exposing sensitive donor data. The incident emphasizes third‑party risk.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/carnegie-endowment-data-breach",
+      "published": 1795536000.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795540190.9067404
+    },
+    {
+      "title": "How to compare MDR providers when every proposal looks promising",
+      "summary": "Choosing a managed detection and response provider requires careful evaluation. Key questions include which systems are monitored, analyst investigation procedures, and response protocols. Clear criteria help avoid costly missteps.",
+      "source": "Rapid7 Cybersecurity Blog",
+      "link": "https://www.rapid7.com/blog/post/dr-comparing-mdr-providers-scorecard",
+      "published": 1795535485.0,
+      "tags": [
+        "#vulnerability"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795540190.9067404
+    },
+    {
+      "title": "Police disrupt 57 illegal streaming services with 7.3 million visits",
+      "summary": "Law enforcement from 11 countries shut down 57 illegal streaming services that operated hundreds of websites. The operation disrupted over 7.3 million annual visits. The effort demonstrates cross‑border cooperation.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/",
+      "published": 1795533010.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795540190.9067404
+    },
+    {
+      "title": "CISA warns of exploited N-able bug as company restores email platform",
+      "summary": "CISA warned of an exploited vulnerability in N‑able's email security platform. Government agencies were urged to patch before Thanksgiving. The bug could compromise email filtering and threat protection.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/cisa-nable-cybersecurity-bug",
+      "published": 1795532400.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795540190.9067404
+    },
+    {
+      "title": "McDonald's Japan data breach exposes customer location information",
+      "summary": "McDonald's Japan disclosed a data breach affecting its official smartphone app database. Attackers accessed customer location and other sensitive information. The incident highlights the importance of mobile app security.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
+      "published": 1795529377.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795540190.9067404
+    },
+    {
+      "title": "GTA 6 hacker sentenced to seven years and released the same day",
+      "summary": "Arion Kurtaj, 21, was sentenced to seven years in prison for leaking Grand Theft Auto VI footage and was released on licence the same day.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/11/24/gta-vi-hacker-sentenced-seven-years-released-on-licence/",
+      "published": 1795527337.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795540190.9067404
+    },
+    {
+      "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
+      "summary": "Broadcom released patches for 23 vulnerabilities in VMware products, including CVE‑2026‑123903, a 9.8‑rated flaw that allows authentication bypass in the Directory Service.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
+      "published": 1795526906.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795540190.9067404
+    },
+    {
+      "title": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
+      "summary": "Okta identified threat cluster O‑UNC‑053, linked to the ShinyHunters crew, now operating under the name INCEPTION and using vishing to harvest credentials.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html",
+      "published": 1795526901.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795540190.9067404
+    },
+    {
+      "title": "Rapid7 Analysis: VMware vCenter SRP Authentication Bypass to Root (CVE-2026-123890)",
+      "summary": "CVE‑2026‑123890 enables an unauthenticated attacker to capture an SRP session key during an admin login and complete the login without a password via DCE/RPC on port 2012.",
+      "source": "Rapid7 Cybersecurity Blog",
+      "link": "https://www.rapid7.com/blog/post/ra-rapid7-analysis-vmware-vcenter-srp-authentication-bypass-to-root-cve-2026-123890",
+      "published": 1795525285.0,
+      "tags": [
+        "#vulnerability"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795540190.9067404
+    },
+    {
+      "title": "McDonald’s Japan discloses breach exposing customer purchase and location data",
+      "summary": "McDonald’s Japan disclosed a breach that exposed customers’ purchase histories and mobile device location data.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/japan-mcdonalds-cyberattack-breach",
+      "published": 1795525200.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795540190.9067404
+    },
+    {
+      "title": "ShinyHunters-linked crew resurfaces on new leak site",
+      "summary": "Okta reports that the ShinyHunters crew has moved to a new leak site called Inception, continuing social engineering and credential harvesting since March 2026.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/11/24/shinyhunters-inception-leak-site-okta/",
+      "published": 1795524427.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795540190.9067404
+    },
+    {
+      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+      "summary": "Hackers bypassed GitHub Actions SHA pinning by inserting malicious code into Trivy, masquerading as the official GitHub checkout tool.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
+      "published": 1795524129.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795540190.9067404
+    },
+    {
+      "title": "CrowdStrike splashes $44B on Zscaler, customers brace for the bill",
+      "summary": "CrowdStrike announced a $44 billion investment in Zscaler, raising concerns about higher costs and potential vendor lock‑in for customers.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/11/24/crowdstrike-splashes-44b-on-zscaler-customers-brace-for-the-bill/5311877",
+      "published": 1795522937.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795540190.9067404
+    },
+    {
+      "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
+      "summary": "Project Zero researcher James Forshaw showed that a single bit change in a .NET file can bypass Windows code integrity and Oracle VirtualBox hardening, tracked as CVE‑2026‑87268.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html",
+      "published": 1795521720.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795540190.9067404
+    },
+    {
+      "title": "2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk",
+      "summary": "ANY.RUN estimates that SOC teams could recover 450 analyst hours per 1,000 alerts by speeding threat analysis and IOC research, offering a cost‑saving opportunity.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html",
+      "published": 1795521714.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795540190.9067404
+    },
+    {
+      "title": "OpenAI and Cisco Release Open-Source Tool to Shield Unpatched Linux Systems",
+      "summary": "OpenAI and Cisco released Shirudo, an open‑source tool that blocks exploitation of known vulnerabilities on live Linux systems. It allows administrators to buy time for patching without restarting the system.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/openai-cisco-shirudo-linux-shields/",
+      "published": 1795521600.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795540190.9067404
+    },
+    {
+      "title": "1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO",
+      "summary": "Hackers accessed KEPCO’s customer portal and supplier management platform, compromising personal data of approximately 1.5 million individuals. The breach was reported by SecurityWeek.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/1-5-million-impacted-by-data-breach-at-south-korean-electric-company-kepco/",
+      "published": 1795521021.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795540190.9067404
+    },
+    {
+      "title": "Tomorrow’s quantum threat is today’s open door",
+      "summary": "The article argues that post‑quantum cryptography should be added to the roadmap, but current operational technology faces more immediate, basic threats that require urgent action.",
+      "source": "CyberScoop",
+      "link": "https://cyberscoop.com/ot-security-post-quantum-cryptography-op-ed/",
+      "published": 1795518000.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795540190.9067404
+    },
+    {
+      "title": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets",
+      "summary": "Microsoft patched a vulnerability in Azure API Management that could expose access tokens and secrets. An unknown actor targeted customers in Norway, including energy firms, seeking these credentials.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html",
+      "published": 1795517089.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795540190.9067404
+    },
+    {
+      "title": "Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking",
+      "summary": "Critical Bluetooth flaws in Elecbrakes trailer controllers could allow nearby attackers to trigger forced braking. This vulnerability could lead to accidents on the road.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/elecbrakes-bluetooth-vulnerabilities-expose-trailers-to-forced-braking/",
+      "published": 1795517084.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795540190.9067404
+    },
+    {
+      "title": "Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine",
+      "summary": "Peninsula Energy halted trading after a cyber incident at its Wyoming uranium project temporarily disrupted operations. The company notified the ASX of the incident.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/peninsula-energy-halts-trading-after-cyber-incident-hits-us-uranium-mine/",
+      "published": 1795516504.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795540190.9067404
+    },
+    {
+      "title": "LaLiga Says Football Fans’ Personal Data Stolen",
+      "summary": "LaLiga disclosed a breach that exposed personally identifiable information of its football fans. The incident was reported by the league.",
+      "source": "infosecurity-magazine.com",
+      "link": "https://www.infosecurity-magazine.com/news/la-liga-says-football-fans/",
+      "published": 1795516200.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795540190.9067404
+    },
+    {
+      "title": "GlobeTopper faces up to $2.5 million in lost revenue after hackers steal $70,000 in gift cards",
+      "summary": "Hackers breached GlobeTopper, stole API credentials, and redeemed about $70,000 in gift cards without authorization. The company estimates up to $2.5 million in lost revenue.",
+      "source": "Help Net Security",
+      "link": "https://www.helpnetsecurity.com/2026/11/24/globetopper-breach-gift-cards/",
+      "published": 1795512813.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795540190.9067404
+    },
+    {
+      "title": "WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login",
+      "summary": "A SQL injection flaw in WHMCS’s shopping cart allows unauthenticated users to retrieve customer records and administrator password hashes from the database. The issue was disclosed by the vendor.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html",
+      "published": 1795509260.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795540190.9067404
+    },
+    {
+      "title": "Orgs that leak data 'prioritize corporate interests over customers' says Have I Been Pwned’s Troy Hunt",
+      "summary": "Troy Hunt notes that organizations leaking data often prioritize corporate interests over customers. He describes a pattern of denial, bargaining, delay, legal threats, and blaming Hunt.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/11/24/orgs-that-leak-data-prioritize-corporate-interests-over-customers-says-have-i-been-pwneds-troy-hunt/5311802",
+      "published": 1795497231.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795540190.9067404
+    },
     {
       "title": "Cisco and OpenAI pitch eBPF kernel plugins as the way to tame the patchpocalypse",
       "summary": "Cisco and OpenAI propose eBPF kernel plugins to deploy compensating controls quickly during patch cycles.\nThe Shirudo project aims to generate these controls automatically.\nThis approach targets the ongoing patchpocalypse.",
@@ -25,6 +365,19 @@
       "ai": true,
       "status": "queued",
       "ts": 1795455512.5846934
+    },
+    {
+      "title": "LaLiga hacked: Spain’s top football league confirms theft of fans’ personal data",
+      "summary": "Spain’s LaLiga confirmed a cyberattack that stole personal data from fans. The breach impacted the league’s digital services and those of several Spanish clubs.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/laliga-hacked-spain-top-professional-league-confirms-cyber-incident",
+      "published": 1795478400.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795540190.9067404
     },
     {
       "title": "Cybersecurity jobs available right now: November 24, 2026",
@@ -664,39 +1017,6 @@
       "ai": true,
       "status": "queued",
       "ts": 1795389799.4381409
-    },
-    {
-      "title": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
-      "summary": "FBI is investigating an alleged hack of its national criminal justice database. The incident involves a key law enforcement data repository. SecurityWeek reports the investigation is underway.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/",
-      "published": 1795308782.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795356967.660927
-    },
-    {
-      "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
-      "summary": "Rackspace warned customers of a breach in its Rackspace Spot cloud platform. Hackers used compromised credentials to deploy unauthorized workloads and access Kubernetes secrets. Customers were advised to review access controls.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
-      "published": 1795301998.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795356967.660927
-    },
-    {
-      "title": "President Trump Taps Kirsten Davies as National Cyber Director",
-      "summary": "President Trump appointed Kirsten Davies as National Cyber Director. Davies will lead the administration's cyber strategy. The appointment aims to strengthen national cyber defenses.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/president-trump-taps-kirsten-davies-as-national-cyber-director/",
-      "published": 1795266000.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795356967.660927
     }
   ]
 }
