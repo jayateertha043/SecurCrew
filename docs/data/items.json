@@ -1,7 +1,192 @@
 {
-  "generated_at": 1795540190.9182036,
-  "count": 90,
+  "generated_at": 1795571971.581206,
+  "count": 103,
   "items": [
+    {
+      "title": "NGINX HTTP/2 Use-After-Free: CVE-2026-123633",
+      "summary": "Unit 42 reports on CVE-2026-123633, a use‑after‑free vulnerability in NGINX HTTP/2. The analysis covers affected versions, sanitizer test results, and provides patch guidance.",
+      "source": "Unit 42",
+      "link": "https://unit42.paloaltonetworks.com/cve-2026-123633-nginx-http2-vulnerability/",
+      "published": 1795561214.0,
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795571971.5700004
+    },
+    {
+      "title": "An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says",
+      "summary": "SecurityWeek reports that an unclassified CIA system was breached, but the scope of data compromised and the attacker remain unknown.",
+      "source": "SecurityWeek",
+      "link": "https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/",
+      "published": 1795560118.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795571971.5700004
+    },
+    {
+      "title": "Satellites Have a Ground-Level Cybersecurity Problem",
+      "summary": "Ground‑based infrastructure supporting satellite services is increasingly vulnerable, raising concerns as the space race intensifies.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/cyber-risk/satellites-ground-level-cybersecurity-problem",
+      "published": 1795557934.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795571971.5700004
+    },
+    {
+      "title": "Unclassified intel system hit by hackers, affecting CIA, ODNI",
+      "summary": "CyberScoop confirms a hack of an unclassified intelligence system used by the CIA and ODNI, with no other systems currently at risk.",
+      "source": "CyberScoop",
+      "link": "https://cyberscoop.com/cia-odni-osint-data-breach/",
+      "published": 1795557683.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795571971.5700004
+    },
+    {
+      "title": "Webworm APT Slithers Into Networks With Customized SoftEther VPN",
+      "summary": "The China‑aligned Webworm APT modifies open‑source SoftEther VPN to remove detection artifacts, enabling stealthy network infiltration.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/perimeter/webworm-slithers-customized-softether-vpn",
+      "published": 1795556886.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795571971.5700004
+    },
+    {
+      "title": "Rackspace shuts down Spot cloud platform after security breach",
+      "summary": "Rackspace is shutting down its Spot cloud platform after a breach that exposed customer Kubernetes clusters and secrets, giving users until December 8 to migrate.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
+      "published": 1795556250.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795571971.5700004
+    },
+    {
+      "title": "'God Mode' Flaws Could Wreak Border-Control Havoc",
+      "summary": "Vulnerabilities in several countries’ online visa and immigration systems could allow attackers to disrupt traveler entry into Nigeria, Ethiopia, Zambia, Sri Lanka, Fiji, and Ghana.",
+      "source": "darkreading",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc",
+      "published": 1795556171.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795571971.5700004
+    },
+    {
+      "title": "Colorado says cyberattack took down myColorado app, warns 150,000 had data stolen",
+      "summary": "A cyberattack disabled Colorado’s myColorado app, potentially compromising data of 150,000 users who use the platform for digital ID and state services.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/mycolorado-app-down-data-breach",
+      "published": 1795553520.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795571971.5700004
+    },
+    {
+      "title": "New Inception extortion gang launches large-scale vishing campaign",
+      "summary": "The newly formed Inception extortion group is conducting a large‑scale vishing campaign targeting single sign‑on credentials of multiple global brands.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
+      "published": 1795551680.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795571971.5700004
+    },
+    {
+      "title": "'We are not ShinyHunters,' says criminal hacking crew that looks and acts just like ShinyHunters",
+      "summary": "A hacking group claims it is not ShinyHunters, despite similarities in appearance and behavior.",
+      "source": "www.theregister.com - Articles",
+      "link": "https://www.theregister.com/security/2026/11/24/we-are-not-shinyhunters-says-criminal-hacking-crew-that-looks-and-acts-just-like-shinyhunters/5311978",
+      "published": 1795551336.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795571971.5700004
+    },
+    {
+      "title": "California privacy agency director Kemp to leave after two-year tenure",
+      "summary": "The director of the California Privacy Protection Agency announced his departure after a two‑year tenure that saw the launch of a first‑of‑its‑kind consumer opt‑out platform for data sharing.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/california-privacy-agency-kemp",
+      "published": 1795548600.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795571971.5700004
+    },
+    {
+      "title": "Turnitin discloses cyberattack affecting customer-facing systems",
+      "summary": "Turnitin’s CEO reported unauthorized activity on customer‑facing systems and said the company is investigating the impact of the breach.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
+      "published": 1795546792.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795571971.5700004
+    },
+    {
+      "title": "Radware discloses breach exposing customer cloud access keys",
+      "summary": "Radware disclosed that attackers accessed customer account details and cloud access keys through an exposed internal Cloud WAF management API.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
+      "published": 1795542545.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795571971.5700004
+    },
+    {
+      "title": "Lawmakers warn ID verification companies to bolster security after September hack",
+      "summary": "Lawmakers urged identity verification companies to strengthen security after the September IDscan data breach.",
+      "source": "The Record from Recorded Future News",
+      "link": "https://therecord.media/idscan-data-breach-warning-congressional-letter",
+      "published": 1795542540.0,
+      "tags": [
+        "#news"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795571971.5700004
+    },
+    {
+      "title": "Patel mum on FBI crime info database hack, citing ongoing investigation",
+      "summary": "The FBI remains silent on the National Crime Information Center breach, citing an ongoing investigation.",
+      "source": "CyberScoop",
+      "link": "https://cyberscoop.com/kash-patel-fbi-ncic-database-hack/",
+      "published": 1795542514.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795571971.5700004
+    },
+    {
+      "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
+      "summary": "Iran‑aligned group Volant Manticore uses the KuboShell backdoor, which leverages IPFS for command‑and‑control, in espionage campaigns against telecoms, airlines, and critical infrastructure in Cyprus.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
+      "published": 1795539247.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795571971.5700004
+    },
     {
       "title": "VMware Updates Patch Critical ESX, vCenter Vulnerabilities",
       "summary": "VMware released critical patches for ESX and vCenter vulnerabilities. The fixes address an authentication bypass in vCenter and potential code execution on ESX hosts. The update mitigates high‑risk security flaws.",
@@ -984,39 +1169,6 @@
       "ai": true,
       "status": "queued",
       "ts": 1795492405.2352448
-    },
-    {
-      "title": "Debian 13.8 bundles kernel and Chromium security fixes with a 122-package bugfix list",
-      "summary": "Debian 13.8 has been released, bundling kernel and Chromium security fixes along with a 122‑package bug‑fix list. The update covers Debian Security Advisories DSA‑6408 to DSA‑6629, including patches for Chromium, Firefox ESR, and other components.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/23/debian-13-8-released/",
-      "published": 1795388709.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795389799.4381409
-    },
-    {
-      "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
-      "summary": "GL.iNet confirmed that attackers exploited a vulnerability in its cloud remote‑management service to deploy custom malware on customers’ routers and KVM devices. The malware provides backdoors and reverse shells, giving attackers remote access.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
-      "published": 1795373137.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795389799.4381409
-    },
-    {
-      "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
-      "summary": "Cleverbridge announced a data breach in which attackers stole customers’ payment card information, including credit card numbers and CVV codes.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
-      "published": 1795362184.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795389799.4381409
     }
   ]
 }
