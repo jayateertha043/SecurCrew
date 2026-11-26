@@ -1,495 +1,6 @@
 {
   "pending": [
     {
-      "added_at": 1795492405.2352448,
-      "ai": true,
-      "id": "a3dc1c3f9c0a28fb4aacdd870082ada71b84837a",
-      "link": "https://www.theregister.com/security/2026/11/24/cisco-and-openai-pitch-ebpf-kernel-plugins-as-the-way-to-tame-the-patchpocalypse/5311795",
-      "published": 1795484816.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "Cisco and OpenAI propose eBPF kernel plugins to deploy compensating controls quickly during patch cycles.\nThe Shirudo project aims to generate these controls automatically.\nThis approach targets the ongoing patchpocalypse.",
-      "tags": [],
-      "title": "Cisco and OpenAI pitch eBPF kernel plugins as the way to tame the patchpocalypse"
-    },
-    {
-      "added_at": 1795492405.2352448,
-      "ai": true,
-      "id": "453252f9d2559d7e3d9bedcc4c5db404a1764123",
-      "link": "https://www.helpnetsecurity.com/2026/11/24/cybersecurity-jobs-available-right-now-november-24-2026/",
-      "published": 1795476654.0,
-      "source": "Help Net Security",
-      "summary": "A remote Applied Cyber, Detections position in the USA focuses on detection operations.\nResponsibilities include optimizing detection logic, automating alert triage, and investigating gaps.\nThe role also supports customer onboarding and configuration.",
-      "tags": [],
-      "title": "Cybersecurity jobs available right now: November 24, 2026"
-    },
-    {
-      "added_at": 1795492405.2352448,
-      "ai": true,
-      "id": "6a57f5edfd55bc34c55112fcdeb853719df6bd37",
-      "link": "https://www.darkreading.com/ics-ot-security/industrial-serial-gateways-broadcast-insecure",
-      "published": 1795471366.0,
-      "source": "darkreading",
-      "summary": "Many industrial serial gateways publicly disclose whether they are protected by authentication.\nThis transparency reveals that numerous OT access devices lack proper security.\nThe issue highlights a widespread vulnerability.",
-      "tags": [],
-      "title": "Industrial Serial Gateways Broadcast That They're Insecure"
-    },
-    {
-      "added_at": 1795492405.2352448,
-      "ai": true,
-      "id": "ef949789e56feb86e70951f178fd85119b2aaf78",
-      "link": "https://www.theregister.com/security/2026/11/23/inception-possibly-a-shinyhunters-reboot-claims-seven-victims-in-a-week/5311768",
-      "published": 1795470743.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "A new phishing group, possibly a reboot of ShinyHunters, claims seven victims in a week.\nThey emphasize the threat of voice phishing attempts.\nSecurity teams are advised to remain vigilant.",
-      "tags": [],
-      "title": "Inception - possibly a ShinyHunters reboot - claims seven victims in a week"
-    },
-    {
-      "added_at": 1795492405.2352448,
-      "ai": true,
-      "id": "f1397973b7c60ba07029664bd686c2b7a3eaabd4",
-      "link": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
-      "published": 1795467291.0,
-      "source": "BleepingComputer",
-      "summary": "Korea Electric Power Corporation (KEPCO) confirmed a breach affecting 1.5 million records.\nThe attacker accessed customer, employee, and contractor data on two internal systems.\nThe incident underscores the need for stronger network defenses.",
-      "tags": [],
-      "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million"
-    },
-    {
-      "added_at": 1795492405.2352448,
-      "ai": true,
-      "id": "c01f8c41d8fc57598ad948bc4f471c5329b3d497",
-      "link": "https://www.darkreading.com/cybersecurity-operations/us-cyber-director-pick-signals-shift-toward-expertise",
-      "published": 1795464828.0,
-      "source": "darkreading",
-      "summary": "President Trump appointed Kirsten Davies as Acting National Cyber Director.\nHer industry experience is seen as a shift toward expertise.\nThe appointment comes amid recent outages and geopolitical tensions.",
-      "tags": [],
-      "title": "US Cyber Director Pick Signals Shift Toward Expertise"
-    },
-    {
-      "added_at": 1795492405.2352448,
-      "ai": true,
-      "id": "53716c4432abe03450a2035d4dfaf1d7b249f423",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
-      "published": 1795462940.0,
-      "source": "BleepingComputer",
-      "summary": "A flaw in Azure API Management Classic tiers was exploited to steal stored API credentials.\nNorwegian authorities link the vulnerability to attacks on energy companies.\nMicrosoft has warned affected customers to review their security settings.",
-      "tags": [],
-      "title": "Microsoft Azure flaw exploited to steal customers' API credentials"
-    },
-    {
-      "added_at": 1795492405.2352448,
-      "ai": true,
-      "id": "879adbc122737255761b6eeffb864ff72e0a4f2f",
-      "link": "https://www.theregister.com/security/2026/11/23/bluetooth-brakes-are-broken-as-researchers-find-anyone-can-control-them/5311748",
-      "published": 1795462199.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "Researchers discovered that any user can control certain Elecbrakes Bluetooth brakes.\nSecurity fixes exist for two models, but an older controller remains vulnerable.\nThe finding raises concerns about vehicle safety.",
-      "tags": [],
-      "title": "Bluetooth brakes are broken as researchers find anyone can control them"
-    },
-    {
-      "added_at": 1795492405.2352448,
-      "ai": true,
-      "id": "f714b48247a9be7ff1d570b4bc4a2d4ec4f9fc15",
-      "link": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
-      "published": 1795459120.0,
-      "source": "BleepingComputer",
-      "summary": "LaLiga disclosed a data breach that exposed personal information of users and affiliated clubs.\nThe breach involved the league’s services.\nDetails of the affected data remain limited.",
-      "tags": [],
-      "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data"
-    },
-    {
-      "added_at": 1795492405.2352448,
-      "ai": true,
-      "id": "1b6ff172619baa2d142e7278217f40487aa6ac81",
-      "link": "https://cyberscoop.com/hektor-avdyli-kosovo-credit-card-fraud-extradition/",
-      "published": 1795459020.0,
-      "source": "CyberScoop",
-      "summary": "Hektor Avdyli, indicted for credit card theft, was extradited to the United States.\nA hard drive in his possession contained millions of payment card numbers.\nThe extradition follows international cooperation on cybercrime.",
-      "tags": [],
-      "title": "Indicted Kosovo credit card theft suspect extradited to US"
-    },
-    {
-      "added_at": 1795492405.2352448,
-      "ai": true,
-      "id": "4ca5a6cc42e6642a929e925d577affa6c1798d2b",
-      "link": "https://therecord.media/fbi-cyberattack-data-breach",
-      "published": 1795458600.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "The FBI is investigating a data breach of the National Crime Information Center. The database holds information on criminals, fugitives, and missing persons used by U.S. law enforcement.",
-      "tags": [
-        "#news"
-      ],
-      "title": "FBI reportedly facing second data breach involving National Crime Information Center"
-    },
-    {
-      "added_at": 1795492405.2352448,
-      "ai": true,
-      "id": "3e0e8a60cada458e319efbd93caaddcca6aedcf9",
-      "link": "https://www.theregister.com/security/2026/11/23/critical-cisco-remote-code-execution-bug-under-attack/5311722",
-      "published": 1795456616.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "Cisco's critical remote code execution vulnerability is being actively exploited. CISA and F6 have issued alerts after a proof‑of‑concept exploit was released publicly.",
-      "tags": [],
-      "title": "Critical Cisco remote code execution bug under attack"
-    },
-    {
-      "added_at": 1795492405.2352448,
-      "ai": true,
-      "id": "5e9db5537b61e7b870b0235b26a49b81171134a8",
-      "link": "https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors",
-      "published": 1795455952.0,
-      "source": "darkreading",
-      "summary": "A new framework enables security teams to trace ransomware operators back to their source. The study shows ransomware activity remains persistent.",
-      "tags": [],
-      "title": "Behind the Alias: How One Researcher Unmasked a Decade of Ransomware Actors"
-    },
-    {
-      "added_at": 1795492405.2352448,
-      "ai": true,
-      "id": "1ab128c432ff969e972e5e32007c8e091a5015ea",
-      "link": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
-      "published": 1795455915.0,
-      "source": "The Hacker News",
-      "summary": "The threat actor Webworm is believed to have modified the open‑source SoftEther VPN Bridge. The custom version hides from security tools and provides covert remote access.",
-      "tags": [],
-      "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access"
-    },
-    {
-      "added_at": 1795492405.2352448,
-      "ai": true,
-      "id": "720ee136746742db8e3aee85a54048acb346f5f5",
-      "link": "https://projectzero.google/2026/11/virtualbox-process-hardening.html",
-      "published": 1795420800.0,
-      "source": "Project Zero",
-      "summary": "Research uncovered three ways to bypass VirtualBox's kernel driver protection on Windows. The flaw could allow privilege escalation on host systems.",
-      "tags": [
-        "#vulnerability",
-        "#0day"
-      ],
-      "title": "VirtualBox Process Hardening on Windows 2026 Edition: What’s a Single Bit Between Friends?"
-    },
-    {
-      "added_at": 1795492405.2352448,
-      "ai": true,
-      "id": "b62580d0739023df859abc6fc4605e2b2e3656a8",
-      "link": "https://www.theregister.com/virtualization/2026/11/23/google-claims-last-weeks-critical-vmware-bug-was-under-attack-in-september/5311547",
-      "published": 1795408759.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "Google reports that the critical VMware vCenter bug was exploited in September. China‑linked ARMORY CASTLE used the flaw to deploy five custom malware tools.",
-      "tags": [],
-      "title": "Google claims last week’s critical VMware bug was under attack in September"
-    },
-    {
-      "added_at": 1795492405.2352448,
-      "ai": true,
-      "id": "fc81bf677b411b33dc4db197f06428e265bf8369",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached-norwegian",
-      "published": 1795207425.0,
-      "source": "darkreading",
-      "summary": "Two data breaches affected a Norwegian energy company and Nok over a two‑day period. No confirmed link between the incidents, though they share many similarities.",
-      "tags": [],
-      "title": "Nok et norsk energiselskap har blitt utsatt for et datainnbrudd på to dager"
-    },
-    {
-      "added_at": 1795492405.2352448,
-      "ai": true,
-      "id": "ccf02002c5acae853deadfdce22d458c3079c17a",
-      "link": "https://unit42.paloaltonetworks.com/custom-rats-target-southeast-asia-governments/",
-      "published": 1794870055.0,
-      "source": "Unit 42",
-      "summary": "A cyberespionage campaign targets Southeast Asian governments with HTTP/3‑based RATs. The operation uses PerfectPioneer, KUKURAT, and stealth HTTP/3 C2 channels.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments"
-    },
-    {
-      "added_at": 1795492405.2352448,
-      "ai": true,
-      "id": "99636bab8a5ad1d969c0e55cdf3c954cfea143cc",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/google-project-zero-bug-disclosure-deadlines",
-      "published": 1794866900.0,
-      "source": "darkreading",
-      "summary": "Google Project Zero will shorten vendor disclosure timelines from 120 to 30 days over 14 months. The change has sparked debate within the security community.",
-      "tags": [],
-      "title": "Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts"
-    },
-    {
-      "added_at": 1795492405.2352448,
-      "ai": true,
-      "id": "77db028e3603c6c9d17f8799751ba031071fb53a",
-      "link": "https://www.rapid7.com/blog/post/ve-from-view-only-access-to-container-root-five-vulnerabilities-in-onlyoffice-docs-fixed",
-      "published": 1794846278.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "Five vulnerabilities in ONLYOFFICE Docs allow a view‑only user to chain exploits and execute arbitrary OS commands as root inside the DocumentServer container. The flaws also expose hidden server files and document data.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "From view-only access to container root: five vulnerabilities in ONLYOFFICE Docs (FIXED)"
-    },
-    {
-      "added_at": 1795492405.2352448,
-      "ai": true,
-      "id": "f50b797c968d423ec7d8a1c16deffc2f32ec2cca",
-      "link": "https://www.infosecurity-magazine.com/news/typosquatters-target-new-brand/",
-      "published": 1794844800.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "Attackers target newly registered domains of major brands within 24 hours of registration. Lookalike domains are used to facilitate malicious follow‑on activity.",
-      "tags": [],
-      "title": "Typosquatters Target New Brand Domains Within 24 Hours of Registration"
-    },
-    {
-      "added_at": 1795492405.2352448,
-      "ai": true,
-      "id": "dcfc43b1ba46a48d89a5a0a61184caa0b5c83464",
-      "link": "https://www.infosecurity-magazine.com/news/maileva-docaposte-22-million-breach/",
-      "published": 1794842700.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "The Maileva breach exposed names and postal addresses of 22 million people. The incident involved a La Poste subsidiary.",
-      "tags": [],
-      "title": "La Poste Subsidiary Maileva Breach Exposes 22 Million People"
-    },
-    {
-      "added_at": 1795492405.2352448,
-      "ai": true,
-      "id": "64c0dc284c8fc37fc625ea1c46c6c01777b6401d",
-      "link": "https://www.infosecurity-magazine.com/news/project-zero-disclosure-deadline/",
-      "published": 1794831300.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "Google Project Zero will publish bug details 30 days after reporting by 2028, regardless of whether the issue is fixed. This change shortens the disclosure window.",
-      "tags": [],
-      "title": "Google Project Zero to Cut Disclosure Deadline to 30 Days by 2028"
-    },
-    {
-      "added_at": 1795492405.2352448,
-      "ai": true,
-      "id": "78086d8dacc99ca4882092fa9bacad41fa8fa764",
-      "link": "https://www.schneier.com/blog/archives/2026/11/usable-security-at-luxury-hotels.html",
-      "published": 1794830682.0,
-      "source": "Schneier on Security",
-      "summary": "In luxury hotels, attackers used fake booking requests to access reservation inboxes. They copied legitimate refund requests and obtained fraudulent approvals, highlighting the limits of simple click‑avoidance advice.",
-      "tags": [
-        "#opinion"
-      ],
-      "title": "Usable Security at Luxury Hotels"
-    },
-    {
-      "added_at": 1795492405.2352448,
-      "ai": true,
-      "id": "a39bcec8b9f1467df107d05a4f097406550e355d",
-      "link": "https://www.infosecurity-magazine.com/news/ico-300-reports-of-medical-snooping/",
-      "published": 1794823200.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "The UK Information Commissioner’s Office received more than 300 reports of unauthorized insider access to medical files this year. The cases involve privacy violations.",
-      "tags": [],
-      "title": "Information Commissioner’s Office Receives 300+ Reports of Medical Snooping"
-    },
-    {
-      "added_at": 1795492405.2352448,
-      "ai": true,
-      "id": "eb9de4818ae16063f495bff8fb050c1369957963",
-      "link": "https://securelist.com/retadup-delivers-coffeeloader/121908/",
-      "published": 1794812437.0,
-      "source": "Securelist",
-      "summary": "Retadup, an old USB worm whose infrastructure was seized in 2019, is now spreading a new version of CoffeeLoader. The malware is delivered via infected USB devices.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "A USB worm’s second life: Retadup spreading CoffeeLoader"
-    },
-    {
-      "added_at": 1795492405.2352448,
-      "ai": true,
-      "id": "12a2c547bde3e4daa8b6cf5e55f19d7ad107fcc9",
-      "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-security/",
-      "published": 1774886400.0,
-      "source": "Security Archives - The GitHub Blog",
-      "summary": "The GitHub blog post explains how beginners can secure their projects with GitHub Advanced Security. It covers basic steps to protect code.",
-      "tags": [
-        "#appsec"
-      ],
-      "title": "GitHub for Beginners: Getting started with GitHub security"
-    },
-    {
-      "added_at": 1795492405.2352448,
-      "ai": true,
-      "id": "52d1799ca092f0fa529e4eec74a131500c35d8e8",
-      "link": "https://portswigger.net/blog/http-1-1-must-die-conquering-the-0-cl-challenge",
-      "published": 1773393679.0,
-      "source": "PortSwigger Blog",
-      "summary": "The guest post outlines tools and a strategy for solving the 0.CL challenge lab. It includes detection and exploitation techniques.",
-      "tags": [
-        "#appsec"
-      ],
-      "title": "HTTP/1.1 Must Die: Conquering the 0.CL Challenge"
-    },
-    {
-      "added_at": 1795492405.2352448,
-      "ai": true,
-      "id": "9ea50599edc5755326ab43d9a4394b2655b03500",
-      "link": "https://portswigger.net/blog/automation-without-alignment-the-hidden-cost-of-modern-dast",
-      "published": 1773316977.0,
-      "source": "PortSwigger Blog",
-      "summary": "The webinar discusses the hidden costs of modern DAST and compares Burp Suite DAST with Burp Suite Professional. It emphasizes the need for aligned testing to assess true application security.",
-      "tags": [
-        "#appsec"
-      ],
-      "title": "Automation without alignment: The hidden cost of modern DAST"
-    },
-    {
-      "added_at": 1795492405.2352448,
-      "ai": true,
-      "id": "fab1386b061698c68109dcd722f6e6e04a1f8bf3",
-      "link": "https://portswigger.net/blog/portswigger-x-intigriti-burp-suite-professional-licenses-up-for-grabs-with-this-new-collaboration",
-      "published": 1773225386.0,
-      "source": "PortSwigger Blog",
-      "summary": "PortSwigger and Intigriti have partnered to offer Burp Suite Professional licenses. The collaboration aims to broaden access to web security testing tools.",
-      "tags": [
-        "#appsec"
-      ],
-      "title": "PortSwigger X Intigriti: Burp Suite Professional licenses up for grabs with this new collaboration"
-    },
-    {
-      "added_at": 1795492405.2352448,
-      "ai": true,
-      "id": "a38c46d93768f15947aba9df0db1a75b29f2c476",
-      "link": "https://projectzero.google/2026/03/mutational-grammar-fuzzing.html",
-      "published": 1772697600.0,
-      "source": "Project Zero",
-      "summary": "Mutational grammar fuzzing uses a predefined grammar to keep sample structure during mutation.\nThe technique ensures mutated samples still comply with grammar rules.\nIt is evaluated for coverage‑guided fuzzing effectiveness.",
-      "tags": [
-        "#vulnerability",
-        "#0day"
-      ],
-      "title": "On the Effectiveness of Mutational Grammar Fuzzing"
-    },
-    {
-      "added_at": 1795492405.2352448,
-      "ai": true,
-      "id": "fff7a6b46d2a2f6de515e6573797e9987800bd35",
-      "link": "https://projectzero.google/2026/02/gphfh-deep-dive.html",
-      "published": 1772092800.0,
-      "source": "Project Zero",
-      "summary": "Explores the undocumented GetProcessHandleFromHwnd API used in a UAC bypass via Quick Assist.\nThe author reviews documentation and practical implications.\nThe API can be leveraged for privilege escalation.",
-      "tags": [
-        "#vulnerability",
-        "#0day"
-      ],
-      "title": "A Deep Dive into the GetProcessHandleFromHwnd API"
-    },
-    {
-      "added_at": 1795492405.2352448,
-      "ai": true,
-      "id": "4773f8ec219a6eda6eeca7b1006eb9196f3c1d75",
-      "link": "https://projectzero.google/2026/02/windows-administrator-protection.html",
-      "published": 1770883200.0,
-      "source": "Project Zero",
-      "summary": "Research uncovered nine bypasses of Windows Administrator Protection before release.\nFive root causes are detailed.\nAll issues have been patched.",
-      "tags": [
-        "#vulnerability",
-        "#0day"
-      ],
-      "title": "Bypassing Administrator Protection by Abusing UI Access"
-    },
-    {
-      "added_at": 1795492405.2352448,
-      "ai": true,
-      "id": "32ecf2243a4c2fbd85dd920b9c9ad37412b10b3d",
-      "link": "https://portswigger.net/research/top-10-web-hacking-techniques-of-2025-nominations-open",
-      "published": 1767713488.0,
-      "source": "PortSwigger Research",
-      "summary": "A call for nominations for the 2025 list of top web hacking techniques.\nNominations closed, voting live.\nThe list highlights recent research.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "Top 10 web hacking techniques of 2025: call for nominations"
-    },
-    {
-      "added_at": 1795492405.2352448,
-      "ai": true,
-      "id": "e50ef5eaefa7b88c68662b12bb2bba3f0d8103a6",
-      "link": "https://portswigger.net/blog/burp-on-tour-2025-bringing-the-appsec-community-together-around-the-world",
-      "published": 1765539268.0,
-      "source": "PortSwigger Blog",
-      "summary": "Burp Suite launched a global tour to meet AppSec professionals.\nThe event aims to gather feedback and share knowledge.\nIt supports the community worldwide.",
-      "tags": [
-        "#appsec"
-      ],
-      "title": "Burp On Tour 2025: bringing the AppSec community together around the world"
-    },
-    {
-      "added_at": 1795492405.2352448,
-      "ai": true,
-      "id": "eb5289ea1f808c40297d57f14d02d163820a1096",
-      "link": "https://portswigger.net/blog/burp-suite-dast-winter-update-2025",
-      "published": 1765458570.0,
-      "source": "PortSwigger Blog",
-      "summary": "Update introduces features to reduce disruption during dynamic application security testing.\nIt addresses scanning windows, authentication, and API complexity.\nThe goal is faster secure releases.",
-      "tags": [
-        "#appsec"
-      ],
-      "title": "DAST without disruption: Burp Suite DAST winter update 2025"
-    },
-    {
-      "added_at": 1795492405.2352448,
-      "ai": true,
-      "id": "f259c3b304af3721daaae71ddf22395e483bf90e",
-      "link": "https://portswigger.net/research/the-fragile-lock",
-      "published": 1765369920.0,
-      "source": "PortSwigger Research",
-      "summary": "Demonstrates authentication bypasses in Ruby and PHP SAML libraries via parser inconsistencies.\nExploits include attribute pollution and namespace confusion.\nHighlights need for stricter parsing.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "The Fragile Lock: Novel Bypasses For SAML Authentication"
-    },
-    {
-      "added_at": 1795492405.2352448,
-      "ai": true,
-      "id": "0f1b844ebd5d9e8cda5ede75a20dbf231220e590",
-      "link": "https://portswigger.net/blog/how-to-detect-react2shell-with-burp-suite",
-      "published": 1764942810.0,
-      "source": "PortSwigger Blog",
-      "summary": "Describes detection of React2Shell vulnerabilities (CVE-2025-55182, CVE-2025-66478) using Burp Suite.\nProvides steps to identify affected applications.\nEmphasizes rapid response.",
-      "tags": [
-        "#appsec"
-      ],
-      "title": "How to detect React2Shell with Burp Suite"
-    },
-    {
-      "added_at": 1795492405.2352448,
-      "ai": true,
-      "id": "77bb84635f2dc81f11408536933d7d06d3fa4af0",
-      "link": "https://portswigger.net/blog/portswigger-x-tryhackme-supporting-advent-of-cyber",
-      "published": 1764579600.0,
-      "source": "PortSwigger Blog",
-      "summary": "Collaborative event where TryHackMe offers daily beginner challenges during Advent of Cyber.\nParticipants gain hands‑on experience.\nThe partnership promotes learning.",
-      "tags": [
-        "#appsec"
-      ],
-      "title": "PortSwigger x TryHackMe: Supporting Advent of Cyber"
-    },
-    {
-      "added_at": 1795492405.2352448,
-      "ai": true,
-      "id": "8a8c85f07fb323844a6aec62f5ba1df27af7b2bb",
-      "link": "https://portswigger.net/research/introducing-http-anomaly-rank",
-      "published": 1762872113.0,
-      "source": "PortSwigger Research",
-      "summary": "Introduces a new ranking system for HTTP responses to prioritize anomalies.\nIt automates sorting of responses by length and other metrics.\nAims to streamline manual analysis.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "Introducing HTTP Anomaly Rank"
-    },
-    {
       "added_at": 1795540190.9067404,
       "ai": true,
       "id": "5e84d271f3fa49966c9e6dd26f939356f9464b70",
@@ -2310,6 +1821,424 @@
         "#research"
       ],
       "title": "Bypassing character blocklists with unicode overflows"
+    },
+    {
+      "added_at": 1795710881.1239004,
+      "ai": true,
+      "id": "6e5dcf12da7136311195fbbf9d7e5aa5f80b37ca",
+      "link": "https://www.theregister.com/public-sector/2026/11/26/uk-privacy-watchdog-faces-probe-into-its-workplace-culture/5312380",
+      "published": 1795709760.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "UK privacy watchdog under independent review for workplace culture. Focus on leadership, accountability, and staff concern handling. Former commissioner John Edwards resigned.",
+      "tags": [],
+      "title": "UK privacy watchdog faces probe into its workplace culture"
+    },
+    {
+      "added_at": 1795710881.1239004,
+      "ai": true,
+      "id": "e81487fa4f9ec74d385caa1aa68f19f514a53675",
+      "link": "https://www.theregister.com/security/2026/11/26/significant-number-of-customer-records-pwned-in-flight-centre-travel-group-breach/5312360",
+      "published": 1795706940.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "Flight Centre Travel Group suffered a breach compromising a significant number of customer records. Attack part of ongoing global booking system incidents.",
+      "tags": [],
+      "title": "'Significant number of customer records' pwned in Flight Centre Travel Group breach"
+    },
+    {
+      "added_at": 1795710881.1239004,
+      "ai": true,
+      "id": "17ea7e9dd6a3abc4bf21a13b555c614004f09868",
+      "link": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
+      "published": 1795706608.0,
+      "source": "BleepingComputer",
+      "summary": "Remus infostealer uses a malicious Chrome extension to steal Gmail messages. Operators marketed it as a zero‑day exploit in Google’s email service.",
+      "tags": [],
+      "title": "Remus malware steals Gmail messages via fake Google Sheets extension"
+    },
+    {
+      "added_at": 1795710881.1239004,
+      "ai": true,
+      "id": "f5eee8a53f92f417c6d6cc2e2d8c4f292803e41f",
+      "link": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
+      "published": 1795706021.0,
+      "source": "The Hacker News",
+      "summary": "PolinRider campaign planted a Python loader in GitHub repositories to spread malware. Activity traced back to February 2025.",
+      "tags": [],
+      "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware"
+    },
+    {
+      "added_at": 1795710881.1239004,
+      "ai": true,
+      "id": "4d7b5a0ac0d3bce1ff3ee6ac1ebc0bd30496c23c",
+      "link": "https://www.infosecurity-magazine.com/news/cisa-alert-danfoss-critical-flaw/",
+      "published": 1795702500.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "CISA issued an alert after Danfoss discovered a critical flaw in fridge controllers. Food retailers are at risk.",
+      "tags": [],
+      "title": "CISA Issues Alert After Danfoss Reveals Critical Flaw in Fridge Controllers"
+    },
+    {
+      "added_at": 1795710881.1239004,
+      "ai": true,
+      "id": "2512a65d290b11c25bfcaca26768ab4de75906d8",
+      "link": "https://www.theregister.com/security/2026/11/26/wyoming-uranium-operation-shuts-down-after-cyberattack/5312323",
+      "published": 1795701720.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "Peninsula Energy’s Wyoming uranium plant shut down after a cyberattack. Control systems were affected; no restart date announced.",
+      "tags": [],
+      "title": "Wyoming uranium operation shuts down after cyberattack"
+    },
+    {
+      "added_at": 1795710881.1239004,
+      "ai": true,
+      "id": "14b3e60e10f9bd9572591bf49b883be5a383e3a1",
+      "link": "https://www.theregister.com/security/2026/11/26/company-was-religious-about-backups-but-sinned-by-leaving-them-exposed/5312234",
+      "published": 1795699320.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "Company exposed backups by placing the backup server in the same Windows domain as production, highlighting the need to segregate backup infrastructure.",
+      "tags": [],
+      "title": "Company was religious about backups but sinned by leaving them exposed"
+    },
+    {
+      "added_at": 1795710881.1239004,
+      "ai": true,
+      "id": "bb9d1e6ae5622ebde36cb5a3bbeac01f9c2dad06",
+      "link": "https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/",
+      "published": 1795698246.0,
+      "source": "SecurityWeek",
+      "summary": "CVE-2026-103406 in Juniper Session Smart Conductor allows remote attackers to execute arbitrary commands as root. The flaw has been exploited in recent attacks.",
+      "tags": [],
+      "title": "Critical Juniper Session Smart Conductor Flaw Exploited in Attacks"
+    },
+    {
+      "added_at": 1795710881.1239004,
+      "ai": true,
+      "id": "04fe40120dba23f2bd3544d19f4b77af6b98615e",
+      "link": "https://www.helpnetsecurity.com/2026/11/26/keenadu-malware-android-devices/",
+      "published": 1795697878.0,
+      "source": "Help Net Security",
+      "summary": "Kaspersky identified over 220,000 Android devices shipped with Keenadu malware preinstalled. Device infections grew 2.5× in the past year.",
+      "tags": [],
+      "title": "Preinstalled Keenadu malware turns up on 220,000+ Android devices"
+    },
+    {
+      "added_at": 1795710881.1239004,
+      "ai": true,
+      "id": "23ec231ca044747f3873909bdc6d0926432aac6a",
+      "link": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
+      "published": 1795693817.0,
+      "source": "BleepingComputer",
+      "summary": "SYS010 infostealer delivered via Meta ads enrolls browsers into enterprise management, forcing an extension that steals Gmail and Outlook emails.",
+      "tags": [],
+      "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook"
+    },
+    {
+      "added_at": 1795710881.1239004,
+      "ai": true,
+      "id": "977230ccbf62a3c16276075d006790011b9ceb13",
+      "link": "https://www.theregister.com/security/2026/11/26/hackers-help-themselves-to-1passwords-source-code-and-customer-data/5312317",
+      "published": 1795690920.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "1Password suffered a breach where attackers accessed source code and customer data through malicious code in backend services. The company confirmed that user passwords remain secure.",
+      "tags": [],
+      "title": "Hackers help themselves to 1Password's source code and customer data"
+    },
+    {
+      "added_at": 1795710881.1239004,
+      "ai": true,
+      "id": "27c41b73faa55f9a6fcfc364af82b78b5125e4e2",
+      "link": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
+      "published": 1795690675.0,
+      "source": "The Hacker News",
+      "summary": "A study highlights phishing kits that successfully bypass email security, web filtering, and safe browsing, measuring their breakthrough rate to inform security teams.",
+      "tags": [],
+      "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls"
+    },
+    {
+      "added_at": 1795710881.1239004,
+      "ai": true,
+      "id": "420627cd7e6f59c1f32c0295c223bfabc74b389b",
+      "link": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
+      "published": 1795690645.0,
+      "source": "The Hacker News",
+      "summary": "1Password disclosed unauthorized access to backend systems that led to the theft of customer data and source code, while vaults were not compromised.",
+      "tags": [],
+      "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach"
+    },
+    {
+      "added_at": 1795710881.1239004,
+      "ai": true,
+      "id": "64d50fdadf54371642d40616abff6a5f6e0cc17b",
+      "link": "https://www.infosecurity-magazine.com/news/home-office-reprimanded-gdpr/",
+      "published": 1795689000.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "The ICO reprimanded the UK Home Office for GDPR failures that caused distress at the border due to data integrity issues.",
+      "tags": [],
+      "title": "Home Office Reprimanded After GDPR Failure at the Border"
+    },
+    {
+      "added_at": 1795710881.1239004,
+      "ai": true,
+      "id": "9fef03c442c03373dfaf22186697fee84a98e05c",
+      "link": "https://www.helpnetsecurity.com/2026/11/26/ransomware-recovery-fraud-florida-firm-co-founder-charged/",
+      "published": 1795687147.0,
+      "source": "Help Net Security",
+      "summary": "A co‑founder of a Florida data recovery firm was indicted for paying ransomware gangs while claiming no involvement, facing wire fraud charges.",
+      "tags": [],
+      "title": "Data recovery firm co-founder accused of cashing in on ransomware victims"
+    },
+    {
+      "added_at": 1795710881.1239004,
+      "ai": true,
+      "id": "a0100a52ea63eb06a3ccd12f8df4dd4f2ff50cd3",
+      "link": "https://www.infosecurity-magazine.com/news/1password-github-account-backend/",
+      "published": 1795685520.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "Attackers used a hijacked 1Password employee GitHub account to access customer data, but did not reach user vaults.",
+      "tags": [],
+      "title": "1Password Hit by Backend Breach via Hijacked Employee GitHub Account"
+    },
+    {
+      "added_at": 1795710881.1239004,
+      "ai": true,
+      "id": "76edafc19f9cbb7b510fbb2c7d92c9834edae195",
+      "link": "https://www.theregister.com/security/2026/11/26/uk-home-office-waved-through-border-system-without-a-working-fix-for-bad-data/5312162",
+      "published": 1795685400.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "The ICO reprimand followed the Home Office’s failure to correct bad data, risking wrongful detention; a temporary fix took over a year to implement.",
+      "tags": [],
+      "title": "UK Home Office waved through border system without a working fix for bad data"
+    },
+    {
+      "added_at": 1795710881.1239004,
+      "ai": true,
+      "id": "37e152d36e89d0cb7aa087d4c17f9e4bca40e88e",
+      "link": "https://www.securityweek.com/drupal-installer-patch-left-a-gap-attackers-are-already-exploiting/",
+      "published": 1795684346.0,
+      "source": "SecurityWeek",
+      "summary": "Drupal warned that a previous installer patch left a vulnerability that attackers are exploiting to take over websites.",
+      "tags": [],
+      "title": "Drupal Installer Patch Left a Gap Attackers Are Already Exploiting"
+    },
+    {
+      "added_at": 1795710881.1239004,
+      "ai": true,
+      "id": "69311314e8504d77659ef8a5ca807456dba32627",
+      "link": "https://www.helpnetsecurity.com/2026/11/26/1password-breach-github-customer-records/",
+      "published": 1795682552.0,
+      "source": "Help Net Security",
+      "summary": "1Password disclosed a breach via a hijacked employee GitHub account that resulted in stolen customer names, emails, and source code; vaults remained untouched.",
+      "tags": [],
+      "title": "1Password breached through hijacked employee GitHub account, customer names and emails stolen"
+    },
+    {
+      "added_at": 1795710881.1239004,
+      "ai": true,
+      "id": "84ce059e91edb9373fb257200f42a3b405b22f46",
+      "link": "https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/",
+      "published": 1795681930.0,
+      "source": "SecurityWeek",
+      "summary": "A hacker used a compromised employee GitHub account to push malicious code and steal customer records, but 1Password vaults were not accessed.",
+      "tags": [],
+      "title": "1Password Breach Exposes Customer Data, Internal Source Code"
+    },
+    {
+      "added_at": 1795710881.1239004,
+      "ai": true,
+      "id": "dd168b1ec489e2d23474f811bbe090c915f5af9a",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/cyprus-espionage-target-iranian-hackers",
+      "published": 1795680000.0,
+      "source": "darkreading",
+      "summary": "Iranian threat group Volant Manticore is targeting Cypriot organizations for intelligence gathering. The group was previously undocumented. The attacks focus on gathering information for Tehran.",
+      "tags": [],
+      "title": "Cyprus Becomes Espionage Target for Iranian Hackers"
+    },
+    {
+      "added_at": 1795710881.1239004,
+      "ai": true,
+      "id": "457c08cf27ea6f55daaa92093832e77f774d9c0b",
+      "link": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
+      "published": 1795676554.0,
+      "source": "The Hacker News",
+      "summary": "Drupal core has a highly critical vulnerability (CVE-2026-136716) that is actively exploited. The flaw involves improper condition checks. It is related to CVE-2026-132165, addressing remaining vulnerable installation states.",
+      "tags": [],
+      "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation"
+    },
+    {
+      "added_at": 1795710881.1239004,
+      "ai": true,
+      "id": "1d57aa7ac03a11fd8535c166345d58b718d368a8",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html",
+      "published": 1795675486.0,
+      "source": "The Hacker News",
+      "summary": "CISA added 10 known exploited vulnerabilities to its catalog, including five affecting Mitel MiCollab. The listed CVE-2026-133275 allows arbitrary file upload. Other vendors impacted include Juniper, Vates, and Danfoss.",
+      "tags": [],
+      "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products"
+    },
+    {
+      "added_at": 1795710881.1239004,
+      "ai": true,
+      "id": "3980562478a3e8d9c95597711de72accea486ca8",
+      "link": "https://www.helpnetsecurity.com/2026/11/26/black-friday-2026-cybersecurity-deals/",
+      "published": 1795674633.0,
+      "source": "Help Net Security",
+      "summary": "Security vendors are offering Black Friday 2026 discounts on cybersecurity tools. The article lists deals and advises reviewing fine print. It highlights opportunities to purchase security solutions at lower prices.",
+      "tags": [],
+      "title": "Black Friday cybersecurity deals 2026: Stay safe, spend less"
+    },
+    {
+      "added_at": 1795710881.1239004,
+      "ai": true,
+      "id": "bb379b79e74f5c02b7ef93b8c32dedec64fc4386",
+      "link": "https://www.helpnetsecurity.com/2026/11/26/proxmox-9-3-adds-production-snapshots-for-san-backed-vms/",
+      "published": 1795673243.0,
+      "source": "Help Net Security",
+      "summary": "Proxmox VE 9.3 introduces production snapshot support for VMs on shared LVM storage over iSCSI and Fibre Channel SANs. Each guest receives a persistent identity across migration, backup, and restore. The feature is intended for production use.",
+      "tags": [],
+      "title": "Proxmox 9.3 adds production snapshots for SAN-backed VMs"
+    },
+    {
+      "added_at": 1795710881.1239004,
+      "ai": true,
+      "id": "e51dcba7db603e1602f19e42c19f6aa11c55f8dc",
+      "link": "https://www.helpnetsecurity.com/2026/11/26/fortinet-holiday-shopping-cyber-threats-report/",
+      "published": 1795672853.0,
+      "source": "Help Net Security",
+      "summary": "FortiGuard Labs identified over 24,000 new domains with holiday shopping keywords, 4,400 of which are malicious. Cybercriminals plan to exploit shoppers with fraudulent storefronts, impersonation, payment fraud, and account takeover attacks.",
+      "tags": [],
+      "title": "More than 4,400 malicious domains are waiting for holiday shoppers"
+    },
+    {
+      "added_at": 1795710881.1239004,
+      "ai": true,
+      "id": "4defc6085564e56973a419d3190b9c9b5dcb5912",
+      "link": "https://www.helpnetsecurity.com/2026/11/26/incogni-online-privacy-concerns-report/",
+      "published": 1795669206.0,
+      "source": "Help Net Security",
+      "summary": "A survey found that 55% of U.S. adults would pay to remove personal information from public search results. 53% want a record of all searches for their name over the past five years. The study highlights privacy concerns.",
+      "tags": [],
+      "title": "People are willing to pay to vanish from search results"
+    },
+    {
+      "added_at": 1795710881.1239004,
+      "ai": true,
+      "id": "98bf0c432201829aa93454caacc9e3e4d52a8b95",
+      "link": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
+      "published": 1795664932.0,
+      "source": "The Hacker News",
+      "summary": "Researchers discovered 13 malicious NuGet packages that masquerade as fake .NET job assessment tools. The packages deliver malware when built or run. They target Windows .NET developers with WinUI 3 and WPF controls.",
+      "tags": [],
+      "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps"
+    },
+    {
+      "added_at": 1795710881.1239004,
+      "ai": true,
+      "id": "c0ff4a7ff77afe9e8fac0e0d40471ca83304e429",
+      "link": "https://therecord.media/britain-delays-national-cyber-action-plan-again",
+      "published": 1795651200.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "The UK government has delayed the release of its National Cyber Action Plan to December 9, after originally planning a mid‑November publication. The plan outlines defenses against state‑backed and criminal hackers.",
+      "tags": [
+        "#news"
+      ],
+      "title": "UK’s long-awaited National Cyber Action Plan delayed until December"
+    },
+    {
+      "added_at": 1795710881.1239004,
+      "ai": true,
+      "id": "4f4f9e0dd0e068bbfd8c027fa747f380926f16e0",
+      "link": "https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday",
+      "published": 1795096800.0,
+      "source": "darkreading",
+      "summary": "Bot-driven fraud and holiday social engineering attacks continue throughout the holiday season, straining security teams and small businesses. The article emphasizes the need for ongoing security vigilance.",
+      "tags": [],
+      "title": "Why Holiday Security Can't Wait for Black Friday"
+    },
+    {
+      "added_at": 1795710881.1239004,
+      "ai": true,
+      "id": "796c0101f860286d3645861aa2df208b2728257c",
+      "link": "https://www.theregister.com/security/2026/11/19/cyberattack-on-service-provider-exposes-payee-data-at-40-irish-credit-unions/5310979",
+      "published": 1795088700.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "Wellington IT suffered a cyberattack in October that exposed payee data for 40 Irish credit unions. The incident was not publicly disclosed until November, prompting the Minister to criticize the notification delay. The breach highlights the need for faster incident reporting in the banking sector.",
+      "tags": [],
+      "title": "Cyberattack on service provider exposes payee data at 40 Irish credit unions"
+    },
+    {
+      "added_at": 1795710881.1239004,
+      "ai": true,
+      "id": "3d382cf2ec8f53747a0aac1b653fb2f53aa00bc0",
+      "link": "https://www.infosecurity-magazine.com/news/tfl-customers-personal-data-exposed/",
+      "published": 1795088100.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "Transport for London identified a potential data exposure affecting 265,000 Oyster Photocard customers after unauthorized emails were sent from its system. TfL is investigating the incident and will notify affected users. The breach underscores the importance of secure email handling in public transport services.",
+      "tags": [],
+      "title": "TfL Warns 265,000 Photocard Customers May Have Had Personal Data Exposed"
+    },
+    {
+      "added_at": 1795710881.1239004,
+      "ai": true,
+      "id": "c31168ebf53521e3d88c7d9463756ce0f8ee4aeb",
+      "link": "https://www.infosecurity-magazine.com/news/rakuten-securities-breach-15/",
+      "published": 1795080000.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "Rakuten Securities disclosed a data breach that compromised account details of approximately 15 million customers. The incident involved the exposure of personal and financial information. The broker is reviewing security controls and will provide affected customers with remediation steps.",
+      "tags": [],
+      "title": "Rakuten Securities Breach Could Impact 15 Million Customers"
+    },
+    {
+      "added_at": 1795710881.1239004,
+      "ai": true,
+      "id": "59d3b792db4808309500ec4bf219261dbb8146d5",
+      "link": "https://www.darkreading.com/threat-intelligence/africa-top-spot-most-attacked-region-nigeria-surge",
+      "published": 1795075200.0,
+      "source": "darkreading",
+      "summary": "Africa has become the most attacked region worldwide, driven by a surge in cyber threats to Nigeria, which saw more than double the incidents of the previous year. Angola and Kenya also rank among the top five most attacked countries globally. The trend highlights the growing cyber risk in the continent.",
+      "tags": [],
+      "title": "Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge"
+    },
+    {
+      "added_at": 1795710881.1239004,
+      "ai": true,
+      "id": "4f6871e5459b91806832a5e6b0c94bc18e3a8c14",
+      "link": "https://portswigger.net/research/stealing-httponly-cookies-with-the-cookie-sandwich-technique",
+      "published": 1737557111.0,
+      "source": "PortSwigger Research",
+      "summary": "Researchers introduced the cookie sandwich technique, enabling attackers to bypass the HttpOnly flag on vulnerable servers. The method builds on prior work that bypassed WAFs using the phantom $Version cookie. The technique demonstrates new ways to steal session cookies.",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Stealing HttpOnly cookies with the cookie sandwich technique"
+    },
+    {
+      "added_at": 1795710881.1239004,
+      "ai": true,
+      "id": "cd8d05ecd6132949a1eb7a0c7453147b7824fb63",
+      "link": "https://portswigger.net/research/top-10-web-hacking-techniques-of-2024-nominations-open",
+      "published": 1736345247.0,
+      "source": "PortSwigger Research",
+      "summary": "A call for nominations has opened for the 2024 Top 10 Web Hacking Techniques list. Researchers worldwide can submit new findings through blog posts, presentations, and proof‑of‑concepts. The list will highlight emerging threats and best practices for web security.",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Top 10 web hacking techniques of 2024: nominations open"
+    },
+    {
+      "added_at": 1795710881.1239004,
+      "ai": true,
+      "id": "caa7563928b1cb6748aa91d4c25af9622c134de0",
+      "link": "https://portswigger.net/research/bypassing-wafs-with-the-phantom-version-cookie",
+      "published": 1733324615.0,
+      "source": "PortSwigger Research",
+      "summary": "An article discusses how the phantom $Version cookie can be used to bypass Web Application Firewalls. The post examines parser discrepancy vulnerabilities in HTTP cookie handling. It highlights the risks of legacy cookie implementations for web security.",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Bypassing WAFs with the phantom $Version cookie"
     }
   ],
   "posted": []
