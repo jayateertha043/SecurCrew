@@ -1,427 +1,6 @@
 {
   "pending": [
     {
-      "added_at": 1795571971.5700004,
-      "ai": true,
-      "id": "5a7ed17eceba38beb8b2ee9fd2dd3a78a73d3a2b",
-      "link": "https://unit42.paloaltonetworks.com/cve-2026-123633-nginx-http2-vulnerability/",
-      "published": 1795561214.0,
-      "source": "Unit 42",
-      "summary": "Unit 42 reports on CVE-2026-123633, a use‑after‑free vulnerability in NGINX HTTP/2. The analysis covers affected versions, sanitizer test results, and provides patch guidance.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "NGINX HTTP/2 Use-After-Free: CVE-2026-123633"
-    },
-    {
-      "added_at": 1795571971.5700004,
-      "ai": true,
-      "id": "ae79bb5847a54156003bef0891eb3468789db506",
-      "link": "https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/",
-      "published": 1795560118.0,
-      "source": "SecurityWeek",
-      "summary": "SecurityWeek reports that an unclassified CIA system was breached, but the scope of data compromised and the attacker remain unknown.",
-      "tags": [],
-      "title": "An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says"
-    },
-    {
-      "added_at": 1795571971.5700004,
-      "ai": true,
-      "id": "6a6218931c47e3bcac727e5784dd5092b74b142f",
-      "link": "https://www.darkreading.com/cyber-risk/satellites-ground-level-cybersecurity-problem",
-      "published": 1795557934.0,
-      "source": "darkreading",
-      "summary": "Ground‑based infrastructure supporting satellite services is increasingly vulnerable, raising concerns as the space race intensifies.",
-      "tags": [],
-      "title": "Satellites Have a Ground-Level Cybersecurity Problem"
-    },
-    {
-      "added_at": 1795571971.5700004,
-      "ai": true,
-      "id": "f52a74730bc13a7af74fd63ade58ee0bc5093268",
-      "link": "https://cyberscoop.com/cia-odni-osint-data-breach/",
-      "published": 1795557683.0,
-      "source": "CyberScoop",
-      "summary": "CyberScoop confirms a hack of an unclassified intelligence system used by the CIA and ODNI, with no other systems currently at risk.",
-      "tags": [],
-      "title": "Unclassified intel system hit by hackers, affecting CIA, ODNI"
-    },
-    {
-      "added_at": 1795571971.5700004,
-      "ai": true,
-      "id": "7f8f5938b05b8fb09cb5989b3424cce45d1dc6c6",
-      "link": "https://www.darkreading.com/perimeter/webworm-slithers-customized-softether-vpn",
-      "published": 1795556886.0,
-      "source": "darkreading",
-      "summary": "The China‑aligned Webworm APT modifies open‑source SoftEther VPN to remove detection artifacts, enabling stealthy network infiltration.",
-      "tags": [],
-      "title": "Webworm APT Slithers Into Networks With Customized SoftEther VPN"
-    },
-    {
-      "added_at": 1795571971.5700004,
-      "ai": true,
-      "id": "6c270107d3982041e8ea470aeac3e0a9fcf00edc",
-      "link": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
-      "published": 1795556250.0,
-      "source": "BleepingComputer",
-      "summary": "Rackspace is shutting down its Spot cloud platform after a breach that exposed customer Kubernetes clusters and secrets, giving users until December 8 to migrate.",
-      "tags": [],
-      "title": "Rackspace shuts down Spot cloud platform after security breach"
-    },
-    {
-      "added_at": 1795571971.5700004,
-      "ai": true,
-      "id": "3b8d0a7e0d039061990501c93311eaf6d379dac0",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc",
-      "published": 1795556171.0,
-      "source": "darkreading",
-      "summary": "Vulnerabilities in several countries’ online visa and immigration systems could allow attackers to disrupt traveler entry into Nigeria, Ethiopia, Zambia, Sri Lanka, Fiji, and Ghana.",
-      "tags": [],
-      "title": "'God Mode' Flaws Could Wreak Border-Control Havoc"
-    },
-    {
-      "added_at": 1795571971.5700004,
-      "ai": true,
-      "id": "2f99e3ac2673fbf0d387a05e0656d885a3bfbf66",
-      "link": "https://therecord.media/mycolorado-app-down-data-breach",
-      "published": 1795553520.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "A cyberattack disabled Colorado’s myColorado app, potentially compromising data of 150,000 users who use the platform for digital ID and state services.",
-      "tags": [
-        "#news"
-      ],
-      "title": "Colorado says cyberattack took down myColorado app, warns 150,000 had data stolen"
-    },
-    {
-      "added_at": 1795571971.5700004,
-      "ai": true,
-      "id": "0bc0f9692115f3dda0b529fcaeb7094d1bfc9d48",
-      "link": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
-      "published": 1795551680.0,
-      "source": "BleepingComputer",
-      "summary": "The newly formed Inception extortion group is conducting a large‑scale vishing campaign targeting single sign‑on credentials of multiple global brands.",
-      "tags": [],
-      "title": "New Inception extortion gang launches large-scale vishing campaign"
-    },
-    {
-      "added_at": 1795571971.5700004,
-      "ai": true,
-      "id": "6204a0dc325c8346c48042af3f8c962117636214",
-      "link": "https://www.theregister.com/security/2026/11/24/we-are-not-shinyhunters-says-criminal-hacking-crew-that-looks-and-acts-just-like-shinyhunters/5311978",
-      "published": 1795551336.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "A hacking group claims it is not ShinyHunters, despite similarities in appearance and behavior.",
-      "tags": [],
-      "title": "'We are not ShinyHunters,' says criminal hacking crew that looks and acts just like ShinyHunters"
-    },
-    {
-      "added_at": 1795571971.5700004,
-      "ai": true,
-      "id": "8a279dc693833480afe3ad55d0955a6de7438ffc",
-      "link": "https://therecord.media/california-privacy-agency-kemp",
-      "published": 1795548600.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "The director of the California Privacy Protection Agency announced his departure after a two‑year tenure that saw the launch of a first‑of‑its‑kind consumer opt‑out platform for data sharing.",
-      "tags": [
-        "#news"
-      ],
-      "title": "California privacy agency director Kemp to leave after two-year tenure"
-    },
-    {
-      "added_at": 1795571971.5700004,
-      "ai": true,
-      "id": "5f76ac4f7ca9daa35c16ac0f8572ed56afb66c87",
-      "link": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
-      "published": 1795546792.0,
-      "source": "BleepingComputer",
-      "summary": "Turnitin’s CEO reported unauthorized activity on customer‑facing systems and said the company is investigating the impact of the breach.",
-      "tags": [],
-      "title": "Turnitin discloses cyberattack affecting customer-facing systems"
-    },
-    {
-      "added_at": 1795571971.5700004,
-      "ai": true,
-      "id": "adb18ca6aea028ca5b727bf87934998b11744b97",
-      "link": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
-      "published": 1795542545.0,
-      "source": "BleepingComputer",
-      "summary": "Radware disclosed that attackers accessed customer account details and cloud access keys through an exposed internal Cloud WAF management API.",
-      "tags": [],
-      "title": "Radware discloses breach exposing customer cloud access keys"
-    },
-    {
-      "added_at": 1795571971.5700004,
-      "ai": true,
-      "id": "2db8a6398bacd1876d08b32e21d603a3a460ff28",
-      "link": "https://therecord.media/idscan-data-breach-warning-congressional-letter",
-      "published": 1795542540.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "Lawmakers urged identity verification companies to strengthen security after the September IDscan data breach.",
-      "tags": [
-        "#news"
-      ],
-      "title": "Lawmakers warn ID verification companies to bolster security after September hack"
-    },
-    {
-      "added_at": 1795571971.5700004,
-      "ai": true,
-      "id": "c4d26819484090cd2d2630c0adfc9be1f059f279",
-      "link": "https://cyberscoop.com/kash-patel-fbi-ncic-database-hack/",
-      "published": 1795542514.0,
-      "source": "CyberScoop",
-      "summary": "The FBI remains silent on the National Crime Information Center breach, citing an ongoing investigation.",
-      "tags": [],
-      "title": "Patel mum on FBI crime info database hack, citing ongoing investigation"
-    },
-    {
-      "added_at": 1795571971.5700004,
-      "ai": true,
-      "id": "6b48789d1147d2db041ea3e7c8c60470438f4520",
-      "link": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
-      "published": 1795539247.0,
-      "source": "The Hacker News",
-      "summary": "Iran‑aligned group Volant Manticore uses the KuboShell backdoor, which leverages IPFS for command‑and‑control, in espionage campaigns against telecoms, airlines, and critical infrastructure in Cyprus.",
-      "tags": [],
-      "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns"
-    },
-    {
-      "added_at": 1795571971.5700004,
-      "ai": true,
-      "id": "46a6b0b05c4e07c03ac32f0ba1310154e357fe1a",
-      "link": "https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks",
-      "published": 1794954862.0,
-      "source": "darkreading",
-      "summary": "At least 178 organizations exposed website visitors to hydra‑like malware via the Optimizely third‑party platform, highlighting third‑party vendor risks.",
-      "tags": [],
-      "title": "Optimizely Malware Attacks Highlight Third-Party Vendor Risks"
-    },
-    {
-      "added_at": 1795571971.5700004,
-      "ai": true,
-      "id": "918174e4844d2ee2ad6859b0be88e279e4246edf",
-      "link": "https://unit42.paloaltonetworks.com/optimjack-supply-chain-attack/",
-      "published": 1794948194.0,
-      "source": "Unit 42",
-      "summary": "The OPTIMJACK supply‑chain attack demonstrates how a compromised vendor script can expose websites, underscoring the need for strict segmentation.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Borrowed Code, Real Consequences: What OPTIMJACK Teaches Us"
-    },
-    {
-      "added_at": 1795571971.5700004,
-      "ai": true,
-      "id": "9364f9baac682a403f1c97475f193825c3bbc7d9",
-      "link": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
-      "published": 1794347703.0,
-      "source": "Krebs on Security",
-      "summary": "Microsoft released Patch Tuesday updates that fix nearly 1,100 vulnerabilities, including 63 critical flaws and a zero‑day in Outlook.",
-      "tags": [],
-      "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities"
-    },
-    {
-      "added_at": 1795571971.5700004,
-      "ai": true,
-      "id": "7bd6d5785093a8de947788c77ad467a7c685264c",
-      "link": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
-      "published": 1794333600.0,
-      "source": "Security Archives - The GitHub Blog",
-      "summary": "Git released updates addressing six security vulnerabilities that affect cloning, reference handling, merges, binary patches, and imports.",
-      "tags": [
-        "#appsec"
-      ],
-      "title": "Git security vulnerabilities announced"
-    },
-    {
-      "added_at": 1795571971.5700004,
-      "ai": true,
-      "id": "a726f2ce6dd2d51bdda4071abe0e503c03568e7b",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/iranian-hackers-supermarket-freezers-france",
-      "published": 1794326750.0,
-      "source": "GRAHAM CLULEY",
-      "summary": "France accuses Iran of orchestrating cyber attacks that disrupted supermarket freezers, causing some to catch fire.",
-      "tags": [],
-      "title": "Iranian hackers turned up the heat on French supermarket freezers, says France"
-    },
-    {
-      "added_at": 1795571971.5700004,
-      "ai": true,
-      "id": "8ccc41c61f1c00576031dfa3ca2bbb0ced0ac6ff",
-      "link": "https://securelist.com/malware-report-q3-2026-pc-iot-statistics/121843/",
-      "published": 1794297637.0,
-      "source": "Securelist",
-      "summary": "Q3 2026 malware trends show increased activity against Windows, macOS, and IoT devices, with key statistics highlighting the evolving threat landscape.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "IT threat evolution in Q3 2026. Non-mobile statistics"
-    },
-    {
-      "added_at": 1795571971.5700004,
-      "ai": true,
-      "id": "1f4ed50ff466708fd00941bc5dc7e76ce7e80f5d",
-      "link": "https://securelist.com/malware-report-q3-2026-mobile-statistics/121844/",
-      "published": 1794297617.0,
-      "source": "Securelist",
-      "summary": "Q3 2026 mobile threat data reveals rising Android malware, adware, and unwanted software incidents, and lists the most notable malware variants.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "IT threat evolution in Q3 2026. Mobile statistics"
-    },
-    {
-      "added_at": 1795571971.5700004,
-      "ai": true,
-      "id": "b553306139f1bb9de110142c86a5faa6e6bcf857",
-      "link": "https://portswigger.net/blog/how-to-join-the-desync-endgame-practical-tips-from-pentester-tom-stacey",
-      "published": 1758210699.0,
-      "source": "PortSwigger Blog",
-      "summary": "Pentester Tom Stacey provides practical guidance on exploiting the long‑known HTTP Request Smuggling vulnerability.",
-      "tags": [
-        "#appsec"
-      ],
-      "title": "How to join the desync endgame: Practical tips from pentester Tom Stacey"
-    },
-    {
-      "added_at": 1795571971.5700004,
-      "ai": true,
-      "id": "484fcdf422c34538054c56f5b7ef89bd3ffd574f",
-      "link": "https://portswigger.net/research/websocket-turbo-intruder-unearthing-the-websocket-goldmine",
-      "published": 1758112806.0,
-      "source": "PortSwigger Research",
-      "summary": "The WebSocket Turbo Intruder tool uncovers bugs such as broken access controls and race conditions that arise during WebSocket protocol upgrades.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "WebSocket Turbo Intruder: Unearthing the WebSocket Goldmine"
-    },
-    {
-      "added_at": 1795571971.5700004,
-      "ai": true,
-      "id": "7a9820f50893d3e02e58744f464c19b0baf37903",
-      "link": "https://portswigger.net/blog/how-this-seasoned-bug-bounty-hunter-combines-burp-suite-and-hackerone-to-uncover-high-impact-vulnerabilities",
-      "published": 1757679698.0,
-      "source": "PortSwigger Blog",
-      "summary": "Bug bounty hunter Arman S. demonstrates how to combine Burp Suite Professional with HackerOne to identify and report high‑impact vulnerabilities.",
-      "tags": [
-        "#appsec"
-      ],
-      "title": "How this seasoned bug bounty hunter combines Burp Suite and HackerOne to uncover high-impact vulnerabilities"
-    },
-    {
-      "added_at": 1795571971.5700004,
-      "ai": true,
-      "id": "a22c2fb34164449118082000d70b57715a101609",
-      "link": "https://portswigger.net/blog/watch-the-webinar-scale-secure-coverage-without-scaling-headcount",
-      "published": 1756995660.0,
-      "source": "PortSwigger Blog",
-      "summary": "A webinar outlines strategies for application security teams to maintain coverage amid expanding application estates and faster release cycles without increasing headcount.",
-      "tags": [
-        "#appsec"
-      ],
-      "title": "Watch the webinar: Scale secure coverage without scaling headcount"
-    },
-    {
-      "added_at": 1795571971.5700004,
-      "ai": true,
-      "id": "4cbe3e561c3f35f040a2c4776836709add4eea66",
-      "link": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
-      "published": 1756910783.0,
-      "source": "PortSwigger Research",
-      "summary": "The post explains how attackers can bypass __Host and __Secure cookie prefixes by exploiting discrepancies between browser and server handling.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes"
-    },
-    {
-      "added_at": 1795571971.5700004,
-      "ai": true,
-      "id": "8b2cb28d05e4a91616928a2c05eff84cb150b08e",
-      "link": "https://portswigger.net/blog/the-year-so-far-how-burp-suite-dast-is-leveling-up-enterprise-security-in-2025",
-      "published": 1756382865.0,
-      "source": "PortSwigger Blog",
-      "summary": "Burp Suite DAST’s 2025 updates help enterprise teams secure large application estates while preserving delivery speed.",
-      "tags": [
-        "#appsec"
-      ],
-      "title": "The year so far: How Burp Suite DAST is leveling up enterprise security in 2025"
-    },
-    {
-      "added_at": 1795571971.5700004,
-      "ai": true,
-      "id": "06c1e93c19995b3e24e4c04d84184b8c783e4731",
-      "link": "https://portswigger.net/blog/the-entire-internet-is-broken-ethical-hacking-expert-john-hammond-meets-james-kettle",
-      "published": 1756285877.0,
-      "source": "PortSwigger Blog",
-      "summary": "John Hammond and James Kettle discuss the widespread compromise of millions of websites and the current state of internet security.",
-      "tags": [
-        "#appsec"
-      ],
-      "title": "\"The entire internet is broken\": ethical hacking expert John Hammond meets James Kettle"
-    },
-    {
-      "added_at": 1795571971.5700004,
-      "ai": true,
-      "id": "730e7d1302c4fb712eaf14770689cdd71afe5850",
-      "link": "https://portswigger.net/research/inline-style-exfiltration",
-      "published": 1756212843.0,
-      "source": "PortSwigger Research",
-      "summary": "Researchers discovered a method that uses chained CSS conditionals in inline style attributes to exfiltrate attribute data, bypassing selectors and external stylesheets. This technique enables CSS injection attacks via style attributes, expanding the attack surface for web applications.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "Inline Style Exfiltration: leaking data with chained CSS conditionals"
-    },
-    {
-      "added_at": 1795571971.5700004,
-      "ai": true,
-      "id": "9514da96b5bda19d65a54e9c017ab0a5fa7c746d",
-      "link": "https://portswigger.net/research/how-to-distinguish-http-pipelining-from-request-smuggling",
-      "published": 1755613844.0,
-      "source": "PortSwigger Research",
-      "summary": "The article explains that many security scans mistakenly flag HTTP request smuggling when they are actually observing HTTP pipelining or keep-alive behavior. It provides guidance on distinguishing the two to avoid false positives and highlights that genuine smuggling cases still exist.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "Beware the false false-positive: how to distinguish HTTP pipelining from request smuggling"
-    },
-    {
-      "added_at": 1795571971.5700004,
-      "ai": true,
-      "id": "40127dd3512489a1ee2816e2727c5213a29c3374",
-      "link": "https://portswigger.net/blog/http-1-1-must-die-what-this-means-for-appsec-leadership",
-      "published": 1754519029.0,
-      "source": "PortSwigger Blog",
-      "summary": "PortSwigger's James Kettle warns that HTTP request smuggling remains a persistent threat and is evolving, despite defensive efforts over the years. AppSec leaders must prioritize mitigation strategies for HTTP/1.1 vulnerabilities to protect their applications.",
-      "tags": [
-        "#appsec"
-      ],
-      "title": "HTTP/1.1 Must Die: What This Means for AppSec Leadership"
-    },
-    {
-      "added_at": 1795571971.5700004,
-      "ai": true,
-      "id": "e80b4dcf40c84199884d8c54a770daf55cfa232e",
-      "link": "https://portswigger.net/research/http1-must-die",
-      "published": 1754518800.0,
-      "source": "PortSwigger Research",
-      "summary": "The piece argues that HTTP/1.1's inherent insecurity leads to desynchronization attacks that can hijack websites. Despite six years of mitigation attempts, the issue persists, calling for a transition away from HTTP/1.1 to safeguard web applications.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "HTTP/1.1 must die: the desync endgame"
-    },
-    {
       "added_at": 1795625782.6266756,
       "ai": true,
       "id": "7deeca46c74df398bb41313cb74d5a3b3f8d9f4a",
@@ -1986,6 +1565,417 @@
       "summary": "Investigations point to a 36‑year‑old man in St. Petersburg as the administrator of Qilin, a prolific ransomware affiliate program.",
       "tags": [],
       "title": "Who Runs the Ransomware Group Qilin?"
+    },
+    {
+      "added_at": 1795796420.8452792,
+      "ai": true,
+      "id": "2778b393e63471997b0074f9fce946641cb7ebab",
+      "link": "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/",
+      "published": 1795792180.0,
+      "source": "BleepingComputer",
+      "summary": "Hackers breached the US Air Force’s Cloud One platform, adding to recent federal attacks on agencies such as the FBI, CIA, and Treasury Department.\nThe breach highlights ongoing vulnerabilities in government cloud services.",
+      "tags": [],
+      "title": "US Air Force cloud platform reportedly hacked in latest federal breach"
+    },
+    {
+      "added_at": 1795796420.8452792,
+      "ai": true,
+      "id": "96edb4ed0f1cdbb3104e477ac86712a99137cdad",
+      "link": "https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/",
+      "published": 1795791610.0,
+      "source": "BleepingComputer",
+      "summary": "Unmanaged virtual machines, unpatched servers, and excessive permissions create security blind spots.\nCentralized infrastructure management, strict access controls, and automated lifecycle processes can mitigate these risks.",
+      "tags": [],
+      "title": "Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs"
+    },
+    {
+      "added_at": 1795796420.8452792,
+      "ai": true,
+      "id": "814d32c90295b94380892adc90bd8f7fea6696a9",
+      "link": "https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/",
+      "published": 1795789326.0,
+      "source": "BleepingComputer",
+      "summary": "Malwarebytes is offering a 50% discount on security subscriptions for individuals, families, and small businesses during its Black Friday 2026 sale.\nThe promotion includes antivirus, VPN, identity theft protection, and data removal services.",
+      "tags": [],
+      "title": "Malwarebytes Antivirus: Get 50% off during Black Friday 2026"
+    },
+    {
+      "added_at": 1795796420.8452792,
+      "ai": true,
+      "id": "4a82d3723014bbc05656bae6b2362971365b86fa",
+      "link": "https://therecord.media/japan-education-ministry-cyberattack",
+      "published": 1795788900.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "Hackers accessed Japan’s education ministry procurement system, potentially exposing business records and email addresses.\nThe breach was disclosed earlier this week.",
+      "tags": [
+        "#news"
+      ],
+      "title": "Japan’s education ministry discloses breach of government procurement system"
+    },
+    {
+      "added_at": 1795796420.8452792,
+      "ai": true,
+      "id": "975d13cf6e538b4f95d6891d645443dbbe00f067",
+      "link": "https://www.helpnetsecurity.com/2026/11/27/fifa-cyberattack-data-leak/",
+      "published": 1795785710.0,
+      "source": "Help Net Security",
+      "summary": "Cybercriminals gained access to limited personal and business information within FIFA’s systems.\nFIFA is cooperating with law enforcement to investigate the incident.",
+      "tags": [],
+      "title": "FIFA hacked, cybercriminals claim access to sensitive internal records"
+    },
+    {
+      "added_at": 1795796420.8452792,
+      "ai": true,
+      "id": "9a79f6f175dbf801ee9889b31e886053524dc7d2",
+      "link": "https://therecord.media/sap-germany-cyberattack-github",
+      "published": 1795785300.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "SAP confirmed a cybersecurity incident after reports that hackers infiltrated its software development infrastructure and may have accessed source code.\nThe company is reviewing its security posture.",
+      "tags": [
+        "#news"
+      ],
+      "title": "Software giant SAP confirms cyber incident amid reports of source code breach"
+    },
+    {
+      "added_at": 1795796420.8452792,
+      "ai": true,
+      "id": "4895aa5a5bc0ae7469699a085f1a837d767096fe",
+      "link": "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html",
+      "published": 1795780174.0,
+      "source": "The Hacker News",
+      "summary": "Researchers discovered a Microsoft Store application that delivered the Vinci remote access trojan via a fake snipping tool installer.\nThe attack began with a redirect to a malicious site hosting the installer.",
+      "tags": [],
+      "title": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control"
+    },
+    {
+      "added_at": 1795796420.8452792,
+      "ai": true,
+      "id": "7b714952d08e1b2f46e75b0142d68e0750dd4bcd",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/",
+      "published": 1795778316.0,
+      "source": "BleepingComputer",
+      "summary": "Microsoft will remove the Windows Server Update Services (WSUS) server role from the upcoming Windows Server 2028 release.\nUsers will need to adopt alternative update management solutions.",
+      "tags": [],
+      "title": "Microsoft removes WSUS server role in Windows Server 2028"
+    },
+    {
+      "added_at": 1795796420.8452792,
+      "ai": true,
+      "id": "8cbae16fd0fae88524c7a1b3c04e56a04b3d390e",
+      "link": "https://www.infosecurity-magazine.com/news/uk-welfare-services-offline/",
+      "published": 1795778100.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "The UK Department for Work and Pensions took its online services offline following a cyber incident.\nRegular pension and benefit payments were not affected.",
+      "tags": [],
+      "title": "UK Welfare and Pension Services Taken Offline Following Cyber Incident"
+    },
+    {
+      "added_at": 1795796420.8452792,
+      "ai": true,
+      "id": "db4a5f90bd411011e1482cb089fbfc8a81c62f08",
+      "link": "https://www.securityweek.com/in-other-news-tanker-cyberattacks-eu-quantum-act-new-virustotal-capabilities/",
+      "published": 1795777200.0,
+      "source": "SecurityWeek",
+      "summary": "SecurityWeek reports on tanker cyberattacks, the EU Quantum Act, and new VirusTotal capabilities, along with other notable cybersecurity stories.",
+      "tags": [],
+      "title": "In Other News: Tanker Cyberattacks, EU Quantum Act, New VirusTotal Capabilities"
+    },
+    {
+      "added_at": 1795796420.8452792,
+      "ai": true,
+      "id": "ae06ba599eea8d5e45874457c3a28873547c7eea",
+      "link": "https://www.infosecurity-magazine.com/news/fifa-confirms-cyberattack/",
+      "published": 1795775400.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "FIFA confirmed a cyber‑attack that exposed limited personal and business information. The breach involved unauthorized data access and is under investigation.",
+      "tags": [],
+      "title": "FIFA Confirms Cyber-Attack, Personal and Business Information Compromised"
+    },
+    {
+      "added_at": 1795796420.8452792,
+      "ai": true,
+      "id": "30a43f231a877acd479f58881357908d335008c2",
+      "link": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/",
+      "published": 1795774215.0,
+      "source": "BleepingComputer",
+      "summary": "Drupal has warned of a new site takeover vulnerability that attackers are exploiting. The flaw allows breach and hijacking of unpatched websites; users should apply patches immediately.",
+      "tags": [],
+      "title": "Drupal warns of new site takeover flaw exploited in attacks"
+    },
+    {
+      "added_at": 1795796420.8452792,
+      "ai": true,
+      "id": "902d6957376bbec600da1aa287baf9da33c16289",
+      "link": "https://www.theregister.com/security/2026/11/27/british-social-security-system-techies-yank-services-offline-following-cyber-incident/5312522",
+      "published": 1795773660.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "UK social security services were taken offline following a cyber incident. Pensioners were assured that their funds will be paid normally while the incident is investigated.",
+      "tags": [],
+      "title": "British social security system techies yank services offline following 'cyber incident'"
+    },
+    {
+      "added_at": 1795796420.8452792,
+      "ai": true,
+      "id": "34ba075e7282f4eab10296adac5eb32d6cfb3b1c",
+      "link": "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/",
+      "published": 1795773396.0,
+      "source": "BleepingComputer",
+      "summary": "SAP confirmed a security incident after detecting suspicious GitHub activity. The company took urgent action to protect customers and is continuing its investigation.",
+      "tags": [],
+      "title": "SAP confirms security incident after suspicious GitHub activity"
+    },
+    {
+      "added_at": 1795796420.8452792,
+      "ai": true,
+      "id": "3e6c0975b1398ac2d67467d1e01fc92947c3fe41",
+      "link": "https://www.helpnetsecurity.com/2026/11/27/flight-centre-travel-group-data-breach-booking-system/",
+      "published": 1795771904.0,
+      "source": "Help Net Security",
+      "summary": "Flight Centre Travel Group disclosed a customer data breach affecting some passport details. Travelers who booked accommodation may have had names and passport information accessed; investigation is ongoing.",
+      "tags": [],
+      "title": "Flight Centre Travel Group warns of customer data breach involving some passport details"
+    },
+    {
+      "added_at": 1795796420.8452792,
+      "ai": true,
+      "id": "564b5565654ac5627cb372e4a6ea82c6975d933b",
+      "link": "https://www.securityweek.com/100000-potentially-impacted-by-colorado-data-breach/",
+      "published": 1795771854.0,
+      "source": "SecurityWeek",
+      "summary": "Hackers breached the myColorado digital ID application, accessing user‑uploaded data. Approximately 100,000 users may be impacted by the breach.",
+      "tags": [],
+      "title": "100,000 Potentially Impacted by Colorado Data Breach"
+    },
+    {
+      "added_at": 1795796420.8452792,
+      "ai": true,
+      "id": "99bc87f8212c6dd2d19f332b5eff4d5053722dfb",
+      "link": "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html",
+      "published": 1795771770.0,
+      "source": "The Hacker News",
+      "summary": "A supply‑chain attack tampered with Q‑Dir and DesktopOK installers on SoftwareOK, delivering remote‑access malware. The attack affected both new downloads and updates; users should verify integrity.",
+      "tags": [],
+      "title": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware"
+    },
+    {
+      "added_at": 1795796420.8452792,
+      "ai": true,
+      "id": "05f4c13650df3f7cb2e3117d98034dd5e6fac36c",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/",
+      "published": 1795770496.0,
+      "source": "BleepingComputer",
+      "summary": "Microsoft released an emergency hotpatch for Windows Server 2025 to fix crashes caused by the KB5131077 security update. The patch addresses stability issues and should be applied promptly.",
+      "tags": [],
+      "title": "Microsoft pushes emergency hotpatch to fix Windows Server crashes"
+    },
+    {
+      "added_at": 1795796420.8452792,
+      "ai": true,
+      "id": "15e93fc59e91b6402c20a9cfb3e88235ff2e3077",
+      "link": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/",
+      "published": 1795766818.0,
+      "source": "BleepingComputer",
+      "summary": "A 12‑year‑old Linux kernel NFS vulnerability (CVE‑2026‑99362) can give remote attackers root privileges. The flaw remains critical and systems should be patched.",
+      "tags": [],
+      "title": "New NFS2ROOT Linux flaw can let attackers gain root privileges"
+    },
+    {
+      "added_at": 1795796420.8452792,
+      "ai": true,
+      "id": "c51ad7ce4d32c740ba96cbb49a26c02450229f44",
+      "link": "https://www.securityweek.com/hex-package-manager-warns-of-potential-data-breach/",
+      "published": 1795765489.0,
+      "source": "SecurityWeek",
+      "summary": "A vulnerability in hex.pm allowed attackers to run commands on web servers. No data modification was detected, but database reads were unlogged; users should review security.",
+      "tags": [],
+      "title": "Hex Package Manager Warns of Potential Data Breach"
+    },
+    {
+      "added_at": 1795796420.8452792,
+      "ai": true,
+      "id": "62ce00fb3a46f09e9f54ccff53721b2beff8e5e7",
+      "link": "https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised/",
+      "published": 1795764974.0,
+      "source": "SecurityWeek",
+      "summary": "SAP confirmed a cyberattack. Hackers used stolen employee tokens on GitHub to copy and alter source code.",
+      "tags": [],
+      "title": "SAP Confirms Cyberattack, Source Code Reportedly Compromised"
+    },
+    {
+      "added_at": 1795796420.8452792,
+      "ai": true,
+      "id": "706168821faab9b6177f02e77122ca0de5483422",
+      "link": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
+      "published": 1795758500.0,
+      "source": "The Hacker News",
+      "summary": "A zero‑day vulnerability in Cacti enables remote code execution via four unauthenticated HTTP requests. The proof‑of‑concept is tracked as 4HTTP2SHELL and 4HTTP2ROOT.",
+      "tags": [],
+      "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access"
+    },
+    {
+      "added_at": 1795796420.8452792,
+      "ai": true,
+      "id": "5dce1fd3db2e084020fc7590368a6183a51ba29c",
+      "link": "https://www.helpnetsecurity.com/2026/11/27/doj-scam-crackdown-800-scammers/",
+      "published": 1795757428.0,
+      "source": "Help Net Security",
+      "summary": "The U.S. DOJ seized nearly $17 billion in its largest crackdown on scam rings, targeting over 800 alleged scammers across 85 federal districts. The operation included new charges, convictions, and extraditions.",
+      "tags": [],
+      "title": "US seizes nearly $17 billion in global war on scam rings"
+    },
+    {
+      "added_at": 1795796420.8452792,
+      "ai": true,
+      "id": "f9571136225a9842f042061a9cb90077eca66636",
+      "link": "https://therecord.media/france-afp-hit-by-cyberattack",
+      "published": 1795737600.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "AFP’s global news distribution platform was taken offline after a cyberattack, disrupting content delivery to media organizations worldwide.",
+      "tags": [
+        "#news"
+      ],
+      "title": "Cyberattack disrupts global news distribution platform at France’s AFP"
+    },
+    {
+      "added_at": 1795796420.8452792,
+      "ai": true,
+      "id": "875b913eba1346d0c8a0f2ec4485d9df21c7322c",
+      "link": "https://therecord.media/uk-department-work-pensions-cyber-incident",
+      "published": 1795737600.0,
+      "source": "The Record from Recorded Future News",
+      "summary": "The UK Department for Work and Pensions experienced a cyber incident, leading to the temporary shutdown of several services as a precaution.",
+      "tags": [
+        "#news"
+      ],
+      "title": "British government takes services offline following ‘cyber incident’"
+    },
+    {
+      "added_at": 1795796420.8452792,
+      "ai": true,
+      "id": "4ebef484f948ffe8d0a74f8c9b8e1327d9c05512",
+      "link": "https://www.infosecurity-magazine.com/news/jpmorgan-data-breach-third-party/",
+      "published": 1795191300.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "JPMorgan confirmed a customer data breach following a third‑party compromise. Ransomware actor N0n claimed to have leaked data from JPMorgan, Visa, and Mastercard on its dark‑web site.",
+      "tags": [],
+      "title": "JPMorgan Confirms Customer Data Breach Following Third-Party Compromise"
+    },
+    {
+      "added_at": 1795796420.8452792,
+      "ai": true,
+      "id": "8c71d1d140fee16bc4203df942f7b0f6a02d7ee6",
+      "link": "https://www.infosecurity-magazine.com/news/ransomware-recovery-20-days/",
+      "published": 1795184100.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "A Rubrik report shows the median recovery time for ransomware victims is 20 days, with 28% of cases exceeding six weeks.",
+      "tags": [],
+      "title": "Ransomware Recovery Takes 20 Days for the Typical Victim, Report Finds"
+    },
+    {
+      "added_at": 1795796420.8452792,
+      "ai": true,
+      "id": "b4d165a3ec28bc9b05c1a2689e12410cd8bd186c",
+      "link": "https://www.schneier.com/blog/archives/2026/11/opening-a-400-year-old-cryptex.html",
+      "published": 1795176286.0,
+      "source": "Schneier on Security",
+      "summary": "Researchers used CT scanning to recover the code of a 400‑year‑old cryptex padlock, enabling it to be opened. The device is now available for purchase as a USB‑drive cryptex.",
+      "tags": [
+        "#opinion"
+      ],
+      "title": "Opening a 400-Year-Old Cryptex"
+    },
+    {
+      "added_at": 1795796420.8452792,
+      "ai": true,
+      "id": "82d038c6d3891970c3968660dfbd5db07474f964",
+      "link": "https://www.infosecurity-magazine.com/news/mail-bombing-attacks-it-helpdesk/",
+      "published": 1795175700.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "Researchers uncovered a large‑scale campaign where attackers flood inboxes with emails, then impersonate IT helpdesk staff to gain account access.",
+      "tags": [],
+      "title": "Mail Bombing Attacks Fuel IT Helpdesk Impersonation Scams"
+    },
+    {
+      "added_at": 1795796420.8452792,
+      "ai": true,
+      "id": "33a6571603207c4b1180488f5b569ab622bed882",
+      "link": "https://www.theregister.com/security/2026/11/20/windows-11-passkey-bug-cries-failure-after-successful-sign-in/5311263",
+      "published": 1795172984.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "An optional update for Windows 11 addresses a passkey bug that caused a misleading Android error after successful sign‑in on versions 25H2 and 26H2.",
+      "tags": [],
+      "title": "Windows 11 passkey bug cries failure after successful sign-in"
+    },
+    {
+      "added_at": 1795796420.8452792,
+      "ai": true,
+      "id": "d7d1043ff4ae8fc68cad2b02aa66db307bc3c73a",
+      "link": "https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-breaking-zimbra-s-identity-boundaries",
+      "published": 1795170636.0,
+      "source": "Rapid7 Cybersecurity Blog",
+      "summary": "Metasploit added three pull requests to extend coverage for Zimbra identity-boundary vulnerabilities.\nIt introduces a shared mixin for SOAP authentication and identity resolution across modules.",
+      "tags": [
+        "#vulnerability"
+      ],
+      "title": "Metasploit Wrap Up: Breaking Zimbra's Identity Boundaries"
+    },
+    {
+      "added_at": 1795796420.8452792,
+      "ai": true,
+      "id": "10bc282c54eecba43dcbd8f50684053b02e68099",
+      "link": "https://www.infosecurity-magazine.com/news/overlord-rat-solana-blockchain-c2/",
+      "published": 1795165200.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "Cisco Talos identified a RAT that uses the Solana blockchain for command and control, enabling persistence across Windows resets.\nThe threat actor is suspected to be North Korea-aligned.",
+      "tags": [],
+      "title": "Suspected North Korea-Aligned Group Hides C2 on Solana Blockchain"
+    },
+    {
+      "added_at": 1795796420.8452792,
+      "ai": true,
+      "id": "1fe5c6c3b7969d24933f7d046688a6ba935006fd",
+      "link": "https://www.theregister.com/security/2026/11/20/flaws-in-vmware-and-kvm-need-attention-if-you-have-time-while-fixing-java-php-and-everything-else/5311193",
+      "published": 1795136265.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "Critical Virtzilla bugs allow authentication bypass in nested virtualization environments.\nDigital Ocean reported issues, highlighting the need to address VMware and KVM vulnerabilities.",
+      "tags": [],
+      "title": "Flaws in VMware and KVM need attention, if you have time while fixing Java, PHP, and everything else"
+    },
+    {
+      "added_at": 1795796420.8452792,
+      "ai": true,
+      "id": "de81157016f8e4745571120a206c6babaa32ccc6",
+      "link": "https://www.welivesecurity.com/en/internet-of-things/iot-devices-no-longer-supported-smart-home-safe/",
+      "published": 1795075200.0,
+      "source": "WeLiveSecurity",
+      "summary": "End-of-life smart devices pose security risks if unmanaged.\nThe article advises steps to mitigate risk, such as decommissioning or updating devices.",
+      "tags": [],
+      "title": "My IoT devices are no longer supported – is my smart home safe?"
+    },
+    {
+      "added_at": 1795796420.8452792,
+      "ai": true,
+      "id": "a44ba87e2d30880e2e4a9d4e6f17f57fddaca8ec",
+      "link": "https://www.welivesecurity.com/en/scams/who-was-trying-phone-how-one-ring-phone-scams-work/",
+      "published": 1794996000.0,
+      "source": "WeLiveSecurity",
+      "summary": "One-ring phone scams lure victims with a single ring.\nThe piece explains how scammers operate and offers tips to protect against them.",
+      "tags": [],
+      "title": "Who was that trying to phone me just now? How one-ring phone scams work"
+    },
+    {
+      "added_at": 1795796420.8452792,
+      "ai": true,
+      "id": "b955104ed90db8b9dc43fb60016d50787be45659",
+      "link": "https://securelist.com/esxi-ransomware/121959/",
+      "published": 1794560443.0,
+      "source": "Securelist",
+      "summary": "Kaspersky experts analyze ransomware targeting ESXi and vCenter, noting the hypervisor layer's monitoring challenges and common attack paths.\nThey recommend protective measures for ESXi systems.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "Ransomware at the hypervisor layer: how attackers use ESXi and vCenter features for malicious purposes"
     }
   ],
   "posted": []
