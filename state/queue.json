@@ -1,468 +1,6 @@
 {
   "pending": [
     {
-      "added_at": 1795540190.9067404,
-      "ai": true,
-      "id": "5e84d271f3fa49966c9e6dd26f939356f9464b70",
-      "link": "https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/",
-      "published": 1795537976.0,
-      "source": "SecurityWeek",
-      "summary": "VMware released critical patches for ESX and vCenter vulnerabilities. The fixes address an authentication bypass in vCenter and potential code execution on ESX hosts. The update mitigates high‑risk security flaws.",
-      "tags": [],
-      "title": "VMware Updates Patch Critical ESX, vCenter Vulnerabilities"
-    },
-    {
-      "added_at": 1795540190.9067404,
-      "ai": true,
-      "id": "63399c74702aaea244dd70d697b743ec3551a468",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
-      "published": 1795537819.0,
-      "source": "BleepingComputer",
-      "summary": "ShinyHunters extortion group claims to have returned after FBI arrests. They posted on a new data‑leak site and cited old PGP keys as proof. The claim follows a series of arrests targeting alleged members.",
-      "tags": [],
-      "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof"
-    },
-    {
-      "added_at": 1795540190.9067404,
-      "ai": true,
-      "id": "e259976f8ecc978d91fb4b0343811d4ff28f8dc9",
-      "link": "https://www.infosecurity-magazine.com/news/inception-extortion-sso-vishing/",
-      "published": 1795537800.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "New Inception extortion brand linked to an SSO vishing campaign. Okta and ReversingLabs identified the threat targeting employee credentials via social engineering. The campaign exploits single sign‑on vulnerabilities.",
-      "tags": [],
-      "title": "New Inception Extortion Brand Tied to SSO Vishing Campaign"
-    },
-    {
-      "added_at": 1795540190.9067404,
-      "ai": true,
-      "id": "cad292c7e46bbd2df97862b9eeb1a2594d84fd31",
-      "link": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
-      "published": 1795537364.0,
-      "source": "BleepingComputer",
-      "summary": "European Commission confirmed a data theft from its EU Academy online learning hub. Attackers accessed personal data of an undisclosed number of users. The breach highlights the need for stronger security controls.",
-      "tags": [],
-      "title": "European Commission confirms data theft in EU Academy breach"
-    },
-    {
-      "added_at": 1795540190.9067404,
-      "ai": true,
-      "id": "5ba708d91b205e4571eeb0a949a121958dfd98e4",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
-      "published": 1795536923.0,
-      "source": "BleepingComputer",
-      "summary": "Threat actors compromised 22 Check Point Security management servers across multiple organizations. The attack exploited several vulnerabilities to gain unauthorized access. The incident underscores the importance of patching.",
-      "tags": [],
-      "title": "Hackers compromise Check Point Servers in 22 organizations"
-    },
-    {
-      "added_at": 1795540190.9067404,
-      "ai": true,
-      "id": "076062d7e09e35fecf3a32e6905d15e875a3cf81",
-      "link": "https://therecord.media/carnegie-endowment-data-breach",
-      "published": 1795536000.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "Carnegie Endowment for International Peace reported a third‑party breach that leaked donor information. The cyberattack targeted vendor Soapbox Engage, exposing sensitive donor data. The incident emphasizes third‑party risk.",
-      "tags": [
-        "#news"
-      ],
-      "title": "Carnegie Endowment for International Peace says third-party breach leaked donation info"
-    },
-    {
-      "added_at": 1795540190.9067404,
-      "ai": true,
-      "id": "22b8415a8b1f6bf77af19b9741fbb8379023fd5c",
-      "link": "https://www.rapid7.com/blog/post/dr-comparing-mdr-providers-scorecard",
-      "published": 1795535485.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "Choosing a managed detection and response provider requires careful evaluation. Key questions include which systems are monitored, analyst investigation procedures, and response protocols. Clear criteria help avoid costly missteps.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "How to compare MDR providers when every proposal looks promising"
-    },
-    {
-      "added_at": 1795540190.9067404,
-      "ai": true,
-      "id": "1f75de46df5160e777e2f195741b231a6ea715dc",
-      "link": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/",
-      "published": 1795533010.0,
-      "source": "BleepingComputer",
-      "summary": "Law enforcement from 11 countries shut down 57 illegal streaming services that operated hundreds of websites. The operation disrupted over 7.3 million annual visits. The effort demonstrates cross‑border cooperation.",
-      "tags": [],
-      "title": "Police disrupt 57 illegal streaming services with 7.3 million visits"
-    },
-    {
-      "added_at": 1795540190.9067404,
-      "ai": true,
-      "id": "8476cf372163af3b025232428d543909817f736f",
-      "link": "https://therecord.media/cisa-nable-cybersecurity-bug",
-      "published": 1795532400.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "CISA warned of an exploited vulnerability in N‑able's email security platform. Government agencies were urged to patch before Thanksgiving. The bug could compromise email filtering and threat protection.",
-      "tags": [
-        "#news"
-      ],
-      "title": "CISA warns of exploited N-able bug as company restores email platform"
-    },
-    {
-      "added_at": 1795540190.9067404,
-      "ai": true,
-      "id": "230a967c24e64f71daf79e36c405cc5570c21821",
-      "link": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
-      "published": 1795529377.0,
-      "source": "BleepingComputer",
-      "summary": "McDonald's Japan disclosed a data breach affecting its official smartphone app database. Attackers accessed customer location and other sensitive information. The incident highlights the importance of mobile app security.",
-      "tags": [],
-      "title": "McDonald's Japan data breach exposes customer location information"
-    },
-    {
-      "added_at": 1795540190.9067404,
-      "ai": true,
-      "id": "78138acb2d0a197597029e9d6ed8539b632f1133",
-      "link": "https://www.helpnetsecurity.com/2026/11/24/gta-vi-hacker-sentenced-seven-years-released-on-licence/",
-      "published": 1795527337.0,
-      "source": "Help Net Security",
-      "summary": "Arion Kurtaj, 21, was sentenced to seven years in prison for leaking Grand Theft Auto VI footage and was released on licence the same day.",
-      "tags": [],
-      "title": "GTA 6 hacker sentenced to seven years and released the same day"
-    },
-    {
-      "added_at": 1795540190.9067404,
-      "ai": true,
-      "id": "db22ce6bdf49656950527d4254c30edae4d04ece",
-      "link": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
-      "published": 1795526906.0,
-      "source": "The Hacker News",
-      "summary": "Broadcom released patches for 23 vulnerabilities in VMware products, including CVE‑2026‑123903, a 9.8‑rated flaw that allows authentication bypass in the Directory Service.",
-      "tags": [],
-      "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation"
-    },
-    {
-      "added_at": 1795540190.9067404,
-      "ai": true,
-      "id": "0c4445d4ccaf59f77a9be461fff29837ae0b377f",
-      "link": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html",
-      "published": 1795526901.0,
-      "source": "The Hacker News",
-      "summary": "Okta identified threat cluster O‑UNC‑053, linked to the ShinyHunters crew, now operating under the name INCEPTION and using vishing to harvest credentials.",
-      "tags": [],
-      "title": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site"
-    },
-    {
-      "added_at": 1795540190.9067404,
-      "ai": true,
-      "id": "8c5b93afc1b1388bb1dd43e76b2d3031636a754c",
-      "link": "https://www.rapid7.com/blog/post/ra-rapid7-analysis-vmware-vcenter-srp-authentication-bypass-to-root-cve-2026-123890",
-      "published": 1795525285.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "CVE‑2026‑123890 enables an unauthenticated attacker to capture an SRP session key during an admin login and complete the login without a password via DCE/RPC on port 2012.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "Rapid7 Analysis: VMware vCenter SRP Authentication Bypass to Root (CVE-2026-123890)"
-    },
-    {
-      "added_at": 1795540190.9067404,
-      "ai": true,
-      "id": "17faeada10e472c5363315e8b3b4212858bf95e8",
-      "link": "https://therecord.media/japan-mcdonalds-cyberattack-breach",
-      "published": 1795525200.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "McDonald’s Japan disclosed a breach that exposed customers’ purchase histories and mobile device location data.",
-      "tags": [
-        "#news"
-      ],
-      "title": "McDonald’s Japan discloses breach exposing customer purchase and location data"
-    },
-    {
-      "added_at": 1795540190.9067404,
-      "ai": true,
-      "id": "887479947b9c5d543f731e13caf37bc079b378a2",
-      "link": "https://www.helpnetsecurity.com/2026/11/24/shinyhunters-inception-leak-site-okta/",
-      "published": 1795524427.0,
-      "source": "Help Net Security",
-      "summary": "Okta reports that the ShinyHunters crew has moved to a new leak site called Inception, continuing social engineering and credential harvesting since March 2026.",
-      "tags": [],
-      "title": "ShinyHunters-linked crew resurfaces on new leak site"
-    },
-    {
-      "added_at": 1795540190.9067404,
-      "ai": true,
-      "id": "6085ef54790f43b5cab5a8b2e235fd0f61601b99",
-      "link": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
-      "published": 1795524129.0,
-      "source": "The Hacker News",
-      "summary": "Hackers bypassed GitHub Actions SHA pinning by inserting malicious code into Trivy, masquerading as the official GitHub checkout tool.",
-      "tags": [],
-      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap"
-    },
-    {
-      "added_at": 1795540190.9067404,
-      "ai": true,
-      "id": "ba152944e2e86ab6adee858d1e2b520515340b85",
-      "link": "https://www.theregister.com/security/2026/11/24/crowdstrike-splashes-44b-on-zscaler-customers-brace-for-the-bill/5311877",
-      "published": 1795522937.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "CrowdStrike announced a $44 billion investment in Zscaler, raising concerns about higher costs and potential vendor lock‑in for customers.",
-      "tags": [],
-      "title": "CrowdStrike splashes $44B on Zscaler, customers brace for the bill"
-    },
-    {
-      "added_at": 1795540190.9067404,
-      "ai": true,
-      "id": "bb2efaa9d0e695bb8f95902cc413ccd3aa8f394b",
-      "link": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html",
-      "published": 1795521720.0,
-      "source": "The Hacker News",
-      "summary": "Project Zero researcher James Forshaw showed that a single bit change in a .NET file can bypass Windows code integrity and Oracle VirtualBox hardening, tracked as CVE‑2026‑87268.",
-      "tags": [],
-      "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity"
-    },
-    {
-      "added_at": 1795540190.9067404,
-      "ai": true,
-      "id": "bb2aa84be5114ecb3ed5f09ee0e8bdd4ea0deabf",
-      "link": "https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html",
-      "published": 1795521714.0,
-      "source": "The Hacker News",
-      "summary": "ANY.RUN estimates that SOC teams could recover 450 analyst hours per 1,000 alerts by speeding threat analysis and IOC research, offering a cost‑saving opportunity.",
-      "tags": [],
-      "title": "2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk"
-    },
-    {
-      "added_at": 1795540190.9067404,
-      "ai": true,
-      "id": "91d4c3b285f96e6e955457abdea109d559c7c882",
-      "link": "https://www.infosecurity-magazine.com/news/openai-cisco-shirudo-linux-shields/",
-      "published": 1795521600.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "OpenAI and Cisco released Shirudo, an open‑source tool that blocks exploitation of known vulnerabilities on live Linux systems. It allows administrators to buy time for patching without restarting the system.",
-      "tags": [],
-      "title": "OpenAI and Cisco Release Open-Source Tool to Shield Unpatched Linux Systems"
-    },
-    {
-      "added_at": 1795540190.9067404,
-      "ai": true,
-      "id": "f3a43b39549fdc890f58780435f86226ee6a8123",
-      "link": "https://www.securityweek.com/1-5-million-impacted-by-data-breach-at-south-korean-electric-company-kepco/",
-      "published": 1795521021.0,
-      "source": "SecurityWeek",
-      "summary": "Hackers accessed KEPCO’s customer portal and supplier management platform, compromising personal data of approximately 1.5 million individuals. The breach was reported by SecurityWeek.",
-      "tags": [],
-      "title": "1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO"
-    },
-    {
-      "added_at": 1795540190.9067404,
-      "ai": true,
-      "id": "a36fd360c1b8f304b3c41c2470ad8201e9e2b2ad",
-      "link": "https://cyberscoop.com/ot-security-post-quantum-cryptography-op-ed/",
-      "published": 1795518000.0,
-      "source": "CyberScoop",
-      "summary": "The article argues that post‑quantum cryptography should be added to the roadmap, but current operational technology faces more immediate, basic threats that require urgent action.",
-      "tags": [],
-      "title": "Tomorrow’s quantum threat is today’s open door"
-    },
-    {
-      "added_at": 1795540190.9067404,
-      "ai": true,
-      "id": "9436fc5b47f7d00e3629429972de56976500188d",
-      "link": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html",
-      "published": 1795517089.0,
-      "source": "The Hacker News",
-      "summary": "Microsoft patched a vulnerability in Azure API Management that could expose access tokens and secrets. An unknown actor targeted customers in Norway, including energy firms, seeking these credentials.",
-      "tags": [],
-      "title": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets"
-    },
-    {
-      "added_at": 1795540190.9067404,
-      "ai": true,
-      "id": "15b8b568346dad030da152c60dcaa2bebed3306f",
-      "link": "https://www.securityweek.com/elecbrakes-bluetooth-vulnerabilities-expose-trailers-to-forced-braking/",
-      "published": 1795517084.0,
-      "source": "SecurityWeek",
-      "summary": "Critical Bluetooth flaws in Elecbrakes trailer controllers could allow nearby attackers to trigger forced braking. This vulnerability could lead to accidents on the road.",
-      "tags": [],
-      "title": "Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking"
-    },
-    {
-      "added_at": 1795540190.9067404,
-      "ai": true,
-      "id": "20534b25c7da6bc55a73440321d3a5ccd33d1a89",
-      "link": "https://www.securityweek.com/peninsula-energy-halts-trading-after-cyber-incident-hits-us-uranium-mine/",
-      "published": 1795516504.0,
-      "source": "SecurityWeek",
-      "summary": "Peninsula Energy halted trading after a cyber incident at its Wyoming uranium project temporarily disrupted operations. The company notified the ASX of the incident.",
-      "tags": [],
-      "title": "Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine"
-    },
-    {
-      "added_at": 1795540190.9067404,
-      "ai": true,
-      "id": "0dfc97470a3901266a5f61fc4fbed8466e1f75a6",
-      "link": "https://www.infosecurity-magazine.com/news/la-liga-says-football-fans/",
-      "published": 1795516200.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "LaLiga disclosed a breach that exposed personally identifiable information of its football fans. The incident was reported by the league.",
-      "tags": [],
-      "title": "LaLiga Says Football Fans’ Personal Data Stolen"
-    },
-    {
-      "added_at": 1795540190.9067404,
-      "ai": true,
-      "id": "8f5a5362457494095213087e855145d0abec2113",
-      "link": "https://www.helpnetsecurity.com/2026/11/24/globetopper-breach-gift-cards/",
-      "published": 1795512813.0,
-      "source": "Help Net Security",
-      "summary": "Hackers breached GlobeTopper, stole API credentials, and redeemed about $70,000 in gift cards without authorization. The company estimates up to $2.5 million in lost revenue.",
-      "tags": [],
-      "title": "GlobeTopper faces up to $2.5 million in lost revenue after hackers steal $70,000 in gift cards"
-    },
-    {
-      "added_at": 1795540190.9067404,
-      "ai": true,
-      "id": "06ddd1a6880766e052b16531196a8ed2630d9367",
-      "link": "https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html",
-      "published": 1795509260.0,
-      "source": "The Hacker News",
-      "summary": "A SQL injection flaw in WHMCS’s shopping cart allows unauthenticated users to retrieve customer records and administrator password hashes from the database. The issue was disclosed by the vendor.",
-      "tags": [],
-      "title": "WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login"
-    },
-    {
-      "added_at": 1795540190.9067404,
-      "ai": true,
-      "id": "e3ea5f473094b75fb9d1531d2b5bde03f868f385",
-      "link": "https://www.theregister.com/security/2026/11/24/orgs-that-leak-data-prioritize-corporate-interests-over-customers-says-have-i-been-pwneds-troy-hunt/5311802",
-      "published": 1795497231.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "Troy Hunt notes that organizations leaking data often prioritize corporate interests over customers. He describes a pattern of denial, bargaining, delay, legal threats, and blaming Hunt.",
-      "tags": [],
-      "title": "Orgs that leak data 'prioritize corporate interests over customers' says Have I Been Pwned’s Troy Hunt"
-    },
-    {
-      "added_at": 1795540190.9067404,
-      "ai": true,
-      "id": "670f8cdb3eabf4e5ad0f0e3f5871ef8d92db4a17",
-      "link": "https://therecord.media/laliga-hacked-spain-top-professional-league-confirms-cyber-incident",
-      "published": 1795478400.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "Spain’s LaLiga confirmed a cyberattack that stole personal data from fans. The breach impacted the league’s digital services and those of several Spanish clubs.",
-      "tags": [
-        "#news"
-      ],
-      "title": "LaLiga hacked: Spain’s top football league confirms theft of fans’ personal data"
-    },
-    {
-      "added_at": 1795540190.9067404,
-      "ai": true,
-      "id": "6a8d2c265ff4bf8f5964e105bf89d698f9c61dcd",
-      "link": "https://www.infosecurity-magazine.com/news/microsoft-phishing-service-outage/",
-      "published": 1794920400.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "Microsoft warned of a coordinated phishing campaign linked to a Microsoft 365 service outage. The company urged organizations to investigate potential credential compromise.",
-      "tags": [],
-      "title": "Microsoft Warns of Coordinated Phishing Campaign Leveraging M365 Service Outage"
-    },
-    {
-      "added_at": 1795540190.9067404,
-      "ai": true,
-      "id": "b262cf1dbe350426e16ec5419d674cf106e84e69",
-      "link": "https://www.infosecurity-magazine.com/news/ico-gta-6-scam-warning-release/",
-      "published": 1794910500.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "The UK Information Commissioner’s Office issued a warning about scams tied to Grand Theft Auto 6 as the game’s release date approaches.",
-      "tags": [],
-      "title": "ICO Issues GTA 6 Scam Warning as Release Date Nears"
-    },
-    {
-      "added_at": 1795540190.9067404,
-      "ai": true,
-      "id": "3b94bca926af7e1bc6835ec9e8c0a9467d991fd3",
-      "link": "https://www.infosecurity-magazine.com/news/fully-autonomous-agentic-attacks/",
-      "published": 1794907800.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "Google’s Threat Intelligence Group announced that fully autonomous agentic attacks will be available in three months, signaling a shift in penetration testing frameworks.",
-      "tags": [],
-      "title": "Fully Autonomous Agentic Attacks Are Three Months Away, Google Warns"
-    },
-    {
-      "added_at": 1795540190.9067404,
-      "ai": true,
-      "id": "e8de38078ddac041c61979b754dfec11863c2679",
-      "link": "https://securelist.com/operation-shadowcloud-graphdoor/122005/",
-      "published": 1794902443.0,
-      "source": "Securelist",
-      "summary": "Part 2 of the Operation ShadowCloud analysis details the GraphDoor backdoor, additional plug‑ins, and technical attribution targeting government networks in Asia and Africa.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Operation ShadowCloud: cloud service–based backdoors targeting government networks in Asia and Africa. Part 2"
-    },
-    {
-      "added_at": 1795540190.9067404,
-      "ai": true,
-      "id": "319b78cde3f8d11c58c7ac0c67f90ae1007eebbd",
-      "link": "https://securelist.com/operation-shadowcloud-gitdoor/122004/",
-      "published": 1794902437.0,
-      "source": "Securelist",
-      "summary": "Part 1 of the Operation ShadowCloud analysis covers the initial infection stage, the GitDoor backdoor that uses GitHub as a command‑and‑control channel, and the shellcode families it loads.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Operation ShadowCloud: cloud service–based backdoors targeting government networks in Asia and Africa. Part 1"
-    },
-    {
-      "added_at": 1795540190.9067404,
-      "ai": true,
-      "id": "69b76f0fd14e4423c5d8a715d15cf6799e5bd408",
-      "link": "https://www.darkreading.com/cyber-risk/nist-finalizes-post-quantum-cryptography-guidance-gao-offers-a-reality-check",
-      "published": 1794838935.0,
-      "source": "darkreading",
-      "summary": "NIST finalized guidance on post‑quantum cryptography, while a GAO report highlighted that many agencies are behind in building defenses against quantum threats.",
-      "tags": [],
-      "title": "NIST Finalizes Post-Quantum Cryptography Guidance, GAO Offers a Reality Check"
-    },
-    {
-      "added_at": 1795540190.9067404,
-      "ai": true,
-      "id": "3b1ebac31945534a7879bf8c7b7b488525904280",
-      "link": "https://www.welivesecurity.com/en/privacy/is-it-safe-upload-passport-id-online/",
-      "published": 1794822900.0,
-      "source": "WeLiveSecurity",
-      "summary": "An article explains how to safely upload passports or ID online, offering practical steps to reduce the risk of identity theft.",
-      "tags": [],
-      "title": "Is it safe to upload my passport or ID online?"
-    },
-    {
-      "added_at": 1795540190.9067404,
-      "ai": true,
-      "id": "5be74e81c9deda692484950adaa58bb77f2f8335",
-      "link": "https://www.rapid7.com/blog/post/five-signs-your-mdr-is-all-alert-no-action",
-      "published": 1794319471.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "A piece on managed detection and response (MDR) services points out that many providers generate alerts without actionable follow‑up, reducing their effectiveness.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "Five Signs Your MDR is All Alert, No Action"
-    },
-    {
-      "added_at": 1795540190.9067404,
-      "ai": true,
-      "id": "cfebabe2a4b92843c8de50eb8460b515b22f7d57",
-      "link": "https://portswigger.net/blog/http-1-1-must-die-dafydd-stuttard-on-what-this-means-for-enterprise-security",
-      "published": 1760018800.0,
-      "source": "PortSwigger Blog",
-      "summary": "Dafydd Stuttard discusses the obsolescence of HTTP/1.1, presenting new desynchronization techniques that demonstrate the protocol’s vulnerabilities and the need for enterprise security updates.",
-      "tags": [
-        "#appsec"
-      ],
-      "title": "HTTP/1.1 must die: Dafydd Stuttard on what this means for enterprise security"
-    },
-    {
       "added_at": 1795571971.5700004,
       "ai": true,
       "id": "5a7ed17eceba38beb8b2ee9fd2dd3a78a73d3a2b",
@@ -2239,6 +1777,215 @@
         "#research"
       ],
       "title": "Bypassing WAFs with the phantom $Version cookie"
+    },
+    {
+      "added_at": 1795743245.3059223,
+      "ai": true,
+      "id": "24f736113b681609c62f22ebfc8fb226cf623fbb",
+      "link": "https://www.theregister.com/security/2026/11/27/free-e-government-platform-that-serves-two-billion-people-in-ten-countries-has-critical-sql-injection-bug/5312449",
+      "published": 1795742371.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "Free e-government platform serving two billion people in ten countries has a critical SQL injection vulnerability that could leak data. The vulnerability is in India's Digital Infrastructure for Governance Impact and Transformation tool.",
+      "tags": [],
+      "title": "Free e-government platform that serves two billion people in ten countries has critical SQL injection bug"
+    },
+    {
+      "added_at": 1795743245.3059223,
+      "ai": true,
+      "id": "e0bf93ab8a32087afa156c6cdfd87b0d8fd76081",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
+      "published": 1795727182.0,
+      "source": "BleepingComputer",
+      "summary": "OpenAI has fixed a bug that incorrectly discounted GPT-6.2 usage, causing users to hit usage limits 40% faster. The change was announced to improve accuracy of usage tracking.",
+      "tags": [],
+      "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug"
+    },
+    {
+      "added_at": 1795743245.3059223,
+      "ai": true,
+      "id": "1c0fdc3979bbc9ce51dece15fa93e252bb7aad91",
+      "link": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/",
+      "published": 1795715922.0,
+      "source": "BleepingComputer",
+      "summary": "NordVPN is offering a 78% discount on VPN plans for 2026 Black Friday and Cyber Monday, plus three extra months of protection. The promotion is available for new and existing subscribers.",
+      "tags": [],
+      "title": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026"
+    },
+    {
+      "added_at": 1795743245.3059223,
+      "ai": true,
+      "id": "42756c94ced72ba9d16f5d252dd70a363d595982",
+      "link": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/",
+      "published": 1795713327.0,
+      "source": "BleepingComputer",
+      "summary": "A phishing campaign called GoodGuys impersonates major brands to steal Google and Okta credentials via fake paid expert interview invitations. Targets include Google, Nvidia, Accenture, and SpaceX.",
+      "tags": [],
+      "title": "Fake paid expert interviews impersonate brands to steal Google logins"
+    },
+    {
+      "added_at": 1795743245.3059223,
+      "ai": true,
+      "id": "8399c78e0a5412620c1efad39b556856389d2f13",
+      "link": "https://www.securityweek.com/fifa-says-it-has-been-victim-of-a-cyberattack-accessing-personal-and-business-information/",
+      "published": 1795712815.0,
+      "source": "SecurityWeek",
+      "summary": "FIFA confirmed it was a victim of a cyberattack that accessed personal and business information, though details remain undisclosed. The organization has not specified the timing or scope of the breach.",
+      "tags": [],
+      "title": "FIFA Says It Has Been Victim of a Cyberattack Accessing ‘Personal and Business Information’"
+    },
+    {
+      "added_at": 1795743245.3059223,
+      "ai": true,
+      "id": "9b9f66e814c29bdd06a36e3490c2be2083349707",
+      "link": "https://www.theregister.com/security/2026/11/20/germ-network-infects-android-but-in-a-good-way/5311186",
+      "published": 1795133195.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "Bluesky's Germ Network app allows multiple encrypted identities without requiring a phone number. The feature is marketed as a privacy-focused messaging solution.",
+      "tags": [],
+      "title": "Germ Network infects Android, but in a good way"
+    },
+    {
+      "added_at": 1795743245.3059223,
+      "ai": true,
+      "id": "07547d58b9a1af12e16f067cbaafb344e2c2a20e",
+      "link": "https://www.theregister.com/security/2026/11/19/chase-visa-mastercard-confirm-third-party-cyberattacks-that-may-have-exposed-customers-info/5311175",
+      "published": 1795122753.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "Chase, Visa, and Mastercard acknowledged third‑party cyberattacks that may have exposed customer data. The incidents followed earlier service outages.",
+      "tags": [],
+      "title": "Chase, Visa, Mastercard confirm third-party cyberattacks that may have exposed customers' info"
+    },
+    {
+      "added_at": 1795743245.3059223,
+      "ai": true,
+      "id": "150f8fb5544609cd323c005a2f2dd8698ea5faaa",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached",
+      "published": 1795119255.0,
+      "source": "darkreading",
+      "summary": "A second Norwegian energy company was breached within two days, with no link established between the incidents. Both breaches share similar characteristics.",
+      "tags": [],
+      "title": "Second Norwegian Energy Company Breached in 2 Days"
+    },
+    {
+      "added_at": 1795743245.3059223,
+      "ai": true,
+      "id": "7cf301393d67c6299da148c7953c6601b3ddcc6d",
+      "link": "https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell",
+      "published": 1795118251.0,
+      "source": "darkreading",
+      "summary": "Seven critical PHP flaws were patched in November's security release, but exploitability varies by configuration. Organizations should review settings to mitigate risk.",
+      "tags": [],
+      "title": "Critical PHP Flaws Allow Code Execution, but Don't Panic 'PHP2Shell'-Style"
+    },
+    {
+      "added_at": 1795743245.3059223,
+      "ai": true,
+      "id": "d0c7e186c7e0b5aa7b63bcec5d5c2c89703a01c5",
+      "link": "https://blog.talosintelligence.com/the-internet-needs-a-nap-and-you-do-too/",
+      "published": 1795114800.0,
+      "source": "Cisco Talos Blog",
+      "summary": "Bill discusses the need for environmental awareness and team stability over reactive patching, suggesting a pause in constant news cycles. The article encourages prioritizing long-term resilience.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "The internet needs a nap (and you do, too)"
+    },
+    {
+      "added_at": 1795743245.3059223,
+      "ai": true,
+      "id": "2269ea7d3413edeec97499cf3a5a88841237acdc",
+      "link": "https://www.theregister.com/security/2026/11/19/nvidia-adds-possible-hack-to-list-of-very-bad-things-under-investigation/5311153",
+      "published": 1795114373.0,
+      "source": "www.theregister.com - Articles",
+      "summary": "Ransomware group threatens Nvidia with data leak unless payment is made; Nvidia is investigating a possible hack linked to the threat.",
+      "tags": [],
+      "title": "Nvidia adds possible hack to list of very bad things under investigation"
+    },
+    {
+      "added_at": 1795743245.3059223,
+      "ai": true,
+      "id": "d408505cc55d4fae6ac09f1518ac12113c67606a",
+      "link": "https://www.fortra.com/blog/cold-relic-what-you-need-know",
+      "published": 1795108229.0,
+      "source": "GRAHAM CLULEY",
+      "summary": "Russian espionage group Cold Relic (formerly COLDRIVER) infiltrates organizations by posing as trusted contacts.",
+      "tags": [],
+      "title": "Cold Relic: What you need to know"
+    },
+    {
+      "added_at": 1795743245.3059223,
+      "ai": true,
+      "id": "235c84100afc4ae3b9ccd89a91578144757e0f11",
+      "link": "https://www.infosecurity-magazine.com/news/ups-software-abused-domain/",
+      "published": 1795102200.0,
+      "source": "infosecurity-magazine.com",
+      "summary": "CyberPower UPS software was used by attackers to execute malicious scripts on a domain controller.",
+      "tags": [],
+      "title": "CyberPower PowerPanel Exploited to Run Malicious Code on Domain Controller"
+    },
+    {
+      "added_at": 1795743245.3059223,
+      "ai": true,
+      "id": "3938612a0f4f8bb2be3420e76bc375975b20af17",
+      "link": "https://www.rapid7.com/blog/post/tr-spying-on-governments-no-malware-custom-webworms-toolkit-softether-bridge",
+      "published": 1795100734.0,
+      "source": "Rapid7 Cybersecurity Blog",
+      "summary": "APT Webworm deploys open-source SoftEther VPN to maintain covert, long-term access to compromised government networks.",
+      "tags": [
+        "#vulnerability"
+      ],
+      "title": "Spying on Governments with Zero Lines of Malware: A Custom SoftEther Bridge in Webworm’s Toolkit"
+    },
+    {
+      "added_at": 1795743245.3059223,
+      "ai": true,
+      "id": "4b0b066cf2183599c19dbe010231e0d77ef3f9f0",
+      "link": "https://blog.talosintelligence.com/never-be-afraid-to-ask-questions/",
+      "published": 1794510000.0,
+      "source": "Cisco Talos Blog",
+      "summary": "Amy reflects on how asking questions in a college anthropology course bridged cultural gaps.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "Never be afraid to ask questions"
+    },
+    {
+      "added_at": 1795743245.3059223,
+      "ai": true,
+      "id": "b6cd1d92c2adabec4272eca987e16b3ad7120051",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/whitearmor-gang-cyberattack-maersk",
+      "published": 1794496349.0,
+      "source": "GRAHAM CLULEY",
+      "summary": "WhiteArmor gang claims responsibility for a data breach that compromised Maersk's systems.",
+      "tags": [],
+      "title": "WhiteArmor gang claims responsibility for latest cyber attack on shipping giant Maersk"
+    },
+    {
+      "added_at": 1795743245.3059223,
+      "ai": true,
+      "id": "efdcd7b00458ccae9869c510fb70f87668ec3948",
+      "link": "https://securelist.com/how-a-cloud-pentest-works/121921/",
+      "published": 1794488453.0,
+      "source": "Securelist",
+      "summary": "First article in a series on cloud penetration testing covering external, overlay, and underlay layers, common architectures, attack chains, and incidents.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "Transcending the trust boundaries: how a cloud pentest works"
+    },
+    {
+      "added_at": 1795743245.3059223,
+      "ai": true,
+      "id": "8cdc4a0f74c83bb256d98b7cb3f31c2e65c9d9c3",
+      "link": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
+      "published": 1794420361.0,
+      "source": "Krebs on Security",
+      "summary": "Investigations point to a 36‑year‑old man in St. Petersburg as the administrator of Qilin, a prolific ransomware affiliate program.",
+      "tags": [],
+      "title": "Who Runs the Ransomware Group Qilin?"
     }
   ],
   "posted": []
