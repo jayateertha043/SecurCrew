@@ -1,492 +1,6 @@
 {
   "pending": [
     {
-      "added_at": 1795657221.0790966,
-      "ai": true,
-      "id": "3b5d7b12b89d1b4ddf830f8f65063f467e783899",
-      "link": "https://grahamcluley.com/smashing-security-podcast-494/",
-      "published": 1795651812.0,
-      "source": "GRAHAM CLULEY",
-      "summary": "Podcast discusses a Russian spy recruited via Telegram for $15,000 to surveil Palantir, using a cover story of asking a woman out. It also examines a think tank with 300 experts, including Henry Kissinger, and its audience.",
-      "tags": [],
-      "title": "Smashing Security podcast #494: The Russian accused of spying on Palantir from Starbucks"
-    },
-    {
-      "added_at": 1795657221.0790966,
-      "ai": true,
-      "id": "50a53afadcff1570e97a2013a4ab46cdb75c8e31",
-      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
-      "published": 1795644309.0,
-      "source": "BleepingComputer",
-      "summary": "Threat actors chain PHP2Shell and Fragnesia exploits to target Palo Alto Networks devices with internet‑exposed management interfaces. Palo Alto warns of ongoing attacks.",
-      "tags": [],
-      "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks"
-    },
-    {
-      "added_at": 1795657221.0790966,
-      "ai": true,
-      "id": "70f66acc3de798b1e8aebeffe425a3fdc3d9e77e",
-      "link": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
-      "published": 1795642413.0,
-      "source": "BleepingComputer",
-      "summary": "1Password disclosed a breach after an employee’s GitHub account was hacked and used to deploy malicious code to backend services, resulting in customer data theft.",
-      "tags": [],
-      "title": "1Password customer data stolen after employee GitHub account breach"
-    },
-    {
-      "added_at": 1795657221.0790966,
-      "ai": true,
-      "id": "dbfa2402c895a28e92f60af81923a189c1129e3c",
-      "link": "https://therecord.media/fifa-data-breach-limited",
-      "published": 1795639200.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "FIFA reports that hackers accessed a limited set of personal and business information. The organization is working with authorities to investigate the breach.",
-      "tags": [
-        "#news"
-      ],
-      "title": "FIFA says hackers accessed ‘limited set of personal and business information’"
-    },
-    {
-      "added_at": 1795657221.0790966,
-      "ai": true,
-      "id": "9398c1750b17f9c48394c3577673a74745c22807",
-      "link": "https://www.theregister.com/security/2026/11/25/the-security-of-us-water-systems-is-even-leakier-than-we-thought/5312243",
-      "published": 1795635617.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "A study shows U.S. water systems are more vulnerable than previously thought, with attackers able to breach systems without exploiting software bugs.",
-      "tags": [],
-      "title": "The security of US water systems is even leakier than we thought"
-    },
-    {
-      "added_at": 1795657221.0790966,
-      "ai": true,
-      "id": "50b8b790f8a4be80b8196e829902ea3da2cc216a",
-      "link": "https://blog.talosintelligence.com/oh-is-it-thanksgiving-i-hadnt-noticed/",
-      "published": 1795633200.0,
-      "source": "Cisco Talos Blog",
-      "summary": "Author thanks the cybersecurity community for their support and offers remarks on threat actors, noting the timing of the Thanksgiving holiday.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Oh, is it Thanksgiving? I hadn’t noticed!"
-    },
-    {
-      "added_at": 1795657221.0790966,
-      "ai": true,
-      "id": "1c7c6dd2f39fa172476a890f3c7ab98cdf630386",
-      "link": "https://www.rapid7.com/blog/post/so-rapid7-named-leader-2026-gartner-magic-quadrant-integrated-security-operations-center-systems-isocs",
-      "published": 1795631683.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "Rapid7 has been named a Leader in the 2026 Gartner Magic Quadrant for Integrated SOC Systems, recognized for its completeness of vision and execution.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "Rapid7 Named a Leader in the 2026 Gartner® Magic Quadrant™ for Integrated Security Operations Center Systems"
-    },
-    {
-      "added_at": 1795657221.0790966,
-      "ai": true,
-      "id": "4fcf01c31362b2a5aeace6c0feb06a6ea52e3571",
-      "link": "https://therecord.media/ransomware-doj-indictment-recovery",
-      "published": 1795627800.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "The CEO of a ransomware recovery firm was indicted for lying about services and for paying ransoms to cybercriminals.",
-      "tags": [
-        "#news"
-      ],
-      "title": "Florida ransomware recovery CEO indicted for allegedly paying hacker ransoms"
-    },
-    {
-      "added_at": 1795657221.0790966,
-      "ai": true,
-      "id": "b93540ef2a5b4c4cdc073858bb9e89669e5792a0",
-      "link": "https://therecord.media/australia-passes-online-safety-legislation-preempt-harms",
-      "published": 1795626420.0,
-      "source": "The Record from Recorded Future News",
-      "summary": "Australia’s Digital Duty of Care Act requires large tech companies to establish protocols that protect users from violence, rape, and other significant harms.",
-      "tags": [
-        "#news"
-      ],
-      "title": "Australia passes tough legislation requiring big tech to preempt foreseeable harms"
-    },
-    {
-      "added_at": 1795657221.0790966,
-      "ai": true,
-      "id": "243e0059920153212f33b0562bc47ef3288b7a49",
-      "link": "https://www.theregister.com/security/2026/11/25/microsofts-ntlm-security-changes-trip-up-third-party-logins/5312085",
-      "published": 1795626060.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "Microsoft’s recent NTLM security changes have caused compatibility issues for third‑party login implementations.",
-      "tags": [],
-      "title": "Microsoft's NTLM security changes trip up third-party logins"
-    },
-    {
-      "added_at": 1795657221.0790966,
-      "ai": true,
-      "id": "7a5ea8907df3325df2b736973863d8715fe200c3",
-      "link": "https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html",
-      "published": 1795588626.0,
-      "source": "The Hacker News",
-      "summary": "Palo Alto Networks Unit 42 reports ongoing vishing attacks by Com‑affiliated threat actors since August 2026.\nTargets include financial, healthcare, legal, and construction sectors in the U.S., U.K., and Australia.\nAttacks have resulted in data theft and extortion attempts.",
-      "tags": [],
-      "title": "Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion"
-    },
-    {
-      "added_at": 1795657221.0790966,
-      "ai": true,
-      "id": "acb83eb85e45fecb8e569ccca6f1d4021cc65123",
-      "link": "https://www.helpnetsecurity.com/2026/11/25/vulncheck-credential-harvesting-exploitat-records/",
-      "published": 1795588247.0,
-      "source": "Help Net Security",
-      "summary": "Credential harvesting accounted for 13% of all vulnerability exploitation from Jan‑Nov 2026, rising from 1% in January to 25‑35% in September‑October.\n694 CVEs were exploited, with 127 (18%) used for database attacks.",
-      "tags": [],
-      "title": "Credential harvesting goes from fringe activity to major exploitation trend"
-    },
-    {
-      "added_at": 1795657221.0790966,
-      "ai": true,
-      "id": "d52512d72b3d3b7a077f5d8c7317f602c5f4e0aa",
-      "link": "https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html",
-      "published": 1795587672.0,
-      "source": "The Hacker News",
-      "summary": "WordPress removed six WP Connect plugins after backdooring on Nov 22, 2026, which allowed arbitrary code execution on sites with the plugins.\nThe removal prevented the malicious releases from going live.",
-      "tags": [],
-      "title": "WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live"
-    },
-    {
-      "added_at": 1795657221.0790966,
-      "ai": true,
-      "id": "033d307e115d45d4e9773992813f2e65dc5ace19",
-      "link": "https://www.helpnetsecurity.com/2026/11/25/isc2-systems-security-certified-practitioner-sscp-certification/",
-      "published": 1795584630.0,
-      "source": "Help Net Security",
-      "summary": "The article discusses the importance of both cybersecurity knowledge and operational readiness.\nIt emphasizes that professionals must move beyond theoretical foundations to demonstrate practical execution in high‑stakes scenarios.",
-      "tags": [],
-      "title": "Security+ builds the foundation. SSCP proves you can execute"
-    },
-    {
-      "added_at": 1795657221.0790966,
-      "ai": true,
-      "id": "5ac4f0994107ce752d7d7622d374ef1e4dec64cc",
-      "link": "https://www.theregister.com/virtualization/2026/11/25/this-could-mess-with-thanksgiving-says-vmware-as-it-drops-third-critical-patch-bundle-in-a-week/5312017",
-      "published": 1795583708.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "VMware released a third critical patch bundle in a week, addressing four new critical vulnerabilities, including an unauthorized access flaw in vCenter.\nThe updates aim to mitigate risks that could disrupt services during the holiday period.",
-      "tags": [],
-      "title": "This could mess with Thanksgiving, says VMware as it drops third critical patch bundle in a week"
-    },
-    {
-      "added_at": 1795657221.0790966,
-      "ai": true,
-      "id": "0b94ce10b8ce9ccb21b39efe71d9f5262553bab1",
-      "link": "https://www.helpnetsecurity.com/2026/11/25/mcafee-holiday-shopping-scams-report/",
-      "published": 1795582800.0,
-      "source": "Help Net Security",
-      "summary": "McAfee research shows holiday shopping scam victimization rose from 22% in 2025 to 42% in 2026.\nConfidence in detecting scams fell, and many Americans report financial losses that force them to cut back on essentials.",
-      "tags": [],
-      "title": "Holiday scam losses force some victims to cut back on essentials"
-    },
-    {
-      "added_at": 1795657221.0790966,
-      "ai": true,
-      "id": "84415312a0a78762e9cb6c8117b1ef800987351b",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another",
-      "published": 1795039186.0,
-      "source": "darkreading",
-      "summary": "The state‑sponsored group Cold Relic uses data stolen from one cloud victim to target additional organizations through convincing impersonation and social engineering attacks.",
-      "tags": [],
-      "title": "Russia's Cold Relic APT Turns One Cloud Breach Into Another"
-    },
-    {
-      "added_at": 1795657221.0790966,
-      "ai": true,
-      "id": "27e5f548c7a1914c936edd9d899ec1b83a05191d",
-      "link": "https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups",
-      "published": 1795034322.0,
-      "source": "darkreading",
-      "summary": "AttackIQ research examined 20 Iranian state‑backed groups and found they coordinate espionage, ransomware, and hacktivism by handing off network access to enable destructive attacks.",
-      "tags": [],
-      "title": "AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks"
-    },
-    {
-      "added_at": 1795657221.0790966,
-      "ai": true,
-      "id": "d5ac8eaeba7bb330c0105b72b1e30c3f979105b8",
-      "link": "https://www.theregister.com/security/2026/11/18/california-tells-waymo-to-take-the-next-exit-after-freeway-mishaps/5310841",
-      "published": 1795023900.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "California regulators ordered Waymo to suspend driverless rides on high‑speed roads nationwide after construction zone incidents and a collision with patrol vehicles.",
-      "tags": [],
-      "title": "California tells Waymo to take the next exit after freeway mishaps"
-    },
-    {
-      "added_at": 1795657221.0790966,
-      "ai": true,
-      "id": "55044eb187059b942f9c54eb44a4b5a2de4d659e",
-      "link": "https://www.theregister.com/security/2026/11/18/microsofts-official-python-agent-framework-hijacked-to-distribute-malware/5310858",
-      "published": 1795022617.0,
-      "source": "www.theregister.com - Articles",
-      "summary": "Microsoft’s official Python agent framework was compromised when a GitHub organization’s admin credentials were breached, allowing attackers to distribute malware through the framework.",
-      "tags": [],
-      "title": "Microsoft's official Python agent framework hijacked to distribute malware"
-    },
-    {
-      "added_at": 1795657221.0790966,
-      "ai": true,
-      "id": "830c2e13c09821d1256bf53547474286d7aefc10",
-      "link": "https://www.infosecurity-magazine.com/news/five-critical-vulnerabilities/",
-      "published": 1795020900.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "Five critical NGINX vulnerabilities enable unauthenticated remote code execution, potentially allowing attackers to take control of affected servers.",
-      "tags": [],
-      "title": "Five Critical Vulnerabilities Found in World's Most Widely Used Open-Source Web Server"
-    },
-    {
-      "added_at": 1795657221.0790966,
-      "ai": true,
-      "id": "0ab00b40e01f0da8ee78bceb0ea35d82e8c537da",
-      "link": "https://portswigger.net/research/achieving-the-impossible-xss-in-innerhtml-without-equals",
-      "published": 1795012785.0,
-      "source": "PortSwigger Research",
-      "summary": "Guest researcher Masato Kinugawa discussed a novel XSS technique involving innerHTML without equals on the PortSwigger research channel.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "Achieving the impossible: XSS in innerHTML without equals"
-    },
-    {
-      "added_at": 1795657221.0790966,
-      "ai": true,
-      "id": "e2a24e43ecaa9dbdf8e674dbc18a2c6638192f9f",
-      "link": "https://www.rapid7.com/blog/post/tr-self-hosted-ai-renting-compute-exposed-servers",
-      "published": 1795012735.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "Threat actors are renting compute resources by exploiting default open configurations, increasing the risk of unauthorized access.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "Open by Default, Already Occupied: Threat Actors are Renting your Compute"
-    },
-    {
-      "added_at": 1795657221.0790966,
-      "ai": true,
-      "id": "8368f9805644f450674f566d2bd5b16dbebcc80a",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/major-brazilian-signature-app-rce-fraud",
-      "published": 1795010400.0,
-      "source": "darkreading",
-      "summary": "Brazilian government authentication middleware contains remote code execution bugs that could facilitate fraud in critical legal documents.",
-      "tags": [],
-      "title": "Major Brazilian Signature Apps Enable RCE & Fraud"
-    },
-    {
-      "added_at": 1795657221.0790966,
-      "ai": true,
-      "id": "cbfae604540527224b37841e9d4e127bf2a7ac69",
-      "link": "https://www.infosecurity-magazine.com/news/eggstreme-malware-rebuilt-after/",
-      "published": 1795010400.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "A suspected Chinese APT group rebuilt the EggStreme malware and its infrastructure after a Bitdefender exposure.",
-      "tags": [],
-      "title": "Suspected Chinese APT Rebuilds EggStreme Malware After Exposure"
-    },
-    {
-      "added_at": 1795657221.0790966,
-      "ai": true,
-      "id": "7918b8a639b8200f5dbf2978f3cda8f201c3c142",
-      "link": "https://www.rapid7.com/blog/post/ve-cve-2026-123007-critical-nginx-http-2-integer-underflow-leads-to-rce-fixed",
-      "published": 1795010202.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "CVE-2026-123007 is a critical integer underflow in NGINX HTTP/2 that permits unauthenticated remote code execution; the issue has been fixed.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "CVE-2026-123007: Critical NGINX HTTP/2 Integer Underflow Leads to RCE (FIXED)"
-    },
-    {
-      "added_at": 1795657221.0790966,
-      "ai": true,
-      "id": "7aa694effe302302adfd73613259cfc0cf9181f8",
-      "link": "https://www.infosecurity-magazine.com/news/java4shell-vulnerability-remote/",
-      "published": 1795005300.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "Java4Shell is a critical OpenJDK vulnerability that allows remote code execution; CISA urges organizations to implement mitigations.",
-      "tags": [],
-      "title": "Java4Shell Vulnerability Allows Remote Attacks on Major Java Apps"
-    },
-    {
-      "added_at": 1795657221.0790966,
-      "ai": true,
-      "id": "6352ff872275d62b72050e9358a3446ffaa78f48",
-      "link": "https://www.schneier.com/blog/archives/2026/11/france-is-blaming-iran-for-the-fridge-cyberattack.html",
-      "published": 1795003535.0,
-      "source": "Schneier on Security",
-      "summary": "U.S. intelligence agencies have a low-confidence assessment that Iran was responsible for the fridge cyberattack in France.",
-      "tags": [
-        "#opinion"
-      ],
-      "title": "France Is Blaming Iran for the Fridge Cyberattack"
-    },
-    {
-      "added_at": 1795657221.0790966,
-      "ai": true,
-      "id": "787f32d48daf3d015521afd5c894ba81508f2cd6",
-      "link": "https://www.infosecurity-magazine.com/news/russian-star-blizzard-cloud-data/",
-      "published": 1795002300.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "The Russian espionage actor Star Blizzard (Cold Relic) focuses on compromising cloud identities to steal data and enable further attacks.",
-      "tags": [],
-      "title": "Russian Espionage Actor Star Blizzard Focuses on Cloud Identities for Mass Data Theft"
-    },
-    {
-      "added_at": 1795657221.0790966,
-      "ai": true,
-      "id": "e3a24527dd73e527c85c15bc3991429e598484d3",
-      "link": "https://blog.talosintelligence.com/the-challenge-of-defending-against-bulletproof-dead-drops-on-public-blockchains/",
-      "published": 1794999600.0,
-      "source": "Cisco Talos Blog",
-      "summary": "Malware command-and-control infrastructure now uses decentralized blockchain networks, eliminating single points of failure and complicating defense.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "The challenge of defending against bulletproof dead drops on public blockchains"
-    },
-    {
-      "added_at": 1795657221.0790966,
-      "ai": true,
-      "id": "a3cef9df02f8e3a4a83e0ac88f494493e90ea7b1",
-      "link": "https://blog.talosintelligence.com/uat-12643-suspected-north-korea-aligned-actor-blends-blockchain-resilience-with-targeted-infostealing/",
-      "published": 1794999600.0,
-      "source": "Cisco Talos Blog",
-      "summary": "Cisco Talos identified infrastructure linked to UAT-12643, a financially motivated threat group suspected to be aligned with North Korea. The group uses blockchain-based resilience techniques to support targeted information theft operations. Ongoing monitoring continues.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "UAT-12643: Suspected North Korea-aligned actor blends blockchain resilience with targeted infostealing"
-    },
-    {
-      "added_at": 1795657221.0790966,
-      "ai": true,
-      "id": "9f62b2f4e8a2aa0bb138fa0eba41e87440ccf9a9",
-      "link": "https://www.infosecurity-magazine.com/news/watchdog-government-risk/",
-      "published": 1794994200.0,
-      "source": "infosecurity-magazine.com",
-      "summary": "A National Audit Office report indicates that the UK government’s risk management practices are inadequate, contributing to suboptimal decision-making. The findings highlight gaps in oversight and accountability. Recommendations for improvement are pending.",
-      "tags": [],
-      "title": "Watchdog Warns UK Government Is Falling Short on Risk Management"
-    },
-    {
-      "added_at": 1795657221.0790966,
-      "ai": true,
-      "id": "510cee7774af189cbeb0de9b466e148ee4dd5f8b",
-      "link": "https://securelist.com/auditteam-opsagent-forced-audit/122031/",
-      "published": 1794985207.0,
-      "source": "Securelist",
-      "summary": "AuditTeam’s OpsAgent ransomware framework disguises extortion as a consulting service, demanding fees to delete stolen data. The implant, rewritten in Rust, enables attackers to masquerade as legitimate auditors. The tactic exploits trust in consulting engagements.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "The forced audit: how AuditTeam’s OpsAgent framework masks ransomware as consulting"
-    },
-    {
-      "added_at": 1795657221.0790966,
-      "ai": true,
-      "id": "c5599644421883df76515a3f1b22650dce0b2d79",
-      "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
-      "published": 1794970324.0,
-      "source": "Krebs on Security",
-      "summary": "A vulnerability in Optimizely’s A/B testing platform allowed attackers to inject malware into at least 178 high‑traffic websites, including BBC, CNN, Equifax, and Ledger. The malicious code was delivered silently to visitors, enabling data theft. Site operators are advised to patch and audit their Optimizely configurations.",
-      "tags": [],
-      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites"
-    },
-    {
-      "added_at": 1795657221.0790966,
-      "ai": true,
-      "id": "4e594d410ebb9bad601dd75910c51e3772a745ff",
-      "link": "https://securelist.com/citrus-ransomware/121879/",
-      "published": 1794391225.0,
-      "source": "Securelist",
-      "summary": "Citrus Ransomware employs VLESS tunneling to obfuscate traffic and uses the Sn00py tool for encryption. The group also leverages large language models to streamline operations. Connections to the Toy Ghouls threat actor have been identified.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Citrus Ransomware: VLESS for traffic, Sn00py for encryption, and LLMs lending a hand"
-    },
-    {
-      "added_at": 1795657221.0790966,
-      "ai": true,
-      "id": "c3c6570192bbc54d428a1afaf848655ef7fc0353",
-      "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-november-2026/",
-      "published": 1794361277.0,
-      "source": "Cisco Talos Blog",
-      "summary": "Microsoft’s November 2026 Patch Tuesday addressed 1,095 vulnerabilities across its product line, with 64 rated critical. Of those critical issues, 48 involved remote code execution. Security teams should apply the updates promptly to mitigate risk.",
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "title": "Microsoft Patch Tuesday for November 2026 — Snort rules and prominent vulnerabilities"
-    },
-    {
-      "added_at": 1795657221.0790966,
-      "ai": true,
-      "id": "d58e1f007a51618c210e5719fc74128b045bcd55",
-      "link": "https://www.rapid7.com/blog/post/em-patch-tuesday-november-2026",
-      "published": 1794347737.0,
-      "source": "Rapid7 Cybersecurity Blog",
-      "summary": "Microsoft’s November 2026 Patch Tuesday released 1,092 vulnerabilities, with 745 affecting Windows. The update volume remains high, though slightly lower than previous months. Organizations should review the patch notes and prioritize critical fixes.",
-      "tags": [
-        "#vulnerability"
-      ],
-      "title": "Patch Tuesday - November 2026"
-    },
-    {
-      "added_at": 1795657221.0790966,
-      "ai": true,
-      "id": "fa0a237534a37b498f65f68613b3313045df114e",
-      "link": "https://portswigger.net/research/drag-and-pwnd-leverage-ascii-characters-to-exploit-vs-code",
-      "published": 1746016631.0,
-      "source": "PortSwigger Research",
-      "summary": "Researchers discovered that certain ASCII control characters can trigger unintended code execution in Visual Studio Code when processed by terminal emulators. The vulnerability arises from legacy handling of control codes. Users should update VS Code and related extensions to mitigate the issue.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "Drag and Pwnd: Leverage ASCII characters to exploit VS Code"
-    },
-    {
-      "added_at": 1795657221.0790966,
-      "ai": true,
-      "id": "00f02abc8d6cd6e1aba33fb3debb7778b1739d90",
-      "link": "https://portswigger.net/research/saml-roulette-the-hacker-always-wins",
-      "published": 1742309743.0,
-      "source": "PortSwigger Research",
-      "summary": "A vulnerability in GitLab Enterprise’s ruby-saml library allows attackers to chain round‑trip and namespace confusion attacks, granting unauthenticated administrative access. The flaw exploits improper handling of SAML assertions. GitLab has issued a patch to address the issue.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "SAML roulette: the hacker always wins"
-    },
-    {
-      "added_at": 1795657221.0790966,
-      "ai": true,
-      "id": "69ed5c83614580b15aefdb5fb8176f452c5b1eef",
-      "link": "https://portswigger.net/research/bypassing-character-blocklists-with-unicode-overflows",
-      "published": 1738072708.0,
-      "source": "PortSwigger Research",
-      "summary": "Unicode overflow attacks occur when servers truncate Unicode codepoints to a single byte, enabling attackers to bypass character blocklists. The technique exploits the 255‑byte limit to inject malicious input. Organizations should validate input using full Unicode support.",
-      "tags": [
-        "#appsec",
-        "#research"
-      ],
-      "title": "Bypassing character blocklists with unicode overflows"
-    },
-    {
       "added_at": 1795710881.1239004,
       "ai": true,
       "id": "6e5dcf12da7136311195fbbf9d7e5aa5f80b37ca",
@@ -1822,6 +1336,459 @@
         "#malware"
       ],
       "title": "Turning Up the Heat: Inside the Attacks on Europe’s Refrigeration Systems"
+    },
+    {
+      "added_at": 1795878806.4077337,
+      "ai": true,
+      "id": "ed56aac972a34714f093e6cd4c0a20c0eb948898",
+      "link": "https://thehackernews.com/2026/11/pcloud-password-manager-hit-by-cyber.html",
+      "published": 1795853291.0,
+      "source": "The Hacker News",
+      "summary": "pCloud Pass was targeted by a cyber attack that exposed some user email addresses and logged unknown device connections.\nThe Swiss company contained the incident quickly and notified affected users.",
+      "tags": [],
+      "title": "pCloud Password Manager Hit by Cyber Attack Involving Email Address Exposure and Login Attempts"
+    },
+    {
+      "added_at": 1795878806.4077337,
+      "ai": true,
+      "id": "93138fbb4db250e2f971440df834d5bcb0c62785",
+      "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "published": 1795221399.0,
+      "source": "Krebs on Security",
+      "summary": "The CTO and co‑founder of ransomwarehelp.com has been charged with wire fraud.\nAn FBI sting revealed the company paid attackers for decryption keys and overcharged victims for services that were not rendered.",
+      "tags": [],
+      "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud"
+    },
+    {
+      "added_at": 1795878806.4077337,
+      "ai": true,
+      "id": "e9579899f60ddf7f4f917cc0eae03b289baefaba",
+      "link": "https://www.welivesecurity.com/en/cybersecurity/gta-vi-isnt-out-yet-scams-full-swing/",
+      "published": 1794564000.0,
+      "source": "WeLiveSecurity",
+      "summary": "Cybercriminals are exploiting the hype around GTA VI by offering malware‑laden downloads and fake early‑access packages.\nFans are being lured into installing malicious software.",
+      "tags": [],
+      "title": "GTA VI isn’t out yet – and the scams are already in full swing"
+    },
+    {
+      "added_at": 1795878806.4077337,
+      "ai": true,
+      "id": "4088b82c9d863903fb40a4711199016ed18337a0",
+      "link": "https://www.rapid7.com/blog/post/pt-metasploit-wrapup-unauth-rce-modules-in-network-perimeter-devices-and-much-more",
+      "published": 1793973131.0,
+      "source": "Rapid7 Cybersecurity Blog",
+      "summary": "Metasploit’s latest release includes unauthenticated remote code execution modules for network perimeter devices, among other new exploits and improvements.",
+      "tags": [
+        "#vulnerability"
+      ],
+      "title": "Metasploit Wrapup: Unauth RCE modules in Network Perimeter Devices and much more"
+    },
+    {
+      "added_at": 1795878806.4077337,
+      "ai": true,
+      "id": "16f17e0f718480e7d3328f05399de3da4fce6e90",
+      "link": "https://labs.watchtowr.com/barracuda-networks-is-your-new-best-friend-barracuda-email-security-gateway-pre-auth-remote-root-rce-cve-2026-116606-cve-2026-111560/",
+      "published": 1793913598.0,
+      "source": "watchTowr Labs",
+      "summary": "Barracuda’s Email Security Gateway is vulnerable to pre‑authentication remote‑root RCE, identified as CVE‑2026‑116606 and CVE‑2026‑111560.\nThe flaw allows attackers to gain full system control.",
+      "tags": [
+        "#research",
+        "#exploit"
+      ],
+      "title": "Barracuda Networks is your new best friend (Barracuda Email Security Gateway Pre-Auth Remote Root RCE CVE-2026-116606 / CVE-2026-111560)"
+    },
+    {
+      "added_at": 1795878806.4077337,
+      "ai": true,
+      "id": "235c91400cfbaf46a7a35f37019f6ad6387ff483",
+      "link": "https://blog.talosintelligence.com/bring-a-tent-ive-got-the-coffee-lessons-from-it-sa/",
+      "published": 1793905200.0,
+      "source": "Cisco Talos Blog",
+      "summary": "A new initiative in Germany will introduce a formal IT security apprenticeship program, aiming to recruit thousands of young hackers into the industry.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "Bring a tent, I've got the coffee: Lessons from it-sa"
+    },
+    {
+      "added_at": 1795878806.4077337,
+      "ai": true,
+      "id": "49bf8b366c47018c1d1bdf4296ebe734f0161304",
+      "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
+      "published": 1793853377.0,
+      "source": "Krebs on Security",
+      "summary": "White House staff are using residential proxy services that expose their IP addresses for rent.\nOne provider is linked to Russian‑origin cyberattacks on U.S. election systems.",
+      "tags": [],
+      "title": "Want to Rent an Internet Address at the White House?"
+    },
+    {
+      "added_at": 1795878806.4077337,
+      "ai": true,
+      "id": "31063f2ef695ea4e325c501d7bc1a2a14e6c92ba",
+      "link": "https://grahamcluley.com/smashing-security-podcast-491/",
+      "published": 1793837711.0,
+      "source": "GRAHAM CLULEY",
+      "summary": "Bank of America warns customers not to give passwords to AI assistants.\nA ransomware‑rescue company is accused of paying criminals for decryption keys.",
+      "tags": [],
+      "title": "Smashing Security podcast #491: How AI agents are spooking the banks"
+    },
+    {
+      "added_at": 1795878806.4077337,
+      "ai": true,
+      "id": "8c3b50d164d98c781c40f207a1cf560dec425d1d",
+      "link": "https://portswigger.net/research/making-http-header-injection-critical-with-one-prompt",
+      "published": 1793805149.0,
+      "source": "PortSwigger Research",
+      "summary": "A new technique turns HTTP header injection into a CRLF‑desync attack, enabling attackers to redirect users to malicious sites.\nA new scan check has been added to detect this.",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Making HTTP header injection critical with one prompt"
+    },
+    {
+      "added_at": 1795878806.4077337,
+      "ai": true,
+      "id": "a9c6a0863b5f39e8291ee2f4e6479c3c87885dbb",
+      "link": "https://www.welivesecurity.com/en/eset-research/slippynunchucks-hijacks-sogou-input-methods-brand-promotion-mechanism-to-distribute-malware/",
+      "published": 1793786100.0,
+      "source": "WeLiveSecurity",
+      "summary": "ESET research found SlippyNunchucks hijacked the brand‑promotion mechanism of Sogou Input Method via DNS hijacking, exploiting insecure HTTP to distribute malware on Windows.",
+      "tags": [],
+      "title": "SlippyNunchucks hijacks Sogou Input Method’s brand promotion mechanism to distribute malware"
+    },
+    {
+      "added_at": 1795878806.4077337,
+      "ai": true,
+      "id": "967a6a914dcf3b177071647af43573947c7fd18b",
+      "link": "https://www.intigriti.com/blog/business-insights/the-ai-pentesting-wave-pay-for-effort-vs-pay-for-impact",
+      "published": 1793750400.0,
+      "source": "Intigriti",
+      "summary": "AI pentesting is not a replacement for bug bounty programs. The focus remains on human expertise and impact assessment rather than automated effort alone.",
+      "tags": [
+        "#bugbounty"
+      ],
+      "title": "The AI Pentesting wave. Pay for effort vs pay for impact."
+    },
+    {
+      "added_at": 1795878806.4077337,
+      "ai": true,
+      "id": "9327bd5edc1203684233a98db4101deb0ce7b189",
+      "link": "https://www.welivesecurity.com/en/eset-research/gorbag-orcs-border-harvesting-intelligence-ukraine/",
+      "published": 1793699400.0,
+      "source": "WeLiveSecurity",
+      "summary": "ESET researchers identified Gorbag, a Russia‑aligned group that uses simple infostealers to harvest data from Ukrainian organizations near the front line.",
+      "tags": [],
+      "title": "Gorbag: Orcs at the border harvesting intelligence from Ukraine"
+    },
+    {
+      "added_at": 1795878806.4077337,
+      "ai": true,
+      "id": "3b6a51103bfae25be68d30f23111518e435ce9ed",
+      "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
+      "published": 1793672671.0,
+      "source": "Krebs on Security",
+      "summary": "Google and industry partners dismantled a botnet of 1.3 million Android TV set‑top boxes that rented users’ internet connections for advertising fraud, likely cutting access to an additional 10 million compromised devices.",
+      "tags": [],
+      "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies"
+    },
+    {
+      "added_at": 1795878806.4077337,
+      "ai": true,
+      "id": "662466985d9efc929e758ac381203d7f3704b1c5",
+      "link": "https://www.welivesecurity.com/en/business-security/when-confusion-reigns-trusted-vendors-guide-smb-customers/",
+      "published": 1793613300.0,
+      "source": "WeLiveSecurity",
+      "summary": "Small and medium‑sized businesses require guided onboarding and supervised protection from vendors to maximize the value of their security investments.",
+      "tags": [],
+      "title": "When confusion reigns, trusted vendors must guide their SMB customers"
+    },
+    {
+      "added_at": 1795878806.4077337,
+      "ai": true,
+      "id": "f2444df018d924bc0af531fbd7b0048d1f345052",
+      "link": "https://www.intigriti.com/blog/news/php2shell-revisited-real-world-risk",
+      "published": 1793577600.0,
+      "source": "Intigriti",
+      "summary": "Intigriti’s analysis of the PHP2Shell vulnerability shows that a high severity score does not guarantee exploitation; patching PHP instances remains the primary defense.",
+      "tags": [
+        "#bugbounty"
+      ],
+      "title": "PHP2Shell revisited: What Intigriti’s insights tell us about real-world risk"
+    },
+    {
+      "added_at": 1795878806.4077337,
+      "ai": true,
+      "id": "e293edf88b4e665582e4e4d2e4dbbbf16acc1837",
+      "link": "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-october-2026/",
+      "published": 1793372594.0,
+      "source": "WeLiveSecurity",
+      "summary": "The October 2026 security roundup highlighted PHP2Shell and other incidents, emphasizing the need for comprehensive cyber‑readiness plans.",
+      "tags": [],
+      "title": "This month in security with Tony Anscombe – October 2026 edition"
+    },
+    {
+      "added_at": 1795878806.4077337,
+      "ai": true,
+      "id": "1f8f175397bff05317092523c892fdde31c28a1a",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/hackers-leak-41-000-dhs-staff-data",
+      "published": 1793356430.0,
+      "source": "GRAHAM CLULEY",
+      "summary": "Over 41,000 Homeland Security staff, including ICE and CBP agents, had their personal data published online, exposing a significant personnel information breach.",
+      "tags": [],
+      "title": "Hackers leak personnel data of 41,000+ Homeland Security staff, including ICE and border agents"
+    },
+    {
+      "added_at": 1795878806.4077337,
+      "ai": true,
+      "id": "1b6528cb525ca35ccfe4c6de278bdda1b74f925a",
+      "link": "https://www.intigriti.com/researchers/blog/bug-bytes/intigriti-bug-bytes-241-october-2026",
+      "published": 1793318400.0,
+      "source": "Intigriti",
+      "summary": "Intigriti Bug Bytes #241 reports multiple high‑impact findings, including a Microsoft Edge exploit chain, a 1‑click RCE in Discord via Twitch embed, a $250 k Chrome bounty, XSS in Cloudflare, and a $90 k Google RCE via Flask pickle deserialization.",
+      "tags": [
+        "#bugbounty"
+      ],
+      "title": "Intigriti Bug Bytes #241 - October 2026 🚀"
+    },
+    {
+      "added_at": 1795878806.4077337,
+      "ai": true,
+      "id": "2810027585c5f3b558764b60c6a3d31c978637c2",
+      "link": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
+      "published": 1793296834.0,
+      "source": "Unit 42",
+      "summary": "Unit 42 released a threat brief on two critical PHP vulnerabilities, CVE‑2026‑109618 and CVE‑2026‑109619, which affect web servers and CMS platforms worldwide.",
+      "tags": [
+        "#threatintel",
+        "#malware"
+      ],
+      "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated November 19)"
+    },
+    {
+      "added_at": 1795878806.4077337,
+      "ai": true,
+      "id": "f551d4b4428a649d8a62a4fbcb26f20f0c37b842",
+      "link": "https://portswigger.net/research/new-crazy-payloads-in-the-url-validation-bypass-cheat-sheet",
+      "published": 1730210353.0,
+      "source": "PortSwigger Research",
+      "summary": "The URL Validation Bypass Cheat Sheet has been updated with new payloads, including IP‑related content, thanks to contributions from the web security community.",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "New crazy payloads in the URL Validation Bypass Cheat Sheet"
+    },
+    {
+      "added_at": 1795878806.4077337,
+      "ai": true,
+      "id": "35e5f1497c5f1f3fa49e22f83190a2a931cfb682",
+      "link": "https://portswigger.net/research/concealing-payloads-in-url-credentials",
+      "published": 1729688345.0,
+      "source": "PortSwigger Research",
+      "summary": "Johan Carlsson discovered that malicious payloads can be embedded in the username:password section of a URL. The payload is not visible in the URL string, making detection harder. This technique can bypass basic input validation.",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Concealing payloads in URL credentials"
+    },
+    {
+      "added_at": 1795878806.4077337,
+      "ai": true,
+      "id": "253aae07f4b890d130bc6ef863c4dd3181e3f166",
+      "link": "https://portswigger.net/research/introducing-the-url-validation-bypass-cheat-sheet",
+      "published": 1725375132.0,
+      "source": "PortSwigger Research",
+      "summary": "URL validation bypasses are a root cause of SSRF, CORS misconfiguration, and open redirection. The cheat sheet lists ambiguous URL patterns that trigger these bypasses. It serves as a reference for developers to strengthen validation.",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Introducing the URL validation bypass cheat sheet"
+    },
+    {
+      "added_at": 1795878806.4077337,
+      "ai": true,
+      "id": "e13b1aaf2514922af9dc9836b30b5f06b869c430",
+      "link": "https://portswigger.net/research/gotta-cache-em-all",
+      "published": 1723156066.0,
+      "source": "PortSwigger Research",
+      "summary": "Web cache attacks can hijack data or store malicious payloads. With CDNs, differences in cache behavior create new attack vectors. The paper explores these discrepancies and mitigation strategies.",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Gotta cache 'em all: bending the rules of web cache exploitation"
+    },
+    {
+      "added_at": 1795878806.4077337,
+      "ai": true,
+      "id": "b9da9e97a20605cdab6c480e7c6ec597acf88437",
+      "link": "https://portswigger.net/research/splitting-the-email-atom",
+      "published": 1723066367.0,
+      "source": "PortSwigger Research",
+      "summary": "Some sites parse email addresses to infer domain ownership. Parser inconsistencies let attackers craft addresses that bypass access controls. The study shows how to predict domain extraction.",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Splitting the email atom: exploiting parsers to bypass access controls"
+    },
+    {
+      "added_at": 1795878806.4077337,
+      "ai": true,
+      "id": "d903612ff256e76603be29b7fa385bf3a2285801",
+      "link": "https://portswigger.net/research/listen-to-the-whispers-web-timing-attacks-that-actually-work",
+      "published": 1723054221.0,
+      "source": "PortSwigger Research",
+      "summary": "Websites expose timing side-channels that can leak secrets. The paper presents practical timing attacks that extract server secrets. It demonstrates real-world feasibility.",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Listen to the whispers: web timing attacks that actually work"
+    },
+    {
+      "added_at": 1795878806.4077337,
+      "ai": true,
+      "id": "d6540924f307e1884305eb8e5c4007373e1acd64",
+      "link": "https://portswigger.net/research/fickle-pdfs-exploiting-browser-rendering-discrepancies",
+      "published": 1720529482.0,
+      "source": "PortSwigger Research",
+      "summary": "A PDF invoice displayed £399 in Safari but a different amount in other viewers. Rendering discrepancies can lead to financial loss. The paper highlights the issue.",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Fickle PDFs: exploiting browser rendering discrepancies"
+    },
+    {
+      "added_at": 1795878806.4077337,
+      "ai": true,
+      "id": "59d2b6c637bd386983d3b94ed46c4dd1a6f639e3",
+      "link": "https://portswigger.net/research/a-hacking-hat-trick-previewing-three-portswigger-research-publications-coming-to-def-con-amp-black-hat-usa",
+      "published": 1719925028.0,
+      "source": "PortSwigger Research",
+      "summary": "PortSwigger Research will present three new papers at Black Hat USA and DEF CON 32. The post previews each talk's focus. It invites attendees to learn about upcoming findings.",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "A hacking hat-trick: previewing three PortSwigger Research publications coming to DEF CON & Black Hat USA"
+    },
+    {
+      "added_at": 1795878806.4077337,
+      "ai": true,
+      "id": "a1419924eb78745cb5c24942a9e9787611d62f20",
+      "link": "https://portswigger.net/research/new-exotic-events-in-the-xss-cheat-sheet",
+      "published": 1718117909.0,
+      "source": "PortSwigger Research",
+      "summary": "The XSS cheat sheet now includes exotic events like onwebkitplaybacktargetavailabilitychanged. Contributions from Mozilla helped refine the list. The update aids XSS exploitation research.",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "onwebkitplaybacktargetavailabilitychanged?! New exotic events in the XSS cheat sheet"
+    },
+    {
+      "added_at": 1795878806.4077337,
+      "ai": true,
+      "id": "02f6355ad4351729891b73acd6b9333a24423c3b",
+      "link": "https://portswigger.net/research/adjusting-your-http-perspective-with-bambdas",
+      "published": 1716989509.0,
+      "source": "PortSwigger Research",
+      "summary": "Bambdas provides a fresh view of HTTP messages, highlighting suspicious parameters and headers. It helps analysts quickly spot anomalies. The article explains its features.",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Refining your HTTP perspective, with bambdas"
+    },
+    {
+      "added_at": 1795878806.4077337,
+      "ai": true,
+      "id": "80364be63be75b7d462c22521767fceb862da6c5",
+      "link": "https://blog.assetnote.io/2024/01/19/ivanti-pulse-connect-secure-auth-bypass-rce/",
+      "published": 1705582800.0,
+      "source": "Assetnote",
+      "summary": "High Signal Detection describes detection of Ivanti Pulse Connect Secure authentication bypass and remote code execution. The research details the vulnerability and exploitation steps. It offers mitigation recommendations.",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "High Signal Detection and Exploitation of Ivanti's Pulse Connect Secure Auth Bypass & RCE"
+    },
+    {
+      "added_at": 1795878806.4077337,
+      "ai": true,
+      "id": "628a6d7c0f13861d1477647e5478bc7093c3b38a",
+      "link": "https://blog.assetnote.io/2023/10/24/citrixbleed-CVE-2023-4966/",
+      "published": 1698096911.0,
+      "source": "Assetnote",
+      "summary": "Citrix vulnerability CVE-2023-4966 allows attackers to leak session tokens, potentially exposing authenticated sessions. The flaw is present in Citrix products and requires patching.",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Citrix Bleed: Leaking Session Tokens with CVE-2023-4966"
+    },
+    {
+      "added_at": 1795878806.4077337,
+      "ai": true,
+      "id": "9fc65d67c866b6acd6b3a108c24f9d23649b1bb4",
+      "link": "https://blog.assetnote.io/2023/10/04/rce-progress-ws-ftp/",
+      "published": 1696368799.0,
+      "source": "Assetnote",
+      "summary": "CVE-2023-40044 enables remote code execution on Progress WS_FTP Ad Hoc servers through IIS HTTP modules. Affected installations must apply the vendor patch.",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "RCE in Progress WS_FTP Ad Hoc via IIS HTTP Modules (CVE-2023-40044)"
+    },
+    {
+      "added_at": 1795878806.4077337,
+      "ai": true,
+      "id": "f8b8d197f12b086db619ea4feac9aa08ce87734a",
+      "link": "https://blog.assetnote.io/2023/08/28/leaking-file-contents-with-a-blind-file-oracle-in-flarum/",
+      "published": 1693173600.0,
+      "source": "Assetnote",
+      "summary": "Researchers discovered a blind file oracle in Flarum that lets attackers read arbitrary local files and perform blind SSRF attacks using only a basic user account. Over 1200 exposed installations were identified.",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Leaking File Contents with a Blind File Oracle in Flarum"
+    },
+    {
+      "added_at": 1795878806.4077337,
+      "ai": true,
+      "id": "db33cb156dadb0538e6dea46edcb78d44cf56001",
+      "link": "https://blog.assetnote.io/2023/08/28/advisory-flarum-lfi/",
+      "published": 1693170000.0,
+      "source": "Assetnote",
+      "summary": "CVE-2023-40033 in Flarum allows a basic user to specify a malicious avatar URL, exposing arbitrary local files and enabling blind SSRF. Affected versions include flarum/framework.",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Advisory: Flarum LFI - CVE-2023-40033"
+    },
+    {
+      "added_at": 1795878806.4077337,
+      "ai": true,
+      "id": "0557f7261de71d6ca94c8d1de90ed82a8ffa8228",
+      "link": "https://blog.assetnote.io/2023/08/09/exploiting-citrix-netscaler-cve-2023-3519/",
+      "published": 1691532000.0,
+      "source": "Assetnote",
+      "summary": "Part 3 of the series explains the exploitation of Citrix NetScaler CVE-2023-3519, a buffer overflow that can lead to remote code execution. The post details the full exploit chain and remediation steps.",
+      "tags": [
+        "#appsec",
+        "#research"
+      ],
+      "title": "Finding and Exploiting Citrix NetScaler Buffer Overflow (CVE-2023-3519) (Part 3)"
     }
   ],
   "posted": []
