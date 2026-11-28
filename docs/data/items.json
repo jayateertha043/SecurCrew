@@ -1,7 +1,64 @@
 {
-  "generated_at": 1795796420.8542798,
-  "count": 115,
+  "generated_at": 1795828486.4876826,
+  "count": 80,
   "items": [
+    {
+      "title": "Friday Squid Blogging: Giant Squid in Newfoundland",
+      "summary": "A blog post titled 'Friday Squid Blogging: Giant Squid in Newfoundland' discusses the species and references recent security stories and blog moderation policy.",
+      "source": "Schneier on Security",
+      "link": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-giant-squid-in-newfoundland.html",
+      "published": 1795816885.0,
+      "tags": [
+        "#opinion"
+      ],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795828486.4784658
+    },
+    {
+      "title": "pCloud confirms password manager hack after suspicious login alerts",
+      "summary": "pCloud's Pass password manager was breached, with users reporting unknown device logins even with 2FA enabled. The company confirmed the attack and is investigating.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/",
+      "published": 1795807564.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795828486.4784658
+    },
+    {
+      "title": "New Boston Scientific data breach exposes personal, medical info",
+      "summary": "Boston Scientific is notifying affected individuals after a cyberattack that exposed personal and medical data. The breach involved sensitive health information.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
+      "published": 1795805862.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795828486.4784658
+    },
+    {
+      "title": "Unpatched Cacti zero-day with public PoC gives remote code execution",
+      "summary": "A zero‑day vulnerability in the Cacti network monitoring platform allows unauthenticated attackers to execute commands. A public proof‑of‑concept exploit has been released.",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/",
+      "published": 1795799173.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795828486.4784658
+    },
+    {
+      "title": "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign",
+      "summary": "A Vietnam‑sponsored hacking group, codenamed WeaveLotus, targeted military, government, and legislative entities in Southeast Asia to gather intelligence on South China Sea defense. Five intrusions were identified in Thailand.",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html",
+      "published": 1795797371.0,
+      "tags": [],
+      "ai": true,
+      "status": "queued",
+      "ts": 1795828486.4784658
+    },
     {
       "title": "US Air Force cloud platform reportedly hacked in latest federal breach",
       "summary": "Hackers breached the US Air Force’s Cloud One platform, adding to recent federal attacks on agencies such as the FBI, CIA, and Treasury Department.\nThe breach highlights ongoing vulnerabilities in government cloud services.",
@@ -781,459 +838,6 @@
       "ai": true,
       "status": "queued",
       "ts": 1795657221.0790966
-    },
-    {
-      "title": "US Treasury financial crimes unit becomes latest fed breach victim",
-      "summary": "FinCEN, part of the US Treasury, experienced a breach.\nThe agency took systems offline, extended filing deadlines, and is investigating unauthorized access.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/security/2026/11/25/us-treasury-financial-crimes-unit-becomes-latest-fed-breach-victim/5312165",
-      "published": 1795624816.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795625782.6266756
-    },
-    {
-      "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
-      "summary": "CISA has warned of a critical vulnerability in Danfoss AK‑SM 8xxA Series refrigeration controllers.\nThese controllers are used in commercial refrigeration, HVAC, and lighting systems.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
-      "published": 1795623220.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795625782.6266756
-    },
-    {
-      "title": "US Anti-Scam Surge Hits 800 Defendants and 29 Scam Compounds",
-      "summary": "The DOJ anti‑scam surge has targeted over 800 defendants.\nThe FBI has identified more than 29 scam compounds.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/doj-anti-scam-surge-800-defendants/",
-      "published": 1795622400.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795625782.6266756
-    },
-    {
-      "title": "Attackers Target .NET Developers With Poisoned Job Assessments",
-      "summary": "Attackers released 13 malicious NuGet packages in a fake recruitment campaign.\nThe malware targets .NET developers.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments",
-      "published": 1795621684.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795625782.6266756
-    },
-    {
-      "title": "Two Newly Disclosed GeoServer Vulnerabilities Under Attack",
-      "summary": "Attackers are probing GeoServer instances for two high‑severity vulnerabilities.\nThese can be chained for unauthenticated remote code execution.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/two-newly-disclosed-geoserver-vulnerabilities-under-attack/",
-      "published": 1795620456.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795625782.6266756
-    },
-    {
-      "title": "It's a Bot World. We're Just Living in It",
-      "summary": "Bot detection is increasingly ineffective.\nSecurity teams should limit privileged access for both humans and bots equally.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/cyber-risk/bot-world-just-living",
-      "published": 1795620027.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795625782.6266756
-    },
-    {
-      "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
-      "summary": "InfraTrust reports that most recent infrastructure security advisories involve third‑party software flaws in network appliances.\nThese flaws are in bundled third‑party code rather than vendor code.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
-      "published": 1795618800.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795625782.6266756
-    },
-    {
-      "title": "Palo Alto Fixes Fragnesia Kernel Bug Chained With PHP2Shell in Firewall Attacks",
-      "summary": "Palo Alto Networks patched the Fragnesia kernel bug.\nAttackers had chained it with PHP2Shell to compromise firewalls.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/palo-alto-fragnesia-php2shell-fix/",
-      "published": 1795618800.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795625782.6266756
-    },
-    {
-      "title": "Shufti Fraud Hub exposes suspicious links between seemingly legitimate accounts",
-      "summary": "Shufti launched Fraud Hub, a fraud intelligence layer.\nIt connects identity, device, biometric, and behavioral signals to detect coordinated fraud networks.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/25/shufti-fraud-hub/",
-      "published": 1795617900.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795625782.6266756
-    },
-    {
-      "title": "ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties",
-      "summary": "An account linked to ShinyHunters announced the group’s return.\nOkta identified possible connections between Inception and ShinyHunters, but the new Inception group denies ties.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/shinyhunters-claims-comeback-new-inception-group-rejects-alleged-ties/",
-      "published": 1795616125.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795625782.6266756
-    },
-    {
-      "title": "Latin America Sees Cyberattacks on Ports, Pipelines & Manufacturing",
-      "summary": "Cyberattacks are increasingly targeting industrial systems across Latin America, including ports, pipelines, and manufacturing. Recent incidents involve the Port of Santos in Brazil and an Argentine pipeline, underscoring the region's growing infrastructure vulnerability.",
-      "source": "darkreading",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/latin-america-cyberattacks-ports-pipelines-manufacturing",
-      "published": 1795615200.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795625782.6266756
-    },
-    {
-      "title": "US Treasury’s FinCEN Disconnects Systems Following Cyber Incident",
-      "summary": "FinCEN has taken some systems offline after a cybersecurity incident and extended filing deadlines for affected users. The agency is investigating the disruption while maintaining the portal's operational status.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/us-treasurys-fincen-disconnects-systems-following-cyber-incident/",
-      "published": 1795613961.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795625782.6266756
-    },
-    {
-      "title": "Critical Drupal installer flaw under active attack (CVE-2026-132165)",
-      "summary": "CVE-2026-132165 allows attackers to take over unpatched Drupal sites without authentication. The vulnerability has been actively exploited since November 19 and affects sites used by governments, universities, and enterprises.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/25/drupal-installer-rce-cve-2026-132165-exploited/",
-      "published": 1795613848.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795625782.6266756
-    },
-    {
-      "title": "Ground Truth: CISO Matt Martin on Building a Real Security Program Without an Enterprise Budget",
-      "summary": "CISO Matt Martin of Western Carolina University discusses establishing a security program with limited resources. He emphasizes practical strategies for building effective security without a large enterprise budget.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/ground-truth-ciso-matt-martin-on-building-a-real-security-program-without-an-enterprise-budget/",
-      "published": 1795613400.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795625782.6266756
-    },
-    {
-      "title": "Suspected ransomware attack disrupts cancer treatments, surgeries at Guadeloupe hospital",
-      "summary": "A suspected ransomware attack on the University Hospital of Guadeloupe forced doctors to postpone surgeries and suspend some cancer treatments. The incident caused a return to paper records while the national cybersecurity agency investigates.",
-      "source": "The Record from Recorded Future News",
-      "link": "https://therecord.media/guadeloupe-ransomware-hospital-cyber",
-      "published": 1795613400.0,
-      "tags": [
-        "#news"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795625782.6266756
-    },
-    {
-      "title": "FinCEN investigates cybersecurity incident, takes systems offline",
-      "summary": "FinCEN has taken systems offline after a cybersecurity incident and is extending filing deadlines for affected users. The filing portal remains operational while the agency investigates the breach.",
-      "source": "CyberScoop",
-      "link": "https://cyberscoop.com/fincen-investigates-cybersecurity-incident-systems-offline/",
-      "published": 1795611804.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795625782.6266756
-    },
-    {
-      "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
-      "summary": "Threat actors are exploiting two patched GeoServer vulnerabilities, CVE-2026-120705 and CVE-2026-129243, which allow unauthenticated remote code execution. The flaws enable arbitrary file reads and potential code execution on affected servers.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
-      "published": 1795610934.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795625782.6266756
-    },
-    {
-      "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
-      "summary": "FinCEN reported unauthorized access to a limited subset of its systems and has taken some systems offline as a precaution. The agency continues to collect suspicious activity reports and other BSA filings.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
-      "published": 1795609808.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795625782.6266756
-    },
-    {
-      "title": "CVE-2026-123903: Critical VMware Directory Service Authentication Bypass affects vCenter",
-      "summary": "CVE-2026-123903 is a critical authentication bypass in VMware Directory Service that can allow attackers to gain unauthorized access to vCenter. The vulnerability, with a CVSS score of 9.8, was addressed in Broadcom's November 24 advisory.",
-      "source": "Rapid7 Cybersecurity Blog",
-      "link": "https://www.rapid7.com/blog/post/etr-cve-2026-123903-critical-vmware-directory-service-authentication-bypass-affects-vcenter",
-      "published": 1795609160.0,
-      "tags": [
-        "#vulnerability"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795625782.6266756
-    },
-    {
-      "title": "Credential Remediation Is Slow When You Don’t Know What Will Break",
-      "summary": "GitGuardian's State of Secrets Sprawl 2026 found that over 64% of valid secrets from 2022 remained active in 2026, indicating slow remediation. The study suggests prioritizing credential revocation by impact rather than validity alone.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html",
-      "published": 1795607508.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795625782.6266756
-    },
-    {
-      "title": "US Treasury Investigates Cyber Incident Amid Reported Federal Agency Breaches",
-      "summary": "The Treasury’s Crimes Enforcement Network is investigating a cyber incident that caused some federal agency services to be taken offline.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/us-treasury-cyber-incident/",
-      "published": 1795607100.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795625782.6266756
-    },
-    {
-      "title": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation",
-      "summary": "CISA has added the Drupal core vulnerability CVE-2026-132165 to its Known Exploited Vulnerabilities catalog, requiring federal agencies to patch it by November 27, 2026. The flaw allows remote code execution with a CVSS score of 9.8.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html",
-      "published": 1795605806.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795625782.6266756
-    },
-    {
-      "title": "Bots exploited leaked AWS key from Docker image in under 8 seconds",
-      "summary": "Researchers discovered that bots can locate and use a leaked AWS access key embedded in a Docker image in under eight seconds, exposing the risk of publishing credentials in container registries.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/25/docker-aws-key-exposure-bots/",
-      "published": 1795605752.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795625782.6266756
-    },
-    {
-      "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
-      "summary": "Microsoft has resolved a bug that prevented certain Microsoft 365 customers from accessing Office applications, restoring normal service.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/",
-      "published": 1795605392.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795625782.6266756
-    },
-    {
-      "title": "Gatwick drop-off customers' personal data exposed in supplier breach",
-      "summary": "A supplier breach exposed Gatwick Airport drop‑off customers’ AutoPay login credentials, vehicle records, and limited payment and customer service email information.",
-      "source": "www.theregister.com - Articles",
-      "link": "https://www.theregister.com/security/2026/11/25/gatwick-drop-off-customers-personal-data-exposed-in-supplier-breach/5312060",
-      "published": 1795605378.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795625782.6266756
-    },
-    {
-      "title": "The Great Escape: Tradecraft insights from an agentic swarm",
-      "summary": "A blog analyzes the tradecraft of an OpenAI‑linked agentic swarm that operated in 2026, comparing its traceable activity to early signals of agentic attacks seen in the wild.",
-      "source": "Cisco Talos Blog",
-      "link": "https://blog.talosintelligence.com/the-great-escape-tradecraft-insights-from-an-agentic-swarm/",
-      "published": 1795604400.0,
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795625782.6266756
-    },
-    {
-      "title": "Securing Grandma's groceries with Pierre Cadieux",
-      "summary": "Pierre Cadieux recounts how his early help‑desk work in the 1990s, correlating Windows and Unix logs, sparked his interest in cybersecurity.",
-      "source": "Cisco Talos Blog",
-      "link": "https://blog.talosintelligence.com/securing-grandmas-groceries-with-pierre-cadieux/",
-      "published": 1795604400.0,
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795625782.6266756
-    },
-    {
-      "title": "Ransomware Attacks Surge 23% in October Following Record Quarter",
-      "summary": "NCC Group researchers note a 23% increase in ransomware attacks in October, indicating a shift in the cyber threat landscape.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/ransomware-surge-october-record/",
-      "published": 1795603500.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795625782.6266756
-    },
-    {
-      "title": "Plagiarism Checker Turnitin Investigating Cyberattack",
-      "summary": "Turnitin reports that its systems remain fully operational and secure while it investigates a cyberattack on its plagiarism‑checking platform.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/plagiarism-checker-turnitin-investigating-cyberattack/",
-      "published": 1795603207.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795625782.6266756
-    },
-    {
-      "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
-      "summary": "The Drupal security team confirms that the critical RCE vulnerability CVE-2026-132165 has been actively exploited to hijack unpatched sites since at least Thursday.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
-      "published": 1795601420.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795625782.6266756
-    },
-    {
-      "title": "NCSC Shares Guidance to Tackle Agentic Threat From ARTEX-Like Tools",
-      "summary": "UK National Cyber Security Centre urges strong operational discipline to manage agentic offensive frameworks similar to ARTEX.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/ncsc-tips-tackle-agentic-threat/",
-      "published": 1795600800.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795625782.6266756
-    },
-    {
-      "title": "UK Authorized Push Payment Losses Surge 22% as Fraudsters Steal £660m",
-      "summary": "Authorized push payment fraud rose 22% in the first half of the year, with fraudsters stealing £660 million.",
-      "source": "infosecurity-magazine.com",
-      "link": "https://www.infosecurity-magazine.com/news/uk-app-losses-surge-22-fraudsters/",
-      "published": 1795598940.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795625782.6266756
-    },
-    {
-      "title": "Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers",
-      "summary": "Hackers ran operating‑system commands on six Hex.pm production servers using a CVSS 10.0 RCE flaw that existed since February 2016; the service patched all servers within 15 minutes of the first request.",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html",
-      "published": 1795597619.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795625782.6266756
-    },
-    {
-      "title": "Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library",
-      "summary": "CVE‑2026‑131914 in the abandoned Idunno AntiCsrf library allows remote code execution via a single crafted web request.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/hackers-exploit-unpatched-flaw-in-defunct-idunno-anticsrf-library/",
-      "published": 1795597513.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795625782.6266756
-    },
-    {
-      "title": "Microsoft confirms authentication issues after November updates",
-      "summary": "Microsoft confirmed that customers may experience authentication issues after installing November security updates that addressed a high‑severity remote code execution vulnerability.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/",
-      "published": 1795597377.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795625782.6266756
-    },
-    {
-      "title": "How to protect against preinstalled Android malware",
-      "summary": "An article outlines Trojans embedded in Android firmware, provides statistics, discusses risks to corporate users, and recommends countermeasures with Kaspersky Next.",
-      "source": "Securelist",
-      "link": "https://securelist.com/tr/how-to-protect-against-preinstalled-android-malware/122093/",
-      "published": 1795597235.0,
-      "tags": [
-        "#threatintel",
-        "#malware"
-      ],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795625782.6266756
-    },
-    {
-      "title": "Police disrupt 57 illegal IPTV services and trace €26 million in crypto",
-      "summary": "Europol coordinated a five‑day operation that disrupted 57 illegal IPTV services, identified 321 pirate sites, and traced more than €26 million in cryptocurrency.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/25/illegal-iptv-disrupted-europol-crypto/",
-      "published": 1795597176.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795625782.6266756
-    },
-    {
-      "title": "Drupal Flaw Found by Anthropic Scanner Exploited in Attacks",
-      "summary": "CISA added a Drupal core remote code execution vulnerability to its KEV catalog and instructed federal agencies to patch it within three days.",
-      "source": "SecurityWeek",
-      "link": "https://www.securityweek.com/drupal-flaw-found-by-anthropic-scanner-exploited-in-attacks/",
-      "published": 1795593666.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795625782.6266756
-    },
-    {
-      "title": "Hackers reportedly breached CIA intelligence analysis system",
-      "summary": "Unknown attackers reportedly breached an open‑source intelligence analysis system at the U.S. Central Intelligence Agency.",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
-      "published": 1795592703.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795625782.6266756
-    },
-    {
-      "title": "Exploited: Abandoned Idunno.AntiCsrf library opens legacy ASP.NET apps to RCE (CVE-2026-131914)",
-      "summary": "US‑CISA added CVE‑2026‑131914, an RCE vulnerability in the abandoned Idunno.AntiCsrf library, to its Known Exploited Vulnerabilities catalog.",
-      "source": "Help Net Security",
-      "link": "https://www.helpnetsecurity.com/2026/11/25/idunno-anticsrf-rce-cve-2026-131914-exploited/",
-      "published": 1795591352.0,
-      "tags": [],
-      "ai": true,
-      "status": "queued",
-      "ts": 1795625782.6266756
     },
     {
       "title": "Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion",

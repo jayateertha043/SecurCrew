@@ -2,174 +2,6 @@
   "counts": {},
   "history": [
     {
-      "norm": "ai ai",
-      "ts": 1795218376.0513375
-    },
-    {
-      "norm": "critical vulnerabilities n able n central prompt hosted shutdown h2 style direction ltr overview h2 p style direction ltr span style font size undefined november 9 2026 n able span href style font size undefined announced span span style font size undefined responding public disclosure critical vulnerabilities affecting span href style font size undefined n central span span style font size undefined remote monitoring management rmm platform span p p style direction ltr span style font size undefined public disclosure titled able2shell independent researcher published details proof concept poc code covering 33 issues according disclosure issues include unauthenticated remote code execution rce privilege escalation root credential disclosure unauthorized account creation one unauthenticated chain combines xml external entity xxe session handling weaknesses execute code span span style color rgb 24 128 56 font size undefined nable span span style font size undefined service account other demonstrated chains involve administrator viewing malicious patch metadata use productadmin credentials rapid7 intelligence currently triaging newly published details span p p style direction ltr span style font size undefined before hotfix release november 10 n able reported scanning activity associated published poc code said had no evidence any customer environment had been successfully exploited vendor advised keeping n central deployments offline while developed validated hotfix hosted n central classic environments offline according same notice notice did not yet include cve identifiers cvss scores span p p style direction ltr span style font size undefined n central used managed service providers msps enterprise teams administer endpoints infrastructure compromise rmm server can put downstream managed environments risk n central previously been targeted through separate vulnerabilities including authentication bypass span href style font size undefined covered rapid7 august 2026 span span style font size undefined given platform s administrative reach availability public exploit code rapid7 recommends treating current disclosure emergency span p p style direction ltr span style font size undefined strong update 1 strong span span style font size undefined november 10 2026 n able span href style font size undefined released n central 2026 4 hotfix 2 span span style font size undefined build span span style color rgb 24 128 56 font size undefined span 2026 4 1 26 span span span style font size undefined addressing seven cves vendor span href style font size undefined plans follow up hotfix span span style font size undefined further security updates november 11 n able confirmed hosted n central servers across all regions had been successfully upgraded span p h2 style direction ltr mitigation guidance h2 p style direction ltr span style font size undefined strong rapid7 strongly recommends organizations operating premises n central servers upgrade n central strong span span style color rgb 24 128 56 font size undefined span strong 2026 4 hotfix 2 strong span span span style font size undefined strong build strong span span style color rgb 24 128 56 font size undefined span strong 2026 4 1 26 strong span span span style font size undefined strong emergency basis outside normal patching cycles keep servers offline until successfully upgraded strong span span style font size undefined hosted servers upgraded n able span p p style direction ltr span style font size undefined customers both hosted premises environments must also upgrade their agents probes maintain communication upgrade agents first then probes following span href style font size undefined vendor s compatibility guidance span span style font size undefined patch management engine pme span p ul li style direction ltr p style direction ltr span style font size undefined strong affected versions strong span span style font size undefined researcher reports testing n central appliance span span style color rgb 24 128 56 font size undefined span 2026 4 0 31 span span span style font size undefined n able s current notice does not specify full affected version range span p li li style direction ltr p style direction ltr span style font size undefined strong fixed versions strong span span style font size undefined n central span span style color rgb 24 128 56 font size undefined span 2026 4 hotfix 2 span span span style font size undefined build span span style color rgb 24 128 56 font size undefined span 2026 4 1 26 span span span style font size undefined addresses seven cves listed below span p li ul p style direction ltr span style font size undefined according span href style font size undefined n able s release notes span span style font size undefined hotfix addresses span p p p table colgroup col style width 23 076923076923077 col style width 76 92307692307693 colgroup thead tr th p style direction ltr span style font size undefined strong cve strong span p th th p style direction ltr span style font size undefined strong description strong span p th tr thead tbody tr td p style direction ltr href style font size undefined cve 2026 125883 span p td td p style direction ltr span style font size undefined multiple xxe vulnerabilities span p td tr tr td p style direction ltr href style font size undefined cve 2026 125878 span p td td p style direction ltr span style font size undefined multiple ognl injection vulnerabilities span p td tr tr td p style direction ltr href style font size undefined cve 2026 125879 span p td td p style direction ltr span style font size undefined local privilege escalation root through span span style color rgb 24 128 56 font size undefined nable span span style font size undefined writable syslog ng configuration span p td tr tr td p style direction ltr href style font size undefined cve 2026 125880 span p td td p style direction ltr span style font size undefined stored xss through mms3 patch metadata administrator context span p td tr tr td p style direction ltr href style font size undefined cve 2026 125881 span p td td p style direction ltr span style font size undefined schema hint ssrf through service import schema validation span p td tr tr td p style direction ltr href style font size undefined cve 2026 125882 span p td td p style direction ltr span style font size undefined rce through file repository upload path traversal credited nate fair sprocket security span p td tr tr td p style direction ltr href style font size undefined cve 2026 91000 span p td td p style direction ltr span style font size undefined local privilege escalation through insecure ipc channels span p td tr tbody table p p p style direction ltr span style font size undefined further security updates planned follow up hotfix organizations should monitor vendor s guidance apply subsequent fixes they become available span p p style direction ltr span style font size undefined rapid7 also recommends reviewing n central servers downstream managed systems signs compromise engaging incident responders if suspicious activity identified span p p style direction ltr span style font size undefined latest mitigation guidance please refer span href style font size undefined n able s security incident notice span span style font size undefined span p h2 span style font size undefined rapid7 customers span h2 h3 style direction ltr span style color rgb 67 67 67 exposure command vulnerability management nexpose span h3 p style direction ltr span style font size undefined exposure command vulnerability management nexpose customers can identify n able n central potential vulnerabilities based presence software remote unauthenticated checks release november 11th 2026 note potential check type must enabled scan template before scanning span p p style direction ltr span style font size undefined unauthenticated checks validate vulnerable versions development span p h3 intelligence hub h3 p style direction ltr span style font size undefined customers leveraging rapid7 s intelligence hub can access suricata detection rules cve 2026 125883 cve 2026 125878 cve 2026 125879 cve 2026 125880 cve 2026 125881 cve 2026 125882 span p h2 style direction ltr updates h2 ul li style direction ltr p style direction ltr span style font size undefined strong november 10 2026 strong span span style font size undefined initial publication span p li li span style font size undefined strong november 11 2026 strong span span style font size undefined added hotfix availability seven cve identifiers hosted upgrade confirmation updated remediation guidance noted planned follow up hotfix span li li span style font size undefined strong november 11 2026 strong span span style font size undefined added availability suricata detection rules within intelligence hub span li li span style font size undefined strong november 11 2026 strong span span style font size undefined added exposure command vulnerability management nexpose subsection under rapid7 customers section span li ul",
-      "ts": 1795218376.2186704
-    },
-    {
-      "norm": "php 8 6 things gonna get lot more strict around here like parent disciplining misbehaving child php s annual update clamps down loose default behaviors curb malicious hacker horseplay",
-      "ts": 1795218382.704879
-    },
-    {
-      "norm": "friday squid blogging largest squid ever filmed p this href story largest squid ever filmed december 2006 near japan s ogasawara islands p p usual you can also use this squid post talk about security stories news i haven t covered p p href moderation policy p",
-      "ts": 1795218382.704898
-    },
-    {
-      "norm": "dialing data inside com s high profile heists p our analysis com affiliate vishing attacks cloud data theft extortion campaigns targeting healthcare finance actionable defense guidance p p post href data inside com s high profile heists appeared first href 42 p",
-      "ts": 1795218382.7049031
-    },
-    {
-      "norm": "west virginia legislature hit cyber incident affecting systems cybersecurity incident began thursday still ongoing friday west virginia legislature spokesperson said disruption did not spread other government entities",
-      "ts": 1795218382.7049084
-    },
-    {
-      "norm": "visa mastercard theft included info useful phishing but not draining bank accounts say researchers no financial details but plenty other clues",
-      "ts": 1795218382.7049131
-    },
-    {
-      "norm": "china s armory castle lays siege vmware vcenter zero day during last wave major vmware vcenter security updates china nexus threat group likely already had next zero day up sleeve",
-      "ts": 1795218382.7049172
-    },
-    {
-      "norm": "signal slams door prying ai agents protect privacy apple google microsoft called out failing provide developers adequate ai agent controls",
-      "ts": 1795218382.704921
-    },
-    {
-      "norm": "us companies use chinese open weight ai draws rebuke house chairmen investigation led house homeland security committee focused dangers u s companies using lower cost open weight ai models certain projects",
-      "ts": 1795218382.704941
-    },
-    {
-      "norm": "signal blocks apple google ai screenshotting response existential threat privacy app p encrypted messaging app now block those screenshots default following similar steps took microsoft last year p p post href blocks apple google ai screenshotting response existential threat privacy app appeared first href",
-      "ts": 1795218382.7049456
-    },
-    {
-      "norm": "container store restores systems after cyberattack firm s parent company neighborhood intelligence said statement container store restored website systems following cybersecurity incident this past weekend",
-      "ts": 1795218382.7049499
-    },
-    {
-      "norm": "n0n extortion gang leaks data jpmorgan chase visa mastercard customers data belonging customers three biggest companies global finance been leaked online after hackers breached third party service providers working jpmorgan chase visa mastercard read more my article hot security blog",
-      "ts": 1795218382.7049541
-    },
-    {
-      "norm": "bell canada says agentic hacker stole enterprise customer data bell canada confirmed agentic threat actor breached systems november 17 2026 stole enterprise customer data including information system used order provision telecommunications circuits",
-      "ts": 1795218382.7049582
-    },
-    {
-      "norm": "security words matter much tools maybe more talking cloud security using ai cyber leaders finding clear disciplined communication now front line defense capability across enterprise",
-      "ts": 1795218382.7049634
-    },
-    {
-      "norm": "whatsapp patches 3 security flaws including android bug suspected use scams meta owned whatsapp addressed security vulnerabilities including one impacting android app suspects may been exploited connection scam messages vulnerability tracked cve 2026 23871 been described case incomplete validation external ad reply urls whatsapp android whatsapp business android before 2 26 17 4 issue could",
-      "ts": 1795218382.7049677
-    },
-    {
-      "norm": "hackers use autonomous ai tool cairn find zero day take over server threat actors used open source ai penetration testing framework cairn find previously unknown vulnerability medical imaging application",
-      "ts": 1795218382.7049713
-    },
-    {
-      "norm": "china attackers deployed ai agents autonomously found exploited 0 day take over university server agents kept adapting nearly full day without human direction amazon ciso said",
-      "ts": 1795218382.7049756
-    },
-    {
-      "norm": "amazon says chinese hackers used cairn ai tool discover apparent zero day during attack university china linked threat actor used open source ai penetration testing tool cairn persistently attack two universities one case possibly discover zero day bug researchers said",
-      "ts": 1795218382.7049797
-    },
-    {
-      "norm": "we missed nvidia ceo scandal rocks ai industry this video dark reading editors discuss some news they didn t get chance cover jensen huang s resignation nvidia microsoft s recent cloud outage",
-      "ts": 1795218382.7049851
-    },
-    {
-      "norm": "bazuka android malware uses fake screen overlays hide credential theft device control cybersecurity researchers disclosed details previously unknown android malware framework called bazuka offers large language model llm integration victim management control scale dutch mobile security company threatfabric said discovered threat late october 2026 during investigation into nfc relay banking trojan bazuka full malware framework",
-      "ts": 1795218382.7049959
-    },
-    {
-      "norm": "dutch data watchdog highlights safety issues ai glasses devices found misinterpret medication instructions other scenarios impacting human safety",
-      "ts": 1795218382.705
-    },
-    {
-      "norm": "nsa resumes normal operations following internal network disruptions certain facilities remain under code orange non essential employees meaning delayed openings some must check their supervisors",
-      "ts": 1795218382.7050042
-    },
-    {
-      "norm": "whatsapp fixes flaw uncovered while disrupting scam campaign p tracked cve 2026 23871 vulnerability found whatsapp s security team may been used make scam messages more credible p p post href fixes flaw uncovered while disrupting scam campaign appeared first href",
-      "ts": 1795218382.7050087
-    },
-    {
-      "norm": "vendor data breach exposes chase visa mastercard customer info j p morgan chase warned suffered data breach after cyberattack third party service provider exposed customers personal information marketing data",
-      "ts": 1795218382.7050133
-    },
-    {
-      "norm": "still tracking company passwords spreadsheets you re flying blind tracking company passwords spreadsheets can leave administrators unaware weak reused compromised credentials stored shared outside approved systems nordpass explains centralized password management can improve credential visibility identify security risks simplify secure password sharing",
-      "ts": 1795218382.7050169
-    },
-    {
-      "norm": "spy court blasts uk secrecy forces government admit apple backdoor demand notice s existence can acknowledged without harming national security but precise demands remain under wraps",
-      "ts": 1795218382.70502
-    },
-    {
-      "norm": "test takers turn ai exam security plays catch up s hard detect whether someone using artificial intelligence cheat certification exams but tools processes emerging boost trust",
-      "ts": 1795218382.7050228
-    },
-    {
-      "norm": "friday squid blogging pacific flying squid populations dropping korean waters p climate change href p usual you can also use this squid post talk about security stories news i haven t covered p p href moderation policy p",
-      "ts": 1795218382.7050252
-    },
-    {
-      "norm": "artex beyond ai enabled penetration testing platforms ai enabled penetration testing red team frameworks can automate chain reconnaissance vulnerability testing follow actions lowering skill threshold attackers accelerating intrusions when tools misused",
-      "ts": 1795218382.705028
-    },
-    {
-      "norm": "arcticrat cybercrime gang profiles victim finances ai android malware expanded focusing cryptocurrency theft full device control attackers added advanced analysis stolen information",
-      "ts": 1795218382.7050304
-    },
-    {
-      "norm": "mdr pricing comparing asset based ingestion based costs p style direction ltr span style font size undefined when comparing span href fundamentals managed detection response mdr target self span style font size undefined mdr span span style font size undefined pricing helps understand same annual budget would buy each provider two proposals similar prices may give analysts access different evidence retain different periods leave your team different responsibilities those differences can affect happens when you need investigate compromised account trace attacker s low slow activity across your environment span p p style direction ltr span style font size undefined security leaders weighing asset based against ingestion based pricing useful comparison starts systems you need protect logs required investigate threats giving providers same requirements budget helps expose decisions behind each quote including you would need exclude pay more include span p h2 style direction ltr asset based vs ingestion based mdr pricing h2 p style direction ltr span style font size undefined under asset based pricing charge tied defined population assets you need establish provider counts workstations servers cloud resources other systems alongside which data sources service capabilities price includes predictable asset count can help budgeting but proposal still needs explain any integration limits additional service charges rapid7 asset defined any physical virtual endpoint server running supported operating system within monitored environment span p p style direction ltr span style font size undefined ingestion based pricing some cost depends volume data collected processed comparison needs account included allowance billable volume measured happens when usage increases retention search supporting infrastructure may also contribute overall cost depending commercial model rapid7 mdr customers access 13 months hot storage logs standard span p p style direction ltr span style font size undefined whichever approach you evaluating include technology analysts response support needed deliver service siem ingestion charge own cannot compared directly mdr subscription includes investigation response both proposals need account work your organization expects provider perform this clarity key successful partnership span p h2 style direction ltr make like like mdr pricing comparison h2 p style direction ltr span style font size undefined give each provider same asset inventory required data sources retention needs response expectations then ask fits within your annual budget any exclusions should visible proposal so you can judge their operational consequences before committing span p p style direction ltr span style font size undefined example one proposal might accommodate endpoint identity data while requiring you limit high volume network sources another might accommodate those sources but lack investigation capability your team needs looking mdr price per endpoint per gigabyte not resolve difference you need see service uses available data span p p style direction ltr span style font size undefined use these questions during initial demonstration turn pricing discussion into practical comparison span p p p table colgroup col style width 10 594179167112378 col style width 21 372676480510826 col style width 32 09110582659283 col style width 35 94203852578397 colgroup tbody tr td p style text align center direction ltr span style font size undefined strong comparison area strong span p td td p style text align center direction ltr span style font size undefined strong ask provider strong span p td td p style text align center direction ltr span style font size undefined strong evidence request strong span p td td p style text align center direction ltr span style font size undefined strong rapid7 s approach strong span p td tr tr td p style direction ltr span style font size undefined breadth collection span p td td p style direction ltr span style font size undefined which required sources fit within this budget span p td td p style direction ltr span style font size undefined list included sources exclusions extra charges span p td td p style direction ltr span style font size undefined asset based pricing unlimited ingestion supporting native third party telemetry across endpoint cloud identity email network confirm coverage your required sources proposal span p td tr tr td p style direction ltr span style font size undefined depth collection span p td td p style direction ltr span style font size undefined which events fields collected filtered summarized span p td td p style direction ltr span style font size undefined sample records showing reaches investigation platform span p td td p style direction ltr span style font size undefined rapid7 ingests normalizes telemetry supported technologies use demonstration proof concept verify which events fields your integrations provide span p td tr tr td p style direction ltr span style font size undefined detection value span p td td p style direction ltr span style font size undefined does this data support threats we need detect span p td td p style direction ltr span style font size undefined detection walkthrough showing data dependencies span p td td p style direction ltr span style font size undefined investigations combine security telemetry vulnerability asset risk context completed threat hunts show rationale data examined queries any linked investigations span p td tr tr td p style direction ltr span style font size undefined investigation history span p td td p style direction ltr span style font size undefined long data retained can analysts search span p td td p style direction ltr span style font size undefined search against older records retrieval costs explained span p td td p style direction ltr span style font size undefined rapid7 provides 13 months log retention confirm history available each data type 3rd party endpoint alerts different availability log based searches span p td tr tr td p style direction ltr span style font size undefined response scope span p td td p style direction ltr span style font size undefined your team do after validating threat span p td td p style direction ltr span style font size undefined case walkthrough documented responsibilities span p td td p style direction ltr span style font size undefined rapid7 mdr includes unlimited incident response covering investigation containment threat eradication incident reports document findings attacker timelines recommended corrective actions span p td tr tr td p style direction ltr span style font size undefined cost variability span p td td p style direction ltr span style font size undefined changes bill assets data volumes grow span p td td p style direction ltr span style font size undefined calculation using your growth assumptions span p td td p style direction ltr span style font size undefined asset based pricing unlimited ingestion removes data volume billing unit request written calculation additional billable assets changes service scope span p td tr tbody table h2 span style font size undefined keyloop s experience shows about mdr value span h2 p style direction ltr span style font size undefined alan simpson now rapid7 s field ciso ability collect previously restricted data made practical difference during his time span href target blank span style font size undefined keyloop span span style font size undefined span span style font size undefined em we previously ingesting around 250 gb day into splunk after moving rapid7 we reached 1 4 tb day including netflow full dns logging web application firewall logs these sources we d previously had limit simply weren t collecting so we gained much better visibility coverage em span p p style direction ltr span style font size undefined change also extended history available investigation greater certainty about long evidence would remain accessible span span style font size undefined em we also moved around 90 days retention splunk 13 months rapid7 even those 90 days couldn t relied retention depended much data we ingesting time having longer predictable history made real difference em span p p style direction ltr span style font size undefined price predictability key keyloop grew through seven mergers acquisitions each bringing different data profile his experience illustrates collection retention belong buying decision although these figures alone do not establish like like cost saving span p h2 style direction ltr compare mdr pricing beyond log volume h2 p style direction ltr span style font size undefined once you understand which data fits within quote examine provider can do collecting more logs can close visibility gaps but useful investigations depend relevant events consistent timestamps enough context connect activity user system ai assisted investigation also depends foundation required event never recorded leaves investigation gap span p p style direction ltr span style font size undefined infrastructure design can improve usefulness evidence routing access management interface through controlled path example creates clearer monitoring point helps distinguish expected access activity requiring investigation this log volume detection rule counts need assessed alongside environment operates span p p style direction ltr span style font size undefined during proof concept choose threat scenario relevant your business ask provider demonstrate detection evidence gathering response you should able see which records support conclusion happens if required source unavailable span p h2 style direction ltr your mdr cost change you grow h2 p style direction ltr span style font size undefined repeat comparison using plausible change such acquisition additional cloud workloads enabling previously excluded log source asset based pricing calculate effect additional billable assets changes scope ingestion based pricing examine increased daily volume applicable commitments retention requirements assuming asset counts stay same rapid7 contract renewals capped 5 uplift contract term not per year span p p style direction ltr span style font size undefined ask both providers document assumptions including implementation effort required licenses work your team continue perform you can then assess budget covers today which evidence remains unavailable would cost accommodate changes you expect span p p style direction ltr href services managed detection response mdr target self span style font size undefined explore rapid7 mdr span span style font size undefined discuss pricing based your assets required data sources retention needs response scope span p p style direction ltr span style font size undefined em referenced rapid7 contract terms capabilities correct time publishing subject change em span p",
-      "ts": 1795218382.7050335
-    },
-    {
-      "norm": "policy disclosure 2026 edition since 2021 project zero followed 90 30 vulnerability disclosure policy allowing vendors up 90 days remediate vulnerability plus extra 30 days soak time patch rollout our goal encourage faster patching give vendors time deliver patches users advent ai assisted vulnerability discovery exploitation changed threat landscape such vulnerability remediation timeline encouraged our disclosure policy clearly insufficient llms increased speed which attackers can find exploit vulnerabilities alongside risk multiple parties including malicious ones discover same bug vulnerability reported today presents much higher immediate risk users than one reported last year this environment crucial vendors move towards remediating vulnerabilities faster",
-      "ts": 1795218382.705036
-    },
-    {
-      "norm": "getting past post quantum cryptography discovery phase most organizations haven t sorted out their cryptographic estate enough even know where they d start post quantum cryptography pqc",
-      "ts": 1795218382.7050383
-    },
-    {
-      "norm": "chinese ai project scouts spies taiwan chip industry ccp built big data system scrape reams information learn about individuals abroad potentially target exploit them think alice huang lite",
-      "ts": 1795218382.7050407
-    },
-    {
-      "norm": "smashing security podcast 492 hackers turned russian cars into pumpkins you re driving your chinese suv when dashboard goes dark ten minutes later your phone rings stranger says they ve got digital key your car would you like back course you would ll 550 meanwhile three men been charged over scheme used deepfakes company bosses steal around 130 million hear more about happened simple human trick can foil fakes all this more episode 492 smashing security podcast cybersecurity expert keynote speaker graham cluley special guest danny palmer",
-      "ts": 1795218382.7050433
-    },
-    {
-      "norm": "anthropic s glasswing finds many vulnerabilities yet delivers few fixes researcher says vulncheck s patrick garrity found seven months project glasswing resulted only 217 vulnerabilities getting fixed despite thousands reported",
-      "ts": 1795218382.705046
-    },
-    {
-      "norm": "xg files falcon c2 flying under browser radar p we uncover falcon c2 browser based threat framework targeting governments via malicious scripts extensions antino implant p p post href xg files falcon c2 flying under browser radar appeared first href 42 p",
-      "ts": 1795218382.705048
-    },
-    {
-      "norm": "blind trust stealing credentials through csp content security policy supposed safety net stops html injection turning into xss usually works but sometimes doesn t because policy allows lists domain h",
-      "ts": 1795218382.7050507
-    },
-    {
-      "norm": "exchange breakfast turla s cereal tricks not kids eset research describes turla s cereal toolset featuring novel exchange email collection module unique c c mechanism sophisticated net execution tricks",
-      "ts": 1795218382.705053
-    },
-    {
-      "norm": "pinnacle crowdsourced security live hacking event intigriti can do businesses intigriti typically runs two types hacking events live hacking events targeted engagements where hand picked ethical hackers invited hunt vulnerabilities specific company s systems conference hacking events take place site existing industry gatherings bringing company s program hackers who already vicinity this article first two parts we focus live hacking events understand they involve they mean companies",
-      "ts": 1795218382.7050557
-    },
-    {
-      "norm": "turning up heat inside attacks europe s refrigeration systems p unit 42 examines recent cyberattacks targeting european refrigeration systems outlines defense mitigation strategies p p post href up heat inside attacks europe s refrigeration systems appeared first href 42 p",
-      "ts": 1795218382.705058
-    },
-    {
       "norm": "amazon china linked hackers ai agents exploited medical software zero day p threat actor used autonomous cairn ai agents discover exploit critical monai label vulnerability p p post href china linked hackers ai agents exploited medical software zero day appeared first href",
       "ts": 1795271028.3133583
     },
@@ -2732,6 +2564,114 @@
     {
       "norm": "ransomware hypervisor layer attackers use esxi vcenter features malicious purposes kaspersky experts analyze recent ransomware incident discuss hypervisor layer remains difficult monitor common access paths adversaries use reach protect your esxi systems",
       "ts": 1795796420.8454053
+    },
+    {
+      "norm": "friday squid blogging largest squid ever filmed p this href story largest squid ever filmed december 2006 near japan s ogasawara islands p p usual you can also use this squid post talk about security stories news i haven t covered p p href moderation policy p",
+      "ts": 1795828481.4072154
+    },
+    {
+      "norm": "critical vulnerabilities n able n central prompt hosted shutdown h2 style direction ltr overview h2 p style direction ltr span style font size undefined november 9 2026 n able span href style font size undefined announced span span style font size undefined responding public disclosure critical vulnerabilities affecting span href style font size undefined n central span span style font size undefined remote monitoring management rmm platform span p p style direction ltr span style font size undefined public disclosure titled able2shell independent researcher published details proof concept poc code covering 33 issues according disclosure issues include unauthenticated remote code execution rce privilege escalation root credential disclosure unauthorized account creation one unauthenticated chain combines xml external entity xxe session handling weaknesses execute code span span style color rgb 24 128 56 font size undefined nable span span style font size undefined service account other demonstrated chains involve administrator viewing malicious patch metadata use productadmin credentials rapid7 intelligence currently triaging newly published details span p p style direction ltr span style font size undefined before hotfix release november 10 n able reported scanning activity associated published poc code said had no evidence any customer environment had been successfully exploited vendor advised keeping n central deployments offline while developed validated hotfix hosted n central classic environments offline according same notice notice did not yet include cve identifiers cvss scores span p p style direction ltr span style font size undefined n central used managed service providers msps enterprise teams administer endpoints infrastructure compromise rmm server can put downstream managed environments risk n central previously been targeted through separate vulnerabilities including authentication bypass span href style font size undefined covered rapid7 august 2026 span span style font size undefined given platform s administrative reach availability public exploit code rapid7 recommends treating current disclosure emergency span p p style direction ltr span style font size undefined strong update 1 strong span span style font size undefined november 10 2026 n able span href style font size undefined released n central 2026 4 hotfix 2 span span style font size undefined build span span style color rgb 24 128 56 font size undefined span 2026 4 1 26 span span span style font size undefined addressing seven cves vendor span href style font size undefined plans follow up hotfix span span style font size undefined further security updates november 11 n able confirmed hosted n central servers across all regions had been successfully upgraded span p h2 style direction ltr mitigation guidance h2 p style direction ltr span style font size undefined strong rapid7 strongly recommends organizations operating premises n central servers upgrade n central strong span span style color rgb 24 128 56 font size undefined span strong 2026 4 hotfix 2 strong span span span style font size undefined strong build strong span span style color rgb 24 128 56 font size undefined span strong 2026 4 1 26 strong span span span style font size undefined strong emergency basis outside normal patching cycles keep servers offline until successfully upgraded strong span span style font size undefined hosted servers upgraded n able span p p style direction ltr span style font size undefined customers both hosted premises environments must also upgrade their agents probes maintain communication upgrade agents first then probes following span href style font size undefined vendor s compatibility guidance span span style font size undefined patch management engine pme span p ul li style direction ltr p style direction ltr span style font size undefined strong affected versions strong span span style font size undefined researcher reports testing n central appliance span span style color rgb 24 128 56 font size undefined span 2026 4 0 31 span span span style font size undefined n able s current notice does not specify full affected version range span p li li style direction ltr p style direction ltr span style font size undefined strong fixed versions strong span span style font size undefined n central span span style color rgb 24 128 56 font size undefined span 2026 4 hotfix 2 span span span style font size undefined build span span style color rgb 24 128 56 font size undefined span 2026 4 1 26 span span span style font size undefined addresses seven cves listed below span p li ul p style direction ltr span style font size undefined according span href style font size undefined n able s release notes span span style font size undefined hotfix addresses span p p p table colgroup col style width 23 076923076923077 col style width 76 92307692307693 colgroup thead tr th p style direction ltr span style font size undefined strong cve strong span p th th p style direction ltr span style font size undefined strong description strong span p th tr thead tbody tr td p style direction ltr href style font size undefined cve 2026 125883 span p td td p style direction ltr span style font size undefined multiple xxe vulnerabilities span p td tr tr td p style direction ltr href style font size undefined cve 2026 125878 span p td td p style direction ltr span style font size undefined multiple ognl injection vulnerabilities span p td tr tr td p style direction ltr href style font size undefined cve 2026 125879 span p td td p style direction ltr span style font size undefined local privilege escalation root through span span style color rgb 24 128 56 font size undefined nable span span style font size undefined writable syslog ng configuration span p td tr tr td p style direction ltr href style font size undefined cve 2026 125880 span p td td p style direction ltr span style font size undefined stored xss through mms3 patch metadata administrator context span p td tr tr td p style direction ltr href style font size undefined cve 2026 125881 span p td td p style direction ltr span style font size undefined schema hint ssrf through service import schema validation span p td tr tr td p style direction ltr href style font size undefined cve 2026 125882 span p td td p style direction ltr span style font size undefined rce through file repository upload path traversal credited nate fair sprocket security span p td tr tr td p style direction ltr href style font size undefined cve 2026 91000 span p td td p style direction ltr span style font size undefined local privilege escalation through insecure ipc channels span p td tr tbody table p p p style direction ltr span style font size undefined further security updates planned follow up hotfix organizations should monitor vendor s guidance apply subsequent fixes they become available span p p style direction ltr span style font size undefined rapid7 also recommends reviewing n central servers downstream managed systems signs compromise engaging incident responders if suspicious activity identified span p p style direction ltr span style font size undefined latest mitigation guidance please refer span href style font size undefined n able s security incident notice span span style font size undefined span p h2 span style font size undefined rapid7 customers span h2 h3 style direction ltr span style color rgb 67 67 67 exposure command vulnerability management nexpose span h3 p style direction ltr span style font size undefined exposure command vulnerability management nexpose customers can identify n able n central potential vulnerabilities based presence software remote unauthenticated checks release november 11th 2026 note potential check type must enabled scan template before scanning span p p style direction ltr span style font size undefined unauthenticated checks validate vulnerable versions development span p h3 intelligence hub h3 p style direction ltr span style font size undefined customers leveraging rapid7 s intelligence hub can access suricata detection rules cve 2026 125883 cve 2026 125878 cve 2026 125879 cve 2026 125880 cve 2026 125881 cve 2026 125882 span p h2 style direction ltr updates h2 ul li style direction ltr p style direction ltr span style font size undefined strong november 10 2026 strong span span style font size undefined initial publication span p li li span style font size undefined strong november 11 2026 strong span span style font size undefined added hotfix availability seven cve identifiers hosted upgrade confirmation updated remediation guidance noted planned follow up hotfix span li li span style font size undefined strong november 11 2026 strong span span style font size undefined added availability suricata detection rules within intelligence hub span li li span style font size undefined strong november 11 2026 strong span span style font size undefined added exposure command vulnerability management nexpose subsection under rapid7 customers section span li ul",
+      "ts": 1795828481.7509735
+    },
+    {
+      "norm": "friday squid blogging giant squid newfoundland p two href history p p usual you can also use this squid post talk about security stories news i haven t covered p p href moderation policy p",
+      "ts": 1795828486.478473
+    },
+    {
+      "norm": "pcloud confirms password manager hack after suspicious login alerts pcloud pass password manager suffered cyberattack users reporting unknown devices had connected their accounts even two factor authentication 2fa enabled",
+      "ts": 1795828486.4784894
+    },
+    {
+      "norm": "boston scientific data breach exposes personal medical info medical technology company boston scientific sending data breach notices individuals affected cyberattack firm",
+      "ts": 1795828486.4784923
+    },
+    {
+      "norm": "unpatched cacti zero day public poc gives remote code execution zero day vulnerability cacti network monitoring platform been publicly disclosed along proof concept exploit lets unauthenticated attackers execute commands vulnerable servers",
+      "ts": 1795828486.4784946
+    },
+    {
+      "norm": "suspected vietnam linked hackers target southeast asia south china sea espionage campaign vietnam sponsored hacking group been attributed attacks targeting southeast asian military government legislative organizations aim gather intelligence south china sea defense military agreements previously undocumented incursion set detailed socradar been codenamed weavelotus activity assessed comprised five intrusions thailand",
+      "ts": 1795828486.4784975
+    },
+    {
+      "norm": "php 8 6 things gonna get lot more strict around here like parent disciplining misbehaving child php s annual update clamps down loose default behaviors curb malicious hacker horseplay",
+      "ts": 1795828486.4785
+    },
+    {
+      "norm": "dialing data inside com s high profile heists p our analysis com affiliate vishing attacks cloud data theft extortion campaigns targeting healthcare finance actionable defense guidance p p post href data inside com s high profile heists appeared first href 42 p",
+      "ts": 1795828486.478503
+    },
+    {
+      "norm": "visa mastercard theft included info useful phishing but not draining bank accounts say researchers no financial details but plenty other clues",
+      "ts": 1795828486.478505
+    },
+    {
+      "norm": "china s armory castle lays siege vmware vcenter zero day during last wave major vmware vcenter security updates china nexus threat group likely already had next zero day up sleeve",
+      "ts": 1795828486.4785075
+    },
+    {
+      "norm": "signal slams door prying ai agents protect privacy apple google microsoft called out failing provide developers adequate ai agent controls",
+      "ts": 1795828486.47851
+    },
+    {
+      "norm": "n0n extortion gang leaks data jpmorgan chase visa mastercard customers data belonging customers three biggest companies global finance been leaked online after hackers breached third party service providers working jpmorgan chase visa mastercard read more my article hot security blog",
+      "ts": 1795828486.4785123
+    },
+    {
+      "norm": "security words matter much tools maybe more talking cloud security using ai cyber leaders finding clear disciplined communication now front line defense capability across enterprise",
+      "ts": 1795828486.4785147
+    },
+    {
+      "norm": "china attackers deployed ai agents autonomously found exploited 0 day take over university server agents kept adapting nearly full day without human direction amazon ciso said",
+      "ts": 1795828486.478517
+    },
+    {
+      "norm": "we missed nvidia ceo scandal rocks ai industry this video dark reading editors discuss some news they didn t get chance cover jensen huang s resignation nvidia microsoft s recent cloud outage",
+      "ts": 1795828486.4785192
+    },
+    {
+      "norm": "dutch data watchdog highlights safety issues ai glasses devices found misinterpret medication instructions other scenarios impacting human safety",
+      "ts": 1795828486.4785223
+    },
+    {
+      "norm": "spy court blasts uk secrecy forces government admit apple backdoor demand notice s existence can acknowledged without harming national security but precise demands remain under wraps",
+      "ts": 1795828486.4785283
+    },
+    {
+      "norm": "artex beyond ai enabled penetration testing platforms ai enabled penetration testing red team frameworks can automate chain reconnaissance vulnerability testing follow actions lowering skill threshold attackers accelerating intrusions when tools misused",
+      "ts": 1795828486.4785318
+    },
+    {
+      "norm": "mdr pricing comparing asset based ingestion based costs p style direction ltr span style font size undefined when comparing span href fundamentals managed detection response mdr target self span style font size undefined mdr span span style font size undefined pricing helps understand same annual budget would buy each provider two proposals similar prices may give analysts access different evidence retain different periods leave your team different responsibilities those differences can affect happens when you need investigate compromised account trace attacker s low slow activity across your environment span p p style direction ltr span style font size undefined security leaders weighing asset based against ingestion based pricing useful comparison starts systems you need protect logs required investigate threats giving providers same requirements budget helps expose decisions behind each quote including you would need exclude pay more include span p h2 style direction ltr asset based vs ingestion based mdr pricing h2 p style direction ltr span style font size undefined under asset based pricing charge tied defined population assets you need establish provider counts workstations servers cloud resources other systems alongside which data sources service capabilities price includes predictable asset count can help budgeting but proposal still needs explain any integration limits additional service charges rapid7 asset defined any physical virtual endpoint server running supported operating system within monitored environment span p p style direction ltr span style font size undefined ingestion based pricing some cost depends volume data collected processed comparison needs account included allowance billable volume measured happens when usage increases retention search supporting infrastructure may also contribute overall cost depending commercial model rapid7 mdr customers access 13 months hot storage logs standard span p p style direction ltr span style font size undefined whichever approach you evaluating include technology analysts response support needed deliver service siem ingestion charge own cannot compared directly mdr subscription includes investigation response both proposals need account work your organization expects provider perform this clarity key successful partnership span p h2 style direction ltr make like like mdr pricing comparison h2 p style direction ltr span style font size undefined give each provider same asset inventory required data sources retention needs response expectations then ask fits within your annual budget any exclusions should visible proposal so you can judge their operational consequences before committing span p p style direction ltr span style font size undefined example one proposal might accommodate endpoint identity data while requiring you limit high volume network sources another might accommodate those sources but lack investigation capability your team needs looking mdr price per endpoint per gigabyte not resolve difference you need see service uses available data span p p style direction ltr span style font size undefined use these questions during initial demonstration turn pricing discussion into practical comparison span p p p table colgroup col style width 10 594179167112378 col style width 21 372676480510826 col style width 32 09110582659283 col style width 35 94203852578397 colgroup tbody tr td p style text align center direction ltr span style font size undefined strong comparison area strong span p td td p style text align center direction ltr span style font size undefined strong ask provider strong span p td td p style text align center direction ltr span style font size undefined strong evidence request strong span p td td p style text align center direction ltr span style font size undefined strong rapid7 s approach strong span p td tr tr td p style direction ltr span style font size undefined breadth collection span p td td p style direction ltr span style font size undefined which required sources fit within this budget span p td td p style direction ltr span style font size undefined list included sources exclusions extra charges span p td td p style direction ltr span style font size undefined asset based pricing unlimited ingestion supporting native third party telemetry across endpoint cloud identity email network confirm coverage your required sources proposal span p td tr tr td p style direction ltr span style font size undefined depth collection span p td td p style direction ltr span style font size undefined which events fields collected filtered summarized span p td td p style direction ltr span style font size undefined sample records showing reaches investigation platform span p td td p style direction ltr span style font size undefined rapid7 ingests normalizes telemetry supported technologies use demonstration proof concept verify which events fields your integrations provide span p td tr tr td p style direction ltr span style font size undefined detection value span p td td p style direction ltr span style font size undefined does this data support threats we need detect span p td td p style direction ltr span style font size undefined detection walkthrough showing data dependencies span p td td p style direction ltr span style font size undefined investigations combine security telemetry vulnerability asset risk context completed threat hunts show rationale data examined queries any linked investigations span p td tr tr td p style direction ltr span style font size undefined investigation history span p td td p style direction ltr span style font size undefined long data retained can analysts search span p td td p style direction ltr span style font size undefined search against older records retrieval costs explained span p td td p style direction ltr span style font size undefined rapid7 provides 13 months log retention confirm history available each data type 3rd party endpoint alerts different availability log based searches span p td tr tr td p style direction ltr span style font size undefined response scope span p td td p style direction ltr span style font size undefined your team do after validating threat span p td td p style direction ltr span style font size undefined case walkthrough documented responsibilities span p td td p style direction ltr span style font size undefined rapid7 mdr includes unlimited incident response covering investigation containment threat eradication incident reports document findings attacker timelines recommended corrective actions span p td tr tr td p style direction ltr span style font size undefined cost variability span p td td p style direction ltr span style font size undefined changes bill assets data volumes grow span p td td p style direction ltr span style font size undefined calculation using your growth assumptions span p td td p style direction ltr span style font size undefined asset based pricing unlimited ingestion removes data volume billing unit request written calculation additional billable assets changes service scope span p td tr tbody table h2 span style font size undefined keyloop s experience shows about mdr value span h2 p style direction ltr span style font size undefined alan simpson now rapid7 s field ciso ability collect previously restricted data made practical difference during his time span href target blank span style font size undefined keyloop span span style font size undefined span span style font size undefined em we previously ingesting around 250 gb day into splunk after moving rapid7 we reached 1 4 tb day including netflow full dns logging web application firewall logs these sources we d previously had limit simply weren t collecting so we gained much better visibility coverage em span p p style direction ltr span style font size undefined change also extended history available investigation greater certainty about long evidence would remain accessible span span style font size undefined em we also moved around 90 days retention splunk 13 months rapid7 even those 90 days couldn t relied retention depended much data we ingesting time having longer predictable history made real difference em span p p style direction ltr span style font size undefined price predictability key keyloop grew through seven mergers acquisitions each bringing different data profile his experience illustrates collection retention belong buying decision although these figures alone do not establish like like cost saving span p h2 style direction ltr compare mdr pricing beyond log volume h2 p style direction ltr span style font size undefined once you understand which data fits within quote examine provider can do collecting more logs can close visibility gaps but useful investigations depend relevant events consistent timestamps enough context connect activity user system ai assisted investigation also depends foundation required event never recorded leaves investigation gap span p p style direction ltr span style font size undefined infrastructure design can improve usefulness evidence routing access management interface through controlled path example creates clearer monitoring point helps distinguish expected access activity requiring investigation this log volume detection rule counts need assessed alongside environment operates span p p style direction ltr span style font size undefined during proof concept choose threat scenario relevant your business ask provider demonstrate detection evidence gathering response you should able see which records support conclusion happens if required source unavailable span p h2 style direction ltr your mdr cost change you grow h2 p style direction ltr span style font size undefined repeat comparison using plausible change such acquisition additional cloud workloads enabling previously excluded log source asset based pricing calculate effect additional billable assets changes scope ingestion based pricing examine increased daily volume applicable commitments retention requirements assuming asset counts stay same rapid7 contract renewals capped 5 uplift contract term not per year span p p style direction ltr span style font size undefined ask both providers document assumptions including implementation effort required licenses work your team continue perform you can then assess budget covers today which evidence remains unavailable would cost accommodate changes you expect span p p style direction ltr href services managed detection response mdr target self span style font size undefined explore rapid7 mdr span span style font size undefined discuss pricing based your assets required data sources retention needs response scope span p p style direction ltr span style font size undefined em referenced rapid7 contract terms capabilities correct time publishing subject change em span p",
+      "ts": 1795828486.4785361
+    },
+    {
+      "norm": "policy disclosure 2026 edition since 2021 project zero followed 90 30 vulnerability disclosure policy allowing vendors up 90 days remediate vulnerability plus extra 30 days soak time patch rollout our goal encourage faster patching give vendors time deliver patches users advent ai assisted vulnerability discovery exploitation changed threat landscape such vulnerability remediation timeline encouraged our disclosure policy clearly insufficient llms increased speed which attackers can find exploit vulnerabilities alongside risk multiple parties including malicious ones discover same bug vulnerability reported today presents much higher immediate risk users than one reported last year this environment crucial vendors move towards remediating vulnerabilities faster",
+      "ts": 1795828486.478541
+    },
+    {
+      "norm": "smashing security podcast 492 hackers turned russian cars into pumpkins you re driving your chinese suv when dashboard goes dark ten minutes later your phone rings stranger says they ve got digital key your car would you like back course you would ll 550 meanwhile three men been charged over scheme used deepfakes company bosses steal around 130 million hear more about happened simple human trick can foil fakes all this more episode 492 smashing security podcast cybersecurity expert keynote speaker graham cluley special guest danny palmer",
+      "ts": 1795828486.4785447
+    },
+    {
+      "norm": "xg files falcon c2 flying under browser radar p we uncover falcon c2 browser based threat framework targeting governments via malicious scripts extensions antino implant p p post href xg files falcon c2 flying under browser radar appeared first href 42 p",
+      "ts": 1795828486.4785478
+    },
+    {
+      "norm": "blind trust stealing credentials through csp content security policy supposed safety net stops html injection turning into xss usually works but sometimes doesn t because policy allows lists domain h",
+      "ts": 1795828486.4785514
+    },
+    {
+      "norm": "exchange breakfast turla s cereal tricks not kids eset research describes turla s cereal toolset featuring novel exchange email collection module unique c c mechanism sophisticated net execution tricks",
+      "ts": 1795828486.4785547
+    },
+    {
+      "norm": "pinnacle crowdsourced security live hacking event intigriti can do businesses intigriti typically runs two types hacking events live hacking events targeted engagements where hand picked ethical hackers invited hunt vulnerabilities specific company s systems conference hacking events take place site existing industry gatherings bringing company s program hackers who already vicinity this article first two parts we focus live hacking events understand they involve they mean companies",
+      "ts": 1795828486.4785585
+    },
+    {
+      "norm": "turning up heat inside attacks europe s refrigeration systems p unit 42 examines recent cyberattacks targeting european refrigeration systems outlines defense mitigation strategies p p post href up heat inside attacks europe s refrigeration systems appeared first href 42 p",
+      "ts": 1795828486.4785616
     }
   ],
   "seen": {
@@ -2755,9 +2695,7 @@
     "07547d58b9a1af12e16f067cbaafb344e2c2a20e": 1795743245.3059714,
     "076062d7e09e35fecf3a32e6905d15e875a3cf81": 1795540190.9067857,
     "09be57be38cc6ef0df6167bbfc72c641daca307d": 1795356967.660989,
-    "0a863e6f7d52efa1318c7843f1911ec8a41cdc04": 1795218382.7049456,
     "0ab00b40e01f0da8ee78bceb0ea35d82e8c537da": 1795657221.0792422,
-    "0abe4221510a96d08be27478dc99a4d5c36969bb": 1795218382.7049713,
     "0ad755f2681c37300b1d468669917e8ab4a81c43": 1795271037.5493512,
     "0af9a7510182f44f9a947fe6a7acad6e9cb12986": 1795455512.5847247,
     "0b94ce10b8ce9ccb21b39efe71d9f5262553bab1": 1795657221.0792108,
@@ -2790,25 +2728,24 @@
     "15e93fc59e91b6402c20a9cfb3e88235ff2e3077": 1795796420.8453522,
     "163b6c2cf9aabd41112e9eb62937d5ebc4588fc7": 1795389799.4382188,
     "16765aea3bd9ae9d48c6d21bb706bd121b9bfcd6": 1795271028.3622181,
-    "16c64913506b4d36668489f550bb87015ae61399": 1795218376.2186704,
+    "16c64913506b4d36668489f550bb87015ae61399": 1795828481.7509735,
     "16f17e0f718480e7d3328f05399de3da4fce6e90": 1795271037.5493891,
-    "170cd467c630bfa77ba05953b8a786a7c597be35": 1795218382.705,
+    "170cd467c630bfa77ba05953b8a786a7c597be35": 1795828486.4785223,
     "17a805c0d69ce85842a9e8ad5114fed280c02cc7": 1795657212.2973292,
     "17e792aba6bb75eef3bd960d317bdfd4f1c6c32c": 1795455505.2472007,
     "17ea7e9dd6a3abc4bf21a13b555c614004f09868": 1795710881.1239285,
     "17faeada10e472c5363315e8b3b4212858bf95e8": 1795540190.9068244,
-    "1838248a60d9044040f647fbae585a096108889a": 1795218382.705036,
+    "1838248a60d9044040f647fbae585a096108889a": 1795828486.478541,
     "1857708e01dda10ef98346efa7797561d7757f56": 1795743242.8379042,
     "18bf141d2661557ca190612f030aeca98ea90a13": 1795301614.150971,
     "1928c420c5ba3015d9164f49ba7c1e0d60b9b3a6": 1795492398.3735685,
-    "19cca4f1450a3e9083b1650de3fe32ecbba3a59a": 1795218382.7050169,
     "1ab128c432ff969e972e5e32007c8e091a5015ea": 1795492405.2353168,
     "1b6528cb525ca35ccfe4c6de278bdda1b74f925a": 1795271037.5494518,
     "1b6ff172619baa2d142e7278217f40487aa6ac81": 1795492405.2353096,
     "1c0fdc3979bbc9ce51dece15fa93e252bb7aad91": 1795743245.3059595,
     "1c7c6dd2f39fa172476a890f3c7ab98cdf630386": 1795657221.0791671,
     "1cfea13344026141f3bf25ad1a41bfeff02fd2e1": 1795455512.5848026,
-    "1d4b67e404ea5230e0df44c12e73e8f97f6140b3": 1795218382.7049131,
+    "1d4b67e404ea5230e0df44c12e73e8f97f6140b3": 1795828486.478505,
     "1d57aa7ac03a11fd8535c166345d58b718d368a8": 1795710881.1240206,
     "1d721fa902295cc1323e6b897f6a88f97bec8dd8": 1795356967.6609793,
     "1dcff8c3a6af7d2cfc3a98badf22225c4bc31144": 1795657212.4980872,
@@ -2839,10 +2776,9 @@
     "250a0b74db7d26da7e35d8832c74a3cf35757d6e": 1795301614.1509867,
     "2512a65d290b11c25bfcaca26768ab4de75906d8": 1795710881.1239445,
     "253aae07f4b890d130bc6ef863c4dd3181e3f166": 1795271037.5494738,
-    "26bc7212e5d9b4f97290702ee1b33d70790e2fa9": 1795218382.7050252,
     "26e45f49886ee8252109ffa68407ca2578f314b1": 1795492399.5865908,
     "2735ba7149f5684227923a9ce6a8923b09d81d46": 1795301607.8620164,
-    "273c692ec6e6b04d20171f7a5dfd62ba812ccb64": 1795218382.704921,
+    "273c692ec6e6b04d20171f7a5dfd62ba812ccb64": 1795828486.47851,
     "2778b393e63471997b0074f9fce946641cb7ebab": 1795796420.8452888,
     "27ab83f28f4ea068de5b4e4eb55bd572a3572f78": 1795625782.6268559,
     "27b4ee16aef662444d519ed9053b66df11e55431": 1795301614.1509016,
@@ -2858,7 +2794,6 @@
     "2c3a16c81fa1a351b907fa90c6eddb13774a7c75": 1795301614.1509821,
     "2c5ffa47fb07c421dd4a2674bf357af35b5e6891": 1795571966.5870576,
     "2cde4a64c5deb9d2296574f35a5dc78fd30c0cbf": 1795743242.4986835,
-    "2cf87a19124d5e799883e6672f53cb01e613fb76": 1795218382.7050228,
     "2db8a6398bacd1876d08b32e21d603a3a460ff28": 1795571971.5700672,
     "2f52955775c1bf95ac04f20864e0ad96a12b5a97": 1795301614.1509264,
     "2f8cd8afa8069277b7b4cb2fedf1a838b17e8c4e": 1795540184.48596,
@@ -2876,7 +2811,7 @@
     "340d85abf6ad1ed7387adcd0b4b7d43aee91ba68": 1795571966.6035922,
     "341390730f1c688353c782eaa3ae2e898e025cd0": 1795657212.571895,
     "34ba075e7282f4eab10296adac5eb32d6cfb3b1c": 1795796420.8453376,
-    "35aed7f27fbb0710a0b6e764ce2aa825cc104949": 1795218382.7049851,
+    "35aed7f27fbb0710a0b6e764ce2aa825cc104949": 1795828486.4785192,
     "35e5f1497c5f1f3fa49e22f83190a2a931cfb682": 1795271037.5494697,
     "37c0e3e1926b305e1a0576eb03ab4118406f6e94": 1795356967.6610556,
     "37e152d36e89d0cb7aa087d4c17f9e4bca40e88e": 1795710881.1240015,
@@ -2895,14 +2830,13 @@
     "3b8d0a7e0d039061990501c93311eaf6d379dac0": 1795571971.570048,
     "3b94bca926af7e1bc6835ec9e8c0a9467d991fd3": 1795540190.9068882,
     "3bc6f96dec950b6c538d3b939f8979345f5551a8": 1795625782.6268735,
-    "3c3eab5ceb3d840cde407e2b8e8121a1d4565916": 1795218382.705028,
+    "3c3eab5ceb3d840cde407e2b8e8121a1d4565916": 1795828486.4785318,
     "3d382cf2ec8f53747a0aac1b653fb2f53aa00bc0": 1795710881.1240475,
     "3e0e8a60cada458e319efbd93caaddcca6aedcf9": 1795492405.235313,
     "3e6c0975b1398ac2d67467d1e01fc92947c3fe41": 1795796420.84534,
     "3e6f4335ce749d6c237aa4c8e42c360b84b4f664": 1795389799.4382303,
     "3ed3a3d15d3e9c82e7b0d93108da4ae7d1418017": 1795356961.0097885,
     "3f8b89d0633c5e44c07fc70ffa0e44a27698d415": 1795271037.5494373,
-    "3fe5e276bee2ad65943d176ec6438bd0e03f31f5": 1795218382.705046,
     "40127dd3512489a1ee2816e2727c5213a29c3374": 1795571971.570139,
     "4057ced6d5b2467393aad90e35258ca56a5322f6": 1795301614.1510231,
     "4088b82c9d863903fb40a4711199016ed18337a0": 1795271037.5493834,
@@ -2916,7 +2850,7 @@
     "44a9761e5ecbc6bdde571928ad2f1377510ce1d2": 1795356967.6610806,
     "44ee8f3c74836845ce9f7efd96dcf59a098ce606": 1795625775.6620567,
     "453252f9d2559d7e3d9bedcc4c5db404a1764123": 1795492405.2352803,
-    "453a571c3295ab4cc781fa4c1a142b5055249570": 1795218382.7050433,
+    "453a571c3295ab4cc781fa4c1a142b5055249570": 1795828486.4785447,
     "457c08cf27ea6f55daaa92093832e77f774d9c0b": 1795710881.124016,
     "45c257ac25c83e0531f470db2a54a81351a4ae76": 1795625782.6268625,
     "45e8d2f82c3e3e03ac43b54782513419f4c19c96": 1795356967.6609719,
@@ -3011,7 +2945,7 @@
     "670f8cdb3eabf4e5ad0f0e3f5871ef8d92db4a17": 1795540190.906881,
     "67114ad22bf7c88cb55fe0bb18ad732accfa685f": 1795356967.6610665,
     "682371bfbe60c49426922f808c89b48271c976bb": 1795301607.143938,
-    "688d34085c16818f44f54f4fcb2ced49ab68f449": 1795218382.7049541,
+    "688d34085c16818f44f54f4fcb2ced49ab68f449": 1795828486.4785123,
     "69311314e8504d77659ef8a5ca807456dba32627": 1795710881.1240058,
     "696ee508e20b6acef3f2a9bd16b256f101de4ff3": 1795301614.1509447,
     "69b76f0fd14e4423c5d8a715d15cf6799e5bd408": 1795540190.9068956,
@@ -3026,8 +2960,6 @@
     "6bd6585835c425692b6a5223c7f2e3b29b588bb0": 1795356967.6610293,
     "6c2509d76cccb4111a725ef84c204c90e4e1a421": 1795571966.6203046,
     "6c270107d3982041e8ea470aeac3e0a9fcf00edc": 1795571971.5700457,
-    "6c623452a14a6d231ad59fba2e65f23ed355f3b0": 1795218382.7049582,
-    "6cc616c5c6e76f971a0e2bcbe54a9b1f6084cddf": 1795218382.7049677,
     "6e0f77f6356c21fed890343c3ce4279c16f5b53b": 1795657213.7209263,
     "6e5dcf12da7136311195fbbf9d7e5aa5f80b37ca": 1795710881.123908,
     "6e65e608df54f4fbddc08bcdf999a75ed5b4418a": 1795540184.8474975,
@@ -3043,6 +2975,7 @@
     "71189ac539a86087eb46f4c50badb24999ecafc2": 1795743242.56314,
     "7194980f82683f60aafe36a7ddae4cfdb91a2cb2": 1795625782.626842,
     "720ee136746742db8e3aee85a54048acb346f5f5": 1795492405.235319,
+    "72cf1a5347d22a6298f4f8f7e969795e732d4dc4": 1795828486.4784923,
     "730e7d1302c4fb712eaf14770689cdd71afe5850": 1795571971.5701313,
     "7398662a36a5555addf361e8b68236de73509a92": 1795796414.7567017,
     "759d50b40080dffe4e747f16653da07ff64c7b0b": 1795455512.5847714,
@@ -3084,7 +3017,7 @@
     "816f6eeeda5b4d5c1ea32ac9741fc7eb73d22370": 1795389799.4382393,
     "82627ad424902f8a418092d1e5d7be4912ef7677": 1795356960.9233327,
     "828536289363d134a54275a97759ed447416f6bc": 1795455505.0610342,
-    "82b76084c3aaddba0be3cf30ffb44c2f0c9468ae": 1795218382.7049756,
+    "82b76084c3aaddba0be3cf30ffb44c2f0c9468ae": 1795828486.478517,
     "82d038c6d3891970c3968660dfbd5db07474f964": 1795796420.845384,
     "830c2e13c09821d1256bf53547474286d7aefc10": 1795657221.0792377,
     "8368f9805644f450674f566d2bd5b16dbebcc80a": 1795657221.0792513,
@@ -3099,7 +3032,7 @@
     "851d3d22fd3bfffd9d569154afdcb9253d32b866": 1795455512.5847547,
     "855a50efe0f3bb9dc0195c850575ad6e38edf54f": 1795389799.4381697,
     "85658b0bc9736face23afb2d6f956ff7b60ed128": 1795455512.584736,
-    "862c3998dd63db20fc587cc4bab2e79caf66eb79": 1795218382.7050335,
+    "862c3998dd63db20fc587cc4bab2e79caf66eb79": 1795828486.4785361,
     "86a9a6a52fe411ac7d5aab1d6907f0d3d3d2a769": 1795455512.5847793,
     "86b25c299269d9b0d2c7e5aea1ce97354f9d825f": 1795540185.0824566,
     "875b913eba1346d0c8a0f2ec4485d9df21c7322c": 1795796420.8453703,
@@ -3109,6 +3042,7 @@
     "8a8c85f07fb323844a6aec62f5ba1df27af7b2bb": 1795492405.2353683,
     "8b19fec09d4d88323624ed7c6dd2e0f7b4026727": 1795492399.5139282,
     "8b2cb28d05e4a91616928a2c05eff84cb150b08e": 1795571971.570123,
+    "8b62149719af4472f4a087a556d7f7b40188d309": 1795828486.4784946,
     "8bb6776490a4ecf863f52580c474280fb52ded78": 1795389799.4381936,
     "8c3b50d164d98c781c40f207a1cf560dec425d1d": 1795271037.5493968,
     "8c5b93afc1b1388bb1dd43e76b2d3031636a754c": 1795540190.9068198,
@@ -3137,7 +3071,7 @@
     "94b7e06c0017811c555cbdf66119fce35181f22b": 1795492399.50956,
     "9500df075a9b45c20ed054106945e659fd708de8": 1795301614.1509497,
     "9514da96b5bda19d65a54e9c017ab0a5fa7c746d": 1795571971.5701354,
-    "95e1986b820d2a3404c1e1596549fd8d6659dd46": 1795218382.7049634,
+    "95e1986b820d2a3404c1e1596549fd8d6659dd46": 1795828486.4785147,
     "961cd313ea29ecc0215c175aebde1f1ce7d8c0d3": 1795625782.6268756,
     "967a6a914dcf3b177071647af43573947c7fd18b": 1795271029.0064769,
     "96edb4ed0f1cdbb3104e477ac86712a99137cdad": 1795796420.8453066,
@@ -3153,17 +3087,17 @@
     "999ceca9b1cf268ba9bd51e5b1940a001840c38a": 1795389799.4382052,
     "99bc87f8212c6dd2d19f332b5eff4d5053722dfb": 1795796420.8453457,
     "99e7d99b0dd331dc2a529085f7dcb606f443f3c0": 1795301614.1509185,
+    "9a5641a98b228a3125f95d9a279ca0813f5d074a": 1795828486.478473,
     "9a79a19be2ddac33e6ade3a09e4844785ecd2383": 1795492398.2855685,
     "9a79f6f175dbf801ee9889b31e886053524dc7d2": 1795796420.8453174,
     "9a86af6e8c2fabbffa56e92e066b857378cef2f9": 1795389799.438233,
-    "9ad18cf8e21e4bbb8cb1d87af789a69a68131b46": 1795218382.7050557,
-    "9b2dca1639f78a8aa66d231c4d5e5f6434d3f27d": 1795218382.704879,
+    "9ad18cf8e21e4bbb8cb1d87af789a69a68131b46": 1795828486.4785585,
+    "9b2dca1639f78a8aa66d231c4d5e5f6434d3f27d": 1795828486.4785,
     "9b7a0cbc311dee811f3caed8e923b009f4e82509": 1795356967.6610613,
     "9b9f66e814c29bdd06a36e3490c2be2083349707": 1795743245.305969,
     "9c11c754eaec73eb91a8bcfe15c2d1b6773590f1": 1795492398.327348,
     "9d23693381162a5275c39d31de2818c36ad94dbc": 1795455512.5847683,
     "9da47b8efcbbfaa0c204aa599ea9e3c315daa1bc": 1795271028.3764315,
-    "9dbbebdeb6a3a85df4b204a905c4843344a5a971": 1795218382.7049959,
     "9ea50599edc5755326ab43d9a4394b2655b03500": 1795492405.2353485,
     "9f03b9c501b63676eb87bac46d9306e44efb18b0": 1795301614.1509302,
     "9f2af01a2aa93e76230a37986bdfc5ee27046994": 1795356967.6609676,
@@ -3188,11 +3122,11 @@
     "a4a98e0e7ba86643e9a523ccca03244f93384748": 1795271037.5494614,
     "a6ac99d677c5097594dd7c0587bb57eed5eae729": 1795540183.8207371,
     "a726f2ce6dd2d51bdda4071abe0e503c03568e7b": 1795571971.570086,
-    "a731319ae302ffd3ffffa01ec066e4adfb6e1621": 1795218382.705053,
+    "a731319ae302ffd3ffffa01ec066e4adfb6e1621": 1795828486.4785547,
     "a877d9e96dc90632a7e672e9b952089c7269f592": 1795389799.4382207,
     "a87887de0fe6255868457ae68ba36b01460650af": 1795389799.4382253,
     "a903b208e0b06d44368bc390ad480fc2dd92949d": 1795540183.7208843,
-    "a9aa37ceddf16814c33589d65029bbf5bd1bb0b3": 1795218382.7049172,
+    "a9aa37ceddf16814c33589d65029bbf5bd1bb0b3": 1795828486.4785075,
     "a9c6a0863b5f39e8291ee2f4e6479c3c87885dbb": 1795271037.5494,
     "a9fd8af64558c12fc2e4251ec6eb4f70c6e6868c": 1795301607.6694357,
     "aa36d77dd524cea8975ac47b7c7f61471405d188": 1795356967.6609755,
@@ -3214,7 +3148,6 @@
     "b1f8c189922ad99d22f819efa7f6dd2b2b50f7a2": 1795356967.6610777,
     "b262cf1dbe350426e16ec5419d674cf106e84e69": 1795540190.9068856,
     "b2ec86257c9b955b049b09110bfd90f963dde1a0": 1795625782.6267262,
-    "b3099b7219afcaab9c361fde14bf17394af6dc60": 1795218382.7050087,
     "b447149dad63dad449b9eb78afaf20670b17ebb0": 1795571966.3991418,
     "b4a9690560183d3cc2803b53f0da7d19f19f831a": 1795540184.6662729,
     "b4d165a3ec28bc9b05c1a2689e12410cd8bd186c": 1795796420.8453808,
@@ -3224,7 +3157,6 @@
     "b6cd1d92c2adabec4272eca987e16b3ad7120051": 1795743245.3060076,
     "b7d530528fbf0320f72b8e34deeb98f247076a53": 1795301614.150964,
     "b892b9f7a4b76dc037e3fae8a7d341e5c52c957a": 1795356967.6610353,
-    "b8f3cb130e069b0b203c961a9bc79b62b27d18ee": 1795218376.0513375,
     "b93540ef2a5b4c4cdc073858bb9e89669e5792a0": 1795657221.079176,
     "b955104ed90db8b9dc43fb60016d50787be45659": 1795796420.8454053,
     "b96c0a11c50af1f6bd0115906d7bd38b497de19f": 1795356960.9144042,
@@ -3236,7 +3168,6 @@
     "bb379b79e74f5c02b7ef93b8c32dedec64fc4386": 1795710881.1240265,
     "bb4d635f16b764f2f41db42d8ba3ec0f402ff52d": 1795625782.6267672,
     "bb9d1e6ae5622ebde36cb5a3bbeac01f9c2dad06": 1795710881.123949,
-    "bbc19bb6f991b9cb21ec42bf5597f5c2a2772d0a": 1795218382.7050133,
     "bc11c30f893ab623dd8d179c91a820dfd302315c": 1795455512.5847929,
     "bcc6ff74f523278724c25f76d72a99d3ef120f92": 1795455512.5847309,
     "bd06a5a08ad1be774387c3cea9b5ccaad8a2948c": 1795389799.438243,
@@ -3256,6 +3187,7 @@
     "c23cd2a7d9a6c49535185faf77d9e3de7a66bbb9": 1795455504.8641493,
     "c2d9c9d48347efcec074920f0e1b12c72d7745a2": 1795625782.6268005,
     "c31168ebf53521e3d88c7d9463756ce0f8ee4aeb": 1795710881.1240506,
+    "c33ac200edb1beb10e6a7b4724c7c44483a55b63": 1795828486.4784894,
     "c39fbe2f26b949843506e945d3e8d0e54dbae445": 1795710874.668446,
     "c3c6570192bbc54d428a1afaf848655ef7fc0353": 1795657221.0792902,
     "c412b57f8a94b4cfa7f647038e8fa960ca7d5fc4": 1795455512.5847876,
@@ -3283,13 +3215,12 @@
     "cbfae604540527224b37841e9d4e127bf2a7ac69": 1795657221.0792546,
     "cc0f1f97276ebdca3430b91a69181521e4951adb": 1795301614.1509557,
     "cc24de6d6f59e2ec69da17b285779de6e8e71da1": 1795625782.6267536,
-    "cca2595a4842309021f45cd1622694cd9071760d": 1795218382.7050507,
+    "cca2595a4842309021f45cd1622694cd9071760d": 1795828486.4785514,
     "ccf02002c5acae853deadfdce22d458c3079c17a": 1795492405.2353253,
-    "cd038ca0a29b9504418e113f1e23c09140ccbc7b": 1795218382.7049797,
     "cd8d05ecd6132949a1eb7a0c7453147b7824fb63": 1795710881.124059,
-    "ce2362fa272a2dc24fb12c5c84b77e345a05a3dc": 1795218382.705058,
+    "ce2362fa272a2dc24fb12c5c84b77e345a05a3dc": 1795828486.4785616,
     "ce48c7fb264138d8526b6009cee06bae56ced506": 1795356967.6610324,
-    "ceba7551bef304a7a0e28a70f5711cf19db73799": 1795218382.705048,
+    "ceba7551bef304a7a0e28a70f5711cf19db73799": 1795828486.4785478,
     "cebfa689962e40ae4aa673bb67a48a0bde04deea": 1795657212.5739934,
     "cee6ea3378f23cdbe261de659e7abe9960d9f1a5": 1795356960.714193,
     "cf1fbcf6d08fbaf02b4418ba2db931a5a091d604": 1795657213.7478516,
@@ -3301,7 +3232,7 @@
     "d0dd2916cf583a593ab5e8f54f3b3bc181bfb6f8": 1795455512.5848305,
     "d0e888ada6d9aed92345d86aeb94f456798c3695": 1795625782.6268375,
     "d0fa42b264a11ddcddc145f4ee823aca31b022f3": 1795271037.5494082,
-    "d20cb913632d0a35f0e5d077baa71ad3b191ead5": 1795218382.704898,
+    "d20cb913632d0a35f0e5d077baa71ad3b191ead5": 1795828481.4072154,
     "d2294fb10fbbbd5e2ffdf62564887600892afaa7": 1795540183.7445006,
     "d229882219e53534ecafb85c07363a9e8c684d62": 1795271028.6667178,
     "d2fa6f8b0d0492be90aaf377ba299666ebf61e03": 1795356967.6610582,
@@ -3329,7 +3260,6 @@
     "d903612ff256e76603be29b7fa385bf3a2285801": 1795271037.5494857,
     "d9ac136d5ea3fc1ed85c914c0713a3204cb7bc9e": 1795356961.046194,
     "d9d2b8e7310259b02935f7a5eae4787c9b8a08cb": 1795389799.4381478,
-    "d9fc7bca781a0c5021389c6b2de9e6d0ea0125d2": 1795218382.7050407,
     "da5951a3ad532da877205353f07c5cbc08b84df3": 1795301614.1510108,
     "da71ce67dae968b9000b1e79aac9d90a62d74612": 1795710874.642313,
     "db22ce6bdf49656950527d4254c30edae4d04ece": 1795540190.90681,
@@ -3340,11 +3270,9 @@
     "dd168b1ec489e2d23474f811bbe090c915f5af9a": 1795710881.1240125,
     "de81157016f8e4745571120a206c6babaa32ccc6": 1795796420.8453994,
     "dfb731a444878dea4944aa46ca49e3eba47f2764": 1795743242.5875883,
-    "e010061a1eb7f0ca2916ad58651c04b26cfec7ae": 1795218382.704941,
     "e0bf93ab8a32087afa156c6cdfd87b0d8fd76081": 1795743245.3059533,
     "e0fc36cba33107832721a8d6e2cf0662bdad4453": 1795492399.505194,
     "e101d52cda4a15a34f16d29e06b3cc4761df8c21": 1795455512.584728,
-    "e12779d5806a7d2615d2f1e1fbe3950aafe1b77b": 1795218382.7050304,
     "e13089d7b52c9b0ab8e2544d47704920f8ffa59d": 1795625782.6267579,
     "e13b1aaf2514922af9dc9836b30b5f06b869c430": 1795271037.5494773,
     "e16fac9bbbbd758a720e741130353b08b887d9f9": 1795389799.4381747,
@@ -3368,21 +3296,19 @@
     "e8e6c985877b75beb0cdb033110ce71dc537fe82": 1795540183.7866786,
     "e94ac3e9d5200e656b1651d08c49b2ca30260f74": 1795540183.8153892,
     "e9579899f60ddf7f4f917cc0eae03b289baefaba": 1795271037.5493803,
-    "e9f16b1caffc5770ee0cf81ccc5e9c1337250d08": 1795218382.7050383,
     "eb5289ea1f808c40297d57f14d02d163820a1096": 1795492405.235361,
     "eb9de4818ae16063f495bff8fb050c1369957963": 1795492405.2353427,
     "ec26f962ff25cd198335e6497857b1e669e67c54": 1795301607.5863838,
-    "ec3643e6e571f139f492aaeef4ed8e9301134ba1": 1795218382.7049031,
+    "ec3643e6e571f139f492aaeef4ed8e9301134ba1": 1795828486.478503,
     "ec84434612dba143f33d4d6ecaef107bf078880c": 1795492399.3732076,
     "ecb734b1dc1c9d9f360e185c227b13ee6fcd8f85": 1795540183.7585378,
     "ed11d95a721bf67df9d50a43d861e1b348e2ca04": 1795455512.5847416,
     "eddd0da598237743b87cbe005a3a2d00cc08c8e3": 1795796414.7200189,
-    "edfeced150c6a6c3fa7c66876012ed16a8d958ba": 1795218382.7049499,
     "ee8b1c5bd7a18200fe4ad789124e8e0008d94f96": 1795743242.8511903,
     "ef949789e56feb86e70951f178fd85119b2aaf78": 1795492405.2352858,
     "efdcd7b00458ccae9869c510fb70f87668ec3948": 1795743245.3060107,
     "efef5bd50b96f7db0ff888eb7e8859566e37c4a2": 1795301614.1508918,
-    "f0b8696c25c4c4a7795d4fd121dacf3e418eeb4a": 1795218382.7049084,
+    "f01224df1f54e40bfb1d85ef3f9fcf72cc5fdc0b": 1795828486.4784975,
     "f11098c507607eb05f5e5a8ca917ca519f0c463b": 1795540183.7915554,
     "f1397973b7c60ba07029664bd686c2b7a3eaabd4": 1795492405.2352884,
     "f1ad342921358c94160ae4cabcdea400df9a7e79": 1795455504.9148793,
@@ -3393,14 +3319,13 @@
     "f265b1eec071c3d32a9b3ca3638e1cd644ab5682": 1795301614.1510208,
     "f38047c316320734c2a161ef866da8eebd9b0a22": 1795455512.5848489,
     "f3a43b39549fdc890f58780435f86226ee6a8123": 1795540190.9068596,
-    "f3d31e5642221177b7956a000bb97b22be58feef": 1795218382.70502,
+    "f3d31e5642221177b7956a000bb97b22be58feef": 1795828486.4785283,
     "f44f10d640ae762a3cc2bcda2683388121e0dd36": 1795625782.6268718,
     "f50b797c968d423ec7d8a1c16deffc2f32ec2cca": 1795492405.2353334,
     "f52a74730bc13a7af74fd63ade58ee0bc5093268": 1795571971.570041,
     "f551d4b4428a649d8a62a4fbcb26f20f0c37b842": 1795271037.5494657,
     "f5eee8a53f92f417c6d6cc2e2d8c4f292803e41f": 1795710881.1239316,
     "f61744a14edae5e8bf204b0ff71a98a0e8ef252d": 1795540184.9093466,
-    "f67114676f5678cecddc1e6a04cb6812426dab80": 1795218382.7050042,
     "f6be75e34064927e9fe7279f2fc86a4ffbd5fc9b": 1795301614.1509533,
     "f6e8b2ad0e789497c9e52ed8aec26ab8fbb2de73": 1795540183.5618367,
     "f714b48247a9be7ff1d570b4bc4a2d4ec4f9fc15": 1795492405.2353075,
